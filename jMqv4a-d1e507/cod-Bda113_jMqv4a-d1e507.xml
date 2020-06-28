@@ -1,0 +1,613 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 7</title>
+      <author ref="#JohnMair">John Mair</author>
+      <respStmt>
+       <name>Jeffrey C. Witt</name>
+       <resp>TEI Encoder</resp>
+      </respStmt>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 7</title>
+       <date when="2020-06-09">June 27, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="B" n="cod-Bda113">Badius 1516</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+     guidelines for a diplomatic edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-06-27" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+      <pb ed="#B" n="94-v"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="jMqv4a-d1e507"> <!-- l4d15q7 -->
+      <head xml:id="jMqv4a-d1e507-Hd1e104">Quaestio 7</head>
+      <head xml:id="jMqv4a-d1e507-Hd1e107" type="question-title">An quilibet teneatur ad eleemosynam faciendam</head>
+      <p xml:id="jMqv4a-d1e507-d1e110">
+       <lb ed="#B" n="97"/>SVperius de vno ope 
+   <lb ed="#B" n="98"/>re satisfactionis mentionem 
+   <lb ed="#B" n="99"/>fecimus scilicet ieiunio. Re 
+   <lb ed="#B" n="100"/>liquum est de eleemosyna
+   lo<lb ed="#B" n="101" break="no"/>qui: circa quam triplicem mo 
+   <lb ed="#B" n="102"/>uere propono quaestionem: vt in  
+   <lb ed="#B" n="103"/>Al processu patebit. Septimo 
+   <lb ed="#B" n="104"/>ergo circa hanc distinctionem quero. An quilibet 
+   <lb ed="#B" n="105"/>teneatur ad eltemosynam faciendam. In hac quaestione 
+   <!--0221.xml-->
+   <pb ed="#B" n="95-r"/>
+       <cb ed="#B" n="a"/>
+       <lb ed="#B" n="1"/>more consueto ponam rationem nominis: postea per 
+   <lb ed="#B" n="2"/>conclusiones ad titulum quaestionis responsurus.
+  </p>
+      <p xml:id="jMqv4a-d1e507-d1e143">
+   ⁋
+   Elee<lb ed="#B" n="3" break="no"/>mosyna sic definitur. Eleemosyna est volitio
+   effi<lb ed="#B" n="4" break="no"/>cax succurrendi putato indigenti ex compassione
+   pro<lb ed="#B" n="5" break="no"/>pter deum. Dicitur (putato indigenti . si enim diues
+   si<lb ed="#B" n="6" break="no"/>mulet se esse pauperem: non impeditur cleemosynae rat 
+   <lb ed="#B" n="7"/>in dante: licet accipiens datum restituere sit obnoxius 
+   <lb ed="#B" n="8"/>si vero detur aliquid cognito diuiti: non est
+   eleemo<lb ed="#B" n="9" break="no"/>syna: sed donatio. Dicitur (ex compassione) quoniam
+   da<lb ed="#B" n="10" break="no"/>tio alicuius non ratione indigentiae hominis, sed obliga 
+   <lb ed="#B" n="11"/>tionis, aut officii, non est ele emosyna: sed est
+   mer<lb ed="#B" n="12" break="no"/>ces vel stipendium debitum ad quod potest ille in foro con 
+   <lb ed="#B" n="13"/>tradictorio cogere. alioquin beneficiatus capiens 
+   <lb ed="#B" n="14"/>fructus beneficii ratione laboris exhibiti diceretur 
+   <lb ed="#B" n="15"/>capere illos ex eleemosyna. Et rex capiens
+   stipen<lb ed="#B" n="16" break="no"/>dia ratione curae quam habet in populo, eleemosyi 
+   <lb ed="#B" n="17"/>nam caperet: quod non est dicendum. solus enim titulus
+   re<lb ed="#B" n="18" break="no"/>cipiendi ratioe necessitatis facit mendicitatem &amp; men 
+   <lb ed="#B" n="19"/>dicantem. Si vero eleemosynam corporalem definire 
+   <lb ed="#B" n="20"/>volueris: ponas in quid nominis ( ad releuandam indi 
+   <lb ed="#B" n="21"/>gentiam corporalem,. De spirituali eleemosyna propor 
+   <lb ed="#B" n="22"/>tionabiliter dicas. Eleemosyna autem interdum apud  
+   <lb ed="#B" n="23"/>vulgus capitur pro re ipsa data. sicut dicimus centum 
+   <lb ed="#B" n="24"/>scuta pulchram eleemosynam datam licentiando in theo 
+   <lb ed="#B" n="25"/>logia. Eleemosynae corporalis species continentur 
+   <lb ed="#B" n="26"/>hoc carmine. Visito / poto / cibo / redimo / tego /
+   col<lb ed="#B" n="27" break="no"/>ligo / condo. Visito infirmum, tego hoc est vestio nu 
+   <lb ed="#B" n="28"/>dum, colligo in hospitium inuito, condo mortuos. 
+   <lb ed="#B" n="29"/>Reliqua sunt lucida: &amp; explicantur Matthaei. xv. 
+   <lb ed="#B" n="30"/>Eleemosynae autem spirituales comprehenduntur hoc
+   car<lb ed="#B" n="31" break="no"/>mine. Consule / castiga / solare / remitte / fer / ora.
+   Con<lb ed="#B" n="32" break="no"/>sule dubitanti. dum enim in dubio est animus: paulo 
+   <lb ed="#B" n="33"/>momento huc atque illuc impellitur: vt dicit Comicus. 
+   <lb ed="#B" n="34"/>propterea consilio eget. Consolare tristem: vt si
+   Sor<lb ed="#B" n="35" break="no"/>tes in licentia theologiae Parisiensis nouissimum locum 
+   <lb ed="#B" n="36"/>adeptus fuerit: ostende ei quonam pacto secludenda 
+   <lb ed="#B" n="37"/>sit tristiti i mediis tibi occurrentibus. vtpote, ita 
+   <lb ed="#B" n="38"/>dominus voluit ne superbires, sicut Paulo datus est
+   sti<lb ed="#B" n="39" break="no"/>mulus carnis. &amp; quis datus est maiori contemptui apud 
+   <lb ed="#B" n="40"/>homines quam Christus &amp; discipuli eius ? contemptum ergo 
+   <lb ed="#B" n="41"/>vulgi aspernare. In super non semper primus in licentia 
+   <lb ed="#B" n="42"/>vel alium praecedens: posteriore inuentus est vtilior in vi 
+   <lb ed="#B" n="43"/>nea domini. Quid n profuit Andreae quod ad apostolatum 
+   <lb ed="#B" n="44"/>ante Petrum vocatus fuerit: quid Paulo obfuit quod 
+   <lb ed="#B" n="45"/>omnium nouissime vocatus est: qui non minus aliquo 
+   <lb ed="#B" n="46"/>aliorum in vinea dei laborauerit? Et si aliquos
+   ma<lb ed="#B" n="47" break="no"/>le locatos habueris: qui multum in politia profuerit: 
+   <lb ed="#B" n="48"/>&amp; alte locatos qui minus eis laborarunt vel profece 
+   <lb ed="#B" n="49"/>runt: hoc insti ad oculum ostende. Vlterius ostende ei 
+   <lb ed="#B" n="50"/>huius vitae instabilitatem &amp; miseriam: &amp; principum
+   in<lb ed="#B" n="51" break="no"/>felicitatem: &amp; solam felicitatem putatam apud vulgus. 
+   <lb ed="#B" n="52"/>explica ei excellentiam patientie &amp; humilitatis: &amp; 
+   <lb ed="#B" n="53"/>instabilitatem dignitatis &amp; praecellentiae humanae: quas 
+   <lb ed="#B" n="54"/>sapientes semper aspernati sunt: sicut maturus 
+   <lb ed="#B" n="55"/>senex non quaerit trochum vel arundinem inter tibia 
+   <!--0221.xml-->
+   <cb ed="#B" n="b"/> 
+       <!-- 95-r b -->
+       <lb ed="#B" n="56"/>pro equo quo in iuuentute vsus est. doce hunc tri 
+   <lb ed="#B" n="57"/>stem debere nolle si posset, hos caecos honores at 
+   <lb ed="#B" n="58"/>tingere: quod si fecerit, speluncam tristitiae euacuabit. 
+   <lb ed="#B" n="59"/>Ferat patienter aliorum susurros &amp; oblocutiones. 
+   <lb ed="#B" n="60"/>Si forte istae acceptiones non omnes species
+   eleemo<lb ed="#B" n="61" break="no"/>synae corporalis aut spiritualis includant:
+   commu<lb ed="#B" n="62" break="no"/>niores tamen acceptiones implicant: nec refert. Et licet 
+   <lb ed="#B" n="63"/>eadem eleemosyna sit corporalis &amp; spiritualis: hoc 
+   <lb ed="#B" n="64"/>est diuersa ratione. spiritualis tamen est semper
+   no<lb ed="#B" n="65" break="no"/>bilior caeteris paribus quam corporalis, sicut anima 
+   <lb ed="#B" n="66"/>corpori praestat. iuxta illud Gregorii in quadam
+   ho<lb ed="#B" n="67" break="no"/>milia. Melius est animam semper victuram verbo vitae 
+   <lb ed="#B" n="68"/>reficere: quam ventrem moriturae carnis terreno pane sa 
+   <lb ed="#B" n="69"/>tiare. Corporales tamen ob poenalitatem possunt esse 
+   <lb ed="#B" n="70"/>magis satisfactoriae. sed hoc non arguit maius me 
+   <lb ed="#B" n="71"/>ritum: vt in secunda quaestione huius distinctionis 
+   <lb ed="#B" n="72"/>iam diximus.
+  </p>
+      <p xml:id="jMqv4a-d1e507-d1e305">
+   ⁋ Secundo scito quod hominum aliqui  
+   <lb ed="#B" n="73"/>habent necessaria solum naturae: scilicet pro sustentatione 
+   <lb ed="#B" n="74"/>vitae: &amp; non pro sustentatione status. Alii habent tam 
+   <lb ed="#B" n="75"/>necessaria pro sustentatione naturae quam status vel
+   per<lb ed="#B" n="76" break="no"/>sonae, vt quando habent quo sustineant se &amp; suos 
+   <lb ed="#B" n="77"/>prout suo statui expedit in politia: &amp; si pauciora 
+   <lb ed="#B" n="78"/>haberent: non haberent pro honestate status. &amp; il 
+   <lb ed="#B" n="79"/>lud non consistit in indiuisibili. Nam secundum men 
+   <lb ed="#B" n="80"/>suram expensi, latitudo medii &amp; status est maior 
+   <lb ed="#B" n="81"/>non enim cognoscitur defectus status regis vel 
+   <lb ed="#B" n="82"/>excessus in centies mille francis. excessus autem 
+   <lb ed="#B" n="83"/>in mercatore aliquo cognosceretur in decies mille 
+   <lb ed="#B" n="84"/>francis: &amp; in aliquo sacerdote in centum ducatis. 
+   <lb ed="#B" n="85"/>Supersluum autem potest opponi sufficientie naturae 
+   <lb ed="#B" n="86"/>&amp; sufficientiae status: &amp; aliquis habet notabiliter super 
+   <lb ed="#B" n="87"/>flua: aliquis non notabiliter. 
+  </p>
+      <p xml:id="jMqv4a-d1e507-d1e340">
+       <lb ed="#B" n="88"/>⁋ lstis notatis pono conclusiones. 
+   <lb ed="#B" n="89"/>Prima est, nec est mihi praeceptum nec consilium dare 
+   <lb ed="#B" n="90"/>eleemosynam pauperi non extreme nec prope
+   ne<lb ed="#B" n="91" break="no"/>cessitatem: de mihi necessariis quo ad statum meum. 
+   <lb ed="#B" n="92"/>De praecepto patebit ex dicendis. de consilio pa 
+   <lb ed="#B" n="93"/>tet: quia peruertitur ordo charitatis. Debeo enim 
+   <lb ed="#B" n="94"/>mihi &amp; familiae meae in primis prouidere. Vnde 
+   <lb ed="#B" n="95"/>Augustini Qui vult filios exhaeredare &amp; ecclesiam in  
+   <lb ed="#B" n="96"/>tituere: alium quaerat pro consilio quam <name xml:id="jMqv4a-d1e507-Nd1e361" ref="#Augustine">Augustinum</name>. Vnde 
+   <lb ed="#B" n="97"/>C. de seruitute &amp; aqua. l praeses. Absurdum est tuis 
+   <lb ed="#B" n="98"/>agris sitientibus alios irrigare. Et hoc intelligo
+   cae<lb ed="#B" n="99" break="no"/>teris paribus. Si enim non essem reipublicae
+   necessa<lb ed="#B" n="100" break="no"/>rius: &amp; Sortes esset illi pernecessarius: debeo ei suc 
+   <lb ed="#B" n="101"/>currere me neglecto: quemadmodum debeo pati 
+   <lb ed="#B" n="102"/>mortem pro defensione vitae illius. Propterea li 
+   <lb ed="#B" n="103"/>cite Helias petiuit subcinericium panem sibi
+   pri<lb ed="#B" n="104" break="no"/>mo fieri debere: &amp; postea viduae &amp; eius filio: quis 
+   <lb ed="#B" n="105"/>tres maxime fame laborarent. nimirum erat ipse 
+   <lb ed="#B" n="106"/>iuriga &amp; dux Israel: vt dixit Heliseus. Praeterea 
+   <lb ed="#B" n="107"/>probatur eadem conclusio: nemo debet se reddere 
+   <lb ed="#B" n="108"/>impotentem ad exercenda ea ad quae tenetur se 
+   <lb ed="#B" n="109"/>cundum suum statum extra casum extremae neces- 
+   <!--0222.xml-->
+   <pb ed="#B" n="95-v"/>
+       <cb ed="#B" n="a"/>
+       <lb ed="#B" n="1"/>sitatis vel vicinae suae vel suorum. 
+  </p>
+      <p xml:id="jMqv4a-d1e507-d1e402">
+       <lb ed="#B" n="2"/>⁋ Contra hanc conclusionem arguitur. 
+   <lb ed="#B" n="3"/>ex ea sequitur quod rex non possit dare eleemosynam 
+   <lb ed="#B" n="4"/>ei qui haberet solum necessaria pro suo statu.
+   cose<lb ed="#B" n="5" break="no"/>ques est inconveniens: multa enim dat militi libera 
+   <lb ed="#B" n="6"/>dono.
+  </p>
+      <p xml:id="jMqv4a-d1e507-d1e415">
+   ⁋ Respondetur negando sequelam. &amp; negatio 
+   <lb ed="#B" n="7"/>nis ratio est: cu enim latitudo sufficientiae regalis ster 
+   <lb ed="#B" n="8"/>in magna summa pecuniae: adhuc dando manet 
+   <lb ed="#B" n="9"/>latitudo sufficientiae. Declaratur exemplariter: nam in 
+   <lb ed="#B" n="10"/>centies mille nummis aureis, dando de his omnibus in 
+   <lb ed="#B" n="11"/>eleemosyna siue liberali dono, semper stat sufficii 
+   <lb ed="#B" n="12"/>tia status eius: sicut quando emitur magnum domi 
+   <lb ed="#B" n="13"/>nium terrae: latitudo iusti praecii in qua est iustum praecium, 
+   <lb ed="#B" n="14"/>magni momenti: sic vt non posset in. iiii. mille Dua 
+   <lb ed="#B" n="15"/>catis cognosci deceptio: &amp; tamen in re modica in
+   so<lb ed="#B" n="16" break="no"/>lo denario potest cognosci deceptio.
+  </p>
+      <p xml:id="jMqv4a-d1e507-d1e439">
+   ⁋ Secundo
+   ar<lb ed="#B" n="17" break="no"/>guitur. Potest rex omnia qua habet dare pauperibus 
+   <lb ed="#B" n="18"/>iuxta illud Matthaei. xix. Vade / vende omnia quae ha 
+   <lb ed="#B" n="19"/>bes / &amp; da pauperibus.
+  </p>
+      <p xml:id="jMqv4a-d1e507-d1e448">
+   ⁋ Respondetur. quando ita 
+   <lb ed="#B" n="20"/>foret, nihil contra conclusionem: quia status regius 
+   <lb ed="#B" n="21"/>mutaretur: nec haberet amplius colligere pecuniam ar 
+   <lb ed="#B" n="22"/>tuitione reipublicae. Secundo stat quod rex male age 
+   <lb ed="#B" n="23"/>ret dando omnia pauperibus. dictum autem allatun 
+   <lb ed="#B" n="24"/>est praeceptum secundum prparationem animi: vt homo sit 
+   <lb ed="#B" n="25"/>paratus ita facere pro loco &amp; tempore, superslua 
+   <lb ed="#B" n="26"/>pauperibus dando.  
+  </p>
+      <p xml:id="jMqv4a-d1e507-d1e467">
+       <lb ed="#B" n="27"/>⁋ Secunda conclusio. Quilibet non
+   ex<lb ed="#B" n="28" break="no"/>treme pauper tenetur sub poena peccati dare eles 
+   <lb ed="#B" n="29"/>mosynam extreme pauperi. Probatur conclusio per 
+   <lb ed="#B" n="30"/>Ambrosium li. de offi. Pasce fame morientem: quis 
+   <lb ed="#B" n="31"/>quis enim pascendo hominem seruare poteris, si non 
+   <lb ed="#B" n="32"/>paueris, fame occidisti. Et citatur. lxxxvi. dist. c. 
+   <lb ed="#B" n="33"/>Pasce. Praeterea quilibet tenetur suum proximum
+   ser<lb ed="#B" n="34" break="no"/>uare a morte vbi hoc potest: seruando propriam vitam 
+   <lb ed="#B" n="35"/>si enim non pauisti, occidisti. sed sic est in proposito 
+   <lb ed="#B" n="36"/>Tertio probatur. Qui non extrahit vel extrahere
+   co<lb ed="#B" n="37" break="no"/>adiuuat equum vicini sui in puteo iacentem, sed per 
+   <lb ed="#B" n="38"/>mittit eum illic mori, mortaliter peccat. ergo a for 
+   <lb ed="#B" n="39"/>tiori in proposito. Propterea beatus Martinus hone 
+   <lb ed="#B" n="40"/>state militari neglecta chlamydem pauperi partitus 
+   <lb ed="#B" n="41"/>est in porta Ambianorum: quem extreme indigere 
+   <lb ed="#B" n="42"/>censebat. secundum carmina. Martinus chlamydem cum 
+   <lb ed="#B" n="43"/>paupere dimidiauit: Vt faciamus idem nobis exem 
+   <lb ed="#B" n="44"/>plificauit. Praeterea: in extrema necessitate homo 
+   <lb ed="#B" n="45"/>potest capere vndecumque quia iam omnia sunt ei ci 
+   <lb ed="#B" n="46"/>munia. de consecratione dist. v. Discipulos. xlii. di. 
+   <lb ed="#B" n="47"/>ca. i. Et debuit credere dominum id permissurum. 
+   <lb ed="#B" n="48"/>Insti. de obli. quae ex delicto nascuntur. &amp;. si liciti 
+   <lb ed="#B" n="49"/>est extreme pat: peri vbilibet capere pro sua in  
+   <lb ed="#B" n="50"/>opia releuanda: dominus tenetur ei succurrere in dando:  
+   <lb ed="#B" n="51"/>ergo conclusio vera. 
+  </p>
+      <p xml:id="jMqv4a-d1e507-d1e524">
+       <lb ed="#B" n="52"/>⁋ Tertia conclusio. Praeceptum est 
+   <lb ed="#B" n="53"/>tibi dare eleemosynam ei qui verosimiliter est in 
+   <!--0222.xml-->
+   <cb ed="#B" n="b"/> 
+       <!-- 95-v b -->
+       <lb ed="#B" n="54"/>extremam necessitatem casurus, nisi ei succurras: vel 
+   <lb ed="#B" n="55"/>est in tali calamitate positus vt defectu cibi anxie 
+   <lb ed="#B" n="56"/>vitam sit acturus: nisi ignorantia inuincibilis te
+   ex<lb ed="#B" n="57" break="no"/>cuset. Prior pars huius conclusionis patet. quia si ta 
+   <lb ed="#B" n="58"/>li non succurratur protinus in extremam necessitatem ca 
+   <lb ed="#B" n="59"/>det: a qua non poterit resurgere. si non des ei eleemo 
+   <lb ed="#B" n="60"/>synam ante extremam necessit atem actualem: redibit 
+   <lb ed="#B" n="61"/>fabula Aesopi inter manus &amp; pedes: &amp; ventremi 
+   <lb ed="#B" n="62"/>Incusant auidi pes &amp; manus ocia ventris. Omnia 
+   <lb ed="#B" n="63"/>solus habes lucra, labore carens, &amp; quae sequuntur. 
+   <lb ed="#B" n="64"/>Et cum ventrem auare in extremam necessitatem labi per 
+   <lb ed="#B" n="65"/>misissent, aegre ipsum releuare potuerunt. sic in proposi 
+   <lb ed="#B" n="66"/>to. Secundo arguitur ad idem. Ille est extreme pauper iam 
+   <lb ed="#B" n="67"/>actu in sua causa. ergo eodem modo iudicandum est de eo 
+   <lb ed="#B" n="68"/>ac si in effectu esset extreme pauper. Tertio proba 
+   <lb ed="#B" n="69"/>tur idem: quia teneor dare Sorti cibum in itinere logo  
+   <lb ed="#B" n="70"/>quod transire habet octo diebus sequentibus: vt in deser 
+   <lb ed="#B" n="71"/>to Arabiae si non habeat pecunia: vel eum reuocare 
+   <lb ed="#B" n="72"/>ab itinere: si nullus alius ad succurrendum inueniatur. 
+  </p>
+      <p xml:id="jMqv4a-d1e507-d1e579">
+       <lb ed="#B" n="73"/>⁋ Secunda pars istius conclusionis est, quod anxie viam
+   per<lb ed="#B" n="74" break="no"/>aget: nisi ei succurras: licet aliqui doctores in hac 
+   <lb ed="#B" n="75"/>te contradicere videantur: aliquibus dicentibus quod nemo 
+   <lb ed="#B" n="76"/>tenetur dare eleemosynam: nisi extreme pauperi. 
+   <lb ed="#B" n="77"/>aliis asserentibus, immo de praecepto esse dare
+   eleemo<lb ed="#B" n="78" break="no"/>synam non extreme pauperi. Sed potest vnus vocare 
+   <lb ed="#B" n="79"/>aliquem extreme pauperem, quem alter non vocaret sic: 
+   <lb ed="#B" n="80"/>vt sit disputatio verbalis: a qua semper abstinere, 
+   <lb ed="#B" n="81"/>quantum possum, elaborabo. Propterea propius acce 
+   <lb ed="#B" n="82"/>dendo: quid dicere velim: paucis aperiam. &amp; quia ista 
+   <lb ed="#B" n="83"/>crebro occurrunt: more canonistarum loqundo, sic
+   fi<lb ed="#B" n="84" break="no"/>guratur casus. Titius vicinus meus quodam honestui 
+   <lb ed="#B" n="85"/>in inopiam magnam incidit, siue ex culpa sua, siue si 
+   <lb ed="#B" n="86"/>ne culpa: ad eleemo synam dandam nihil refert: licet 
+   <lb ed="#B" n="87"/>magis inclinemur dare his qui sine culpa in hanc ca 
+   <lb ed="#B" n="88"/>lamitatem inciderunt. mendicare erubescit ne rubore 
+   <lb ed="#B" n="89"/>suffundatur: attenuatur in corpore: &amp; hoc iudico ex 
+   <lb ed="#B" n="90"/>defectu cibi &amp; potus: video eum macilentum &amp;
+   sub<lb ed="#B" n="91" break="no"/>tristem: ita vt vita eius notabiliter abbreuietur defectu 
+   <lb ed="#B" n="92"/>cibi, nisi ei succurratur. neminem alium a me video 
+   <lb ed="#B" n="93"/>hoc considerantem: sum ei vicinior: vel casum melius 
+   <lb ed="#B" n="94"/>aliis deprehendo: vel video vicinos hoc apprehenden 
+   <lb ed="#B" n="95"/>tes me opulentiores non charitatiuos: &amp; habeo super 
+   <lb ed="#B" n="96"/>flua pro natura: &amp; forte superflua pro statu meo. quaestio 
+   <lb ed="#B" n="97"/>est an sub poena peccati debeam isti succurrere. 
+   <lb ed="#B" n="98"/>Secunds casus esto. Magna est caritas in patria mea: 
+   <lb ed="#B" n="99"/>vt in hoc anno praesenti est in lingua Hoccitana in vrbe 
+   <lb ed="#B" n="100"/>Lemonicensi, ita vt plerique pauperes fame
+   mo<lb ed="#B" n="101" break="no"/>riantur. habeo superflua naturae mihi &amp; familiae meae 
+   <lb ed="#B" n="102"/>quo ad nostras substantias coseruandas. venit So 
+   <lb ed="#B" n="103"/>tes mendicus in cuius facie legitur casus calamitosus 
+   <lb ed="#B" n="104"/>penuriae quam patitur defectu cibi. video multos me 
+   <lb ed="#B" n="105"/>os vicinos non charitatiuos: vel non tantum in opibus ha 
+   <lb ed="#B" n="106"/>bentes quantum ego: cum hoc iudico quod iste Sortes
+   pro<lb ed="#B" n="107" break="no"/>babiliter viuet quousque granum nouum habeatur colle 
+   <lb ed="#B" n="108"/>ctum in horreo: sed cum gradi penuria: &amp; iam magnam fa 
+   <!--0223.xml-->
+   <pb ed="#B" n="96-r"/>
+       <cb ed="#B" n="a"/>
+       <lb ed="#B" n="1"/>men patitur: in cuius ore offa holetum, vel panis 
+   <lb ed="#B" n="2"/>hordeaceus, vel fa barum esset dulcior quam perdix in 
+   <lb ed="#B" n="3"/>ore abbatis. Quaestio est, an teneor illi sub poena 
+   <lb ed="#B" n="4"/>peccati succurrere stantibus his iudiciis in
+   intelle<lb ed="#B" n="5" break="no"/>ctu. Respondetur affirmatiue. probatur ex verbis 
+   <lb ed="#B" n="6"/>Christi. Matth. xxv. Esuriui / &amp; non dedistis mihi 
+   <lb ed="#B" n="7"/>manducare. sitiui / &amp; non dedistis mihi potum. hospes 
+   <lb ed="#B" n="8"/>eram / &amp; non collegistis me. nudus / &amp; no cooperuistis 
+   <lb ed="#B" n="9"/>me. Infirmus &amp; in carcere / &amp; non visitastis me: &amp; 
+   <lb ed="#B" n="10"/>postea infertur. lte maledicti in ignem aeternum.
+   Pro<lb ed="#B" n="11" break="no"/>pterea diues epulo qui non dedit micas panis
+   La<lb ed="#B" n="12" break="no"/>zaro, sepultus est in infemo. Lucae. xvi. Accede 
+   <lb ed="#B" n="13"/>tertius testis o beate Ioannes Euangelista. dic ad hos 
+   <lb ed="#B" n="14"/>duos casus quid sentis ? ait beatus Ioannes. Quid 
+   <lb ed="#B" n="15"/>me interrogas: nonne legisti primae epistolae Cano 
+   <lb ed="#B" n="16"/>nicae cap. iii. Qui habuerit substam tiam huius mundi: &amp; 
+   <lb ed="#B" n="17"/>viderit fratrem suum necesse habere: &amp; clauserit
+   vi<lb ed="#B" n="18" break="no"/>scera sua ab eo: quo modo cha ritas dei manetin eo?s 
+   <lb ed="#B" n="19"/>quasi dicat: mihi inopinabile est quod charitas dei 
+   <lb ed="#B" n="20"/>maneat in illo. Non ctedo Ari stotelem aliter fuisse 
+   <lb ed="#B" n="21"/>dicturum. 
+  </p>
+      <p xml:id="jMqv4a-d1e507-d1e712">
+       <lb ed="#B" n="22"/>⁋ Contra secundam conclusionem
+   ar<lb ed="#B" n="23" break="no"/>gumentor. quando do Sorti extreme pauperi duc 
+   <lb ed="#B" n="24"/>denum: do ei quod suum est: &amp; teneor ei dare. ergo non 
+   <lb ed="#B" n="25"/>facio eleemosynam. tenet consequintia. quia
+   eleemo<lb ed="#B" n="26" break="no"/>syna est opus misericordiae: &amp; non praecepti.
+  </p>
+      <p xml:id="jMqv4a-d1e507-d1e725">
+   ⁋ Respon 
+   <lb ed="#B" n="27"/>detur negando quod dem ei quod suum est. immo est solum 
+   <lb ed="#B" n="28"/>ei deb. tum: &amp; pecco mortaliter non dando: sed non can 
+   <lb ed="#B" n="29"/>do, dominium manet penes me, nec teneor illud haered 
+   <lb ed="#B" n="30"/>bus illius extreme pauperis post suam mortem dare. 
+   <lb ed="#B" n="31"/>vlterius illa consequintia est nulla. teneor ei
+   eleemo<lb ed="#B" n="32" break="no"/>synam dare: ergo no est opus misericordiae: immo ma 
+   <lb ed="#B" n="33"/>gnae misericordiae. aliquod enim opus misericordiae es 
+   <lb ed="#B" n="34"/>opus liberalitatis: &amp; aliquod opus misericordiae est 
+   <lb ed="#B" n="35"/>opus iustitiae, vt cuilibet intelligenti liquet. &amp; amplius 
+   <lb ed="#B" n="36"/>hoc patet per glos. interlinearem. Matthaei. vi. super illo 
+   <lb ed="#B" n="37"/>verbo: Cum ergo facis eleemosynam, quae dicit.
+   Elee<lb ed="#B" n="38" break="no"/>mosyna est pars iustitiae.
+  </p>
+      <p xml:id="jMqv4a-d1e507-d1e754">
+   ⁋ Secundo arguitur. Aliqui dicunt 
+   <lb ed="#B" n="39"/>se extreme pauperes, &amp; tamen non dando eis eleemosi 
+   <lb ed="#B" n="40"/>nam non pecco: ergo conclusio falsa. Respondetur conce 
+   <lb ed="#B" n="41"/>dendo totum antecedens: &amp; negando consequentiam, nec est 
+   <lb ed="#B" n="42"/>contra conclusionem. Non est idem Platonem dicere se ex 
+   <lb ed="#B" n="43"/>treme indigentem: &amp; esse extreme indigentem. nam quando 
+   <lb ed="#B" n="44"/>nulli fame moriuntur: nec est inconsueta notabilis 
+   <lb ed="#B" n="45"/>caritas in regione aliqua: non tene or credere hoc 
+   <lb ed="#B" n="46"/>dicenti, &amp; potissimum assueto mendicare. lam enim ha 
+   <lb ed="#B" n="47"/>bet frontem attritam petendo: &amp; vocibus inexplebilibus 
+   <lb ed="#B" n="48"/>aerem implet. praesumendum est quod vulgus flectere &amp; 
+   <lb ed="#B" n="49"/>circunuenire nouit ad eleemosynam etiam superfluam 
+   <lb ed="#B" n="50"/>habendam. Oculatus autem vir &amp; prudens debet
+   stu<lb ed="#B" n="51" break="no"/>dere potius succurrere egentibus mendicare nesciis: 
+   <lb ed="#B" n="52"/>quatenus illorum necessitati succurrat: &amp; eos a tal 
+   <lb ed="#B" n="53"/>turpi quaestu in ocio mendicandi vbi non debent,
+   arce<lb ed="#B" n="54" break="no"/>re aut perseruare, necessitas tamen non habet legem: quare 
+   <!--0223.xml-->
+   <cb ed="#B" n="b"/> 
+       <!-- 96-r b -->
+       <lb ed="#B" n="55"/>aliquibus impotentibus necessarium e st mendicare. 
+  </p>
+      <p xml:id="jMqv4a-d1e507-d1e801">
+       <lb ed="#B" n="56"/>⁋ Tertio arguitur. Si dare eleemosynam esset praeceptum 
+   <lb ed="#B" n="57"/>cum non sit negatiuum vt constat, oportet quod sit
+   affir<lb ed="#B" n="58" break="no"/>matiuum: &amp; reducatur ad vnum decem praeceptorum 
+   <lb ed="#B" n="59"/>decalogi. sed hoc non: vt patet tam per praecepta prime 
+   <lb ed="#B" n="60"/>tabulae qui secundae. Hoc argumentum feci non tamquam
+   dif<lb ed="#B" n="61" break="no"/>ficultate habens: sed quia Middiltonus &amp; aliqui alii 
+   <lb ed="#B" n="62"/>frustra in hoc insistunt dae reductione omnium praecepto 
+   <lb ed="#B" n="63"/>rum in decem praecepta decalogi.
+  </p>
+      <p xml:id="jMqv4a-d1e507-d1e821">
+   ⁋ Propterea respondetur 
+   <lb ed="#B" n="64"/>concedendo quod est praeceptum affirmatiuum solum pro loco 
+   <lb ed="#B" n="65"/>&amp; tempore obligans: &amp; cu constat de aliquo extreme 
+   <lb ed="#B" n="66"/>paupere: iam est locus &amp; tempus: non solum si habeam bo 
+   <lb ed="#B" n="67"/>na superflua: sed etiam sufficientia pro natura mea &amp; 
+   <lb ed="#B" n="68"/>meorum sustentanda, nec oportet more multorum
+   in<lb ed="#B" n="69" break="no"/>aniter se fatigare ad reducenda caetera praecepta ad prae 
+   <lb ed="#B" n="70"/>cepta decalogi. multa enim sunt alia praecepta ad illa 
+   <lb ed="#B" n="71"/>decem non reducibilia: licet pro argumento in proposito 
+   <lb ed="#B" n="72"/>non oporteat ita dicere, quia dico quod redueit ad illud 
+   <lb ed="#B" n="73"/>praeceptum secundae tabulae de non occidendo. nam. lxxxvi. 
+   <lb ed="#B" n="74"/>dist. ca. Pasce, scribitur. Quisquis pascendo hominem 
+   <lb ed="#B" n="75"/>seruare poteris si non paueris, fame occidisti. vt in 
+   <lb ed="#B" n="76"/>conclusione quam oppugnamus, allegatum est. 
+  </p>
+      <p xml:id="jMqv4a-d1e507-d1e852">
+       <lb ed="#B" n="77"/>⁋ Contra tertiam conclusionem argumen 
+   <lb ed="#B" n="78"/>tabor quo ad secundam partem: quia de prima parte idem 
+   <lb ed="#B" n="79"/>est acni eset iam extrema necessitas, nemo debet 
+   <lb ed="#B" n="80"/>dicere aliquam transgeressionem esse peccatum de qua 
+   <lb ed="#B" n="81"/>non constat auctoritate scripturae vel ratione quod sii 
+   <lb ed="#B" n="82"/>peccatu. sed hoc non est ostensum in proposito. Se 
+   <lb ed="#B" n="83"/>cundo ex hac via innumeri pauperibus non
+   suc<lb ed="#B" n="84" break="no"/>currentes damnatentur: quod non videtur dicendum. Istae 
+   <lb ed="#B" n="85"/>duae rationes sunt <name xml:id="jMqv4a-d1e507-Nd1e873">Gabrielis</name> istius: contemporanei no 
+   <lb ed="#B" n="86"/>stri.
+  </p>
+      <p xml:id="jMqv4a-d1e507-d1e879">
+   ⁋ Respondetur, minor est falsa: vt patet ex pro 
+   <lb ed="#B" n="87"/>batione conclusionis. Ad secundum dico, non est
+   du<lb ed="#B" n="88" break="no"/>bium quin multi auari diuites damnentur, non
+   so<lb ed="#B" n="89" break="no"/>lum pauperes opprimentes: sed no succurrentes
+   fra<lb ed="#B" n="90" break="no"/>tribus suis. Secundo dico. non tot quot ipse putat. 
+   <lb ed="#B" n="91"/>nam adieci circumstantias varias: &amp; separaui cofusio 
+   <lb ed="#B" n="92"/>nem: vt punctum difficultatis attingere, nec credo quod 
+   <lb ed="#B" n="93"/>doctores quos pro se allegat, aliter in radice senti 
+   <lb ed="#B" n="94"/>rent quam in illa conclusione dicebam. sed quicquid ipse 
+   <lb ed="#B" n="95"/>vel alii opinati sint: mea non refert. credo conclusio 
+   <lb ed="#B" n="96"/>nem esse veram: &amp; stantibus his quae ponebam, iudicarem me 
+   <lb ed="#B" n="97"/>ipsum multum delinquere si no succurrerem. Talis tamen 
+   <lb ed="#B" n="98"/>vir non tantum peccat huic non succurrendo: quatu si 
+   <lb ed="#B" n="99"/>constaret quod pauper esset in extrema necessitate, 
+   <lb ed="#B" n="100"/>quia tunc agitur de vita viri subito protegenda. 
+   <lb ed="#B" n="101"/>hic autem de ea conseruanda in notabiliori
+   tem<lb ed="#B" n="102" break="no"/>pore.
+  </p>
+      <p xml:id="jMqv4a-d1e507-d1e916">
+   ⁋ Tertio arguitur. ex illa parte conclusionis 
+   <lb ed="#B" n="103"/>sequitur quod si sciam vicinum meum inopia constrictum 
+   <lb ed="#B" n="104"/>sic vt paret se ad perpetranda varia scelera, videli 
+   <lb ed="#B" n="105"/>cet ad spoliandos viatores &amp; ad eos occidendos, 
+   <lb ed="#B" n="106"/>vel ad furtum vt suae inopiae succurrat: ei non succur 
+   <lb ed="#B" n="107"/>rendo peccarem. consequins videtur durum: quia sic diuitiis 
+   <lb ed="#B" n="108"/>teneremur euocare malefactores a spoliis suis. 
+   <!--0224.xml-->
+   <pb ed="#B" n="96-v"/>
+       <cb ed="#B" n="a"/>
+      </p>
+      <p xml:id="jMqv4a-d1e507-d1e938">
+       <lb ed="#B" n="1"/>⁋ Respondetur concedendo illatum. si enim non dem bona 
+   <lb ed="#B" n="2"/>fortunae meae vt succurram vicino meo quatenus 
+   <lb ed="#B" n="3"/>illum a peccato praeseruem: peruerto ordinem charitatis 
+   <lb ed="#B" n="4"/>&amp; hoc si iudicem eum sola inopia ad hoc inductum &amp; 
+   <lb ed="#B" n="5"/>reducibilem a malo per hoc quod illi suffragor: &amp; pauci 
+   <lb ed="#B" n="6"/>tate contentum fore. Hinc <name xml:id="jMqv4a-d1e507-Nd1e953">beatus Nicolaus</name> vt
+   conser<lb ed="#B" n="7" break="no"/>uaret filias tres vicini sui a prostibulo: dedit eis 
+   <lb ed="#B" n="8"/>dotes. visa enim aliorum negligentia ad non succurrem 
+   <lb ed="#B" n="9"/>dum eis suis opibus: ad hoc tenebatur: licet non ad 
+   <lb ed="#B" n="10"/>tantam molem pecuniae dandam filiabus. Quod fortius 
+   <lb ed="#B" n="11"/>est, beatus Vitalis pater Geruasii &amp; Prothasii vt 
+   <lb ed="#B" n="12"/>vrsinum iam ad martyrium vocatum conseruaret in
+   fi<lb ed="#B" n="13" break="no"/>de: vt non negaret Christum in agone: exposuit 
+   <lb ed="#B" n="14"/>propriam vitam discrimini: &amp; occisus est. Redeundo 
+   <lb ed="#B" n="15"/>ad argumentum: potius quam rapiat &amp; spoliet transeun 
+   <lb ed="#B" n="16"/>tes: debeo ei dare de meo: quatenus desistat, &amp; etiam 
+   <lb ed="#B" n="17"/>ne furetur. Et licet sit apparentia in oppositum quod 
+   <lb ed="#B" n="18"/>non furetur: sed capiat sibi debitum &amp; licite faciat 
+   <lb ed="#B" n="19"/>adhuc illd non sufficit, licet ita sit: sed non occidetur a 
+   <lb ed="#B" n="20"/>prudente iudice si capiat solum pro releuanda inopia: 
+   <lb ed="#B" n="21"/>tamen aperitur ei via perpetrandi mala: &amp; plura
+   ca<lb ed="#B" n="22" break="no"/>piendi quam oporteat: &amp; ascensus datur ad rapinam &amp; 
+   <lb ed="#B" n="23"/>homicidium: &amp; ad infamiam &amp; tandem ad periculum oc 
+   <lb ed="#B" n="24"/>cisionis.
+  </p>
+      <p xml:id="jMqv4a-d1e507-d1e997">
+   ⁋ Ecce quid est Eleemosyna: quae est prae 
+   <lb ed="#B" n="25"/>ceptum affirmatiuum pro loco &amp; tempore obligans 
+   <lb ed="#B" n="26"/>ad dandum pauperi in extrema necessitate
+   consti<lb ed="#B" n="27" break="no"/>tuto: siue defectu cibi, siue potus, vestium, hospiti 
+   <lb ed="#B" n="28"/>medicinae, &amp; similium hoc eueniat. Amplius dix 
+   <lb ed="#B" n="29"/>idem esse: quando si non succurratur viro: in extreman 
+   <lb ed="#B" n="30"/>labetur inopiam. Rursus dixi, non solum dandam esse 
+   <lb ed="#B" n="31"/>eleemosyna in extrema necessitate: sed quando est 
+   <lb ed="#B" n="32"/>in arcta &amp; magna penuria citra extrema
+   necessi<lb ed="#B" n="33" break="no"/>tatem. hoc ex industria prolixius exemplariter de 
+   <lb ed="#B" n="34"/>claraui. &amp; illud puto esse verum quando homo
+   ha<lb ed="#B" n="35" break="no"/>bet superflua naturae suae &amp; suorum quos alere habet 
+   <lb ed="#B" n="36"/>nec ob dationem eleemosynae est vero simile quod ips 
+   <lb ed="#B" n="37"/>vel sui in similem necessitate incident. ergo a fortio 
+   <lb ed="#B" n="38"/>ri qui habet superflua naturae &amp; status, tenetur talibus 
+   <lb ed="#B" n="39"/>extreme indigentibus succurrere. nam illud est di 
+   <lb ed="#B" n="40"/>lege naturae a Christo in euangelio tactum Matthaei 
+   <lb ed="#B" n="41"/>vii. Hoc fac aliis quod tibi fieri vis.
+  </p>
+      <p xml:id="jMqv4a-d1e507-d1e1036">
+   ⁋ Citra hanc no 
+   <lb ed="#B" n="42"/>tabilem necessitatem reor non esse praeceptum
+   da<lb ed="#B" n="43" break="no"/>re eleemosynam: sed interdum consilium:
+   inter<lb ed="#B" n="44" break="no"/>dum vero non 
+  </p>
+      <p xml:id="jMqv4a-d1e507-d1e1045">
+       <lb ed="#B" n="45"/>⁋ Vt autem clare videas quae dixi &amp; 
+   <lb ed="#B" n="46"/>dicere velim: pono propositiones sequentes. Prima 
+   <lb ed="#B" n="47"/>est. Praeceptum est dare existenti in extrema necess 
+   <lb ed="#B" n="48"/>tate tantum eleemosynae quantum sufficit eum releuare: 
+   <lb ed="#B" n="49"/>vel saltem dare ei mutuo. &amp; si est vero simile quod non 
+   <lb ed="#B" n="50"/>erit soluendo: debeo ei absolute dare: vel si est cibus 
+   <lb ed="#B" n="51"/>vel res modici momenti non debeo expectare so 
+   <lb ed="#B" n="52"/>lutionem.
+  </p>
+      <p xml:id="jMqv4a-d1e507-d1e1065">
+   ⁋ Secunda propositio. Praeceptum est dare ill 
+   <lb ed="#B" n="53"/>qui non est in extrema necessitate eleemosynam: 
+   <lb ed="#B" n="54"/>qui vero similiter protinus labetur in extremam 
+   <!--0224.xml-->
+   <cb ed="#B" n="b"/> 
+       <!-- 96-v b -->
+       <lb ed="#B" n="55"/>necessitatem nisi detur ei eleemosyna.
+  </p>
+      <p xml:id="jMqv4a-d1e507-d1e1081">
+   ⁋ Tertia 
+   <lb ed="#B" n="56"/>propositio quam opinor veram (dicant alii vt
+   volue<lb ed="#B" n="57" break="no"/>rint) praeceptum est dare eleemosynam illi qui est in  
+   <lb ed="#B" n="58"/>notabili &amp; magna necessitate citra extremam ne 
+   <lb ed="#B" n="59"/>cessitatem nisi ignorantia inuincibilis excuset. Teti 
+   <lb ed="#B" n="60"/>gi exempla duo in probatione illius partis
+   conclusio<lb ed="#B" n="61" break="no"/>nis, nec tot propterea laici damnantur vt alii putant. 
+   <lb ed="#B" n="62"/>non enim existimo vllum prudentem laicum nolle
+   ma<lb ed="#B" n="63" break="no"/>nus adiutrices. porrigere sic egenti: cum multi eorum 
+   <lb ed="#B" n="64"/>dent aliis quibus danda est eleemosyna solum de con 
+   <lb ed="#B" n="65"/>silio. Et comestio apostolorum spicas euellentium 
+   <lb ed="#B" n="66"/>hoc confirmat: qui non erant in extrema necessitate: 
+   <lb ed="#B" n="67"/>sed bene vt opinor, in notabili inedia. Etiam de
+   lai<lb ed="#B" n="68" break="no"/>cis loquutus sum: quia beneficiatorum superflua 
+   <lb ed="#B" n="69"/>danda sunt pauperibus: quamuis non sint in necessita 
+   <lb ed="#B" n="70"/>te de qua loquuti sumus in tertia conclusione. Hinc 
+   <lb ed="#B" n="71"/>distin. lxxxvi. ca. Fratrem nostrum. dicitur de quodam 
+   <lb ed="#B" n="72"/>episcopo. Largam manum habeat: necessitatem
+   patien<lb ed="#B" n="73" break="no"/>tibus occurrat: alienam inopiam suam credat: quia si 
+   <lb ed="#B" n="74"/>hoc non habet vacuum nomen episcopi tenet. In
+   ca<lb ed="#B" n="75" break="no"/>su autem dubio quando pauper est in magna &amp;
+   vr<lb ed="#B" n="76" break="no"/>gente necessitate, ob securitatem detur ei de
+   super<lb ed="#B" n="77" break="no"/>fluo, non dare enim potest esse peccatum: sed nullo 
+   <lb ed="#B" n="78"/>modo dare est peccatum. tutior autem via est in mate 
+   <lb ed="#B" n="79"/>tia morum tenenda. Et si fueris inter multos diuites 
+   <lb ed="#B" n="80"/>consule eis saltem in portione aliqua succurrere
+   ex<lb ed="#B" n="81" break="no"/>treme pauperi. quod si agere noluerint: teneris in so 
+   <lb ed="#B" n="82"/>lidum ei succurrere. queadmodum si Sortes velit 
+   <lb ed="#B" n="83"/>Platonem occidere quem quatuor astantes possunt. 
+   <lb ed="#B" n="84"/>&amp; debent seruare non occisum: si alii non succurrant: 
+   <lb ed="#B" n="85"/>tu succurrere teneris si potes sine vite
+   apparentis<lb ed="#B" n="86" break="no"/>simo periculo. Vlterius dico potius eleemosynam 
+   <lb ed="#B" n="87"/>dandam esse pauperi vicino honeste viuenti non 
+   <lb ed="#B" n="88"/>mendicanti oi faciemn attritam habenti iam in mendicita 
+   <lb ed="#B" n="89"/>te, quem si videas panem habentem in mantica: censeas 
+   <lb ed="#B" n="90"/>non esse in extrema necessitate. In super interdum
+   te<lb ed="#B" n="91" break="no"/>neris inquirere de aliquo probo viro morbo
+   la<lb ed="#B" n="92" break="no"/>borante: an habeat necessaria vitae: qui fortasse
+   la<lb ed="#B" n="93" break="no"/>borauit in vinea domini vtiliter &amp; laborabit adhuc si 
+   <lb ed="#B" n="94"/>sibi succurratur. qui forte fuit negligens in accumu 
+   <lb ed="#B" n="95"/>landis bonis fortunae, vel (vt rectius loquar) pru 
+   <lb ed="#B" n="96"/>dens in non congregandis opibus: sed applicuit se 
+   <lb ed="#B" n="97"/>studio: exhortans ad virtutes alios: confidens in
+   do<lb ed="#B" n="98" break="no"/>mino, &amp; in bonis, vt sibi in necessitate
+   succurre<lb ed="#B" n="99" break="no"/>rent. Et aeque aut potius seculari quam religioso sub 
+   <lb ed="#B" n="100"/>uenire debes: quia religiosi habent confratres qui 
+   <lb ed="#B" n="101"/>pro laborante morbo prouisionem faciunt. iste autem 
+   <lb ed="#B" n="102"/>erubescit mediate vel immediate petere.
+   Praeter<lb ed="#B" n="103" break="no"/>ea si tibi diuiti fuerit vicinus calcifex, faber aliquis 
+   <lb ed="#B" n="104"/>vel alius artifex: ob debitum creditori non potens 
+   <lb ed="#B" n="105"/>satisfacere: &amp; rigidus creditor per manus iustitiae 
+   <lb ed="#B" n="106"/>instrumenta artificii auferat: vt laborare nequeat: 
+   <lb ed="#B" n="107"/>quem cum suis mendicare oporteat vel peiora
+   exer<lb ed="#B" n="108" break="no"/>cere: consule timentes deum quid opus sit facto. &amp; 
+   <lb ed="#B" n="109"/>forte necessarium inuenies pecuniam ei dandam per 
+   <!--0225.xml-->
+   <pb ed="#B" n="97-r"/>
+       <cb ed="#B" n="a"/>
+       <lb ed="#B" n="1"/>modum ele emosynae vel saltem mutuo: esto nunquam 
+   <lb ed="#B" n="2"/>totam pecuniam soluat.
+  </p>
+      <p xml:id="jMqv4a-d1e507-d1e1211">
+   ⁋ Concludendo dico meminii 
+   <lb ed="#B" n="3"/>se oportere pauperes esse Christi membra. nam ipse 
+   <lb ed="#B" n="4"/>de eis dixit Matthaei. xxv. Quod vni istorum fecistis 
+   <lb ed="#B" n="5"/>mihi fecistis, bona enim fortunae ordinantur pro homi 
+   <lb ed="#B" n="6"/>num sustentatione: &amp; fortasse magis conducit tam sa 
+   <lb ed="#B" n="7"/>luti corporis quam animae tuorum liberorum: mediocria 
+   <lb ed="#B" n="8"/>solum habere bona. quinimo forte deuinctus es
+   re<lb ed="#B" n="9" break="no"/>stituere multa bona icerta quae penes te adhuc sunt. E 
+   <lb ed="#B" n="10"/>si eleemosynam dare nolueri, saltem noli cum murmure 
+   <lb ed="#B" n="11"/>&amp; probro pauperem contemnere: sed deum preceris quati 
+   <lb ed="#B" n="12"/>nus sit ei auxilio. &amp; sic omni petenti tribues vel for 
+   <lb ed="#B" n="13"/>tunae bona: vel benignam responsionem: quae pauperem 
+   <lb ed="#B" n="14"/>a paupertatis onere quodammodo leuabit. Et si 
+   <lb ed="#B" n="15"/>importune quaerat: noli irasci, nescis heu nescis in 
+   <lb ed="#B" n="16"/>qua necessitate constitutus sit. tu si hic esses,
+   for<lb ed="#B" n="17" break="no"/>tasse importunius quaereres.
+  </p>
+    </div>
+   </body>
+  </text>
+</TEI>

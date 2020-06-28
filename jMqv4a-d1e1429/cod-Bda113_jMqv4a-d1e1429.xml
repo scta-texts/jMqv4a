@@ -1,0 +1,679 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 1</title>
+      <author ref="#JohnMair">John Mair</author>
+      <respStmt>
+       <name>Jeffrey C. Witt</name>
+       <resp>TEI Encoder</resp>
+      </respStmt>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 1</title>
+       <date when="2020-06-09">June 27, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="B" n="cod-Bda113">Badius 1516</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+     guidelines for a diplomatic edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-06-27" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+      <pb ed="#B" n="268-r"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="jMqv4a-d1e1429"> <!-- l4d29q1 -->
+      <head xml:id="jMqv4a-d1e1429-Hd1e104">Quaestio 1</head>
+      <head xml:id="jMqv4a-d1e1429-Hd1e107" type="question-title">An consensus coactus per metum ad matrimonium sufficiat</head>
+      <p xml:id="jMqv4a-d1e1429-d1e110">
+       <lb ed="#B" n="32"/>⁋ Distinctionis Vigesimaenonae 
+   <lb ed="#B" n="33"/>Quaestio Prima. 
+   <lb ed="#B" n="34"/>Irca distinctio 
+   <lb ed="#B" n="35"/>nem vigesimam 
+   <lb ed="#B" n="36"/>nonam quaeritur pri 
+   <lb ed="#B" n="37"/>mo: An
+   consen<lb ed="#B" n="38" break="no"/>sus coactus per me 
+   <lb ed="#B" n="39"/>tum ad matrimo 
+   <lb ed="#B" n="40"/>nium sufficiat.
+   Re<lb ed="#B" n="41" break="no"/>spondebo ad quaes 
+   <lb ed="#B" n="42"/>stionem per conclu 
+   <lb ed="#B" n="43"/>siones: sed prius 
+   <lb ed="#B" n="44"/>acceptionem
+   me<lb ed="#B" n="45" break="no"/>etes: tus &amp; timoris
+   ex<lb ed="#B" n="46" break="no"/>plicabo. Metus interdum pro religione capitur: 
+   <lb ed="#B" n="47"/>quae nata est per timorem. vt docet Seruius in illud 
+   <lb ed="#B" n="48"/>vii. Aeneidos. Multosque metu seruata per annos. 
+   <lb ed="#B" n="49"/>at non sic capimus: sed vt Vlpianus definit.
+   Ti<lb ed="#B" n="50" break="no"/>mor est de instante vel futuro periculo mentis tre 
+   <lb ed="#B" n="51"/>pidatio.
+  </p>
+      <p xml:id="jMqv4a-d1e1429-d1e156">
+   ⁋ Hoc praemisso pono conclusiones: qua 
+   <lb ed="#B" n="52"/>rum Prima est. Voluntas simpliciter cogi non po 
+   <!--0567.xml-->
+   <cb ed="#B" n="b"/> 
+       <!-- 268-r b -->
+       <lb ed="#B" n="53"/>quos sponsalia contrahuntur: nec intelligit alter quod 
+   <lb ed="#B" n="54"/>alter proponit. Respondemus quod inspiciendum est iu 
+   <lb ed="#B" n="55"/>dici si matrimonium contracturi, ad id faciendum sin  
+   <lb ed="#B" n="56"/>idonei scientia &amp; aetate. quo cognito si alter non
+   intel<lb ed="#B" n="57" break="no"/>lexerit quod alter proposuit: ad comunem verbi
+   intelli<lb ed="#B" n="58" break="no"/>gentiam recurratur: &amp; cogatur vtetque verba prolata in eo 
+   <lb ed="#B" n="59"/>sensu retin ere quem solent recte intelligentibus geni 
+   <lb ed="#B" n="60"/>rare. Oportet vero theologum in conscientia quaerere ee 
+   <lb ed="#B" n="61"/>rum intentionem. in foro autem contradictorio respiciatur 
+   <lb ed="#B" n="62"/>ad communem intelligentiam cum circumstantia casus: vt 
+   <lb ed="#B" n="63"/>si vir &amp; inulier promittant iuramento quod tenebun 
+   <lb ed="#B" n="64"/>se pro coniugibus in posterum: matrimonium
+   iu<lb ed="#B" n="65" break="no"/>dicabitur ab ecclesia. de sponsa. cap. Ex parte. In 
+   <lb ed="#B" n="66"/>re vero ambigua sequamur illud quod est verosi 
+   <lb ed="#B" n="67"/>milius. &amp; si personae pares sint: potius pro matri 
+   <lb ed="#B" n="68"/>monio iudicandum est: cum ob eius fauorem: tum pro 
+   <lb ed="#B" n="69"/>securitate conscientiae. 
+  </p>
+      <p xml:id="jMqv4a-d1e1429-d1e205">
+       <lb ed="#B" n="70"/>⁋ Dubitatur secundo: an secundae 
+   <lb ed="#B" n="71"/>nuptiae sint benedicendae. Respondetur quod non. de secun 
+   <lb ed="#B" n="72"/>nup. cap. i. &amp; ca. Vit. ratio glos. ini. c. primo nihil 
+   <lb ed="#B" n="73"/>valet, dicens quod benedictio est sacramentu, quod est ma 
+   <lb ed="#B" n="74"/>nifeste falsum. nam est sacramentale quodda ab
+   ec<lb ed="#B" n="75" break="no"/>clesia introductum: &amp; constitutio ecclesiae est sola cau 
+   <lb ed="#B" n="76"/>sa. propterea hic sufficit capere intentione ecclesiae. 
+   <lb ed="#B" n="77"/>cum enim alter coniugum fucrit semel matrimonialiter 
+   <lb ed="#B" n="78"/>benedictus: non est ipse, nec eius coiunx cum eo
+   com<lb ed="#B" n="79" break="no"/>trahens amplius benedicenda: vt patet in ca. Vir. siue 
+   <lb ed="#B" n="80"/>alteri communicet benedictionem sine non non enim est 
+   <lb ed="#B" n="81"/>hic aliud nisi voluntas ecclesiae. potest tamen esse consuetu 
+   <lb ed="#B" n="82"/>do alicuius regionis in contrarium, cum sit humanum ius 
+   <lb ed="#B" n="83"/>nec oportent papam hoc scire tolerando, vt dicit glo.- 
+   <lb ed="#B" n="84"/>Insuper aliud falsum illic tenet glos. quod scilicet
+   extre<lb ed="#B" n="85" break="no"/>ma vnctio non est sacramentum. 
+  </p>
+      <p xml:id="jMqv4a-d1e1429-d1e242">
+       <lb ed="#B" n="86"/>⁋ Dubitatur tertio: quid sit
+   matri<lb ed="#B" n="87" break="no"/>monium clandestinum. Respondetur. Tripliciter
+   ma<lb ed="#B" n="88" break="no"/>trimonium est clandestinum. Primo cum non habentur te 
+   <lb ed="#B" n="89"/>stes. vt in ca. Quod nobis. eo. ti. Secundo cum non fit 
+   <lb ed="#B" n="90"/>cum solemnitate illa de qua in. c. Aliter. xxx. qui. v. Ter 
+   <lb ed="#B" n="91"/>tio quando fit praetermissis edictis quae multi banna
+   vo<lb ed="#B" n="92" break="no"/>cant, in publico per sacerdotem: vt qui voluerit impe 
+   <lb ed="#B" n="93"/>dimenta proponere, proponat. ca. Cu inhibitio. eo. ti. 
+   <lb ed="#B" n="94"/>Quando autem quis cotrahit secundum consuetudinem
+   re<lb ed="#B" n="95" break="no"/>gionis suae coram vicinis sufficientibus vel amicis: 
+   <lb ed="#B" n="96"/>in facie ecclesie contrahit: hoc est: non contrahit
+   clan<lb ed="#B" n="97" break="no"/>destine. Ecclesia. n. hic est catholicorum collectio. de 
+   <lb ed="#B" n="98"/>conse. dist: i. Ecclesia. Quisquis autem clandestine con 
+   <lb ed="#B" n="99"/>trahit, peccat, non parendo superiori: nisi rationabi 
+   <lb ed="#B" n="100"/>lem causam non contrahendi in facie ecclesiae habeat. vt 
+   <lb ed="#B" n="101"/>pote timet aliquod impedimentum iniuste sibi infer 
+   <lb ed="#B" n="102"/>ri si publice contrahat: vel est senex &amp; verecundus 
+   <lb ed="#B" n="103"/>&amp; prae rubore omittit. Praeterea in cap. Cum inhibitio. 
+   <lb ed="#B" n="104"/>istius ti. in. S. Si quis. dicitur. Si quis vero huiusmo 
+   <lb ed="#B" n="105"/>di clandestina vel interdicta corugia inire
+   praesum<lb ed="#B" n="106" break="no"/>pserit in gradu prohibito etiam ignoranter: soboles de 
+   <!--0568.xml-->
+   <pb ed="#B" n="268-v"/>
+       <cb ed="#B" n="a"/>
+       <lb ed="#B" n="1"/>test proprie capto vocabulo.
+  </p>
+      <p xml:id="jMqv4a-d1e1429-d1e299">
+   ⁋ Secunda conclusio. 
+   <lb ed="#B" n="2"/>Volutas tamen potest cogi laxato vocabulo. hoc 
+   <lb ed="#B" n="3"/>est induci ad consensum partim spontaneum ad  
+   <lb ed="#B" n="4"/>quem concurrit voluntas.
+  </p>
+      <p xml:id="jMqv4a-d1e1429-d1e308">
+   ⁋ Tertia conclusio, 
+   <lb ed="#B" n="5"/>Cosensus coactus timore cadente in constantem 
+   <lb ed="#B" n="6"/>virum ad matrimonium non sufficit.
+  </p>
+      <p xml:id="jMqv4a-d1e1429-d1e315">
+   ⁋ Quarta
+   con<lb ed="#B" n="7" break="no"/>clusio. Consensus coactus timore non cadente in  
+   <lb ed="#B" n="8"/>constantem virum ad matrimonium sufficit.
+  </p>
+      <p xml:id="jMqv4a-d1e1429-d1e322">
+   ⁋ Probatur 
+   <lb ed="#B" n="9"/>prima conclusio. Illud proprie cogitur ad aliquid 
+   <lb ed="#B" n="10"/>quod omnino mouetur ab extrinseco: &amp; non coagit 
+   <lb ed="#B" n="11"/>ad illud. hic dicit philosophus. iii. Ethicorum. Vio 
+   <lb ed="#B" n="12"/>lentum est cuius principium est extra, non conferente 
+   <lb ed="#B" n="13"/>vim passo. modo voluntas ad quemlibet suum actum 
+   <lb ed="#B" n="14"/>coagit: ergo ad nullum actum cogitur. Sed dicis:
+   pro<lb ed="#B" n="15" break="no"/>babile est quod deus solus potest actum in
+   volunta<lb ed="#B" n="16" break="no"/>te producere ad quem nullam efficientiam habet vo 
+   <lb ed="#B" n="17"/>luntas: quae nedum est potentia actiua &amp; passiua, 
+   <lb ed="#B" n="18"/>sed etiam operatiua. hoc est: per actum talem in
+   obie<lb ed="#B" n="19" break="no"/>ctum tendit volendo vel nolendo. vt in distinct. 
+   <lb ed="#B" n="20"/>xlix. dicetur. Illo dato non infirmantur dicta. sed 
+   <lb ed="#B" n="21"/>oppositum est probabile. Dicamus ergo vniuersa 
+   <lb ed="#B" n="22"/>lius sic. Illud est violentum alicui quod est contra
+   na<lb ed="#B" n="23" break="no"/>turalem inclinationem ipsius: ita vt res ipsa appe 
+   <lb ed="#B" n="24"/>tat oppositum: &amp; ipsum tollat secluso impedimento 
+   <lb ed="#B" n="25"/>exempium. quando graue mouetur sursum: motus
+   il<lb ed="#B" n="26" break="no"/>le est omnino ab impetu impresso: ad quem motum nec 
+   <lb ed="#B" n="27"/>concurrit grauitas nec pars aliqua corporis gra 
+   <lb ed="#B" n="28"/>uis: quia graue appetit esse deorsum: &amp; impetu a 
+   <lb ed="#B" n="29"/>grauitate extincto corpus descendit: nec potest 
+   <lb ed="#B" n="30"/>non ponere oppositum. sic de calore in aqua: qui omnino 
+   <lb ed="#B" n="31"/>ab extrinseco inducitur: &amp; est contra naturaem incli 
+   <lb ed="#B" n="32"/>nationem aquae: aqua enim nititur in oppositum,
+   calo<lb ed="#B" n="33" break="no"/>rem corrumpendo. &amp; in quiete subsistens sub opposi 
+   <lb ed="#B" n="34"/>to sicut corpus graue, impetu cessante, vel remo 
+   <lb ed="#B" n="35"/>to prohibente se deorsum pellit. si enim ad descensum 
+   <lb ed="#B" n="36"/>&amp; ascensum esset indifferens: non diceretur violenta 
+   <lb ed="#B" n="37"/>ri ad ascensum. Sed sub nullo actu voluntatis vio 
+   <lb ed="#B" n="38"/>lente stat voluntas: cum si sibi relinquatur: non
+   natu<lb ed="#B" n="39" break="no"/>raliter oppositum produceret. Ingenue tamen fateor quod 
+   <lb ed="#B" n="40"/>deus potest tam volitionem quam nolitionem producere in  
+   <lb ed="#B" n="41"/>voluntate respectu eiusdem obiecti: quia aliquas 
+   <lb ed="#B" n="42"/>qualitates contrarias potest ponere in eodem
+   subie<lb ed="#B" n="43" break="no"/>cto: &amp; eadem ratione omnes. &amp; sic realiter volens
+   a<lb ed="#B" n="44" break="no"/>nult: &amp; si volitio fuerit multo intensior nolitione: 
+   <lb ed="#B" n="45"/>ita vt nolitio resistere non possit: exibit homo in 
+   <lb ed="#B" n="46"/>opus volitioni respondens. secus est si fuerit
+   pari<lb ed="#B" n="47" break="no"/>tas. sed toto isto admisso nullo modo est
+   conse<lb ed="#B" n="48" break="no"/>quens quod voluntas est coacta: vel quod inuita vult. 
+  </p>
+      <p xml:id="jMqv4a-d1e1429-d1e412">
+       <lb ed="#B" n="49"/>⁋ Ex isto patet quod licet beatitudo a solo deo pro 
+   <lb ed="#B" n="50"/>ducatur: beatus tamen non cogitur ad beatitudinem: 
+   <lb ed="#B" n="51"/>nec stat violente sub actu beatifico. Secundo patet 
+   <lb ed="#B" n="52"/>quod ad nullum actum elicitum voluntas violentatur. proba 
+   <lb ed="#B" n="53"/>tur ex dictis: &amp; etiam aliter. nam ad quemlibet talem
+   con<lb ed="#B" n="54" break="no"/>currit. &amp; si teneretur quod vnus actus elicitus
+   volun<lb ed="#B" n="55" break="no"/>tatis alium totum producat: ita vt voluntas pure passi 
+   <!--0568.xml-->
+   <cb ed="#B" n="b"/> 
+       <!-- 268-v b -->
+       <lb ed="#B" n="56"/>ue se habeat respectu illius actus: adhuc ad
+   illum<lb ed="#B" n="57" break="no"/>actum voluntas non violentaretur: quia talis actus 
+   <lb ed="#B" n="58"/>esset perfectio &amp; salus animae. Etiam voluntas est
+   li<lb ed="#B" n="59" break="no"/>bera respectu actus totaliter a voluntate eliciti: illius 
+   <lb ed="#B" n="60"/>secundi actus naturaliter productiui: vt si voluntas: 
+   <lb ed="#B" n="61"/>efficaciter velit dilectionem Sortis. Tertio patet quod 
+   <lb ed="#B" n="62"/>ad actum exteriorem voluntas est libera. licet enim ille 
+   <lb ed="#B" n="63"/>mere naturaliter ab interiore procedat. ix.
+   Meta<lb ed="#B" n="64" break="no"/>physicae: tamen actus ille est liber in sua originali
+   cau<lb ed="#B" n="65" break="no"/>sa. Si quis enim manu mea aliquem percutiat, &amp; eam 
+   <lb ed="#B" n="66"/>me nolente moueat ad alium percutiendum: illa verbe 
+   <lb ed="#B" n="67"/>ratio non est mea: nec meus actus imperatus. Ex 
+   <lb ed="#B" n="68"/>quo patet quod aqua manet naturaliter sub frigore 
+   <lb ed="#B" n="69"/>&amp; violente sub calore. materia tamen aquae stat
+   neutra<lb ed="#B" n="70" break="no"/>liter sub calore. vel frigore.
+  </p>
+      <p xml:id="jMqv4a-d1e1429-d1e469">
+   ⁋ Secunda conclusio 
+   <lb ed="#B" n="71"/>probatur sic. Licet voluntas sit libera libertate contra 
+   <lb ed="#B" n="72"/>rietatis &amp; contradictionis: nihilo tamen minus
+   aliquid<lb ed="#B" n="73" break="no"/>est ei persuasibile secundum rectam rationem, voluntatem 
+   <lb ed="#B" n="74"/>moues ad faciendum. bonum namque voluntatem allicit in  
+   <lb ed="#B" n="75"/>amorem sui. vt enim dicit philosophus primi
+   Ethi<lb ed="#B" n="76" break="no"/>corum primo, Omnia bonum appetunt. Similiter bo 
+   <lb ed="#B" n="77"/>num delectabile allicit &amp; trahit incontinentem in malum 
+   <lb ed="#B" n="78"/>vt videmus. sicut orator ingenii acumine sub quo 
+   <lb ed="#B" n="79"/>dam verborum nectare voluntatem audientis ad se tra 
+   <lb ed="#B" n="80"/>hit. hoc idem facit terribile. Talis autem volitio est in 
+   <lb ed="#B" n="81"/>uoluntatio admixta quando a disconvenienti
+   mo<lb ed="#B" n="82" break="no"/>uetur quod est nolitum absolute. vt quando mercator 
+   <lb ed="#B" n="83"/>est. in naui tempore periculi nauim exonerando ne 
+   <lb ed="#B" n="84"/>pereat: periculum absolute &amp; solitarie est nolitum: 
+   <lb ed="#B" n="85"/>quo non obstante volitio merces eijciendi magis de 
+   <lb ed="#B" n="86"/>volunt ario participat. iii. Ethicorum in principio. Et 
+   <lb ed="#B" n="87"/>propterea dicebam in conclusione, eam esse partim
+   spon<lb ed="#B" n="88" break="no"/>taneam.
+  </p>
+      <p xml:id="jMqv4a-d1e1429-d1e511">
+   ⁋ Tertia conclusio probatur per ca. Cum locum. de 
+   <lb ed="#B" n="89"/>sponsa. &amp; cap. sequi. &amp;. c. Consultationi. in fine. &amp;.lif 
+   <lb ed="#B" n="90"/>Quia metus causa. l. Metum. Non iuuat dicere, coram 
+   <lb ed="#B" n="91"/>deo est matrimonium: sed ecclesia praesumit quod non  
+   <lb ed="#B" n="92"/>est matrimonium propter non consensum. Nam ecclesia 
+   <lb ed="#B" n="93"/>casum fratris interprtatur in meliorem partem, vbi non con 
+   <lb ed="#B" n="94"/>stat de opposito. Et ideo interprtatur quod homo non  
+   <lb ed="#B" n="95"/>vult mentiri praesentialiter dicendo: capio te in meam, 
+   <lb ed="#B" n="96"/>quin consentiat. Nec valet dictum domini cardinalis in  
+   <lb ed="#B" n="97"/>cap. Abbas. de his quae vi. &amp; c. dicentis quod
+   matrimo<lb ed="#B" n="98" break="no"/>nium metu contractum tenet: potest tamen rescindi per actio 
+   <lb ed="#B" n="99"/>nem quod metus causa. Quod probatur per ca. Significauit. 
+   <lb ed="#B" n="100"/>de eo qui duxit in matri. &amp;c. vbi tenuit secundum ma 
+   <lb ed="#B" n="101"/>trimonium factum post primum meticulosum: nulla 
+   <lb ed="#B" n="102"/>petita prius rescissione per actionem quod metus causa. 
+   <lb ed="#B" n="103"/>Si enim valuisset primum matrimonium, non tenuisset 
+   <lb ed="#B" n="104"/>secundum primo non annthilato: cum matrimonium non 
+   <lb ed="#B" n="105"/>possit consistere nisi inter duos. Rationabile est 
+   <lb ed="#B" n="106"/>enim quod odio nocentis &amp; fauore innocentis ius pa 
+   <lb ed="#B" n="107"/>tienti talem coactionem succurrat.
+  </p>
+      <p xml:id="jMqv4a-d1e1429-d1e555">
+   ⁋ Quarta conclu 
+   <lb ed="#B" n="108"/>sio: scilicet quod consensus coactus per metum non ca 
+   <lb ed="#B" n="109"/>dentem in constantem virum ad matrimonium sufficit, 
+   <lb ed="#B" n="110"/>probatur sic. Consensus &amp; verba de praesenti ad ma-  
+   <!--0569.xml-->
+   <pb ed="#B" n="269-r"/>
+       <cb ed="#B" n="a"/>
+       <lb ed="#B" n="1"/>trimonium sufficiunt: etiam si sit coactus, vbi con 
+   <lb ed="#B" n="2"/>sensus ab omni iure non irritatur. sed sic est de isto 
+   <lb ed="#B" n="3"/>consensu. igitur. patet maior: si non irritetur iure na 
+   <lb ed="#B" n="4"/>turae / diuino, vel humano. sed duobus primis mo 
+   <lb ed="#B" n="5"/>dis nullus consensus coactus irritatur plusquam in  
+   <lb ed="#B" n="6"/>capiendis ordinibus, nec etiam iure humano. cap 
+   <lb ed="#B" n="7"/>Cum dilectus. de his quae vi me. ve cau. fi. sicu 
+   <lb ed="#B" n="8"/>leges subueniunt restituendo in integrum ei quai iu 
+   <lb ed="#B" n="9"/>stum metum passus est: non autem iniustu. Idem patet iqui 
+   <lb ed="#B" n="10"/>cleri. vel vouen. cap. Insinuantescilitct. quod metus cau 
+   <lb ed="#B" n="11"/>sa. l. Metum. superius allegata. Pro his duabus
+   con<lb ed="#B" n="12" break="no"/>clusionibus intelligendis scito: quod duplex est me 
+   <lb ed="#B" n="13"/>tus. quidam cadens in constantem virum: hoc est 
+   <lb ed="#B" n="14"/>in prudentem virum. vt viro ducere aliquam mu 
+   <lb ed="#B" n="15"/>lierem meretricem ignobilem inferioris conditionis est 
+   <lb ed="#B" n="16"/>poenale. si tamen est vero simile quod si non consentiat,
+   gra<lb ed="#B" n="17" break="no"/>uiorem iacturam &amp; fugibiliorem patietur quam cum illa com 
+   <lb ed="#B" n="18"/>trahendo: a maiore poena fugiet prudens: &amp; mi 
+   <lb ed="#B" n="19"/>nori appropinquabit: vbi vtraque absolute est noli 
+   <lb ed="#B" n="20"/>ta. Opposito modo facit inconstans qui ducitur 
+   <lb ed="#B" n="21"/>in consensum aliquem metu minoris poenae: &amp; sic 
+   <lb ed="#B" n="22"/>est inconstans. Ceruicosus autem &amp; pertinax is 
+   <lb ed="#B" n="23"/>dicitur qui non mutat consensum vbi secundum 
+   <lb ed="#B" n="24"/>rationem mutare deberet. 
+   <lb ed="#B" n="25"/>Ex his sequuntur aliquae propotes nes 
+   <lb ed="#B" n="26"/>Prima est. Vir costans plus fugiet a quacumque
+   cul<lb ed="#B" n="27" break="no"/>pa / etsi veniali / quam a quacunque poena no culpa. Pro 
+   <lb ed="#B" n="28"/>batur. semper fugiet a maiore periculo. sed sic est de 
+   <lb ed="#B" n="29"/>malo culpae incomparabiliter respectu cuiussibet ma 
+   <lb ed="#B" n="30"/>li poenae non culpae: igitur.
+  </p>
+      <p xml:id="jMqv4a-d1e1429-d1e636">
+   ⁋ Secundo sequitur quod po 
+   <lb ed="#B" n="31"/>tius constans consentiet in meretricem ducendam 
+   <lb ed="#B" n="32"/>&amp; in quancumque mulierem quam dicat se consentire &amp; non 
+   <lb ed="#B" n="33"/>consentiat. patet: quia primum est solum malum
+   poe<lb ed="#B" n="34" break="no"/>nae. secundum autem est malum culpae / quia menda 
+   <lb ed="#B" n="35"/>cium.
+  </p>
+      <p xml:id="jMqv4a-d1e1429-d1e649">
+   ⁋ Tertio sequitur. Aliquam poenam constans pa 
+   <lb ed="#B" n="36"/>tietur antequam contrahat matrimonium cum impari: &amp; 
+   <lb ed="#B" n="37"/>aliquam non patietur. Primum probatur. nam contra: 
+   <lb ed="#B" n="38"/>here matrimonium etsi licitum sit cum hac muliere
+   im<lb ed="#B" n="39" break="no"/>paris conditionis: tamen est viro forti valde poenale 
+   <lb ed="#B" n="40"/>ita quod in ratione non errante mauult perdere centum 
+   <lb ed="#B" n="41"/>scuta quam cum illa contrahere. ergo si tyrannus minetur 
+   <lb ed="#B" n="42"/>inferre viro perditionem centum scutorum vel minoris sum 
+   <lb ed="#B" n="43"/>mae, non consentiet. quia si consentiat iam ius ei nor 
+   <lb ed="#B" n="44"/>succurret: cum talis timor non cadat in constantem vi 
+   <lb ed="#B" n="45"/>rum: &amp; sic erit matrimonium. &amp; per consequens 
+   <lb ed="#B" n="46"/>non est vir constans contra positum. Et aliquam poenam 
+   <lb ed="#B" n="47"/>non patietur antequam contrahat. nam contingit dare aliquan 
+   <lb ed="#B" n="48"/>poenam magis fugibilem quam sit matrimo nium contrahe 
+   <lb ed="#B" n="49"/>re cum muliere proposita: vt est stupratio, verberatio 
+   <lb ed="#B" n="50"/>nes periculosae / mors / seruitus legalis: quae continetur hoc 
+   <lb ed="#B" n="51"/>carmine communi. Stuprum siue status verberum atque 
+   <lb ed="#B" n="52"/>necis. Perditio omnium bonorum vel maioris partis: quia 
+   <lb ed="#B" n="53"/>sicut spiritualia sine temporalibus diu esse non pos 
+   <lb ed="#B" n="54"/>sunt. i. q. iii. Si quis obiecerit. a fortiore nec haec vi- 
+   <!--0569.xml-->
+   <cb ed="#B" n="b"/> 
+       <!-- 269-r b -->
+       <lb ed="#B" n="55"/>ta corporalis potest subsistere. Quae autem poena
+   de<lb ed="#B" n="56" break="no"/>beat voluntatem mouere ad consentiendum: &amp; quae mi 
+   <lb ed="#B" n="57"/>nus: non potest vna regula determinari nisi secun 
+   <lb ed="#B" n="58"/>dum iudicium prudentis.
+  </p>
+      <p xml:id="jMqv4a-d1e1429-d1e709">
+   ⁋ Quarto sequitur quod duo 
+   <lb ed="#B" n="59"/>bus habentibus duos consensus aequaliter
+   coa<lb ed="#B" n="60" break="no"/>ctos: vnus realiter contrahit&amp; non alter. Probatur. 
+   <lb ed="#B" n="61"/>contingit quod in vno non sit timor cadens in
+   constan<lb ed="#B" n="62" break="no"/>tem virum: sed in alio: iam secundus irritatur &amp; 
+   <lb ed="#B" n="63"/>non primus. &amp; patet in simili. contingit duos hatre con 
+   <lb ed="#B" n="64"/>sensus aequales &amp; spontaneos: quorum vnus
+   con<lb ed="#B" n="65" break="no"/>trahit realiter &amp; non alter, quod videre potes in. xiii. 
+   <lb ed="#B" n="66"/>annos nato: &amp; in. xiiii. consensus enim priora lege 
+   <lb ed="#B" n="67"/>irritatur. sic in proposito.
+  </p>
+      <p xml:id="jMqv4a-d1e1429-d1e731">
+   ⁋ Quinto sequitur quod ante 
+   <lb ed="#B" n="68"/>irritationem istius consensus coacti ab ecclesia ad  
+   <lb ed="#B" n="69"/>contrahendum, realiter fuisset matrimonium. sicut 
+   <lb ed="#B" n="70"/>in baptismo &amp; in ordine. Baptismus enim est
+   sacra<lb ed="#B" n="71" break="no"/>mentum salutis: &amp; felix est illa coactio quae ad meliora 
+   <lb ed="#B" n="72"/>compellit. iuxta illa qua in baptismo diximus. pau 
+   <lb ed="#B" n="73"/>ci etiam ad ordines compelluntur. Si autem consensus 
+   <lb ed="#B" n="74"/>coactus ad contrahendum non fuisset irritatus: cre 
+   <lb ed="#B" n="75"/>bro occurreret. sed est graue iugum cum odiosa
+   mu<lb ed="#B" n="76" break="no"/>liere semper cohabitare, non sic autem in baptismo 
+   <lb ed="#B" n="77"/>&amp; ordine. propterea ecclesia illum contractum irritauit. Si 
+   <lb ed="#B" n="78"/>dicas. de iure diuino requiritur consensus liber ad
+   ma<lb ed="#B" n="79" break="no"/>trimonium: tunc quaero, quare consensus non cadens 
+   <lb ed="#B" n="80"/>in constantem virum sufficit ad matrimonium. 
+  </p>
+      <p xml:id="jMqv4a-d1e1429-d1e762">
+       <lb ed="#B" n="81"/>⁋ Contra tertiam conclusionem ar 
+   <lb ed="#B" n="82"/>guitur. Sortes doctus in hac materia, dicens haec 
+   <lb ed="#B" n="83"/>verba, capio te in meam. scit se dicere verum vel
+   fal<lb ed="#B" n="84" break="no"/>sum. Si secundum, est mendacium. Si primum / est
+   ma<lb ed="#B" n="85" break="no"/>trimonium contra dicta.
+  </p>
+      <p xml:id="jMqv4a-d1e1429-d1e775">
+   ⁋ Respondetur. si sortes 
+   <lb ed="#B" n="86"/>sit doctus: scit se dicere verum in toto sensu quem 
+   <lb ed="#B" n="87"/>recte intelligit, hoc est capio te in meam quantum est 
+   <lb ed="#B" n="88"/>ex parte mea: vel quantu ad mae attinet: vel per me 
+   <lb ed="#B" n="89"/>non stat. etiam si iuratet se promittere: hoc mentaliter in 
+   <lb ed="#B" n="90"/>telligit. &amp; quia materia est odiosa: non oportet
+   il<lb ed="#B" n="91" break="no"/>ud totum tyranno exprimere. hoc autem saluat eum 
+   <lb ed="#B" n="92"/>ne fallat: quia non mentitur: sed ita assentit sicut profert. 
+   <lb ed="#B" n="93"/>Etiam hoc totum est verum. Si vero verba diceret &amp; 
+   <lb ed="#B" n="94"/>dissentiret: iam mentiretur &amp; peccaret: &amp; sic non es 
+   <lb ed="#B" n="95"/>set constans. sed tamen realiter non esset matrimonium 
+   <lb ed="#B" n="96"/>dato quod nulla esset consensus irritatio. Contra hoc 
+   <lb ed="#B" n="97"/>arguo. Voluntas est libera: &amp; nihil ex natura sua 
+   <lb ed="#B" n="98"/>est voluntati disconueniens: sed solum quia ei noli 
+   <lb ed="#B" n="99"/>tum. ergo adhuc stante illo consensu coacto potest: 
+   <lb ed="#B" n="100"/>alium consensum pure spontaneum elicere: &amp; tunc erit 
+   <lb ed="#B" n="101"/>realiter matrimonium, quia non erit consensus coactus 
+   <lb ed="#B" n="102"/>Non valet dicere quod illi duo consensus erunt eiusdem 
+   <lb ed="#B" n="103"/>speciei &amp; se intendent: quia sic argumentum nondum est
+   so<lb ed="#B" n="104" break="no"/>lutum. nam vna pars eius erit consensus liber: &amp; 
+   <lb ed="#B" n="105"/>altera consensus coactus. Nec iuuat dicere, non po 
+   <lb ed="#B" n="106"/>test alium actum elicere propter alium actum elicitum. 
+   <lb ed="#B" n="107"/>quia ponatur alter consensus coactus remissus, si 
+   <lb ed="#B" n="108"/>specie distinguantur: argumentum procedit. Re 
+   <!--0570.xml-->
+   <pb ed="#B" n="269-v"/>
+       <cb ed="#B" n="a"/>
+       <lb ed="#B" n="1"/>spondetur: etsi actum liberum respectu talis obiect 
+   <lb ed="#B" n="2"/>habere potest: nihil ad a. quia omnis consensus quem 
+   <lb ed="#B" n="3"/>habet est a lege irritatus.
+  </p>
+      <p xml:id="jMqv4a-d1e1429-d1e840">
+   ⁋ Secundo arguitur, &amp; 
+   <lb ed="#B" n="4"/>virtualiter contra principalem solutionem argu 
+   <lb ed="#B" n="5"/>menti praecedentis. Fortius est vinculum signi
+   sensi<lb ed="#B" n="6" break="no"/>bilis de praesenti cum consensu de praesenti, quam verboru 
+   <lb ed="#B" n="7"/>de futuro cum consensu de futuro, caeteris paribus 
+   <lb ed="#B" n="8"/>hincinde. hoc est quod vterque sit liber vel vterque coa 
+   <lb ed="#B" n="9"/>ctus: sed contractus sponsalium de futuro coactus 
+   <lb ed="#B" n="10"/>iuramento vallatus iurantem obligat. cap. Ad
+   au<lb ed="#B" n="11" break="no"/>res. de his quam vi me. ve causa fiunt. vbi dicit Roma 
+   <lb ed="#B" n="12"/>nus pontifex quod renuncians electioni de se facta 
+   <lb ed="#B" n="13"/>terrore laicorum potest praefici ecclesiae, nisi iuramentum ve 
+   <lb ed="#B" n="14"/>fidem super hoc praestiterit. &amp; per theoricam communem ius 
+   <lb ed="#B" n="15"/>iurandum quidlibet seruandum est, quod potest sine
+   salu<lb ed="#B" n="16" break="no"/>tis interitu seruati: quia coacta voluntas est voluntas 
+   <lb ed="#B" n="17"/>xv. q. i. cap. Merito quaeritur. Sed promissio coacta spon 
+   <lb ed="#B" n="18"/>salium est huiusmodi. igitur.
+  </p>
+      <p xml:id="jMqv4a-d1e1429-d1e875">
+   ⁋ Respondetur. argumentum 
+   <lb ed="#B" n="19"/>eque concluderet de matrimonio de praesenti. Pro 
+   <lb ed="#B" n="20"/>uis dicitur: quod aliqui sunt contractus a iure irritat 
+   <lb ed="#B" n="21"/>si consensus vtriusque partis ponatur. talis contract 
+   <lb ed="#B" n="22"/>nualidus: quemadmodum est consensus coactus 
+   <lb ed="#B" n="23"/>iatrimonialis: etiam licet quis ex culpa sua in talem 
+   <lb ed="#B" n="24"/>uetum incideret. patet per cap. Veniens. de
+   spon<lb ed="#B" n="25" break="no"/>ldem est in rebus ecclesiae per metum traditis. vt 
+   <lb ed="#B" n="26"/>licitur in Cle. i. de rebus eccle, non alie. Et in voto. vt 
+   <lb ed="#B" n="27"/>in distinct. xxxviii. dicemus. Et de contractu in  
+   <lb ed="#B" n="28"/>ter iniuste detentum in carcere &amp; detentorem. vt est tex 
+   <lb ed="#B" n="29"/>in. l. Qui in carcere. itu. eo. Talem autem contractum irrita 
+   <lb ed="#B" n="30"/>re potest lex caesarea: licet Antoni. Butricensis ca 
+   <lb ed="#B" n="31"/>sum de renunciatione beneficii excipiat: etiam
+   te<lb ed="#B" n="32" break="no"/>nens quod renunciatio est ipso iure nulla. Sed glos. 
+   <lb ed="#B" n="33"/>in cap. Super hoc. de renun. tenet quod renunciatio 
+   <lb ed="#B" n="34"/>beneficii per metum facta tenet: licet rescindatur 
+   <lb ed="#B" n="35"/>per actionem quod metus causa. &amp; illa opinio est vul 
+   <lb ed="#B" n="36"/>gatior. Alia vero quae per metum fiunt tenent. si 
+   <lb ed="#B" n="37"/>potest peti rescissum eorum quae acta sunt per actio 
+   <lb ed="#B" n="38"/>nem quod metus causa. vt si iuraui dare vsurario
+   lu<lb ed="#B" n="39" break="no"/>crum vltra sortem: potest episcopus me absolue 
+   <lb ed="#B" n="40"/>re a iuramento. &amp; ita fit quandocumque iuramentum 
+   <lb ed="#B" n="41"/>continet turpitudinem ex parte recipientis, &amp; in eius 
+   <lb ed="#B" n="42"/>odium: &amp; hoc si non sit aliud competens remedium 
+   <lb ed="#B" n="43"/>quod prius debet attestari: vt prius soluendo &amp; post 
+   <lb ed="#B" n="44"/>ea repetendo. sed si prius absolutus est: sufficit. 
+   <lb ed="#B" n="45"/>Eodem modo de pecunia quam iuro raptoribus 
+   <lb ed="#B" n="46"/>dare. in primis absolutionem capiam: quia si eis pe 
+   <lb ed="#B" n="47"/>cuniam darem / non rehaberem nisi clientes victo 
+   <lb ed="#B" n="48"/>res praesentes haberem qui pecuniam promissam mi 
+   <lb ed="#B" n="49"/>hi saluam tenerent. &amp; hoc si sine culpa in metum 
+   <lb ed="#B" n="50"/>inciderem: quia si ex culpa: tenent acta: &amp; non com 
+   <lb ed="#B" n="51"/>petit aliquod remedium metum passo. fu. eo. l. Si 
+   <lb ed="#B" n="52"/>mulier. vbi dicitur quod si libera commisit ingratitu 
+   <lb ed="#B" n="53"/>dinem contra dominum &amp; praecepta: sed ne reuoca 
+   <lb ed="#B" n="54"/>retur in seruitutem aliquid promisit domino suo: non 
+   <lb ed="#B" n="55"/>suecurritur ei contra illam promissionem: licet metu ser- 
+   <!--0570.xml-->
+   <cb ed="#B" n="b"/> 
+       <!-- 269-v b -->
+       <lb ed="#B" n="56"/>uitutis promiserit. &amp; hoc ideo quia ipsa sibi intulit me 
+   <lb ed="#B" n="57"/>tum committendo ingratitudinem. &amp; dominus iuste ei 
+   <lb ed="#B" n="58"/>minabatur quod eam ad seruiturem reuocaret. Per ista 
+   <lb ed="#B" n="59"/>ad formam solutionem habes.
+  </p>
+      <p xml:id="jMqv4a-d1e1429-d1e974">
+   ⁋ Tertio arguitur 
+   <lb ed="#B" n="60"/>per responsum beati <name xml:id="jMqv4a-d1e1429-Nd1e978" ref="#Augustine">Augustini</name> scribentis Seue 
+   <lb ed="#B" n="61"/>rto Mileuitano episcopo de casu quendam Vbal 
+   <lb ed="#B" n="62"/>dum suum parochianum tangente: qui Vbaldus 
+   <lb ed="#B" n="63"/>captus &amp; timore necis impulsus iurauerat suae con 
+   <lb ed="#B" n="64"/>cubinae quod eam vxorem duceret, &amp; propriam matrem 
+   <lb ed="#B" n="65"/>cum fratribus domo expelleret: &amp; nihil alimoniae 
+   <lb ed="#B" n="66"/>eis vnquam daret. qui casus recitatur in cap. Inter caetera 
+   <lb ed="#B" n="67"/>xxii. q. iiii. Respondendo <name xml:id="jMqv4a-d1e1429-Nd1e996" ref="#Augustine">Augustinus</name> dicit sic. Quia 
+   <lb ed="#B" n="68"/>vero quam prius habuerat non est peccatum in con 
+   <lb ed="#B" n="69"/>iugem suscipere: matrimonium sit in deo firmum 
+   <lb ed="#B" n="70"/>&amp; stabile. Porro iuramentum non ob hoc fuisse in  
+   <lb ed="#B" n="71"/>stitutum inuenitur: vt esset vinculum iniquitatis vel ma 
+   <lb ed="#B" n="72"/>tricidii vel fratricidii seu cuiusque criminis.
+  </p>
+      <p xml:id="jMqv4a-d1e1429-d1e1011">
+   ⁋ Re 
+   <lb ed="#B" n="73"/>spondetur. glo. in ca. Abbas. de his quam vi me. &amp;c. dat 
+   <lb ed="#B" n="74"/>varias solutiones. &amp; simite Panor. sed nulla valet. pri 
+   <lb ed="#B" n="75"/>mo dicit quod non erat metus cadens in constantem
+   vi<lb ed="#B" n="76" break="no"/>rum. Secundo quod metus non fuit illic probatus.
+   pri<lb ed="#B" n="77" break="no"/>mum non valet: quia erat metus mortis, nec secundum 
+   <lb ed="#B" n="78"/>cum praesupponat metus, nec quod sit de consilio va 
+   <lb ed="#B" n="79"/>let, vt patebit per dicenda. Aliter ergo dicendum 
+   <lb ed="#B" n="80"/>est: quod btuns <name xml:id="jMqv4a-d1e1429-Nd1e1030" ref="#Augustine">Augustinus</name> loquitur pro tempore suo 
+   <lb ed="#B" n="81"/>quo non eratirritatio a lege superioris contractum 
+   <lb ed="#B" n="82"/>inualidante. De lege enim Caesarea in materia ma 
+   <lb ed="#B" n="83"/>trimonii, iurisiurandi, vsurae, vel similium loqui non 
+   <lb ed="#B" n="84"/>oportet. Stetit autem btuns <name xml:id="jMqv4a-d1e1429-Nd1e1042" ref="#Augustine">Augustinus</name> recte in maxima 
+   <lb ed="#B" n="85"/>in secundo argumento adducta quod iuramentum lici 
+   <lb ed="#B" n="86"/>tum est seruandum sine exceptione. sed ius pontificium 
+   <lb ed="#B" n="87"/>post dies eius aliquos contractus licitos / propter
+   ratio<lb ed="#B" n="88" break="no"/>nabilem causam irritauit. &amp; capit (sit) illic in verbis 
+   <lb ed="#B" n="89"/>recitatis praeceptiue: quod patet per verba adiuncta. 
+   <lb ed="#B" n="90"/>Quia vero quam prius susceperat non est peccatum in 
+   <lb ed="#B" n="91"/>coiugem suscipre: matrimonium sit in deo firmum &amp; sta 
+   <lb ed="#B" n="92"/>bile. ac si diceret: quia potest promissum iureiurando val 
+   <lb ed="#B" n="93"/>latum seruare: tenetur ipum propter iuramentum tenere 
+   <lb ed="#B" n="94"/>stabile in domino, quod etiam patet per aliam perrem 
+   <lb ed="#B" n="95"/>quia cum iurauit matrem a domo abiicere &amp; fra 
+   <lb ed="#B" n="96"/>tres, illud non est seruandum: immo debet non se 
+   <lb ed="#B" n="97"/>uari: quia iuramentum non est vinculum iniquitatis 
+  </p>
+      <p xml:id="jMqv4a-d1e1429-d1e1074">
+       <lb ed="#B" n="98"/>⁋ Quarto arguitur. sit sortes qui nullo modo velit 
+   <lb ed="#B" n="99"/>matrimonium contrahere cum Berta meretrice 
+   <lb ed="#B" n="100"/>cu i praecipiat deus vt ducat Bertam vxorem. vt de 
+   <lb ed="#B" n="101"/>Osea factum est. hic est consensus coactus: &amp; tamen 
+   <lb ed="#B" n="102"/>est verum matrimonium. quod patet: quia tenetur 
+   <lb ed="#B" n="103"/>cum illa cohabitare tamquam cum propria &amp; legitima 
+   <lb ed="#B" n="104"/>vxore.
+  </p>
+      <p xml:id="jMqv4a-d1e1429-d1e1092">
+   ⁋ Respondetur concedendo quod illic est
+   ma<lb ed="#B" n="105" break="no"/>trimonium, nec est intentio ecclesiae talem contractum 
+   <lb ed="#B" n="106"/>irritare, cum deus oppositum praecipit, quam potest rotum 
+   <lb ed="#B" n="107"/>da quadrare &amp; quadrata rotudare.
+  </p>
+      <p xml:id="jMqv4a-d1e1429-d1e1101">
+   ⁋ Quinto
+   ar<lb ed="#B" n="108" break="no"/>guitur. Pulchra verba, blanditiae, &amp; huiusmoi, aliquos 
+   <lb ed="#B" n="109"/>ceruicosos vel forte generosi animi tam mouent 
+   <lb ed="#B" n="110"/>quam minae. sed huiusmodi non impediunt matri- 
+   <!--0571.xml-->
+   <pb ed="#B" n="270-r"/>
+       <cb ed="#B" n="a"/>
+       <lb ed="#B" n="1"/>monium: quamuis consensus sit coactus. igitur.
+  </p>
+      <p xml:id="jMqv4a-d1e1429-d1e1119">
+   ⁋ Respondetur 
+   <lb ed="#B" n="2"/>raro blanda verba tantum mouent quantum minae. 
+   <lb ed="#B" n="3"/>Nam. M. Tullii eloquentia cum eius adinuentionibus 
+   <lb ed="#B" n="4"/>orando non tantum Augustum ad imperium
+   relinquen<lb ed="#B" n="5" break="no"/>dum senatui impulisset, quantum metus mortis a 
+   <lb ed="#B" n="6"/>Dionysio tyranno vel Annibale incussus. Et hoc 
+   <lb ed="#B" n="7"/>patet ex mente <name xml:id="jMqv4a-d1e1429-Nd1e1134" ref="#Aristotle">Aristotelis</name> tertii Ethicorum. i quod si quispian 
+   <lb ed="#B" n="8"/>ideo iucunda violenta dixerit esse quia &amp; extra 
+   <lb ed="#B" n="9"/>sunt &amp; compellunt / omnia erunt eius sententia violenta. Vult 
+   <lb ed="#B" n="10"/>dicere, non sic mouent dulcia vt terribilia. &amp; si in 
+   <lb ed="#B" n="11"/>terdum contingat: nihil est. Leges enim respiciunt illa d 
+   <lb ed="#B" n="12"/>plurimum eueniunt. &amp; vnum contractum irritant, non 
+   <lb ed="#B" n="13"/>alium. sic meticulosus duntaxat mouebitur a paruis 
+   <lb ed="#B" n="14"/>minis: cuileges &amp; iuta non succurrunt nisi fuerint 
+   <lb ed="#B" n="15"/>dulcia verba tyranni cogniti: qui solet viros roga 
+   <lb ed="#B" n="16"/>re suppliciter vt sibi condescendant. cui si non con 
+   <lb ed="#B" n="17"/>descenderint: solet graue tormentum applicare. talis 
+   <lb ed="#B" n="18"/>autem consensus est coactus per terribile appraehensum 
+   <lb ed="#B" n="19"/>&amp; iudicatum in fine de propinquo adducendum / &amp; non per 
+   <lb ed="#B" n="20"/>dulcia verba.
+  </p>
+      <p xml:id="jMqv4a-d1e1429-d1e1167">
+   ⁋ Sexto arguitur. Si qui eligant per metu 
+   <lb ed="#B" n="21"/>tenet electio: ergo &amp; matrimonium. Respondetur. si
+   ele<lb ed="#B" n="22" break="no"/>ctores cogantur eligere aliquem vnum certum: electio est 
+   <lb ed="#B" n="23"/>ipso iure nulla: quia contra substantiam electionis. nam 
+   <lb ed="#B" n="24"/>electio est vnum ex pluribus eligere. patet istud 
+   <lb ed="#B" n="25"/>in cap. Quisquis. de elect. &amp; in cap. Vbi periculum 
+   <lb ed="#B" n="26"/>in. S. Caeterum. de elect. lib. vi. vbi dicit pontifex qui 
+   <lb ed="#B" n="27"/>cessat electio vbi adimitur libertas eligendi. Na 
+   <lb ed="#B" n="28"/>electio est vnum de pluribus acceptare. Aut
+   ele<lb ed="#B" n="29" break="no"/>ctores compelluntur vnum eligere ex vno certo genere 
+   <lb ed="#B" n="30"/>personarum: &amp; sic metus non vitiat ipso factos 
+   <lb ed="#B" n="31"/>quia non. ex toto adimitur potestas eligendi. patet 
+   <lb ed="#B" n="32"/>in cap. Abbate. de verbo. signi. &amp; in cap. Cum dile 
+   <lb ed="#B" n="33"/>ctus. de consue. Sed quicquid sit de secundo dicto, dico 
+   <lb ed="#B" n="34"/>quod male agunt eos cogentes quemuis eligere. &amp; po 
+   <lb ed="#B" n="35"/>tissimum in paruo numero electores tenentur
+   eli<lb ed="#B" n="36" break="no"/>gere magis idoneum non curando de patria, ex di 
+   <lb ed="#B" n="37"/>ctis: in dist. xxiiii. Pro dictis autem canonibus in  
+   <lb ed="#B" n="38"/>ductis dicitur quod erat priuilegium ad hoc vt alii
+   es<lb ed="#B" n="39" break="no"/>sent capaces passiue. Si enim sunt idonei actiue: &amp; 
+   <lb ed="#B" n="40"/>non detur eis facultas, lex est iniqua: &amp; per
+   conse<lb ed="#B" n="41" break="no"/>quens non meretur dici lex: tenendo quod puto verum 
+   <lb ed="#B" n="42"/>quod elector &amp; collator tenentur eligere magis idoneum 
+   <lb ed="#B" n="43"/>vel ei beneficium conferre 
+  </p>
+      <p xml:id="jMqv4a-d1e1429-d1e1219">
+       <lb ed="#B" n="44"/>⁋ Contra quartam conclusionem 
+   <lb ed="#B" n="45"/>arguitur. mediocres minae sufficiunt irritare cor 
+   <lb ed="#B" n="46"/>sensum mulierum: ergo etiam virorum. consequentia 
+   <lb ed="#B" n="47"/>tenent: quia sunt eiusdem soeciei essentialis.
+   ante<lb ed="#B" n="48" break="no"/>cedens patet. xxxii. qui. vi. Indignantur. &amp; de ho 
+   <lb ed="#B" n="49"/>mi. Sicut dignum.
+  </p>
+      <p xml:id="jMqv4a-d1e1429-d1e1235">
+   ⁋ Respondetur,
+   consequen<lb ed="#B" n="50" break="no"/>tia est nulla: quia sunt a tota specie regulariter
+   ti<lb ed="#B" n="51" break="no"/>midiores &amp; frigidae: nec ad virorum aimositatem ac 
+   <lb ed="#B" n="52"/>cedunt. hinc dixit Sapiens prouerb. vltimo. Mulie 
+   <lb ed="#B" n="53"/>rem fortem quis inueniet: Nec respiciendum est ad pauca 
+   <lb ed="#B" n="54"/>sfpndiuidua. nam licet Semiramis / Penthesilea / &amp; Tho 
+   <!--0571.xml-->
+   <cb ed="#B" n="b"/> 
+       <!-- 270-r b -->
+       <lb ed="#B" n="55"/>myris multis viris praestiterint: hoc non est frequens. 
+   <lb ed="#B" n="56"/>nec facile crediderim Amaxones illas virorum 
+   <lb ed="#B" n="57"/>in simili patria natorum aiositatem attigisse. Sed 
+   <lb ed="#B" n="58"/>est etiam quidam timor in constantes mulieres ca 
+   <lb ed="#B" n="59"/>dens qui sufficit matrimonium impedire. aliquis autem 
+   <lb ed="#B" n="60"/>minor non sufficit: vt in viris diximus.
+  </p>
+      <p xml:id="jMqv4a-d1e1429-d1e1268">
+   ⁋
+   Secun<lb ed="#B" n="61" break="no"/>do arguitur contra eandem conclusionem. Metus 
+   <lb ed="#B" n="62"/>cadens in constantem virum non sufficit ad
+   ma<lb ed="#B" n="63" break="no"/>trimonium: &amp; merus non cadens in constantem virum sufficit 
+   <lb ed="#B" n="64"/>ed dubium est quando est talis metus: &amp; quando non. ergo
+   du<lb ed="#B" n="65" break="no"/>bium est quando est matrimonium. Respondetur. prudens &amp; 
+   <lb ed="#B" n="66"/>iudex habet de tali metu iudicare in casu ambiguo.- 
+   <lb ed="#B" n="67"/>Sed contra hoc arguitur. Si erat metus sufficiens 
+   <lb ed="#B" n="68"/>constantem virum mouere: reuera non est matri 
+   <lb ed="#B" n="69"/>monium. nam potest esse quod iudex &amp; prudentes
+   con<lb ed="#B" n="70" break="no"/>sulti iudicent non esse talem metum. &amp; per
+   conse<lb ed="#B" n="71" break="no"/>quens separabunt matrimonium vere contractum. 
+   <lb ed="#B" n="72"/>Respondetur. argumentum non cogit in propo 
+   <lb ed="#B" n="73"/>sito. Fadem enim est difficultas in aliis materiis: sed 
+   <lb ed="#B" n="74"/>contingit quod iudex &amp; prudentes sint omnes excusati 
+   <lb ed="#B" n="75"/>per errorem inuincibilem. putantes non esse matri 
+   <lb ed="#B" n="76"/>monium quando est: &amp; econuerso. In talibus au 
+   <lb ed="#B" n="77"/>tem si homines facientes quod in se est aberrent: non 
+   <lb ed="#B" n="78"/>imputatur eis quod transgrediantur illud praeceptum 
+   <lb ed="#B" n="79"/>Christi. Quos deus coniunxit homo no separet. 
+  </p>
+      <p xml:id="jMqv4a-d1e1429-d1e1312">
+       <lb ed="#B" n="80"/>⁋ Hactenus de metu, &amp; quis cadat in constantem 
+   <lb ed="#B" n="81"/>virum vel mulierem, quam consensum non dat sufficientem 
+   <lb ed="#B" n="82"/>ad matrimonium. quare stante tali metu vir non de 
+   <lb ed="#B" n="83"/>bet mulierem cognoscere, nec econverso mulier potest 
+   <lb ed="#B" n="84"/>pati se cognosci: quia hoc velle facere vel pati vbi 
+   <lb ed="#B" n="85"/>resistere pot, est peccatum extra matrimonium: 
+   <lb ed="#B" n="86"/>nisi ignorantia inuincibilis excuset. Vbi autem
+   mu<lb ed="#B" n="87" break="no"/>ier est in captiuitate, secundum vires resistens, semper
+   prae<lb ed="#B" n="88" break="no"/>sumitur consensus coactus. sed si libere permittat se co 
+   <lb ed="#B" n="89"/>gnosci praesumitur consensus liber. praesertim si non dis 
+   <lb ed="#B" n="90"/>cedat cu libere discedere potest: praesumitur quod consensum 
+   <lb ed="#B" n="91"/>coactum in consensum pure spontaneum
+   mutaue<lb ed="#B" n="92" break="no"/>rit: qui ad matrimonium sufficit. Metus tamen non 
+   <lb ed="#B" n="93"/>cadens in constantem virum non irritatur. Praetei 
+   <lb ed="#B" n="94"/>ea / tempore metus dicens se aliam vxorem velle
+   du<lb ed="#B" n="95" break="no"/>cere, &amp; hoc iurans: nec mentitur nec peierat,
+   inten<lb ed="#B" n="96" break="no"/>dens tamen id complere quantum in se est: quia illa
+   con<lb ed="#B" n="97" break="no"/>ditio tacite est intelligenda. Si tamen animo dissen 
+   <lb ed="#B" n="98"/>tiret peccaret: nec est timor in constantem virum
+   ca<lb ed="#B" n="99" break="no"/>dens. sed talis consensus est iure ipso irritus &amp; in  
+   <lb ed="#B" n="100"/>anis: &amp; a iure annihilationem capit. secus est in con 
+   <lb ed="#B" n="101"/>sensu mixto: qualem habet capiens ad vsuram de 
+   <lb ed="#B" n="102"/>transsatione lucri vltra sortem: vel qualem habet quis 
+   <lb ed="#B" n="103"/>de pecunia raptori danda. blanditiae autem &amp; pulchra 
+   <lb ed="#B" n="104"/>allectiua regulariter non sic mouent vt terribiles mi 
+   <lb ed="#B" n="105"/>nae. quapropter a iure non irritantur.
+  </p>
+    </div>
+   </body>
+  </text>
+</TEI>

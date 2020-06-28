@@ -1,0 +1,382 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 1</title>
+      <author ref="#JohnMair">John Mair</author>
+      <respStmt>
+       <name>Jeffrey C. Witt</name>
+       <resp>TEI Encoder</resp>
+      </respStmt>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 1</title>
+       <date when="2020-06-09">June 27, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="B" n="cod-Bda113">Badius 1516</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+     guidelines for a diplomatic edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-06-27" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+      <pb ed="#B" n="30-v"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="jMqv4a-d1e161"> <!-- l4d5q1 -->
+      <head xml:id="jMqv4a-d1e161-Hd1e104">Quaestio 1</head>
+      <head xml:id="jMqv4a-d1e161-Hd1e107" type="question-title">An liceat recipere baptismum a ministor malo vito</head>
+      <p xml:id="jMqv4a-d1e161-d1e110">
+       <lb ed="#B" n="78"/>IN hac quin 
+   <lb ed="#B" n="79"/>ta distinctione con 
+   <lb ed="#B" n="80"/>formiter ad Ma 
+   <lb ed="#B" n="81"/>gistrum quaero. 
+   <lb ed="#B" n="82"/>An liceat recipe 
+   <lb ed="#B" n="83"/>re baptismum a 
+   <lb ed="#B" n="84"/>malo ministro, 
+   <lb ed="#B" n="85"/>vel potius a
+   mi<lb ed="#B" n="86" break="no"/>nistro malo
+   vi<lb ed="#B" n="87" break="no"/>ro: quia solus ille 
+   <lb ed="#B" n="88"/>est malus minister 
+   <lb ed="#B" n="89"/>qui nescit vel non 
+   <lb ed="#B" n="90"/>vult sacramentum 
+   <lb ed="#B" n="91"/>conferre: &amp; ille est bonus minister qui nouit face 
+   <lb ed="#B" n="92"/>re omnia qua tali officio incumbunt, &amp; vult illa facere. Ille 
+   <lb ed="#B" n="93"/>autem est malus homo quid est in peccato mortali: &amp; 
+   <lb ed="#B" n="94"/>ille est bonus quid est in gratia, siue sit in veniali pec 
+   <lb ed="#B" n="95"/>cato siue in habitibus ex mortali genitis. &amp; sic
+   con<lb ed="#B" n="96" break="no"/>tingit frequenter Sortem esse bonum ministrum &amp; malum 
+   <lb ed="#B" n="97"/>virum: bonum virum &amp; malum ministrum, quemadmodum  
+   <lb ed="#B" n="98"/>bonus eremita esset malus regens in artibus: &amp;
+   bo<lb ed="#B" n="99" break="no"/>nus ianitor / vel bonus famulus nonnumquam est malus 
+   <lb ed="#B" n="100"/>vir: sicut Plato est bonus pistor &amp; malu animal: 
+   <lb ed="#B" n="101"/>magnus latro &amp; paruum animal: magnus irtisor &amp;
+   par<lb ed="#B" n="102" break="no"/>uus homo. Quo fit: vt licet sequatur Sortes est
+   bo<lb ed="#B" n="103" break="no"/>nus homo: ergo est bonum ens: non tamen sequitur:
+   Sor<lb ed="#B" n="104" break="no"/>tes est bonus pistor: ergo est bonum ens, quia vari 
+   <lb ed="#B" n="105"/>atur appellatio, nec arguitur ab inferiori ad superius 
+   <lb ed="#B" n="106"/>respectu totalis extremi. sicut in simili non sequitur 
+   <!--0093.xml-->
+   <pb ed="#B" n="31-r"/>
+       <cb ed="#B" n="a"/>
+       <lb ed="#B" n="1"/>Sortes est magister Parisiensis: ergo Sortes est 
+   <lb ed="#B" n="2"/>homo Parisiensis. Et licet hanc distinguere ex fun 
+   <lb ed="#B" n="3"/>damentis logicae possemus: minister est malus: pe 
+   <lb ed="#B" n="4"/>nes hoc quod adiectiuum a parte praedicati positum potest
+   ha<lb ed="#B" n="5" break="no"/>bere subiectum pro substantiuo: vel includere seu dare 
+   <lb ed="#B" n="6"/>intelligendum pro substantiuo terminum absolutum
+   sup<lb ed="#B" n="7" break="no"/>ponentem pro re pro qua accipitur subiectum, vt homo, res 
+   <lb ed="#B" n="8"/>vel huiusmodi secundum exigentiam congruitatis: tamen de 
+   <lb ed="#B" n="9"/>secundo modo intelligimus in hac quaestione. 
+  </p>
+      <p xml:id="jMqv4a-d1e161-d1e201">
+       <lb ed="#B" n="10"/>⁋ Intentione nostra praemissam: in quo 
+   <lb ed="#B" n="11"/>sensu quaestionem tractare proponamus: ad eam responi 
+   <lb ed="#B" n="12"/>deo per conclusiones sequentes: quarum Prima est. 
+   <lb ed="#B" n="13"/>Praecisus ab ecclesia, haereticus vel infidelis
+   inten<lb ed="#B" n="14" break="no"/>dens facere quod ecclesia intendit, vtendo forma bapti 
+   <lb ed="#B" n="15"/>smi &amp; aqua, vere baptizat. Probatur haec conclusio 
+   <lb ed="#B" n="16"/>per <name xml:id="jMqv4a-d1e161-Nd1e218">Nicolaum papam</name> ad consulta Bulgarorum. xv. qui. S. 
+   <lb ed="#B" n="17"/>ca. fi. qui dicit. Quniam mali bona administrando se 
+   <lb ed="#B" n="18"/>tmummodo laedunt &amp;c. Fax accensa sibi quidem detrimen 
+   <lb ed="#B" n="19"/>tum praestat: aliis vero lumen in tenebris administrat: 
+   <lb ed="#B" n="20"/>&amp; vnde aliis commodum exhibet, inde sibi dispendium 
+   <lb ed="#B" n="21"/>praebet. Sumite ergo ab omni sacerdote intrepidi 
+   <lb ed="#B" n="22"/>Christi mysteria: quia omnia in fide Christi purgantur 
+   <lb ed="#B" n="23"/>Hoc idem habet <name xml:id="jMqv4a-d1e161-Nd1e236" ref="#Augustine">Augustinus</name> contra Petilianu in
+   li<lb ed="#B" n="24" break="no"/>bro de baptismo. Et probatur haec conclusio ratione. 
+   <lb ed="#B" n="25"/>De essentia huius sacramenti solum sunt materia 
+   <lb ed="#B" n="26"/>baptizandus, forma, intentio, &amp; minister, quam est qua 
+   <lb ed="#B" n="27"/>cumque creatura rationalis.
+  </p>
+      <p xml:id="jMqv4a-d1e161-d1e250">
+   ⁋ Secunda conclusio. licet 
+   <lb ed="#B" n="28"/>immo praeceptum est, sine peccato baptismum petere in 
+   <lb ed="#B" n="29"/>necessitate: tam pro se quam pro paruulo: a praeciso fideli, vel 
+   <lb ed="#B" n="30"/>aliter prohibito: &amp; non extra necessitatem. Probatur haec 
+   <lb ed="#B" n="31"/>conclusio quo ad priorem partem: nam si non liceret: hoc 
+   <lb ed="#B" n="32"/>esset propter prohibitionem ecclesiae: sed hoc non: quia 
+   <lb ed="#B" n="33"/>lex dei est de suscipiendo baptismo strictissime 
+   <lb ed="#B" n="34"/>obligans vbi haberi potest: sed in necessitate adultus 
+   <lb ed="#B" n="35"/>est moriturus, &amp; nullu alium habet nisi praecisum. igil 
+   <lb ed="#B" n="36"/>Non valet dicere quod sufficit ei sua voluntas bapti 
+   <lb ed="#B" n="37"/>zandi: quia illa no sufficit: sed obligatus maneret 
+   <lb ed="#B" n="38"/>vbi haberetur communis ecclesiae minister: nec illa obliga 
+   <lb ed="#B" n="39"/>tio diuina tollitur propter prohibitionem ecclesiae. igitur 
+   <lb ed="#B" n="40"/>Et a fortiore tenetur petere baptismum pro suo
+   puu<lb ed="#B" n="41" break="no"/>lo, quod patet per eandem rationem. &amp; est alia etiam: quia ali 
+   <lb ed="#B" n="42"/>ter erit perpetuo damnatus poena damni: ad cuius l 
+   <lb ed="#B" n="43"/>berationem ille tenetur. Secunda pars conclusionis
+   pa<lb ed="#B" n="44" break="no"/>tet. quia prohibitum est talibus communicare / &amp; potissimum 
+   <lb ed="#B" n="45"/>in sacramentis: vt patebit amplius distinctione. xviii 
+   <lb ed="#B" n="46"/>in materia excommunicationis.
+  </p>
+      <p xml:id="jMqv4a-d1e161-d1e294">
+   ⁋ Tertia conclusio. 
+   <lb ed="#B" n="47"/>licet mihi suscipere sacramentum a superiore meo 
+   <lb ed="#B" n="48"/>malo ministro non praeciso, licet sciam eum peccare sa 
+   <lb ed="#B" n="49"/>cramentum conferendo. Probatur haec conclusio.
+   incumbi<lb ed="#B" n="50" break="no"/>mihi sacramentum suscipere pro me vel meis: &amp; mihi 
+   <lb ed="#B" n="51"/>displicet quod peccet: immo est vero simile si non susci 
+   <lb ed="#B" n="52"/>perem ab eo magis peccaret contra me irascendo quod 
+   <lb ed="#B" n="53"/>eum contemnam, vel emolumentum curato debitum tolla 
+   <lb ed="#B" n="54"/>&amp; quia eum a peccato veto: propterea eius peccatum 
+   <!--0093.xml-->
+   <cb ed="#B" n="b"/> 
+       <!-- 31-r b -->
+       <lb ed="#B" n="55"/>mihi non impuntabitur. Secundo probatur idem. si non 
+   <lb ed="#B" n="56"/>liceat ab eo sacramentum suscipere: hoc est quia 
+   <lb ed="#B" n="57"/>scio eum peccare in conferendo. sed hoc non obstat. 
+   <lb ed="#B" n="58"/>igitur. probatio minoris: quia si sic, non possem
+   ca<lb ed="#B" n="59" break="no"/>pere ad vsuram quando egeo ab vsurario: quem
+   pec<lb ed="#B" n="60" break="no"/>care nosco pecuniam foenebrem dando. cuius
+   op<lb ed="#B" n="61" break="no"/>positum dicetur distinctione. xv. huius. Item licet susci 
+   <lb ed="#B" n="62"/>pere iuramentum viri iurantis super idola pro bono spi 
+   <lb ed="#B" n="63"/>rituali: ita enim fecit Iacob cum Laban. Gen. xi. igitur. 
+  </p>
+      <p xml:id="jMqv4a-d1e161-d1e340">
+       <lb ed="#B" n="64"/>⁋ Contra primam conclusionem
+   ar<lb ed="#B" n="65" break="no"/>guitur auctoritate Cypriani martyris, &amp; recitatur 
+   <lb ed="#B" n="66"/>xxxii. dist. c. Praeter. S. Haec de malis. vbi sic dicitur. 
+   <lb ed="#B" n="67"/>Cyprianus martyr &amp;. lxxx. episcopi cum eodem
+   ba<lb ed="#B" n="68" break="no"/>ptisma haereticorum lauacrum diaboli appellant. 
+  </p>
+      <p xml:id="jMqv4a-d1e161-d1e353">
+       <lb ed="#B" n="69"/>⁋ Respondetur. In hoc non est tenendus beatus Cyi 
+   <lb ed="#B" n="70"/>rianus. stati enim post verba allegata inter arguendum 
+   <lb ed="#B" n="71"/>ponitur. Stephanus vero &amp; Cornelius martyres &amp; 
+   <lb ed="#B" n="72"/>ontifices Romani i &amp; venerabilis <name xml:id="jMqv4a-d1e161-Nd1e363" ref="#Augustine">Augustinus</name> in  
+   <lb ed="#B" n="73"/>libro de baptismo eundem Cyprianum &amp; perfatos
+   epi<lb ed="#B" n="74" break="no"/>scopos ob hanc causam vehementer redarguunt, af 
+   <lb ed="#B" n="75"/>firmantes baptisma / siue ab haeretico / siue schisma 
+   <lb ed="#B" n="76"/>tico / ecclesiastico more celebratum, ratum esse. Et li 
+   <lb ed="#B" n="77"/>cet tenuerit haeresim, non sequitur quod fuerit haereticus 
+   <lb ed="#B" n="78"/>quia vltra haeresim ad haereticum pertinacia requiritur 
+   <lb ed="#B" n="79"/>et si non tenebatur beatus Cyprianus hoc scire
+   ex<lb ed="#B" n="80" break="no"/>plicite (quod est forte verum) nullo modo peccauit: 
+   <lb ed="#B" n="81"/>prout latius quaestione secunda prologi diximus. Sed 
+   <lb ed="#B" n="82"/>dicis. vetula assentiens praelato praedicanti haeresim
+   pec<lb ed="#B" n="83" break="no"/>cat. ergo &amp; Cyprianus, quamquam non tenebatur assentire 
+   <lb ed="#B" n="84"/>opposito. Respondetur. antecedens est falsum: quando  
+   <lb ed="#B" n="85"/>non tenetur oppositum scire explicite. Positio enim Ali 
+   <lb ed="#B" n="86"/>tisiodori est nulla: quod sic probo. vetula potest assenti 
+   <lb ed="#B" n="87"/>re praelato praedicanti propositionem quam num quam ante
+   audi<lb ed="#B" n="88" break="no"/>uit: &amp; no est in potestate mulieris quod platus
+   praedi<lb ed="#B" n="89" break="no"/>cet verum vel falsum: ergo assentiens falso, cuius op 
+   <lb ed="#B" n="90"/>positum non tenetur scire, no minus meretur quam vero as 
+   <lb ed="#B" n="91"/>sentiens: sicut cadit meritum in actum intellectus. Pri 
+   <lb ed="#B" n="92"/>terea sic arguitur. cuilibet praedicato cuius opposi 
+   <lb ed="#B" n="93"/>tum non tenetur vetula scire, sui curati clarae fami 
+   <lb ed="#B" n="94"/>potest ipsa assentire: sed Thobias non habuit 
+   <lb ed="#B" n="95"/>vnum canem, est huiusmodi: ergo illi potest
+   assenti<lb ed="#B" n="96" break="no"/>re. Sed dicis. dubius in fide est haereticus. de haere 
+   <lb ed="#B" n="97"/>ca. Dubius. Respondetur pronunc, hoc intelligi in  
+   <lb ed="#B" n="98"/>his quae quis scire tenetur: &amp; quando scire tenetur. 
+   <lb ed="#B" n="99"/>In distin. xxiii. tertii. prolixius ad illam propositio 
+   <lb ed="#B" n="100"/>nem respondemus. 
+  </p>
+      <p xml:id="jMqv4a-d1e161-d1e428">
+       <lb ed="#B" n="101"/>⁋ Contra secundam conclusionem arguitur. 
+   <lb ed="#B" n="102"/>Ex illa conclusione sequitur quod quilibet baptismum 
+   <lb ed="#B" n="103"/>administrans in necessitate non peccaret: &amp; per
+   conse<lb ed="#B" n="104" break="no"/>quens laicus posset baptizare: quod est falsum: vt 
+   <lb ed="#B" n="105"/>patet in. c. Decernimus. de iudiciis. illic dicitur quod lai 
+   <lb ed="#B" n="106"/>cus non potest exercere ecclessastica iudicia: mo 
+   <lb ed="#B" n="107"/>do baptismus est quid spirituale.
+  </p>
+      <p xml:id="jMqv4a-d1e161-d1e446">
+   ⁋ Responde- 
+   <!--0094.xml-->
+   <pb ed="#B" n="31-v"/>
+       <cb ed="#B" n="a"/>
+       <lb ed="#B" n="1"/>tur quod in necessitate nullus peccat baptizando: &amp; 
+   <lb ed="#B" n="2"/>concedo quod laicus in necessitate potest baptizare. 
+   <lb ed="#B" n="3"/>Illud enim est ei a iure naturae &amp; diuino permissum 
+   <lb ed="#B" n="4"/>&amp; etiam humano: vt patet. i. qui. i. Quod quidam. de poe 
+   <lb ed="#B" n="5"/>dist. i. Quem poenitet. Sacerdos tamen debet laico cui 
+   <lb ed="#B" n="6"/>libet praeferri si sit praesens: &amp; mas foeminae si baptiza 
+   <lb ed="#B" n="7"/>re sciat. minister tamen ommunis est curatus: vel superior 
+   <lb ed="#B" n="8"/>eius. xvi. q. i. ca. Interdicimus. Et quilibet non sacer 
+   <lb ed="#B" n="9"/>dos baptizans extra necessitatem, irregularis efficitur. 
+   <lb ed="#B" n="10"/>de cleri, non ordi. ca. i. Sacerdos tamen habens
+   faculta<lb ed="#B" n="11" break="no"/>tem audiendi confessiones, non propterea potest baptizare: 
+   <lb ed="#B" n="12"/>sed si baptizat non est irregularis nec suspensus: quia 
+   <lb ed="#B" n="13"/>llud est poenale: &amp; quia non reperitur iure cautum,
+   restrin<lb ed="#B" n="14" break="no"/>gendum est. secus de alieno ordinante. 
+  </p>
+      <p xml:id="jMqv4a-d1e161-d1e486">
+       <lb ed="#B" n="15"/>⁋ Contra tertiam conclusionem arguitur. 
+   <lb ed="#B" n="16"/>Baptizans in mortali peccato peccat: quoniam immum 
+   <lb ed="#B" n="17"/>de sacramenta tractat: vt patebit paulo inferius 
+   <lb ed="#B" n="18"/>de Eucharistia. ergo sciens hoc / &amp; quirens ab eo ba 
+   <lb ed="#B" n="19"/>ptismu / est causa peccati illius: &amp; per cosequens pec 
+   <lb ed="#B" n="20"/>cat.
+  </p>
+      <p xml:id="jMqv4a-d1e161-d1e502">
+   ⁋ Praeterea quaerens baptismum / cosentit actui
+   ba<lb ed="#B" n="21" break="no"/>ptizandi curati quid est peccatum: ergo consentit
+   pec<lb ed="#B" n="22" break="no"/>tato: &amp; per consequens peccat. Nam ad Romanos
+   pri<lb ed="#B" n="23" break="no"/>mo, de gentibus Apostolus loquens dicit. Qui cum 
+   <lb ed="#B" n="24"/>iustitiam dei cognouissent non intellexerunt: quoniam qui 
+   <lb ed="#B" n="25"/>talia agunt digni sunt morte: non solum qui faciunt, 
+   <lb ed="#B" n="26"/>sed qui consentiunt facientibus.
+  </p>
+      <p xml:id="jMqv4a-d1e161-d1e518">
+   ⁋ Ad primum istorum 
+   <lb ed="#B" n="27"/>dico quod non requiritur talis indago peccati hic sicut 
+   <lb ed="#B" n="28"/>in Eucharistia. Expresse namque de Eucharistia hoc 
+   <lb ed="#B" n="29"/>legimus, primae ad Corinth. xi. Probet autem seipsum 
+   <lb ed="#B" n="30"/>homo. Subito autem potest offerri baptizandus in 
+   <lb ed="#B" n="31"/>mortis articulo: quod in Eucharistia non contingit: &amp; 
+   <lb ed="#B" n="32"/>tunc baptizans no peccat. Si tamen tempus habeat,
+   re<lb ed="#B" n="33" break="no"/>quiritur (vt opinor) vt saltem sua peccata in gene 
+   <lb ed="#B" n="34"/>rali detestetur: intendens confiteri pro loco &amp; tempore: &amp; 
+   <lb ed="#B" n="35"/>tunc non peccat. Secundo non facile debet inferior re 
+   <lb ed="#B" n="36"/>putare suum superiorem esse in peccato: &amp; peccare ba 
+   <lb ed="#B" n="37"/>ptizando: quamquam ante erat in peccato. Sed vbi ante 
+   <lb ed="#B" n="38"/>occidit: vel auquam irregularitatem contraxit curatus 
+   <lb ed="#B" n="39"/>ita vt non possit baptizare sine peccato: &amp; hoc non 
+   <lb ed="#B" n="40"/>uit subditus: hoc toto admisso concedo antecedens, 
+   <lb ed="#B" n="41"/>&amp; nego consequentiam: nisi sit sermo de cause
+   indi<lb ed="#B" n="42" break="no"/>recta &amp; occasionali: quae petenti debitum non imputa 
+   <lb ed="#B" n="43"/>bitur: vt patet in exemplis in probationem illius conclu 
+   <lb ed="#B" n="44"/>sionis inductis.
+  </p>
+      <p xml:id="jMqv4a-d1e161-d1e560">
+   ⁋ Ad secundum concedo quod subditus 
+   <lb ed="#B" n="45"/>consentit actui baptizandi: &amp; quamuis actus ille sit pec 
+   <lb ed="#B" n="46"/>catum: non propterea sequitur quod cosentit peccato: quia 
+   <lb ed="#B" n="47"/>non placet ei quod peccat: immo si sit prudens displicet 
+   <lb ed="#B" n="48"/>ei peccatum alterius. Consentire enim importat actum 
+   <lb ed="#B" n="49"/>animi interiorem: &amp; propriam appellat rationem.
+  </p>
+      <p xml:id="jMqv4a-d1e161-d1e573">
+   ⁋ Sed 
+   <lb ed="#B" n="50"/>theologice loquendo ad intelligendum quando consen 
+   <lb ed="#B" n="51"/>tiens peccato / vel peccato cooperans peccat: intel 
+   <lb ed="#B" n="52"/>lige duas breues regulas: quarum Prior est. quando  
+   <lb ed="#B" n="53"/>quis facit vel petit licite aliquid ab aliquo: licet
+   al<lb ed="#B" n="54" break="no"/>ter ex sua imprudentia peccet: is non dicitur coopari 
+   <!--0094.xml-->
+   <cb ed="#B" n="b"/> 
+       <!-- 31-v b -->
+       <lb ed="#B" n="55"/>vel consentire peccato alterius: vt in casu nostrae 
+   <lb ed="#B" n="56"/>conclusionis: &amp; de petente mutuo: quamuis sciat quod non 
+   <lb ed="#B" n="57"/>habebit mutuum nisi foenebre. Secunda regula per 
+   <lb ed="#B" n="58"/>oppositum sequens: quando quis petit aliquid ab aliquo 
+   <lb ed="#B" n="59"/>sciens quod ad petitionem eius dabitur fratri suo occa 
+   <lb ed="#B" n="60"/>sio ruinae, &amp; non habet licitam rationem illud petendi: 
+   <lb ed="#B" n="61"/>ille peccato fratris cooperatur: &amp; illi consentit impu 
+   <lb ed="#B" n="62"/>tabiliter. Quando vero rationabilis sit petitio: &amp; 
+   <lb ed="#B" n="63"/>quando irrationabilis: sapientis est iudicare: quia regula 
+   <lb ed="#B" n="64"/>generalis dari nequit.
+  </p>
+      <p xml:id="jMqv4a-d1e161-d1e614">
+   ⁋ Tertio arguitur. ponatur quod 
+   <lb ed="#B" n="65"/>sit sacerdos ita prauus vt non velit baptizare nisi 
+   <lb ed="#B" n="66"/>pecuniam habeat pro baptismo: &amp; subditus Sortes 
+   <lb ed="#B" n="67"/>habeat vnum paruulum baptizandum, baptizare nequi 
+   <lb ed="#B" n="68"/>ens: nec sit aiius praesens: &amp; paruulus sit in vitae discri 
+   <lb ed="#B" n="69"/>mine. Isto casu supposito arguitur sic: Sortes si 
+   <lb ed="#B" n="70"/>det pecuniam pro baptismo: sacramentum emit / &amp; simo 
+   <lb ed="#B" n="71"/>niam committit, quae est grande peccatum: sed potius paruu 
+   <lb ed="#B" n="72"/>lus relinquendus est morti quam ipse peccet. ergo non 
+   <lb ed="#B" n="73"/>licet communicare cum sacerdote malo vt baptizet. 
+  </p>
+      <p xml:id="jMqv4a-d1e161-d1e637">
+       <lb ed="#B" n="74"/>⁋ Respondetur. si adultus est baptizandus sufficit ei sua 
+   <lb ed="#B" n="75"/>bona voluntas quod baptizari optat: et si sic decedat 
+   <lb ed="#B" n="76"/>baptizatur baptismo flaminis. Sed in casu argumen 
+   <lb ed="#B" n="77"/>ti de paruulo dicitur quod potest subditus aquam emere plu 
+   <lb ed="#B" n="78"/>ris quam valeat propter indigentiam: &amp; hoc est licitum sine 
+   <lb ed="#B" n="79"/>vlla simonia. Secundo pot dare pro vexatione
+   redimen<lb ed="#B" n="80" break="no"/>da: hoc est pro obice debito remouendo: &amp; nihil
+   da<lb ed="#B" n="81" break="no"/>bit pro baptismo. licet alter petat pro baptismo, quem 
+   <lb ed="#B" n="82"/>admodu do sacerdoti pro me celebranti sex paruos 
+   <lb ed="#B" n="83"/>albos pro eius sustentatione vel labore: siue ipse capiat 
+   <lb ed="#B" n="84"/>pro missa siue non: nihil ad me. Et si adhuc
+   impor<lb ed="#B" n="85" break="no"/>tune ponas eum ita malum vt dicat: non baptizabo per 
+   <lb ed="#B" n="86"/>uulum tuum nisi promittas verbaliter te daturum
+   pecu<lb ed="#B" n="87" break="no"/>niam pro baptismo, &amp; non pro labore, aqua, vel redimen 
+   <lb ed="#B" n="88"/>da vexatione, quia aliter non baptizabo: tunc puulus 
+   <lb ed="#B" n="89"/>est reliquendus: quia si illd profert &amp; non assentit sicut pro 
+   <lb ed="#B" n="90"/>fert, mentitur &amp; peccat. Si vero intendat pecuniam dare 
+   <lb ed="#B" n="91"/>per sacramento: realiter simoniam committit: &amp; iterato 
+   <lb ed="#B" n="92"/>peccat. potius autem paruulus est sinendus damnati quam deus 
+   <lb ed="#B" n="93"/>offendatur per peccatum mortale vel veniale. 
+  </p>
+      <p xml:id="jMqv4a-d1e161-d1e683">
+       <lb ed="#B" n="94"/>⁋ lam vidimus quod no est idem dicere 
+   <lb ed="#B" n="95"/>malus minister: malus homo: &amp; malus sacerdos 
+   <lb ed="#B" n="96"/>sed de secundo potissimum loquimur. Diximus praeterea 
+   <lb ed="#B" n="97"/>haereticum infidelem: &amp; quamlibet creaturam rationalem esse 
+   <lb ed="#B" n="98"/>sufficientem ministrum ad baptismum dummodo seruet 
+   <lb ed="#B" n="99"/>caetera necessaria quae minister communis seruare debet. Et 
+   <lb ed="#B" n="100"/>licet <name xml:id="jMqv4a-d1e161-Nd1e700" ref="#JeanGerson">Ioannes Gerson</name> in regulis moralibus dicat 
+   <lb ed="#B" n="101"/>de necessitate requiri quod minister fit viator: hoc tamen 
+   <lb ed="#B" n="102"/>non opinor: quia non debemus ministrum restringere 
+   <lb ed="#B" n="103"/>vbi de hoc non constat. Est enim sacramentum necessita 
+   <lb ed="#B" n="104"/>tis: quemlibet ad sui obseruantiam districtissime
+   obli<lb ed="#B" n="105" break="no"/>gans. ergo sicut est communissimum, decens est vt
+   ha<lb ed="#B" n="106" break="no"/>beat ministrum communissimum: &amp; quamlibet creaturan 
+   <lb ed="#B" n="107"/>rationalem putare sufficientem debemus / nisi de eius insuf 
+   <lb ed="#B" n="108"/>ficientia doceatur. immo cacodaemon sufficeret: sed  
+   <!--0095.xml-->
+   <pb ed="#B" n="32-r"/>
+       <cb ed="#B" n="a"/>
+       <lb ed="#B" n="1"/>quia circa genus humanum deceptionem intendit: de 
+   <lb ed="#B" n="2"/>bemus sicut in dubiis illic procedere. secus est de 
+   <lb ed="#B" n="3"/>bono angelo cognito tali. quinimo pater proprius 
+   <lb ed="#B" n="4"/>infantis potest in necessitate paruulum baptizare, absque 
+   <lb ed="#B" n="5"/>hoc quod cognationem spiritualem incurrat: &amp; sic idi 
+   <lb ed="#B" n="6"/>erit pater carnalis &amp; baptizans. secus est extra
+   ne<lb ed="#B" n="7" break="no"/>cessitatem. In necessitate quoque potest quis pro paruulo &amp; 
+   <lb ed="#B" n="8"/>pro se baptismum suscipere a praeciso: vtpote ab excom 
+   <lb ed="#B" n="9"/>municato: qui maxima poena ecclesiastica est inno 
+   <lb ed="#B" n="10"/>datus praecepto diuino. Praeceptum enim ecclesiae de non 
+   <lb ed="#B" n="11"/>communicando cum excommunicato: quo ad
+   sacramen<lb ed="#B" n="12" break="no"/>tum necessitatis, scilicet baptismum, cedit. secus est extra 
+   <lb ed="#B" n="13"/>extremam necessitatem. Excommunicatum solum illum reputa 
+   <lb ed="#B" n="14"/>mus qui nominatim &amp; in speciali est excommunicatus &amp; 
+   <lb ed="#B" n="15"/>talis declaratus, nisi clericum percusserit: sic quod percussio 
+   <lb ed="#B" n="16"/>ita notoria fuerit vt nulla tergiuersatione subter 
+   <lb ed="#B" n="17"/>fugere possit: prout luculentius dicere proponimus i 
+   <lb ed="#B" n="18"/>xviii. distinctione huius. Deinde diximus baptizantem 
+   <lb ed="#B" n="19"/>sacerdotem saltem ad detestationem peccatorum suorum in 
+   <lb ed="#B" n="20"/>generali teneri: potissimum si tempus habeat: quia si 
+   <lb ed="#B" n="21"/>paruulus in discrimine vitae positus, baptizandus in  
+   <lb ed="#B" n="22"/>opinate defertur: non tenetur sub poena noui peccati 
+   <lb ed="#B" n="23"/>ad peccatorum suorum detestationem: ne aliud praeceptum 
+   <lb ed="#B" n="24"/>de paruulo baptizando praetereat.
+  </p>
+    </div>
+   </body>
+  </text>
+</TEI>

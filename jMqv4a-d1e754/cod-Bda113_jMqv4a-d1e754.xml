@@ -1,0 +1,428 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 32</title>
+      <author ref="#JohnMair">John Mair</author>
+      <respStmt>
+       <name>Jeffrey C. Witt</name>
+       <resp>TEI Encoder</resp>
+      </respStmt>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 32</title>
+       <date when="2020-06-09">June 27, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="B" n="cod-Bda113">Badius 1516</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+     guidelines for a diplomatic edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-06-27" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+      <pb ed="#B" n="141-r"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="jMqv4a-d1e754"> <!-- l4d15q32 -->
+      <head xml:id="jMqv4a-d1e754-Hd1e104">Quaestio 32</head>
+      <head xml:id="jMqv4a-d1e754-Hd1e107" type="question-title">An iste casus sit usurarius. 
+  Ego habeo unum corum tritici, in festo sancti Martini valentem 
+  xx. quem volo servare ad Augustum in quo 
+  triticum solet esse carius apud Britannos. accedat ad me Petrus volens 
+  emere a corum, petens 
+  dilationem solutionis: et ego capio. xxx. pro Augusto</head>
+      <p xml:id="jMqv4a-d1e754-d1e110">
+       <lb ed="#B" n="74"/>QVarto quaeritur circa 
+   <lb ed="#B" n="75"/>hanc vsurae materiam an iste 
+   <lb ed="#B" n="76"/>vscasus sit vsurarius. ego habeo 
+   <lb ed="#B" n="77"/> vnum corum tritici / in festo sam 
+   <lb ed="#B" n="78"/>cti Martini valentem. xx. quem 
+   <lb ed="#B" n="79"/>quam volo seruare ad augustum in 
+   <lb ed="#B" n="80"/>i quo triticum solet esse carius apud 
+   <lb ed="#B" n="81"/> Britannos. vel econtrario
+   du<lb ed="#B" n="82" break="no"/>catur casus apud bis colligentes fructus annue: vt 
+   <lb ed="#B" n="83"/>fit apud habitantes inter tropicos &amp; prope eos. &amp; 
+   <lb ed="#B" n="84"/>ducatur proportionabiliter casus. licet enim bis colli 
+   <lb ed="#B" n="85"/>gant segentes: tamen propter situm terrae nonnumquam habent 
+   <lb ed="#B" n="86"/>annos steriles: vt patet ex Gene. xli. ca. de Aegy 
+   <lb ed="#B" n="87"/>pto. etiam vno tempore propinquo vel vicino col 
+   <lb ed="#B" n="88"/>ectioni segetum habent annona cariorem vel minus 
+   <lb ed="#B" n="89"/>caram. accedit ad me Petrus volens emere a. corum 
+   <lb ed="#B" n="90"/>petens dilationem solutionis: ego capio. xxx pro 
+   <lb ed="#B" n="91"/>augusto: ergo lucrum vltra sortem: &amp; tamen non pecco 
+   <lb ed="#B" n="92"/>quod probo, quia possum consulere commoditati meae 
+   <lb ed="#B" n="93"/>sine detrimeto alicuius cui non obligor sub poe 
+   <lb ed="#B" n="94"/>na peccati. sed ego intendebam seruare a. corum 
+   <lb ed="#B" n="95"/>ad augustum vsque. igitur.
+  </p>
+      <p xml:id="jMqv4a-d1e754-d1e160">
+   ⁋ Respondeo. vel ego eram ver 
+   <lb ed="#B" n="96"/>diturus nunc meu corum si haberem solutionem in
+   pron<lb ed="#B" n="97" break="no"/>ptu secundum praecium vsitatum seu currens: vel eran 
+   <lb ed="#B" n="98"/>expectaturus Augustum in quo triticum solet esse ca 
+   <lb ed="#B" n="99"/>rissimum. Si primum, sum vsurarius. Si secundum, 
+   <lb ed="#B" n="100"/>non sum. lstud patet de vsuris. Nauiganti. vbi di 
+   <lb ed="#B" n="101"/>cit Romanus pontifex. Ille quoque qui dat decem so 
+   <lb ed="#B" n="102"/>lidos: vt alio tempore totidem sibi grani, vini / vel 
+   <lb ed="#B" n="103"/>olei mensurae reddantur: quae licet tunc plus valeant: 
+   <lb ed="#B" n="104"/>vtrum plus vel minus solutionis tempore fuerit 
+   <lb ed="#B" n="105"/>valiturae: verisimiliter dubitatur: non debet ex hoc vsu 
+   <!--0314.xml-->
+   <pb ed="#B" n="141-v"/>
+       <cb ed="#B" n="a"/>
+       <lb ed="#B" n="1"/>rarius reputari. Ratione huius dubii etiam excu 
+   <lb ed="#B" n="2"/>satur qui pannos, frumentum, vinum, oleum, vel alias merces 
+   <lb ed="#B" n="3"/>vendit, vt amplius quam tunc valeant, in certo termino 
+   <lb ed="#B" n="4"/>recipiat pro eisdem: si tamen ea tempore contractus non fuerat 
+   <lb ed="#B" n="5"/>venditurus. Dico igitur quod ego possum multifariam 
+   <lb ed="#B" n="6"/>me hature erga Petrum. Vel nunc iponendo ei certum praecium 
+   <lb ed="#B" n="7"/>puta de dandis. xxx. &amp; si illo temporae anni corus interdum 
+   <lb ed="#B" n="8"/>valeat. iiii. vel. v. vltra: nonnuquam minus: ratione dubii 
+   <lb ed="#B" n="9"/>possum vendere. xxx. tenendo medium ratione dubita 
+   <lb ed="#B" n="10"/>tionis non solum mathematicum, sed morale: ita vt apud 
+   <lb ed="#B" n="11"/>prudentes dubium sit: vter nostrum habeat casum
+   se<lb ed="#B" n="12" break="no"/>curiorem: vel certum sit quod non decidimus a medio 
+   <lb ed="#B" n="13"/>morali. &amp; eodem modo me habebo dando. c. aureos 
+   <lb ed="#B" n="14"/>mutuo quorum ascensus vel descensus manet
+   du<lb ed="#B" n="15" break="no"/>bius. In his omnibus ratio est: quia ego non teneo me in 
+   <lb ed="#B" n="16"/>tuto &amp; alium in discrimine: sed pro vtroque nostrum est 
+   <lb ed="#B" n="17"/>aequale discrimen. Vel non limito certum praeciu, sed ordio 
+   <lb ed="#B" n="18"/>solutionem pro vno tpore. &amp; hoc dupliciter: vel vno deter 
+   <lb ed="#B" n="19"/>minato die: quem ego volo eligere ad nutum meum in  
+   <lb ed="#B" n="20"/>quo vt ego iudico triticum carius vendetur, dicens.
+   Pe<lb ed="#B" n="21" break="no"/>trus dabit mihi praecium currens in die sabbati Hadin  
+   <lb ed="#B" n="22"/>gtonae immediate ante diem festum assumptionis
+   Chri<lb ed="#B" n="23" break="no"/>stiferae virginis. &amp; sic iterum non facio vsuram: quia 
+   <lb ed="#B" n="24"/>eram illo die venditurus si non superuenisset Petrus. vel 
+   <lb ed="#B" n="25"/>teneo me in pluribus diebus: puta prout venditur carius 
+   <lb ed="#B" n="26"/>in tota aestate vel in toto illo mense: et tunc me
+   te<lb ed="#B" n="27" break="no"/>neo in securo &amp; alium in incerto: &amp; committo vsuran, 
+   <lb ed="#B" n="28"/>quia si tenuissem triticum penes me: necesse fuisset 
+   <lb ed="#B" n="29"/>exponere triticum venditioni vno die determinato  
+   <lb ed="#B" n="30"/>Hinc emanauit deuerbium apud nostrates in vitupe 
+   <lb ed="#B" n="31"/>rium vsurariorum. iste vendit vt farina carius incidit hoc 
+   <lb ed="#B" n="32"/>anno.
+  </p>
+      <p xml:id="jMqv4a-d1e754-d1e261">
+   ⁋ Ex isto consequuntur nonnulla. Primum est. si 
+   <lb ed="#B" n="33"/>nunc in hyeme praecium commune cori tritici sit. xx. ego nunc 
+   <lb ed="#B" n="34"/>vendens corum capio iuste pro aestate. xxx.
+  </p>
+      <p xml:id="jMqv4a-d1e754-d1e268">
+   ⁋ Secundo se 
+   <lb ed="#B" n="35"/>quitur quod licite vendo duos coros eodem die: &amp; pro vno 
+   <lb ed="#B" n="36"/>recipio viginti tamtenm: &amp; pro alio. xxx. patet: quia 
+   <lb ed="#B" n="37"/>intendebam vnum corum seruare ad augustum ad sol 
+   <lb ed="#B" n="38"/>uendum messoribus: &amp; alium nunc ad
+   satisfacien<lb ed="#B" n="39" break="no"/>dum domino soli de firma sancti Martini. vtor more 
+   <lb ed="#B" n="40"/>nostratium loquendo de firma.
+  </p>
+      <p xml:id="jMqv4a-d1e754-d1e284">
+   ⁋ Tertio sequitur 
+   <lb ed="#B" n="41"/>quod vnus pro vno coro capit tres coros iuste, quod pro 
+   <lb ed="#B" n="42"/>bo sic. venit ad me Petrus egens coro tritici in augu 
+   <lb ed="#B" n="43"/>sto valente. xl. ob sterilitatem istius anni: vendo ei 
+   <lb ed="#B" n="44"/>expectando precium ad diem sancti Martini: cum 
+   <lb ed="#B" n="45"/>corus valet decem: &amp; per consequens capio ab 
+   <lb ed="#B" n="46"/>eo quatuor pro vno: sed licet plus in quantitate 
+   <lb ed="#B" n="47"/>mathematica capiam: non tamen plus in valore 
+   <lb ed="#B" n="48"/>Et si est verosimile quod in hyeme corus valebit de 
+   <lb ed="#B" n="49"/>cem: possum cum ipso pacisci vt det mihi
+   qua<lb ed="#B" n="50" break="no"/>tuor coros vel tantum frumenti quoad valeat. xl. 
+   <lb ed="#B" n="51"/>solidos. Licet enim plus in quantitate molis &amp;
+   ma<lb ed="#B" n="52" break="no"/>thematica det: non tamen plus in quantitate
+   ci<lb ed="#B" n="53" break="no"/>uili &amp; morali: vt patet de grosso boue &amp; sex duca 
+   <lb ed="#B" n="54"/>tis: nam aequiualenter venditur ei nunc frumen 
+   <lb ed="#B" n="55"/>tum, &amp; mutuatur precium gratis: quia volo mihi 
+   <!--0314.xml-->
+   <cb ed="#B" n="b"/> 
+       <!-- 141-v b -->
+       <lb ed="#B" n="56"/>restitui aequale in frumento tempore solutionis. Et 
+   <lb ed="#B" n="57"/>eodem modo mutuans frumentum vetus
+   receptu<lb ed="#B" n="58" break="no"/>rus nouum, licite potest exigere quod nouum sibi dandum 
+   <lb ed="#B" n="59"/>detur in maiore quantitate quam ipse de veteri dede 
+   <lb ed="#B" n="60"/>rit: modo hoc faciat non spe lucri / sed ratione damni
+   vi<lb ed="#B" n="61" break="no"/>randi, quod sibi accideret si nouum in aequali mensura 
+   <lb ed="#B" n="62"/>acciperet. Si enim mutuans intendebat suum vetus 
+   <lb ed="#B" n="63"/>frumentum detinere eo quod erat bonum, quamdiu adhuc 
+   <lb ed="#B" n="64"/>conseruari poterat: &amp; recipere nouum in aequali
+   men<lb ed="#B" n="65" break="no"/>sura: ipse pateretur praeiudicium: quod conseruando nouum 
+   <lb ed="#B" n="66"/>loco veteris in fine conseruationis minus
+   inueni<lb ed="#B" n="67" break="no"/>ret frumenti noui: quia arescit continuo ad maximam 
+   <lb ed="#B" n="68"/>densitatem possibile si agentia condensatiua sufficien 
+   <lb ed="#B" n="69"/>ter applicentur, vel saltem ab agentibus a quibus
+   indu<lb ed="#B" n="70" break="no"/>ratur / condensatur: &amp; minorem locum occupat.
+  </p>
+      <p xml:id="jMqv4a-d1e754-d1e358">
+   ⁋ Quarto 
+   <lb ed="#B" n="71"/>sequitur quod magnam gratiam facit colono diues: in aesta 
+   <lb ed="#B" n="72"/>te dans ei vnum corum mutuo pro simili coro in quanti 
+   <lb ed="#B" n="73"/>tate soluendo in hyeme, quod patet: quia concedit ei de 
+   <lb ed="#B" n="74"/>suo lucro quod iuste consequi poterat.
+  </p>
+      <p xml:id="jMqv4a-d1e754-d1e369">
+   ⁋ Quito sequi  
+   <lb ed="#B" n="75"/>tur quod facit ei gratiam capiendo duos coros pro vno 
+   <lb ed="#B" n="76"/>quia expectauit solutionem, &amp; non petit
+   maio<lb ed="#B" n="77" break="no"/>rem quam in promptu habere poterat. 
+  </p>
+      <p xml:id="jMqv4a-d1e754-d1e378">
+       <lb ed="#B" n="78"/>⁋ Sed remanent duo puncta
+   excu<lb ed="#B" n="79" break="no"/>tienda in solutione primi. probo quod volens expe 
+   <lb ed="#B" n="80"/>ctare ad augustum potest statuere ei vnum mensem 
+   <lb ed="#B" n="81"/>nam potest statuere duos vicinos dies: &amp; qua
+   ratio<lb ed="#B" n="82" break="no"/>ne duos / eadem ratione tres: quatuor, sine statu. 
+   <lb ed="#B" n="83"/>de duobus patet. quia in die sancti Michaelis &amp; 
+   <lb ed="#B" n="84"/>postridie durat indictum sancti Michaelis
+   Hadin<lb ed="#B" n="85" break="no"/>gtonae. eodem modo de tribus vel quatuor: vt in
+   im<lb ed="#B" n="86" break="no"/>dicto omnium sanctorum Edinburgi. vel octo diebus 
+   <lb ed="#B" n="87"/>continuis: vt in indicto Cantebrigiae: scilicet Strubech. 
+   <lb ed="#B" n="88"/>Siliter ponatur quod essem venditurus corum meum partibili 
+   <lb ed="#B" n="89"/>ter: vce quarta partem eius primo die nundinarum
+   au<lb ed="#B" n="90" break="no"/>gusti. Secundum corum secundo die nundinarum eiusdem men 
+   <lb ed="#B" n="91"/>is: &amp; sic de aliis duabus quartis. tunc possum ti 
+   <lb ed="#B" n="92"/>bi assignare quatuor dies.
+  </p>
+      <p xml:id="jMqv4a-d1e754-d1e414">
+   ⁋ Secundo probatur quod non 
+   <lb ed="#B" n="93"/>potes accipere tantum quantum in vno die signato: &amp; 
+   <lb ed="#B" n="94"/>hoc sic. tu habes modium tritici nunc in hyeme: vel 
+   <lb ed="#B" n="95"/>collecta segete primo: tu vendes Petro (dictum est 
+   <lb ed="#B" n="96"/>iuste) tanti quanti simile triticum venditum est
+   Hadin<lb ed="#B" n="97" break="no"/>gtonae in vno certo die: quia tunc esses venditurus 
+   <lb ed="#B" n="98"/>Contra. modius tuus in hyeme arefiet ante aestatem: ergo 
+   <lb ed="#B" n="99"/>deficiet ante augustum vna centesima pars modii 
+   <lb ed="#B" n="100"/>vel decimasexta pars: ergo si conseruares, minus in 
+   <lb ed="#B" n="101"/>quantitate haberes. Insuper haberes curam &amp;
+   sollici<lb ed="#B" n="102" break="no"/>tudinem pro conseruatione: &amp; forte dares pecuniam pro 
+   <lb ed="#B" n="103"/>domo in qua est: ergo iniuste tantum capis in hyeme 
+   <lb ed="#B" n="104"/>quantum si venderet in augusto.
+  </p>
+      <p xml:id="jMqv4a-d1e754-d1e443">
+   ⁋ Ad primum
+   ne<lb ed="#B" n="105" break="no"/>go quod potest statuere duos dies: &amp; hoc si erat
+   expo<lb ed="#B" n="106" break="no"/>siturus totum venditioni vnico die. sed minus incon 
+   <lb ed="#B" n="107"/>ueniens est pro duobus quam tribus: &amp; sic ascendendo. &amp; b 
+   <lb ed="#B" n="108"/>poterat quolibet die nundinarum triticum exponere 
+   <lb ed="#B" n="109"/>venditioni: tamen solum vnico die vendidisset. Forte di 
+   <!--0315.xml-->
+   <pb ed="#B" n="142-r"/>
+       <cb ed="#B" n="a"/>
+       <lb ed="#B" n="1"/>cis. in eodem die praecium mutatur. Mensura enim frumen 
+   <lb ed="#B" n="2"/>ti quae hora nona valet. xii. hora. xii. xiii. hora quar 
+   <lb ed="#B" n="3"/>ta. xv. ergo inconueniens est capere integrum diemn. 
+   <lb ed="#B" n="4"/>Respondeo. raro solet esse notabile discrimen in eodem 
+   <lb ed="#B" n="5"/>die: et si discrimen sit: via humana non potest poni 
+   <lb ed="#B" n="6"/>exactum remedium. in istis autem commutationibus suffi 
+   <lb ed="#B" n="7"/>cit vti rudi Minerua, &amp; his quae plurimum eueniunt: non 
+   <lb ed="#B" n="8"/>descendendo ad partes diei: quia sic duceres anfractus 
+   <lb ed="#B" n="9"/>ad partes minutas horae. Sed veniendo ad punctum 
+   <lb ed="#B" n="10"/>reducatur ad medium extremorum illius diei quod est. xiii. 
+   <lb ed="#B" n="11"/>in quo est tantum apparentiae lucri quantum damni: &amp; 
+   <lb ed="#B" n="12"/>eatur ad praecium medium. &amp; ita facile est reducere totum 
+   <lb ed="#B" n="13"/>ad iustam aequalitatem si ante meridiem fuit venditio 
+   <lb ed="#B" n="14"/>xii. &amp; post meridiem continuo propter inopinatam
+   sor<lb ed="#B" n="15" break="no"/>tem. xiiii. eundo consequenter ad. xiii. Sed tangitur quod 
+   <lb ed="#B" n="16"/>vendens intendat quadriprtiti venditionem: ad quod 
+   <lb ed="#B" n="17"/>dico quod pro quae libet parte potest capere precium vsitatum seu 
+   <lb ed="#B" n="18"/>currens illius diei: &amp; non pro toto. sic dices, pro hac
+   quar<lb ed="#B" n="19" break="no"/>ta modii dabis sicut percium currit tali die pro secunda 
+   <lb ed="#B" n="20"/>quarta dabis secundum percium currens die
+   nundina<lb ed="#B" n="21" break="no"/>rum immediate sequenti: &amp; sic vlterius.
+  </p>
+      <p xml:id="jMqv4a-d1e754-d1e508">
+   ⁋ Ad secundum 
+   <lb ed="#B" n="22"/>iudicio meo argumentum rationabiliter ostendit quod ven 
+   <lb ed="#B" n="23"/>dens debet deducere seu defalcare diminutionem 
+   <lb ed="#B" n="24"/>frumenti quod fuisset minoris mensurae in augusto. 
+   <lb ed="#B" n="25"/>Et sic intelligo prius dicta: vt ego in hyeme vendens 
+   <lb ed="#B" n="26"/>triticum quod seruare proponeba ad primam augusti 
+   <lb ed="#B" n="27"/>vsque: accipere possum tantum quanti triticum venditur in 
+   <lb ed="#B" n="28"/>illo die respiciendo ad diminutionem ipsius. Sed di 
+   <lb ed="#B" n="29"/>cis. Forte minus in quantitate tritici arefacti dabit 
+   <lb ed="#B" n="30"/>tantum farinae quantum plus tritici non arefacti. sicut 
+   <lb ed="#B" n="31"/>eadem mensura tritici plus farinae dat ex feraci solo 
+   <lb ed="#B" n="32"/>quam sterili ob tritici densitatem. Illud non sufficit cum
+   men<lb ed="#B" n="33" break="no"/>suram sit repleturus tritico in aestate &amp; non farina 
+   <lb ed="#B" n="34"/>nisi essem in farina venditurus tunc enim nihil di 
+   <lb ed="#B" n="35"/>minuam. &amp; si mihi esset voluptati &amp; non laboriosum 
+   <lb ed="#B" n="36"/>quotidie inuisere triticum quod in domo mea seruo &amp; 
+   <lb ed="#B" n="37"/>puluerem excutere: nihil ratione illius diminuam. Quia aequdm 
+   <lb ed="#B" n="38"/>les mensurae tritici inaequales dant mensuras farinae 
+   <lb ed="#B" n="39"/>dubitat pistor nullus. hoc autem prouenit a soliditate 
+   <lb ed="#B" n="40"/>&amp; corpulentia vnius grani super aliud: &amp; modicus aer 
+   <lb ed="#B" n="41"/>includitur inter grana.
+  </p>
+      <p xml:id="jMqv4a-d1e754-d1e554">
+   ⁋ Sed cotra, non erit notabile 
+   <lb ed="#B" n="42"/>damnum, sed non computandum. probatur. quia non ratione 
+   <lb ed="#B" n="43"/>a. grani arefacti: &amp; simiter ratione b. spicae arefactae.
+   er<lb ed="#B" n="44" break="no"/>go tota condensatio totius modii erit non notabilis de 
+   <lb ed="#B" n="45"/>trimenti. Rursus in octo mensibus a die sancti
+   Mar<lb ed="#B" n="46" break="no"/>tini ad augustum vsque forte diminuetur vna sextade 
+   <lb ed="#B" n="47"/>cima pars modii: si ergo proposuissem seruare septemn 
+   <lb ed="#B" n="48"/>annis: oporteret defalcare septem sextasdecinas 
+   <lb ed="#B" n="49"/>modii. &amp; potest esse quod ego velim seruare: quia praescius 
+   <lb ed="#B" n="50"/>futurae sterilitatis sicut loseph: vel per cursus syde 
+   <lb ed="#B" n="51"/>rum more Thaletis ospiedentis philosophium facile pos 
+   <lb ed="#B" n="52"/>se ditari. quia licet naemo possit cognoseere effectus 
+   <lb ed="#B" n="53"/>futuros dependentes ex libero arbitrio: tamen potest
+   co<lb ed="#B" n="54" break="no"/>gnoscere fertilitatem vel sterilitatem terrae per aspectus 
+   <lb ed="#B" n="55"/>caelestes serenos vel obliquos: immo eiusdem anni fer 
+   <!--0315.xml-->
+   <cb ed="#B" n="b"/> 
+       <!-- 142-r b -->
+       <lb ed="#B" n="56"/>tilitatem prognosticant Aegyptii a cremento Nili ad  
+   <lb ed="#B" n="57"/>certos limites. ergo a fortiori ex caelo.
+  </p>
+      <p xml:id="jMqv4a-d1e754-d1e598">
+   ⁋ Respondetur. 
+   <lb ed="#B" n="58"/>licet cuiussibet grani sit non notabile damnum: bene 
+   <lb ed="#B" n="59"/>tamen totius multitudinis est notabile damnum. sicut in par 
+   <lb ed="#B" n="60"/>uo tempore non cognoscitur motus in horologio, vl 
+   <lb ed="#B" n="61"/>vmbrae factae a perpendiculo: in magno tamen tempore
+   il<lb ed="#B" n="62" break="no"/>lud dignoscitur. Nec oportet in aequalibus temporibus 
+   <lb ed="#B" n="63"/>semper granum proportionabiliter arefieri &amp; condesari 
+   <lb ed="#B" n="64"/>quia sic in sedecim annis totus modius condensabiur 
+   <lb ed="#B" n="65"/>ad indiuisibile: quod est falsum. quia datur maxima
+   den<lb ed="#B" n="66" break="no"/>sitas tritici possibilis naturaliter.
+  </p>
+      <p xml:id="jMqv4a-d1e754-d1e620">
+   ⁋ Ex quo patet 
+   <lb ed="#B" n="67"/>quod si frumentum non possit seruari: non potes 
+   <lb ed="#B" n="68"/>vendere secundum exigentiam magni temporis futuri / vt 
+   <lb ed="#B" n="69"/>solet esse de frumento allato ex Sicilia per mare ad 
+   <lb ed="#B" n="70"/>Maioricas. sed potes capere praecium secundum quantita 
+   <lb ed="#B" n="71"/>tem temporis per quod potest durare: &amp; quamdiu intendebas illud ser 
+   <lb ed="#B" n="72"/>uare. Sed dicis. ponamus quod sortes vendens modium in 
+   <lb ed="#B" n="73"/>hyeme quem seruasset ad augustum. xl. vbi tamen
+   secun<lb ed="#B" n="74" break="no"/>dum iudicium prudentum praecium non excedet toto isto anno 
+   <lb ed="#B" n="75"/>xxx. tunc committit vsuram: quia capit vltra praecium verisi 
+   <lb ed="#B" n="76"/>mile toto isto futuro tempore. Sed contra. ponatur quod
+   ino<lb ed="#B" n="77" break="no"/>pinato destruatur frumentum in agris ab abundantia
+   aqua<lb ed="#B" n="78" break="no"/>rum vt fit in locis decliuibus: vel a siccitate in terra 
+   <lb ed="#B" n="79"/>arenosa vel montosa, sic vt facile futurus sit exces 
+   <lb ed="#B" n="80"/>sus modii ad quinquaginta: tunc Petrus nihil per 
+   <lb ed="#B" n="81"/>det: ponatur quod tenet penes se totum frumentum, sed su 
+   <lb ed="#B" n="82"/>perlucratur. Respondetur. Sortes non excusatur ab 
+   <lb ed="#B" n="83"/>vsura transcendens precium verisimile secundum
+   iu<lb ed="#B" n="84" break="no"/>dicium prudentum. Sed rogas an teneatur restituere 
+   <lb ed="#B" n="85"/>lucrum: puta illa decem quae capit vltra sortem. Si dicas 
+   <lb ed="#B" n="86"/>non tenetur, quia Petrus nihil perdit, sed suplucratur: 
+   <lb ed="#B" n="87"/>Respondeo quod hoc non sufficit: sicut frequenter in vsu 
+   <lb ed="#B" n="88"/>est quod mutuatarius lucratur, quo non obstante
+   mu<lb ed="#B" n="89" break="no"/>tuator lucrum capiens tenetur ipsum restituere
+   mutua<lb ed="#B" n="90" break="no"/>tario.
+  </p>
+      <p xml:id="jMqv4a-d1e754-d1e676">
+   ⁋ Ex omnibus dictis liquet quod quis potest
+   eme<lb ed="#B" n="91" break="no"/>re frumentum in agris vel iam recenter seminatum 
+   <lb ed="#B" n="92"/>sine labe vsurae, dummodo det moderatum
+   pre<lb ed="#B" n="93" break="no"/>cium non tantum quanti aestimatur in horreo collectum: 
+   <lb ed="#B" n="94"/>quia est subiectum multis discriminibus, pluuiae 
+   <lb ed="#B" n="95"/>uiccitati, zizaniae, loliis, &amp; carduis, &amp; huiusmodi 
+   <lb ed="#B" n="96"/>iuxta illud Maronis. i. Georg. vbi post multa se 
+   <lb ed="#B" n="97"/>getibus inimica &amp; nociua enumerata dicit. Quia ni 
+   <lb ed="#B" n="98"/>ui &amp; assiduis terram infectabere rastris: Et sonitu ter 
+   <lb ed="#B" n="99"/>rebis aues: &amp; ruris opaci Falce premes vmbras: 
+   <lb ed="#B" n="100"/>votisque vocaueris imbrem: Heu magnum alterius 
+   <lb ed="#B" n="101"/>frustra spectabis aceruum. Oportet enim
+   detrahe<lb ed="#B" n="102" break="no"/>re seu defalcare precium ad quantitatem laborum passo 
+   <lb ed="#B" n="103"/>rum antequam colligatur ad horreum: &amp; periculum caeli 
+   <lb ed="#B" n="104"/>vel hostium. Et rursus in horreo subiacebit
+   dis<lb ed="#B" n="105" break="no"/>crimini teste Marone dicente. Tum variae illudunt 
+   <lb ed="#B" n="106"/>pestes: sepe exiguus mus Sub terris posuitque do  
+   <lb ed="#B" n="107"/>mos, atque horrea fecit: Aut oculis capti fodere 
+   <lb ed="#B" n="108"/>cubilia talpae: Inuentusque cauis buffo: &amp; quae plu 
+   <lb ed="#B" n="109"/>rima terrae Monstra ferunt: populatque ingentem far 
+   <lb ed="#B" n="110"/>tis aceruum Curculio: atque inopi metuens formica 
+   <!--0316.xml-->
+   <pb ed="#B" n="142-v"/>
+       <cb ed="#B" n="a"/>
+       <lb ed="#B" n="1"/>istinctionis 
+   <lb ed="#B" n="2"/>senectae. Si dicas hominem se posse facile tueri ab 
+   <lb ed="#B" n="3"/>bis secundum consilium poetae dicentis. Area tum primum in  
+   <lb ed="#B" n="4"/>genti est aequanda cylindro: Et vertenda manu: et cre 
+   <lb ed="#B" n="5"/>ta solidanda tenaci: Ne subeant haerbae: neu pulue 
+   <lb ed="#B" n="6"/>re victa fathiscat. hoc non obstat: quia in toto hoc
+   ar<lb ed="#B" n="7" break="no"/>tificio opus est materia &amp; labore. Et licet det signa ir 
+   <lb ed="#B" n="8"/>gnostica quibus cognoscamus fertilitatem frumeti per 
+   <lb ed="#B" n="9"/>amygdalum, inquiens. Contemplator item: cum se nux
+   plurli<lb ed="#B" n="10" break="no"/>ma syluis Induet in fiorem: &amp; ramos curuabit olen 
+   <lb ed="#B" n="11"/>tes: Si supant foetus: pariter frumenta sequentur: Ma 
+   <lb ed="#B" n="12"/>gnaque cum magno veniet tritura calore. num quam tamen va 
+   <lb ed="#B" n="13"/>cabis periculo &amp; improbo labore. Quia liceat ista
+   eme<lb ed="#B" n="14" break="no"/>re, patet. quia venditor est in ea necessitate quam vendere con 
+   <lb ed="#B" n="15"/>pellitur: tum propter inopiam: tum propter decessum ad loca
+   re<lb ed="#B" n="16" break="no"/>mota: tum quod nec ipe nec eius famuli audent laborare 
+   <lb ed="#B" n="17"/>propter crudelitate tyranni vicini. Videatur autem quantum 
+   <lb ed="#B" n="18"/>trumenti solet colligi ex hac terra in mediocri anno 
+   <lb ed="#B" n="19"/>hoc est nec vberrimo nec sterilissimo: &amp; tollatur ali 
+   <lb ed="#B" n="20"/>quid ratione laboris &amp; impensarum faciendarum pro frumento 
+   <lb ed="#B" n="21"/>colligendo: prudentu colonorum iudicio, &amp; sic non 
+   <lb ed="#B" n="22"/>trit error. Ex isto patet quod arpentum frumenti minus
+   va<lb ed="#B" n="23" break="no"/>let in agris Suyntoen. &amp; Norem, quam in Coldingam 
+   <lb ed="#B" n="24"/>&amp; Bambrucur scilicet propter occursum hostium tempore belli. idem 
+   <lb ed="#B" n="25"/>patet de palachiae &amp; Ragusiae agris. Secundo patet quod 
+   <lb ed="#B" n="26"/>frumentum proxime colligedum plus valet quam quando prio 
+   <lb ed="#B" n="27"/>ferebat fructum in culmo: &amp; tunc magis qui quando
+   semi<lb ed="#B" n="28" break="no"/>nabatur. Tertio patet quod licet emptorem istius frumenti 
+   <lb ed="#B" n="29"/>moderate lucrari &amp; iuste: quia si non esset spes lucri 
+   <lb ed="#B" n="30"/>non assumeret hunc laborem. Pro lucro tu pone dien 
+   <lb ed="#B" n="31"/>quocumque laboras. Nec propterea sequitur quod vendens per 
+   <lb ed="#B" n="32"/>dat: sed itat vtrumque aeque participare lucrum: licet hoc 
+   <lb ed="#B" n="33"/>non requiratur ad mediu emptionis &amp; venditionis. sus 
+   <lb ed="#B" n="34"/>ficit autem quod nihil iniquae fiat in contractu. Si vero em 
+   <lb ed="#B" n="35"/>ptor caperet hic excessiuum lucrum: esset vsura sub 
+   <lb ed="#B" n="36"/>mutuo interprtatiuo ratione temporis.
+  </p>
+      <p xml:id="jMqv4a-d1e754-d1e806">
+   ⁋ Ex omnibus patet quod 
+   <lb ed="#B" n="37"/>mercator licite potest pro sua merce plus capre qui merx 
+   <lb ed="#B" n="38"/>nunc valeat in foro: dummodo duo ponantur. Primum est 
+   <lb ed="#B" n="39"/>quod non intendat nunc vendere suam mercem: sed expectare 
+   <lb ed="#B" n="40"/>tepus quo vero simiter ipsa plus valebit. Secundum est quod 
+   <lb ed="#B" n="41"/>no capiat vltra praecium vero simile futurum iudicio
+   pru<lb ed="#B" n="42" break="no"/>dentum mercatorum. Si enim plus capiat,
+   vsu<lb ed="#B" n="43" break="no"/>ram committit: &amp; illud restituere tenetur dato quod 
+   <lb ed="#B" n="44"/>merx ipsa carior fuerit emptori &amp; multum
+   super<lb ed="#B" n="45" break="no"/>lucretur: vt si vendam tibi iuuenem equum vigi 
+   <lb ed="#B" n="46"/>ti scutis expectando pecuniam, qui iudicio omnium 
+   <lb ed="#B" n="47"/>non valet vltra quindecim: teneor tibi restituere 
+   <lb ed="#B" n="48"/>quinque scuta: dato quod ob aliorum equorum
+   mor<lb ed="#B" n="49" break="no"/>tem iste valeat. xl. Vltimo ex dictis habetur quod
+   tri<lb ed="#B" n="50" break="no"/>ticum condensatur ad certam densitatem: sic vt 
+   <lb ed="#B" n="51"/>amplius in illa specie non possit naturaliter con 
+   <lb ed="#B" n="52"/>densari. 
+  </p>
+    </div>
+   </body>
+  </text>
+</TEI>

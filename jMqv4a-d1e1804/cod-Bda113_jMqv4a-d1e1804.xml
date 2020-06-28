@@ -1,0 +1,279 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 1</title>
+      <author ref="#JohnMair">John Mair</author>
+      <respStmt>
+       <name>Jeffrey C. Witt</name>
+       <resp>TEI Encoder</resp>
+      </respStmt>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 1</title>
+       <date when="2020-06-09">June 27, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="B" n="cod-Bda113">Badius 1516</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+     guidelines for a diplomatic edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-06-27" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+      <pb ed="#B" n="337-v"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="jMqv4a-d1e1804"> <!-- l4d44q1 -->
+      <head xml:id="jMqv4a-d1e1804-Hd1e104">Quaestio 1</head>
+      <head xml:id="jMqv4a-d1e1804-Hd1e107" type="question-title">Quoto anno aetatis Christus passus sit</head>
+      <p xml:id="jMqv4a-d1e1804-d1e110">
+   <!--0706.xml-->
+       <pb ed="#B" n="337-v"/>
+       <cb ed="#B" n="a"/>
+       <lb ed="#B" n="1"/>⁋ Distinctionis Quadragesimae quartae 
+   <lb ed="#B" n="2"/>Quaestio Prima. 
+   <lb ed="#B" n="3"/>Agister in hac 
+   <lb ed="#B" n="4"/>distinctione loquitl 
+   <lb ed="#B" n="5"/>de annis resurgentium 
+   <lb ed="#B" n="6"/>dicens quod resurgent 
+   <lb ed="#B" n="7"/>omnes in aetate Christi 
+   <lb ed="#B" n="8"/>hoc est in quantitate 
+   <lb ed="#B" n="9"/>respondente eius an  
+   <lb ed="#B" n="10"/>nis. &amp; gratia illius di 
+   <lb ed="#B" n="11"/>cit Christum in te 
+   <lb ed="#B" n="12"/>ris vixisse. xxxii.
+   a<lb ed="#B" n="13" break="no"/>nos cum tribus men 
+   <lb ed="#B" n="14"/>sibus. postea loquil 
+   <lb ed="#B" n="15"/>de poena inferni: &amp; de modo puniendi damnatos. Cofor 
+   <lb ed="#B" n="16"/>miter ad hoc quaestiones huius distinctionis
+   parti<lb ed="#B" n="17" break="no"/>ar: primo de annis Christi loquuturus: quia fortas 
+   <lb ed="#B" n="18"/>se non est verum quod dicit magister. &amp; consequenter 
+   <lb ed="#B" n="19"/>quaeram: quot diebus manserit mortuus. Deindi 
+   <lb ed="#B" n="20"/>de poenis loquar.
+  </p>
+      <p xml:id="jMqv4a-d1e1804-d1e162">
+   ⁋ Quo ad praemum igitur quaero. Quo 
+   <lb ed="#B" n="21"/>to anno aetatis Christus passus sit. De hoc quaesito
+   va<lb ed="#B" n="22" break="no"/>riae sunt sapientum sententiae. Magister. n. dicit Christum 
+   <lb ed="#B" n="23"/>trigintaduos annos cum tribus mensibus habuis 
+   <lb ed="#B" n="24"/>se. Et licet sint vt diximus variae opiniones:
+   senten<lb ed="#B" n="25" break="no"/>tia ista apparet vera quod Christus habuit. xxxiii. an 
+   <lb ed="#B" n="26"/>nos completos, cum parte quarti anni temporis suae
+   peregri<lb ed="#B" n="27" break="no"/>nationis secundum corpus in terra. Quae sic probatur. 
+   <lb ed="#B" n="28"/>Christus suae aetatis anno trigesimoprimo curren 
+   <lb ed="#B" n="29"/>te baptizatus est. Nam dicitur Lucae. iii. Et ipse Iesus erat 
+   <lb ed="#B" n="30"/>incipiens quasi annorum triginta. vbi secundum Chry 
+   <lb ed="#B" n="31"/>sostomum Homilia. xi. super Matthaeum iam Christus
+   ha<lb ed="#B" n="32" break="no"/>bebat triginta annos completos, &amp; trigesimumprimum 
+   <lb ed="#B" n="33"/>inceperat. &amp; ita tenet <name xml:id="jMqv4a-d1e1804-Nd1e192" ref="#Augustine">Augustinus</name>. &amp; confitetur com 
+   <lb ed="#B" n="34"/>mentator seu postillator in glossa: licet magis descen 
+   <lb ed="#B" n="35"/>dat in oppositum. Idem tenet Beda lib. de tempori 
+   <lb ed="#B" n="36"/>bus capite. xlvii. dicens. Habet ni fallor ecclesiae
+   fi<lb ed="#B" n="37" break="no"/>des dominum in carne paulo plusquam trigintatribus
+   an<lb ed="#B" n="38" break="no"/>nis vsque suae tempora passionis vixisse: quod videlicet
+   tri<lb ed="#B" n="39" break="no"/>ginta annorum fuerit baptizatus sicut euangelista Lu 
+   <lb ed="#B" n="40"/>cas testatur: &amp; tres &amp; semis annos post baptisma
+   prae<lb ed="#B" n="41" break="no"/>dicauit. sicut in euangelio Ioannes non solum
+   comme<lb ed="#B" n="42" break="no"/>morato tertii redeuntis paschae tempore perdocet: sed &amp; 
+   <lb ed="#B" n="43"/>idem in Apocalypsi sua. Daniel quoque in visioni 
+   <lb ed="#B" n="44"/>bus prophetice designat. Haec dicens Beda innuit
+   ten<lb ed="#B" n="45" break="no"/>pus praedicationis Christi designari, vbi scribitur 
+   <lb ed="#B" n="46"/>Apocalypsis. xii. &amp; Danielis. xii. de tempore &amp;
+   tem<lb ed="#B" n="47" break="no"/>poribus &amp; dimidio temporis: quiod scilicet anno vno &amp; annis duo 
+   <lb ed="#B" n="48"/>bus ac anno dimidio praedicauit. Insuper Christus na 
+   <lb ed="#B" n="49"/>tus est quadragesimoprimo anno Augusti Caesa 
+   <lb ed="#B" n="50"/>ris: vt Tertullianus dicit: &amp; citat <name xml:id="jMqv4a-d1e1804-Nd1e232" ref="#Jerome">Hieronymus</name> Da 
+   <lb ed="#B" n="51"/>nielis nono, cum ipso opinando. Sic inquit Hiero 
+   <lb ed="#B" n="52"/>nymus. Cleopatra cum Augusto regnauit annis tre 
+   <lb ed="#B" n="53"/>decim: post Cleopatram annis quadraginta tribus im 
+   <!--0706.xml-->
+   <cb ed="#B" n="b"/> 
+       <!-- 337-v b -->
+       <lb ed="#B" n="54"/>perauit. nam omnes anni imperii Augusti fuerunt
+   qui<lb ed="#B" n="55" break="no"/>quagintasex. Idem scribit <name xml:id="jMqv4a-d1e1804-Nd1e252" ref="#Jerome">Hieronymus</name> in prologo 
+   <lb ed="#B" n="56"/>quem praeponit Chronicis Eusebii dicens. Christus 
+   <lb ed="#B" n="57"/>quadragesimoprimo anno Augusti natus: quinto 
+   <lb ed="#B" n="58"/>decimo Tyberii prdicare orsus est. ergo habuit. xxx. 
+   <lb ed="#B" n="59"/>annos quando baptizatus est. Sed forte dices.
+   inchoa<lb ed="#B" n="60" break="no"/>uerat trigesimum annum. Contra hoc sunt ista introdu  
+   <lb ed="#B" n="61"/>cta. Et adhuc probatur, suppositis aliquibus quae tenet 
+   <lb ed="#B" n="62"/>ecclesia: videlicet quod Christus natus est. viii. calendas 
+   <lb ed="#B" n="63"/>Ianuarii: &amp; baptizatus. viii. idus eiusdem. quare si in  
+   <lb ed="#B" n="64"/>choasset solum trigesimum annum habuisset solum. xiii 
+   <lb ed="#B" n="65"/>dies trigesimi anni: &amp; sic ei multum defuisset de tri 
+   <lb ed="#B" n="66"/>gesimo anno completo: contra euangelistam dicentem. 
+   <lb ed="#B" n="67"/>Iesus erat incipies quasi annorum triginta. Ex qua 
+   <lb ed="#B" n="68"/>conclusione sequitur quod multum aberrant a veritate
+   euan<lb ed="#B" n="69" break="no"/>gelica dicentes Christum passum fuisse. xv. anno 
+   <lb ed="#B" n="70"/>Tyberii Caesaris, vt Orosius &amp; Lactantius: quia in 
+   <lb ed="#B" n="71"/>eodem anno secundum euangelistam Iesus erat
+   inci<lb ed="#B" n="72" break="no"/>piens quasi annorum triginta.
+  </p>
+      <p xml:id="jMqv4a-d1e1804-d1e294">
+   ⁋ Tunc sic. Christus 
+   <lb ed="#B" n="73"/>habuit triginta annos completos quando baptizatus est, 
+   <lb ed="#B" n="74"/>&amp; ingressus est trigesimumprimum. sed in pascha 
+   <lb ed="#B" n="75"/>iiii. postquam baptizatus est / passus est: ergo ingressus 
+   <lb ed="#B" n="76"/>est trigesimumquartum suae aetatis annu, quod est prin 
+   <lb ed="#B" n="77"/>cipale probandum. Quia autem in pascha quarto passus 
+   <lb ed="#B" n="78"/>sit, probatur. Nam post baptisma susceptum spiritus 
+   <lb ed="#B" n="79"/>expulit eum statim in desertum vbi erat. xl. diebus 
+   <lb ed="#B" n="80"/>&amp;. xl. noctibus: vt scribitur Marci primo. deinde
+   ite<lb ed="#B" n="81" break="no"/>ratis vicibus venit ad loannem. postmodum voca 
+   <lb ed="#B" n="82"/>tus ad nuptias in Chana Galilaeae aquam in vinum
+   com<lb ed="#B" n="83" break="no"/>uertit: vt habetur Ioannis secundo. &amp; hoc non erat
+   an<lb ed="#B" n="84" break="no"/>no quo baptizatus est: sed anno immediate sequente: 
+   <lb ed="#B" n="85"/>&amp; ita iam erat natus. xxxii. annos. Postea cum prope 
+   <lb ed="#B" n="86"/>esset pascha iudaeorum: ipse hierosolymam ascendit:  
+   <lb ed="#B" n="87"/>vbi vendentes in templo eiecit: loanne nondum in 
+   <lb ed="#B" n="88"/>carcerem misso. vt patet Ioannis. iii. Deinde loan 
+   <lb ed="#B" n="89"/>ne decollato secedens trans mare Galilaeae cum prope 
+   <lb ed="#B" n="90"/>esset pascha dies festus ludaeorum / satiauit quimque mi 
+   <lb ed="#B" n="91"/>lia hominium ex quinque panibus &amp; duobus piscibus. Io 
+   <lb ed="#B" n="92"/>annis. vi. Et ante sex dies anni sequentis venit
+   Be<lb ed="#B" n="93" break="no"/>thaniam, vt habetur Ioannis. xii. &amp; crucifixus est in 
+   <lb ed="#B" n="94"/>parasceue paschae proxime sequentis. consequens est 
+   <lb ed="#B" n="95"/>igitur quod crucifixus est in pascha quarto postquam bapti 
+   <lb ed="#B" n="96"/>zatus est. Et iterum hoc ostenditur. Nam sub Anna po 
+   <lb ed="#B" n="97"/>tifice Ioannes coepit baptizare, &amp; Christus inter alios 
+   <lb ed="#B" n="98"/>ab eo baptizatus est. vt habetur Lucae. iii. &amp; sub Cai 
+   <lb ed="#B" n="99"/>pha pontifice crucifixus est / vt ex euangelio con 
+   <lb ed="#B" n="100"/>stat. sed horum pontificum successione vix coplebatur 
+   <lb ed="#B" n="101"/>quadriemnium. Nam losephus. xviii. de antiquitatibus 
+   <lb ed="#B" n="102"/>ca. vii. sic refert. Valerius Gracchus efficitur Annii 
+   <lb ed="#B" n="103"/>Rufi successor. ls Annanum remouens sacerdotio 
+   <lb ed="#B" n="104"/>Ismaelem filium labi pontificem designauit. sed &amp; hunc 
+   <lb ed="#B" n="105"/>non multo post abiiciens Eleazarum Annae pontificis 
+   <lb ed="#B" n="106"/>filium sacerdotio surrogauit. Post annum vero etiam 
+   <lb ed="#B" n="107"/>hunc arcet officio: &amp; Simoni cuidam Camithi filio 
+   <lb ed="#B" n="108"/>ministerium pontificatus attribuit. Sed non amplius &amp; 
+   <!--0707.xml-->
+   <pb ed="#B" n="338-r"/>
+       <cb ed="#B" n="a"/>
+       <lb ed="#B" n="1"/>ipse quam vnius anni spatio / eodem. perfunctus
+   officio<lb ed="#B" n="2" break="no"/>Iosippum cui Caiphas nomen fuit /( habuit ordine 
+   <lb ed="#B" n="3"/>successorem. 
+  </p>
+      <p xml:id="jMqv4a-d1e1804-d1e388">
+       <lb ed="#B" n="4"/>⁋ Sed contra insta arguitur. Vocula 
+   <lb ed="#B" n="5"/>quasi, diminutionem aliquam importat in modo loquem 
+   <lb ed="#B" n="6"/>di. ergo quasi trigenarius dicitur ille qui nondum attigit 
+   <lb ed="#B" n="7"/>xxx. annos.
+  </p>
+      <p xml:id="jMqv4a-d1e1804-d1e399">
+   ⁋ Insuper plerique valentes scriptores as 
+   <lb ed="#B" n="8"/>serunt Christum natum. xlii. anno Augusti
+   Caesa<lb ed="#B" n="9" break="no"/>ris, vt Eusebius in ecclesiastica historia. ergo vnam pro 
+   <lb ed="#B" n="10"/>bationum non erat valida.
+  </p>
+      <p xml:id="jMqv4a-d1e1804-d1e408">
+   ⁋ Tertio arguitur. lxxviii 
+   <lb ed="#B" n="11"/>distinctione ca. Presbyter, Apparatus introducit 
+   <lb ed="#B" n="12"/>Ioannem Chrysostomum dicentem quod trigesimo anno non 
+   <lb ed="#B" n="13"/>attigerat Iesus nisi triginta dies. sicut in euangelio 
+   <lb ed="#B" n="14"/>continetur: erat Iesus quasi annorum trigita.
+  </p>
+      <p xml:id="jMqv4a-d1e1804-d1e419">
+   ⁋ Ad 
+   <lb ed="#B" n="15"/>primum respondetur. quod quasi) significat parum 
+   <lb ed="#B" n="16"/>citra vel parum vltra: vt dicit Varro. cui
+   synony<lb ed="#B" n="17" break="no"/>mum est in significato (fere) significans parum ab 
+   <lb ed="#B" n="18"/>esse: vt dicit Calepinus: vel (iuxta) secundum Priscianum. 
+   <lb ed="#B" n="19"/>&amp; idem est. Simile habetur Ioannis. vi. Discubuerunt 
+   <lb ed="#B" n="20"/>viri numero quasi quinque milia. de quo Lucae. ix 
+   <lb ed="#B" n="21"/>dicitur. erant fere viri quinque milia.
+  </p>
+      <p xml:id="jMqv4a-d1e1804-d1e437">
+   ⁋ Ad secundum. 
+   <lb ed="#B" n="22"/>non omnes historiographi recipiendi sunt, quando a vero 
+   <lb ed="#B" n="23"/>deuiant. Secundo de Eusebio dicitur quod non est contradictio 
+   <lb ed="#B" n="24"/>nisi verbalis. nam aliqui loquuntur de annis emergenti 
+   <lb ed="#B" n="25"/>bus: aliqui de annis vsualibus. Emergentes autem anni eo 
+   <lb ed="#B" n="26"/>die calendarii incipiunt quo res cuius anni computantur. 
+   <lb ed="#B" n="27"/>incipit esse. vt ego natus sum quarto die ante festum 
+   <lb ed="#B" n="28"/>natalis. redeunte ergo illo die est annus emergens. lo 
+   <lb ed="#B" n="29"/>quor de reditu quo ad motum solis ab occidente ad 
+   <lb ed="#B" n="30"/>orientem. Sed vsuales annos nationes diuersae diffe 
+   <lb ed="#B" n="31"/>renter inchoant. verbi causa. Romani incipiunt su 
+   <lb ed="#B" n="32"/>os annos calendis lanuariis. Aegyptii suos inchoan 
+   <lb ed="#B" n="33"/>quarto calendas septembris. vide Bedam. &amp; Graeci a 
+   <lb ed="#B" n="34"/>calendis decembris. Augustus autem imperium adiui 
+   <lb ed="#B" n="35"/>xvi. calendas Maii: vt Ouidius in Fastis scribit. &amp; 
+   <lb ed="#B" n="36"/>eodem die inceperunt anni emergentes. anni autem 
+   <lb ed="#B" n="37"/>illius vsuales prius inceperunt apud Romanos ca 
+   <lb ed="#B" n="38"/>lendis lanuariis proxime praecedentibus. apud graecos 
+   <lb ed="#B" n="39"/>calendis Decembris. Loquentes itaque de annis
+   impe<lb ed="#B" n="40" break="no"/>rii Augusti i vel emergentibus, vel vsualibus Roma 
+   <lb ed="#B" n="41"/>norum / dicunt Christum natum anno imperii eius 
+   <lb ed="#B" n="42"/>xli. loquentes autem de annis vsualibus Graecorum 
+   <lb ed="#B" n="43"/>vel Aegyptiorum. Christum dicunt natum anno in 
+   <lb ed="#B" n="44"/>perii <name xml:id="jMqv4a-d1e1804-Nd1e489" ref="#Augustine">Augustini</name>. xlii. loquendo enim de annis
+   vsuali<lb ed="#B" n="45" break="no"/>bus Graecorum, prius currere coepit annus imperii 
+   <lb ed="#B" n="46"/>Augusti quadragesimussecundus quam Christus na 
+   <lb ed="#B" n="47"/>sceretur. sed Christo nato cucurrit adhuc apud Ro 
+   <lb ed="#B" n="48"/>manos annus <name xml:id="jMqv4a-d1e1804-Nd1e500" ref="#Augustine">Augustini</name>. xlii. ad diem octauum vsque 
+   <lb ed="#B" n="49"/>puta calendas lanuarii. De annis autem
+   emergenti<lb ed="#B" n="50" break="no"/>bus loquendo non prius currere coepit annus im 
+   <lb ed="#B" n="51"/>perii Augusti quadragesimussecundus quam adueni 
+   <lb ed="#B" n="52"/>ret dies sextusdecimus Calendarum Maiarum. Et sico 
+   <lb ed="#B" n="53"/>patet quomodo Eusebius: qui graecus erat: annum Calem 
+   <lb ed="#B" n="54"/>dis Decembris more Graecorum inchoauit. &amp; cum 
+   <!--0707.xml-->
+   <cb ed="#B" n="b"/> 
+       <!-- 338-r b -->
+       <lb ed="#B" n="55"/>eadem historia per Rufinum in latinum transsata sit: 
+   <lb ed="#B" n="56"/>plerosque posteriores fefellit.
+  </p>
+      <p xml:id="jMqv4a-d1e1804-d1e529">
+   ⁋ Ad tertium male 
+   <lb ed="#B" n="57"/>allegat Chrysostomum glossa: vt patet ex
+   supra<lb ed="#B" n="58" break="no"/>dictis. In super dicit vnum inopinabile: quod Christus 
+   <lb ed="#B" n="59"/>trigesimum diem attigerat, quod est aeque verum ac di 
+   <lb ed="#B" n="60"/>cere quod. xxx. dies mediant inter festum natalis &amp; fe 
+   <lb ed="#B" n="61"/>stum epiphaniae. immo ille textus est omnino con 
+   <lb ed="#B" n="62"/>tra eam: qui dicit. Dominus autem trigesimo amno
+   baptiza<lb ed="#B" n="63" break="no"/>tus est: &amp; postea praedicauit, nemo enim est trigenarius 
+   <lb ed="#B" n="64"/>nisi qui trigita annos compleuit.
+  </p>
+      <p xml:id="jMqv4a-d1e1804-d1e549">
+   ⁋ Ex his ergo ma 
+   <lb ed="#B" n="65"/>nifestum est quod Christus anno <name xml:id="jMqv4a-d1e1804-Nd1e553" ref="#Augustine">Augustini</name>. xli. natus est: quod 
+   <lb ed="#B" n="66"/>annis. lvi. imperauit: &amp; anno. xv. Tyberii Caesaris 
+   <lb ed="#B" n="67"/>praedicare orsus est: quare tunc erat trigenarius com 
+   <lb ed="#B" n="68"/>plete. Proximo autem pascha post baptismum non 
+   <lb ed="#B" n="69"/>iuit hierosolymam: in secundo pascha iuit: in tertio non  
+   <lb ed="#B" n="70"/>iuit. in quarto iuit &amp; mortuus est: ac orbem redemit. 
+   <lb ed="#B" n="71"/>&amp; per consequens erant tres anni completi cum qua 
+   <lb ed="#B" n="72"/>tuor mensibus vel circiter / post baptismum. 
+  </p>
+    </div>
+   </body>
+  </text>
+</TEI>

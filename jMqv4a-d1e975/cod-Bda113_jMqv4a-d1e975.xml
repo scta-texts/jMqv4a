@@ -1,0 +1,924 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 8</title>
+      <author ref="#JohnMair">John Mair</author>
+      <respStmt>
+       <name>Jeffrey C. Witt</name>
+       <resp>TEI Encoder</resp>
+      </respStmt>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 8</title>
+       <date when="2020-06-09">June 27, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="B" n="cod-Bda113">Badius 1516</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+     guidelines for a diplomatic edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-06-27" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+      <pb ed="#B" n="183-r"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="jMqv4a-d1e975"> <!-- l4d17q8 -->
+      <head xml:id="jMqv4a-d1e975-Hd1e104">Quaestio 8</head>
+      <head xml:id="jMqv4a-d1e975-Hd1e107" type="question-title">An furiosi et temulenti ad hoc praeceptum 
+  ecclesiasticum de confessione et ad similia praecepta obligentur</head>
+      <p xml:id="jMqv4a-d1e975-d1e110">
+       <lb ed="#B" n="67"/>⁋ Distinctionis Decimaeseptimae 
+   <lb ed="#B" n="68"/>Quaestio Octaua. 
+   <lb ed="#B" n="69"/> Ctauo circa hanc deci 
+   <lb ed="#B" n="70"/>manseptimam distinctionem quae 
+   <lb ed="#B" n="71"/>ritur. An furiosi &amp; temulenti 
+   <lb ed="#B" n="72"/>lad hoc praeceptum ecclesiasticum 
+   <lb ed="#B" n="73"/>de confessione &amp; ad similia 
+   <lb ed="#B" n="74"/>praecepta obligentur, nec hoc 
+   <lb ed="#B" n="75"/>est ab hac materia alienum: vt 
+   <lb ed="#B" n="76"/>terminos quaestionis conside 
+   <lb ed="#B" n="77"/>ranti clarum est. Nam &amp; Ricardus Middiltonus hanci 
+   <lb ed="#B" n="78"/>quaestionem in hac materia: licet parum de ea loquatur 
+   <lb ed="#B" n="79"/>proponit. Et quia vt primo de anima dicitur. Rectum 
+   <lb ed="#B" n="80"/>est iudex sui obliqui: propterea si describatur
+   so<lb ed="#B" n="81" break="no"/>brietas ebrietati opposita: ebrietas notior euadet. 
+  </p>
+      <p xml:id="jMqv4a-d1e975-d1e145">
+       <lb ed="#B" n="82"/>⁋ Sobrietas temperantiae cardinalis virtutis species 
+   <lb ed="#B" n="83"/>est circa potum: quando scilicet quis non
+   contraue<lb ed="#B" n="84" break="no"/>nit rationi in bibendo: vtpote cum potus non est in  
+   <lb ed="#B" n="85"/>animae vel corporis iactura: &amp; potissimum animae. si 
+   <lb ed="#B" n="86"/>tamen cui condescendendum sit: vltra facultatem
+   su<lb ed="#B" n="87" break="no"/>mentis non bibatur: nec potus sit bibenti vetitus 
+   <lb ed="#B" n="88"/>per votum vel aliam legem: vt videre est de
+   Na<lb ed="#B" n="89" break="no"/>zareis Numeri. vi. &amp; de Rechabitis Hieremiae 
+   <lb ed="#B" n="90"/>xxxv. &amp; de Aaronitis Leuitici. i. Nam pro tempore 
+   <lb ed="#B" n="91"/>illius legis stantibus duobus primis: quantuncunque 
+   <lb ed="#B" n="92"/>parum bibendo non fuisset actus sobnetatis.
+   Fo<lb ed="#B" n="93" break="no"/>dem modo si nunc esset aliqua lex potum vini pro 
+   <lb ed="#B" n="94"/>hibens: bibendo esset ebrietas moralis in
+   super<lb ed="#B" n="95" break="no"/>abundando. Notanter (moralis) quia licet sic phi 
+   <lb ed="#B" n="96"/>losophus loqui debeat / cum homo cancellos
+   so<lb ed="#B" n="97" break="no"/>brietatis transcendit: tamen vulgariter non sic ca 
+   <lb ed="#B" n="98"/>pimus. sed morali philosophiae acceptio
+   vocabu<lb ed="#B" n="99" break="no"/>u applaudit. Ebrius autem iuxta nominis
+   inter<lb ed="#B" n="100" break="no"/>pretationem dici putatur, ab ex quod est extra, &amp; 
+   <lb ed="#B" n="101"/>bria / mensura: quasi extra mensuram sobrietatis. 
+   <lb ed="#B" n="102"/>sicut sobrietas secundum mensuram. vulgus
+   ta<lb ed="#B" n="103" break="no"/>men ebrium vocat eum qui est omnis rationis 
+   <lb ed="#B" n="104"/>expers a potu. &amp; potissimum de hac acceptione 
+   <lb ed="#B" n="105"/>in titulo quaestionis inquirimus.
+  </p>
+      <p xml:id="jMqv4a-d1e975-d1e201">
+   ⁋ Ex isto patet: 
+   <lb ed="#B" n="106"/>quod non est eadem adaequata latitudo sobrietatis
+   omni<lb ed="#B" n="107" break="no"/>bus hominibus eiusdem aetatis: sicut non est eadem 
+   <lb ed="#B" n="108"/>latitudo cibi: vt patet de platone &amp; ludi magistro. 
+   <!--0398.xml-->
+   <pb ed="#B" n="183-v"/>
+       <cb ed="#B" n="a"/>
+       <lb ed="#B" n="1"/>Praeterea ad magnitudinem primi, vt in opipare 
+   <lb ed="#B" n="2"/>comedente naturaliter magnitudo secundi sequi 
+   <lb ed="#B" n="3"/>tur. Tertio. aliqui ab ineunte aetate seniorum culpa 
+   <lb ed="#B" n="4"/>sunt in abundantiore potu educati quam alii: ergo eis 
+   <lb ed="#B" n="5"/>latitudo est latior quam aliis: nec facile possunt sine 
+   <lb ed="#B" n="6"/>corporis iactura ad aliud extremum tendere. sicut 
+   <lb ed="#B" n="7"/>Arist. in problematibus de Dionysio tyranno de 
+   <lb ed="#B" n="8"/>clarat: qui propter subitam abstinentiam a vino in 
+   <lb ed="#B" n="9"/>morbos inciderat. Quarto. nati in regionibus
+   fri<lb ed="#B" n="10" break="no"/>gidis per antiparistasim multum caloris habent &amp; 
+   <lb ed="#B" n="11"/>sunt robusti: quorum latitudo cibi &amp; potus est
+   ma<lb ed="#B" n="12" break="no"/>ior. Et licet Apparatus. xxxii. q. ii. c. Moyses.
+   itti<lb ed="#B" n="13" break="no"/>sorie dicat quod aliqui bene bibunt ne anima
+   habi<lb ed="#B" n="14" break="no"/>tet in sicco. Et est argumentum (inquit) pro Normam 
+   <lb ed="#B" n="15"/>nis, &amp; Anglicis, &amp; Polonis, vt possint fortiter
+   bi<lb ed="#B" n="16" break="no"/>bere ne anima habitet in sicco. Et <name xml:id="jMqv4a-d1e975-Nd1e250">Nicolaus Lyra 
+   <lb ed="#B" n="17"/>nus</name> Hester. i. dicat quod aliqui venientes a polo
+   arcti<lb ed="#B" n="18" break="no"/>co illum modum bibendi in Normannia
+   docue<lb ed="#B" n="19" break="no"/>runt / ac si probrosum foret: tamen apud sapientes 
+   <lb ed="#B" n="20"/>est eis maior latitudo quam meridionalibus. vt patet 
+   <lb ed="#B" n="21"/>ex dictis, non tamen eo inficias quin
+   septentriona<lb ed="#B" n="22" break="no"/>lium multi in hoc exuperent. multi etia sunt
+   bo<lb ed="#B" n="23" break="no"/>realium sibi fabricantes tam arctam latitudinem 
+   <lb ed="#B" n="24"/>quam meridionales.
+  </p>
+      <p xml:id="jMqv4a-d1e975-d1e272">
+   ⁋ Secundo sequitur quod id quod est 
+   <lb ed="#B" n="25"/>ebrietas moralis vni pro aliquo tempore: pro alio est 
+   <lb ed="#B" n="26"/>eidem sobrietas, quod patet de Petro iuuene, &amp; de
+   eo<lb ed="#B" n="27" break="no"/>dem existente sene: cum senes substantialiter sicci: li 
+   <lb ed="#B" n="28"/>cet accidentaliter humidi sint: maiori egeant
+   po<lb ed="#B" n="29" break="no"/>tu. Hinc Daniel in senectute vino vsus est qui in  
+   <lb ed="#B" n="30"/>iuuentute fuit abstemius. Nam Danielis. x. ipse de 
+   <lb ed="#B" n="31"/>se dicit. In diebus illis ego Daniel lugebam: trium 
+   <lb ed="#B" n="32"/>hebdomadarum diebus panem desiderabilem non  
+   <lb ed="#B" n="33"/>comedi: &amp; caro &amp; vinum non introierunt in os meum. 
+   <lb ed="#B" n="34"/>Ex quo per locum a contrario sensu colligitur quod 
+   <lb ed="#B" n="35"/>iam vino vtebatur: &amp; tamen in iuuentute omnino 
+   <lb ed="#B" n="36"/>abstinuit: vt Danielis. i. videre est. Et patet
+   ratio<lb ed="#B" n="37" break="no"/>ne hoc esse licitum. insultus passionum in iuuenibus 
+   <lb ed="#B" n="38"/>sunt vehementes: ergo ministrare eis vinum
+   na<lb ed="#B" n="39" break="no"/>tura calidum est flammam fiammae addere: &amp; cum suapte 
+   <lb ed="#B" n="40"/>natura robusti sint: vinum non est eis ministrandum. 
+   <lb ed="#B" n="41"/>opposito autem modo senibus euenit. Insuper
+   se<lb ed="#B" n="42" break="no"/>cudo libro Hecatonomiarum a Platone haec lex col 
+   <lb ed="#B" n="43"/>ligitur. Pueri vsque ad duodeuigesimum annum vini 
+   <lb ed="#B" n="44"/>vsum prorsus ignorent: deinde vino moderate 
+   <lb ed="#B" n="45"/>vtantur vsque ad annum quaedragesimum. vltra vero eam 
+   <lb ed="#B" n="46"/>aetatem hilarius in conviuiis discubentes / liberius eo
+   vtan<lb ed="#B" n="47" break="no"/>tur. Et paulopost in eadem lege platonica sequitur. 
+   <lb ed="#B" n="48"/>Senibus autem liberior vsus remedium aduersus
+   se<lb ed="#B" n="49" break="no"/>nectae duritiem elargietur vt reiuuenescere
+   videan<lb ed="#B" n="50" break="no"/>tur: &amp; moestitiae eos capiat obliuio: &amp; affectio men 
+   <lb ed="#B" n="51"/>tis veluti ferrum in igne ex duritie in mollitiem dedi 
+   <lb ed="#B" n="52"/>cta / flexibilior fiat. Cui consonat illud Horatianum 
+   <lb ed="#B" n="53"/>Sollicitis animis onus eximit. Et illud Prouerbio 
+   <lb ed="#B" n="54"/>rum. xxxi. Date siceram moerentibus: &amp; vinum his qui ama 
+   <lb ed="#B" n="55"/>ro sunt animo.
+  </p>
+      <p xml:id="jMqv4a-d1e975-d1e342">
+   ⁋ Tertio sequitur: quod duo eiusdem aetatis 
+   <!--0398.xml-->
+   <cb ed="#B" n="b"/> 
+       <!-- 183-v b -->
+       <lb ed="#B" n="56"/>&amp; patriae diuersas habent latitudines sobrietatis. pa 
+   <lb ed="#B" n="57"/>tet de sanguineo vini appetente &amp; phlegmatico sua 
+   <lb ed="#B" n="58"/>natura abstemio. per vinum autem / siceram / ceruisiam / &amp; 
+   <lb ed="#B" n="59"/>huiusmodi intelligo. quomodo Angelus dixit Tacha 
+   <lb ed="#B" n="60"/>riae Lucae. i. Vinum &amp; siceram non bibet. In super aliquis est 
+   <lb ed="#B" n="61"/>iuuenis corpore cuius passiones infirmitate vel tem 
+   <lb ed="#B" n="62"/>perantia sunt domitae: vel debilem stomachum
+   ha<lb ed="#B" n="63" break="no"/>bens, cui aqua officit sicut vinum prodest. Propter 
+   <lb ed="#B" n="64"/>ea Apostolus iuueni Timotheo praecepit dicens 
+   <lb ed="#B" n="65"/>Modico vino propter stomachum vtere. 
+  </p>
+      <p xml:id="jMqv4a-d1e975-d1e373">
+       <lb ed="#B" n="66"/>⁋ Vocabulorum significationibus 
+   <lb ed="#B" n="67"/>vtcumque explanatis ad quaestiois elucidationem deue 
+   <lb ed="#B" n="68"/>niendum est. Circa quam duae sunt positiones: quarum 
+   <lb ed="#B" n="69"/>vna &amp; communior partem affirmatiuam tenet. Alia tame 
+   <lb ed="#B" n="70"/>quam rationabiliorem iudico, &amp; ob id eam imitabor, est 
+   <lb ed="#B" n="71"/>negatiua: quae licet prima fronte sobrias aures offen 
+   <lb ed="#B" n="72"/>dere videatur / quod vitare semper studeo) contrarium tamen 
+   <lb ed="#B" n="73"/>ostendetur.
+  </p>
+      <p xml:id="jMqv4a-d1e975-d1e393">
+   ⁋ Pono conclusiones sequentes ad quasitum 
+   <lb ed="#B" n="74"/>responsiuas. Prima est. Assuetus seu habituatus 
+   <lb ed="#B" n="75"/>facere aliquod mortale peccatum extra ebrietatem: sine 
+   <lb ed="#B" n="76"/>culpa temulentiam incurrens: &amp; similes actus faciens 
+   <lb ed="#B" n="77"/>quos ante ebrietatem facere solet: non peccat. Hanc 
+   <lb ed="#B" n="78"/>pono propter quendam neotericum doctore oppositum in 
+   <lb ed="#B" n="79"/>suo libro de temperantia asserentem.
+  </p>
+      <p xml:id="jMqv4a-d1e975-d1e409">
+   ⁋ Secunda
+   conclu<lb ed="#B" n="80" break="no"/>sio. amentiam ex culpa incurrens: quicquid tempore
+   demen<lb ed="#B" n="81" break="no"/>tiae faciat / non peccat.
+  </p>
+      <p xml:id="jMqv4a-d1e975-d1e417">
+   ⁋ Tertia conclusio. Furiam ex 
+   <lb ed="#B" n="82"/>culpa mortali incurrens semper in illo mortali manet 
+   <lb ed="#B" n="83"/>quamdiu est in furia.
+  </p>
+      <p xml:id="jMqv4a-d1e975-d1e424">
+   ⁋ Quarta conclusio. Temulentiam 
+   <lb ed="#B" n="84"/>ex culpa sua incurens: quicquid tempore temulentiae faciat, 
+   <lb ed="#B" n="85"/>non peccat.
+  </p>
+      <p xml:id="jMqv4a-d1e975-d1e431">
+   ⁋ Quinta &amp; vltima conclusio. Ebrietas 
+   <lb ed="#B" n="86"/>scienter inducta est foedum peccatum &amp;
+   exprobrabi<lb ed="#B" n="87" break="no"/>le. &amp; in hac conclusione loquor de ebrietate morali 
+   <lb ed="#B" n="88"/>quae vulgarem culpabilem includit.
+  </p>
+      <p xml:id="jMqv4a-d1e975-d1e440">
+   ⁋ Prima
+   conclu<lb ed="#B" n="89" break="no"/>sio probatur. Nullus omni ratione orbatus quam
+   incur<lb ed="#B" n="90" break="no"/>rit sine culpa / peccat eo tempore quo rationis est expers. 
+   <lb ed="#B" n="91"/>ebrius autem secundum casum primae conclusionis est 
+   <lb ed="#B" n="92"/>huiusmodi: igitur. consequentia claret cum minore, 
+   <lb ed="#B" n="93"/>ostendo maiorem: quia no aliter brutorum facta non  
+   <lb ed="#B" n="94"/>sunt imputabilia: &amp; facta paruulorum inter
+   bapti<lb ed="#B" n="95" break="no"/>smum &amp; annos discretionis. Fortassis dicet
+   aduer<lb ed="#B" n="96" break="no"/>sarius: &amp; alia nulla est reluctatio: quod non est simile: 
+   <lb ed="#B" n="97"/>quia iste habet ex malo habitu quem male
+   acquisi<lb ed="#B" n="98" break="no"/>uit, vel ex culpa: secus est de paruulo &amp; de bruto. 
+   <lb ed="#B" n="99"/>Sed contra hoc arguo. propter habitum non
+   pecca<lb ed="#B" n="100" break="no"/>mus. solus enim actus est imputabilis: vt patet in  
+   <lb ed="#B" n="101"/>pessime habituato nunc primum existente in gratia. 
+   <lb ed="#B" n="102"/>immo male habituatus caeteris paribus tantu mere 
+   <lb ed="#B" n="103"/>bitur quantum bene habituatus: ergo idem erit de male ha 
+   <lb ed="#B" n="104"/>bituato &amp; non habituato. Praeterea, non habituatus 
+   <lb ed="#B" n="105"/>incurrens ebrietatem sine culpa non peccat: ergo neque 
+   <lb ed="#B" n="106"/>habituatus. antecedens cocedunt aduersarii: ergo 
+   <lb ed="#B" n="107"/>consequens debent concedere. Dico vniuersaliter: quod 
+   <lb ed="#B" n="108"/>male habituatus faciens actum bonum similem cum 
+   <lb ed="#B" n="109"/>actu non habituati saltem tantum meretur: &amp; inter facien 
+   <!--0399.xml-->
+   <pb ed="#B" n="184-r"/>
+       <cb ed="#B" n="a"/>
+       <lb ed="#B" n="1"/>tes actum malum / ad quem impellit habitus, si non mi 
+   <lb ed="#B" n="2"/>nus peccat quae non habituatus: saltem peccabit
+   aequali<lb ed="#B" n="3" break="no"/>ter: vel si alter non peccat: nec ipse. Concedendum tamen 
+   <lb ed="#B" n="4"/>arbitror quod contraueniens habitui malo / acquisito 
+   <lb ed="#B" n="5"/>tempore non imputabilitatis, plus meretur quam non
+   ma<lb ed="#B" n="6" break="no"/>le habituatus.
+  </p>
+      <p xml:id="jMqv4a-d1e975-d1e508">
+   ⁋ Sed contra hanc conclusionem arguitur 
+   <lb ed="#B" n="7"/>argumentis quibus quidam oppositum astruit. &amp;
+   pon<lb ed="#B" n="8" break="no"/>dus argumentorum eius in hoc consistit. talis scit istan 
+   <lb ed="#B" n="9"/>esse meretricem &amp; esse non suam: nec ignorat aliquid 
+   <lb ed="#B" n="10"/>eorum quod sufficit ad reddendum actum culpabilem. 
+   <lb ed="#B" n="11"/>Secundo sic. assuetus adire lupanar quolibet die, nunc 
+   <lb ed="#B" n="12"/>inebriatus peccat: quia nullus propter ignorantiam excu 
+   <lb ed="#B" n="13"/>satur a peccato quod alioquin esset facturus si non  
+   <lb ed="#B" n="14"/>esset inebriatus. nam alioquin peccasset: igitur nunc 
+   <lb ed="#B" n="15"/>peccat.
+  </p>
+      <p xml:id="jMqv4a-d1e975-d1e530">
+   ⁋ Ad primum respondetur quod assumptum est 
+   <lb ed="#B" n="16"/>dubium: quia supponimus istum omnis rationis
+   exper<lb ed="#B" n="17" break="no"/>tem. locu enim accedere vetitum non concludit eum
+   habe<lb ed="#B" n="18" break="no"/>re rationem, plusquam brutum cubile ex habitu petens. 
+   <lb ed="#B" n="19"/>immo hoc argumentum concludenret: quod si occideret 
+   <lb ed="#B" n="20"/>hominem sine culpa praeuia, peccaret. Ad secundum 
+   <lb ed="#B" n="21"/>respondetur quod illa propositio est neganda in qua 
+   <lb ed="#B" n="22"/>iacet pondus argumenti. nullus propter ignorantiam 
+   <lb ed="#B" n="23"/>excusatur a peccato quod alioquin esset facturus. velte 
+   <lb ed="#B" n="24"/>dico quod nullus peccat vel meretur in hoc quod potest facere 
+   <lb ed="#B" n="25"/>sed in hoc quod facit.
+  </p>
+      <p xml:id="jMqv4a-d1e975-d1e555">
+   ⁋ Secundam conclusionem probo sic. 
+   <lb ed="#B" n="26"/>modicam rationem habens minus peccat quam habens magnam. 
+   <lb ed="#B" n="27"/>secundum illud Lucae. xii. Ille seruus quam cognouit
+   vo<lb ed="#B" n="28" break="no"/>luntatem domini sui: &amp; non fecit secundum
+   volun<lb ed="#B" n="29" break="no"/>tatem eius, vapulabit multis. Qui autem non cogno  
+   <lb ed="#B" n="30"/>uit: &amp; fecit digna / plagis vapulabit paucis. &amp;
+   ad<lb ed="#B" n="31" break="no"/>huc habens minorem rationem minus peccat: ergo nullam 
+   <lb ed="#B" n="32"/>rationem habens non peccat. probo consequentiam 
+   <lb ed="#B" n="33"/>quia alioquin dabis vnum peccatum in infinitum 
+   <lb ed="#B" n="34"/>paruum: &amp; ita nec erit veniale nec mortale: &amp; ad 
+   <lb ed="#B" n="35"/>nullam poenam imputabile: vel dabis quod vnus 
+   <lb ed="#B" n="36"/>aliquid rationis habens aequaliter peccabit cum eo 
+   <lb ed="#B" n="37"/>qui nullam rationem habet caeteris paribus. sed ista 
+   <lb ed="#B" n="38"/>disiunctiua quae est consequens, pro vtraque sui
+   par<lb ed="#B" n="39" break="no"/>te est neganda. ergo &amp; antecedens. Et probatur 
+   <lb ed="#B" n="40"/>consequentia: dato quod ille furiosus occidendo pec 
+   <lb ed="#B" n="41"/>cet: (semper intelligo de peccato imputabili)
+   si<lb ed="#B" n="42" break="no"/>gnetur malitia sui pecatia. &amp; sit mortale: si venia 
+   <lb ed="#B" n="43"/>le / aequaliter arguam. a. erit vt vnum. homo
+   pru<lb ed="#B" n="44" break="no"/>dens vt Vlysses occidens talem hominem peccat 
+   <lb ed="#B" n="45"/>vt quatuor. homo talis, vt Aiax Thelamonius 
+   <lb ed="#B" n="46"/>occidens talem hominem peccat vt tria: descendendo 
+   <lb ed="#B" n="47"/>ad hominem qui adhuc minus peccat: &amp; sic sini 
+   <lb ed="#B" n="48"/>statu. Huius rationis neruum lucidius sic dedu 
+   <lb ed="#B" n="49"/>co. In prima parte proportionali horae creet deus 
+   <lb ed="#B" n="50"/>vlyssem: in secunda Aiacem in subduplo minus 
+   <lb ed="#B" n="51"/>prudentem: in tertia Achillem: &amp; sic per omnes
+   par<lb ed="#B" n="52" break="no"/>tes proportionales vnius horae: in infinitum parum 
+   <lb ed="#B" n="53"/>aliquis istorum est prudens, &amp; si omnes vellent 
+   <lb ed="#B" n="54"/>vnum interimere: semper minus rationis habens 
+   <lb ed="#B" n="55"/>minus peccabit. sed furiosus minus rationis ha- 
+   <!--0399.xml-->
+   <cb ed="#B" n="b"/> 
+       <!-- 184-r b -->
+       <lb ed="#B" n="56"/>bet quam aliquis istorum, improprie minus: ergo ipse 
+   <lb ed="#B" n="57"/>non peccat: vel dabitur aliquis istorum qui ita
+   pa<lb ed="#B" n="58" break="no"/>rum peccat vt ille furiosus. Discursus in speciali 
+   <lb ed="#B" n="59"/>in materia sua videtur bonus: quamuis in aliis
+   mate<lb ed="#B" n="60" break="no"/>riis possit dari obex, vt de partibus peccati morta 
+   <lb ed="#B" n="61"/>lis in ordine ad veniale comparatis: quarum
+   quaeli<lb ed="#B" n="62" break="no"/>bet est peior veniali. &amp; de qualibet parte
+   albedi<lb ed="#B" n="63" break="no"/>nis perfectiore hac nigredine: &amp; tamen propterea 
+   <lb ed="#B" n="64"/>tota non est infinite perfecta. Illic enim est compa 
+   <lb ed="#B" n="65"/>ratio eorum quae sunt diuersarum rationum: non  
+   <lb ed="#B" n="66"/>autem hic. Secundo arguitur ad idem per <ref xml:id="jMqv4a-d1e975-Rd1e652">Clemen 
+   <lb ed="#B" n="67"/>tinam Si furiosus</ref>. de homicidio volunta. vel
+   ca<lb ed="#B" n="68" break="no"/>sua. vbi <ref xml:id="jMqv4a-d1e975-Rd1e659">Clemens Quintus</ref> inquit. Si furiosus 
+   <lb ed="#B" n="69"/>aut infans seu dormiens hominem mutilet vel 
+   <lb ed="#B" n="70"/>occidat: nullam irregularitatem incurrit. Vbi si 
+   <lb ed="#B" n="71"/>quis culpabiliter occidit: irregularitatem
+   incur<lb ed="#B" n="72" break="no"/>rit: immo interdum sine peccato. hoc patet. fitt. de 
+   <lb ed="#B" n="73"/>iniuriis. Illud canonizata. Et recitat <name xml:id="jMqv4a-d1e975-Nd1e673" ref="#Gratian">Gratianus</name>. xv. 
+   <lb ed="#B" n="74"/>. i. cap. Illud. inquiens in versiculo Sane.
+   omni<lb ed="#B" n="75" break="no"/>non in principio capitis. Sane sunt quidam qui fa 
+   <lb ed="#B" n="76"/>cere non possunt: vt puta furiosus et impubes quoi 
+   <lb ed="#B" n="77"/>doli capax non est. nanque hi pati iniuriam solent 
+   <lb ed="#B" n="78"/>non facere. Cum enim iniuria ex affectu
+   facien<lb ed="#B" n="79" break="no"/>tis consistat: consequens erit dicere hos / siue
+   pul<lb ed="#B" n="80" break="no"/>sent / siue conuitium dicant: iniuriam fecisse non 
+   <lb ed="#B" n="81"/>videri. Et <name xml:id="jMqv4a-d1e975-Nd1e694" ref="#Augustine">Augustinus</name> in libro quaestionum
+   vete<lb ed="#B" n="82" break="no"/>ris &amp; noui testamenti. &amp; habetur in cap. Aliquos. 
+   <lb ed="#B" n="83"/>eiusdem causae &amp; quaestionis, inquit. Aliquos
+   sci<lb ed="#B" n="84" break="no"/>mus subito dementes factos / ferro / fuste / lapidibus :i 
+   <lb ed="#B" n="85"/>morsibus multis nocuisse: quosdam etiam
+   occi<lb ed="#B" n="86" break="no"/>disse: captos autem industria &amp; iudiciis oblatos
+   mi<lb ed="#B" n="87" break="no"/>nime reos factos: eo quod non voluntate sed
+   impellen<lb ed="#B" n="88" break="no"/>te vimescio qua / haec gesserint nescientes.
+   Quomo<lb ed="#B" n="89" break="no"/>do enim reus constituitur, qui nescit quid feceritu 
+   <lb ed="#B" n="90"/>Hoc idem tenet Ambrosius in Hexamero in tra 
+   <lb ed="#B" n="91"/>ctatu primi diei. Et quia haec conclusio non ita
+   fi<lb ed="#B" n="92" break="no"/>xe negatur vt quarta: probationes adductae sufficiant. 
+   <lb ed="#B" n="93"/>si aliquae probationes quartam inferant: istam etiam 
+   <lb ed="#B" n="94"/>opinione mea concludent.
+  </p>
+      <p xml:id="jMqv4a-d1e975-d1e726">
+   ⁋ Tertia conclusio
+   pro<lb ed="#B" n="95" break="no"/>batur sic. nullum peccatum mortale deletur nisi 
+   <lb ed="#B" n="96"/>per displicentiam illius, vel aliquem actum
+   meri<lb ed="#B" n="97" break="no"/>torium. Vnde <name xml:id="jMqv4a-d1e975-Nd1e734" ref="#Augustine">Augustinus</name> de fide ad Petrum. &amp; 
+   <lb ed="#B" n="98"/>citat <ref xml:id="jMqv4a-d1e975-Rd1e740" target="http://scta.info/resource/gd-p2c15q1-d1e152">
+        <name xml:id="jMqv4a-d1e975-Nd1e742" ref="#Gratian">Gratianus</name> de consecra. distinc. i.</ref> 
+       <quote xml:id="jMqv4a-d1e975-Qd1e746">Firmissime 
+   <lb ed="#B" n="99"/>tene &amp; nullatenus dubites, exceptis illis qui pro 
+   <lb ed="#B" n="100"/>nomine Christi sanguine suo baptizantur,
+   nul<lb ed="#B" n="101" break="no"/>lum hominem accepturum vitam eternam, qui 
+   <lb ed="#B" n="102"/>non hic a malis fuerit per poenitentiam fidemque 
+   <lb ed="#B" n="103"/>conversus <!-- Augustinus de paruulis [in lib. de fide ad Petrum Diaconum, cap. 30.] --></quote>. Furiosus autem tempore furiae hoc
+   ha<lb ed="#B" n="104" break="no"/>bere non potest, quemadmodum nec demeritum. 
+   <lb ed="#B" n="105"/>ibi. n. illud Ecclesiastes. xi. verum habet. Si
+   cecide<lb ed="#B" n="106" break="no"/>rit lignum ad austrum aut ad aquilonem / in quocumque lo 
+   <lb ed="#B" n="107"/>co ceciderit / ibi erit.
+  </p>
+      <p xml:id="jMqv4a-d1e975-d1e769">
+   ⁋ Quarta conclusio ex secunda 
+   <lb ed="#B" n="108"/>sequitur. Et primo sic probatur. plene furiosus
+   tempo<lb ed="#B" n="109" break="no"/>re furiae non peccat ex secunda conclusione:
+   er<lb ed="#B" n="110" break="no"/>go nec ebrius. Martinus concedit antecedens: et 
+   <!--0400.xml-->
+   <pb ed="#B" n="184-v"/>
+       <cb ed="#B" n="a"/>
+       <lb ed="#B" n="1"/>negat consequentiam. &amp; causa est (inquit) quia
+   fu<lb ed="#B" n="2" break="no"/>ria est multo grauior poena quam ebrietas, &amp; acerbita 
+   <lb ed="#B" n="3"/>te, &amp; duratione: &amp; minus rationis habet ebrius. Hoc 
+   <lb ed="#B" n="4"/>non valet. primo poena non est voluntarie sumpta. 
+   <lb ed="#B" n="5"/>secundo frequenter contingit quod aliquis paruo
+   tem<lb ed="#B" n="6" break="no"/>pore maneat demens, vel habeat lucida
+   interualla<lb ed="#B" n="7" break="no"/>Etiam non est verisimile quod furia sit atrocior poena 
+   <lb ed="#B" n="8"/>quam ebrietas: cum aliquos furiosos longaeuos videa 
+   <lb ed="#B" n="9"/>mus: &amp; intemperantia potus continuata etiam citra 
+   <lb ed="#B" n="10"/>ebrietatem notabiliter vitam abbreuiet. Ebrietatis 
+   <lb ed="#B" n="11"/>molestiam ac insolentiam notat luuena. saty. vi. dicens 
+   <lb ed="#B" n="12"/>Cum bibitur concha: cum iam vertigine tectum Ambu 
+   <lb ed="#B" n="13"/>lat: &amp; geminis exurgit mensa lucernis. Quod de 
+   <lb ed="#B" n="14"/>minoritate rationis dicit: nihil est. nam de pure ebrio 
+   <lb ed="#B" n="15"/>hoc est nihil rationis habente / loquimur. ratio enim finita 
+   <lb ed="#B" n="16"/>sensim potu est auferibilis. quia omne finitum per
+   ablatio<lb ed="#B" n="17" break="no"/>nem finiti tandem consumitur. i. Physicorum. Si enim aliquid  
+   <lb ed="#B" n="18"/>rationis habeat sortes vocatus ebrius: de illo non  
+   <lb ed="#B" n="19"/>vertitur quaestio.
+  </p>
+      <p xml:id="jMqv4a-d1e975-d1e826">
+   ⁋ Secundo arguitur ad idem. 
+   <lb ed="#B" n="20"/>Pono tres ebrios ex tribus culpis praecedentibus 
+   <lb ed="#B" n="21"/>Titium ex veniali: Sempronium ex mortali: &amp;
+   sor<lb ed="#B" n="22" break="no"/>tem ex mortali maiori. qui occidant tres homines 
+   <lb ed="#B" n="23"/>aequales: ita vt caeteris paribus si essent extra
+   ebrieta<lb ed="#B" n="24" break="no"/>tem, aequaliter peccarent. vel omnes tres in ebrieta 
+   <lb ed="#B" n="25"/>te peccant aequaliter occidendo: &amp; hoc est
+   irratio<lb ed="#B" n="26" break="no"/>nabile: quia culpae ex quibus ebrietates emanarunt 
+   <lb ed="#B" n="27"/>erant inaequales: ergo inaequaliter peccant. tenet
+   con<lb ed="#B" n="28" break="no"/>sequentia: quia non aliter secundum aduersarios 
+   <lb ed="#B" n="29"/>ebrius sine culpa occidens non peccat: &amp; cum culpai 
+   <lb ed="#B" n="30"/>peccat. ergo in minore culpa ebrius minus peccat. 
+   <lb ed="#B" n="31"/>quod si concedas: tunc Titius solum peccat
+   veniali<lb ed="#B" n="32" break="no"/>ter occidendo hominem: quod aduersarius debet repu 
+   <lb ed="#B" n="33"/>tare inconveniens. Etiam non valet dicere quod ebrius ve 
+   <lb ed="#B" n="34"/>nialiter occidens hominem, venialiter solum peccet 
+   <lb ed="#B" n="35"/>quod probo arguendo ad hominem: quia sub poena 
+   <lb ed="#B" n="36"/>peccati mortalis obligatur non occidere: &amp; non est
+   de<lb ed="#B" n="37" break="no"/>obligatus per suam culpam per te: ergo mortaliter
+   pec<lb ed="#B" n="38" break="no"/>cat.
+  </p>
+      <p xml:id="jMqv4a-d1e975-d1e870">
+   ⁋ Tertio arguitur. nullum est peccatum nisi voli 
+   <lb ed="#B" n="39"/>tum. illud homicidium non est volitum. igitur. distin  
+   <lb ed="#B" n="40"/>guis minorem: vel formaliter: &amp; sic negas:
+   interprta<lb ed="#B" n="41" break="no"/>tiue vel antecedenter concedis. velle autem aliquid inter 
+   <lb ed="#B" n="42"/>pretatiue est velle aliquid ad quod sequitur aliud. vt 
+   <lb ed="#B" n="43"/>ebrius vult formaliter vinum bibere, ad quod sequi 
+   <lb ed="#B" n="44"/>tur homicidium: propterea est homicida
+   imputabi<lb ed="#B" n="45" break="no"/>liter. Contra illud arguitur probando quod velle illud 
+   <lb ed="#B" n="46"/>interpretatiuum non sufficiat ad culpam: quia illo 
+   <lb ed="#B" n="47"/>dato sequitur quod occidens in ebrietate sine culpa 
+   <lb ed="#B" n="48"/>peccat: quia vult aliquid ad quod sequitur occisio: 
+   <lb ed="#B" n="49"/>puta bibere vinum quod ipse nescit inebriare:
+   quemad<lb ed="#B" n="50" break="no"/>dum None qui primus inebriatus est. Ad hoc
+   ar<lb ed="#B" n="51" break="no"/>gumentum forte dices, oportere dicere in volitione 
+   <lb ed="#B" n="52"/>interpretatiua: quia vult aliquid sinistre ad quod 
+   <lb ed="#B" n="53"/>sequitur aliud. Contra hoc arguo. posito quod aliquis 
+   <lb ed="#B" n="54"/>velit bibere plusquam ratio dictat, &amp; percipiat
+   aliena<lb ed="#B" n="55" break="no"/>tionem mentis accedentem: poeniteat de facto: &amp; 
+   <!--0400.xml-->
+   <cb ed="#B" n="b"/> 
+       <!-- 184-v b -->
+       <lb ed="#B" n="56"/>postea occidat: sequeretur talem peccare: quod non  
+   <lb ed="#B" n="57"/>est dicendum. Forte iterum negas consequentiam 
+   <lb ed="#B" n="58"/>&amp; bene: quia intelligis vbi illud peccatum non est
+   dete<lb ed="#B" n="59" break="no"/>statum.
+  </p>
+      <p xml:id="jMqv4a-d1e975-d1e924">
+   ⁋ Sed quia illud argumentum non
+   vide<lb ed="#B" n="60" break="no"/>tur tibi ponderandum: Quarto arguitur. sequere 
+   <lb ed="#B" n="61"/>tur quod si duo emittant duas sagittas extra muros 
+   <lb ed="#B" n="62"/>ex aequali negligentia: &amp; vnus occidat: &amp; alter non, 
+   <lb ed="#B" n="63"/>occidens plus peccaret quam alter. quod non est
+   di<lb ed="#B" n="64" break="no"/>cendum. ergo volitio interpretatiua non sufficit ad  
+   <lb ed="#B" n="65"/>peccatum. volo quod sortes occidat: Plato vero non. pa 
+   <lb ed="#B" n="66"/>et. sortes vult occisionem interpretatiue: &amp; non
+   pla<lb ed="#B" n="67" break="no"/>to: quia vult aliquid perperam ad quod sequitur mors 
+   <lb ed="#B" n="68"/>&amp; propterea plus peccabit. Quod si forte concedas: 
+   <lb ed="#B" n="69"/>Contra: toto tempore quo sagitte volitant / aequaliter 
+   <lb ed="#B" n="70"/>peccant: &amp; tunc propter impositionem vmbonis 
+   <lb ed="#B" n="71"/>quem Cicero facit ad resistendum sagittae
+   plato<lb ed="#B" n="72" break="no"/>nis: &amp; quia nullus resistit sagittae sortis: sortes plus 
+   <lb ed="#B" n="73"/>peccabit quam plato, quod inconvenit.
+  </p>
+      <p xml:id="jMqv4a-d1e975-d1e958">
+   ⁋ Quito sic. Sor 
+   <lb ed="#B" n="74"/>tes eliciens actum in instanti / in tempore in quo 
+   <lb ed="#B" n="75"/>de necessitate ipsum continuat: non peccat nouo 
+   <lb ed="#B" n="76"/>peccato: ergo neque ebrius occidens. semper
+   sup<lb ed="#B" n="77" break="no"/>pono ebrium ex culpa. probo consequentiam: quia 
+   <lb ed="#B" n="78"/>vnum non est magis voluntarium quam aliud: primum enim est 
+   <lb ed="#B" n="79"/>volitum interpretatiue si hoc sufficiat ad peccatum 
+   <lb ed="#B" n="80"/>quia vult aliud: puta in instanti ad quod sequitur com 
+   <lb ed="#B" n="81"/>tinuatio. Huius argumenti nullam solutionem
+   vi<lb ed="#B" n="82" break="no"/>deo neque fractionem: nisi dicendo quod vnum est natura 
+   <lb ed="#B" n="83"/>lius alio: quia ebrius potest ire naturaliter cubitum: 
+   <lb ed="#B" n="84"/>eliciens autem in instanti non potest ab actu
+   desiste<lb ed="#B" n="85" break="no"/>re: &amp; sic non est idem de duobus actibus variis &amp; 
+   <lb ed="#B" n="86"/>eodem. Contra. esto possit ire cubitum: tamen obla 
+   <lb ed="#B" n="87"/>ta occasione pugnandi nescit discedere plusquam
+   bru<lb ed="#B" n="88" break="no"/>tum. suppono eum omnis rationis expertem:
+   alio<lb ed="#B" n="89" break="no"/>quin no est ad propositum: si enim aliquid rationis 
+   <lb ed="#B" n="90"/>habeat, secundum rationis magnitudinem
+   impu<lb ed="#B" n="91" break="no"/>tabitur peccatum
+  </p>
+      <p xml:id="jMqv4a-d1e975-d1e1000">
+   ⁋ Sexto arguitur. capio sortem 
+   <lb ed="#B" n="92"/>&amp; platonem qui vadunt ad bibendum: habeant 
+   <lb ed="#B" n="93"/>has volitiones: eamus ad bibendum vel inebrian 
+   <lb ed="#B" n="94"/>dum, siue sequatur adulterium siue mors. &amp; sic abeant. 
+   <lb ed="#B" n="95"/>Sortem in lectum Cicero ponat: &amp; Plato vagando  
+   <lb ed="#B" n="96"/>occidat hominem: sequitur iam quod plato plus pecca 
+   <lb ed="#B" n="97"/>ret quam sortes: quod non videtur: nam actus interiores 
+   <lb ed="#B" n="98"/>semper erant aequales, &amp; actui interiori actus exterior 
+   <lb ed="#B" n="99"/>nihil malitiae superaddit secundum aduersarios. 
+   <lb ed="#B" n="100"/>Et confirmatur haec ratio. si duo non temulenti ex 
+   <lb ed="#B" n="101"/>aequali negligentia proiiciant lapides extra domum: 
+   <lb ed="#B" n="102"/>licet vnus occidat &amp; non alter / aequaliter peccant. er 
+   <lb ed="#B" n="103"/>go si duo temulenti sic proiiciant / aequaliter pecca 
+   <lb ed="#B" n="104"/>bunt.
+  </p>
+      <p xml:id="jMqv4a-d1e975-d1e1031">
+   ⁋ Septimo arguitur. Sortes incurrens
+   fu<lb ed="#B" n="105" break="no"/>tiam vel temulentiam ex actu meritorio quicquid 
+   <lb ed="#B" n="106"/>agat non meretur: ergo eodem modo nec demerebitur. 
+   <lb ed="#B" n="107"/>Sed dices. plura requiruntur ad bonum quam ad malum. 
+  </p>
+      <p xml:id="jMqv4a-d1e975-d1e1040">
+       <lb ed="#B" n="108"/>⁋ Propterea octauo arguitur. Nullus peccator vni 
+   <lb ed="#B" n="109"/>co peccato efficitur peccator duobus peccatis per 
+   <lb ed="#B" n="110"/>aliquid mere naturale quod non est in potestate sua: 
+   <!--0401.xml-->
+   <pb ed="#B" n="185-r"/>
+       <cb ed="#B" n="a"/>
+       <lb ed="#B" n="1"/>Sortes incurrens ebrietatem ex culpa sua antequam 
+   <lb ed="#B" n="2"/>occidat est solum peccator vno peccato: ergo 
+   <lb ed="#B" n="3"/>si post homicidium in temulentia commissum 
+   <lb ed="#B" n="4"/>peccet nouo peccato: efficietur peccator duplici 
+   <lb ed="#B" n="5"/>peccato per aliquid mere naturale non situm in sua 
+   <lb ed="#B" n="6"/>facultate. Quidam hanc maiorem capit ad pro 
+   <lb ed="#B" n="7"/>bandum pollutionem nocturnam ex culpa proue 
+   <lb ed="#B" n="8"/>nientem non esse imputabilem. Sed dico argumeni 
+   <lb ed="#B" n="9"/>tum aequaliter vtrumque probare: licet possit dari quod 
+   <lb ed="#B" n="10"/>dam discrimen prima fronte: quia vnus dat ope 
+   <lb ed="#B" n="11"/>ram rei licitae scilicet somno: alter illicitae scilice 
+   <lb ed="#B" n="12"/>homicidio. Contra hoc arguitur. ergo si quis
+   pol<lb ed="#B" n="13" break="no"/>luatur in somno qui dormiuit tempore quo tene 
+   <lb ed="#B" n="14"/>batur non dormire, talis pollutio erit imputabilis 
+   <lb ed="#B" n="15"/>&amp; simiter quod non surrexerit ad matutinas nec fecerit 
+   <lb ed="#B" n="16"/>alia quae tenebatur in vigilia facere: quod non est con 
+   <lb ed="#B" n="17"/>cedendum. In super brutum occidens hominem non 
+   <lb ed="#B" n="18"/>dat operam rei illicitae: ergo nec iste onmi ratione
+   pri<lb ed="#B" n="19" break="no"/>uatus dat operam rei illicitae, quod enim est vni licitum 
+   <lb ed="#B" n="20"/>est alteri illicitum. Item ebrius transiens recto
+   iti<lb ed="#B" n="21" break="no"/>nere ad forum: occidens primum occurrentem dat 
+   <lb ed="#B" n="22"/>operam rei licitae, scilicet eundo ad forum: sicut 
+   <lb ed="#B" n="23"/>disponens se ad capiendum somnum licite. Si
+   di<lb ed="#B" n="24" break="no"/>cas, occidendo hominem dat operam rei illicitae: 
+   <lb ed="#B" n="25"/>eodem modo erit de pollutione. Et si arguens
+   ha<lb ed="#B" n="26" break="no"/>beat venam argumentum dirigendi: discrimen dare 
+   <lb ed="#B" n="27"/>non poteris.
+  </p>
+      <p xml:id="jMqv4a-d1e975-d1e1114">
+   ⁋ Nono arguitur. ex opposito sequ 
+   <lb ed="#B" n="28"/>tur quod motus primo primus nobis imputaretur ad cur 
+   <lb ed="#B" n="29"/>pam, contra omnes. patet: quia nobis ex culpa nostra pro 
+   <lb ed="#B" n="30"/>uenit / scilicet ex originali in quo concepti sumus / &amp; ex 
+   <lb ed="#B" n="31"/>riginalis iustitiae defectu. &amp; in Adam post
+   pri<lb ed="#B" n="32" break="no"/>mun peccatum commissum motus primo primus fuisset 
+   <lb ed="#B" n="33"/>imputabilis.
+  </p>
+      <p xml:id="jMqv4a-d1e975-d1e1130">
+   ⁋ Decimo. ponatur sortes qui tenels 
+   <lb ed="#B" n="34"/>diligere deum vel facere aliquod opus praecepti 
+   <lb ed="#B" n="35"/>in a. hora sciliet duodecima: inebrietur hora decima: 
+   <lb ed="#B" n="36"/>iai non peccat hora duodecima: ergo conclusio 
+   <lb ed="#B" n="37"/>nostra vera. Antecedens patet: quia si dicas illam 
+   <lb ed="#B" n="38"/>impotentiam ex culpa eius prouenire / &amp; sic non 
+   <lb ed="#B" n="39"/>excusare: sequitur quod actus malus in instanti
+   elici<lb ed="#B" n="40" break="no"/>tus in quolibet instanti vel tempore naturalis
+   com<lb ed="#B" n="41" break="no"/>tinuationis imputabitur ad culpam nouam.
+  </p>
+      <p xml:id="jMqv4a-d1e975-d1e1151">
+   ⁋ Vn 
+   <lb ed="#B" n="42"/>decimo. ponendo duos ebrios: vnum ex culpa 
+   <lb ed="#B" n="43"/>mortali: alterum ex veniali, &amp; tempore ebrietatis 
+   <lb ed="#B" n="44"/>committat vterque vnum peccatum quod tempore 
+   <lb ed="#B" n="45"/>rationis esset veniale duntaxat: quaeritur in qua 
+   <lb ed="#B" n="46"/>proportione tempore ebrietatis haec peccata se 
+   <lb ed="#B" n="47"/>habebunt inter se.
+  </p>
+      <p xml:id="jMqv4a-d1e975-d1e1167">
+   ⁋ Duodecimo. Origenes pres 
+   <lb ed="#B" n="48"/>byter Homilia quinta super Genesim exponens 
+   <lb ed="#B" n="49"/>ebrietatem &amp; incestum Loth Genesis. xix. dicit 
+   <lb ed="#B" n="50"/>Loth partim deliquisse, partim excusari: quia filia 
+   <lb ed="#B" n="51"/>rum concubitui non consensit: sed deceptus erat:  
+   <lb ed="#B" n="52"/>quia nimis vino indulserat, non solum semel, si 
+   <lb ed="#B" n="53"/>iterum. Vult dicere quod prima ebrietas non fuit ei 
+   <lb ed="#B" n="54"/>imputabilis: quia ex ignorantia inuincibili procedens 
+   <lb ed="#B" n="55"/>nec incestus: sed debebat cauere a secunda temulem 
+   <!--0401.xml-->
+   <cb ed="#B" n="b"/> 
+       <!-- 185-r b -->
+       <lb ed="#B" n="56"/>tia &amp; cautius agere: cum nocte praeterita se circum, 
+   <lb ed="#B" n="57"/>uentum videbat. Origenem <name xml:id="jMqv4a-d1e975-Nd1e1197" ref="#Augustine">Augustinus</name> insequitur 
+   <lb ed="#B" n="58"/>xxii contra Faustum. Et in variis locis a Gratia 
+   <lb ed="#B" n="59"/>no ad hoc allegatur: vt. xv. qui. i. Inebriauerunt.
+   ori<lb ed="#B" n="60" break="no"/>ginem autem inuenies. xxii. contra Faustum capite. xliiii. 
+   <lb ed="#B" n="61"/>Ex his rationibus &amp; auctoritatibus patet
+   conclu<lb ed="#B" n="62" break="no"/>sionem propositam quae est praecipua huius quaestio 
+   <lb ed="#B" n="63"/>nis, non offendere ptias aures.
+  </p>
+      <p xml:id="jMqv4a-d1e975-d1e1214">
+   ⁋ Quinta &amp; vltima 
+   <lb ed="#B" n="64"/>conclusio de foeditate ebrietatis manifesta est. ex 
+   <lb ed="#B" n="65"/>ea enim multa damna sequuntur. Vnde Horatius ad Tor 
+   <lb ed="#B" n="66"/>quatum epistola. v. Quid non ebrietas designatus 
+   <lb ed="#B" n="67"/>operta recludit. Spres iubet esse ratas: ad praelia
+   tru<lb ed="#B" n="68" break="no"/>dit inermen. Experimur passim quomodo operta recludit 
+   <lb ed="#B" n="69"/>propterea <name xml:id="jMqv4a-d1e975-Nd1e1229" ref="#Aristotle">Aristoteles</name> in de secretis secretorum con 
+   <lb ed="#B" n="70"/>suluit Alexandro / reddere nobiles temulentos vt 
+   <lb ed="#B" n="71"/>eorum secreta caperet. Ad praelia trudit
+   inermen<lb ed="#B" n="72" break="no"/>hoc est inconsideratum &amp; bello inidoneum: etsi 
+   <lb ed="#B" n="73"/>alioquin esset idoneus. Hac interueniente filium Tho 
+   <lb ed="#B" n="74"/>myris, &amp; Scythas genus in superabile bello Cyrus 
+   <lb ed="#B" n="75"/>Persarum rex interemit. Polyphemu gigante
+   te<lb ed="#B" n="76" break="no"/>mulentum Vlysses delusit, oculoque orbauit. &amp; caput 
+   <lb ed="#B" n="77"/>Hlolofernis temulenti bona ludith abstulit. Haec 
+   <lb ed="#B" n="78"/>in necem Clyti Alexandro charissimiregem
+   impu<lb ed="#B" n="79" break="no"/>lit. Propterea scite prouerbiorum. xxxi. a sapiente scri 
+   <lb ed="#B" n="80"/>ptum est. Noli regibus dare vinum: quia nullum
+   se<lb ed="#B" n="81" break="no"/>cretum est vbi regnat ebrietas. Haec item hominos 
+   <lb ed="#B" n="82"/>ad iudicium reddit ineptos. Hinc Ecclesiastici. xix. 
+   <lb ed="#B" n="83"/>scribitur. Vinum &amp; mulieres apostatare faciunt
+   sa<lb ed="#B" n="84" break="no"/>pientes. Praeterea castitati est perniciosissima.
+   pro<lb ed="#B" n="85" break="no"/>uerbiorum. xx. Luxuriosa res vinum: &amp; tumultuosa 
+   <lb ed="#B" n="86"/>ebrietas. Et luuenalis satyra. vi. Quid enim Venus 
+   <lb ed="#B" n="87"/>ebria curat:? Inguinis &amp; capitis quae sunt discrimina 
+   <lb ed="#B" n="88"/>nescit. Et Ouidius in arte. Vina parant animos, redduntque 
+   <lb ed="#B" n="89"/>coloribus aptos. Quocirca puerorum curam hombens eos 
+   <lb ed="#B" n="90"/>a vino cohibere debs. &amp; quanto magis in eis debs 
+   <lb ed="#B" n="91"/>splendere castitas: tanto magis sunt arcendi a
+   vi<lb ed="#B" n="92" break="no"/>no. Propterea praeclarae mulieres &amp; nobiles in ocio 
+   <lb ed="#B" n="93"/>alitae sunt a vino arcendae: cum equis regis potu 
+   <lb ed="#B" n="94"/>rae: &amp; ad hoc ab ineunte aetate assuefaciendae. quibus 
+   <lb ed="#B" n="95"/>postea cum adoleuerint aquae potus non
+   noce<lb ed="#B" n="96" break="no"/>bit. argumentum est in agricolarum filiabus
+   assue<lb ed="#B" n="97" break="no"/>tis bibere aquam. Vlterius diligens castitatem in  
+   <lb ed="#B" n="98"/>seipso: debet a vino abstinere: &amp; loquor de illo vel 
+   <lb ed="#B" n="99"/>illa in quo vel in qua est periculum castitatis
+   per<lb ed="#B" n="100" break="no"/>dendae. Hinc Ecclesiastes. ii. scribitur. Cogitaui in  
+   <lb ed="#B" n="101"/>corde meo abstrahere a vino carnem meam. Et 
+   <lb ed="#B" n="102"/>hoc castis in poenitentiam prudens confessor in 
+   <lb ed="#B" n="103"/>iungere debet. Tritum nanque est Terentianum
+   il<lb ed="#B" n="104" break="no"/>lud. Sine Cerere &amp; Baccho friget Venus. Ecce
+   li<lb ed="#B" n="105" break="no"/>tem &amp; bellum, difficultatem veri discernendi:
+   ca<lb ed="#B" n="106" break="no"/>stitatis perdendae discrimen, poculorum &amp;
+   ebrie<lb ed="#B" n="107" break="no"/>tatis comites: a qua tanquam a Cerbero longe fu 
+   <lb ed="#B" n="108"/>giendum est: in qua est tanta garrulitas &amp;
+   ver<lb ed="#B" n="109" break="no"/>porum prodigalitas, vt plerosque cum resipiscunt 
+   <lb ed="#B" n="110"/>dictorum maxime pudeat. cum maximo enim 
+   <!--0402.xml-->
+   <pb ed="#B" n="185-v"/>
+       <cb ed="#B" n="a"/>
+       <lb ed="#B" n="1"/>probro de homine dicimus: est vinolentus: magis taber 
+   <lb ed="#B" n="2"/>nam quam templum diligit. Hinc Achilles Homericus pro 
+   <lb ed="#B" n="3"/>Briseide rapta accensus ira &amp; indignabundus
+   co<lb ed="#B" n="4" break="no"/>tra Agamenonem probrosius nihil obiiciendum inuenit 
+   <lb ed="#B" n="5"/>quam vt temulentum eum vocareti 
+  </p>
+      <p xml:id="jMqv4a-d1e975-d1e1339">
+       <lb ed="#B" n="6"/>⁋ Contra secundam &amp; quartam conclu 
+   <lb ed="#B" n="7"/>siones simul instabo: quia earum est eadem
+   difficul<lb ed="#B" n="8" break="no"/>tas. Ex eis sequitur quod aliquis viator est impeccabilis per 
+   <lb ed="#B" n="9"/>naturam. consequens coniter reprobatur in secundo senten 
+   <lb ed="#B" n="10"/>tiarum. Anices probatur de demente / &amp; de ebrio tempore quo 
+   <lb ed="#B" n="11"/>est talis.
+  </p>
+      <p xml:id="jMqv4a-d1e975-d1e1355">
+   ⁋ Respondetur negando sequalam: quia dictiones 
+   <lb ed="#B" n="12"/>terminantes in bilis aptitudinem importat. Licet enim 
+   <lb ed="#B" n="13"/>Crassus nunquam riserit: erat tamen risibilis. sic licet isti 
+   <lb ed="#B" n="14"/>non possint curari ab Aesculapio nec a
+   medico<lb ed="#B" n="15" break="no"/>rum quouis: peccabiles tamen sunt. Doctores etiam loquem 
+   <lb ed="#B" n="16"/>tes in secundo intelligunt de vtentibus ratione. &amp; in 
+   <lb ed="#B" n="17"/>cidenter dico forte defendi posse oppositum. Si 
+   <lb ed="#B" n="18"/>cut enim fides infusa solum inclinat in actum cri 
+   <lb ed="#B" n="19"/>dendi verum, &amp; ad opposita successiue: sic potest: 
+   <lb ed="#B" n="20"/>dari creatura suapte natura conformans se volun 
+   <lb ed="#B" n="21"/>tati diuinae praeceptiuae.
+  </p>
+      <p xml:id="jMqv4a-d1e975-d1e1379">
+   ⁋ Secundo arguitur. sequen 
+   <lb ed="#B" n="22"/>retur ex vtraque conclusione quod quis importaret
+   lu<lb ed="#B" n="23" break="no"/>crum ex sua culpa: scilicet quod non peccabit / &amp; po 
+   <lb ed="#B" n="24"/>tissimum si detestetur excessiuum potum antequam 
+   <lb ed="#B" n="25"/>incurrat temulentiam: quia illa successiue post po 
+   <lb ed="#B" n="26"/>tum aduenit. Virtus enim vini requirit
+   determina<lb ed="#B" n="27" break="no"/>tum tempus antequam totam rationem subtrahere 
+   <lb ed="#B" n="28"/>possit.
+  </p>
+      <p xml:id="jMqv4a-d1e975-d1e1398">
+   ⁋ Respondetur negando quod habeat lucrum 
+   <lb ed="#B" n="29"/>ratione culpae: immo punietur pro illa. de per
+   ac<lb ed="#B" n="30" break="no"/>cidens tamen aliquibus malis potest conducere 
+   <lb ed="#B" n="31"/>vtpote si post confessionem / vnico peccato in
+   fu<lb ed="#B" n="32" break="no"/>ria incidant: qui forte si fuissent capaces rationis 
+   <lb ed="#B" n="33"/>in pluribus mortalibus decessissent. sed peccatum 
+   <lb ed="#B" n="34"/>non est causa propinqua eius quod est non peccare 
+   <lb ed="#B" n="35"/>sed inopia rationis. secundum alios autem peccatum 
+   <lb ed="#B" n="36"/>excusat a tanto: magis proprie minoritas rationis 
+   <lb ed="#B" n="37"/>a culpa quae incurritur. sicut si quis in fronte qua  
+   <lb ed="#B" n="38"/>dragesimae ex culpa sua morbum grauem incurrat: a 
+   <lb ed="#B" n="39"/>totius quadragesimae ieiunio absoluitur. sic in propo 
+   <lb ed="#B" n="40"/>sito.
+  </p>
+      <p xml:id="jMqv4a-d1e975-d1e1427">
+   ⁋ Tertio arguitur. faciens aliquid mali tempore fu 
+   <lb ed="#B" n="41"/>riae: si redeat ad rationem debet poenitere. vt
+   pa<lb ed="#B" n="42" break="no"/>tet ex poenitentiali Theodori. &amp; recitatur. xv. quia 
+   <lb ed="#B" n="43"/>i. cap. Si quis. vbi dicitur. Si quis insaniens alique 
+   <lb ed="#B" n="44"/>occiderit: si ad sanam mentem peruenerit: leuior ei 
+   <lb ed="#B" n="45"/>poenitentia imponenda est.
+  </p>
+      <p xml:id="jMqv4a-d1e975-d1e1440">
+   ⁋
+   Respondeturne<lb ed="#B" n="46" break="no"/>gando quod teneatur poenitere, capiendo poeniten 
+   <lb ed="#B" n="47"/>tiam vt hactenus in quarto cepimus, saltem
+   ra<lb ed="#B" n="48" break="no"/>tione actus perpetrati in furia: licet bene anteces 
+   <lb ed="#B" n="49"/>dentis ad illam si non fuerit detestatus ante tota 
+   <lb ed="#B" n="50"/>lem rationem deperditam. Istis tamen imponitur 
+   <lb ed="#B" n="51"/>poenitentia ad cautelam vt caueant a similibus 
+   <lb ed="#B" n="52"/>causis perdendae rationis: vt dicitur. l. distinctione 
+   <lb ed="#B" n="53"/>cap. Presbyteros. &amp;. xxxiiii. q. ii. In lectum.
+   Inhu<lb ed="#B" n="54" break="no"/>manum etiam esset si non displiceret viro quod talis casus 
+   <!--0402.xml-->
+   <cb ed="#B" n="b"/> 
+       <!-- 185-v b -->
+       <lb ed="#B" n="55"/>sibi contigerit. quemadmodum displicet mihi 
+   <lb ed="#B" n="56"/>si socius meus cadendo, casu frangit tibiam.
+  </p>
+      <p xml:id="jMqv4a-d1e975-d1e1473">
+   ⁋
+   Quar<lb ed="#B" n="57" break="no"/>to arguitur. secundum Aristorelem tertio
+   Ethi<lb ed="#B" n="58" break="no"/>corum. ebrio debetur duplex poena.
+  </p>
+      <p xml:id="jMqv4a-d1e975-d1e1480">
+   ⁋ Responde 
+   <lb ed="#B" n="59"/>tur. <name xml:id="jMqv4a-d1e975-Nd1e1484" ref="#Aristotle">Aristoteles</name> illic recitat sententiam aliorum. 
+   <lb ed="#B" n="60"/>&amp; est sententia cuiusdam legissatoris: scilicet Pit 
+   <lb ed="#B" n="61"/>taci Mithylenei, vt patet secundo Politi. qui
+   vi<lb ed="#B" n="62" break="no"/>dens Mithyleneos multum indulgere vino, cuius 
+   <lb ed="#B" n="63"/>ea insula est feracissima, illud voluit abolere per 
+   <lb ed="#B" n="64"/>grauissimas poenas. Quemadmodum
+   Roma<lb ed="#B" n="65" break="no"/>nus pontifex prohibet potum ad haustus aequi 
+   <lb ed="#B" n="66"/>les. de vita &amp; honestate clericorum. Acrapula. i. S 
+   <lb ed="#B" n="67"/>Vnde. vbi sic inquit. Vnde illum abusum penitus decer 
+   <lb ed="#B" n="68"/>nimus abolendum quo in quibusdam partibus 
+   <lb ed="#B" n="69"/>ad potus aequales suo modo se obligant potate 
+   <lb ed="#B" n="70"/>res: &amp; ille iudicio talium plus laudatur qui plures 
+   <lb ed="#B" n="71"/>inebriat &amp; calices foecundiores exhaurit. Non pro 
+   <lb ed="#B" n="72"/>hibet ponti fex istud quia semper est peccatum. nam 
+   <lb ed="#B" n="73"/>siquis amicum gratiose ad potum inuitet: adhuc 
+   <lb ed="#B" n="74"/>post illam legem non est peccatum. Intentio enim 
+   <lb ed="#B" n="75"/>legis &amp; non verba obligant. Turpe tamen esset 
+   <lb ed="#B" n="76"/>graui viro aliquem ad potum aequalem inuitare 
+   <lb ed="#B" n="77"/>nisi inuitandus esset talis qui potu egeret: &amp; non posset 
+   <lb ed="#B" n="78"/>honestiori via ad potu induci. Sic dico in
+   allega<lb ed="#B" n="79" break="no"/>to ex <name xml:id="jMqv4a-d1e975-Nd1e1530" ref="#Aristotle">Aristotele:</name> quod ex duplicitate poenae non
+   ar<lb ed="#B" n="80" break="no"/>guitur duplicitas culpae. Secundo dico quod
+   verisi<lb ed="#B" n="81" break="no"/>militer in temulentia contingunt nocumenta
+   pro<lb ed="#B" n="82" break="no"/>ximis: ratione quorum aggrauatur culpa excessiui 
+   <lb ed="#B" n="83"/>potus. &amp; sic virtualiter peccatum est multo peius 
+   <lb ed="#B" n="84"/>licet non adeo malum forte in subdecuplo &amp;
+   am<lb ed="#B" n="85" break="no"/>plius, ac si multa flagitia committeret in ratione 
+   <lb ed="#B" n="86"/>vbi similia quo ad substantiam actus in
+   ebrieta<lb ed="#B" n="87" break="no"/>te committit. Tertio dico secundum theoricam in  
+   <lb ed="#B" n="88"/>qui. secunda prologi datam. quando duo docti
+   vi<lb ed="#B" n="89" break="no"/>ri apparenter hincinde contradicunt: possumus 
+   <lb ed="#B" n="90"/>hunc vel illum imitari. sed Origeni presbytero &amp; 
+   <lb ed="#B" n="91"/>Augustino in hac materia non est minor fides 
+   <lb ed="#B" n="92"/>habeda quam <name xml:id="jMqv4a-d1e975-Nd1e1562" ref="#Aristotle">Aristoteli:</name> quamuis essent etiam aequales
+   ratio<lb ed="#B" n="93" break="no"/>nes. nam si forte plura in logica &amp; naturali
+   philo<lb ed="#B" n="94" break="no"/>sophia (put reor) cognouerit Aristoteles:
+   aequi<lb ed="#B" n="95" break="no"/>ualentiam in aliis scibilibus ad faciendam aequa  
+   <lb ed="#B" n="96"/>litatem vterque istorum opponet. Haec dico
+   pro<lb ed="#B" n="97" break="no"/>pter Martinum / contra quem pro magna parte 
+   <lb ed="#B" n="98"/>nuaestionem tractamus / qui alibi in eodem libro 
+   <lb ed="#B" n="99"/>dicit se plus <name xml:id="jMqv4a-d1e975-Nd1e1580" ref="#Aristotle">Aristoteli</name> credere quam multis ex nostris 
+   <lb ed="#B" n="100"/>quorum vnus sumpsit ab alio. Certe si ad dexte 
+   <lb ed="#B" n="101"/>ritatem ingenii Origenis / Hieronymi / &amp;
+   Augu<lb ed="#B" n="102" break="no"/>stini respicias: &amp; quae multiscii in vario genere
+   sci<lb ed="#B" n="103" break="no"/>entiae fuerint: apud me indubitatum est (siue ver 
+   <lb ed="#B" n="104"/>re siue erronee / deus nouit) quemlibet horum ei 
+   <lb ed="#B" n="105"/>aequandum esse. de gentili tamen philosopho rei 
+   <lb ed="#B" n="106"/>publicae nedum humanae, sed &amp; fideli / vtili: opti 
+   <lb ed="#B" n="107"/>me censeo: cuius dicta fidei non contraria magno cum 
+   <lb ed="#B" n="108"/>honore suscipio. Contra hanc tamen conclusio 
+   <lb ed="#B" n="109"/>nem non est: sed pro ea: vt eius auctoritatem exponem 
+   <!--0403.xml-->
+   <pb ed="#B" n="186-r"/>
+       <cb ed="#B" n="a"/>
+       <lb ed="#B" n="1"/>tes diximus.
+  </p>
+      <p xml:id="jMqv4a-d1e975-d1e1614">
+   ⁋ Quinto arguitur per illud ex libel 
+   <lb ed="#B" n="2"/>lo Poeniteas cito. Vnde Loth incestus peior fuit 
+   <lb ed="#B" n="3"/>ebrietate. Respondetur. falsum est quid dicit. Sed dices 
+   <lb ed="#B" n="4"/>Origenes sic loquens inquit. Dicunt hominem plene 
+   <lb ed="#B" n="5"/>ebrium mulierem cognoscere non posse. Et hoc 
+   <lb ed="#B" n="6"/>habet <name xml:id="jMqv4a-d1e975-Nd1e1627" ref="#Aristotle">Aristoteles</name> in tertia particula problematum. xi. 
+   <lb ed="#B" n="7"/>problemate. &amp; particula. iiii problemate. v. Respondetur. si 
+   <lb ed="#B" n="8"/>non erat plene ebrius, nihil ad conclusionem. Secundo 
+   <lb ed="#B" n="9"/>quaeritur quomodo <name xml:id="jMqv4a-d1e975-Nd1e1636" ref="#Aristotle">Aristoteles</name> sciebat illud. si credidit aliis 
+   <lb ed="#B" n="10"/>recitan: ibus vt habuit multa in de animalibus &amp; pro 
+   <lb ed="#B" n="11"/>blematis: quaeritur de primo dicente. Dicis:
+   cogno<lb ed="#B" n="12" break="no"/>uit experientia in vxore sua quando erat ebrius.
+   Ter<lb ed="#B" n="13" break="no"/>tio dicitur quod dictum <name xml:id="jMqv4a-d1e975-Nd1e1648" ref="#Aristotle">Aristotelis</name> est plerumque verum: 
+   <lb ed="#B" n="14"/>non tamen semper. Quarto dico quod Loth
+   nescie<lb ed="#B" n="15" break="no"/>bat die sequente se dormiuisse cum aliqua filiarum 
+   <lb ed="#B" n="16"/>suarum. nam in litera Geneseos dicitur. Ingressa est 
+   <lb ed="#B" n="17"/>maior, dormiuitque cum patre: at ille non sensit nec 
+   <lb ed="#B" n="18"/>uando accubuit filia nec quando surrexit. sensit autem tantum 
+   <lb ed="#B" n="19"/>valet quantum intellexit. Memoriam enim ebrietas
+   ob<lb ed="#B" n="20" break="no"/>tundebat. &amp; licet in actu quo concubuit cum filia vir 
+   <lb ed="#B" n="21"/>gine: eam senserit sensu interiore: forte non
+   intel<lb ed="#B" n="22" break="no"/>lexit. Sicut naturaliter secundum aliquos intellectus in  
+   <lb ed="#B" n="23"/>somno non exit in suas operationes ob sensus exte 
+   <lb ed="#B" n="24"/>riores ligatos: forte sic est in ebrietate. Potuerat etiam 
+   <lb ed="#B" n="25"/>obliuisci quod vxor sua erat mortua, &amp; hatre iudicium in 
+   <lb ed="#B" n="26"/>perfectum de propria vxore. sicut recitat Lucanus. v. 
+   <lb ed="#B" n="27"/>Pharsaliae de Cornelia in lecto / semisomni ob ab 
+   <lb ed="#B" n="28"/>sentiam Popeii: putante eum esse penertem. vbi sic poeta
+   di<lb ed="#B" n="29" break="no"/>cit. Somno quam saepe grauata Deceptis manibus va 
+   <lb ed="#B" n="30"/>cuum complexa cubile est: Atque oblita fugae
+   quaesi<lb ed="#B" n="31" break="no"/>uit nocte maritum. Sic de secunda filia dicas. &amp; 
+   <lb ed="#B" n="32"/>super isto non debent Hebraei admirari dicentes im 
+   <lb ed="#B" n="33"/>possibile virum virginem cognoscere non sentien 
+   <lb ed="#B" n="34"/>do: qui propterea partem literae reliquunt. vt habet glossa 
+   <lb ed="#B" n="35"/>marginalis Hieronymi. Appingunt (inquit) desuper 
+   <lb ed="#B" n="36"/>Hebraei obelo quaesi supersuum: quasi incredibile sit: quia 
+   <lb ed="#B" n="37"/>rerum natura non capiat coire quempiam nesciente. 
+   <lb ed="#B" n="38"/>vbi sentire capitur pro intelligere.
+  </p>
+      <p xml:id="jMqv4a-d1e975-d1e1707">
+   ⁋ Sexto arguitur 
+   <lb ed="#B" n="39"/>ponendo quod platonis ratio successiue auferatur per: 
+   <lb ed="#B" n="40"/>vnam horam sic vt in instanti terminante horam pri 
+   <lb ed="#B" n="41"/>mo nihil rationis habeat: cui sit praeceptum diligere deum 
+   <lb ed="#B" n="42"/>ante instans terminatiuum illius horae: vel aliud op 
+   <lb ed="#B" n="43"/>quod subito impleri potest: ex quarta conclusione sequitur 
+   <lb ed="#B" n="44"/>quod aliquis infinite parum peccat. consequens est inconveniens. 
+   <lb ed="#B" n="45"/>Consequentia patet: quia non est dabilis ratio in  
+   <lb ed="#B" n="46"/>qua omittit: &amp; tamen ante finem horae omittit ex casu. 
+  </p>
+      <p xml:id="jMqv4a-d1e975-d1e1727">
+       <lb ed="#B" n="47"/>⁋ Respondetur secundum varias imaginationes 
+   <lb ed="#B" n="48"/>quarum vna est quod datur minimum naturale rationis 
+   <lb ed="#B" n="49"/>quod subito producitur &amp; euanescit: &amp; illa non potest suc 
+   <lb ed="#B" n="50"/>cessiue tolli. Secundo dicitur &amp; melius: quod is nullo pa 
+   <lb ed="#B" n="51"/>cto omittit, secundum vnam solutionem proba 
+   <lb ed="#B" n="52"/>bilem datam in. xvi. distinct. huius: quod primo homo 
+   <lb ed="#B" n="53"/>omittit non eliciens actum subito prodncibilem 
+   <lb ed="#B" n="54"/>in instanti terminante totum tempus. Secundum 
+   <lb ed="#B" n="55"/>aliam autem solutionem potest non improba- 
+   <!--0403.xml-->
+   <cb ed="#B" n="b"/> 
+       <!-- 186-r b -->
+       <lb ed="#B" n="56"/>biliter dici quod homo solum venialiter peccat ob ra 
+   <lb ed="#B" n="57"/>tionis paruitatem circa materiam prohibitam sub 
+   <lb ed="#B" n="58"/>poena peccati mortalis. 
+  </p>
+      <p xml:id="jMqv4a-d1e975-d1e1762">
+       <lb ed="#B" n="59"/>⁋ Dubitatur: quae res sit ebrietas: &amp; 
+   <lb ed="#B" n="60"/>quando sit venialis, quando mortalis. Et an assue 
+   <lb ed="#B" n="61"/>factio faciat de veriali mortale.
+  </p>
+      <p xml:id="jMqv4a-d1e975-d1e1771">
+   ⁋ Respondeo ad pri 
+   <lb ed="#B" n="62"/>mun. Anima hominis potest dici ebrietas: ita vt terminus 
+   <lb ed="#B" n="63"/>ebrietas pro anima supponat non absolute / sed conno 
+   <lb ed="#B" n="64"/>tatiue, conotando quod ratio eius tota sit ablata per 
+   <lb ed="#B" n="65"/>excessiuum potum: potum inquam excessiuum in quali 
+   <lb ed="#B" n="66"/>tate vel quantitate. Potes enim dare maximum vinum 
+   <lb ed="#B" n="67"/>quod non potest inebriare: &amp; illo vino accepto per quod 
+   <lb ed="#B" n="68"/>cumque appositum maius, homo inebriabitur: &amp;
+   ha<lb ed="#B" n="69" break="no"/>bens illud maximum vinum quod non sufficit inebria 
+   <lb ed="#B" n="70"/>re: parum peccabit. etiam non in convenienter potest
+   da<lb ed="#B" n="71" break="no"/>ri minimum quod sufficit inebriare. sed tales ne 
+   <lb ed="#B" n="72"/>xus iunioribus theologis relinquens missos facio 
+  </p>
+      <p xml:id="jMqv4a-d1e975-d1e1797">
+       <lb ed="#B" n="73"/>⁋ Ad secundam dubitationem dicitur. quando ebrie 
+   <lb ed="#B" n="74"/>tas est in notabilem iacturam corporis vel animae scien 
+   <lb ed="#B" n="75"/>ter vel ex ignorantia vincibili: ipsa est mortalis: 
+   <lb ed="#B" n="76"/>si vero afferat iacturam non notabilem: est solum 
+   <lb ed="#B" n="77"/>venialis. Si quis autem temulentiam ex ignorantia in  
+   <lb ed="#B" n="78"/>uincibili incurrat / vel ad prouocandum vomitum 
+   <lb ed="#B" n="79"/>scienter vel pro aliqua rationabili causa quae
+   eue<lb ed="#B" n="80" break="no"/>nire potest, non est peccatum: sed proprie loquendo  
+   <lb ed="#B" n="81"/>est actus sobrietatis: quia a dictamine prudentiali 
+   <lb ed="#B" n="82"/>vel errore inuincibiliregulatus: &amp; per consequens 
+   <lb ed="#B" n="83"/>actus moraliter bonus &amp; meritorius in habente gra 
+   <lb ed="#B" n="84"/>tiam: licet interdum laxato vocabulo ab aliquibus 
+   <lb ed="#B" n="85"/>dicatur esse peccatum. sed proprie loquendo non 
+   <lb ed="#B" n="86"/>est.
+  </p>
+      <p xml:id="jMqv4a-d1e975-d1e1830">
+   ⁋ Quo ad vltimam partem dubitationis di 
+   <lb ed="#B" n="87"/>citur quod si primus actus generatiuus habitus sit 
+   <lb ed="#B" n="88"/>venialis: reliqui omnes si nihil aliud obstet / sunt venia 
+   <lb ed="#B" n="89"/>les. potest tamen contingere quod scientia in actibus posteriori 
+   <lb ed="#B" n="90"/>bus actum aggrauet vt sit mortalis: quod ostendo exem 
+   <lb ed="#B" n="91"/>plo. Cum volo bibere hoc vinum Creticum quod 
+   <lb ed="#B" n="92"/>dicitur mihi esse Parisiense a fide digno / non pecco / lica 
+   <lb ed="#B" n="93"/>temulentiam incurram. deinde potest esse tam parua scientia 
+   <lb ed="#B" n="94"/>quod similis actus erit venialis: &amp; demum crescente sci 
+   <lb ed="#B" n="95"/>entia similis actus eiusdem speclei specialissimae 
+   <lb ed="#B" n="96"/>entitatiue erit mortalis.
+  </p>
+      <p xml:id="jMqv4a-d1e975-d1e1855">
+   ⁋ Summatim
+   colligen<lb ed="#B" n="97" break="no"/>do quae in hac quaestione diximus cum obiter
+   oc<lb ed="#B" n="98" break="no"/>currentibus: dico quod insanus &amp; temulentus
+   quic<lb ed="#B" n="99" break="no"/>quid faciat vel omnittat tempore carentiae rationis, non 
+   <lb ed="#B" n="100"/>peccat. &amp; per consequens no obligatur ad confessionem 
+   <lb ed="#B" n="101"/>protunc: siue insaniam: aut temulentiam ex
+   cul<lb ed="#B" n="102" break="no"/>pa incurrerit siue non. Et breuiter nullus peccat pro 
+   <lb ed="#B" n="103"/>tempore illo quo omni ratione spoliatur. Et ex isto sequitur 
+   <lb ed="#B" n="104"/>quod dormiens non peccat commissiue vel omissi 
+   <lb ed="#B" n="105"/>ue per turpes cogitationes vel pollutionem / vel non sur 
+   <lb ed="#B" n="106"/>gendo ad matutinas si sit religiosus dormiens pro 
+   <lb ed="#B" n="107"/>tempore quo aliitenentur adire templum. Et eodem mo 
+   <lb ed="#B" n="108"/>sequitur quod scholastici non omittunt / dormientes 
+   <lb ed="#B" n="109"/>tempore lectionis matutinae.
+  </p>
+    </div>
+   </body>
+  </text>
+</TEI>

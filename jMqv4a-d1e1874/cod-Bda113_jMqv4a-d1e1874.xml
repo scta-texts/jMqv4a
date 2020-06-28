@@ -1,0 +1,388 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 7</title>
+      <author ref="#JohnMair">John Mair</author>
+      <respStmt>
+       <name>Jeffrey C. Witt</name>
+       <resp>TEI Encoder</resp>
+      </respStmt>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 7</title>
+       <date when="2020-06-09">June 27, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="B" n="cod-Bda113">Badius 1516</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+     guidelines for a diplomatic edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-06-27" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+      <pb ed="#B" n="350-r"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="jMqv4a-d1e1874"> <!-- l4d45q7 -->
+      <head xml:id="jMqv4a-d1e1874-Hd1e104">Quaestio 7</head>
+      <head xml:id="jMqv4a-d1e1874-Hd1e107" type="question-title">An maneat habitus memorandi in intellectu 
+  separato integer sicut intellectus ipse et an anima 
+  separata reminiscetur omnium quae homo 
+  acquisit in hac mortali vita</head>
+      <p xml:id="jMqv4a-d1e1874-d1e110">
+       <lb ed="#B" n="42"/>⁋ Distinctionis Quadragesimae quitae 
+   <lb ed="#B" n="43"/>Quaestio Septima. 
+   <lb ed="#B" n="44"/>Estat titulus
+   quae<lb ed="#B" n="45" break="no"/>llstionis in praecedente quaestioni 
+   <lb ed="#B" n="46"/>propositus. An scilicet ma 
+   <lb ed="#B" n="47"/>neat habitus memorandi in 
+   <lb ed="#B" n="48"/>intellectu integer sicut inte 
+   <lb ed="#B" n="49"/>lectus ipse.
+  </p>
+      <p xml:id="jMqv4a-d1e1874-d1e130">
+   ⁋ Pro solutio 
+   <lb ed="#B" n="50"/>R xus ne quaestionis pono aliquas 
+   <lb ed="#B" n="51"/>conclusiones. quarum Prima erit secudae
+   conclusio<lb ed="#B" n="52" break="no"/>ni quaestionis praecedentis multum affinis propter ali 
+   <lb ed="#B" n="53"/>qua hanc materiam concementia. Potest acquiri ha- 
+   <!--0731.xml-->
+   <cb ed="#B" n="b"/> 
+       <!-- 350-r b -->
+       <lb ed="#B" n="54"/>bitus in anima dum corpus informat, qui mane 
+   <lb ed="#B" n="55"/>bit in anima separata.
+  </p>
+      <p xml:id="jMqv4a-d1e1874-d1e153">
+   ⁋ Secunda conclusio. Non 
+   <lb ed="#B" n="56"/>est necesse habitum manere integrum more animi 
+   <lb ed="#B" n="57"/>intellectiuae.
+  </p>
+      <p xml:id="jMqv4a-d1e1874-d1e160">
+   ⁋ Tertia conclusio. Nullus habitus 
+   <lb ed="#B" n="58"/>animae corrumpitur per cessationem ab actu.
+  </p>
+      <p xml:id="jMqv4a-d1e1874-d1e165">
+   ⁋
+   Quar<lb ed="#B" n="59" break="no"/>ta conclusio. Anima separata potest acquirere tam 
+   <lb ed="#B" n="60"/>habitus quam actus de nouo.
+  </p>
+      <p xml:id="jMqv4a-d1e1874-d1e172">
+   ⁋ Quinta conclusio 
+   <lb ed="#B" n="61"/>responsiua ad titulum quaestionis praecedentis quae 
+   <lb ed="#B" n="62"/>vtramque quaestionem contingit, est haec. Non omnium quae  
+   <lb ed="#B" n="63"/>homo acquisiuit in hac mortali vita reminiscetur 
+   <lb ed="#B" n="64"/>vel memoriae mandabit.
+  </p>
+      <p xml:id="jMqv4a-d1e1874-d1e183">
+   ⁋ Prima conclusio duas 
+   <lb ed="#B" n="65"/>habet partes: quarum prior est. potest acquiri
+   habi<lb ed="#B" n="66" break="no"/>tus in anima separata. quae probatur sic. in quacumque 
+   <lb ed="#B" n="67"/>potentia potest acquiri actus habitus generatiuus, 
+   <lb ed="#B" n="68"/>in illa potest generari habitus: sed in anima potest 
+   <lb ed="#B" n="69"/>haberi actus habitus generatiuus. igitur. consequen 
+   <lb ed="#B" n="70"/>tia tenet cum maiore. minor patet tam in actibus in  
+   <lb ed="#B" n="71"/>tellectus quam voluntatis. Secunda pars probatur: quia 
+   <lb ed="#B" n="72"/>nunc est in anima, in corpore: &amp; manebit idem subie 
+   <lb ed="#B" n="73"/>ctum post mortem: ergo non videtur quomodo cor 
+   <lb ed="#B" n="74"/>rumpi debeat. istud latius patebit per dicenda- 
+  </p>
+      <p xml:id="jMqv4a-d1e1874-d1e207">
+       <lb ed="#B" n="75"/>⁋ Secunda conclusio ostenditur. nam habitus potest: 
+   <lb ed="#B" n="76"/>corrumpi per actus sibi virtualiter contrarios: hoc 
+   <lb ed="#B" n="77"/>est per actus formaliter contrarios actibus habitus. 
+   <lb ed="#B" n="78"/>vt calor aquae corrumpitur per formam
+   substantia<lb ed="#B" n="79" break="no"/>lem aquae: quae calori virtualiter contrariatur. ani 
+   <lb ed="#B" n="80"/>ma autem non potest corrumpi ab vlla creatura: quia 
+   <lb ed="#B" n="81"/>creatur a solo deo: ergo no potest corrumpi nisi 
+   <lb ed="#B" n="82"/>a solo deo. Sed dicis. hoc concludit Adam non  
+   <lb ed="#B" n="83"/>posse occidi a creatura. ostendo aliter per verbum 
+   <lb ed="#B" n="84"/>Christi Matthaei. x. Nolite timere eos qui occidunt 
+   <lb ed="#B" n="85"/>corpus: animam autem non possunt occidere.
+  </p>
+      <p xml:id="jMqv4a-d1e1874-d1e234">
+   ⁋
+   Ter<lb ed="#B" n="86" break="no"/>tia conclusio probatur sic. omne quod corrumpitui 
+   <lb ed="#B" n="87"/>a suo contrario corrumpitur, vel ob corruptionem 
+   <lb ed="#B" n="88"/>subiecti: vel per subtractionem causae a qua depen 
+   <lb ed="#B" n="89"/>det. vt lumen in medio per subtractionem
+   corpo<lb ed="#B" n="90" break="no"/>ris luminosi: vt lumen in luna per distantiam solis 
+   <lb ed="#B" n="91"/>vel lumen in aere per subtractionem corporis
+   lu<lb ed="#B" n="92" break="no"/>minosi. sed nullo istorum modorum habitus in ani 
+   <lb ed="#B" n="93"/>ma corrumpitur: saltem corrumpi non oportet, non a 
+   <lb ed="#B" n="94"/>contrario: quia non quilibet habitus habet contra 
+   <lb ed="#B" n="95"/>rium: &amp; si habeat contrarium / non oportet applicare. 
+   <lb ed="#B" n="96"/>Insuper in patriam nullum contrarium adducetur, quic 
+   <lb ed="#B" n="97"/>quid sit in via. Nec per corruptionem subiecti ex con 
+   <lb ed="#B" n="98"/>clusione praecedente, nec per subtractionem causae a 
+   <lb ed="#B" n="99"/>qua depedet: quia habitus non dependet a conatu 
+   <lb ed="#B" n="100"/>actuali animae, sicut actus: vt videmus in dormien 
+   <lb ed="#B" n="101"/>te. Forte dicis. requirit dispositionem corporis ad 
+   <lb ed="#B" n="102"/>sui conseruatione. Contra hoc arguitur. ab eisdem 
+   <lb ed="#B" n="103"/>causis res aliqua conseruatur &amp; acquiritur. sed
+   ha<lb ed="#B" n="104" break="no"/>bitus potest sine corpore acquiri: vt patebit ex 
+   <lb ed="#B" n="105"/>conclusione sequente. ergo potest manere sine
+   cor<lb ed="#B" n="106" break="no"/>pore. Praeterea habitus manet cessante actu per 
+   <lb ed="#B" n="107"/>tempus aliquod. ergo perpetuo, nisi ponatur corrum 
+   <lb ed="#B" n="108"/>ptiuum eius: sicut forma aquae calorem corrumpit, &amp; 
+   <!--0732.xml-->
+   <pb ed="#B" n="350-v"/>
+       <cb ed="#B" n="a"/>
+       <lb ed="#B" n="1"/>ponit frigus suapte natura. modo nihil in anima 
+   <lb ed="#B" n="2"/>si non ponatur actus contrarius, habitum corrumpit vel 
+   <lb ed="#B" n="3"/>ponit contrarium. Et hoc ostenditur ex illo Lucae. xvi. 
+   <lb ed="#B" n="4"/>Fili recordare quia recepisti bona in vita tua: &amp; La 
+   <lb ed="#B" n="5"/>zarus similiter mala. ergo diues epulo / hoc est anima 
+   <lb ed="#B" n="6"/>diuitis epulonis qui fuit, recordabatur eorum quae fecit 
+   <lb ed="#B" n="7"/>in vita: &amp; tamen anima fuit separata. Idem expresse voluis 
+   <lb ed="#B" n="8"/>Hieronymus in prologo bibliaco inquiens. Disca 
+   <lb ed="#B" n="9"/>mus in terris quorum scientia manet in caeio. ac si
+   di<lb ed="#B" n="10" break="no"/>ceret. Habitus quos acquirimus in terris, in caelis 
+   <lb ed="#B" n="11"/>remanebunt. Postremo ad eandem conclusionem
+   argu<lb ed="#B" n="12" break="no"/>mentor. si habitus non manebunt: frustra tot excu 
+   <lb ed="#B" n="13"/>bias nocturnas &amp; lucubrationes studio homines impi 
+   <lb ed="#B" n="14"/>derent siomnia repente corruerent.
+  </p>
+      <p xml:id="jMqv4a-d1e1874-d1e323">
+   ⁋ Quarta conclusio 
+   <lb ed="#B" n="15"/>probatur sic. Anima separata habet potentiam intelle 
+   <lb ed="#B" n="16"/>ctiuam &amp; appetitiuam: ergo potest ponere actum circa 
+   <lb ed="#B" n="17"/>obiectum praesentatum, sed illae potentiae sunt receptiuae 
+   <lb ed="#B" n="18"/>habitus: ergo possunt recipere habitum. Secundo 
+   <lb ed="#B" n="19"/>probatur idem. nam anima in corpore corruptibili 
+   <lb ed="#B" n="20"/>potest acquirere tam actus quam habitus: ergo &amp;
+   separa<lb ed="#B" n="21" break="no"/>ta. tenet consequentia: quia perfectius se habet sepa 
+   <lb ed="#B" n="22"/>rata quam in corpore corruptibili.
+  </p>
+      <p xml:id="jMqv4a-d1e1874-d1e343">
+   ⁋ Quita conclusio 
+   <lb ed="#B" n="23"/>ostenditur: quia homo habet multas notitias
+   actua<lb ed="#B" n="24" break="no"/>les &amp; habituales sensitiuas, quas non oportet
+   ha<lb ed="#B" n="25" break="no"/>bere in resurrectione. nam quando anima
+   separa<lb ed="#B" n="26" break="no"/>tur a corpore in morte: omnes illae notitiae
+   corrun<lb ed="#B" n="27" break="no"/>puntur ad corruptionem subiecti: nec oportet tales 
+   <lb ed="#B" n="28"/>reassumpto corpore creari iterato a deo. ergo
+   con<lb ed="#B" n="29" break="no"/>clusio vera- 
+  </p>
+      <p xml:id="jMqv4a-d1e1874-d1e361">
+       <lb ed="#B" n="30"/>⁋ Contratertiam conclusionem
+   argu<lb ed="#B" n="31" break="no"/>mentor. Ex ea sequitur, quod vir senex habet tot ha 
+   <lb ed="#B" n="32"/>bitus grammaticos / logicos / &amp; historicos quot vn 
+   <lb ed="#B" n="33"/>quam habuit in iuuenta. consequens est contra experien 
+   <lb ed="#B" n="34"/>tiam, cum non possit exire in actum ab illis habitibus 
+   <lb ed="#B" n="35"/>elicitum, vt in iuuenili aetate. sed habens habitum 
+   <lb ed="#B" n="36"/>prompte &amp; delectabiliter exit in actum sui habitus 
+  </p>
+      <p xml:id="jMqv4a-d1e1874-d1e379">
+       <lb ed="#B" n="37"/>⁋ Respondetur concedendo sequelam. &amp; nego quod con 
+   <lb ed="#B" n="38"/>sequens sit contra experientiam. sed pro hoc statu in 
+   <lb ed="#B" n="39"/>quo sumus, habitus animae non potest exire in suos 
+   <lb ed="#B" n="40"/>actus facile sine corporis habitu, vel eius bona 
+   <lb ed="#B" n="41"/>dispositione: quia est animae instrumentum. secus est 
+   <lb ed="#B" n="42"/>de anima beata, vel a corpore corruptibili separa 
+   <lb ed="#B" n="43"/>ta. Corpus enim quod corrumpitur aggrauat animam. 
+   <lb ed="#B" n="44"/>Sapientiae. ix. lstud autem est in poena peccati. Vnde 
+   <lb ed="#B" n="45"/>dicit <name xml:id="jMqv4a-d1e1874-Nd1e400" ref="#Augustine">Augustinus</name> i de libe. arbi. ca. x. Poena peccati est 
+   <lb ed="#B" n="46"/>quod mens aliquando perspicuas ratiocinationes for 
+   <lb ed="#B" n="47"/>midet: &amp; de inuentione veritatis desperet.
+   aliquan<lb ed="#B" n="48" break="no"/>do etiam conetur in lucem intelligendi: &amp; rursus de 
+   <lb ed="#B" n="49"/>cidat fatigata. vbi multas mentis poenas ponit. 
+   <lb ed="#B" n="50"/>Anima autem separata &amp; beata, deum &amp; angelos
+   in<lb ed="#B" n="51" break="no"/>tuitiue contemplatur: nunc autem non. Propterea nihil est 
+   <lb ed="#B" n="52"/>arguere de hoc statu mortali ad animam separatam 
+   <lb ed="#B" n="53"/>vel beatificam. nam in hoc statu caro alteratur: ad  
+   <lb ed="#B" n="54"/>cuius alterationem habitus sensitiuus remittitur 
+   <!--0732.xml-->
+   <cb ed="#B" n="b"/> 
+       <!-- 350-v b -->
+       <lb ed="#B" n="55"/>vel instrumentum animae indisponitur. quare habi 
+   <lb ed="#B" n="56"/>tus animae non poterit exire in suas operationes. 
+   <lb ed="#B" n="57"/>Contra hoc argumentor. antiquus magister regens 
+   <lb ed="#B" n="58"/>in grammatica dicit regulas grammaticas
+   memori<lb ed="#B" n="59" break="no"/>ter: &amp; tamen caro eius alteratur. Respondetur. ipse 
+   <lb ed="#B" n="60"/>acquirit nouos habitus proportionabiliter, vel ma 
+   <lb ed="#B" n="61"/>iorem quam sit is qui remittitur. quapropter exit in  
+   <lb ed="#B" n="62"/>actus sui habitus. sed habitus sensus vel corpus 
+   <lb ed="#B" n="63"/>indisponitur. Exemplum in simili. indisponitur
+   ocu<lb ed="#B" n="64" break="no"/>lus senis vt videre non possit sicut in iuuenta. si 
+   <lb ed="#B" n="65"/>tamen haberet instrumetum videndi tale quale 
+   <lb ed="#B" n="66"/>in iuuenta habuit, aeque bene videret ac in iuuen 
+   <lb ed="#B" n="67"/>ta: quantum est ex parte animae: iuxta illud <name xml:id="jMqv4a-d1e1874-Nd1e458" ref="#Aristotle">Aristote</name> 
+       <lb ed="#B" n="68"/>lis primo de anima. Si senex haberet oculum vt 
+   <lb ed="#B" n="69"/>iuuenis, videret vt iuuenis. propterea senex con 
+   <lb ed="#B" n="70"/>spiciliis vtitur: vt defectum instrumenti, hoc est
+   or<lb ed="#B" n="71" break="no"/>gani suppleat. nam multum facit instrumentum ad 
+   <lb ed="#B" n="72"/>actionem principalis agentis. Nonne vides quod
+   ma<lb ed="#B" n="73" break="no"/>nus tam fortis quam olim erat, non tam scindit obtu 
+   <lb ed="#B" n="74"/>so cultello vt acuto? sic de habitu animae: quando  
+   <lb ed="#B" n="75"/>corpus, animae instrumentum est indispositum. Et si 
+   <lb ed="#B" n="76"/>aliquos optimae memoriae assignaueris: vt
+   The<lb ed="#B" n="77" break="no"/>mistoclem de quo loquitur. M. Tullius in secundo  
+   <lb ed="#B" n="78"/>de Oratore: vel. L. Scipionem: &amp; Mithridatem regen 
+   <lb ed="#B" n="79"/>Ponti: qui integros exercitus propriis nominibus 
+   <lb ed="#B" n="80"/>vocarunt: hoc erat quia bona &amp; apta organa
+   me<lb ed="#B" n="81" break="no"/>moriae habuerunt. &amp; confirmat conclusionem contra quam 
+   <lb ed="#B" n="82"/>obiicimus.
+  </p>
+      <p xml:id="jMqv4a-d1e1874-d1e494">
+   ⁋ Secundo arguitur. Ex hac conclusio 
+   <lb ed="#B" n="83"/>ne sequitur quod intemperatus, postea beatus, decedit 
+   <lb ed="#B" n="84"/>cum multis habitibus malis: quia semper manebun: 
+   <lb ed="#B" n="85"/>habitus animae, per dicta, quod est disconueniens. 
+  </p>
+      <p xml:id="jMqv4a-d1e1874-d1e504">
+       <lb ed="#B" n="86"/>⁋ Tertio. homo per actum producit habitum, ergo per 
+   <lb ed="#B" n="87"/>actum habitum corrumpit. tenet consequentia: quia 
+   <lb ed="#B" n="88"/>facilius est destruere qui construere.
+  </p>
+      <p xml:id="jMqv4a-d1e1874-d1e513">
+   ⁋ Respondetur 
+   <lb ed="#B" n="89"/>ad secundum, quod intemperati mali habitus corrumpum 
+   <lb ed="#B" n="90"/>tur a deo quando est beatus primo.
+  </p>
+      <p xml:id="jMqv4a-d1e1874-d1e520">
+   ⁋ Ad tertium 
+   <lb ed="#B" n="91"/>conceditur quod interdum habitus corrumpitur: sed non  
+   <lb ed="#B" n="92"/>oportet vtrobique quod causa potens aliquid produce 
+   <lb ed="#B" n="93"/>re possit illud corrupere. nam sollumen producit, quod 
+   <lb ed="#B" n="94"/>corrumpere nequit. Facilius autem est destruere quam
+   co<lb ed="#B" n="95" break="no"/>struere in aedificiis / pecunia / vel in actibus bonis: 
+   <lb ed="#B" n="96"/>non autem in habitibus. vel vniuersaliter intelligitur 
+   <lb ed="#B" n="97"/>illd quando plures causae destructiuae sunt applica 
+   <lb ed="#B" n="98"/>biles.
+  </p>
+      <p xml:id="jMqv4a-d1e1874-d1e540">
+   ⁋ Quarto arguitur. Habitus illi non inclina 
+   <lb ed="#B" n="99"/>bunt actualiter in actus similes ipsis habitibus:
+   er<lb ed="#B" n="100" break="no"/>go in patria non manebunt, vel inutiliter manebunt. 
+   <lb ed="#B" n="101"/>Antecedens patet de habitu sobrietatis &amp; tempe 
+   <lb ed="#B" n="102"/>rantiae &amp; similibus.
+  </p>
+      <p xml:id="jMqv4a-d1e1874-d1e551">
+   ⁋ Respondetur. argumentum pro 
+   <lb ed="#B" n="103"/>baret quod multa membra corporis non resurgenti 
+   <lb ed="#B" n="104"/>quod est falsum. nam membra ad integritatem compositi 
+   <lb ed="#B" n="105"/>resurgent: nec erunt inutilia. sic habitus ad
+   deco<lb ed="#B" n="106" break="no"/>rem habentis manebunt. Secundo dico quod
+   temperan<lb ed="#B" n="107" break="no"/>tia inclinat circa suam materiam secundum dictamen
+   re<lb ed="#B" n="108" break="no"/>ctae rationis: hoc est, ad non exeundum in actum quando  
+   <lb ed="#B" n="109"/>non oportet. modo recta ratio in patria dictat quod 
+   <!--0733.xml-->
+   <pb ed="#B" n="351-r"/>
+       <cb ed="#B" n="a"/>
+       <lb ed="#B" n="1"/>multi erunt habitus qui non exibunt in suas
+   ope<lb ed="#B" n="2" break="no"/>rationes: vt castitas coiugii: &amp; multi alii.
+  </p>
+      <p xml:id="jMqv4a-d1e1874-d1e580">
+   ⁋ Quin 
+   <lb ed="#B" n="3"/>to arguitur. Si habitus acquisiti in corpore non 
+   <lb ed="#B" n="4"/>corrumpantur propter cessationem ab actibus: anima 
+   <lb ed="#B" n="5"/>potest exire in actus omnium illorum habituum. puti 
+   <lb ed="#B" n="6"/>potest habere tot actus quot habet habitus, con 
+   <lb ed="#B" n="7"/>sequens est manifeste falsum. &amp; probatur consequen 
+   <lb ed="#B" n="8"/>tia: quia sunt agentia naturalia: &amp; intellectus est 
+   <lb ed="#B" n="9"/>agens naturale: ergo semper intellectus exibit in actu 
+   <lb ed="#B" n="10"/>omnium illorum habituum. Sed dicis. habitus
+   fortio<lb ed="#B" n="11" break="no"/>res magis mouent quam reliqui: &amp; talium habituum actus 
+   <lb ed="#B" n="12"/>producutur. Insto: ergo num quam erit status in intelle 
+   <lb ed="#B" n="13"/>ctu quin habebit tot actus quot anima capere po 
+   <lb ed="#B" n="14"/>test, actiue concurrendo: actus inquam habituum for 
+   <lb ed="#B" n="15"/>tiorum. Etiam est contra experientiam quod semper eximus 
+   <lb ed="#B" n="16"/>in actum habitus fortioris. Forte dices. voluntas 
+   <lb ed="#B" n="17"/>imperat intellectui vt eliciat actum talis obiecti 
+   <lb ed="#B" n="18"/>puta a. &amp; non b. c. &amp; non d. &amp; sic intellectus intelligit 
+   <lb ed="#B" n="19"/>a. &amp; c.r &amp; non b. &amp; d. Contra hoc arguo sic. voluntas 
+   <lb ed="#B" n="20"/>non fertur in incognitum: ergo si voluntas vult intel 
+   <lb ed="#B" n="21"/>lectum intelligere a. intellectus prius actualiter
+   in<lb ed="#B" n="22" break="no"/>telligit a. quia si non prius tempore vel natura:
+   vo<lb ed="#B" n="23" break="no"/>luntas fertur in incognitum. Dices forte. voluntas 
+   <lb ed="#B" n="24"/>potest velle a. esse cognitum: &amp; intellectui imperat 
+   <lb ed="#B" n="25"/>vt intelligat a. &amp; non sequitur quod aliquid sit volitum 
+   <lb ed="#B" n="26"/>quod non sit cognitum actualiter vel habitualiter: quia 
+   <lb ed="#B" n="27"/>intellectus habet habitum a. Obiicio. ergo
+   dor<lb ed="#B" n="28" break="no"/>miens potest velle a. in sensu composito: cum habeat 
+   <lb ed="#B" n="29"/>notitiam habitualem a. &amp; hoc sufficit per te ad
+   volun<lb ed="#B" n="30" break="no"/>tatem velle obiectum. Praeterea voluntas imperat in  
+   <lb ed="#B" n="31"/>tellectui vti hac specie &amp; non illa: &amp; non intelligi 
+   <lb ed="#B" n="32"/>hanc specien actualiter vel habitualiter: ergo aliqui 
+   <lb ed="#B" n="33"/>est volitum incognitum. Sed hic dicis argumentum non 
+   <lb ed="#B" n="34"/>concludere: quia non sufficit notitia habitualis a. 
+   <lb ed="#B" n="35"/>obiecti ad hoc vt voluntas velit a. sed cum hoc re 
+   <lb ed="#B" n="36"/>quiritur conatus voluntatis, &amp; eius actio: quae non 
+   <lb ed="#B" n="37"/>est in sommo. &amp; si deus solus produceret notitiam 
+   <lb ed="#B" n="38"/>actualem respectu a. obiecti in Sorte dormiente: 
+   <lb ed="#B" n="39"/>adhuc. voluntas non posset electiue velle a.
+  </p>
+      <p xml:id="jMqv4a-d1e1874-d1e664">
+   ⁋
+   Re<lb ed="#B" n="40" break="no"/>spondendo in primis dico quod species &amp; intellectus 
+   <lb ed="#B" n="41"/>sunt agentia naturalia respectu actus producendi. 
+   <lb ed="#B" n="42"/>sed non sunt causa sufficiens productionis eius.
+   Se<lb ed="#B" n="43" break="no"/>cundo dico quod multi actus habituum producuntur sine 
+   <lb ed="#B" n="44"/>actu aliquo voluntatis, notitiae imperatiuo: vt
+   pa<lb ed="#B" n="45" break="no"/>tet de transeunte cubiculum vel surgente de lecto: cui 
+   <lb ed="#B" n="46"/>occurrit nouus liber apertus, quem intuetur sine 
+   <lb ed="#B" n="47"/>actu voluntatis praeuio / notitias actuales habituum 
+   <lb ed="#B" n="48"/>formando. Tertio dicitur quod non semper intensiores ha 
+   <lb ed="#B" n="49"/>bitus producunt suos actus citius quam remissiores. 
+   <lb ed="#B" n="50"/>Ratio est: quia potest dari certa introductio, &amp; au 
+   <lb ed="#B" n="51"/>xilium iuuans habitum remissum plus quam sit excessus 
+   <lb ed="#B" n="52"/>intensionis maioris habitus super minorem, ad
+   pro<lb ed="#B" n="53" break="no"/>ducendam notitiam actualem: &amp; sic producitur actus: 
+   <lb ed="#B" n="54"/>Declaro exemplo. habeo habitum remissum de Sor 
+   <lb ed="#B" n="55"/>te: &amp; intensum de Platone: canis Sortis occurrit, 
+   <!--0733.xml-->
+   <cb ed="#B" n="b"/> 
+       <!-- 351-r b -->
+       <lb ed="#B" n="56"/>liber, frater, vel huiusmodi: exeo in actualem
+   noti<lb ed="#B" n="57" break="no"/>tiam eius per introductionem: &amp; non in notitiam
+   Pla<lb ed="#B" n="58" break="no"/>tonis. nam habitus intensus in memoria potest ha 
+   <lb ed="#B" n="59"/>bere obicem quare non exeam in actum eius: &amp;
+   ha<lb ed="#B" n="60" break="no"/>bitus remissus ianuam apertam ad exeundum in actum 
+   <lb ed="#B" n="61"/>eius: &amp; crebro me fugit vnde prouenit illa ianua. 
+   <lb ed="#B" n="62"/>sicut plerique aegrotant: qui aegritudinis causam 
+   <lb ed="#B" n="63"/>ignorant. Non est autem in potestate nostra quin 
+   <lb ed="#B" n="64"/>visis tangamur.
+  </p>
+      <p xml:id="jMqv4a-d1e1874-d1e727">
+   ⁋ Ecce ergo quod homo non sem 
+   <lb ed="#B" n="65"/>per exit in actum interioris habitus propter iuua 
+   <lb ed="#B" n="66"/>men accedens, iuuans intellectum vt exeat in actum 
+   <lb ed="#B" n="67"/>parui habitus, &amp; non magni. sed minus auxilium 
+   <lb ed="#B" n="68"/>sufficit mouere potentiam cum magno habitu quam 
+   <lb ed="#B" n="69"/>cum paruo. nam vbi est thesaurus tuus: ibi est &amp; 
+   <lb ed="#B" n="70"/>cor tuum. Quare pro toto hoc argumento sat est 
+   <lb ed="#B" n="71"/>quod homo non semper exit in actum intensioris 
+   <lb ed="#B" n="72"/>habitus: sed. interdum exit sine voluntatis impe 
+   <lb ed="#B" n="73"/>rio. Nec pro argumento opus est illam difficultatem 
+   <lb ed="#B" n="74"/>attingere, an voluntas feratur in incognitum. 
+  </p>
+    </div>
+   </body>
+  </text>
+</TEI>

@@ -1,0 +1,347 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 1</title>
+      <author ref="#JohnMair">John Mair</author>
+      <respStmt>
+       <name>Jeffrey C. Witt</name>
+       <resp>TEI Encoder</resp>
+      </respStmt>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 1</title>
+       <date when="2020-06-09">June 27, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="B" n="cod-Bda113">Badius 1516</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+     guidelines for a diplomatic edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-06-27" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+      <pb ed="#B" n="279-v"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="jMqv4a-d1e1492"> <!-- l4d32q1 -->
+      <head xml:id="jMqv4a-d1e1492-Hd1e104">Quaestio 1</head>
+      <head xml:id="jMqv4a-d1e1492-Hd1e107" type="question-title">An alter coniugum semper teneatur alteri petenti 
+  reddere debitum et quomodo castitas coniugalis servanda sit</head>
+      <p xml:id="jMqv4a-d1e1492-d1e110">
+       <lb ed="#B" n="68"/>⁋ Distinctionis Trigesimaesecundae 
+   <lb ed="#B" n="69"/>Quaestio Prima. 
+   <lb ed="#B" n="70"/>Agister in hac 
+   <lb ed="#B" n="71"/>distictione trigesima 
+   <lb ed="#B" n="72"/>secunda ferme simi 
+   <lb ed="#B" n="73"/>lem materiam
+   prae<lb ed="#B" n="74" break="no"/>cedenti tractat. Pro 
+   <lb ed="#B" n="75"/>pterea illam
+   prose<lb ed="#B" n="76" break="no"/>quendo quaeram. An  
+   <lb ed="#B" n="77"/>alter cmmuniugum sem 
+   <lb ed="#B" n="78"/>per teneatur alteri
+   pe<lb ed="#B" n="79" break="no"/>tenti reddere
+   debi<lb ed="#B" n="80" break="no"/>tum: &amp; quomodo
+   ca<lb ed="#B" n="81" break="no"/>stitas coniugalis ser 
+   <lb ed="#B" n="82"/>uanda sit. Pro solutione quaestionis memoriae mam 
+   <lb ed="#B" n="83"/>dabis ex quaestione praecedente aliquos casus in qui 
+   <lb ed="#B" n="84"/>bus actus matrimoniales licitos diximus. Nunc de 
+   <lb ed="#B" n="85"/>tempore / loco / &amp; aliis occurrentibus loquamur per conclusiones. 
+  </p>
+      <p xml:id="jMqv4a-d1e1492-d1e152">
+       <lb ed="#B" n="86"/>⁋ Prima est. In occulto &amp; cum verecundia est de 
+   <lb ed="#B" n="87"/>bitum communiugi reddendum. Probatur conclusio. post pec 
+   <lb ed="#B" n="88"/>catum primi parentis homines de membris genitiuis vere 
+   <lb ed="#B" n="89"/>cundantur: &amp; ea occultant instinctu naturali: ergo si 
+   <lb ed="#B" n="90"/>gnum est quod eorum actus esse debent occulti. Secund 
+   <lb ed="#B" n="91"/>probatur idem. Si fieret talis actus in publico: cum 
+   <lb ed="#B" n="92"/>homines sint ad carnis vitiam procliues: aperiretur via 
+   <lb ed="#B" n="93"/>peccandi &amp; proximos scandalizandi. Quia cum verecun 
+   <lb ed="#B" n="94"/>dia coniunx sit tractanda / patet. Nam per verecundiam 
+   <lb ed="#B" n="95"/>seruatur castitas: ergo vbi coiunx est effrons frontem 
+   <lb ed="#B" n="96"/>attritam &amp; meretriciam habens: eius castitas periclitatur. 
+   <lb ed="#B" n="97"/>haec pars etiam roboratur ab <name xml:id="jMqv4a-d1e1492-Nd1e180" ref="#Aristotle">Aristotele</name> secundi oecono 
+   <lb ed="#B" n="98"/>micorum. iii. vbi hoc ex Homero probat dicens. Nam 
+   <lb ed="#B" n="99"/>neque amorem neque timorem absque verecundia lau 
+   <lb ed="#B" n="100"/>dat Homerus: sed vbique amare praecipit cum mode 
+   <lb ed="#B" n="101"/>stia &amp; pudore. Eo quidem modo timere Helenam 
+   <lb ed="#B" n="102"/>Priamum inquit ita dicentem. O metuende mihi 
+   <lb ed="#B" n="103"/>semper semperque timende Chare socer. Et Vlysses 
+   <lb ed="#B" n="104"/>ad Nausicaam inquit. Te mulier valde equidem ad 
+   <lb ed="#B" n="105"/>miror / &amp; metuo. nam nemo deteriorem se admira 
+   <lb ed="#B" n="106"/>tur &amp; reueretur.
+  </p>
+      <p xml:id="jMqv4a-d1e1492-d1e204">
+   ⁋ Secunda conclusio. vir vxorem castam 
+   <!--0591.xml-->
+   <pb ed="#B" n="280-r"/>
+       <cb ed="#B" n="a"/>
+       <lb ed="#B" n="1"/>desiderans debet eam in sanctis legibus tenere oc 
+   <lb ed="#B" n="2"/>cupatam: &amp; in officiis domus: benigne eam tractam 
+   <lb ed="#B" n="3"/>do: &amp; ei fidem seruando: virtutem &amp; castitatem lau 
+   <lb ed="#B" n="4"/>dando. probatur. quia deum timendo magis
+   ser<lb ed="#B" n="5" break="no"/>uabit castitatem / ne deum offendat. Secunda pars 
+   <lb ed="#B" n="6"/>patet: quia si vetemo torpeat: via malarum
+   cogita<lb ed="#B" n="7" break="no"/>tionum aperietur. Tertia pars patet: quia sic ipsa 
+   <lb ed="#B" n="8"/>eum magis diliget, &amp; credet eum meliorem, &amp; ex 
+   <lb ed="#B" n="9"/>hoc eum plus reuerebitur, &amp; castitatem seruabit 
+   <lb ed="#B" n="10"/>Quarta pars patet: quia in vindictam studebit cau 
+   <lb ed="#B" n="11"/>te ei non seruare fidem. Hoc probat <name xml:id="jMqv4a-d1e1492-Nd1e236" ref="#Aristotle">Aristoteles</name> 
+       <lb ed="#B" n="12"/>secundi oeconomicorum. iii. per stultitiam
+   Agamenno<lb ed="#B" n="13" break="no"/>nis Briseidem barbaram in publica graecorum con 
+   <lb ed="#B" n="14"/>cione Clytemnestrae praeferentis. At Vlysses cum Ca 
+   <lb ed="#B" n="15"/>lypso Atlantis filia: sempiternitatem etiam polli 
+   <lb ed="#B" n="16"/>cente permanere noluit: quia ei curae erat propria vxor 
+   <lb ed="#B" n="17"/>Penelope. &amp; propterea ipsa fidem ei seruauit. hinc
+   ve<lb ed="#B" n="18" break="no"/>rificatur vulgare verbum. Frangenti fidem frangi 
+   <lb ed="#B" n="19"/>tur fides eidem. Vltima pars patet: quia virtus
+   iau<lb ed="#B" n="20" break="no"/>data crescit.
+  </p>
+      <p xml:id="jMqv4a-d1e1492-d1e260">
+   ⁋ Tertia conclusio. Vir tenetur debitum 
+   <lb ed="#B" n="21"/>reddere vxori &amp; ediuerso, nisi aliquo casu
+   legiti<lb ed="#B" n="22" break="no"/>mo excusetur. patet prior pars: quia hoc est praece 
+   <lb ed="#B" n="23"/>ptum, ex questione praecedente. secunda pars pro 
+   <lb ed="#B" n="24"/>batur: quia est praeceptum affirmatiuum: ergo so 
+   <lb ed="#B" n="25"/>lum obligat proloco &amp; tempore. quando autem 
+   <lb ed="#B" n="26"/>hoc sit: patebit soluendo obiectiones aliquas
+   com<lb ed="#B" n="27" break="no"/>tra conclusionem. 
+  </p>
+      <p xml:id="jMqv4a-d1e1492-d1e278">
+       <lb ed="#B" n="28"/>⁋ Contra primam conclusionem arguitur. 
+   <lb ed="#B" n="29"/>Bertae corpus est ipsius sortis: ergo potest illo vti 
+   <lb ed="#B" n="30"/>in publico: vt Diogenes Cynicus fecisse dicitur. Respon 
+   <lb ed="#B" n="31"/>detur, consequentia est inualida. Aliquid enim est li 
+   <lb ed="#B" n="32"/>citum &amp; honestum vno modo, quod alio modo est 
+   <lb ed="#B" n="33"/>inhonestum. Nemo enim est qui non nouit inhone 
+   <lb ed="#B" n="34"/>stum esse / ventrem in publico exonerare: quod tamen 
+   <lb ed="#B" n="35"/>in occulto licet. Quod de Diogene circunfertur / ani 
+   <lb ed="#B" n="36"/>le est commentum. is enim erat omnium hominium suae tem 
+   <lb ed="#B" n="37"/>pestatis temperatissimus. &amp; dicebatur caninus quia
+   ho<lb ed="#B" n="38" break="no"/>minum mores vitiosos carpebat: ac ita canis
+   latran<lb ed="#B" n="39" break="no"/>erat: non modo Athenis conspicuus: sed totius 
+   <lb ed="#B" n="40"/>graeciae fulgentissimum iubar. de quo superbus
+   il<lb ed="#B" n="41" break="no"/>le Alexander dicere solitus erat. Si non essem Ale 
+   <lb ed="#B" n="42"/>xander, vellem esse Diogenes. 
+  </p>
+      <p xml:id="jMqv4a-d1e1492-d1e313">
+       <lb ed="#B" n="43"/>⁋ Contra tertiam conclusionem argui 
+   <lb ed="#B" n="44"/>tur sic. Aegrotus seu infirmus vel laesus non tenet red 
+   <lb ed="#B" n="45"/>dere coniugi petenti debitum: ergo conclusio falsa. Raspon 
+   <lb ed="#B" n="46"/>detur. consequentia est nulla: quia homo habet praeceptum 
+   <lb ed="#B" n="47"/>de seruanda vita propria: &amp; aliquod de reddendo vxori de 
+   <lb ed="#B" n="48"/>bito. strictius autem obligatur seruare suam vitam vel vxo 
+   <lb ed="#B" n="49"/>ris quam ei reddere debitum. &amp; licet ex non redditione de 
+   <lb ed="#B" n="50"/>biti sequatur incontinentia ex culpa vxoris: illa viro 
+   <lb ed="#B" n="51"/>non imputabitur legitimam excusationem habenti: qui 
+   <lb ed="#B" n="52"/>forte est ethicus vel alio morbo laborat: &amp; reddem 
+   <lb ed="#B" n="53"/>do notabilem iacturam in corpore patietur: vel mu 
+   <lb ed="#B" n="54"/>lier / si ipsa morbo laboret. lstud patet per simile in  
+   <!--0591.xml-->
+   <cb ed="#B" n="b"/> 
+       <!-- 280-r b -->
+       <lb ed="#B" n="55"/>naturalibus. nam homo superfluum tertiae digestio 
+   <lb ed="#B" n="56"/>nis pro continuatione speciei emittit: &amp; bonum nu 
+   <lb ed="#B" n="57"/>trimentum pro se tenet. Sed obiicies quod sanus tenetur 
+   <lb ed="#B" n="58"/>reddere debitum vxori leprosae. de coniu. lepro. ca. 
+   <lb ed="#B" n="59"/>primo. Respondetur. sanus non tenetur continuo 
+   <lb ed="#B" n="60"/>issistere &amp; cohabitare cum leprosa coniuge: sed te 
+   <lb ed="#B" n="61"/>netur ei reddere debitum: quia non est vero simile 
+   <lb ed="#B" n="62"/>quod eam cognoscendo incurret lepram. quod si leoni 
+   <lb ed="#B" n="63"/>na lepra percussa fuerit mulier: sic scilicet quod medi 
+   <lb ed="#B" n="64"/>corum iudicio sanus non possit eam coguoscere 
+   <lb ed="#B" n="65"/>quin tabificam lepram contrahat: non credo quod te 
+   <lb ed="#B" n="66"/>neatur ei tunc reddere debitum. hic medicis qui consi 
+   <lb ed="#B" n="67"/>derant sanum &amp; aegrum credatur. vnusquisque enim in  
+   <lb ed="#B" n="68"/>sua arte sapiens est. Vxor autem sana tenetur viro lepro 
+   <lb ed="#B" n="69"/>so reddere debitum: quia non est tantum periculi la 
+   <lb ed="#B" n="70"/>prae contrahendae in ea. nam multorum leprosorum vxo 
+   <lb ed="#B" n="71"/>res etiam cum maritis cohabitantes videmus non per 
+   <lb ed="#B" n="72"/>cussas lepra. Vir itaque &amp; mulier quo ad copulam car 
+   <lb ed="#B" n="73"/>nalem iudicantur ad paria / quando causae sunt pa 
+   <lb ed="#B" n="74"/>res. Satis autem vulgatum est: quod sanus cognoscens 
+   <lb ed="#B" n="75"/>sanam a leproso cognitam / lepram incurret. ergo a 
+   <lb ed="#B" n="76"/>fortiore leprosam cognosces. &amp; hoc si cognoscat 
+   <lb ed="#B" n="77"/>cognitam a leproso in partibus inferioribus infa 
+   <lb ed="#B" n="78"/>cto: quia forte manent infectiones adhuc in matri 
+   <lb ed="#B" n="79"/>ce mulieris.
+  </p>
+      <p xml:id="jMqv4a-d1e1492-d1e402">
+   ⁋ Secundo arguitur ex parte loci. Sor 
+   <lb ed="#B" n="80"/>tes non tenetur reddere debitum vxori suae in loco 
+   <lb ed="#B" n="81"/>sacro in occulto: etiam licet illic cohabitent tempo 
+   <lb ed="#B" n="82"/>re belli ad magnum tempus. ergo conclusio falsa. 
+   <lb ed="#B" n="83"/>Antecedens patet: quia per hoc locus sacer pollus 
+   <lb ed="#B" n="84"/>tur. cap. fina. de consecra. eccle. vel alta.
+  </p>
+      <p xml:id="jMqv4a-d1e1492-d1e415">
+   ⁋ Respon 
+   <lb ed="#B" n="85"/>detur negando quod non liceat. nam potest reddere 
+   <lb ed="#B" n="86"/>&amp; petere in casibus licitis: de quibus quaestione pra 
+   <lb ed="#B" n="87"/>cedente locuti sumus. Et ecclesia per hoc nullo mo 
+   <lb ed="#B" n="88"/>do polluitur: immo per occultam pollutionem mor 
+   <lb ed="#B" n="89"/>talem fornicariam non polluitur ecclesia. ea enim 
+   <lb ed="#B" n="90"/>quae occulte fiunt non egent reconciliatione.
+  </p>
+      <p xml:id="jMqv4a-d1e1492-d1e432">
+   ⁋ Ter 
+   <lb ed="#B" n="91"/>tio arguitur ex parte temporis. <ref xml:id="jMqv4a-d1e1492-Rd1e436">
+        <name xml:id="jMqv4a-d1e1492-Nd1e438">Magister</name> in hac di 
+   <lb ed="#B" n="92"/>stinctione capi. iii.</ref> &amp; <ref xml:id="jMqv4a-d1e1492-Rd1e444">
+        <name xml:id="jMqv4a-d1e1492-Nd1e446">Gratianus</name>. xxxiii. q. iiii. cap. 
+   <lb ed="#B" n="93"/>Christiano</ref>. allegant <ref xml:id="jMqv4a-d1e1492-Rd1e452">Augusti. in lib. quaestionum 
+   <lb ed="#B" n="94"/>vete. &amp; noui testa.</ref> dicentem. Christiano cum vxore 
+   <lb ed="#B" n="95"/>sua aliquando conuenire licet: aliquando non licet. 
+   <lb ed="#B" n="96"/>propter processionis enim dies &amp; ieiuniorum
+   ali<lb ed="#B" n="97" break="no"/>quando non licet conuenire. &amp;c. Et <name xml:id="jMqv4a-d1e1492-Nd1e464" ref="#Jerome">Hieronymus</name> 
+       <lb ed="#B" n="98"/>in quodam sermone, &amp; habetur in quaestione &amp; cau 
+   <lb ed="#B" n="99"/>sa allegata. cap. Sciatis. dicit quod tepore quo vxori 
+   <lb ed="#B" n="100"/>debitum redditur, abstinere oportet a carnibus agni. 
+   <lb ed="#B" n="101"/>ldem dicit Ambrosius in sermone de aduentu do 
+   <lb ed="#B" n="102"/>mini. &amp; citatur ibidem. ca. Fratres.
+  </p>
+      <p xml:id="jMqv4a-d1e1492-d1e479">
+   ⁋ Respondetur. virpo 
+   <lb ed="#B" n="103"/>test vxorem cognoscere causa prolis generandae, vel 
+   <lb ed="#B" n="104"/>reddendi debiti vxori: quando certum est vel saltem du 
+   <lb ed="#B" n="105"/>bium ipsam habere rationabilem causam petendi, 
+   <lb ed="#B" n="106"/>vel euitandi adulterii in seipso. vt in distinctione 
+   <lb ed="#B" n="107"/>praecedente diximus. Auctoritates autem inductae sunt de 
+   <lb ed="#B" n="108"/>consilio, nec tenetur vir abstinere ab esu agni, si inue 
+   <lb ed="#B" n="109"/>niat se bene dispositum mente in crastino. &amp; hoc si non 
+   <!--0592.xml-->
+   <pb ed="#B" n="280-v"/>
+       <cb ed="#B" n="a"/>
+       <lb ed="#B" n="1"/>faciat ob contemptum: sed vt reddat debitum: vel 
+   <lb ed="#B" n="2"/>quatenus se a peccato praeseruet, quare ergo abstinendum 
+   <lb ed="#B" n="3"/>est si expressa prohibitio ecclesiae non superueniat?s 
+   <lb ed="#B" n="4"/>sancti autem consuluerunt illo tempore abstinere propter 
+   <lb ed="#B" n="5"/>pericula peccatorum qua illi actui inesse solent. sed vbi 
+   <lb ed="#B" n="6"/>est viro probabile quod illa non euenient / vel iudicio
+   sa<lb ed="#B" n="7" break="no"/>cerdotis cum quo cosultat in confessione vel extra
+   con<lb ed="#B" n="8" break="no"/>fessionem: non est necesse abstinere.
+  </p>
+      <p xml:id="jMqv4a-d1e1492-d1e521">
+   ⁋ Quarto argui 
+   <lb ed="#B" n="9"/>tur, non est necesse reddere debitum mulieri
+   menstrua<lb ed="#B" n="10" break="no"/>tae quae de mense in mensem sanguine mouetur: sicut ma 
+   <lb ed="#B" n="11"/>re bis in die naturali: &amp; quartana febris de quarta 
+   <lb ed="#B" n="12"/>in quartam quamdiu durat. Nam dicit <name xml:id="jMqv4a-d1e1492-Nd1e531" ref="#Jerome">Hieronymus</name> super
+   il<lb ed="#B" n="13" break="no"/>lud Esaiae. lxiiii. Quasi pannus menstruatae, vniuersae 
+   <lb ed="#B" n="14"/>iustitiae nostre. Tuc concipiuntur membris damnati / caeci 
+   <lb ed="#B" n="15"/>claudi / leprosi. vt quia parentes non erubuerunt in con 
+   <lb ed="#B" n="16"/>claui commisceri: eorum peccatum patenter &amp; aperte redar 
+   <lb ed="#B" n="17"/>guatur in paruulis. Ex hac auctoritate sic formatui 
+   <lb ed="#B" n="18"/>ratio, non licet cognoscere maritam in iacturam prolis / 
+   <lb ed="#B" n="19"/>vel si aegritudo corporis sit consecutura: ergo etiam 
+   <lb ed="#B" n="20"/>non licebit ad euitandam lepram vel aliam calamitatem iam 
+   <lb ed="#B" n="21"/>ab Hieronymo nominatam. Et Leuitici. xviii. dicitur 
+   <lb ed="#B" n="22"/>Ad mulierem quaepatitur menstrua non accedes. Quod si con 
+   <lb ed="#B" n="23"/>cedas: obiieio. licet cognoscere mulierem leprosam: 
+   <lb ed="#B" n="24"/>&amp; facilius ex ea generabitur proles leprosa, quam ex
+   menstrua<lb ed="#B" n="25" break="no"/>ta muliere. Forte dicis. in lepra morbus est
+   conti<lb ed="#B" n="26" break="no"/>nuus: &amp; proles aliter geneari no potest. secus est de
+   men<lb ed="#B" n="27" break="no"/>struata muliere quae fiuxum talem per temporum vicissitudi 
+   <lb ed="#B" n="28"/>nes patitur: &amp; est morbus momentaneus. Contra hoc at 
+   <lb ed="#B" n="29"/>guo. si generare prolem leprosam ex se esset peccatum
+   mor<lb ed="#B" n="30" break="no"/>tale: vbicumque esset illud, esset peccatum mortale.
+  </p>
+      <p xml:id="jMqv4a-d1e1492-d1e574">
+   ⁋ Raspon 
+   <lb ed="#B" n="31"/>detur de muliere menstruata. vel ipsa iudicat virum 
+   <lb ed="#B" n="32"/>suum habiturum se magis inuisam si id vitii in ea de 
+   <lb ed="#B" n="33"/>prehendat si dicat: &amp; tunc excusatur. vel neuter eorum 
+   <lb ed="#B" n="34"/>scit quod tempore illo proles genita iacturam patietur. &amp; 
+   <lb ed="#B" n="35"/>sic vterque excusatur. vel iudicat si vir sciat / non
+   absti<lb ed="#B" n="36" break="no"/>nebit: quod ex more viri cognoscere potest &amp; sic excu 
+   <lb ed="#B" n="37"/>satur mulier. vel non est verosimile quod generabitur proles 
+   <lb ed="#B" n="38"/>in illo conceptum: &amp; tunc debitum reddens non peccat. si 
+   <lb ed="#B" n="39"/>vero credat quod abstinebit vir si ei dicat morbum com 
+   <lb ed="#B" n="40"/>munem mulierum: dicat: nec est erubescendum in hoc. vt 
+   <lb ed="#B" n="41"/>fecit Rachel illudendo Laban patri suo. si autem non  
+   <lb ed="#B" n="42"/>abstineat vir, peccat: &amp; mulier reddens excusabitur. 
+   <lb ed="#B" n="43"/>Ex his respondere potes ad auctoritatem Hierony 
+   <lb ed="#B" n="44"/>mi. Auctoritas autem Leuitici, extra moralia non ha 
+   <lb ed="#B" n="45"/>bet apparentiam. Fodem modo de muliere post partum
+   di<lb ed="#B" n="46" break="no"/>cendum est. nam potest vir vxorem suam accedere antequam ipsa 
+   <lb ed="#B" n="47"/>templum pro purificatione ingrediatur: quia continere per 
+   <lb ed="#B" n="48"/>numerum dierum est cerimoniale legis nunc non
+   obli<lb ed="#B" n="49" break="no"/>gans: &amp; hoc postquam matrix est a superfluitate pur 
+   <lb ed="#B" n="50"/>gata. Recitat namque Auicenna in libro de
+   animali<lb ed="#B" n="51" break="no"/>bus cap. de formatione embryonis in speciali. San 
+   <lb ed="#B" n="52"/>guis menstruus in praegnante trifariam scinditur. vna 
+   <lb ed="#B" n="53"/>pars est pro pueri cibo. alia pars ad mammillas pro 
+   <lb ed="#B" n="54"/>foetu nutriendo extra vterum transmirtitur. De tertia 
+   <lb ed="#B" n="55"/>parte locuti sumus. Sed quia viri non interest sci 
+   <!--0592.xml-->
+   <cb ed="#B" n="b"/> 
+       <!-- 280-v b -->
+       <lb ed="#B" n="56"/>re de hac purgatione: non accedat ad vxorem quo 
+   <lb ed="#B" n="57"/>usque mulier eum admittat, quae tempus purgatio 
+   <lb ed="#B" n="58"/>nis nouit. fortasse etiam morbum habet ob
+   labo<lb ed="#B" n="59" break="no"/>rem in partum.
+  </p>
+      <p xml:id="jMqv4a-d1e1492-d1e646">
+   ⁋ Hactenus visum est quomodo
+   vxo<lb ed="#B" n="60" break="no"/>ri reddendum sit debitum in occulto. &amp; addo / non exces 
+   <lb ed="#B" n="61"/>siue sed moderate reddendum: ne maritus vxorem ad 
+   <lb ed="#B" n="62"/>libidinem suapte natura promptam / faciat
+   procliuio<lb ed="#B" n="63" break="no"/>rem: nec possit facile caste viuere in sua absentia 
+   <lb ed="#B" n="64"/>non inducat moechos &amp; indisciplinatos in
+   fami<lb ed="#B" n="65" break="no"/>liaritatem: nec tales teneat famulos. sed seruet ei fi 
+   <lb ed="#B" n="66"/>dem / eam diligens cum verecundia: ac ante omnia 
+   <lb ed="#B" n="67"/>eam doceat timere deum, nec facile in casu dubio 
+   <lb ed="#B" n="68"/>de ea male suspicetur: ne seipsum frustra torqueat. nam 
+   <lb ed="#B" n="69"/>si clanculum ipsa fuerit meretrix, &amp; falsos faciat 
+   <lb ed="#B" n="70"/>haeredes sine eius culpa: ei non imputabitur. Si ve 
+   <lb ed="#B" n="71"/>ro publicetur error ambiguus: in mulierem peccat 
+   <lb ed="#B" n="72"/>&amp; in suos: &amp; deum offendit: &amp; plagam inemenda 
+   <lb ed="#B" n="73"/>bilem in domo erigit: ac in moerore tota vita sua 
+   <lb ed="#B" n="74"/>&amp; ignominia manebit. propterea sit in his prudens 
+   <lb ed="#B" n="75"/>&amp; incommoda hincinde ante eliminet quam indicet. 
+   <lb ed="#B" n="76"/>Et licet famulorum aliqui sinistre de vxore
+   refe<lb ed="#B" n="77" break="no"/>rant: iudicet hoc ex inuidia dictum / eis silentium in  
+   <lb ed="#B" n="78"/>dicendo. at si hoc esse verum cognouerit: vxore vo 
+   <lb ed="#B" n="79"/>cata sic dicat. talia de te a paucis referuntur fortas 
+   <lb ed="#B" n="80"/>se falsa: quibus amore tui deuinctus &amp; nota vitae 
+   <lb ed="#B" n="81"/>probitate motus / facile assentiri nequeo. sed te
+   ro<lb ed="#B" n="82" break="no"/>gatam facio per superos / per meum castum amo 
+   <lb ed="#B" n="83"/>rem, &amp; in te fidem, &amp; liberorum charitatem, &amp; tuae 
+   <lb ed="#B" n="84"/>familiae &amp; meae &amp; totius viciniae honestatem: vt a 
+   <lb ed="#B" n="85"/>consuetudine &amp; societate talis abstineas. quod si amo 
+   <lb ed="#B" n="86"/>re non mouearis: te numina, penates, me, liberos, 
+   <lb ed="#B" n="87"/>mundumque omnem grauiter offendisse existimes: 
+   <lb ed="#B" n="88"/>in tuae vitae perniciem &amp; notam perpetuam. Si his 
+   <lb ed="#B" n="89"/>&amp; similibus non moueatur, marmoream cautem 
+   <lb ed="#B" n="90"/>&amp; incorrigibilem existimato mulierem. 
+  </p>
+    </div>
+   </body>
+  </text>
+</TEI>

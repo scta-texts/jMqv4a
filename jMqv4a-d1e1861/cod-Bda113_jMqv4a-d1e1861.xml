@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 4</title>
+      <author ref="#JohnMair">John Mair</author>
+      <respStmt>
+       <name>Jeffrey C. Witt</name>
+       <resp>TEI Encoder</resp>
+      </respStmt>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 4</title>
+       <date when="2020-06-09">June 27, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="B" n="cod-Bda113">Badius 1516</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+     guidelines for a diplomatic edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-06-27" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+      <pb ed="#B" n="347-v"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="jMqv4a-d1e1861"> <!-- l4d45q4 -->
+      <head xml:id="jMqv4a-d1e1861-Hd1e104">Quaestio 4</head>
+      <head xml:id="jMqv4a-d1e1861-Hd1e107" type="question-title">An conducat in loco sacro sepeliri, et an quilibet 
+  possit eligere sibi locum sepulturae</head>
+      <p xml:id="jMqv4a-d1e1861-d1e110">
+       <lb ed="#B" n="93"/>⁋ Distinctionis Quadragesimaequintae 
+   <lb ed="#B" n="94"/>Quaestio Quarta. 
+   <lb ed="#B" n="95"/>ABsolutis tribus quaesti 
+   <lb ed="#B" n="96"/>onibus materiam suffragiorum 
+   <lb ed="#B" n="97"/>concernentibus: deueniendum est 
+   <lb ed="#B" n="98"/>id materiam sepulturae. &amp; quaeri 
+   <lb ed="#B" n="99"/>tur an conducat in loco sancto 
+   <lb ed="#B" n="100"/>lsepeliti: &amp; an quilibet possit 
+   <lb ed="#B" n="101"/>di eligere sibi locu sepulturae. 
+  </p>
+      <p xml:id="jMqv4a-d1e1861-d1e132">
+       <lb ed="#B" n="102"/>⁋ Respondetur per conclusiones. Primaest prodest hominibus
+   se<lb ed="#B" n="103" break="no"/>peliti in loco sacro. Probatur. nam multi decedentes de 
+   <lb ed="#B" n="104"/>cedunt debitores poenae temporalis purgande: quibus 
+   <lb ed="#B" n="105"/>prodest sepeliti in loco sacro: quia transeunte- 
+   <!--0727.xml-->
+   <pb ed="#B" n="348-r"/>
+       <cb ed="#B" n="a"/>
+       <lb ed="#B" n="1"/>&amp; potissimum amici orant pro eis propterea dicit b 
+   <lb ed="#B" n="2"/>Augustinus in libro de cura pro mortuis agenda: ve 
+   <lb ed="#B" n="3"/>cari monumentum eo quod moneat mentem. In super no 
+   <lb ed="#B" n="4"/>ob aliud <name xml:id="jMqv4a-d1e1861-Nd1e158" ref="#Abraham">Abraham</name> Isaac Iacob &amp; loseph erat de 
+   <lb ed="#B" n="5"/>sepultura solliciti.
+  </p>
+      <p xml:id="jMqv4a-d1e1861-d1e165">
+   ⁋ Secunda conclusio. Pium opus 
+   <lb ed="#B" n="6"/>est mortuos sepelire. Probatur: quia opus est licitum ex per 
+   <lb ed="#B" n="7"/>te obiecti: &amp; datur recta intelligentia de resurrectione. 
+   <lb ed="#B" n="8"/>hoc autem totum est pium &amp; honestum. praeterea
+   Tho<lb ed="#B" n="9" break="no"/>bias in hoc plurimum laudatur. Thobiae. xii. igitur 
+  </p>
+      <p xml:id="jMqv4a-d1e1861-d1e176">
+       <lb ed="#B" n="10"/>⁋ Tertia conclusio. Quilibet adultus ratione vtens 
+   <lb ed="#B" n="11"/>debet eligere sepulturam in sua propria ecclesia in quae re 
+   <lb ed="#B" n="12"/>cipit sacramenta, vel in qua maiores sui sepulti sunt 
+   <lb ed="#B" n="13"/>nisi sepulturam eligat ob alium locum. Huius conclusio 
+   <lb ed="#B" n="14"/>nis prior pars patet. xiii. quaest. ii. c. Placuit. cui cor 
+   <lb ed="#B" n="15"/>sonat illud quod scribitur in. c. Fraternitatem. de sepuli 
+   <lb ed="#B" n="16"/>&amp; ostenditur per Ebron in quo Adam &amp; Eua: &amp; postea 
+   <lb ed="#B" n="17"/>patriarchae sepulti sunt. vt liquant ex. c. Ebron. xiii. 
+   <lb ed="#B" n="18"/>qui. ii. Altera pars patet: quia homo potest sibi procurare maio 
+   <lb ed="#B" n="19"/>rem vtilitatem spiritualem qua potest, sine iactuta aliorum: vt 
+   <lb ed="#B" n="20"/>pote soluendo ecclesiae matrici canonicam portionem 
+   <lb ed="#B" n="21"/>xiii. qui. i. Ecclesias. quam portionem consuetudo loci
+   in<lb ed="#B" n="22" break="no"/>terprstatur.
+  </p>
+      <p xml:id="jMqv4a-d1e1861-d1e207">
+   ⁋ Quarta conclusio. Peregrinus debs 
+   <lb ed="#B" n="23"/>sepeliti vbi in aegritudine ipsum mori contigerit. 
+   <lb ed="#B" n="24"/>patet. xiii. qui. ii. Placuit.
+  </p>
+      <p xml:id="jMqv4a-d1e1861-d1e214">
+   ⁋ Quinta conclusio.
+   Im<lb ed="#B" n="25" break="no"/>pium est non sepelite mortuos. haec conclusio sequitur 
+   <lb ed="#B" n="26"/>ex opposito secundae. Ostendituretiam eadem conclusio 
+   <lb ed="#B" n="27"/>per canones: in quibus praecipitur dari eucharistia &amp; sepul 
+   <lb ed="#B" n="28"/>tura suspendendis. vt. c. Fures. de fur. xiii. q. ii. c 
+   <lb ed="#B" n="29"/>Quaesitum est. Omnibus enim facinorosis danda est commu 
+   <lb ed="#B" n="30"/>nio: &amp; quilibet tradendus est sepulturae. de poeni. dist 
+   <lb ed="#B" n="31"/>vii. c. Si quis. nisi in casibus a iure expressis. nam ecclesia 
+   <lb ed="#B" n="32"/>non claudit gremium redeuntibus. de haere. c. Super
+   eo<lb ed="#B" n="33" break="no"/>libro. vi 
+  </p>
+      <p xml:id="jMqv4a-d1e1861-d1e236">
+       <lb ed="#B" n="34"/>⁋ Contra quartam conclusionem
+   ar<lb ed="#B" n="35" break="no"/>guitur. multi facinorosi viri nunquam traduntur sepultu 
+   <lb ed="#B" n="36"/>rae: sed in locis publicis pendent, vt in mote Falconio 
+   <lb ed="#B" n="37"/>iuxta Parisios. &amp; ita in plerisque locis Galliae &amp; Ger 
+   <lb ed="#B" n="38"/>maniae contingit. ergo isti inhumane agunt.
+  </p>
+      <p xml:id="jMqv4a-d1e1861-d1e249">
+   ⁋ Raspon 
+   <lb ed="#B" n="39"/>detur concedendo antecedens &amp; negando consequentiam. nam vbi 
+   <lb ed="#B" n="40"/>sunt loca publica / habent loca consecrata. &amp; licet non 
+   <lb ed="#B" n="41"/>sint consecrata: oratur forte pluries pro eis quam pro
+   sepul<lb ed="#B" n="42" break="no"/>tis in ecclesia vel in coemiterio. Secundo illiic puniuntur 
+   <lb ed="#B" n="43"/>vt alii eorum corpora videntes sumant exemplum ne
+   si<lb ed="#B" n="44" break="no"/>milia perpetrare audeant, &amp; sic cum infamia torquean 
+   <lb ed="#B" n="45"/>tur. Sed contra de poeni. &amp; remiss. c. primo. pontifex 
+   <lb ed="#B" n="46"/>hoc prohibet: &amp; dicit quod nulla consuetudo potest intro 
+   <lb ed="#B" n="47"/>duci in contrarium. Respondetur. Pontifex dicit quod
+   consue<lb ed="#B" n="48" break="no"/>tudo non valet in contrarium de negatione
+   sacra<lb ed="#B" n="49" break="no"/>mentorum, non enim possunt eis denegari sacramen 
+   <lb ed="#B" n="50"/>ta. de sepultura autem nihil dicit.
+  </p>
+      <p xml:id="jMqv4a-d1e1861-d1e279">
+   ⁋ Secundo argui 
+   <lb ed="#B" n="51"/>tur. Deuterono. xxi. scribitur. Quando peccauerit
+   homo<lb ed="#B" n="52" break="no"/>morte plectendus est: &amp; si adiudicatus morti
+   ap<lb ed="#B" n="53" break="no"/>pensus fuerit in patibulo: non permanebit cada 
+   <lb ed="#B" n="54"/>uer eius in ligno: sed eadem die sepelietur. Respon 
+   <!--0727.xml-->
+   <cb ed="#B" n="b"/> 
+       <!-- 348-r b -->
+       <lb ed="#B" n="55"/>detur. quicquid sit de illo: non est morale legis / sed iu 
+   <lb ed="#B" n="56"/>diciale, nunc nullum robur habens.
+  </p>
+      <p xml:id="jMqv4a-d1e1861-d1e301">
+   ⁋ Tertio arguitur 
+   <lb ed="#B" n="57"/>in lumine naturali loquendo. Valerius Max. titulo 
+   <lb ed="#B" n="58"/>de ingratitudine, multum inclamat contra eos qui
+   ali<lb ed="#B" n="59" break="no"/>os non tradiderunt sepulturae. &amp; Maro primo aenei. 
+   <lb ed="#B" n="60"/>introducit Aeneam dicentem eos felices qui in
+   pa<lb ed="#B" n="61" break="no"/>tria oppeterent ante ora patrum vt ab eis sepeliantur 
+   <lb ed="#B" n="62"/>dicens. Ingemit: &amp; duplices tendens ad sydera pal 
+   <lb ed="#B" n="63"/>mas Talia voce refert. Oterque quaeterque bti Quis 
+   <lb ed="#B" n="64"/>ante ora patrum Troiae sub moenibus altis
+   Con<lb ed="#B" n="65" break="no"/>tigit oppetere. Praeterea de loachim in magnam poe 
+   <lb ed="#B" n="66"/>na, Hieremiae. xxii. dicitur. sepultura asini sepelietur. 
+   <lb ed="#B" n="67"/>hoc est carebit sepultura. Respondetur. id multis videtur 
+   <lb ed="#B" n="68"/>poenale: sed non peccant eos non sepelientes ob
+   rationa<lb ed="#B" n="69" break="no"/>bilem causam. 
+   <lb ed="#B" n="70"/>Vbitatur: quam personae sint pro 
+   <lb ed="#B" n="71"/>hibitae sepeliti. &amp; mouetur dubitatio quia 
+   <lb ed="#B" n="72"/>diximus in probatione quintae
+   conclusi<lb ed="#B" n="73" break="no"/>sonis quod omnes personae sunt sepeliendae 
+   <lb ed="#B" n="74"/>nisi a iure prohibitae.
+  </p>
+      <p xml:id="jMqv4a-d1e1861-d1e343">
+   ⁋ Secundo dubitatur: ad quid va 
+   <lb ed="#B" n="75"/>leat illa popa quae fit in sepulturis.
+  </p>
+      <p xml:id="jMqv4a-d1e1861-d1e348">
+   ⁋ Ad primum dtmern 
+   <lb ed="#B" n="76"/>quod hae personae prohibentur sepeliti. Primo excommuni 
+   <lb ed="#B" n="77"/>cati. cle. prima de sepul. Secundo manifesti vsu 
+   <lb ed="#B" n="78"/>rarii. ea. cle. Tertio mortui in toneamentis. de
+   tor<lb ed="#B" n="79" break="no"/>nea. c. i. Quarto raptores qui non satisfaciunt in
+   vi<lb ed="#B" n="80" break="no"/>ta / cum possent. de rapto. c. ii. Quinto qui non commu 
+   <lb ed="#B" n="81"/>nicant semel in anno, sine rationabili causa: nisi 
+   <lb ed="#B" n="82"/>signa contritionis ostendant. de poeni. &amp;
+   remiss<lb ed="#B" n="83" break="no"/>c. Omnis vtriusque. Sexto prohibentur ludaei &amp; Pagani. 
+   <lb ed="#B" n="84"/>de consecra. dist. i. c. Ecclesiam. Septio exenterati vel 
+   <lb ed="#B" n="85"/>diuisi corpore. vt patet per extrauagantem Bonifacii 
+   <lb ed="#B" n="86"/>octaui. titu. de sepul. cap. Detestandae.
+  </p>
+      <p xml:id="jMqv4a-d1e1861-d1e374">
+   ⁋ Ad
+   secun<lb ed="#B" n="87" break="no"/>dum respondet bea. <name xml:id="jMqv4a-d1e1861-Nd1e378" ref="#Augustine">Augustini</name> lib. i de ciuitate dei. c. xii. 
+   <lb ed="#B" n="88"/>&amp; in sermone de verbis apostoli / quod ista popa est
+   quod<lb ed="#B" n="89" break="no"/>dam solamen viuentibus / &amp; magna pars cedit in vsus
+   pi<lb ed="#B" n="90" break="no"/>os vel ecclesiae vel aliorum pauperum. &amp; est causa
+   quae<lb ed="#B" n="91" break="no"/>re pro mortuo oretur: &amp; minus lugeant amici. Hio 
+   <lb ed="#B" n="92"/>laudat Valerius titulo de institutis antiquis, Massili 
+   <lb ed="#B" n="93"/>enses qui parum lugebant in morte defunctorum. In ali 
+   <lb ed="#B" n="94"/>quibus autem regionibus ad meridiem, adhuc ma 
+   <lb ed="#B" n="95"/>gnus est eiulatus super mortuum: vbi mimus aliquis ad 
+   <lb ed="#B" n="96"/>luctum accommodatus vocatur ad irrorandum se 
+   <lb ed="#B" n="97"/>pulchrum defuncti 
+  </p>
+    </div>
+   </body>
+  </text>
+</TEI>

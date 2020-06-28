@@ -1,0 +1,395 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 1</title>
+      <author ref="#JohnMair">John Mair</author>
+      <respStmt>
+       <name>Jeffrey C. Witt</name>
+       <resp>TEI Encoder</resp>
+      </respStmt>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 1</title>
+       <date when="2020-06-09">June 27, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="B" n="cod-Bda113">Badius 1516</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+     guidelines for a diplomatic edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-06-27" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+      <pb ed="#B" n="169-v"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="jMqv4a-d1e903"> <!-- l4d16q1 -->
+      <head xml:id="jMqv4a-d1e903-Hd1e104">Quaestio 1</head>
+      <head xml:id="jMqv4a-d1e903-Hd1e107" type="question-title">An contritio: oris confessio: et satisfatio sint partes poenitentiae</head>
+      <p xml:id="jMqv4a-d1e903-d1e110">
+       <lb ed="#B" n="53"/>⁋ Distinctionis Decimaesextae 
+   <lb ed="#B" n="54"/>Quaestio Vnica. 
+   <lb ed="#B" n="55"/>MAgister in hac 
+   <lb ed="#B" n="56"/>decimasexta distin 
+   <lb ed="#B" n="57"/>ctione loquitur de 
+   <lb ed="#B" n="58"/>contritione, oris con 
+   <lb ed="#B" n="59"/>fessione, &amp; satisfa 
+   <lb ed="#B" n="60"/>ctione, quomodo 
+   <lb ed="#B" n="61"/>sunt partes poeni 
+   <lb ed="#B" n="62"/>tentiae. Pro quo ani 
+   <lb ed="#B" n="63"/>maduertendum est 
+   <lb ed="#B" n="64"/>quod non sunt partes 
+   <lb ed="#B" n="65"/>poenitentiae virtu 
+   <lb ed="#B" n="66"/>ca tis vel eius actus. 
+   <lb ed="#B" n="67"/>quod patet: quia non sunt partes essentiales poe 
+   <lb ed="#B" n="68"/>nitentiae: vt sunt materia &amp; forma in toto compo 
+   <lb ed="#B" n="69"/>sito, nec partes integrales, vt manus &amp; caput in  
+   <lb ed="#B" n="70"/>composito: quae sunt eiusdem rationis cum
+   toto<lb ed="#B" n="71" break="no"/>nec sunt partes subiectiuae: hoc est secunde inten 
+   <lb ed="#B" n="72"/>tionaliter: quia soli termini inferiores sunt partes 
+   <lb ed="#B" n="73"/>subiectiuae ad superiores. Et per idem concluditur 
+   <lb ed="#B" n="74"/>quod non sunt partes poenitentie sacramenti: quae 
+   <lb ed="#B" n="75"/>nihil aliud est quam voces a sacerdote prolatae. Sunt 
+   <lb ed="#B" n="76"/>tamen partes poenitentiae tanquam aliqua prarequist 
+   <lb ed="#B" n="77"/>ta ad hoc vt poenitentia sacramentu digne
+   susci<lb ed="#B" n="78" break="no"/>piatur. sicut humores &amp; aer sunt partes
+   necessa<lb ed="#B" n="79" break="no"/>tiae ad hoc vt homo naturaliter sit: non sunt tamen 
+   <lb ed="#B" n="80"/>partes essentiales eius.
+  </p>
+      <p xml:id="jMqv4a-d1e903-d1e173">
+   ⁋ Solent aliqui circa hanc 
+   <lb ed="#B" n="81"/>metriam quaerere: an prius sit peccati expulsio quam
+   gra<lb ed="#B" n="82" break="no"/>tia infundatur. Ad quod breuiter dico quod non est 
+   <lb ed="#B" n="83"/>iliqua prioritas temporis vel instantis. Si enim con 
+   <lb ed="#B" n="84"/>tritio in instanti eliciatur: primum instans esse
+   con<lb ed="#B" n="85" break="no"/>tritionis est primum instans non esse mortalium. si 
+   <lb ed="#B" n="86"/>pure partibiliter: vltimum instans non esse
+   contri<lb ed="#B" n="87" break="no"/>tionis est vltimum instans mortalium. Sicut enim 
+   <lb ed="#B" n="88"/>non datur homo (potissimum post primos paren 
+   <lb ed="#B" n="89"/>tes) ouin sit in gratia / mortali / vel originali, ita nul 
+   <lb ed="#B" n="90"/>lus est in gratia &amp; in tali peccato simul secundum
+   legen<lb ed="#B" n="91" break="no"/>Probatur haec conclusio: quia data eius opposita 
+   <lb ed="#B" n="92"/>sequitur quod talis si decederet, saluaretur &amp; damna 
+   <lb ed="#B" n="93"/>retur perpetuo: quod liquet esse falsum: ergo oppo 
+   <lb ed="#B" n="94"/>situm huius conclusionis est falsum, &amp; per
+   conse<lb ed="#B" n="95" break="no"/>quens conclusio vera. 
+  </p>
+      <p xml:id="jMqv4a-d1e903-d1e209">
+       <lb ed="#B" n="96"/>⁋ Quam conclusionem post
+   mate<lb ed="#B" n="97" break="no"/>tiam positiuam quintaedecimae distinctionis paulu 
+   <lb ed="#B" n="98"/>lum oppugnabo: &amp; hoc sic. supposito quod
+   praeci<lb ed="#B" n="99" break="no"/>piat deus Sorti nunc existenti in gratia vt diligat 
+   <lb ed="#B" n="100"/>se ante a. instans terminatiuum huius horae, omittat 
+   <lb ed="#B" n="101"/>Sortes, &amp; simus nos iam in a. instanti: arguitur sic. 
+   <lb ed="#B" n="102"/>iam Sortes est in peccato, quia culpabiliter
+   omit<lb ed="#B" n="103" break="no"/>tit (de mortali culpa intelligo) &amp; est in gratia: quod 
+   <lb ed="#B" n="104"/>probo: quia in quolibet instanti intrinseco huius 
+   <!--0371.xml-->
+   <pb ed="#B" n="170-r"/>
+       <cb ed="#B" n="a"/>
+       <lb ed="#B" n="1"/>horae ante a. instans est in gratia: ergo in toto illo 
+   <lb ed="#B" n="2"/>tempore siue capiatur categorematice siuesynca 
+   <lb ed="#B" n="3"/>tegorematice. Consequentia renet: quia ex
+   oppo<lb ed="#B" n="4" break="no"/>sito sequitur oppositum. Quia in quolibet instanti in  
+   <lb ed="#B" n="5"/>trinseco illius temporis sit in gratia, probo: quia si 
+   <lb ed="#B" n="6"/>non: hoc esset quia culpabiliter omittit ante a. instans 
+   <lb ed="#B" n="7"/>sed hoc non: quia quocumque instanti dato ante a. in  
+   <lb ed="#B" n="8"/>stans, inter illud &amp; a. instans mediat tempus: in quo 
+   <lb ed="#B" n="9"/>poterat adhiuc adimolere praeceptum: ergo tunc non 
+   <lb ed="#B" n="10"/>culpabiliter omittit. Et pronunc supponatur quod
+   vo<lb ed="#B" n="11" break="no"/>luntas potest actum elicere in instanti: hoc enim
+   probabi<lb ed="#B" n="12" break="no"/>lius est opposito. &amp; qiuis solum esset probabile, per
+   re<lb ed="#B" n="13" break="no"/>gulam obligationum, omne possibile est admittendum:  
+   <lb ed="#B" n="14"/>nec debes impedire argumentum: immo nec tenem 
+   <lb ed="#B" n="15"/>do oppositum illa via abibis, quod sic declaro proptet 
+   <lb ed="#B" n="16"/>aliquos putantes se hac via euadere posse. tenendo 
+   <lb ed="#B" n="17"/>successionem actus non potest dari determinatum
+   in<lb ed="#B" n="18" break="no"/>stans ante a. in quo peccat: quia dato opposito, 
+   <lb ed="#B" n="19"/>int illud b. inter a. &amp; b. instantia mediat tempus: in  
+   <lb ed="#B" n="20"/>cuius dimidietate poterat praeceptum implere, quod
+   pro<lb ed="#B" n="21" break="no"/>bo. Cum ille actus debeat elici pure partibiliter
+   inci<lb ed="#B" n="22" break="no"/>piet per vltimum instans non esse, scilicet b. ergo in b 
+   <lb ed="#B" n="23"/>instati nihil dilectionis dei est: &amp; immediate post 
+   <lb ed="#B" n="24"/>b. instans erit dilectio dei impletiua praecepti: quia 
+   <lb ed="#B" n="25"/>quaecumque dilectio gradualis sufficit: &amp; ita de quan 
+   <lb ed="#B" n="26"/>tolibet tempore quatuncumque pusillo probabo quod in eius 
+   <lb ed="#B" n="27"/>dimidietate rSortes potest dilectionem dei elicere. 
+   <lb ed="#B" n="28"/>ergo illo modo euasio est nulla.
+  </p>
+      <p xml:id="jMqv4a-d1e903-d1e298">
+   ⁋ Ad hoc argu 
+   <lb ed="#B" n="29"/>mentum: Adam varias immaginationes recitat: quas 
+   <lb ed="#B" n="30"/>omnes reprobat vna dempta quam ipse dat. Eius ima 
+   <lb ed="#B" n="31"/>ginationem alias reprobabimus: &amp; duos modos an 
+   <lb ed="#B" n="32"/>tiquorum quos recitat sustinere conabimur: quia nul 
+   <lb ed="#B" n="33"/>lus alius modus dicendi nobis occurrit
+   admitten<lb ed="#B" n="34" break="no"/>do casum: quem si negauerimus, formidinis propter 
+   <lb ed="#B" n="35"/>argumenta occurrentia arguemur. Vnus modus di 
+   <lb ed="#B" n="36"/>cendi quem recitat &amp; reprobat est iste: quod Sortes pec 
+   <lb ed="#B" n="37"/>cauit ante a. instans in toto tempore categoremati 
+   <lb ed="#B" n="38"/>ce ad a. instans terminato. semper autem intendimus 
+   <lb ed="#B" n="39"/>dicere voluntatem suum actum posse producere subito. 
+  </p>
+      <p xml:id="jMqv4a-d1e903-d1e324">
+       <lb ed="#B" n="40"/>⁋ Sed contra hoc argumentor. in toto tempore ante 
+   <lb ed="#B" n="41"/>a. instans Sortes fuit in gratia, supponamus eum 
+   <lb ed="#B" n="42"/>nullo alio peccato deliquisse quam ista omissione de 
+   <lb ed="#B" n="43"/>qua loquimur: saltem in tota ista hora: quia eius 
+   <lb ed="#B" n="44"/>peccatum ante hanc horam est nobis impertinens: ergo 
+   <lb ed="#B" n="45"/>in tota illa hora non fuit in peccato mortali. Sed  
+   <lb ed="#B" n="46"/>negas consequentiam capiendo stota)
+   categorema<lb ed="#B" n="47" break="no"/>tice. nam si Sortes in vna medietate esset in
+   pecca<lb ed="#B" n="48" break="no"/>to mortali: &amp; in alia in gratia: iam illae duae partes 
+   <lb ed="#B" n="49"/>verificarentur. Hoc non sufficit: quia capio (tota) 
+   <lb ed="#B" n="50"/>syncategorematice. Vel ne sit aequiuocatio in ter 
+   <lb ed="#B" n="51"/>minis, Arguitur sic. in qualibet parte huius horae 
+   <lb ed="#B" n="52"/>Sortes est in gratia: ergo in nulla parte huius homo 
+   <lb ed="#B" n="53"/>rae Sortes est in peccato mortali. quia dato
+   op<lb ed="#B" n="54" break="no"/>posito consequentis cum antecedente, sequitur 
+   <lb ed="#B" n="55"/>quod in eadem parte adaequata erit in gratia &amp; in pec- 
+   <!--0371.xml-->
+   <cb ed="#B" n="b"/> 
+       <!-- 170-r b -->
+       <lb ed="#B" n="56"/>cato mortali.
+  </p>
+      <p xml:id="jMqv4a-d1e903-d1e370">
+   ⁋ Sed hic inter arguendum sufficienter 
+   <lb ed="#B" n="57"/>responsum est ad vltimam consequentiam vsque: quam 
+   <lb ed="#B" n="58"/>nego. &amp; nego quod in eadem parte adaequata est in gra 
+   <lb ed="#B" n="59"/>tia &amp; in peccato mortali. immo non datur pars ad 
+   <lb ed="#B" n="60"/>aequata in qua est in peccato mortali: quia quacum 
+   <lb ed="#B" n="61"/>quod parte data: in parte anteriori non est in peccato 
+   <lb ed="#B" n="62"/>mortali: quum in infinitum parua parte sit in
+   pecca<lb ed="#B" n="63" break="no"/>to mortali. Contra hoc arguitur. capiatur totum tem 
+   <lb ed="#B" n="64"/>pus in quo est in peccato mortali, &amp; totum tempus 
+   <lb ed="#B" n="65"/>in quo non est in peccato mortali: quod aliud tempus 
+   <lb ed="#B" n="66"/>praecedit: licet vtrumque antecedat a. instans: iam da 
+   <lb ed="#B" n="67"/>bis tempus adaequatum peccati mortalis.
+   Mirabi<lb ed="#B" n="68" break="no"/>le enim esset quod aliquis esset in peccato mortali in  
+   <lb ed="#B" n="69"/>aliquo tempore: &amp; deus non vidisset adaequate illud 
+   <lb ed="#B" n="70"/>tempus. Respondeo, non datur tempus adaequatum 
+   <lb ed="#B" n="71"/>in quo est in peccato mortali: nec tempus adaequa  
+   <lb ed="#B" n="72"/>tum in quo non est in peccato mortali,
+   quemadmo<lb ed="#B" n="73" break="no"/>dum non datur maxima pars horae praecedentis
+   a<lb ed="#B" n="74" break="no"/>instans: nec dari potest: &amp; per consequens a deo non 
+   <lb ed="#B" n="75"/>videtur. Impossibile enim non videtur, loquendo de 
+   <lb ed="#B" n="76"/>visionem de qua procedimus. Sed contra hoc arguitur. 
+   <lb ed="#B" n="77"/>Sortes peccat mortaliter ante a. instans: ergo
+   ca<lb ed="#B" n="78" break="no"/>ruit gratia ante a. instans. &amp; ex consequenti sic
+   ar<lb ed="#B" n="79" break="no"/>guo. Caruit gratia ante a. instans: quae non successi 
+   <lb ed="#B" n="80"/>ue annihilabatur. etiam si sic: hoc non impedit
+   pro<lb ed="#B" n="81" break="no"/>positum: ergo datur vltimum instans esse gratiae: 
+   <lb ed="#B" n="82"/>vel primum instans non esse gratiae. si primum:
+   signe<lb ed="#B" n="83" break="no"/>tur illud &amp; sit b iam be non est immediatum a.
+   in<lb ed="#B" n="84" break="no"/>stanti: quia tunc tempus componeretur ex
+   instanti<lb ed="#B" n="85" break="no"/>bus: quod falsum supponimus cum Arist. vi. Physi 
+   <lb ed="#B" n="86"/>corum. tunc ergo datur tempus adaequatum medians 
+   <lb ed="#B" n="87"/>inter b. &amp; a. instantia. Fodem modo argumentabor 
+   <lb ed="#B" n="88"/>si detur primum instans non esse gratiae peccedens a. 
+   <lb ed="#B" n="89"/>instans. Si dicas quod in a. instanti primo amittit gra 
+   <lb ed="#B" n="90"/>tiam: mirabile esset concedere de lege quod Sortes 
+   <lb ed="#B" n="91"/>peccauit mortaliter ante a. instans: &amp; primo in
+   a<lb ed="#B" n="92" break="no"/>instanti caruit gratia. Respondetur negando hanc
+   con<lb ed="#B" n="93" break="no"/>sequentiam, Sortes peccauit mortaliter ante a.
+   in<lb ed="#B" n="94" break="no"/>stans: ergo caruit gratia ante a. instans: immo in  
+   <lb ed="#B" n="95"/>quolibet instanti ante a. instans habuit gratiam: &amp; in  
+   <lb ed="#B" n="96"/>quolibet tempore ante a. instans habuit gratiam. Istae 
+   <lb ed="#B" n="97"/>duae propositiones clarent ex dictis. &amp; prior earum 
+   <lb ed="#B" n="98"/>idhuc probatur: quia dato eius contradictorio: in
+   ali<lb ed="#B" n="99" break="no"/>quomodo instanti ante a. instans non habuit gratiam: cum 
+   <lb ed="#B" n="100"/>ablatiuus instanti stet determinate: per descensum 
+   <lb ed="#B" n="101"/>oportet dare hoc vel illud instans ante ipsum a in  
+   <lb ed="#B" n="102"/>uo non habuit gratiam. &amp; per consequens dabitur tem 
+   <lb ed="#B" n="103"/>pus adaequatum in cuius nulla parte habuit gratiam: 
+   <lb ed="#B" n="104"/>quod dici non potest: quia adhuc poterat implere
+   prae<lb ed="#B" n="105" break="no"/>ceptum. nam si deus prius gratiam abstulisset: prius 
+   <lb ed="#B" n="106"/>fuisset vltor quam aliquis fuisset peccator: quod non est 
+   <lb ed="#B" n="107"/>dicendum. Secunda propositio est clara. Sed dicitur 
+   <lb ed="#B" n="108"/>quod a. instans est primum instans in quo caret gratia 
+   <lb ed="#B" n="109"/>Fateor quod istud videtur in parte absurdum: quod Sor 
+   <lb ed="#B" n="110"/>tes peccauit mortaliter in hora praecedente: &amp; tamen 
+   <!--0372.xml-->
+   <pb ed="#B" n="170-v"/>
+       <cb ed="#B" n="a"/>
+       <lb ed="#B" n="1"/>in qualibet parte &amp; in quolibet instanti illius horae 
+   <lb ed="#B" n="2"/>habuit grauam. sed aliqualis potest dari manuductio 
+   <lb ed="#B" n="3"/>sicut quod Sortes fuerit in aliquo tempore, &amp; in nullo 
+   <lb ed="#B" n="4"/>instanti illius: &amp; in cuiussibet temporis praecedentis 
+   <lb ed="#B" n="5"/>aliqua parte non fuit: nec datur tempus adaequatum non 
+   <lb ed="#B" n="6"/>existentiae eius separatum ab eius existentia: nec datur 
+   <lb ed="#B" n="7"/>maximum tempus adaequatum in quo est. Hoc patet: 
+   <lb ed="#B" n="8"/>quia si in vltimo instanti non esse horae decimae deus 
+   <lb ed="#B" n="9"/>creet vnum hominem vel angelum: iam potest crea 
+   <lb ed="#B" n="10"/>re vnum hominem vel angelum immediate post
+   vlti<lb ed="#B" n="11" break="no"/>mum instans non esse. &amp; qua ratione potest creare vnum 
+   <lb ed="#B" n="12"/>post vltimum instans no esse, eadem ratione potest crea 
+   <lb ed="#B" n="13"/>re vnum hominem vel angelum immediate ante
+   vlti<lb ed="#B" n="14" break="no"/>mum instans non esse. sit vltimum instans non esse nunc 
+   <lb ed="#B" n="15"/>nstans praesens: iam de angelo praecedente hoc instans 
+   <lb ed="#B" n="16"/>vertitur tota difficultas. Sed de hoc distinctione 
+   <lb ed="#B" n="17"/>quadragesimasexta futurus est sermo. &amp;
+   enuclea<lb ed="#B" n="18" break="no"/>tio solutionis huius nobis patrocinabitur.
+  </p>
+      <p xml:id="jMqv4a-d1e903-d1e535">
+   ⁋ Sed  
+   <lb ed="#B" n="19"/>redeundo ad principalem solutionem: contra eam sic ar 
+   <lb ed="#B" n="20"/>gumentor. Ex ea sequuntur istae conclusiones
+   abso<lb ed="#B" n="21" break="no"/>nae. Prima. Sortes in quolibet instanti suae vitae fuit 
+   <lb ed="#B" n="22"/>in gratia: &amp; tamen damnabitur aeternaliter. de lege 
+   <lb ed="#B" n="23"/>loquor. supponamus promouentia priorem partem 
+   <lb ed="#B" n="24"/>copulatiuae quae tuipse facile capis. pro secunda per:  
+   <lb ed="#B" n="25"/>te volo quod a. sit primum instans non esse Sortis: iam 
+   <lb ed="#B" n="26"/>in quolibet instanti suae vitae fuit in gratia: &amp; pecca 
+   <lb ed="#B" n="27"/>uit mortaliter ante finem vitae suae per te, &amp; non detesta 
+   <lb ed="#B" n="28"/>tus est illud mortale: prout supponitur: ergo
+   damna<lb ed="#B" n="29" break="no"/>bitur. Secunda conclusio. Sortes peccauit
+   mortali<lb ed="#B" n="30" break="no"/>ter: &amp; in nullo instanti vitae suae caruit, caret, vel ca 
+   <lb ed="#B" n="31"/>rebit gratia. hoc patet supponendo quod in a. instanti 
+   <lb ed="#B" n="32"/>detestetur peccatum praecedens, non enim caruit gratia: 
+   <lb ed="#B" n="33"/>vt patet ex dictis. suppono ea quae promouent illam de 
+   <lb ed="#B" n="34"/>futuro: illa autem de praesenti constat per contritionem. 
+   <lb ed="#B" n="35"/>Tertia conclusio. Sortes peccauit mortaliter, &amp; tamen 
+   <lb ed="#B" n="36"/>non datur vltimum instans non esse illius peccati: vel 
+   <lb ed="#B" n="37"/>primum instans esse illius quo ad inceptionem. 
+  </p>
+      <p xml:id="jMqv4a-d1e903-d1e579">
+       <lb ed="#B" n="38"/>⁋ Respondetur concedendo istas conclusiones. de
+   pri<lb ed="#B" n="39" break="no"/>ma enim non est quaestio. &amp; vltima patet per simile de 
+   <lb ed="#B" n="40"/>tertio angelo. Secunda conclusio simiter conceditur. Etiam 
+   <lb ed="#B" n="41"/>illic dici potest quod gratia praecedens annihilatur in a 
+   <lb ed="#B" n="42"/>instanti, &amp; gratia contritionis in illo infunditur, 
+   <lb ed="#B" n="43"/>aequiualens pristinae gratiae: cum ad maiorem gratiam 
+   <lb ed="#B" n="44"/>semper peccator resurgat vt postea dicetur. Immo 
+   <lb ed="#B" n="45"/>concedere oportebit quod alicui gratia infunditur in  
+   <lb ed="#B" n="46"/>baptismo, vel decedit cum gratia baptismali, quam in  
+   <lb ed="#B" n="47"/>nullo instanti vitae habebit fidem &amp; spem, quod patet. 
+   <lb ed="#B" n="48"/>si baptizatus decedat in primo instanti non esse
+   ver<lb ed="#B" n="49" break="no"/>borum: decedit in gratia: &amp; tamen in nullo instanti vitae 
+   <lb ed="#B" n="50"/>suae habebit fidem, nec in primo instanti non esse ha 
+   <lb ed="#B" n="51"/>pebit fidem: quia in illo erit beatus, &amp; tunc fides 
+   <lb ed="#B" n="52"/>non manet prout supponitur. Neque oportet facere 
+   <lb ed="#B" n="53"/>difficultatem per propositionem de inesse illius: Sortes 
+   <lb ed="#B" n="54"/>peccauit: quia ipsa est vera / scilicet Sortes peccat 
+   <lb ed="#B" n="55"/>in tempore terminato ad a. instans. 
+   <!--0372.xml-->
+   <cb ed="#B" n="b"/> 
+       <!-- 170-v b -->
+      </p>
+      <p xml:id="jMqv4a-d1e903-d1e628">
+       <lb ed="#B" n="56"/>⁋ Sequitur secunda positio quod stante 
+   <lb ed="#B" n="57"/>casu argumenti Sortes non peccauit ante a. instans 
+   <lb ed="#B" n="58"/>sed solu in a. instanti primo peccat. Probatur haec
+   po<lb ed="#B" n="59" break="no"/>sitio. casus non videtur negandus: &amp; positio Adae 
+   <lb ed="#B" n="60"/>non videtur sufficiens: &amp; praecedens forte tibi non place 
+   <lb ed="#B" n="61"/>bit: nec videtur alius modus dicendi: ergo iste
+   suffi<lb ed="#B" n="62" break="no"/>cit. consequentia claret. Si alium dicendi modum
+   inueni<lb ed="#B" n="63" break="no"/>re potes, suscipiemus illum tamquam probabilem, non tamen
+   pro<lb ed="#B" n="64" break="no"/>mittimus hos modos topicos inficiari, esto alium 
+   <lb ed="#B" n="65"/>dederis qui nobis non occurrit.
+  </p>
+      <p xml:id="jMqv4a-d1e903-d1e652">
+   ⁋ Sed contra istud 
+   <lb ed="#B" n="66"/>argumentor. praeceptum erat Sorti diligere deum ante 
+   <lb ed="#B" n="67"/>a. &amp; non dilexit ante a. ergo omisit ante a. Secundo  
+   <lb ed="#B" n="68"/>arguitur, tunc est ei primo impossibile implere prae 
+   <lb ed="#B" n="69"/>ceptum.
+  </p>
+      <p xml:id="jMqv4a-d1e903-d1e663">
+   ⁋ Ad primum concedo antecedens pro vtra 
+   <lb ed="#B" n="70"/>quod parte: sed consequentia est inualida: quia solum se 
+   <lb ed="#B" n="71"/>quitur quod peccat primo in a. sic dicit Altisiodorus 
+   <lb ed="#B" n="72"/>quem multi neoterici imitantur, vt dicit Adam. 
+   <lb ed="#B" n="73"/>intelligit alios tunc scribentes Oxoniae. &amp; post eos 
+   <lb ed="#B" n="74"/>illo modo <name xml:id="jMqv4a-d1e903-Nd1e676" ref="#JeanGerson">Ioannes Gerson</name> vtitur pro regula. 
+   <lb ed="#B" n="75"/>Ad secundum argumentum diceretur forte
+   apparen<lb ed="#B" n="76" break="no"/>ter negando antecedens: immo tunc est possibile 
+   <lb ed="#B" n="77"/>implere praeceptum. sed antecedente concesso non 
+   <lb ed="#B" n="78"/>probatur consequentia. Tertio arguitur. Sortes 
+   <lb ed="#B" n="79"/>potest in a conteri de hoc quod prius omisit. Quar 
+   <lb ed="#B" n="80"/>to. cum toto casu stat quod Sortes moriatur in
+   a<lb ed="#B" n="81" break="no"/>habens vsum liberi arbitrii ad a. vsque: &amp; tunc non 
+   <lb ed="#B" n="82"/>peccaret in a. quia esset extra statum viae. Tertium 
+   <lb ed="#B" n="83"/>argumentum est nullum, non prius omisit, dicit 
+   <lb ed="#B" n="84"/>positio: &amp; detestatio est solum respectu
+   praeceden<lb ed="#B" n="85" break="no"/>tis peccati. quare non video apparentiam in illo 
+   <lb ed="#B" n="86"/>argumento. Ad quartum argumentum admitto 
+   <lb ed="#B" n="87"/>casum: &amp; concedo quod tunc non peccat in a. cum 
+   <lb ed="#B" n="88"/>in illo instanti non sit. sed positio intelligit si ma 
+   <lb ed="#B" n="89"/>neat in instanti illud tempus terminante. Quinto 
+   <lb ed="#B" n="90"/>arguitur. ponatur quod Sortes non diligat deum in 
+   <lb ed="#B" n="91"/>a. sed immediate post a. detestetur suu peccatum 
+   <lb ed="#B" n="92"/>tunc sequitur quod peccatum Sortis durabit solum 
+   <lb ed="#B" n="93"/>per vnum instans: &amp; sic rei permanentis dabitur vl 
+   <lb ed="#B" n="94"/>timum instans completum, contra <name xml:id="jMqv4a-d1e903-Nd1e722" ref="#Aristotle">Aristotelem.</name> viii. 
+   <lb ed="#B" n="95"/>Physico. &amp; communem philosophiam. Sexto
+   ar<lb ed="#B" n="96" break="no"/>guitur. ponendo quod deus praecipiat Sorti diligere 
+   <lb ed="#B" n="97"/>se ante finem intrinsecum horae: tunc currit argu 
+   <lb ed="#B" n="98"/>mentum. Ad quintum admisso casu dicitur quod
+   pec<lb ed="#B" n="99" break="no"/>catum Sortis durabit quatuor annos &amp; durabit in  
+   <lb ed="#B" n="100"/>caelo. Secunda propositio, non durabit peccatum Sortis 
+   <lb ed="#B" n="101"/>vltra vnum instans. Ad sextum dicitur quod est idem cum 
+   <lb ed="#B" n="102"/>casu principali: quia in nullo instanti ante illud
+   in<lb ed="#B" n="103" break="no"/>stans omittit. 
+  </p>
+      <p xml:id="jMqv4a-d1e903-d1e746">
+       <lb ed="#B" n="104"/>⁋ Secundo arguitur contra conclusio 
+   <lb ed="#B" n="105"/>nem. gratia expellit peccatum mortale &amp; contra:
+   er<lb ed="#B" n="106" break="no"/>go oportet quod simul sint in anima. consequentia
+   te<lb ed="#B" n="107" break="no"/>net: quia alioquin sese expellere non possent.
+  </p>
+      <p xml:id="jMqv4a-d1e903-d1e757">
+   ⁋ Re 
+   <lb ed="#B" n="108"/>spondetur distinguendo quod gratia mortale
+   pecca<lb ed="#B" n="109" break="no"/>tum expellat: vel ex natura rei vt calor frigus. &amp; sic 
+   <!--0373.xml-->
+   <pb ed="#B" n="171-r"/>
+       <cb ed="#B" n="a"/>
+       <lb ed="#B" n="1"/>riegatur. vel ex pacto diuino: &amp; sic concedo. ex cui 
+   <lb ed="#B" n="2"/>concessione non sequitur quod gratia &amp; peccatum mortali 
+   <lb ed="#B" n="3"/>sint simul in anima. Sed illud no soluit vniuersa 
+   <lb ed="#B" n="4"/>liter. Nam scientia huius: quaelibet linea opposita ma 
+   <lb ed="#B" n="5"/>iori angulo est maior &amp; econverso, expellit opinio 
+   <lb ed="#B" n="6"/>nem quae habetur de eodem: &amp; tamen num quam simul sunt 
+   <lb ed="#B" n="7"/>per instantia: sicut explicauimus secundum materian 
+   <lb ed="#B" n="8"/>subiectam de gratia &amp; mortali peccato. Vnde hic 
+   <lb ed="#B" n="9"/>animaduerte. si Sortes sit in gratia: vel elicit mor 
+   <lb ed="#B" n="10"/>tale in instanti, vel successiue. si primum: gratia des 
+   <lb ed="#B" n="11"/>nit esse per primum instans sui non esse: primum enim in 
+   <lb ed="#B" n="12"/>stans peccati mortalis est primum non esse gratiae: &amp; est 
+   <lb ed="#B" n="13"/>idem instans numero. si successiue homo eliciat mo 
+   <lb ed="#B" n="14"/>tale peccatum: tunc vltimum instans non esse peccati est 
+   <lb ed="#B" n="15"/>vltimum instans esse gratiae. &amp; sic res permanens secundum 
+   <lb ed="#B" n="16"/>se &amp; quodlibet sui habet vltimum instans sui esse,- 
+   <lb ed="#B" n="17"/>nimirum a solo deo annihilatur. 
+  </p>
+    </div>
+   </body>
+  </text>
+</TEI>

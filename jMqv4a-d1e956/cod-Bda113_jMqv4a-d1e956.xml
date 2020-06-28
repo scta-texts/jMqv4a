@@ -1,0 +1,390 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 6</title>
+      <author ref="#JohnMair">John Mair</author>
+      <respStmt>
+       <name>Jeffrey C. Witt</name>
+       <resp>TEI Encoder</resp>
+      </respStmt>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 6</title>
+       <date when="2020-06-09">June 27, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="B" n="cod-Bda113">Badius 1516</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+     guidelines for a diplomatic edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-06-27" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+      <pb ed="#B" n="179-v"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="jMqv4a-d1e956"> <!-- l4d17q6 -->
+      <head xml:id="jMqv4a-d1e956-Hd1e104">Quaestio 6</head>
+      <head xml:id="jMqv4a-d1e956-Hd1e107" type="question-title">An quis licite compelli possit sua peccata bis confiteri</head>
+      <p xml:id="jMqv4a-d1e956-d1e110">
+       <lb ed="#B" n="60"/>⁋ Distinctionis Decimaeseptimae 
+   <lb ed="#B" n="61"/>Quaestio Sexta. 
+   <lb ed="#B" n="62"/>Exto circa hanc
+   ma<lb ed="#B" n="63" break="no"/>teriam confessionis quaero: An 
+   <lb ed="#B" n="64"/>quis licite compelli possit sua 
+   <lb ed="#B" n="65"/>peccata bis confiteri.
+   Moue<lb ed="#B" n="66" break="no"/>tur quaestio quia hincinde sunt 
+   <lb ed="#B" n="67"/>apparentiae oppositae. Nam 
+   <lb ed="#B" n="68"/>Ioannes vigesimus secundus 
+   <lb ed="#B" n="69"/>errores Ioannis Poliacensis reprobans dicit incon 
+   <lb ed="#B" n="70"/>uenire quempiam astringi sua peccata pluries
+   con<lb ed="#B" n="71" break="no"/>fiteri. &amp; hoc deducit Dionysius Cistertiensis libro 
+   <lb ed="#B" n="72"/>iiii. distin. xxiii. contra statutum abbatum ordinis 
+   <lb ed="#B" n="73"/>Cistertiensis: qui in capitulo definiuerunt
+   religio<lb ed="#B" n="74" break="no"/>sos viros &amp; foeminas sui ordinis debere confiteri 
+   <lb ed="#B" n="75"/>abbatibus suis semel in anno: esto confessi fuerit 
+   <lb ed="#B" n="76"/>&amp; absoluti a peccatis suis. Recitat quendam bacca 
+   <lb ed="#B" n="77"/>laureum Petrum de Clara valle idem scribentem 
+   <lb ed="#B" n="78"/>ad abbatem suum: &amp; alios ad illud propositum
+   im<lb ed="#B" n="79" break="no"/>troducere conatur. 
+  </p>
+      <p xml:id="jMqv4a-d1e956-d1e156">
+       <lb ed="#B" n="80"/>⁋ Pro hac quaestione ponam conclu 
+   <lb ed="#B" n="81"/>siones aliquas: quarum prima est. Licitum est
+   con<lb ed="#B" n="82" break="no"/>fiteri eadem peccata pluries: immo secunda abso 
+   <lb ed="#B" n="83"/>lutio &amp; sequentes sunt sacramentales sicut prima. 
+   <lb ed="#B" n="84"/>hoc superius diximus.
+  </p>
+      <p xml:id="jMqv4a-d1e956-d1e170">
+   ⁋ Secunda conclusio. Stat 
+   <lb ed="#B" n="85"/>aliquem licite esse obligatum pluries confiteri si 
+   <lb ed="#B" n="86"/>mortaliter deliquat. Probatur: quia aliquis potest 
+   <lb ed="#B" n="87"/>vouere in odium peccati: quod si peccauerit: bis ipsum 
+   <lb ed="#B" n="88"/>confitebitur. hoc nanque est licitum: &amp; saluti
+   vouen<lb ed="#B" n="89" break="no"/>tis conducit. licita est enim materia voti vel
+   iura<lb ed="#B" n="90" break="no"/>menti. peccet iste mortaliter: iam tenetur peccatum 
+   <lb ed="#B" n="91"/>suum pluries confiteri: ergo propositum.
+  </p>
+      <p xml:id="jMqv4a-d1e956-d1e188">
+   ⁋
+   Ter<lb ed="#B" n="92" break="no"/>tia conclusio. Licitum est hoc statutum Cistertien 
+   <lb ed="#B" n="93"/>sium: &amp; expediens vt opinor, animis religiosorum. 
+   <lb ed="#B" n="94"/>hoc patet ex praemissa.
+  </p>
+      <p xml:id="jMqv4a-d1e956-d1e197">
+   ⁋ Quarta conclusio. Hu 
+   <lb ed="#B" n="95"/>iusmodi abbates possunt suos subiectos ad hoc 
+   <lb ed="#B" n="96"/>statutum obligare. Probatur: quia si non possint: 
+   <lb ed="#B" n="97"/>hoc est propterea quia superiores non possunt nouas 
+   <lb ed="#B" n="98"/>cudere leges vltra regulam / inferiorum
+   obligato<lb ed="#B" n="99" break="no"/>rias. sed hoc est falsum: vt patet per religiosorum 
+   <lb ed="#B" n="100"/>statuta pro conseruatione regulae adiecta.
+   Prae<lb ed="#B" n="101" break="no"/>terea arguitur ad idem. Religiosi cultui diuino man 
+   <lb ed="#B" n="102"/>cipati possunt ad aliquas ineges astringi ad quas
+   con<lb ed="#B" n="103" break="no"/>munis populus astringi non debet. sed multi
+   sa<lb ed="#B" n="104" break="no"/>ientes tenent istud de laicis. nam Hericus
+   Ganden<lb ed="#B" n="105" break="no"/>sis in primo quodlibeto tenet quod confessus religiosis men 
+   <lb ed="#B" n="106"/>dicantibus tenetur eadem peccata iterato confiteri se 
+   <!--0391.xml-->
+   <pb ed="#B" n="180-r"/>
+       <cb ed="#B" n="a"/>
+       <lb ed="#B" n="1"/>mel in amno proprio sacerdoti. Et potest dari analogia. 
+   <lb ed="#B" n="2"/>si curatus <name xml:id="jMqv4a-d1e956-Nd1e236">sancti Nicolai Parisiensis</name> daret faculta 
+   <lb ed="#B" n="3"/>tem omnibus parochianis suis confitendi Sorti vel 
+   <lb ed="#B" n="4"/>Platoni presbyteris si velint: quo non obstante erunt 
+   <lb ed="#B" n="5"/>obligati confiteri sibi in pascha: tunc vere absoluti 
+   <lb ed="#B" n="6"/>enebuntur sua peccata confiteri iterato. Praeterea 
+   <lb ed="#B" n="7"/>Ioannes monachus, Archidiaconus, &amp; plerique ca 
+   <lb ed="#B" n="8"/>nonici istud tenent. &amp; in rei veritate extrauagans 
+   <lb ed="#B" n="9"/>Sixti Quarti in ca. Vices. de treuga &amp; pa. ad hoc 
+   <lb ed="#B" n="10"/>est multum apparens: in qua dicit verba quam sequum 
+   <lb ed="#B" n="11"/>tur. Quia etiam ipsi mendicantes desistant praedicare, quod pa 
+   <lb ed="#B" n="12"/>rochiani non sint obligati saltem in pascha proprio 
+   <lb ed="#B" n="13"/>confiteri sacerdoti: quia de iure tenetur parochianus sal 
+   <lb ed="#B" n="14"/>tem in pascha proprio confiteri sacerdoti. ergo videtur 
+   <lb ed="#B" n="15"/>Sixtus Quartus voluisse dicere quod homo teneatui 
+   <lb ed="#B" n="16"/>peccata confessa reconfiteri: quamuis non tenebatur 
+   <lb ed="#B" n="17"/>diebus Ioannis vicesimi secundi: quia inter
+   consti<lb ed="#B" n="18" break="no"/>tutiones aduersas pontificias priori posterior
+   de<lb ed="#B" n="19" break="no"/>rogat: ergo Sixtus Quartus alium sequens videin 
+   <lb ed="#B" n="20"/>relinquaere Clementinam Dudum. de sepul. vel casum ex 
+   <lb ed="#B" n="21"/>cipere ab ea: &amp; redire ad statutum Omnis vtriusque 
+   <lb ed="#B" n="22"/>sexus. quia non videtur aliud ius commune de confes 
+   <lb ed="#B" n="23"/>sione facienda in pascha. Circa dies Sixti Quarti 
+   <lb ed="#B" n="24"/>abhic trigintaquatuor annos quidam frater Ioannes 
+   <lb ed="#B" n="25"/>Angeli prdicauit aliquas propositiones Tornaci: qua 
+   <lb ed="#B" n="26"/>rum haec erat vna. Parochianus confessus fratribu 
+   <lb ed="#B" n="27"/>mendicantibus satisfacit decretali Omnis vtrius 
+   <lb ed="#B" n="28"/>quod sexus, nec tenetur confiteri proprio curato semel 
+   <lb ed="#B" n="29"/>in anno: nec ab eo petere licentiam. &amp; cum variae proposi 
+   <lb ed="#B" n="30"/>tiones illius viri essent ad facultatem nostram missae 
+   <lb ed="#B" n="31"/>approbandae aut castigandae: sic hanc adornauit seu 
+   <lb ed="#B" n="32"/>qualificauit facultas. Haec propositio est scandalosa 
+   <lb ed="#B" n="33"/>&amp; iuri contraria: &amp; pro subditorum ad praelatos debita 
+   <lb ed="#B" n="34"/>obedientia &amp; reuerentia publice reuocanda.
+   Marti<lb ed="#B" n="35" break="no"/>nus Quintus etiam in quadam extrauagante quae inci 
+   <lb ed="#B" n="36"/>pit Ad vberes fructus. simile dicit.
+  </p>
+      <p xml:id="jMqv4a-d1e956-d1e313">
+   ⁋ Ex his mul 
+   <lb ed="#B" n="37"/>tum apparens est quod homo tenetur confiteri peccata con 
+   <lb ed="#B" n="38"/>fessa de per accidens. hoc est quando confessus est ali 
+   <lb ed="#B" n="39"/>cui qui non potuit eum absoluere. sed simpliciter non 
+   <lb ed="#B" n="40"/>tenet ad illud. tum si non peccet mortaliter seme 
+   <lb ed="#B" n="41"/>in anno. tum si peccet, &amp; suo curato confiteatur. Sed 
+   <lb ed="#B" n="42"/>contra istud dices. Non est maior apparentia in
+   ali<lb ed="#B" n="43" break="no"/>quo allegato ad istod propositum quam sit in capi. Vices. &amp; 
+   <lb ed="#B" n="44"/>tamen in eodem cap. habetur. Per hoc tamen ipsi fratres 
+   <lb ed="#B" n="45"/>mendicantes non censeantur exclusi: quo minus
+   secun<lb ed="#B" n="46" break="no"/>dum iuris communis &amp; priuilegiorum eisdem
+   concesso<lb ed="#B" n="47" break="no"/>rum dispositionem cofessiones audire &amp; poenitentias 
+   <lb ed="#B" n="48"/>iniungere valeant. ergo nihil tollitur ab eorum priuile 
+   <lb ed="#B" n="49"/>giis ante hanc extrauagantem concessis. Contra. hoc 
+   <lb ed="#B" n="50"/>non videtur valere: nec esse de mente pontificis
+   pro<lb ed="#B" n="51" break="no"/>pter allegata. &amp; considerando litem inter rectores eccle 
+   <lb ed="#B" n="52"/>siarum &amp; religiosos ortam diceretur quod datur eis
+   fa<lb ed="#B" n="53" break="no"/>cultas vt possint absoluere: sed hoc non obstante 
+   <lb ed="#B" n="54"/>absoluti ab eis tenentur sua peccata in pascha
+   confite<lb ed="#B" n="55" break="no"/>ri proprio curato. Sed contra argumentor: vel abso 
+   <!--0391.xml-->
+   <cb ed="#B" n="b"/> 
+       <!-- 180-r b -->
+       <lb ed="#B" n="56"/>lutus ab eis tenetur confiteri omnia mortalia ab vl 
+   <lb ed="#B" n="57"/>timo pascha: vel post vltimam confessionem. primum 
+   <lb ed="#B" n="58"/>videtur onerosum: &amp; illo dato pauci adirent religio 
+   <lb ed="#B" n="59"/>sos. &amp; similiter secundum: quia stat quod Sortes sit con 
+   <lb ed="#B" n="60"/>fessus in fine quadragesimae religioso mendicanti, 
+   <lb ed="#B" n="61"/>non habens peccatum mortale post vltimam confes 
+   <lb ed="#B" n="62"/>sionem: &amp; ita de multis aliis. igitur. Hoc argumentum 
+   <lb ed="#B" n="63"/>ex industria tetigimus: nodum de quo debet esse 
+   <lb ed="#B" n="64"/>uaestio inter dominos curatos &amp; religiosos aperiens. 
+   <lb ed="#B" n="65"/>Et inter nostrae facultatis deputatos pluries
+   dice<lb ed="#B" n="66" break="no"/>bam difficultatem in hoc consistere: quorum mul 
+   <lb ed="#B" n="67"/>tis visum est nimis hoc esse difficile, quod homo ab 
+   <lb ed="#B" n="68"/>solutus ab eis teneatur iterato illa peccata confiteri. hoc 
+   <lb ed="#B" n="69"/>etiam mihi difficile videtur in populo. Praesertim cum 
+   <lb ed="#B" n="70"/>religiosi sint in possessione: &amp; consuetudo inualue 
+   <lb ed="#B" n="71"/>rit in plerisque locis quod confessi mendicantibus de 
+   <lb ed="#B" n="72"/>bite episcopo praesentatis non tenentur iterato com 
+   <lb ed="#B" n="73"/>fiteri curato in pascha. Et ad allegata in oppositum 
+   <lb ed="#B" n="74"/>dicatur quod confessi mendicantibus debent hoc curato osten 
+   <lb ed="#B" n="75"/>dere, &amp; docere de sui legitima absolutione antequam 
+   <lb ed="#B" n="76"/>communicent: &amp; hoc est confiteri laxato vocabu 
+   <lb ed="#B" n="77"/>lo proprio curatom. Impraesentiarum quousque docea 
+   <lb ed="#B" n="78"/>tur de opposito ita censeo dicendum: &amp; mirandum est 
+   <lb ed="#B" n="79"/>consequenter ad ista: quare debeat esse quaestio
+   in<lb ed="#B" n="80" break="no"/>ter curatos &amp; religiosos. Sed quaestionem sequen 
+   <lb ed="#B" n="81"/>tem adhuc super eadem materia tractabo. 
+  </p>
+      <p xml:id="jMqv4a-d1e956-d1e420">
+       <lb ed="#B" n="82"/>⁋ Redeundo ad prosecutionem quaestid 
+   <lb ed="#B" n="83"/>nis nostrae coneptae: cum sint tot argumenta de ite 
+   <lb ed="#B" n="84"/>randa confessione laicorum: non debet hoc in
+   reli<lb ed="#B" n="85" break="no"/>gione reputari extraneum. Dionysius vbi dixit sta 
+   <lb ed="#B" n="86"/>tutum Cistertiensium de iteranda confessione in or 
+   <lb ed="#B" n="87"/>dine esse iniquum: dicit haec verba. Scio illa quae  
+   <lb ed="#B" n="88"/>ego dixi in hac conclusione cum corollariis, mul 
+   <lb ed="#B" n="89"/>tis abbatibus ordinis Cistertien. nimium displice 
+   <lb ed="#B" n="90"/>re. Concludendo dicit. veruntamen nescio si essem 
+   <lb ed="#B" n="91"/>abbas: vtrum essem huius opinionis: credo tamen 
+   <lb ed="#B" n="92"/>quod praesentis opinionis esse deberem. Ex his verbis 
+   <lb ed="#B" n="93"/>&amp; veritate sic arguo contra eum. displicet
+   abbati<lb ed="#B" n="94" break="no"/>bus ordinis conclusio eius &amp; Petri baccalaurei Cla 
+   <lb ed="#B" n="95"/>reuallensis. &amp; hoc non nisi quia quaerunt salutem 
+   <lb ed="#B" n="96"/>religiosorum suorum licet cum aliquanto onere 
+   <lb ed="#B" n="97"/>religiosorum. quod propterea solum displicet
+   abba<lb ed="#B" n="98" break="no"/>tibus declaro: quia non possunt opes a
+   pauperi<lb ed="#B" n="99" break="no"/>bus religiosis habere: cum opum administratio 
+   <lb ed="#B" n="100"/>sit in abbatum manibus: &amp; non penes subiectos 
+   <lb ed="#B" n="101"/>religiosos, non enim video aliam causam nisi quia 
+   <lb ed="#B" n="102"/>salutem subditorum inquirunt. &amp; patet ex
+   oppo<lb ed="#B" n="103" break="no"/>sito. Saeculares vt dominus Armacanus, &amp; pleri 
+   <lb ed="#B" n="104"/>quod alii constanter asseruerunt quod religiosi mendicam 
+   <lb ed="#B" n="105"/>tes multum confessionibus saecularium se
+   impli<lb ed="#B" n="106" break="no"/>cant, vt eorum mores secreta &amp; restituenda depre 
+   <lb ed="#B" n="107"/>hendant: quatenus ad suum lucrum cedat: sed istud  
+   <lb ed="#B" n="108"/>non potest contingere aliis religiosis. igitur.
+  </p>
+      <p xml:id="jMqv4a-d1e956-d1e481">
+   ⁋ Dico er 
+   <lb ed="#B" n="109"/>go Cistertiensium statutum esse rationabile: sicut mul- 
+   <!--0392.xml-->
+   <pb ed="#B" n="180-v"/>
+       <cb ed="#B" n="a"/>
+       <lb ed="#B" n="1"/>ta alia statuta in capitulis religiosorum lata pro
+   con<lb ed="#B" n="2" break="no"/>seruatione regulae: non tamen nego quod inferior non
+   te<lb ed="#B" n="3" break="no"/>netur parere superiori abbati vel priori in quolibet 
+   <lb ed="#B" n="4"/>licito &amp; honesto: vt post hac distinctione
+   trigesima<lb ed="#B" n="5" break="no"/>octaua latius aperire conabimur. Sed constitutio 
+   <lb ed="#B" n="6"/>nes capitulares pensiculate a patribus discussae &amp; 
+   <lb ed="#B" n="7"/>cribratae: a religiosis sunt magno cum honore sus 
+   <lb ed="#B" n="8"/>cipiendae pariter &amp; seruandae. Vlterius dico quod quar 
+   <lb ed="#B" n="9"/>ta conclusio Dionysii est falsa ad intentione eius: 
+   <lb ed="#B" n="10"/>in qua dicit quod papa non potest praecipere seu
+   fa<lb ed="#B" n="11" break="no"/>cere quod aliquis peccata de quibus est vere
+   contri<lb ed="#B" n="12" break="no"/>tus &amp; confessus &amp; absolutus: teneatur iterum con 
+   <lb ed="#B" n="13"/>fiteri proprio sacerdoti. licet Ioannes Gerson
+   vi<lb ed="#B" n="14" break="no"/>deatur esse illius sententiae, lectione secunda super 
+   <lb ed="#B" n="15"/>Marcum inquiens. Si confessio sacramentalis semel 
+   <lb ed="#B" n="16"/>rite facta est de licentia illius qui ius habet: non po 
+   <lb ed="#B" n="17"/>test iterum cadere sub praecepto pure humano. Sed de 
+   <lb ed="#B" n="18"/>co quod cancellarius loquitur communiter: vel quod non 
+   <lb ed="#B" n="19"/>licet ferre statutum post confessionem quod rite con 
+   <lb ed="#B" n="20"/>fessus teneatur iterato confiteri: tamen ratione vnius 
+   <lb ed="#B" n="21"/>praecepti praecedentis, de per accidens homo tenetur 
+   <lb ed="#B" n="22"/>peccata sua iterato confiteri. si aliter intelligat: ratio 
+   <lb ed="#B" n="23"/>ni potius innitendum est. Propositum sic probo. potest 
+   <lb ed="#B" n="24"/>papa hanc legem ferre quod quilibet teneatur semel in  
+   <lb ed="#B" n="25"/>anno sua peccata confiteri suo proprio sacerdoti: quia 
+   <lb ed="#B" n="26"/>ita erat tempore eruditissimi domini Innocentii 
+   <lb ed="#B" n="27"/>Tertii: vt patet per cap. Omnis. de poenitentiis &amp; 
+   <lb ed="#B" n="28"/>remissi. Potest insuper statuere legem illi non
+   repu<lb ed="#B" n="29" break="no"/>gnantem quod mendicantes religiosi praesentati episcopis, 
+   <lb ed="#B" n="30"/>possint confessiones audire &amp; absoluere. Inter has 
+   <lb ed="#B" n="31"/>enim affirmatiuas nulla est repugnantia. tunc autem
+   ple<lb ed="#B" n="32" break="no"/>rique ad iteratam confessionem tenebuntur de per accidens: 
+   <lb ed="#B" n="33"/>quia per hoc quod sunt absoluti a mendicantibus: ab 
+   <lb ed="#B" n="34"/>alio praecepto priori non incompossibili non deobligam 
+   <lb ed="#B" n="35"/>tur. &amp; huiusmodi homo antecedenter volens ad iteratam 
+   <lb ed="#B" n="36"/>confessionem tenetur, quod nullo modo inconvenit. Haec 
+   <lb ed="#B" n="37"/>ratio mihi persuadet propositum. potest enim papa
+   tol<lb ed="#B" n="38" break="no"/>lere totum priuilegium a religiosis vel
+   diminue<lb ed="#B" n="39" break="no"/>re, &amp; semper licite. verum de facto iam non loquor sed 
+   <lb ed="#B" n="40"/>possibili. Et quicquid sit in communi populo: non 
+   <lb ed="#B" n="41"/>debet reuocari in dubium in religione, quae leges
+   obli<lb ed="#B" n="42" break="no"/>gatorias habet: quas nemo potest iniugere hominium. 
+   <lb ed="#B" n="43"/>multitudini. Abbates enim similem legem statuunt: 
+   <lb ed="#B" n="44"/>poenitentiarios idoneos assignant pro toto anno: 
+   <lb ed="#B" n="45"/>confessionem paschalem sibi reseruantes. Dixi (de 
+   <lb ed="#B" n="46"/>per acidens) quia si religiosus non peccet mortaliter 
+   <lb ed="#B" n="47"/>n toto anno: quod est mihi probabile de multis in
+   re<lb ed="#B" n="48" break="no"/>ligione reformata viuentibus: &amp; a fortiori in
+   reli<lb ed="#B" n="49" break="no"/>gione nondum collapsa: non poterit constrigi.
+  </p>
+      <p xml:id="jMqv4a-d1e956-d1e599">
+   ⁋ As 
+   <lb ed="#B" n="50"/>sumit Dionysius aliquas probationes quas dicit
+   Hol<lb ed="#B" n="51" break="no"/>cotum quaestione. v. quarti sententiarum erudite posuis 
+   <lb ed="#B" n="52"/>se. vna probatio est haec. Papa manens papa non potest 
+   <lb ed="#B" n="53"/>licite aliquid facere quo perdat iurisdictionem super 
+   <lb ed="#B" n="54"/>quemlibet cat holicum. ergo non potest licite facere 
+   <lb ed="#B" n="55"/>quin possit absoluere quencumque sibi confessum. sed  
+   <!--0392.xml-->
+   <cb ed="#B" n="b"/> 
+       <!-- 180-v b -->
+       <lb ed="#B" n="56"/>si vere papa absoluit hominem sibi confitentem: &amp; ille 
+   <lb ed="#B" n="57"/>egitime exequitur poenitentiam sibi iniunctam: ipse est 
+   <lb ed="#B" n="58"/>simpliciter absolutus a papa: ergo papa non potest 
+   <lb ed="#B" n="59"/>facere quod ille iterum confiteri teneatur, consequen 
+   <lb ed="#B" n="60"/>tia tenet: quia papa non potest facere quod ille indigeat 
+   <lb ed="#B" n="61"/>sacramento poenitentiae pro eisdem peccatis pro quibus 
+   <lb ed="#B" n="62"/>am satisfecit per poenitentiam sacramentum. alio 
+   <lb ed="#B" n="63"/>quin primum sacramentum fuisset insufficiens: quod 
+   <lb ed="#B" n="64"/>nefas est dicere. Dico ex dictis hoc argumentum 
+   <lb ed="#B" n="65"/>esse dilutum: ac minime disconvenire quod quis indi 
+   <lb ed="#B" n="66"/>geat sacramento poenitentiae pro peccatis pro quibus 
+   <lb ed="#B" n="67"/>iam satisfecit per poenitentiae sacramentum. Quo ad au 
+   <lb ed="#B" n="68"/>ctoritatem Roberti Holcoti: dico eum tempore quo fecit 
+   <lb ed="#B" n="69"/>commentarios in librum Sapientiae, plura vidisse: &amp; li 
+   <lb ed="#B" n="70"/>cet in libris Sententiarum varias materias communes 
+   <lb ed="#B" n="71"/>&amp; spinosas compilauerit: paucas vel nullas extrica 
+   <lb ed="#B" n="72"/>re didicerat. Introducit iste beatum Thomam in hac 
+   <lb ed="#B" n="73"/>distinctione pro se. sed nullo modo est pro conclusio 
+   <lb ed="#B" n="74"/>ne eius: vt cuilibet legenti patet. Praeterea loanne 
+   <lb ed="#B" n="75"/>in rubrica de poeniten. &amp; remis. citat: quaerentem an 
+   <lb ed="#B" n="76"/>peccata semel confessa teneatur aliquis iterum confi 
+   <lb ed="#B" n="77"/>teri. Respondet dicens quod non regulariter. dico hoc 
+   <lb ed="#B" n="78"/>esse contra arguentem. &amp; concedo illud etiam. Demum 
+   <lb ed="#B" n="79"/>Astensem in summa libro quinto, titulo. xiiii. itro 
+   <lb ed="#B" n="80"/>ducit dicentem quod absolutus a quocunque sacerdote in 
+   <lb ed="#B" n="81"/>casu necessitatis non tenetur iterum absolui: nec 
+   <lb ed="#B" n="82"/>iterum confiteri proprio sacerdoti: sed sufficit quod ei 
+   <lb ed="#B" n="83"/>nontificet se fuisse absolutum. hoc etiam concedo. Ar 
+   <lb ed="#B" n="84"/>gumentatur Dionysius secundo sic. Nullus indiget sa 
+   <lb ed="#B" n="85"/>cramento poenitentiae nisi sit in peccato mortali. il 
+   <lb ed="#B" n="86"/>la propositio est falsa: &amp; deductio consequens inuti 
+   <lb ed="#B" n="87"/>lis. Facit confirmationem quae est haec. in potestate pa 
+   <lb ed="#B" n="88"/>pae non est quod aliquis innocens &amp; iustus peccet mor 
+   <lb ed="#B" n="89"/>taliter: ergo in potestate eius non est efficere vt te 
+   <lb ed="#B" n="90"/>neatur confiteri. Concedo antecedens si sit prudens 
+   <lb ed="#B" n="91"/>iste innocens de quo loquitur: &amp; ad consequens, si 
+   <lb ed="#B" n="92"/>sit sermo de eo qui non peccauit mortaliter: conce 
+   <lb ed="#B" n="93"/>do consequentiam &amp; consequens: si de alio, nego conse 
+   <lb ed="#B" n="94"/>quentiam cum consequente.
+  </p>
+      <p xml:id="jMqv4a-d1e956-d1e706">
+   ⁋ Hactenus diximus quod 
+   <lb ed="#B" n="95"/>licet de facto laicus mendicanti legitime confessus &amp; 
+   <lb ed="#B" n="96"/>absolutus non teneatur eadem peccata confiteri proprio 
+   <lb ed="#B" n="97"/>curato: potest tamen Romanus pontifex legem ferre 
+   <lb ed="#B" n="98"/>copulatiuam talem: quod quilibet laicus teneatur com 
+   <lb ed="#B" n="99"/>fiteri sua peccata proprio sacerdoti semel in anno 
+   <lb ed="#B" n="100"/>si quae fecit: dando tamen facultatem omnibus volenti 
+   <lb ed="#B" n="101"/>bus adire fratres religiosos vel alios probos sacer 
+   <lb ed="#B" n="102"/>dotes: suscipiendi absolutionem ab eis de suis pec 
+   <lb ed="#B" n="103"/>catis. secunda enim pars nullum grauamen super 
+   <lb ed="#B" n="104"/>priorem legem addit nisi volenti absolute. modo 
+   <lb ed="#B" n="105"/>volenti non fit iniuria. v. Ethicorum. &amp; hoc sua 
+   <lb ed="#B" n="106"/>ponte volenti. Nunquid iamiam plerique aliqua  
+   <lb ed="#B" n="107"/>eccata pluries &amp; pluribus confitentur, vt qui ca 
+   <lb ed="#B" n="108"/>sus reseruatos habent? Ex istis datur manuductio 
+   <lb ed="#B" n="109"/>quod liceat abbatibus Cistertiensis ordinis legem sta 
+   <lb ed="#B" n="110"/>tuere suis religiosis vt teneantur confiteri abbatibus 
+   <!--0393.xml-->
+   <pb ed="#B" n="181-r"/>
+       <cb ed="#B" n="a"/>
+       <lb ed="#B" n="1"/>semel in anno: vt vultum pecoris sibi commissi 
+   <lb ed="#B" n="2"/>ignoscant: &amp; salubre antidotum contra morbos 
+   <lb ed="#B" n="3"/>peccati exhibeant. etiam dando eis religiosos
+   pa<lb ed="#B" n="4" break="no"/>tres qui possint eos absoluere a peccatis quotiens 
+   <lb ed="#B" n="5"/>cumque voluerint. In haec statuta etiam consentiunt professi 
+   <lb ed="#B" n="6"/>post statutum rationabile: quemadmodum ingrediens 
+   <lb ed="#B" n="7"/>Carthusiam ad non edendum carnes. 
+  </p>
+      <p xml:id="jMqv4a-d1e956-d1e765">
+       <lb ed="#B" n="8"/>⁋ Dubitatur. An laicus teneatur 
+   <lb ed="#B" n="9"/>sua peccata iterato confiteri. De peccatis in commu 
+   <lb ed="#B" n="10"/>ni mouetur dubitatio: &amp; non solum de reseruatis. 
+   <lb ed="#B" n="11"/>&amp; licet varii ponant varios casus de iteranda con 
+   <lb ed="#B" n="12"/>fessione: pono hanc responsionem ad
+   dubitatio<lb ed="#B" n="13" break="no"/>nem. Nullus laicus rite confessus &amp; absolutus ab 
+   <lb ed="#B" n="14"/>llo qui absoluere potuit, post peccatorum
+   suffi<lb ed="#B" n="15" break="no"/>cientem indaginem: tenetur ad eorundem peccatorum 
+   <lb ed="#B" n="16"/>teratam confessionem. Si autem sacerdos
+   dormie<lb ed="#B" n="17" break="no"/>bat: &amp; hoc constiterit: iam iste non est rite confessus 
+   <lb ed="#B" n="18"/>nec ratione ingratitudinis astringitur: vt posthac 
+   <lb ed="#B" n="19"/>distinctione. xxii. determinabimus: siue
+   poeniten<lb ed="#B" n="20" break="no"/>tiam oblitus sit: siue non. siue etiam aliud peccatum
+   oc<lb ed="#B" n="21" break="no"/>currat post confessionem: siue non. 
+  </p>
+    </div>
+   </body>
+  </text>
+</TEI>

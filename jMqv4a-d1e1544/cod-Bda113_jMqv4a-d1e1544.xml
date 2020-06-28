@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 1</title>
+      <author ref="#JohnMair">John Mair</author>
+      <respStmt>
+       <name>Jeffrey C. Witt</name>
+       <resp>TEI Encoder</resp>
+      </respStmt>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 1</title>
+       <date when="2020-06-09">June 27, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="B" n="cod-Bda113">Badius 1516</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+     guidelines for a diplomatic edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-06-27" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+      <pb ed="#B" n="289-v"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="jMqv4a-d1e1544"> <!-- l4d36q1 -->
+      <head xml:id="jMqv4a-d1e1544-Hd1e104">Quaestio 1</head>
+      <head xml:id="jMqv4a-d1e1544-Hd1e107" type="question-title">
+        An servitus impediat matrimonium
+      </head>
+  <p xml:id="jMqv4a-d1e1544-d1e109">
+       <lb ed="#B" n="19"/>⁋ Distinctionis Trigesimaesextae 
+   <lb ed="#B" n="20"/>Quaestio Vnica. 
+   <lb ed="#B" n="21"/>Vaeritur
+   cir<lb ed="#B" n="22" break="no"/>ca distinctionem 
+   <lb ed="#B" n="23"/>trigesimansextam. 
+   <lb ed="#B" n="24"/>An seruitus impe 
+   <lb ed="#B" n="25"/>diat matrimonium. 
+   <lb ed="#B" n="26"/>Respondetur. seru 
+   <lb ed="#B" n="27"/>tus praecedens im 
+   <lb ed="#B" n="28"/>pedit quando igno 
+   <lb ed="#B" n="29"/>ratur. vt praediximus. 
+   <lb ed="#B" n="30"/>de errore
+   conditio<lb ed="#B" n="31" break="no"/>nis. sed seruitus sub 
+   <lb ed="#B" n="32"/>sequens non
+   diri<lb ed="#B" n="33" break="no"/>mit matrimonium contractum vel praecedens, dum 
+   <lb ed="#B" n="34"/>modo contrahatur scienter. seruus enim contrad 
+   <lb ed="#B" n="35"/>cente domino, matrimonium contrahere potest. 
+   <lb ed="#B" n="36"/>vt dicitur de coniug. seruo. ca. i. vbi Hadrianus pon 
+   <lb ed="#B" n="37"/>tifex allegat verbum apostoli ad Gala. iii. dicens. Di 
+   <lb ed="#B" n="38"/>gnum est. &amp; infra. Sane iuxta verbum Apostoli 
+   <lb ed="#B" n="39"/>sicut in Christo Iesu neque liber, neque seruus est a
+   sa<lb ed="#B" n="40" break="no"/>cramentis ecclesiae remouendus: ita nec inter seruos 
+   <lb ed="#B" n="41"/>matrimonia debent vllatenus prohiberi. Et si
+   con<lb ed="#B" n="42" break="no"/>tradicentibus dominis &amp; inuitis contracta fuerint: 
+   <lb ed="#B" n="43"/>nulla ratione sunt propter hoc dissoluenda. Quem 
+   <lb ed="#B" n="44"/>admodum licet dominus prohibeat seruo mandu  
+   <lb ed="#B" n="45"/>care, non est ei obtemperandum. oportet enim con 
+   <lb ed="#B" n="46"/>seruare indiuiduum. similiter potest conseruare 
+   <lb ed="#B" n="47"/>speciem renitente domino. nam positiuum ius
+   ser<lb ed="#B" n="48" break="no"/>uorum non tollit ius naturae &amp; diuinum. 
+  </p>
+      <p xml:id="jMqv4a-d1e1544-d1e177">
+       <lb ed="#B" n="49"/>⁋ Sed obiicies: seruus non potest: 
+   <lb ed="#B" n="50"/>ordinari sacerdos vel monachus. liiii. distin. per to 
+   <lb ed="#B" n="51"/>tum. &amp; tamen ordo est sacramentum ecclesiae.
+   igi<lb ed="#B" n="52" break="no"/>tur. Insuper teste Arist. primi Politicorum. iii.
+   ser<lb ed="#B" n="53" break="no"/>uus est omnino domini. ergo non potest dare mu- 
+   <!--0610.xml-->
+   <cb ed="#B" n="b"/> 
+       <!-- 289-v b -->
+       <lb ed="#B" n="54"/>lieri potestatem corporis sui sine consensu
+   domi<lb ed="#B" n="55" break="no"/>ni. Hinc dicimus quod vir non potest abdicare omnia 
+   <lb ed="#B" n="56"/>venerea contradicente vxore: quae habet dominium 
+   <lb ed="#B" n="57"/>corporis viri.
+  </p>
+      <p xml:id="jMqv4a-d1e1544-d1e206">
+   ⁋ Ad primum respondetur, non est 
+   <lb ed="#B" n="58"/>simile: quia per matrimonium parum impeditur 
+   <lb ed="#B" n="59"/>seruus a seruitio domini. secus est in ordine &amp;
+   religio<lb ed="#B" n="60" break="no"/>ne, vbi homo est mancipatus cultui diuino, &amp; vo 
+   <lb ed="#B" n="61"/>luntati praelati. sed etsi peccat accipiendo ordines: re 
+   <lb ed="#B" n="62"/>uera manet ordinatus. &amp; episcopus talem ordinans 
+   <lb ed="#B" n="63"/>scienter, debet pro eo satisfacere. si vero ignorans or 
+   <lb ed="#B" n="64"/>dinet tradendus est domino: &amp; deputabitur negociis ho 
+   <lb ed="#B" n="65"/>nestis secundum suum statum. Ad aliud distinguo 
+   <lb ed="#B" n="66"/>quod sit domini: vel quo ad seruitia corporalia: &amp; sic con 
+   <lb ed="#B" n="67"/>cedo: sed non tale dominium habet in corpus ser 
+   <lb ed="#B" n="68"/>ui, quale vxor. Dicis. ex isto sequitur quod
+   coniuga<lb ed="#B" n="69" break="no"/>tus non habet tam plenum dominium in corpus 
+   <lb ed="#B" n="70"/>proprium quam non coniugatus. Concedo illatum.
+   pro<lb ed="#B" n="71" break="no"/>pterea nanque mortua vxore vir dicitur liberatus a qua 
+   <lb ed="#B" n="72"/>dam seruitute.
+  </p>
+      <p xml:id="jMqv4a-d1e1544-d1e241">
+   ⁋ Potes ponere quod Titius manu 
+   <lb ed="#B" n="73"/>mittat Sortem seruum hac lege, si primus cui ob 
+   <lb ed="#B" n="74"/>uiat dicat verum: &amp; non aliter. &amp; obuiet Bertae cum 
+   <lb ed="#B" n="75"/>qua contrahat: &amp; ante omnia dicat Berta, tu es ser 
+   <lb ed="#B" n="76"/>uus. quaerendo an seruus Titii sit liber &amp; possit con 
+   <lb ed="#B" n="77"/>trahere: nec ne. Si dicas. est seruus, iam Berta dicit 
+   <lb ed="#B" n="78"/>verum: ergo per conditionem positam / est liber. ei 
+   <lb ed="#B" n="79"/>go prima ei occurrens dicit verum: &amp; Berta dicit 
+   <lb ed="#B" n="80"/>Sortem esse seruum: &amp; ita est perte: ergo non est 
+   <lb ed="#B" n="81"/>liber ad contrahendum de iure. capimus si promissi 
+   <lb ed="#B" n="82"/>ue. Simile argumentum refert. A. Gellius in nocti 
+   <lb ed="#B" n="83"/>bus Atticis libri quinti cap. x. Quale est (inquit)  
+   <lb ed="#B" n="84"/>peruulgatum illud quo Protagoram sophistarum 
+   <lb ed="#B" n="85"/>acerrimum vsum esse ferunt aduersus Euathlum 
+   <lb ed="#B" n="86"/>discipulum suum. Lis nanque inter eos: &amp;
+   contro<lb ed="#B" n="87" break="no"/>uersia super pacta mercede haec fuit. Euathlus ado  
+   <lb ed="#B" n="88"/>lescens diues, eloquentiae discendae, causarumque 
+   <lb ed="#B" n="89"/>orandi cupiens fuit. ls in disciplinam Protagorae 
+   <lb ed="#B" n="90"/>sese dedit: daturumque promisit mercedem, grandem 
+   <lb ed="#B" n="91"/>pecuniam quantam Protagoras petiuerat.
+   Dimi<lb ed="#B" n="92" break="no"/>diumque eius dedit iam tunc statim priusquam
+   disce<lb ed="#B" n="93" break="no"/>ret: pepigitque vt reliquum dimidium daret quo
+   pri<lb ed="#B" n="94" break="no"/>mum die causam apud iudices orasset, &amp; vicisset. 
+   <lb ed="#B" n="95"/>Postea quum diutule auditor, assectatorque Prota 
+   <lb ed="#B" n="96"/>gorae fuisset: &amp; in studio quidem facundiae abunde 
+   <lb ed="#B" n="97"/>promouisset, causas tamen non reciperet, tempus 
+   <lb ed="#B" n="98"/>quod iam longum transcurreret: &amp; facere id videretur, 
+   <lb ed="#B" n="99"/>ne reliquum mercedis daret: capit consilium Pro 
+   <lb ed="#B" n="100"/>tagoras, vt tum existimabat, astutum. Petere insti 
+   <lb ed="#B" n="101"/>tuit ex pacto mercedem: litem cum Euathlo contestatur. 
+   <lb ed="#B" n="102"/>Et quum ad iudices coniiciendae consistendae que 
+   <lb ed="#B" n="103"/>causae gratia venisset: tum Protagoras sic exorsus 
+   <lb ed="#B" n="104"/>est. Disce, inquit, stultissime adolescens: vtroque id  
+   <lb ed="#B" n="105"/>modo fore vti reddas quod peto: siue contra te pronum 
+   <lb ed="#B" n="106"/>ciatum erit, siue pro te. Namsi contra te lis data erit:  
+   <lb ed="#B" n="107"/>merces mihi ex sententia debebitur: quia ego vice 
+   <lb ed="#B" n="108"/>trto. Sin vero secundum te iudicatum erit: merces 
+   <!--0611.xml-->
+   <pb ed="#B" n="290-r"/>
+       <cb ed="#B" n="a"/>
+       <lb ed="#B" n="1"/>mihi ex pacto debebitur: quia tu viceris. Ad ea 
+   <lb ed="#B" n="2"/>respondit Euathlus: Potui, inquit, huic tuae tam
+   an<lb ed="#B" n="3" break="no"/>cipiti captioni isse obuiam si verba ipse non
+   face<lb ed="#B" n="4" break="no"/>rem: atque alio patrono vterer. Sed maius mihi in 
+   <lb ed="#B" n="5"/>ista victoria proludium est: quum te non in causa tamtenum: 
+   <lb ed="#B" n="6"/>sed in argumento quoque isto vinco. Disce igitur 
+   <lb ed="#B" n="7"/>tu quoque magister sapientissime vtroque modo fier 
+   <lb ed="#B" n="8"/>vti non reddam quod petis, siue contra me
+   pronun<lb ed="#B" n="9" break="no"/>ciatum fuerit, siue pro me. Nam si iudices pro
+   cau<lb ed="#B" n="10" break="no"/>sa mea senserint, nihil tibi ex sententia debebitur, 
+   <lb ed="#B" n="11"/>quia ego vicetro. Sin contra me pronunciauerint, 
+   <lb ed="#B" n="12"/>nihil tibi ex pacto debebo: quia ego non vicero 
+   <lb ed="#B" n="13"/>Ecce argumenta reciproca. Sed dico quod Euathlus 
+   <lb ed="#B" n="14"/>non obligabatur soluere. si vincebat: notum est. sit 
+   <lb ed="#B" n="15"/>minus: ex pacto nihil debebat. Sic in proposito di 
+   <lb ed="#B" n="16"/>cas. Sed illud argumentum &amp; similia sunt iuniori 
+   <lb ed="#B" n="17"/>bus qui recenter philosophiam imbiberunt, relin 
+   <lb ed="#B" n="18"/>quenda. nam in theologia prolixe eiusmodi tricas 
+   <lb ed="#B" n="19"/>deducere, est eam labefactare &amp; indecore augere.
+   tri<lb ed="#B" n="20" break="no"/>bus tamen verbis iocose dictis, danda est venia. 
+   <lb ed="#B" n="21"/>haec enim non posuimus vt sophistis aditum sio 
+   <lb ed="#B" n="22"/>scribendi demus: sed vt eos miseros &amp; infelici
+   in<lb ed="#B" n="23" break="no"/>genio, ne id faciant, dehortemur &amp; deterreamus 
+  </p>
+    </div>
+   </body>
+  </text>
+</TEI>

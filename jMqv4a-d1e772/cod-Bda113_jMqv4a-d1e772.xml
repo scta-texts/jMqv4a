@@ -1,0 +1,247 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 35</title>
+      <author ref="#JohnMair">John Mair</author>
+      <respStmt>
+       <name>Jeffrey C. Witt</name>
+       <resp>TEI Encoder</resp>
+      </respStmt>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 35</title>
+       <date when="2020-06-09">June 27, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="B" n="cod-Bda113">Badius 1516</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+     guidelines for a diplomatic edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-06-27" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+      <pb ed="#B" n="144-v"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="jMqv4a-d1e772"> <!-- l4d15q35 -->
+      <head xml:id="jMqv4a-d1e772-Hd1e104">Quaestio 35</head>
+      <head xml:id="jMqv4a-d1e772-Hd1e107" type="question-title">An liceat ad usuram capere</head>
+      <p xml:id="jMqv4a-d1e772-d1e110">
+       <lb ed="#B" n="29"/>QVaeritur septimo: an 
+   <lb ed="#B" n="30"/>liceat ad vsuram capere. Pro 
+   <lb ed="#B" n="31"/>solutione quaestionis notato: qui 
+   <lb ed="#B" n="32"/>petens ad vsuram potest duobus 
+   <lb ed="#B" n="33"/>modis se habie. vel non habet
+   ne<lb ed="#B" n="34" break="no"/>cessaria pro suo statum: vel habet 
+   <lb ed="#B" n="35"/>sufficientiam pro suo statu, quod 
+   <lb ed="#B" n="36"/>sit sufficientia naturae &amp; sta 
+   <lb ed="#B" n="37"/>tus: superius in hac distinctione retulimus.
+  </p>
+      <p xml:id="jMqv4a-d1e772-d1e132">
+   ⁋ lsto 
+   <lb ed="#B" n="38"/>notato pono duas conclusiones. Prior est. Non ha 
+   <lb ed="#B" n="39"/>bens necessaria pro suo statu potest capere pecuniam 
+   <lb ed="#B" n="40"/>mutuo: esto opinetur mutuatorem non daturum mu 
+   <lb ed="#B" n="41"/>tuo sine vsura: concurrentibus tribus. Primum: quod non 
+   <lb ed="#B" n="42"/>possit aliunde habere mutuo. Secundum: quod non pe 
+   <lb ed="#B" n="43"/>tat mutuo ad vsuram: necse offerat paratum accipe 
+   <lb ed="#B" n="44"/>ad vsuram. Tertium: quod rationabiliter egeat pecunia. 
+   <lb ed="#B" n="45"/>sed ex verbis conclusioniis hoc satis colligitur. Pro 
+   <lb ed="#B" n="46"/>batur conclusio, quicunque facit illud quod sibi &amp; suis 
+   <lb ed="#B" n="47"/>secundum rationem naturalem incumbit / non peccat hoc fa 
+   <lb ed="#B" n="48"/>ciendo: sed iste de quo loquimur est huiusmodi. Eget ei 
+   <lb ed="#B" n="49"/>pecunia pro se &amp; amico suo: ergo licitum est ei acci 
+   <lb ed="#B" n="50"/>pere mutuo cum aliter sibi succurrere non possit 
+   <lb ed="#B" n="51"/>sequi aullum inuenit nisi vsurarium. igitur. Secundo pro 
+   <!--0320.xml-->
+   <cb ed="#B" n="b"/> 
+       <!-- 144-v b -->
+       <lb ed="#B" n="52"/>batur idem. si peccaret petendo mutuo: hoc esset quama 
+   <lb ed="#B" n="53"/>daret mutuatori occasionem peccati: sed hoc non. 
+   <lb ed="#B" n="54"/>nam illa occasio est indirecte data ab eo: &amp; displicet 
+   <lb ed="#B" n="55"/>ei quod alter dat ad vsuram: mallet enim quod gratis daret 
+   <lb ed="#B" n="56"/>&amp; displicet ei etiam se esse in illo statu vt pro sui sus 
+   <lb ed="#B" n="57"/>tentatione cogatur petere mutuo. ergo non peccat. 
+   <lb ed="#B" n="58"/>Et patet per simile: &amp; est ratio ad conclusionem. mulier 
+   <lb ed="#B" n="59"/>cognosces quod aliquis ex aspectusui mouetur ad
+   libi<lb ed="#B" n="60" break="no"/>dinem inordinate: potest ecclesiam adire vel forum pro 
+   <lb ed="#B" n="61"/>tempore &amp; loco: esto iudicet alios peccaturos: quia 
+   <lb ed="#B" n="62"/>ipsa facit quod suo officio incumbit.
+  </p>
+      <p xml:id="jMqv4a-d1e772-d1e196">
+   ⁋ Secunda con 
+   <lb ed="#B" n="63"/>clusio. petens mutuum ab illo quem iudicat vel
+   iudi<lb ed="#B" n="64" break="no"/>care debet non daturum mutuo nisi ad vsuram: non 
+   <lb ed="#B" n="65"/>stantibus his circunstantiis peccat. Dixi iquem
+   iu<lb ed="#B" n="66" break="no"/>dicat vel iudicare debet) nam stat quod sit ignoran 
+   <lb ed="#B" n="67"/>tia inuincibilis ne cognoscat mores illius quem adiit 
+   <lb ed="#B" n="68"/>Probatio conclusionis. quicumque dat alteri occasionem 
+   <lb ed="#B" n="69"/>peccandi proponendo ei materiam vnde alter sumit 
+   <lb ed="#B" n="70"/>occasionem peccandi vbi non habet iustam &amp; rationa 
+   <lb ed="#B" n="71"/>bilem causam materiam proponendi peccat. sed quilibus 
+   <lb ed="#B" n="72"/>petens non stantibus his circunstantiis est huiusmodi. 
+   <lb ed="#B" n="73"/>igitur. &amp; patet per simile de muliere de qua mentionem 
+   <lb ed="#B" n="74"/>fecimus in priore conclusione. Si enim ipsa
+   exhi<lb ed="#B" n="75" break="no"/>beat se quando non habent rationabilem causam aspectui illis 
+   <lb ed="#B" n="76"/>quem credit casurum in libidinem inordinatam: ipsa peci 
+   <lb ed="#B" n="77"/>cat: infideliter cum proximo agens. Ecclesiast. xvii. 
+   <lb ed="#B" n="78"/>Vnicuique mandauit deus de proximo suo. 
+  </p>
+      <p xml:id="jMqv4a-d1e772-d1e233">
+       <lb ed="#B" n="79"/>⁋ Contra priorem conclusionem ar 
+   <lb ed="#B" n="80"/>guitur. mutuatarius est causa quare mutuans
+   pec<lb ed="#B" n="81" break="no"/>cat: ergo ipse peccat. Anices patet: quia forte mutuans 
+   <lb ed="#B" n="82"/>erat in templo orans vel in lecto cubans de nullo
+   ma<lb ed="#B" n="83" break="no"/>lo cogitans.
+  </p>
+      <p xml:id="jMqv4a-d1e772-d1e246">
+   ⁋ Secundo arguitur ad idem. dans ad 
+   <lb ed="#B" n="84"/>vsuram peccat: ergo accipiens ad vsuram peccati 
+   <lb ed="#B" n="85"/>Tenet cosequentia: quia dare ad vsuram &amp; accipere ad  
+   <lb ed="#B" n="86"/>vsuram relatiue &amp; correlatiue se habent. Nemo ei 
+   <lb ed="#B" n="87"/>potest dare ad vsuram nisi aliquis accipiat ad
+   vsu<lb ed="#B" n="88" break="no"/>rem / &amp; econverso. ergo si dare ad vsuram e peccatum: acci 
+   <lb ed="#B" n="89"/>pere ad vsuram est peccatum.
+  </p>
+      <p xml:id="jMqv4a-d1e772-d1e262">
+   ⁋ Ad primum distinguo 
+   <lb ed="#B" n="90"/>quod sit causa peccati alterius. vel occasionalis &amp; in  
+   <lb ed="#B" n="91"/>directa: &amp; sic concedo: vel directa, &amp; sic nego. modo 
+   <lb ed="#B" n="92"/>primum non est peccatum: sed vti malo alterius ad bo 
+   <lb ed="#B" n="93"/>num finem. sicut patriarcha Iacob vsus est iura 
+   <lb ed="#B" n="94"/>mento Laban per idola. Gene. xxxi. pro pace in  
+   <lb ed="#B" n="95"/>ter se &amp; Laban facienda: &amp; tamen sciebat quod Laban 
+   <lb ed="#B" n="96"/>grauiter in hoc peccaret.
+  </p>
+      <p xml:id="jMqv4a-d1e772-d1e280">
+   ⁋ Ad secundum negatur con 
+   <lb ed="#B" n="97"/>sequentia, quemadmodum non sequitur. pater 
+   <lb ed="#B" n="98"/>est peccator: ergo filius est talis. Consequentia autem 
+   <lb ed="#B" n="99"/>valet in propositione de est secundo adiacente: vt si
+   pa<lb ed="#B" n="100" break="no"/>ter est, filius est. vel si aliquid est patr, aliquid est filius. hoc 
+   <lb ed="#B" n="101"/>est, si vnum relatiuum verificetur de transcedente: reliquum 
+   <lb ed="#B" n="102"/>affirmabitur de eodem. sic in proposito: si dans ad vsuran 
+   <lb ed="#B" n="103"/>est, accipiens ad vsuram est. None vides quod raptor a ra 
+   <lb ed="#B" n="104"/>pto capiens pecuniam peccat: &amp; tamen ille a quo pecu 
+   <lb ed="#B" n="105"/>nia rapitur das pecuniam illam non peccatu 
+   <!--0321.xml-->
+   <pb ed="#B" n="145-r"/>
+       <cb ed="#B" n="a"/>
+       <lb ed="#B" n="1"/>Vbitatur. an vsurarii sint a 
+   <lb ed="#B" n="2"/>republica tolerandi: &amp; a potestate
+   eccle<lb ed="#B" n="3" break="no"/>a siastica &amp; saeculari.
+  </p>
+      <p xml:id="jMqv4a-d1e772-d1e315">
+   ⁋ Respondetur quod non: sed 
+   <lb ed="#B" n="4"/>extirpandi sunt: tum quia eorum peccata publica sunt 
+   <lb ed="#B" n="5"/>in reipublicae pernicien. tum quia dei offensiua. multa 
+   <lb ed="#B" n="6"/>enim bona ciuium vsurarii ad se trahunt &amp;
+   fraudu<lb ed="#B" n="7" break="no"/>lenter sugunt: sunt enim hostes familiares &amp;
+   vulpe<lb ed="#B" n="8" break="no"/>culae. Tum quod in bonis iniuste acquisitis non est
+   se<lb ed="#B" n="9" break="no"/>curitas seu stabilimentum. recte vulgari carmine di 
+   <lb ed="#B" n="10"/>citur. De male quasitis vix gaudet tertius haeres.
+  </p>
+      <p xml:id="jMqv4a-d1e772-d1e334">
+   ⁋ Sed 
+   <lb ed="#B" n="11"/>contra istud arguitur. si non essent vsurarii: nihil da 
+   <lb ed="#B" n="12"/>retur mutuo: sed hoc est inconveniens in republica.
+  </p>
+      <p xml:id="jMqv4a-d1e772-d1e341">
+   ⁋ In 
+   <lb ed="#B" n="13"/>super permittuntur meretrices viuere in vrbe ne dete 
+   <lb ed="#B" n="14"/>rius contingat. vnde <name xml:id="jMqv4a-d1e772-Nd1e347" ref="#Augustine">Augustini</name> in sermone de ordine 
+   <lb ed="#B" n="15"/>Aufer meretrices de rebus humanis: &amp; omnia libidi 
+   <lb ed="#B" n="16"/>nibus parturbabis.
+  </p>
+      <p xml:id="jMqv4a-d1e772-d1e355">
+   ⁋ Ad primum negatur sequela. mu 
+   <lb ed="#B" n="17"/>ti enim iam gratis dant mutuo. &amp; esto vni sit lucrum
+   tem<lb ed="#B" n="18" break="no"/>porale: tamen toti reipublicae est inutile: &amp; aliquibus ge 
+   <lb ed="#B" n="19"/>neribus hominium obest habere mutuo. nam si vir sit pru 
+   <lb ed="#B" n="20"/>dens: aliam viam quam accipiendi ad vsuram adinueniet. 
+  </p>
+      <p xml:id="jMqv4a-d1e772-d1e366">
+       <lb ed="#B" n="21"/>⁋ Ad secundum argumentum dicitur quod non est simile: 
+   <lb ed="#B" n="22"/>quia sicut arguendo dicitur / prudentes legum latores ali 
+   <lb ed="#B" n="23"/>qua peccata minora tolerant ne deteriora in repu 
+   <lb ed="#B" n="24"/>blica contingant. visa enim hominium procliuitate ad libidi 
+   <lb ed="#B" n="25"/>nem: si non tolerarentur meretrices: adulteria, incestus 
+   <lb ed="#B" n="26"/>stupra, &amp; deteriora contingerent &amp; crebro homici 
+   <lb ed="#B" n="27"/>dia, non sic est in alio.
+  </p>
+      <p xml:id="jMqv4a-d1e772-d1e384">
+   ⁋ Sed forte dicis. prudentes 
+   <lb ed="#B" n="28"/>&amp; circumspecti viri meretrices ab vrbe fugant: quia 
+   <lb ed="#B" n="29"/>nolunt quod prope suas domos maneant. ergo qua rationi 
+   <lb ed="#B" n="30"/>possunt eas eijcere ab vno vico: possut eas eijcere 
+   <lb ed="#B" n="31"/>ab alio &amp; a tota vrbe. Insuper verbi diuini decla 
+   <lb ed="#B" n="32"/>matores reprobant eos qui eis locant domos. &amp; tamen 
+   <lb ed="#B" n="33"/>si in vrbe maneant: oportet habeant domos.
+   Prae<lb ed="#B" n="34" break="no"/>terea verbi diuini buccinator contra foeditatem 
+   <lb ed="#B" n="35"/>carnis praedicat: &amp; tales mulieres ad castitatem allicit: 
+   <lb ed="#B" n="36"/>vt Parisiis videmus iam de magno numero filiarum 
+   <lb ed="#B" n="37"/>poenitentum.
+  </p>
+      <p xml:id="jMqv4a-d1e772-d1e408">
+   ⁋ Respondetur negando quod circumspecti viri 
+   <lb ed="#B" n="38"/>omnes a magna vrbe eijciunt: bene autem a locis
+   ho<lb ed="#B" n="39" break="no"/>nestis vrbis &amp; ab aliorum consortio, ad loca infamia 
+   <lb ed="#B" n="40"/>&amp; vilissima totius vrbis. Ad secundum. potest fieri quod
+   in<lb ed="#B" n="41" break="no"/>locis praedictis eis domos locantes non peccent. Se 
+   <lb ed="#B" n="42"/>cundo dico quod forma arguendi nihil valet: suppo 
+   <lb ed="#B" n="43"/>sita enim malitia hominum necesse est vt scanda 
+   <lb ed="#B" n="44"/>la veniant: sed ve illi per quem scandala veniunt. 
+   <lb ed="#B" n="45"/>Ad tertium dicitur quod concionator bene agit: &amp;
+   quam<lb ed="#B" n="46" break="no"/>uis multas ad castitatem trahat: manebunt impu 
+   <lb ed="#B" n="47"/>dentes &amp; malae in sua foeditate: &amp; cohibet ne mul 
+   <lb ed="#B" n="48"/>titudo praeceps ruat in libidinem. Sed replicas:
+   ver<lb ed="#B" n="49" break="no"/>bi diuini declamatores possunt omnes meretrices 
+   <lb ed="#B" n="50"/>ad castitatem allicere &amp; impedire ne sint meretrices 
+   <lb ed="#B" n="51"/>in magna vrbe communes: &amp; hoc est eas pellere 
+   <lb ed="#B" n="52"/>seu fugare ex magna vrbe: quia hoc est facere qui 
+   <lb ed="#B" n="53"/>nullae tales in magna vibe vigeant. lam respondi 
+   <lb ed="#B" n="54"/>praedicent quantum voluerit: nunquam magnam vr 
+   <!--0321.xml-->
+   <cb ed="#B" n="b"/> 
+       <!-- 145-r b -->
+       <lb ed="#B" n="55"/>bem a tali lolio &amp; sentina purgabunt. licet enim
+   tri<lb ed="#B" n="56" break="no"/>ticum purum seminaueris: lolium cum tritico
+   pro<lb ed="#B" n="57" break="no"/>tinus in manipulis messis inuenies. Nec oportet 
+   <lb ed="#B" n="58"/>theologum insistere casibus possibilibus logice lo 
+   <lb ed="#B" n="59"/>quendo: sed his qui contingunt. propterea non 
+   <lb ed="#B" n="60"/>respondeo aliter ad formam nisi concludendo quod 
+   <lb ed="#B" n="61"/>audacter praedicet concionator castitatem efferen 
+   <lb ed="#B" n="62"/>do: luxum detestando quantum poterit. eius enim 
+   <lb ed="#B" n="63"/>non est ad aliud in politia habere oculum.
+  </p>
+    </div>
+   </body>
+  </text>
+</TEI>

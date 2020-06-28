@@ -1,0 +1,836 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 3</title>
+      <author ref="#JohnMair">John Mair</author>
+      <respStmt>
+       <name>Jeffrey C. Witt</name>
+       <resp>TEI Encoder</resp>
+      </respStmt>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 3</title>
+       <date when="2020-06-09">June 27, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="B" n="cod-Bda113">Badius 1516</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+     guidelines for a diplomatic edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-06-27" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+      <pb ed="#B" n="6-r"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="jMqv4a-d1e2818"> <!-- l4prolq3 -->
+      <head xml:id="jMqv4a-d1e2818-Hd1e104">Quaestio 3</head>
+      <head xml:id="jMqv4a-d1e2818-Hd1e107" type="question-title"/>
+      <p xml:id="jMqv4a-d1e2818-d1e109">
+   <!--0043.xml-->
+       <pb ed="#B" n="6-r"/>
+       <cb ed="#B" n="a"/>
+       <lb ed="#B" n="1"/>TErtio circa hunc
+   Pro<lb ed="#B" n="2" break="no"/>ogum ( quia propter vnius
+   argu<lb ed="#B" n="3" break="no"/>meti solutionem, quod potius est 
+   <lb ed="#B" n="4"/>credendum maiori multitudini 
+   <lb ed="#B" n="5"/>quam pauciori: videtur potius esse 
+   <lb ed="#B" n="6"/>credendum Mahumetanis quam 
+   <lb ed="#B" n="7"/>Christianis: et per consequens 
+   <lb ed="#B" n="8"/>aliquis neuter ad fidem aliquam veram venire deside 
+   <lb ed="#B" n="9"/>rans potius debet eorum societatem inire quam nostram. 
+   <lb ed="#B" n="10"/>Quaeritur talis titulus quaestionis: an semper sit creden 
+   <lb ed="#B" n="11"/>dum maiori multitudini. Quaesita est haec quistio: quia 
+   <lb ed="#B" n="12"/>secundum <name xml:id="jMqv4a-d1e2818-Nd1e143" ref="#Augustine">Augustinum</name> in de doctrina Christiana, bo 
+   <lb ed="#B" n="13"/>num est vt quicquid contradici potest si occurreret re 
+   <lb ed="#B" n="14"/>futetur: ne ibi occurrat vbi non erit qui respondeat:  
+   <lb ed="#B" n="15"/>aut praesenti quidem &amp; tacenti occurrat: &amp; minus
+   sana<lb ed="#B" n="16" break="no"/>tus abscedat. Etiam in quaestione praecedenti cuilibe 
+   <lb ed="#B" n="17"/>haec obiectio occurreret: &amp; ne quaestio in immensum 
+   <lb ed="#B" n="18"/>turgeret, argumentum distulimus. 
+  </p>
+      <p xml:id="jMqv4a-d1e2818-d1e160">
+       <lb ed="#B" n="19"/>⁋ Pro solutione quaestionis pono ali 
+   <lb ed="#B" n="20"/>quas conclusiones. quarum Prima est. Non est
+   prae<lb ed="#B" n="21" break="no"/>standa semper maiori multitudini maior fides quam pau 
+   <lb ed="#B" n="22"/>ciori. Patet. plus credendum est viginti literatis vi 
+   <lb ed="#B" n="23"/>ris in materiis ancipitibus: quam centum &amp; mille plebeis 
+   <lb ed="#B" n="24"/>qui literas paucas vel nullas nouerunt: vt quilibet 
+   <lb ed="#B" n="25"/>nouit. Secundo probatur. plus credendum erat paucis he 
+   <lb ed="#B" n="26"/>braeis veram legem habentibus: vt Mahumetani conceden 
+   <lb ed="#B" n="27"/>rent: quam omnibus idololatris qui erant in maiori numero: 
+   <lb ed="#B" n="28"/>quia secundum Ecclesiastem Stultorum infinitus est nu 
+   <lb ed="#B" n="29"/>merus. Et. iii. Topicorum. Homines vt in pluribus 
+   <lb ed="#B" n="30"/>sunt mali. ergo multorum illiteratorum testimonium 
+   <lb ed="#B" n="31"/>paucorum prudentum testimonio non est praeferendum 
+  </p>
+      <p xml:id="jMqv4a-d1e2818-d1e192">
+       <lb ed="#B" n="32"/>⁋ Secunda conclusio. Fides catholica 
+   <lb ed="#B" n="33"/>habet motiua sufficientissima &amp; irrefragabilia etiam 
+   <lb ed="#B" n="34"/>in lumine naturali nota gentili si consideret, &amp; se ad 
+   <lb ed="#B" n="35"/>credendum disponat: quod ipsa est vera &amp; solida. probali 
+   <lb ed="#B" n="36"/>haec conclusio. Omnis ritus ille qui sola virtute diuina 
+   <lb ed="#B" n="37"/>initium sumpsit: &amp; eadem virtute coaluit: habet moti 
+   <lb ed="#B" n="38"/>ua sufficientissima quod ipse est verus &amp; solidus: sed sic 
+   <lb ed="#B" n="39"/>est de fide christiana: igitur. consequentia patet cum ma 
+   <lb ed="#B" n="40"/>iore. Probatur minor. si aliqua virtute habuit initium 
+   <lb ed="#B" n="41"/>&amp; non humana: de angelica loqui nen oportet: ergo opor 
+   <lb ed="#B" n="42"/>tet quod diuina. quod non humana patet, nec per arma: nec 
+   <lb ed="#B" n="43"/>per eloquantiam: nec ex parte obiecti voluptates &amp; opta 
+   <lb ed="#B" n="44"/>bilia suadentis: sed diligere inimicos: dare gena
+   per<lb ed="#B" n="45" break="no"/>cutienti: omnia pauperibus erogare: quae nec Demosthenes 
+   <lb ed="#B" n="46"/>nec Tullius suasisset vnqui. &amp; illae sunt potissimae vit 
+   <lb ed="#B" n="47"/>humanae ad homines in aliquam sententiam alliciendos. Pri 
+   <lb ed="#B" n="48"/>mum patet. quia martyres non resistebant contra pugnam 
+   <lb ed="#B" n="49"/>do qui fidem taquam dei ministri plantabant. Secundum patet 
+   <lb ed="#B" n="50"/>primae ad Corinthios. ii. vbi dicit apostolus. Sermo 
+   <!--0043.xml-->
+   <cb ed="#B" n="b"/> 
+       <!-- 6-r b -->
+       <lb ed="#B" n="51"/>meus &amp; praedicatio mea non est in persuasibilibus humanam 
+   <lb ed="#B" n="52"/>sapientiae verbis: sed in ostensione spiritus &amp; virtutis: vi 
+   <lb ed="#B" n="53"/>fides vetia non sit in sapientia hominium sed in virtute
+   dei<lb ed="#B" n="54" break="no"/>Sed dices, nunc capis nota in fide: &amp; non procedis in
+   lu<lb ed="#B" n="55" break="no"/>mine naturali contra intentum. hoc patet de apostolis pisca 
+   <lb ed="#B" n="56"/>toribus viris imperitis omnibus liguis loquentibus. ista ei 
+   <lb ed="#B" n="57"/>sunt nota per infidelium annales.
+  </p>
+      <p xml:id="jMqv4a-d1e2818-d1e257">
+   ⁋ Secundo arguitur ad 
+   <lb ed="#B" n="58"/>eandem minorem: quia in ipsa est pondus totius conclusionis 
+   <lb ed="#B" n="59"/>solis miraculis lex grae plantata est. patet, non per
+   ar<lb ed="#B" n="60" break="no"/>ma vel eloquentiam vel per sapientes mundana sapientia 
+   <lb ed="#B" n="61"/>vt in ratione priori diximus / nec datur aliud medium: vel 
+   <lb ed="#B" n="62"/>quaero de illo imaginabili. Si neges miraculis
+   fi<lb ed="#B" n="63" break="no"/>dem fuisse plantatam: infero sicut beatus <name xml:id="jMqv4a-d1e2818-Nd1e272" ref="#Augustine">Augustinus</name>. xxii. 
+   <lb ed="#B" n="64"/>de ciui. dei. ca. v. arguit: grande est miraculum: quod
+   to<lb ed="#B" n="65" break="no"/>tus mundus sine vllo miraculo credidit hominibus
+   illi<lb ed="#B" n="66" break="no"/>teratis, difficilia contra omnes ritus patrios suadentibus. 
+  </p>
+      <p xml:id="jMqv4a-d1e2818-d1e282">
+       <lb ed="#B" n="67"/>⁋ Tertio probatur illa minor. impossibile est vni puae 
+   <lb ed="#B" n="68"/>multitudini ineruditae sine numine diuino &amp; mi 
+   <lb ed="#B" n="69"/>raculis fundare ritum alienum &amp; difficilem, carni
+   repu<lb ed="#B" n="70" break="no"/>gnantem: &amp; ad se trahere tam potentes reges &amp;
+   truculen<lb ed="#B" n="71" break="no"/>tos tyrannos quam sapientes. sed sic est quod pua multitu 
+   <lb ed="#B" n="72"/>do discipulorum Christi ita fecit: igitur. Maior patet. 
+   <lb ed="#B" n="73"/>quia dato opposito pauci idiotae nunc possent totum 
+   <lb ed="#B" n="74"/>mundum sine motiuo ad suam sectam attrahere contra 
+   <lb ed="#B" n="75"/>experientiam. minor est nota ex historiis. Item quaeritur 
+   <lb ed="#B" n="76"/>abs te: qua via initium habuit nostra fides: &amp; dicere non 
+   <lb ed="#B" n="77"/>potes aliter. Si dicas. Constantinus &amp; Romani
+   impa<lb ed="#B" n="78" break="no"/>tores susceperunt fidem: &amp; sic coegerunt homines armis 
+   <lb ed="#B" n="79"/>eam suscipere. Contra hoc arguitur. plurimi iam
+   praecesse<lb ed="#B" n="80" break="no"/>rant martyres: &amp; fides erat roborata sic quod
+   Roma<lb ed="#B" n="81" break="no"/>ni imperatores eam extinguere non poterant: quamuis 
+   <lb ed="#B" n="82"/>omnes vires ad hoc adhibuerit: vt notum est. Secundo 
+   <lb ed="#B" n="83"/>quod Romani imperatores &amp; reliqui principes &amp; sapien 
+   <lb ed="#B" n="84"/>tes religionem christianam susceperit sine miraculo: 
+   <lb ed="#B" n="85"/>hoc est inopinabile: &amp; virtualiter miraculum ma 
+   <lb ed="#B" n="86"/>ius quam inducere intendimus.
+  </p>
+      <p xml:id="jMqv4a-d1e2818-d1e328">
+   ⁋ Quarto probatur 
+   <lb ed="#B" n="87"/>illa minor. Impossibile est vni paruae
+   multitudi<lb ed="#B" n="88" break="no"/>ni sine miraculo eradicare putatos deos gentium 
+   <lb ed="#B" n="89"/>quos eius patres coluerunt tot saeculis, &amp; filium 
+   <lb ed="#B" n="90"/>a patre separare: sed ita fecerunt discipuli Christi 
+   <lb ed="#B" n="91"/>vel quaeritur qui hoc fecerunt. Si dicas, solus Cl ri 
+   <lb ed="#B" n="92"/>stus: habeo intertum. discipuli enim nihil nisi in  
+   <lb ed="#B" n="93"/>eius virtute fecerunt.
+  </p>
+      <p xml:id="jMqv4a-d1e2818-d1e346">
+   ⁋ Quinto arguitur.
+   Impos<lb ed="#B" n="94" break="no"/>sibile est vni paruae multitudini praedicando con 
+   <lb ed="#B" n="95"/>tra totum mundum ipsum inducere ad inimicos 
+   <lb ed="#B" n="96"/>diligendos &amp; ad multa alia difficilia legis ex
+   par<lb ed="#B" n="97" break="no"/>te obiecti in praeceptis &amp; consiliis sine numine di 
+   <lb ed="#B" n="98"/>uino: sed tamen ita fecerunt discipuli Christi me 
+   <lb ed="#B" n="99"/>diate vel immediate, quando Euro pam, Asiam, &amp; 
+   <lb ed="#B" n="100"/>Africam ad fidem conuerterunt.
+  </p>
+      <p xml:id="jMqv4a-d1e2818-d1e364">
+   ⁋ Sexto. inopinabus 
+   <lb ed="#B" n="101"/>le est quod fidem nostram praedicantes noti illiterati 
+   <lb ed="#B" n="102"/>in sermone tam constanter mortem pro ea omnes
+   vna<lb ed="#B" n="103" break="no"/>nimiter expectarent intrepide sine dei ope peculia 
+   <lb ed="#B" n="104"/>ri: sed tales erant apostoli. ibant enim apostoli gaudentes a cori 
+   <lb ed="#B" n="105"/>spectu concilii, quoniam digni habiti sunt pro nomine 
+   <!--0044.xml-->
+   <pb ed="#B" n="6-v"/>
+       <cb ed="#B" n="a"/>
+       <lb ed="#B" n="1"/>Iesu contumeliam pati.
+  </p>
+      <p xml:id="jMqv4a-d1e2818-d1e387">
+   ⁋ Septimo. quomodo est
+   opi<lb ed="#B" n="2" break="no"/>nabile quod sine miraculo pauci inopes omnia terrena 
+   <lb ed="#B" n="3"/>conculcates eruditissimos ad se traherent? &amp; tamen ita 
+   <lb ed="#B" n="4"/>fecerunt colunnae ecclesiae: vt Paulum &amp; Apollo: &amp; 
+   <lb ed="#B" n="5"/>Paulus Dionysium Areopagitam &amp; Hierotheum
+   na<lb ed="#B" n="6" break="no"/>turalibus relictis ad fidem couertit.
+  </p>
+      <p xml:id="jMqv4a-d1e2818-d1e400">
+   ⁋ Octauo
+   argui<lb ed="#B" n="7" break="no"/>tur. inopinabile est in lumine naturali quod literati &amp; 
+   <lb ed="#B" n="8"/>simplices illiterati passim se ad mortem pro fide Chri 
+   <lb ed="#B" n="9"/>sti morte turpissima traderent: nisi scirent eam
+   fuis<lb ed="#B" n="10" break="no"/>se diuinitus missam. quae vtilitas aliter eis fuisset 
+   <lb ed="#B" n="11"/>sed innumeri heroici ntri ita fecerunt. Mahumetani 
+   <lb ed="#B" n="12"/>autem &amp; Tartari solo ferro dimicant: sed nihil tale sui 
+   <lb ed="#B" n="13"/>tinerent. hoc vafer Mahumetus praeuidens: quod in simi 
+   <lb ed="#B" n="14"/>li casu retrocederent: dedit suis facultatem suam sectam 
+   <lb ed="#B" n="15"/>verbo negandi. Vnde lustinus philosophus &amp;
+   fa<lb ed="#B" n="16" break="no"/>matus in libro: quem ad Antoninum imperatorem 
+   <lb ed="#B" n="17"/>pro nostra religione scripsit: sic inquit: Ego ipse 
+   <lb ed="#B" n="18"/>sectis Platonicis institutus audiens vituperari chri 
+   <lb ed="#B" n="19"/>stianos, aut videns eos impauidos ad
+   suscipien<lb ed="#B" n="20" break="no"/>dam mortem, atque omne supplicium tolerandum: com 
+   <lb ed="#B" n="21"/>siderabam quod impossibile esset eos in malitia &amp; in libi 
+   <lb ed="#B" n="22"/>dine conuersari. Comquestus est Plinius Secundus 
+   <lb ed="#B" n="23"/>in epistola ad Traianum quod coetus christianorum
+   truciden<lb ed="#B" n="24" break="no"/>tur: qui nil praeter Romanorum legem agant nisi quod an 
+   <lb ed="#B" n="25"/>telucanos hymnos canant Christo cuidam deo: ad 
+   <lb ed="#B" n="26"/>conferendam vero disciplinam vetent homicidia, 
+   <lb ed="#B" n="27"/>furta, adulteria, latrocinia, &amp; his similia. Rescripsit 
+   <lb ed="#B" n="28"/>autem Traianus christianos inquirendos quidem 
+   <lb ed="#B" n="29"/>non esse: oblatos vero puniri oportere. Cuius sen 
+   <lb ed="#B" n="30"/>tentiam erudite Tertullianus confutauit inquiens. Ni 
+   <lb ed="#B" n="31"/>gat inquirendos vt innocentes: &amp; mandat punir 
+   <lb ed="#B" n="32"/>vt nocentes. Sic Serenus grauius in epistola ad 
+   <lb ed="#B" n="33"/>Hadrianum. vnde Hadrianus scribit ad Minutium Fum 
+   <lb ed="#B" n="34"/>danum proconsulem Asiae ne permitteret christianos 
+   <lb ed="#B" n="35"/>innoxios homines perturbari: calumniatoribus illorum
+   oc<lb ed="#B" n="36" break="no"/>casione latrocinia concedi. hanc epistolam Hadria 
+   <lb ed="#B" n="37"/>ni integram Eusebius recitat. in Tertulliano aliorum 
+   <lb ed="#B" n="38"/>imperatorum epistolas videre potes: in quibus prohibe 
+   <lb ed="#B" n="39"/>bant christianis nocere. vt Marci &amp; Antonini
+   ro<lb ed="#B" n="40" break="no"/>gatu sapientum qui hoc impratoribus significarunt. Sue 
+   <lb ed="#B" n="41"/>tonius tamen recitat christianos a Nerone fuisse
+   affli<lb ed="#B" n="42" break="no"/>ctos: ob hoc duntaxat quod nouam religionem introduce 
+   <lb ed="#B" n="43"/>rent: &amp; vt ipse ait, maleficam. i. magica. quia enim non po 
+   <lb ed="#B" n="44"/>terant refellere naturaliter christianorum miracula: id 
+   <lb ed="#B" n="45"/>circo insensati ad magiam convertebant. sed istud faci 
+   <lb ed="#B" n="46"/>le eliditur. magorum enim nulli cateruatim cum
+   discipli<lb ed="#B" n="47" break="no"/>nis suis intrepide &amp; alacriter mortem pro magia
+   pate<lb ed="#B" n="48" break="no"/>rentur: nec studiosam vitam bonis fortunae spretis sic 
+   <lb ed="#B" n="49"/>continuare possunt: nec totum &amp; vniuersum orben 
+   <lb ed="#B" n="50"/>ad se convertere.
+  </p>
+      <p xml:id="jMqv4a-d1e2818-d1e498">
+   ⁋ Secundo arguitur ad conclusionem 
+   <lb ed="#B" n="51"/>principaliter: &amp; est ad ludaeos &amp; Mahumetanos con 
+   <lb ed="#B" n="52"/>futandos: contra gentiles enim idololatras non erit tam 
+   <lb ed="#B" n="53"/>tum coloris. ludaei habebant veram fidem pro tempore legi: 
+   <lb ed="#B" n="54"/>Mosaicae. hoc illi concedunt: sed fides nostra sequi 
+   <lb ed="#B" n="55"/>ex contentis in lege Mosaica tanquam conclusio ex 
+   <!--0044.xml-->
+   <cb ed="#B" n="b"/> 
+       <!-- 6-v b -->
+       <lb ed="#B" n="56"/>raemissis: puta haec conclusio quod Christus est messias in 
+   <lb ed="#B" n="57"/>lege promissus: qua habita omnia alia per consequentiam in  
+   <lb ed="#B" n="58"/>feruntur: ita quod sine dyscolia vel proteruia vix euade 
+   <lb ed="#B" n="59"/>re potest ingeniosissimus hebraeus: secundum verbum 
+   <lb ed="#B" n="60"/>Christi Ioannis. v. Scrutamini scripturas: quia vos 
+   <lb ed="#B" n="61"/>putatis in ipsis vitam aeternam habere: &amp; illae sunt quae 
+   <lb ed="#B" n="62"/>testimonium perhibent de me. sed hoc vt pro nunc super 
+   <lb ed="#B" n="63"/>ponitur, ab aliis sufficienter ostenditur: &amp; de hoc malo 
+   <lb ed="#B" n="64"/>pro nunc tacere quam parum de materia loqui. Dicis
+   si<lb ed="#B" n="65" break="no"/>cut Mahumetani. Hebraei corruperunt vetus
+   testa<lb ed="#B" n="66" break="no"/>mentum &amp; etiam nos: sed in solo Alcorano habetur 
+   <lb ed="#B" n="67"/>verus intellectus legis diuinae. hoc omni probabilita 
+   <lb ed="#B" n="68"/>te caret: quod scilicet gens Hebraea nobis inimicissima ad 
+   <lb ed="#B" n="69"/>nostram vtilitatem sua spote hoc faceret. ergo
+   no<lb ed="#B" n="70" break="no"/>tum est: quod est vna erronea fictio illius
+   pseudopro<lb ed="#B" n="71" break="no"/>phetae Mahumeti &amp; inopinabilis cuique sapienti 
+   <lb ed="#B" n="72"/>Praeterea ex dictis Mahumeti sequitur intentum. 
+   <lb ed="#B" n="73"/>nam ipse in Alcorano dicit Christum fuisse summum 
+   <lb ed="#B" n="74"/>prophetarum &amp; spiritum dei: flatum dei: propriam dei ani 
+   <lb ed="#B" n="75"/>mam: virtutem dei: verbum dei afflante deo ex virgi 
+   <lb ed="#B" n="76"/>ne perpetua natum, eum appellat. &amp; dicit quod pro morte 
+   <lb ed="#B" n="77"/>qua ludaei Christo conati sunt inferre, sunt in hac 
+   <lb ed="#B" n="78"/>miseria &amp; calamitate. Dicit praeterea quod apostoli &amp; euan 
+   <lb ed="#B" n="79"/>gelistae &amp; illi primi Christiani fuerunt optimi viri: &amp; 
+   <lb ed="#B" n="80"/>vera scripserunt: sed non tenuerunt Christum deum: 
+   <lb ed="#B" n="81"/>nec tres personas in diuinis: sed posteriores hoc ad  
+   <lb ed="#B" n="82"/>diderunt. Facile quisque hunc eius errorem deprehen 
+   <lb ed="#B" n="83"/>det. difficile enim falsum cum falso cohaeret. Hoc nam 
+   <lb ed="#B" n="84"/>quod omni probabilitate caret. Tum primo: quod tot libri 
+   <lb ed="#B" n="85"/>per omnes partes orbis essent vniformiter
+   corru<lb ed="#B" n="86" break="no"/>pti, non est verisimile: cum omnes conveniant. Tum se 
+   <lb ed="#B" n="87"/>cundo. christiana religio semper habuit viros
+   litera<lb ed="#B" n="88" break="no"/>tissimos &amp; diuinorum studiosissimos &amp; probos: qui fa 
+   <lb ed="#B" n="89"/>cile illud deprehendissent: &amp; nunquam legem dei muta 
+   <lb ed="#B" n="90"/>re temtassent. Tum tertio. attentassent ex additis ali 
+   <lb ed="#B" n="91"/>quid quod suam fidem suscipiendam omnino impediuis 
+   <lb ed="#B" n="92"/>set: &amp; in nullam vtilitatem spiritualem vel temporalem eis cessi 
+   <lb ed="#B" n="93"/>set: &amp; sic fuissent imprudentissimi: &amp; nullos vnquam com 
+   <lb ed="#B" n="94"/>uertissent. cuius oppositum patet omnibus.
+  </p>
+      <p xml:id="jMqv4a-d1e2818-d1e602">
+   ⁋ Tertio 
+   <lb ed="#B" n="95"/>arguitur principaliter ad conclusionem. ludaei habue 
+   <lb ed="#B" n="96"/>runt veram fidem ex qua ostendi potest quod deus 
+   <lb ed="#B" n="97"/>erat aliam legem daturus: vt patebit paulo inferi 
+   <lb ed="#B" n="98"/>us in legalium cessatione: sed sunt abiecti: abomina 
+   <lb ed="#B" n="99"/>biles: &amp; nullam sedem pacificam habentes: ne cre 
+   <lb ed="#B" n="100"/>dantur a christianis sub vmbra veteris legis esse 
+   <lb ed="#B" n="101"/>in saluo statu. Mahumetani autem scripturam nul 
+   <lb ed="#B" n="102"/>lam ne dicam authenticam: nec apparentem
+   ha<lb ed="#B" n="103" break="no"/>bent: sed aliqua vera Bibliae: quae Hebraei &amp; nos habe 
+   <lb ed="#B" n="104"/>mus, cum multis aliis delitiis a Mahumeto addi 
+   <lb ed="#B" n="105"/>tis: vt apud nostros Varros videre potes: qui illa 
+   <lb ed="#B" n="106"/>manifeste ostenderunt per rebellionem a Romano 
+   <lb ed="#B" n="107"/>imperio aliis ab eodem discedentibus. Per hunc enim 
+   <lb ed="#B" n="108"/>vafrum Mahumetum initium secta erronea ad 
+   <lb ed="#B" n="109"/>cepit vt notissimum est, quam cum in bello &amp; dolo multa 
+   <lb ed="#B" n="110"/>perpetrasset, se rudi &amp; agresti populo gratum videns, quam 
+   <!--0045.xml-->
+   <pb ed="#B" n="7-r"/>
+       <cb ed="#B" n="a"/>
+       <lb ed="#B" n="1"/>busdam vaframentis instigante diabolo
+   excogita<lb ed="#B" n="2" break="no"/>uit se asserere prophetam dei &amp; legis datorem: in qua 
+   <lb ed="#B" n="3"/>corporis voluptates foedas ab omni philosopho 
+   <lb ed="#B" n="4"/>vetitas admisit: vt homines ad tales procliues fa 
+   <lb ed="#B" n="5"/>cile alliceret. Tartaris autem &amp; aliis multo minor est 
+   <lb ed="#B" n="6"/>apparentia. Nos vero scripturam veterem pro nobis ha 
+   <lb ed="#B" n="7"/>bemus incorruptam apud omnem intellectum rationa 
+   <lb ed="#B" n="8"/>bilissimam: ex qua lex noua educitur: &amp; maximam
+   sa<lb ed="#B" n="9" break="no"/>pientum multitudinem circa legem dei vacantem &amp; 
+   <lb ed="#B" n="10"/>eam exponentem. Mahumetus autem prohibuit exponi suum 
+   <lb ed="#B" n="11"/>Alcoranum: vel literis vacare: ne docti sua
+   delita<lb ed="#B" n="12" break="no"/>menta deprehenderent.
+  </p>
+      <p xml:id="jMqv4a-d1e2818-d1e672">
+   ⁋ Si <name xml:id="jMqv4a-d1e2818-Nd1e674" ref="#Aristotle">Aristoteles</name> staret
+   subdu<lb ed="#B" n="13" break="no"/>bius vel alius gentilis ingeniosus ad quem ritum 
+   <lb ed="#B" n="14"/>se conuerteret, sciens quod vni teneretur assentire, nesci 
+   <lb ed="#B" n="15"/>us tamen cui: ad hunc convertendum sic arguo: &amp; est quar 
+   <lb ed="#B" n="16"/>tum argumentum ad conclusionem. Ritus christia 
+   <lb ed="#B" n="17"/>norum, Mahumetistarum modum viuendi ad sexcen 
+   <lb ed="#B" n="18"/>tos annos praecessit: &amp; adhuc illibate perdurat: in quo 
+   <lb ed="#B" n="19"/>ingeniosos probos &amp; eruditos viros habebis: qui de 
+   <lb ed="#B" n="20"/>singulis in lege contentis rationem reddent: quae quidem 
+   <lb ed="#B" n="21"/>lex vitia omnia rigidius quam tu ipse in Ethicis, damnati 
+   <lb ed="#B" n="22"/>&amp; virtutes ad astra effert: ad quem sine armis &amp; hu 
+   <lb ed="#B" n="23"/>mana sapientia rudes viri &amp; simplices, tibi similes 
+   <lb ed="#B" n="24"/>innumeros traxerunt. Ex opposito, haec secta Ma 
+   <lb ed="#B" n="25"/>humetanorum nostra lege posterior spurca
+   vi<lb ed="#B" n="26" break="no"/>tia admittit: &amp; beatitudinem in corporis volupta 
+   <lb ed="#B" n="27"/>te ponit: a qua tu in Ethicis fugiendum dicis: sicu 
+   <lb ed="#B" n="28"/>senes Troianorum dixerunt ab Helena. Quod Aui 
+   <lb ed="#B" n="29"/>cenna philosophus nono suae metaphysicae. ca. vii. in illa 
+   <lb ed="#B" n="30"/>secta natus abhorret. Amplius, Christus nobis hanc 
+   <lb ed="#B" n="31"/>egem dedit: vt alii confitentur omnes. Addo aliam pro 
+   <lb ed="#B" n="32"/>positionem losephi. xviii. libro Antiqutatum. cap. v. 
+   <lb ed="#B" n="33"/>Totum caput ponam: quia ipsum est breue. Sic in  
+   <lb ed="#B" n="34"/>quit. Fuit autem iisdem temporibus Iesus vir
+   sapi<lb ed="#B" n="35" break="no"/>ens: si tamen virum eum nominare fas est. Erat enim
+   mirabi<lb ed="#B" n="36" break="no"/>lium operum effector: &amp; doctor hominium eorum qui li 
+   <lb ed="#B" n="37"/>benter qui vera sunt audiunt: &amp; multos quidem ludaeorum 
+   <lb ed="#B" n="38"/>multos etiam ex gentibus sibi adiunxit. Christus hic 
+   <lb ed="#B" n="39"/>erat. Hunc accusatione primorum nostrae gentis virorum 
+   <lb ed="#B" n="40"/>cum Pilatus in crucem agendum esse decreuisset, non  
+   <lb ed="#B" n="41"/>deseruerunt hi qui ab initio eum dilexerunt.
+   ap<lb ed="#B" n="42" break="no"/>paruit eis tertio die iterum viuens: secundum quod
+   di<lb ed="#B" n="43" break="no"/>uinitus inspirati prophetae vel haec vel alia de eo
+   in<lb ed="#B" n="44" break="no"/>numera miracula esse futura praedixerant. Sed in  
+   <lb ed="#B" n="45"/>hodiernum diem Christianorum qui ab ipso
+   nuncupa<lb ed="#B" n="46" break="no"/>ti sunt &amp; nomen perseuerat &amp; genus. Ecce verba He 
+   <lb ed="#B" n="47"/>braei in lege Mosaica diem extremum claudentis.
+   Prae<lb ed="#B" n="48" break="no"/>terea magi venerunt ab oriente stella duce quaerentes 
+   <lb ed="#B" n="49"/>vbi est qui natus est rex ludaeorum: hoc est messias i 
+   <lb ed="#B" n="50"/>ege promissus. Et cum Herodes &amp; hierosolyma tur 
+   <lb ed="#B" n="51"/>barentur: quaestione facta ad scribas &amp; pharisaeos in li 
+   <lb ed="#B" n="52"/>ge peritos, responsionem dederunt de Bethleem ludae 
+   <lb ed="#B" n="53"/>Et cum impeditus esset Herodes: quia vocatus erat 
+   <lb ed="#B" n="54"/>ab impatore Romano, postea reuersus peremit 
+   <lb ed="#B" n="55"/>omnes infantes a bimatu &amp; infra nascendi tempora in  
+   <!--0045.xml-->
+   <cb ed="#B" n="b"/> 
+       <!-- 7-r b -->
+       <lb ed="#B" n="56"/>Bethleem ludae: &amp; in locis circumuicinis: ergo tunc
+   con<lb ed="#B" n="57" break="no"/>stans erat sapientum in lege fides de aduentu mes 
+   <lb ed="#B" n="58"/>siae: &amp; quod Christus erat messias. Sed cum fugisset in  
+   <lb ed="#B" n="59"/>Aegyptum inscio Herode: omnes paruulos iugulari 
+   <lb ed="#B" n="60"/>fecit: vt Christus non euaderet. At forte cogitas me 
+   <lb ed="#B" n="61"/>nunc probationem ex sacris literis sola fide credendis:  
+   <lb ed="#B" n="62"/>&amp; non aliunde adducere. Contra hoc arguo
+   dupli<lb ed="#B" n="63" break="no"/>citer. Tum primo. omino irrationabile est quod bea 
+   <lb ed="#B" n="64"/>tus Matthaeus illud factum Hebraeis recitaret ad pro 
+   <lb ed="#B" n="65"/>bandum eis quod Christus erat messias in lege
+   promii<lb ed="#B" n="66" break="no"/>sus: si factum eis non constitisset. Tum secundo  
+   <lb ed="#B" n="67"/>recitat Macrobius vir gentilis hoc facinus: quod cum 
+   <lb ed="#B" n="68"/>Augustus audisset cauillando dixit. mallem ee por 
+   <lb ed="#B" n="69"/>cus Herodis quam filius eius. quia sic perturbatus erat 
+   <lb ed="#B" n="70"/>vt proprium filiu inter reliquos occiderit. Opinione 
+   <lb ed="#B" n="71"/>mea motiua haec quemlibet non excaecatum in lumine 
+   <lb ed="#B" n="72"/>naturali incedentem ad fidem allicerent / instigarent / &amp; con 
+   <lb ed="#B" n="73"/>pelle: est. Concludendo hanc conclusionem addo verbum 
+   <lb ed="#B" n="74"/>conterranei Richardi de sancto Victore libro primo 
+   <lb ed="#B" n="75"/>de Trinitate. ca. ii. dicentis. Domine si est error, a 
+   <lb ed="#B" n="76"/>te decepti sumus. Nam tantis signis confirmata 
+   <lb ed="#B" n="77"/>sunt: quae non nisi per te fieri possuut. 
+  </p>
+      <p xml:id="jMqv4a-d1e2818-d1e825">
+       <lb ed="#B" n="78"/>⁋ Tertia conclusio. Quaelibet alia se 
+   <lb ed="#B" n="79"/>cta a religione christiana est erronea: &amp; in alia ma 
+   <lb ed="#B" n="80"/>nens est damnatus. patet Marci vltimo. Qui cre 
+   <lb ed="#B" n="81"/>diderit &amp; baptizatus fuerit saluus erit: qui vero non 
+   <lb ed="#B" n="82"/>crediderit codemnabitur. patet ista conclusio Matthaei 
+   <lb ed="#B" n="83"/>xii. Qui non est mecum contra me est: &amp; qui non
+   con<lb ed="#B" n="84" break="no"/>gregat mecum dispergit. patet etiam in symbolo 
+   <lb ed="#B" n="85"/>Athanasii. 
+  </p>
+      <p xml:id="jMqv4a-d1e2818-d1e846">
+       <lb ed="#B" n="86"/>⁋ His paucis probatis deuenio ad ar 
+   <lb ed="#B" n="87"/>gumentum: gratia cuius in hanc quaestionem
+   in<lb ed="#B" n="88" break="no"/>cidimus quod assentiendum est maiori multitudini 
+   <lb ed="#B" n="89"/>cui in prima conclusione huius quaestionis respon 
+   <lb ed="#B" n="90"/>dimus. Et pro maiore argumenti euacuatione ali 
+   <lb ed="#B" n="91"/>qua adhuc ponam. Clarum est quod tempore Moy 
+   <lb ed="#B" n="92"/>si &amp; ante eum plures erant infideles quam fideles.
+   Bea<lb ed="#B" n="93" break="no"/>tus <name xml:id="jMqv4a-d1e2818-Nd1e865" ref="#Jerome">Hieronymus</name> postquam locutus est de longitud 
+   <lb ed="#B" n="94"/>ne terrae promissionis in epistola ad Dardanum: de 
+   <lb ed="#B" n="95"/>longitudine tangens inter Dan &amp; Bersabeam: quae 
+   <lb ed="#B" n="96"/>vix continet centum &amp; sexaginta miliaria: non ta 
+   <lb ed="#B" n="97"/>tum quantum inter Ferrariam &amp; Romam. de latitudi 
+   <lb ed="#B" n="98"/>ne (inquit) pudet locui. &amp; tamen claret quod
+   Mahumeti<lb ed="#B" n="99" break="no"/>stae ipsi dicerent quod ludaei habebant verum deum: 
+   <lb ed="#B" n="100"/>&amp; alii opera manuum hominum. Sicut Psalmista 
+   <lb ed="#B" n="101"/>declarat psalmo. cxiii. ad longum. Nolo itaque
+   di<lb ed="#B" n="102" break="no"/>cere quod mille idiotarum testimonia praeferenda sint 
+   <lb ed="#B" n="103"/>iudicio trium: vel vnius prudentis. Etiam (vt ar 
+   <lb ed="#B" n="104"/>bitror) non minor est multitudo christianorum quam 
+   <lb ed="#B" n="105"/>quoruncumque cuiuscunque sectae. India tertia pars or 
+   <lb ed="#B" n="106"/>bis diu credita pro magna parte colit Christum: alii autem 
+   <lb ed="#B" n="107"/>non credentes sunt idololatrae. Magnus Cam Tar 
+   <lb ed="#B" n="108"/>tarorum est idololatra: &amp; sic sunt de nouo reperti vltra 
+   <!--0046.xml-->
+   <pb ed="#B" n="7-v"/>
+       <cb ed="#B" n="a"/>
+       <lb ed="#B" n="1"/>aequatorem, antarcticum versus. Non sunt Mahume 
+   <lb ed="#B" n="2"/>tistae nisi in pua Asia siue Turcia: Aphrica,
+   ma<lb ed="#B" n="3" break="no"/>re mediterraneum versus: Aegypto: triplici Arabia: 
+   <lb ed="#B" n="4"/>Perside: &amp; Syria: &amp; in Graecia: cuius partem nos
+   habe<lb ed="#B" n="5" break="no"/>mus: &amp; sub eis sunt plurimi christiani. plurimos 
+   <lb ed="#B" n="6"/>tamen habemus haereticos: quos non reputo tam malos qui 
+   <lb ed="#B" n="7"/>sunt Mahumetistae vel idololatrae: eandem enim partem 
+   <lb ed="#B" n="8"/>nobiscu caperent cotra quoscumque in praecipuis fidei:  
+   <lb ed="#B" n="9"/>nolo tamen eos excusarae quin grauiter delinquant. Eti 
+   <lb ed="#B" n="10"/>am concedo quod veri Malmaluci existimantes sicut 
+   <lb ed="#B" n="11"/>Mahumetistae sunt peiores eis propter relictam
+   fi<lb ed="#B" n="12" break="no"/>demsuscepta. voco veros Malmalucos eos qui 
+   <lb ed="#B" n="13"/>erant christiani adulti: sicut nati in Europa vel
+   In<lb ed="#B" n="14" break="no"/>dia: &amp; eorum paucissimi sunt. vix reperiuntur quinque: vt 
+   <lb ed="#B" n="15"/>a fide dignis accepi: in Cairo: vbi omnes Malmaluci 
+   <lb ed="#B" n="16"/>resident regulariter. In istis etiam sunt qui vnum oespedunt 
+   <lb ed="#B" n="17"/>exterius: aliud interius habent: vel a christianis
+   proscribun<lb ed="#B" n="18" break="no"/>tur: vel sunt homicidae viri Belial grauati aere
+   alie<lb ed="#B" n="19" break="no"/>no: vel homines perditi: qui eadem perfidia starent sub Pluto 
+   <lb ed="#B" n="20"/>ne in erebo: vt miseram vitam partranseant: qua sub
+   Sul<lb ed="#B" n="21" break="no"/>tano. Nimirum Chanaam fuit maledictus a None Ge 
+   <lb ed="#B" n="22"/>neseos. ix. Filii autem eius Aphricam: maiorem Aeguy 
+   <lb ed="#B" n="23"/>ptum &amp; omnem Arabiam in sortem ceperunt: vt
+   luci<lb ed="#B" n="24" break="no"/>dum est ex Geneseos decimo capite: &amp; glossa in  
+   <lb ed="#B" n="25"/>terlineari eiusdem. 
+  </p>
+      <p xml:id="jMqv4a-d1e2818-d1e962">
+       <lb ed="#B" n="26"/>⁋ Sed hic ex proposito quaeritur. Quomo 
+   <lb ed="#B" n="27"/>do ita diu perdurant Mahumetani? Respondet Paulus 
+   <lb ed="#B" n="28"/>Burgensis in quadam additione Apocalypsis. xiii. 
+   <lb ed="#B" n="29"/>de huius sectae durabilitate: ita quod in effectu vult di 
+   <lb ed="#B" n="30"/>cere quod nulla vna secta vnquam tatum durauit quantum 
+   <lb ed="#B" n="31"/>haec. Licet enim idololatria a diebus Nembroth: immo a 
+   <lb ed="#B" n="32"/>diebus Enos prout aliis placet inchoata ad Christum 
+   <lb ed="#B" n="33"/>vsque durauerit: tamen nulla vna secta idololatriae ita 
+   <lb ed="#B" n="34"/>diu mansit. victor enim nouum ritum colendi victis im 
+   <lb ed="#B" n="35"/>posuit: &amp; destruebat deos gentis deuictae. vnde Esaiae 
+   <lb ed="#B" n="36"/>xxxvi. Rapsaces in noine Sennacherib qui multas 
+   <lb ed="#B" n="37"/>gentes deuicerat: dicebat. Vbi sunt dii Ematis: &amp; ar 
+   <lb ed="#B" n="38"/>phat: &amp; vbi sunt dii Sepharnaim &amp;c. quasi
+   di<lb ed="#B" n="39" break="no"/>cat: quod sicut vicerat gentes illas: ita &amp; deos eorum. 
+   <lb ed="#B" n="40"/>Idololatria enim est nomen generale: &amp; sermo est de 
+   <lb ed="#B" n="41"/>hoc modo indololatriae vel illo. Et dat tres causas 
+   <lb ed="#B" n="42"/>Prima est. haec secta non est idololatica: nec cultum 
+   <lb ed="#B" n="43"/>idolorum publice in suo dominio permittit: sicut aliae 
+   <lb ed="#B" n="44"/>sectae praecedentes faciebant: modo inter omnia
+   pecca<lb ed="#B" n="45" break="no"/>ta quibus deus offenditur, peccatum idololatriae est 
+   <lb ed="#B" n="46"/>pessimum. Secundum in quo differt haec secta ab 
+   <lb ed="#B" n="47"/>aliis praecedentibus est: quia peccedentes cogebant fideles 
+   <lb ed="#B" n="48"/>ad orandum seu thurificadum idolis: isti autem non  
+   <lb ed="#B" n="49"/>cogunt directe: licet christianos multum damnent. 
+   <lb ed="#B" n="50"/>Prior pars. est nota de tribus pueris in camino
+   re<lb ed="#B" n="51" break="no"/>gis Babylonis positis. Danieles. iii. &amp; ex libris Ma 
+   <lb ed="#B" n="52"/>chabeorum, &amp; sanctorum vitis amplius patet. Secun 
+   <lb ed="#B" n="53"/>da pars patet: quia in Alcorano habetur quod cogunt 
+   <lb ed="#B" n="54"/>omnes ad suam sectam: vel ad soluendum tributa. mo- 
+   <!--0046.xml-->
+   <cb ed="#B" n="b"/> 
+       <!-- 7-v b -->
+       <lb ed="#B" n="55"/>do multi christiani viuunt sub eis soluentes tributa: 
+   <lb ed="#B" n="56"/>vt patet de religiosis in modote Sion: in Bethleem 
+   <lb ed="#B" n="57"/>ludae: in mote Sinai &amp; in Graecia. Tertia causa. re 
+   <lb ed="#B" n="58"/>liquae sectae Christum denigrant non modo in eo negantes 
+   <lb ed="#B" n="59"/>diuinitatem, sed eum praedicantes malum virum. isti autem
+   exi<lb ed="#B" n="60" break="no"/>mium prophetam ponunt: negant tamen in eo diuinitatem.
+  </p>
+      <p xml:id="jMqv4a-d1e2818-d1e1047">
+   ⁋ Con 
+   <lb ed="#B" n="61"/>tra has causas argumentor. Ipse istis tribus causis 
+   <lb ed="#B" n="62"/>nititur durabilitatem huius sectae erroneae protegere: sed  
+   <lb ed="#B" n="63"/>aliquam secta diutius durauit qui Mahumetica: cui ista 
+   <lb ed="#B" n="64"/>tria non competunt: ergo nihil dicit probatio minoris 
+   <lb ed="#B" n="65"/>de secta erronea ludaeorum liam mille quingentis annis 
+   <lb ed="#B" n="66"/>durante: quae pessime inter reliquos de Christo sentit: 
+   <lb ed="#B" n="67"/>&amp; christianos viuos si posset forte deglutiret. Isti 
+   <lb ed="#B" n="68"/>etiam sunt idololatrae: vt patet per superstitiosum
+   mo<lb ed="#B" n="69" break="no"/>dum &amp; prohibitum de deo colendo quo vtuntur.
+   For<lb ed="#B" n="70" break="no"/>tassis mihi dices. hos conseruat deus: vt ex veteri 
+   <lb ed="#B" n="71"/>testamento capiatur argumentum fidei nostrae. sic di 
+   <lb ed="#B" n="72"/>citur quod propter aliquas alias causas Mahumetani per: 
+   <lb ed="#B" n="73"/>mittuntur viuere. Insuper Mahumetani negant cultum 
+   <lb ed="#B" n="74"/>latriae exhibendum illi: cui est exhibendus. i.
+   Christo<lb ed="#B" n="75" break="no"/>ergo sunt idololatrae in deficiendo. Assumit etiam 
+   <lb ed="#B" n="76"/>vnum quod reor esse falsum: quod nulla vna secta
+   erro<lb ed="#B" n="77" break="no"/>nea ita diu durauit sicut illa. plerique enim steterunt 
+   <lb ed="#B" n="78"/>diutius non victi quam mille aunis: vt patet de Scy 
+   <lb ed="#B" n="79"/>this: qui nec ab Alexandro magno: nec a Raotonanis 
+   <lb ed="#B" n="80"/>subacti sunt. capiam exemplum domesticum. Nostri
+   Sco<lb ed="#B" n="81" break="no"/>ti Britanni postquam ex Hibernia:( quae apud maiores 
+   <lb ed="#B" n="82"/>Scontia dicebatur, ingressi sunt Britanniam: in ea vltra 
+   <lb ed="#B" n="83"/>mille octingentos annos perdurarunt: ergo ita est ve 
+   <lb ed="#B" n="84"/>rosimile fuisse inter varios idololatras. Praeterea 
+   <lb ed="#B" n="85"/>prudentes victores in lumine naturali passim per: 
+   <lb ed="#B" n="86"/>miserunt subactos viuere in suo ritu colendi &amp; in  
+   <lb ed="#B" n="87"/>legibus suis positiuis. vt patet de Romanis qui in  
+   <lb ed="#B" n="88"/>pantheo colebant omnes deos &amp; deas gentium. &amp;
+   Ma<lb ed="#B" n="89" break="no"/>ro in Georgicis inuocando opem superorum dicit. 
+   <lb ed="#B" n="90"/>Dii deaeque omnes studium quibus arua tueri. Qui 
+   <lb ed="#B" n="91"/>quod nouas colitis &amp;c. In signum cuius Pilatus Roma 
+   <lb ed="#B" n="92"/>norum locum tenens in ludaea voluit dimittere iudaeis 
+   <lb ed="#B" n="93"/>Barabbam: quia erat consuetudo eorum erspore de morte 
+   <lb ed="#B" n="94"/>in pascha vnum condemnandum: vt patet ex
+   euangeli<lb ed="#B" n="95" break="no"/>stis. &amp; ita alias consuetudines subditorum
+   admise<lb ed="#B" n="96" break="no"/>runt vt eos in maiore tranquillitate tenerent.
+   mo<lb ed="#B" n="97" break="no"/>do nihil tam mouet homines ad schisma &amp;
+   sedi<lb ed="#B" n="98" break="no"/>tionem quam mutare cultum maiorum erga supos ser 
+   <lb ed="#B" n="99"/>uatum. tamen non nego quin aliqui insolentes coge 
+   <lb ed="#B" n="100"/>rent subditos ritum colendi superorum mutare 
+   <lb ed="#B" n="101"/>Rursus quaestio est ita grauis: quomodo deus sinit 
+   <lb ed="#B" n="102"/>idololatras in genere viuere &amp; prosperari. 
+  </p>
+      <p xml:id="jMqv4a-d1e2818-d1e1141">
+       <lb ed="#B" n="103"/>⁋ Propterea ad omnia ista aliter
+   respon<lb ed="#B" n="104" break="no"/>dendum arbitror: suppono quod multa fiunt a deo 
+   <lb ed="#B" n="105"/>&amp; rationabilissime quorum causa nos fugit: tamen 
+   <lb ed="#B" n="106"/>possumus in proposito (&amp; conducit) dare aliquas 
+   <lb ed="#B" n="107"/>rationes. In primis dico quod deus reliquit homines li 
+   <lb ed="#B" n="108"/>beros: &amp; dedit eis mandata rationabilia: sed homines 
+   <!--0047.xml-->
+   <pb ed="#B" n="8-r"/>
+       <cb ed="#B" n="a"/>
+       <lb ed="#B" n="1"/>ex vertibilitate liberi arbitrii sunt ad malum ab
+   ado<lb ed="#B" n="2" break="no"/>lescentia proni: propterea multi auertunt se a sancto 
+   <lb ed="#B" n="3"/>ritu colendi deum. nunquid inter christianos plu 
+   <lb ed="#B" n="4"/>res sunt mali quam boni? &amp; plerumque mali abundant in  
+   <lb ed="#B" n="5"/>bonis fortunae interdum per fras: interdum per nefas 
+   <lb ed="#B" n="6"/>&amp; illa est similis difficultas ei quam quaerimus: &amp; illam 
+   <lb ed="#B" n="7"/>quaestionem quaerit Hieremias. xii. capite sui libri ir 
+   <lb ed="#B" n="8"/>quiens: Quare via impiorum prosperatur? plantasti 
+   <lb ed="#B" n="9"/>eos: &amp; radicem miserunt &amp; proficiunt. Et Abacud 
+   <lb ed="#B" n="10"/>primo scribitur. Mundi sunt oculi tui ne videas 
+   <lb ed="#B" n="11"/>malum: &amp; respicere ad iniquitatem non potes. Qua 
+   <lb ed="#B" n="12"/>re non respicis super iniqua agentes? &amp; taces deuo 
+   <lb ed="#B" n="13"/>rante impio iustiorem se?
+  </p>
+      <p xml:id="jMqv4a-d1e2818-d1e1191">
+   ⁋ Secundo ponendo
+   auxi<lb ed="#B" n="14" break="no"/>lium dei: quod est multo rationabilius opposito: &amp; 
+   <lb ed="#B" n="15"/>cum sanctis libris bibliacis: &amp; sanctorum exposi 
+   <lb ed="#B" n="16"/>tionibus magis quadrat quam oppositum: voluntas 
+   <lb ed="#B" n="17"/>sola cum dei influentia generali non potest se ad  
+   <lb ed="#B" n="18"/>bonum conuertere: nec intellectus ad credendum: 
+   <lb ed="#B" n="19"/>secundum illud Ioannis. v. Nemo potest venire ad 
+   <lb ed="#B" n="20"/>me nisi pater qui misit me traxerit eum. vbi licet 
+   <lb ed="#B" n="21"/>textus sit clarus, glossa interlinearis dicit. Nemo 
+   <lb ed="#B" n="22"/>potest credere in me: nisi gratia eum praeuenerit. hoc 
+   <lb ed="#B" n="23"/>est dei auxilium, nec est sermo de gratia gratum 
+   <lb ed="#B" n="24"/>faciente. Et Malachiae primo originaliter scribitur 
+   <lb ed="#B" n="25"/>Iacob dilexi: Esau autem odio habui. Et recitatiue 
+   <lb ed="#B" n="26"/>ab apostolo ad Romanos. ix. Antequam nati essent 
+   <lb ed="#B" n="27"/>vel aliquid egissent &amp;c. Agamus ergo deo immer 
+   <lb ed="#B" n="28"/>sas gratias quod nos ad fidem trahat &amp; non alios. sed 
+   <lb ed="#B" n="29"/>hoc in secundo prolixius deduco.
+  </p>
+      <p xml:id="jMqv4a-d1e2818-d1e1228">
+   ⁋ Tertio dico te 
+   <lb ed="#B" n="30"/>nendo oppositum istius: sicut aliqui theologi tenent: 
+   <lb ed="#B" n="31"/>quod propter malam vitam nostram deus ista permit 
+   <lb ed="#B" n="32"/>tit, nunquid deus permisit populum suum pecu 
+   <lb ed="#B" n="33"/>liarem duci in captiuitatem apud idololatras Ba 
+   <lb ed="#B" n="34"/>bylonios: &amp; templum loue dignum apud sacras 
+   <lb ed="#B" n="35"/>historias decantatissimum dirui &amp; funditus euerti 
+   <lb ed="#B" n="36"/>Nunquid permisit arcam foederis in qua erant de 
+   <lb ed="#B" n="37"/>prodigia magna, capia Philisteis propter peccata Ofn 
+   <lb ed="#B" n="38"/>&amp; Phinees? primi regum. iiii. Cum psaltes regius po 
+   <lb ed="#B" n="39"/>puli peccata recitasset: subiungit. Tradidit eos in  
+   <lb ed="#B" n="40"/>manus gentium: &amp; dominati sunt eorum qui ode 
+   <lb ed="#B" n="41"/>runt eos. Psalmo. cy. Non mirabere ergo quod pro 
+   <lb ed="#B" n="42"/>pter nostra peccata multas terras amisimus: &amp; no 
+   <lb ed="#B" n="43"/>uissime Graeciam. Graecia enim superba ecclesiae vni 
+   <lb ed="#B" n="44"/>uersali non paruit. Et Latinos in Syriam
+   proficiscen<lb ed="#B" n="45" break="no"/>tes terram sanctam recuperare volentes
+   impedi<lb ed="#B" n="46" break="no"/>uit &amp; fefellit. Et licet Baptista Mantuanus libro 
+   <lb ed="#B" n="47"/>primo calamitatum id superbiae Othomani ascri 
+   <lb ed="#B" n="48"/>bere velit inquiens. Hinc est orta lues: quam
+   Thraci<lb ed="#B" n="49" break="no"/>regna vetusque Graecorum imperium vertit. Byi 
+   <lb ed="#B" n="50"/>zantia regum Vrbs opibus constructa mari prae 
+   <lb ed="#B" n="51"/>tenta duobus Aegaeo euxinoque fretis stipata sedi  
+   <lb ed="#B" n="52"/>bat Sceptra tenens paruo qua gurgite
+   bospho<lb ed="#B" n="53" break="no"/>ros vndam Colligit: hanc scythica irrumpens Otho 
+   <lb ed="#B" n="54"/>manus ab arcto Insidiis captam ferro violauit &amp; 
+   <lb ed="#B" n="55"/>igni. Arx erat Europes &amp; inexpugnabile quondam 
+   <!--0047.xml-->
+   <cb ed="#B" n="b"/> 
+       <!-- 8-r b -->
+       <lb ed="#B" n="56"/>Romanae fidei vallum, Mahumetica contra Ar 
+   <lb ed="#B" n="57"/>ma, minas Asiae fraenans Libyaeque tumultum.
+   Po<lb ed="#B" n="58" break="no"/>tissima tamen causa dicta est, &amp; Baptistae aduenti 
+   <lb ed="#B" n="59"/>tia, sicut contra rebelles hebraeos vicinos reges in 
+   <lb ed="#B" n="60"/>belium impulit: qui victores sibiipsis gloriam dedere.  
+  </p>
+      <p xml:id="jMqv4a-d1e2818-d1e1305">
+       <lb ed="#B" n="61"/>⁋ Quarta causa est fidelium exercitatio. Tum vt in 
+   <lb ed="#B" n="62"/>virtute &amp; fide erudiantur: tum vt ocium euitent 
+   <lb ed="#B" n="63"/>&amp; corpore exerceantur. Apud Romanorum
+   anna<lb ed="#B" n="64" break="no"/>les legimus Scipionem Nasicam contra Catonem 
+   <lb ed="#B" n="65"/>Carthaginem nolle dirui: &amp; ita Romanis
+   consuluis<lb ed="#B" n="66" break="no"/>se: vt eius metus Romanos in tranquillitate
+   ci<lb ed="#B" n="67" break="no"/>uium contineret. Simile losue. iii. legimus: vbi
+   li<lb ed="#B" n="68" break="no"/>tera dicit. Hae sunt gentes quas dominus dereliquit: vt eru 
+   <lb ed="#B" n="69"/>diret in eis Israelem: &amp; omnes qui non nouerani 
+   <lb ed="#B" n="70"/>bella Chananeorum: &amp; postea discerent filii eorum 
+   <lb ed="#B" n="71"/>certare cum hostibus: &amp; habere consuetudinem
+   prae<lb ed="#B" n="72" break="no"/>liandi contra satrapas Philistinorum omnemque 
+   <lb ed="#B" n="73"/>chananeum: &amp; Sidonium atque Eueum qui habitat in mo 
+   <lb ed="#B" n="74"/>te libano de mote Baal Hermodo vsque ad introitum 
+   <lb ed="#B" n="75"/>Emath. dimisitque eos: vt in ipsis experitetur
+   Israe<lb ed="#B" n="76" break="no"/>lem vtrum audirent mandata domini quae
+   prae<lb ed="#B" n="77" break="no"/>ceperat patribus eorum per manum Moysi, an non. 
+  </p>
+      <p xml:id="jMqv4a-d1e2818-d1e1344">
+       <lb ed="#B" n="78"/>⁋ Quinto dico quod per has tribulationes purgantur 
+   <lb ed="#B" n="79"/>boni a malis. nam ab orbe condito ab iniustis
+   iu<lb ed="#B" n="80" break="no"/>sti praessi sunt &amp; persecuti. locupletissimum testimonium 
+   <lb ed="#B" n="81"/>in medium ciere possum ex veteri testamento &amp;
+   no<lb ed="#B" n="82" break="no"/>uo: incipiendo ab Abele, Iacobo, losepho, Daui 
+   <lb ed="#B" n="83"/>de, Iobo, Thobia, Hieremia, Daniele, &amp; aliis pro 
+   <lb ed="#B" n="84"/>phetis. Lucidius est in nouo testamento, a Christo 
+   <lb ed="#B" n="85"/>exordiendo ad apostolos &amp; colunnas ecclesiae descen 
+   <lb ed="#B" n="86"/>dendo per omnes tyrannorum persecutiones quas 
+   <lb ed="#B" n="87"/>passa est ecclesia: quae quanto magis passa est
+   in<lb ed="#B" n="88" break="no"/>iurias tanto amplius fide &amp; moribus creuit: &amp;
+   ro<lb ed="#B" n="89" break="no"/>borata est. Secundum illud Psalmistae psalmo. cxxviii. 
+   <lb ed="#B" n="90"/>Saepe expugnauerunt me a iuuentute mea: etenim 
+   <lb ed="#B" n="91"/>non potuerunt mihi.
+  </p>
+      <p xml:id="jMqv4a-d1e2818-d1e1377">
+   ⁋ Sexto dico. quia nostri ob in 
+   <lb ed="#B" n="92"/>testina bella inter sese propter auaritiam &amp; gloriam 
+   <lb ed="#B" n="93"/>a vulgo aucupandam hostibus fidei relictis in se 
+   <lb ed="#B" n="94"/>inuicem arma conuertunt. plus enim propriam
+   glo<lb ed="#B" n="95" break="no"/>riam quaerunt quam dei: &amp; quam salutem communem reipubiicae 
+   <lb ed="#B" n="96"/>christianae.
+  </p>
+      <p xml:id="jMqv4a-d1e2818-d1e1390">
+   ⁋ Septimo dico teste Sabellico in
+   fi<lb ed="#B" n="97" break="no"/>ne tertii libri. Nullum genus hominium hodie in terris 
+   <lb ed="#B" n="98"/>ordinatius militat in armis quam Turcae &amp; Mahume 
+   <lb ed="#B" n="99"/>tani: qui plus nobis quam reliqui omnes nocent. modo  
+   <lb ed="#B" n="100"/>deus plerunque sinit causas secundas suas
+   actio<lb ed="#B" n="101" break="no"/>nes agere. Ad pauca aspicientes istud falsissimum 
+   <lb ed="#B" n="102"/>putant: suos vel qui marte ancipiti cum suis cer 
+   <lb ed="#B" n="103"/>tant in re militari ponentes primos.
+  </p>
+      <p xml:id="jMqv4a-d1e2818-d1e1408">
+   ⁋ Octauo
+   di<lb ed="#B" n="104" break="no"/>citur. Non semper habens iustam causam belli 
+   <lb ed="#B" n="105"/>iniustum vincit &amp; superat. hoc patet ludicum. 
+   <lb ed="#B" n="106"/>xx. vbi omnes filii Israel iustissimam bellandi 
+   <lb ed="#B" n="107"/>causam habebant contra Beniamin, propter tur 
+   <lb ed="#B" n="108"/>pe scelus perpetratum in Gabaa: &amp; tamen bis vt 
+   <lb ed="#B" n="109"/>notum est ceciderunt in ore gladii: vel quia nimis in  
+   <lb ed="#B" n="110"/>propriis viribus confidebant: vel idoloratria in Dan 
+   <!--0048.xml-->
+   <pb ed="#B" n="8-v"/>
+       <cb ed="#B" n="a"/>
+       <lb ed="#B" n="1"/>perpetrata impunis mansit. Sic christianos scelera 
+   <lb ed="#B" n="2"/>tos in bello occidi permittit: vt caeteris cedat ad exem 
+   <lb ed="#B" n="3"/>plum bene viuendi. Sic est de nostris contra fidei
+   ho<lb ed="#B" n="4" break="no"/>stes: sicut Achior dux filiorum Ammon
+   Holofer<lb ed="#B" n="5" break="no"/>ni respondit ludith. v. &amp; non fuit qui insultaret populo isti 
+   <lb ed="#B" n="6"/>nisi quando recessit a cultu domini dei sui. quotiescumque autem 
+   <lb ed="#B" n="7"/>poenituerunt se recessisse a cultura dei sui: dedit eis 
+   <lb ed="#B" n="8"/>deus caeli virtutem resistendi. Et paulopost sequitur. Des 
+   <lb ed="#B" n="9"/>enim illorum odit iniquitatem. Et inferius. Nunc ergo mi domine 
+   <lb ed="#B" n="10"/>perquire si est aliqua iniquitas eorum in conspectu dei eo 
+   <lb ed="#B" n="11"/>rum: ascendamus ad illos: quoniam tradens tradet illos de 
+   <lb ed="#B" n="12"/>eorum tibi: &amp; subiugati erunt sub iugo potentiae tuae. 
+   <lb ed="#B" n="13"/>Et losue. xxiii. Postquam admonuit populum praecepta 
+   <lb ed="#B" n="14"/>dei subiunxit. Si ea seruaueritis: vnus ex vobis perse 
+   <lb ed="#B" n="15"/>quetur hostium mille viros: quia dominus deus vester pro
+   vo<lb ed="#B" n="16" break="no"/>bis ipse pugnabit sicut pollicitus est. Innumerae au 
+   <lb ed="#B" n="17"/>ctoritates Bibliae ad hoc introduci possunt.
+  </p>
+      <p xml:id="jMqv4a-d1e2818-d1e1469">
+   ⁋
+   No<lb ed="#B" n="18" break="no"/>no dico: quod naturalis suorum amor &amp; innatum odium 
+   <lb ed="#B" n="19"/>ab vnguiculis &amp; teneris annis contra christianos in 
+   <lb ed="#B" n="20"/>bibitum ad fidem converti impedit. Analogiam vicinam &amp; 
+   <lb ed="#B" n="21"/>peculiarem accipito inter christianorum regna vicina: 
+   <lb ed="#B" n="22"/>quae inter se bellum gerere solent. filium pater sagittare do 
+   <lb ed="#B" n="23"/>cens inquit. sic dumum percute ac si francus esset. Simile 
+   <lb ed="#B" n="24"/>odium ab ineunte aetate versipellis hebraeus &amp; stolidui 
+   <lb ed="#B" n="25"/>mahumetanus in christianos haurit.
+  </p>
+      <p xml:id="jMqv4a-d1e2818-d1e1490">
+   ⁋ Decio. ab 
+   <lb ed="#B" n="26"/>hominium pluralitate quos improbos constat esse, indiscrete 
+   <lb ed="#B" n="27"/>argumentum sumunt: &amp; daemonum praestigiis fidem praestant: a 
+   <lb ed="#B" n="28"/>quibus crebro falluntur. Ex his argumenti propositi 
+   <lb ed="#B" n="29"/>patet solutio. 
+  </p>
+      <p xml:id="jMqv4a-d1e2818-d1e1501">
+       <lb ed="#B" n="30"/>⁋ Summatim &amp; summa rerum vestigina 
+   <lb ed="#B" n="31"/>sequentes paucis epilogabimus. In primis
+   dixi<lb ed="#B" n="32" break="no"/>mus quod ab imperitorum pluralitate no est color ar 
+   <lb ed="#B" n="33"/>gumenti quando infallibiliter ostenditur multotum
+   imperi<lb ed="#B" n="34" break="no"/>tia: sicut in proposito fecisse arbitramur, ostendentes 
+   <lb ed="#B" n="35"/>fidem nostram in lumine naturali: &amp; ex hostium dictis 
+   <lb ed="#B" n="36"/>solam credendam. Vetus testamentum a deo caelitus datum nos, 
+   <lb ed="#B" n="37"/>hebraei, &amp; Mahumetani confitemur: in quo nouum 
+   <lb ed="#B" n="38"/>tanqui rota in rota includitur. Ex quo ostendi potest: 
+   <lb ed="#B" n="39"/>Christus esse messias in lege promissus. Ita quod passus 
+   <lb ed="#B" n="40"/>veteris testamenti ad hoc ita expressi sunt vt nullus 
+   <lb ed="#B" n="41"/>quantuncumque versatili ingenio sine violenta &amp; distor 
+   <lb ed="#B" n="42"/>ta scripturae expositione euadere possit. Scripturae 
+   <lb ed="#B" n="43"/>autem vtriusque testamenti auctoritas ex hoc liquaet quod i 
+   <lb ed="#B" n="44"/>ea nulla dissonantia: sed summa harmonia iuenitur 
+   <lb ed="#B" n="45"/>siue eodem tempore scripserint auctores: vt Ezechiel in 
+   <lb ed="#B" n="46"/>Babylone: &amp; Hieremias in ludaea etiam de rebus pro 
+   <lb ed="#B" n="47"/>pheticis: siue in variis temporibus: quod nullis aliis scripto 
+   <lb ed="#B" n="48"/>ribus concessum est. Sed creberrime posterior
+   prio<lb ed="#B" n="49" break="no"/>ri tam in theoricis quam in historiis contradicit. pro cuius ve 
+   <lb ed="#B" n="50"/>ritate defendenda mortem obire fideles pulchrum semper 
+   <lb ed="#B" n="51"/>putauere: &amp; non alii. Hoc habito quod Christus est mes 
+   <lb ed="#B" n="52"/>sias in lege promissus: praeceptum erat arctissime in lege e 
+   <lb ed="#B" n="53"/>fidem praebere. Vnde Deuteronomii. xviii. cap. scribitur. 
+   <lb ed="#B" n="54"/>Prophetam suscitabo eis de medio fratrum suorum si 
+   <!--0048.xml-->
+   <cb ed="#B" n="b"/> 
+       <!-- 8-v b -->
+       <lb ed="#B" n="55"/>milem tui: &amp; ponam verba mea in ore eius: loqueturque 
+   <lb ed="#B" n="56"/>ad eos omnia quae praecipiam illi. Vbi glossa
+   in<lb ed="#B" n="57" break="no"/>terlinearis in verbo prophetam. hoc est Christum. 
+   <lb ed="#B" n="58"/>Et sequitur. Qui autem verba eius quam loquetur in  
+   <lb ed="#B" n="59"/>nomine meo audire noluerit: ego vltor existam. 
+   <lb ed="#B" n="60"/>vbi interlinearis glossa, perpetua poena vindicans. 
+   <lb ed="#B" n="61"/>sed ipse dedit nobis omnia in lege gratiae creden 
+   <lb ed="#B" n="62"/>da: vtpote incarnationem, trinitatem in personis 
+   <lb ed="#B" n="63"/>in eadem essentia diuina: ergo talia sunt credenda. 
+   <lb ed="#B" n="64"/>Sic deducere oportet contra Hebraeum articulos 
+   <lb ed="#B" n="65"/>hos praefatos. Haec dixerim: quia aliqui ex nostris 
+   <lb ed="#B" n="66"/>aliter eos reprobare conantes ex veteri lege,
+   seip<lb ed="#B" n="67" break="no"/>sos inutiliter fatigant. Sufficit hic more
+   discipu<lb ed="#B" n="68" break="no"/>lorum Pythagorae dicere. magister dixit. cum ma 
+   <lb ed="#B" n="69"/>gister sit infallibilis. Inopinabile est quod Hebraei non 
+   <lb ed="#B" n="70"/>bis secundum suas vires infestissimi nobiscum com 
+   <lb ed="#B" n="71"/>uenirent ad vetus testamentum corrumpendum: si 
+   <lb ed="#B" n="72"/>cut pseudo ille propheta Mahumetus dicit. Etiam 
+   <lb ed="#B" n="73"/>semper ecclesia viros peritissimos pariter &amp;
+   opti<lb ed="#B" n="74" break="no"/>mos habuit: qui si soli Bibliam habuissent eam non 
+   <lb ed="#B" n="75"/>corrupissent. Insuper / quod est mihi Achilles contra 
+   <lb ed="#B" n="76"/>Mahumetum) Quid lucri poterant consequi
+   no<lb ed="#B" n="77" break="no"/>stri primi christiani asserendo quod Christus erat deus 
+   <lb ed="#B" n="78"/>&amp; tres personae in diuinis essent in vna essentia, si 
+   <lb ed="#B" n="79"/>hoc non habuissent a Christo: non citius fuisset eis 
+   <lb ed="#B" n="80"/>propterea habita fides: immo hoc varios impedit:  
+   <lb ed="#B" n="81"/>&amp; tamen hoc coram toto mundo constanter &amp; in  
+   <lb ed="#B" n="82"/>trepide ad mortem vsque inclusiue cum miraculo 
+   <lb ed="#B" n="83"/>rum claritate attestati sunt. Sequitur ergo quod hoc a 
+   <lb ed="#B" n="84"/>Christo habuerunt mediate vel immediate. Insu 
+   <lb ed="#B" n="85"/>per decem causas dedimus quare Mahumetani &amp; 
+   <lb ed="#B" n="86"/>alii non suscipiunt fidem catholicam quam
+   suscipe<lb ed="#B" n="87" break="no"/>re sub poena damnationis tenentur.
+  </p>
+      <p xml:id="jMqv4a-d1e2818-d1e1636">
+   ⁋ Amplius ( quod 
+   <lb ed="#B" n="88"/>mente tenebis) noluit Christus fidem primo per eru 
+   <lb ed="#B" n="89"/>ditos vel principes plantari: sed per piscatores &amp; ru 
+   <lb ed="#B" n="90"/>des. Ratio est: quia alioquin creditum fuisset quod in hu 
+   <lb ed="#B" n="91"/>mana eloquentia &amp; prudentia vel tyrannorum
+   vio<lb ed="#B" n="92" break="no"/>lentia homines fuissent ad fidem compulsi. quare trecen 
+   <lb ed="#B" n="93"/>tis annis &amp; amplius eam permisit a simplicibus
+   prae<lb ed="#B" n="94" break="no"/>dicari cum clarissimis miraculis ab optimis viris 
+   <lb ed="#B" n="95"/>fidem ad mortem vsque inclusiue alacriter
+   defenden<lb ed="#B" n="96" break="no"/>tibus: qui truculentissimos tyrannos: potentissimos 
+   <lb ed="#B" n="97"/>principes: exercitatissimos in omni disciplinarum 
+   <lb ed="#B" n="98"/>gene philosophos ad fidem suscipiendam traxerunt 
+   <lb ed="#B" n="99"/>vbilibet, quod si miraculis hi rudes non fecerunt: omnium 
+   <lb ed="#B" n="100"/>miraculorum mirabilissimum est illud. Voluit prae 
+   <lb ed="#B" n="101"/>terea Christus quod in lege gratiae viri operam summam 
+   <lb ed="#B" n="102"/>suae legi &amp; caeteris disciplinis pro ea capessenda 
+   <lb ed="#B" n="103"/>darent: &amp; omni oppugnatione eam discuterent: quia 
+   <lb ed="#B" n="104"/>sic eius sincera veritas purius attingitur: quia prouerbia 
+   <lb ed="#B" n="105"/>liter dici solet. Veritas non quaerit angulos: nec ob 
+   <lb ed="#B" n="106"/>iectiones vllas contra se directas formidat. Non  
+   <lb ed="#B" n="107"/>sic autem exordium error Mahumeticus habuit 
+   <lb ed="#B" n="108"/>sed post incarnati verbi aduentum ad sexcentos 
+   <lb ed="#B" n="109"/>annos vafer ille Mahumetus propensos videns 
+   <!--0049.xml-->
+   <pb ed="#B" n="9-r"/>
+       <cb ed="#B" n="a"/>
+       <lb ed="#B" n="1"/>omnes a Romano imperio resi lire: Arabes con 
+   <lb ed="#B" n="2"/>terraneos ad rebellandum im pulit: &amp; cum sanguina 
+   <lb ed="#B" n="3"/>rius crebris victoriis potitus com plicum amicitiam 
+   <lb ed="#B" n="4"/>sibi conciliasset: temere legem perfida rudi populo 
+   <lb ed="#B" n="5"/>tentare ausus est: arctissim e vetans ne super ipsa 
+   <lb ed="#B" n="6"/>disputaretur: ne dolus in erronea secta
+   dephende<lb ed="#B" n="7" break="no"/>retur: sed solo ferro eam iussit seruatum iri non tamen 
+   <lb ed="#B" n="8"/>eo inficias quin propter demerita populi deo
+   per<lb ed="#B" n="9" break="no"/>mittente possit daemonum praestigiis illudi: sicut
+   vi<lb ed="#B" n="10" break="no"/>dere est de oraculo Apollinis / de Baal / loue /
+   lu<lb ed="#B" n="11" break="no"/>none / &amp; reliquis gentilium putatis simulacris. Et 
+   <lb ed="#B" n="12"/>haec prooemialiter dixisse sufficiat.
+  </p>
+    </div>
+   </body>
+  </text>
+</TEI>

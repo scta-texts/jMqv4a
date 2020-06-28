@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 7</title>
+      <author ref="#JohnMair">John Mair</author>
+      <respStmt>
+       <name>Jeffrey C. Witt</name>
+       <resp>TEI Encoder</resp>
+      </respStmt>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 7</title>
+       <date when="2020-06-09">June 27, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="B" n="cod-Bda113">Badius 1516</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+     guidelines for a diplomatic edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-06-27" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+      <pb ed="#B" n="336-v"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="jMqv4a-d1e1800"> <!-- l4d43q7 -->
+      <head xml:id="jMqv4a-d1e1800-Hd1e104">Quaestio 7</head>
+      <head xml:id="jMqv4a-d1e1800-Hd1e107" type="question-title">An foeminae resurgent in sexu masculino</head>
+      <p xml:id="jMqv4a-d1e1800-d1e110">
+       <lb ed="#B" n="71"/>⁋ Distinctionis Quadragesimaetertiae 
+   <lb ed="#B" n="72"/>Quaestio Septima. 
+   <lb ed="#B" n="73"/>Eptimo et vltimo
+   quod<lb ed="#B" n="74" break="no"/>ritur. An foeminae resurget 
+   <lb ed="#B" n="75"/>in sexu masculino. Et videtur 
+   <lb ed="#B" n="76"/>per sic. nam masculus &amp;
+   foe<lb ed="#B" n="77" break="no"/>mella sunt differentiae acciden 
+   <lb ed="#B" n="78"/>tales: ita vt huiusmodi sexus 
+   <lb ed="#B" n="79"/>non variet speciem. Hinc di 
+   <lb ed="#B" n="80"/>scit philosophus. x.
+   metaphy<lb ed="#B" n="81" break="no"/>sicae. &amp;. xvi. de animalibus quod foemina est mas occasio 
+   <lb ed="#B" n="82"/>natus, &amp; praeter intentionem naturae. Item ad Ephe 
+   <lb ed="#B" n="83"/>sios. iiii. dicitur. donec occurramus omnes in virum 
+   <lb ed="#B" n="84"/>perfectum. Honestior quoque &amp; nobilior est sexus 
+   <lb ed="#B" n="85"/>masculinus. ergo omnes resurgent in sexu
+   masculi<lb ed="#B" n="86" break="no"/>no. Quidam insuper grauis theologus dicit quod
+   for<lb ed="#B" n="87" break="no"/>te omnes foeminae resurgent in sexu masculino 
+   <lb ed="#B" n="88"/>praeter beatam virginem. Et confirmo istud supi 
+   <lb ed="#B" n="89"/>posito illo quod recitat Plinius in naturali historia. 
+   <lb ed="#B" n="90"/>cap. iiii. libri. vii. de variis qui in vita mutati sunt de 
+   <lb ed="#B" n="91"/>sexu in sexum. Ponam totum caput: quia ipsum 
+   <lb ed="#B" n="92"/>est breue. Et foeminis (inquit) mutari in mares non 
+   <lb ed="#B" n="93"/>est fabulosum. Inuenimus annalibus Licinio Cras 
+   <lb ed="#B" n="94"/>so. C. Cassio Longino consulibus: Casini
+   pue<lb ed="#B" n="95" break="no"/>rum factum ex virgine sub parentibus iussuque aru 
+   <lb ed="#B" n="96"/>spicum deportatum in insulam desertam. Licinius 
+   <lb ed="#B" n="97"/>Mutianus prodidit visum a se Argis Aristontem 
+   <lb ed="#B" n="98"/>cui nomen Arestusae fuisse. Nupsisse etiam. Mox 
+   <lb ed="#B" n="99"/>barbam &amp; virilitatem prouenisse: vxoremque duxis 
+   <lb ed="#B" n="100"/>se. Eiusdem sortis &amp; Smyrnae puerum a se visum 
+   <lb ed="#B" n="101"/>Ipse in Aphrica vidi mutatum in marem nuptia 
+   <lb ed="#B" n="102"/>rum die. L. Cossicium ciuem Tisdritanum.
+   Edi<lb ed="#B" n="103" break="no"/>tis geminis rarum esse: aut puerpuerae aut
+   puer<lb ed="#B" n="104" break="no"/>perio: praeterque alteri vitam. Si vero vtriusque
+   se<lb ed="#B" n="105" break="no"/>xus editi sint gemini, rariorem vtrique salutem. Foe 
+   <lb ed="#B" n="106"/>minas gigni celerius quam mares: sicuti celerius
+   sene<lb ed="#B" n="107" break="no"/>scere. Saepius vero moueri mares in vtero, &amp; in  
+   <lb ed="#B" n="108"/>dextra fere parte: in laeua foeminas constat. 
+   <!--0705.xml-->
+   <pb ed="#B" n="337-r"/>
+       <cb ed="#B" n="a"/>
+      </p>
+      <p xml:id="jMqv4a-d1e1800-d1e201">
+       <lb ed="#B" n="1"/>⁋ Respondetur ad titulum quaestionis : 
+   <lb ed="#B" n="2"/>Tam masculi quam foeminae resurgent in sexibus suis 
+   <lb ed="#B" n="3"/>in quibus decesserunt. Probatur haec conclusio per 
+   <lb ed="#B" n="4"/>Augustinus xxii. de ciuitate dei. ca. xvii. dicentem.
+   Mi<lb ed="#B" n="5" break="no"/>hi sapere melius videntur qui vtrumque sexum resurre 
+   <lb ed="#B" n="6"/>cturum esse non dubitant. Et hoc patet ex
+   respon<lb ed="#B" n="7" break="no"/>sione Christi ad Saducaeos. In resurrectione neque 
+   <lb ed="#B" n="8"/>nubent neque nubentur. Matth. xxii. ergo voluit de 
+   <lb ed="#B" n="9"/>cere quod resurgent in sexibus suis: alioquin vana 
+   <lb ed="#B" n="10"/>fuisset responsio: si omnes in eodem sexu sint
+   re<lb ed="#B" n="11" break="no"/>surrecturi. Praeterea probatur idem. Si foeminae non 
+   <lb ed="#B" n="12"/>resurgent in sexu soeminino: hoc est quia pudebit 
+   <lb ed="#B" n="13"/>foeminas sui sexus: vel quia erit prouocatio ad ma 
+   <lb ed="#B" n="14"/>lum. sed hoc non: quod facile cognosci potest per Adam 
+   <lb ed="#B" n="15"/>&amp; Euam in statu innocentiae, quos non magis pu 
+   <lb ed="#B" n="16"/>duit illorum membrorum quam digiti vel faciei. sed 
+   <lb ed="#B" n="17"/>post peccatum eos puduit: &amp; propterea fecerunt si 
+   <lb ed="#B" n="18"/>bi perizomata. 
+  </p>
+      <p xml:id="jMqv4a-d1e1800-d1e244">
+       <lb ed="#B" n="19"/>⁋ Hac conclusione probata respondeo 
+   <lb ed="#B" n="20"/>ad rationes ab initio adductas. Ad primam
+   con<lb ed="#B" n="21" break="no"/>cedo quod mas &amp; foemina non distinguuntur specie 
+   <lb ed="#B" n="22"/>essentiali. Ad <name xml:id="jMqv4a-d1e1800-Nd1e254" ref="#Aristotle">Aristotelem.</name> xvi. de animalibus dico quod 
+   <lb ed="#B" n="23"/>natura intendit quod est perfectius. sed deus qui
+   ordi<lb ed="#B" n="24" break="no"/>nem &amp; causalitatem naturae dedit: ordinauit quod es 
+   <lb ed="#B" n="25"/>sent foeminae sicut viri, quippe sine quibus hic mun 
+   <lb ed="#B" n="26"/>dus durare non potest: plusqui sine viris. Supposi 
+   <lb ed="#B" n="27"/>ta autem veritate historiarum Plinii, nihil contra conclu 
+   <lb ed="#B" n="28"/>sionem. Dico namque quod mulier redibit in illo sexu in 
+   <lb ed="#B" n="29"/>quo decessit. &amp; si sit hermaphroditus / resurget in eo 
+   <lb ed="#B" n="30"/>sexu de quo plus participat. si aequaliter habeat de 
+   <lb ed="#B" n="31"/>vtroque: quod vix euenit) redibit in sexu masculino 
+   <lb ed="#B" n="32"/>vel in quo deus voluerit.
+  </p>
+      <p xml:id="jMqv4a-d1e1800-d1e280">
+   ⁋ Praeterea arguitur. Sexus 
+   <lb ed="#B" n="33"/>foemininus non est necessarius nisi pro generatione &amp; 
+   <lb ed="#B" n="34"/>partu. sed in alio saeculo non erit generatio. ergo non 
+   <lb ed="#B" n="35"/>est opus quod redeant in sexu foemineo. Respodeo.  
+   <lb ed="#B" n="36"/>illud argumentum probaret quod viri non deberent re 
+   <lb ed="#B" n="37"/>surgere in sexu virili: nec haberent emissoria capi 
+   <lb ed="#B" n="38"/>tis vel ventris: quia per partes illas non purgabum 
+   <lb ed="#B" n="39"/>tur corpora in patria. partes tamen redeunt ad per:  
+   <lb ed="#B" n="40"/>fectionem naturae ostendendam. 
+  </p>
+      <p xml:id="jMqv4a-d1e1800-d1e300">
+       <lb ed="#B" n="41"/>⁋ Dubitatur circa ea quae Magister tan 
+   <lb ed="#B" n="42"/>git in litera. An quilibet cognoscat peccata sua in  
+   <lb ed="#B" n="43"/>extremo iudicio. Respondetur. malus &amp; damnatus 
+   <lb ed="#B" n="44"/>cognoscit peccata sua pro quibus damnatus est: 
+   <lb ed="#B" n="45"/>vt amplius affligatur: &amp; etiam alii hoc cognoscent ne 
+   <lb ed="#B" n="46"/>murmur sit contra iustitiam dei. De bonis quoque 
+   <lb ed="#B" n="47"/>non est disconueniens quod sua peccata praeterita co 
+   <lb ed="#B" n="48"/>gnoscant vt deum laudent: qui sibi in peccatis pe 
+   <lb ed="#B" n="49"/>percit: iuxta illud quod Magister allegat ex
+   Grego<lb ed="#B" n="50" break="no"/>rio. iiii. Moralium exponente illud Psalmographi. 
+   <lb ed="#B" n="51"/>Misericordias domini in aeternum cantabo. psal. lxxxviii 
+   <lb ed="#B" n="52"/>Quomodo misericordias domini in aeternum canta 
+   <lb ed="#B" n="53"/>bit qui se miserum fuisse ignorat: &amp; si miseriae trans 
+   <!--0705.xml-->
+   <cb ed="#B" n="b"/> 
+       <!-- 337-r b -->
+       <lb ed="#B" n="54"/>actae non meminit: vnde largitati misericordiae lau 
+   <lb ed="#B" n="55"/>des reddet? Probabile autem est quod mala deleta per 
+   <lb ed="#B" n="56"/>poenitentiam quemadmodum sunt omnia mala electorum 
+   <lb ed="#B" n="57"/>non patent aliis: sed solum iis qui ea perpetrarunt: qui 
+   <lb ed="#B" n="58"/>de illis non dolebunt: quia ad dolorem vel tristitiam 
+   <lb ed="#B" n="59"/>deus non concurret: sed gratias agent. 
+  </p>
+      <p xml:id="jMqv4a-d1e1800-d1e350">
+       <lb ed="#B" n="60"/>⁋ Ecce pro tota hac distinctione quo 
+   <lb ed="#B" n="61"/>modo Christus primitiae dormientium primo
+   re<lb ed="#B" n="62" break="no"/>surrexit. sic beata virgo. &amp; idem putatur de loanne 
+   <lb ed="#B" n="63"/>euangelista. Alii omnes resurgent cum quantitate suf 
+   <lb ed="#B" n="64"/>ficiente &amp; colore secundum complexionem &amp; regionem: vt 
+   <lb ed="#B" n="65"/>cognoscantur cuiates sint. Et si membris orbati
+   fue<lb ed="#B" n="66" break="no"/>rint &amp; parui: deus supplebit. de electis non est dubium: 
+   <lb ed="#B" n="67"/>&amp; etiam probabile est in damnatis. Si dicas. in
+   poe<lb ed="#B" n="68" break="no"/>nam peccati eos partibus orbatos relinquant deus: Obii 
+   <lb ed="#B" n="69"/>cio. erunt aliqui omnes partes habentes cum pluribus 
+   <lb ed="#B" n="70"/>vel aequalibus peccatis decedentes. ergo illa ratio non 
+   <lb ed="#B" n="71"/>sufficit. nam gras multas gratis datas dat deus damna 
+   <lb ed="#B" n="72"/>tis: alioquin pessime se haberent. Quilibet item re 
+   <lb ed="#B" n="73"/>surget in proprio sexu in quo decessit vel de quo ma 
+   <lb ed="#B" n="74"/>gis participat. &amp; si aequaliter de vtroque quis
+   partici<lb ed="#B" n="75" break="no"/>pet: in sexu masculino vel in quo deus volet resui 
+   <lb ed="#B" n="76"/>get. Resurrectio erit primo in locis in quibus cor 
+   <lb ed="#B" n="77"/>pora sepeliuntur. Si autem partes aeque principales fue 
+   <lb ed="#B" n="78"/>rint in variis locis: vt dimidietas capitis &amp; dimidie 
+   <lb ed="#B" n="79"/>tas corporis in a. loco: &amp; similis pars in b. loco: erit 
+   <lb ed="#B" n="80"/>resurrectio in illo loco in quo deus voluerit. In super 
+   <lb ed="#B" n="81"/>si plures in eodem loco successu temporis sepelian 
+   <lb ed="#B" n="82"/>tur: cum tumulus habeat varias partes: in eodem tu 
+   <lb ed="#B" n="83"/>mulo communi, vel alio loco communi resurgent. 
+   <lb ed="#B" n="84"/>Hinc sancta Brigida: sanctus Patricius: &amp; sanctus 
+   <lb ed="#B" n="85"/>Columba ex eodem tumulo prodibunt: iuxta carmina. 
+   <lb ed="#B" n="86"/>In villa Duno / tumulo tumulantur in vno Brigi 
+   <lb ed="#B" n="87"/>da, Patricius, atque Columba pius. Crematorum autem 
+   <lb ed="#B" n="88"/>&amp; dispersorum in mari deus dabit angelis
+   pulue<lb ed="#B" n="89" break="no"/>rem colligendi potestatem vbicumque fuerit: qui omne 
+   <lb ed="#B" n="90"/>possibile distincte cognoscit ab aetemo. Item dixi 
+   <lb ed="#B" n="91"/>mus quod si eadem caro fuerit in variis hominibus suc 
+   <lb ed="#B" n="92"/>cessiue: potest deus facere quod illa eadem caro in vtro 
+   <lb ed="#B" n="93"/>quod illorum resurgat, vel in altero tameum in quo volue 
+   <lb ed="#B" n="94"/>rit. vtrumque enim est ei aeque possibile. Nec habendus 
+   <lb ed="#B" n="95"/>est oculus ad identitatem metaphysicam &amp; realem. nam 
+   <lb ed="#B" n="96"/>Eglon obesus &amp; abdomine plenus resurget non  
+   <lb ed="#B" n="97"/>cum carne &amp; pinguedine quam habebat quando ab Aioth 
+   <lb ed="#B" n="98"/>occidebatur: sed resurget idem Eglon vulgaritet 
+   <lb ed="#B" n="99"/>loquendo. Contingit etiam dare virum, vt opinor, 
+   <lb ed="#B" n="100"/>qui parum vel nihil carnis assumptae in initio suae 
+   <lb ed="#B" n="101"/>natiuitatis, habiturus sit. Nam partes corporis ex
+   ali<lb ed="#B" n="102" break="no"/>mento prouenientes mutantur &amp; fiuunt: quibus aliae 
+   <lb ed="#B" n="103"/>partes succedunt: vt cor, cerebrum, &amp; aliae partes ex 
+   <lb ed="#B" n="104"/>semine vel parentum seminibus resultantes. quare 
+   <lb ed="#B" n="105"/>etiam non resoluerentur: cum nutriantur &amp; augean 
+   <lb ed="#B" n="106"/>tur: hinc cor senis est maius corde iuuenis: &amp; ita 
+   <lb ed="#B" n="107"/>de quacunque alia parte.
+  </p>
+    </div>
+   </body>
+  </text>
+</TEI>

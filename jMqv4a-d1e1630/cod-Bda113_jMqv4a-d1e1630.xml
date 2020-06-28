@@ -1,0 +1,327 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 12</title>
+      <author ref="#JohnMair">John Mair</author>
+      <respStmt>
+       <name>Jeffrey C. Witt</name>
+       <resp>TEI Encoder</resp>
+      </respStmt>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 12</title>
+       <date when="2020-06-09">June 27, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="B" n="cod-Bda113">Badius 1516</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+     guidelines for a diplomatic edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-06-27" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+      <pb ed="#B" n="305-v"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="jMqv4a-d1e1630"> <!-- l4d38q12 -->
+      <head xml:id="jMqv4a-d1e1630-Hd1e104">Quaestio 12</head>
+      <head xml:id="jMqv4a-d1e1630-Hd1e107" type="question-title">An mendicantes possint recipere bona immobilia 
+  ut agros vel redditus ex quibus vivere possint sine mendicitate</head>
+      <p xml:id="jMqv4a-d1e1630-d1e110">
+       <lb ed="#B" n="8"/>⁋ Distinctionis Trigesimaeoctauae 
+   <lb ed="#B" n="9"/>Quaestio Duodecima. 
+   <lb ed="#B" n="10"/>lIrca hoc votum
+   pauper<lb ed="#B" n="11" break="no"/>tatis quaeritur quinto: an mend 
+   <lb ed="#B" n="12"/>scantes possint recipere bona 
+   <lb ed="#B" n="13"/>immobilia vt agros / vel
+   red<lb ed="#B" n="14" break="no"/>lditus ex quibus viuere
+   pos<lb ed="#B" n="15" break="no"/>isint sine mendicitate.
+   Respon<lb ed="#B" n="16" break="no"/>ldetur negatiue probatur sic. lsti 
+   <lb ed="#B" n="17"/>suo voto contrauenirent sic facientes: ergo hoc non  
+   <lb ed="#B" n="18"/>licet eis. Antecedens patet de praedicatoribus &amp; mi 
+   <lb ed="#B" n="19"/>nioribus: qui nunc mendicantium sunt praecipui. &amp; idem 
+   <lb ed="#B" n="20"/>de aliis intelligo. de excess. praelato. c. Nimis praua 
+   <lb ed="#B" n="21"/>
+       <name xml:id="jMqv4a-d1e1630-Nd1e142">Gregorius</name> nonus dicit illas duas religiones esse in 
+   <lb ed="#B" n="22"/>arctissima pauprtate. sed si haberent in communi
+   vn<lb ed="#B" n="23" break="no"/>de viuerent / non essent in arctissima pauptate. igil 
+   <lb ed="#B" n="24"/>nec redditus perpetuos habere possunt. Tu quia red  
+   <lb ed="#B" n="25"/>ditus inter immobilia computantur secundum iura. vt
+   conci<lb ed="#B" n="26" break="no"/>lium Viennense incle. Exiui. de verbo. signifi. dicit 
+   <lb ed="#B" n="27"/>Tum secundo quod sic redditus augeri possent &amp; esse 
+   <lb ed="#B" n="28"/>perpetui: &amp; num qui mendicarent: nec opus esset aliquem 
+   <lb ed="#B" n="29"/>in illis ordinibus mendicare. Praeterea hoc esset con 
+   <lb ed="#B" n="30"/>trauenire suae professioni &amp; intentioni institutorum. Hinc 
+   <lb ed="#B" n="31"/>beatus Dominicus videns suos fratres Bononiae 
+   <lb ed="#B" n="32"/>capientes posfessiones ab aliquibus deuotis ciuibus 
+   <lb ed="#B" n="33"/>eas recusauit: &amp; fecit omnia restitui conferentibus: &amp; in 
+   <lb ed="#B" n="34"/>extremo vitae suae moriens maledictionem dei / &amp;
+   su<lb ed="#B" n="35" break="no"/>am suscipientibus possessiones tales reliquit.
+   Prae<lb ed="#B" n="36" break="no"/>terea, praedicatores reformati distrahunt
+   possessio<lb ed="#B" n="37" break="no"/>nes / quas praedecessores sui non reformati
+   habue<lb ed="#B" n="38" break="no"/>runt: quod nullo modo facerent si hoc eis liceret 
+   <lb ed="#B" n="39"/>Si enim bona immobilia iure legati / vel
+   haeredita<lb ed="#B" n="40" break="no"/>ria successione praedicatoribus veniant? praedicato-: 
+   <lb ed="#B" n="41"/>res enim possunt haereditatem parentum adire: de pri 
+   <lb ed="#B" n="42"/>uilegiis cle. iiii. quamprimum debent vendi: &amp;
+   preci<lb ed="#B" n="43" break="no"/>um necessitatibus coenobii applicari: &amp; siquid resi 
+   <lb ed="#B" n="44"/>duum fuerit, dari pauperibus. Et citat
+   archiepi<lb ed="#B" n="45" break="no"/>scopus Florentinus <name xml:id="jMqv4a-d1e1630-Nd1e197">Petrum Paludanum</name> in qua 
+   <lb ed="#B" n="46"/>dam epistola responsiua ad magistrum ordinis
+   di<lb ed="#B" n="47" break="no"/>centem <name xml:id="jMqv4a-d1e1630-Nd1e205">Hugonem</name> scripsisse: quod magister ordinis 
+   <lb ed="#B" n="48"/>&amp; prouincialis possint dispensare in hoc aeque ac 
+   <lb ed="#B" n="49"/>in comestione carnium in casu necessitatis / quae lege 
+   <lb ed="#B" n="50"/>non habet. Sed dicit <name xml:id="jMqv4a-d1e1630-Nd1e214">Antoninus</name> &amp; bene: non esse
+   si<lb ed="#B" n="51" break="no"/>mile: quia per constitutiones declaratur quod praelati 
+   <lb ed="#B" n="52"/>possunt dispensare in vno, &amp; non in alio: immo ex 
+   <lb ed="#B" n="53"/>praesse eis prohibetur. Itaque fixe dico hoc quod Antoninus 
+   <!--0642.xml-->
+   <cb ed="#B" n="b"/> 
+       <!-- 305-v b -->
+       <lb ed="#B" n="54"/>dicit. Nam si fratres bene viuant: &amp; non assumant 
+   <lb ed="#B" n="55"/>in excessiuo numero: non obueniet eis necessitas: 
+   <lb ed="#B" n="56"/>Secundo recitat dominum loannem Cardinalem/ 
+   <lb ed="#B" n="57"/>qui primus vitam regularem in religione eorum 
+   <lb ed="#B" n="58"/>suscitauit in ltalia, tenuisse hoc non licere: bono au 
+   <lb ed="#B" n="59"/>tem &amp; docto potius habenda est fides. Tertio, via 
+   <lb ed="#B" n="60"/>illa est tuta: &amp; alia multum periculosa. Quarto: quod 
+   <lb ed="#B" n="61"/>efficaciter eoncludit: concilium Viennense in dicta 
+   <lb ed="#B" n="62"/>cle. Exiui in. S. Cumque annui redditus. hoc dicit.
+   Ec<lb ed="#B" n="63" break="no"/>ce verba in forma. Cumque annui redditus inter
+   im<lb ed="#B" n="64" break="no"/>mobilia censeantur a iure: ac huiusmodi redditus 
+   <lb ed="#B" n="65"/>obtinere paupertati &amp; mendicitati repugnet. &amp; quae 
+   <lb ed="#B" n="66"/>sequuntur. vbi sacrosanctum concilium
+   conclu<lb ed="#B" n="67" break="no"/>dit, quod cum annui redditus mendicitati repugnent 
+   <lb ed="#B" n="68"/>minoribus conuenire non possunt. tum quia men 
+   <lb ed="#B" n="69"/>dicantes: tum quia in arctiore paupertate quam alii de 
+   <lb ed="#B" n="70"/>gunt: prout ipsi confitentur. De minoribus autem 
+   <lb ed="#B" n="71"/>nemini dubtum est. Nam regula eorum est strictis 
+   <lb ed="#B" n="72"/>sima: quibus pecunia est interdicta: ne per se vel
+   im<lb ed="#B" n="73" break="no"/>terpositam personam capiant. vt patet in cle. Exi 
+   <lb ed="#B" n="74"/>ui de paradiso. de verbo. signifi. &amp; in regula, lpsi au 
+   <lb ed="#B" n="75"/>tem pro vestibus / &amp; pro succurrendo infirmis pos 
+   <lb ed="#B" n="76"/>sunt habere recursum ad amicos religionis. Pro 
+   <lb ed="#B" n="77"/>pterea recte dicit Panor. in di. ca. Nimis. quod relicta 
+   <lb ed="#B" n="78"/>quae communiter fiunt alicui loco cum hoc onere 
+   <lb ed="#B" n="79"/>quod det annue certum redditum praedicatoribus / &amp; 
+   <lb ed="#B" n="80"/>minoribus vel aliis mendicantibus religiosis / non  
+   <lb ed="#B" n="81"/>valent: quia hoc esset quandam habere proprieta 
+   <lb ed="#B" n="82"/>tem 
+  </p>
+      <p xml:id="jMqv4a-d1e1630-d1e294">
+       <lb ed="#B" n="83"/>⁋ Contra hanc conclusionem
+   argui<lb ed="#B" n="84" break="no"/>tur. Praedicatores profitentur regulam beati
+   Au<lb ed="#B" n="85" break="no"/>gustini: modo illi non repugnat habere in commu 
+   <lb ed="#B" n="86"/>ni. Respondetur. Beatus Dominicus licet accepe 
+   <lb ed="#B" n="87"/>rit aliqua ex regula beati <name xml:id="jMqv4a-d1e1630-Nd1e307" ref="#Augustine">Augustini:</name> tamen adie 
+   <lb ed="#B" n="88"/>cit abdicationem bonorum immobilium: ne fratres 
+   <lb ed="#B" n="89"/>ex illis viuerent sine mendicitate. &amp; hoc totum est 
+   <lb ed="#B" n="90"/>a Romano pontifice tanquam licitum &amp; meritorium 
+   <lb ed="#B" n="91"/>approbatum. &amp; hec est proprie regula fratrum prae 
+   <lb ed="#B" n="92"/>dicatorum. Constitutiones autem capituli
+   super<lb ed="#B" n="93" break="no"/>additae sunt pro conseruatione regulae: &amp; a capitu 
+   <lb ed="#B" n="94"/>lis statuta superaddita possunt per alia immutari: 
+   <lb ed="#B" n="95"/>non autem regula quam profitentur, absque ecclesiae 
+   <lb ed="#B" n="96"/>iudicio / quae regulam admisit. Predicatores tamen 
+   <lb ed="#B" n="97"/>possunt habere pauca bona mobilia in communi 
+   <lb ed="#B" n="98"/>pro paruo tempore: quorum possunt dici domi 
+   <lb ed="#B" n="99"/>ni more aliorum religiosorum. debent tamen elee 
+   <lb ed="#B" n="100"/>mosynis viuere: siue ad eos deferantur: siue eas
+   a<lb ed="#B" n="101" break="no"/>iunde petant.
+  </p>
+      <p xml:id="jMqv4a-d1e1630-d1e342">
+   ⁋ Secundo arguitur. Minores 
+   <lb ed="#B" n="102"/>possunt habere hortos &amp; oleta, &amp; a fortiore praedi 
+   <lb ed="#B" n="103"/>catores: quorum sint domini: sed possunt hortos 
+   <lb ed="#B" n="104"/>cum arboribus ad aliquantam distantiam elonga 
+   <lb ed="#B" n="105"/>re: quia non est status praefixus: ergo possunt cape 
+   <lb ed="#B" n="106"/>re redditus quibus viuant. Respondetur. possunt 
+   <lb ed="#B" n="107"/>hi &amp; illi habere hortos: in quibus habeant oleta ex 
+   <lb ed="#B" n="108"/>quibus viuant: non autem vendendo: &amp; non am 
+   <!--0643.xml-->
+   <pb ed="#B" n="306-r"/>
+       <cb ed="#B" n="a"/>
+       <lb ed="#B" n="1"/>plius. &amp; illic est status in elongatione.
+  </p>
+      <p xml:id="jMqv4a-d1e1630-d1e368">
+   ⁋ Tertio at 
+   <lb ed="#B" n="2"/>guitur, consuetudo iam est introducta in multis 
+   <lb ed="#B" n="3"/>regionibus quod mendicantes religiosi habeant
+   red<lb ed="#B" n="4" break="no"/>ditus ex quibus ferme viuere possint. consuetudo 
+   <lb ed="#B" n="5"/>autem legem pofitiuam interpretatur. Responde 
+   <lb ed="#B" n="6"/>tur. seruare votum est de iure diuino: contra ius
+   au<lb ed="#B" n="7" break="no"/>tem diuinum nulla currit consuetudo.
+  </p>
+      <p xml:id="jMqv4a-d1e1630-d1e384">
+   ⁋
+   Quar<lb ed="#B" n="8" break="no"/>to arguitur. quia multorum refriguit charitas: non 
+   <lb ed="#B" n="9"/>possunt sustentari eleemosynis: ergo necessarium 
+   <lb ed="#B" n="10"/>est capere redditus: alioquin ordo corruet. Respon 
+   <lb ed="#B" n="11"/>detur. culpa est ex parte eorum, si charitas erga eos 
+   <lb ed="#B" n="12"/>refriguit: quia non viuunt religiose, sed saeculares 
+   <lb ed="#B" n="13"/>scandalizant. Secundo nimis sua philacteria dila 
+   <lb ed="#B" n="14"/>tant. nam omnes suam religionem assumere
+   vo<lb ed="#B" n="15" break="no"/>lentes, vtiles &amp; inutiles sine discrimine admittunt: 
+   <lb ed="#B" n="16"/>in grauamen &amp; onus populi: contra aequitatem, &amp; 
+   <lb ed="#B" n="17"/>contra ordinis rigorem, quem tanta congeries non 
+   <lb ed="#B" n="18"/>seruat. sed si redigerent se ad certum numerum, &amp;
+   be<lb ed="#B" n="19" break="no"/>ne viuerent: optime eis prouideretur. Quod ostendo 
+   <lb ed="#B" n="20"/>manifeste, nouimus siquidem in vtroque regno Bri 
+   <lb ed="#B" n="21"/>tanniae multa esse coenobia de obseruantia sancti 
+   <lb ed="#B" n="22"/>Francisci, qui in diem viuunt, nihil de crastino solliciti 
+   <lb ed="#B" n="23"/>secundum suam professionem in magno numero: po 
+   <lb ed="#B" n="24"/>pulum verbo &amp; exemplo instituentes: &amp; eleemo 
+   <lb ed="#B" n="25"/>synis viuentes. ergo vbi alii non bene viuunt, sua 
+   <lb ed="#B" n="26"/>culpa non consequuntur eleemosynas.
+  </p>
+      <p xml:id="jMqv4a-d1e1630-d1e428">
+   ⁋
+   Quin<lb ed="#B" n="27" break="no"/>to arguitur. dicunt se habere dispensationem a Ro 
+   <lb ed="#B" n="28"/>mano pontifice vt possint posfessiones recipere: 
+   <lb ed="#B" n="29"/>&amp; fratres minores pecuniam. modo papa omnia 
+   <lb ed="#B" n="30"/>iura in scrinio pectoris sui censetur habere. de
+   con<lb ed="#B" n="31" break="no"/>stitu. ca. i. lib. vi. Respondetur. male informant Ro 
+   <lb ed="#B" n="32"/>manum pontificem: &amp; adducunt aliquos sophist 
+   <lb ed="#B" n="33"/>cos colores pro se: nec dicunt de sua mala vita &amp; 
+   <lb ed="#B" n="34"/>nimia religiosorum multiplicatione. modo priui 
+   <lb ed="#B" n="35"/>legium per surreptionem obtentum, vigore caret. 
+   <lb ed="#B" n="36"/>de rescrip. ca. Super literis. Nulli enim dubium est 
+   <lb ed="#B" n="37"/>quin si papa cognosceret rem sicuti est: non
+   conce<lb ed="#B" n="38" break="no"/>deret eis haec priuilegia. sed quia habent in curia 
+   <lb ed="#B" n="39"/>Romana aliquos pro se rogantes, quaerentes
+   la<lb ed="#B" n="40" break="no"/>nam, &amp; non salutem rogantium: conceduntur.
+  </p>
+      <p xml:id="jMqv4a-d1e1630-d1e461">
+   ⁋ Sexto 
+   <lb ed="#B" n="41"/>arguitur. Si frater minor transeat per regionem 
+   <lb ed="#B" n="42"/>aliquam in qua non possit habere necessaria: vbi 
+   <lb ed="#B" n="43"/>aliquis daret ei scutum ad emendum panem, po 
+   <lb ed="#B" n="44"/>test illud accipere ne fame pereat: necessitas enim 
+   <lb ed="#B" n="45"/>non habet legem. Confirmatur haec ratio. primo 
+   <lb ed="#B" n="46"/>die quo fratres minores transeunt de Edinburgo 
+   <lb ed="#B" n="47"/>ad capitulum per mare: magister nauis potest eos 
+   <lb ed="#B" n="48"/>alere in naui: Sortes in itinere, primo die egressus: 
+   <lb ed="#B" n="49"/>Plato secundo die: Cicero tertio. &amp; sic quolibet die 
+   <lb ed="#B" n="50"/>Romam vsque. vel breuiter aliquis opulentus vi 
+   <lb ed="#B" n="51"/>transiens alia causa Romam potest eos alere in
+   iti<lb ed="#B" n="52" break="no"/>nere. ergo pari ratione possunt habere socium ha 
+   <lb ed="#B" n="53"/>bentem pecuniam ab aliquo amicorum ordinis qui 
+   <lb ed="#B" n="54"/>omnia necessaria ministrabit in itinere.
+  </p>
+      <p xml:id="jMqv4a-d1e1630-d1e494">
+   ⁋ Ad sextum 
+   <lb ed="#B" n="55"/>respondetur. si caelum rueret, omnia essent confu 
+   <!--0643.xml-->
+   <cb ed="#B" n="b"/> 
+       <!-- 306-r b -->
+       <lb ed="#B" n="56"/>sa. conditio nempe illa nunquam euenit. nunquid de 
+   <lb ed="#B" n="57"/>Hibernia insula, Scotia, Anglia, Norpegia obser 
+   <lb ed="#B" n="58"/>uantes vadunt in ltaliam vel Hispaniam ad capi 
+   <lb ed="#B" n="59"/>tulum, &amp; transeunt satis commode: Contingit quod in  
+   <lb ed="#B" n="60"/>terdum penuriam patiantur: haec enim est inuentio 
+   <lb ed="#B" n="61"/>regulae &amp; institutoris. capiant pro primo ferculo i 
+   <lb ed="#B" n="62"/>scutella vnum gradum patientiae: qui perdice, spi 
+   <lb ed="#B" n="63"/>rituali viro est dulcior. Ad confirmationem con 
+   <lb ed="#B" n="64"/>cedo quod si diu maneant in naui / capiunt refectionem 
+   <lb ed="#B" n="65"/>in naui, vel a magistro nauis, vel mercatoribus: quam 
+   <lb ed="#B" n="66"/>sibi libentius impartiuntur quam ipsi capiant. &amp; ita tan 
+   <lb ed="#B" n="67"/>tisper eis fiet quoad bene viuant &amp; non amplius. 
+   <lb ed="#B" n="68"/>Christus enim qui pascit aues in campis, eos san 
+   <lb ed="#B" n="69"/>cte &amp; religiose viuentes non deseret nisi se primum 
+   <lb ed="#B" n="70"/>deserant &amp; famulum suum qui ordinem instituit. 
+   <lb ed="#B" n="71"/>Non tamen debent accipere a variis vel ab vno in 
+   <lb ed="#B" n="72"/>itinere sic necessaria: quia hoc esset in fraudem
+   re<lb ed="#B" n="73" break="no"/>gulae, &amp; deus tandem eos negligeret. possunt tamen 
+   <lb ed="#B" n="74"/>capere refectionem ab iis qui in itinere offeruntur: 
+   <lb ed="#B" n="75"/>&amp; praesumere quod deus dignatus est sibi dare hanc re 
+   <lb ed="#B" n="76"/>fectionem, sicut Heliae coruum cum pane. &amp; si non 
+   <lb ed="#B" n="77"/>essent alii. religionem foedantes, &amp; pecuniam contre 
+   <lb ed="#B" n="78"/>ctantes: multo melius tractarentur, nescit enim popu 
+   <lb ed="#B" n="79"/>lus frequenter an sint obseruantes / an fratres de
+   lar<lb ed="#B" n="80" break="no"/>ga manica, vt aiunt.
+  </p>
+      <p xml:id="jMqv4a-d1e1630-d1e560">
+   ⁋ Septimo arguitur. seque 
+   <lb ed="#B" n="81"/>retur quod peccarent dantes fratribus minoribus pecu 
+   <lb ed="#B" n="82"/>niam, similiter possessiones eis et praedicatoribus. 
+   <lb ed="#B" n="83"/>Distinguo quod peccarent. vel illud errore inuincibi 
+   <lb ed="#B" n="84"/>li putantes esse licitum: &amp; sic nego. multi namque sim 
+   <lb ed="#B" n="85"/>plices nesciunt illud esse peccatum: nec scire tener 
+   <lb ed="#B" n="86"/>tur. si vero fuerint docti hoc scientes: concedo quod 
+   <lb ed="#B" n="87"/>peccarent cooperantes scienter peccatis aliorum. 
+  </p>
+      <p xml:id="jMqv4a-d1e1630-d1e578">
+       <lb ed="#B" n="88"/>⁋ Octauo arguitur. Minores marsupia replentes 
+   <lb ed="#B" n="89"/>pecunia sunt adeo docti vt alii obseruantes: &amp; ver 
+   <lb ed="#B" n="90"/>bum dei praedicant tam vtiliter quam alii. ergo sunt 
+   <lb ed="#B" n="91"/>aeque vtiles reipublicae christianae: &amp; per consequens 
+   <lb ed="#B" n="92"/>fouendi more aliorum. Respondetur, quamuis forte 
+   <lb ed="#B" n="93"/>sint aeque docti in speculatiua scientia: &amp; habean 
+   <lb ed="#B" n="94"/>gratiam bene concionandi: non tamen praedicant 
+   <lb ed="#B" n="95"/>sicut alii qui verbo &amp; vita docent. isti autem sibi con 
+   <lb ed="#B" n="96"/>tradicunt. verbo tatnum docent: nam vita repugnat. Num 
+   <lb ed="#B" n="97"/>quid apud ethnicorum sapientissimum legisti. viii. 
+   <lb ed="#B" n="98"/>ca. x. Ethicorum, Veritas tamen in iis quae in actio 
+   <lb ed="#B" n="99"/>nem veniunt: ex operibus iudicatur &amp; vita? Et to 
+   <lb ed="#B" n="100"/>to illo dato quod aeque vtiliter praedicarent ac alii: non 
+   <lb ed="#B" n="101"/>sequitur quod sint in statu salutis: sicut nec existens in  
+   <lb ed="#B" n="102"/>mortali bene praedicans aliis.
+  </p>
+      <p xml:id="jMqv4a-d1e1630-d1e613">
+   ⁋ Epilogando dico quod 
+   <lb ed="#B" n="103"/>religiosi mendicantes non possunt habere agros vel 
+   <lb ed="#B" n="104"/>perpetuos redditus in parte vel in toto: nisi contir 
+   <lb ed="#B" n="105"/>geret quod non possent viuere eleemosynis fidelium: 
+   <lb ed="#B" n="106"/>quod nunquam vt opinor adhuc contigit. nam veran 
+   <lb ed="#B" n="107"/>institutionem seu regulam seruantes vt vbique vi 
+   <lb ed="#B" n="108"/>demus, meliorem habent portionem: templum / refe 
+   <lb ed="#B" n="109"/>ctorium, &amp; omnia melius extructa &amp; culta quam ha 
+   <lb ed="#B" n="110"/>beant irregulares. Videmus hoc Parisiis tam in prae 
+   <!--0644.xml-->
+   <pb ed="#B" n="306-v"/>
+       <cb ed="#B" n="a"/>
+       <lb ed="#B" n="1"/>dicatoribus quam minoribus: vt pote aedificia per eos
+   con<lb ed="#B" n="2" break="no"/>pleta quae per eorum patres num qui sortita fuissent ex 
+   <lb ed="#B" n="3"/>itum. deus nanque dat eis sapientiam omnia recte 
+   <lb ed="#B" n="4"/>moderandi: et hominibus instinctum eis bene facien 
+   <lb ed="#B" n="5"/>di. Alii vero sunt in malo &amp; periculoso statu viuer 
+   <lb ed="#B" n="6"/>di: quibus est necessarium redire ad sanam mentemi 
+   <lb ed="#B" n="7"/>et ad patris regulam quam vouerunt, nec iactent se de 
+   <lb ed="#B" n="8"/>priuilegio per surreptionem obtento. Bene viuentibus 
+   <lb ed="#B" n="9"/>autem sufficit facere quod in se est / vt convertantur. Quia 
+   <lb ed="#B" n="10"/>si convertantur omnes ( quod deus concedat) non
+   multipli<lb ed="#B" n="11" break="no"/>cent nimis gregem / sub vmbra efficiendi omnes
+   bo<lb ed="#B" n="12" break="no"/>nos: ne forte tot instabiles aggregando /plus toti 
+   <lb ed="#B" n="13"/>multitudini noceant qui prosint. 
+  </p>
+    </div>
+   </body>
+  </text>
+</TEI>

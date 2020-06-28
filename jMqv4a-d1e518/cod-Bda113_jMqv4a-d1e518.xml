@@ -1,0 +1,250 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 8</title>
+      <author ref="#JohnMair">John Mair</author>
+      <respStmt>
+       <name>Jeffrey C. Witt</name>
+       <resp>TEI Encoder</resp>
+      </respStmt>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 8</title>
+       <date when="2020-06-09">June 27, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="B" n="cod-Bda113">Badius 1516</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+     guidelines for a diplomatic edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-06-27" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+      <pb ed="#B" n="97-r"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="jMqv4a-d1e518"> <!-- l4d15q8 -->
+      <head xml:id="jMqv4a-d1e518-Hd1e104">Quaestio 8</head>
+      <head xml:id="jMqv4a-d1e518-Hd1e107" type="question-title">An eleemosyna sit opus magnae perfectionis et 
+  an quilibet de quolibet bono quod habet possit licite dare eleemosynam</head>
+      <p xml:id="jMqv4a-d1e518-d1e110">
+       <lb ed="#B" n="18"/>SEcundo circa mate 
+   <lb ed="#B" n="19"/>tiam eleemosynae quaeritur 
+   <lb ed="#B" n="20"/>an eleemosyna sit opus ma 
+   <lb ed="#B" n="21"/>gnae perfectionis: &amp; an
+   qui<lb ed="#B" n="22" break="no"/>libet de quolibet bono quod 
+   <lb ed="#B" n="23"/>i habet possit licite facere elee 
+   <lb ed="#B" n="24"/>mosynam.
+  </p>
+      <p xml:id="jMqv4a-d1e518-d1e128">
+   ⁋ Respondetur per
+   con<lb ed="#B" n="25" break="no"/>clusiones. Prima est. Eleemosyna est opus deo
+   mul<lb ed="#B" n="26" break="no"/>tum acceptum &amp; gratum probatur. Lucae. xi. scribitu 
+   <lb ed="#B" n="27"/>Date eleemosynam: &amp; ecce omnia munda sunt vobis 
+   <lb ed="#B" n="28"/>ltem orationes &amp; eleemosynae Cornelii ascenderum 
+   <lb ed="#B" n="29"/>in conspectu dei. Actuum. x. Preterea multum placet 
+   <lb ed="#B" n="30"/>deo redemptio peccatorum: sed haec fit per
+   eleemosy<lb ed="#B" n="31" break="no"/>nam. igitur. Probatur minor per illud Danielis. iiii 
+   <lb ed="#B" n="32"/>Peccata tua eleemosynis redime. Insuper Augusti 
+   <lb ed="#B" n="33"/>nus in sermone. xlvi. ad Eremitas dicit. Fratres 
+   <lb ed="#B" n="34"/>mei charissimi num quam recordor me legisse mala mor 
+   <lb ed="#B" n="35"/>te periisse illum qui libenter opera pietatis &amp; chari 
+   <lb ed="#B" n="36"/>tatis voluit exercere. Rursus ad hoc inuitant
+   no<lb ed="#B" n="37" break="no"/>scripturae. vt Matthaei. x. Quicumque potum dederi 
+   <lb ed="#B" n="38"/>vni ex minimis istis calicem aquae frigidae tamen in
+   no<lb ed="#B" n="39" break="no"/>mine discipuli, Amen dico vobis non perdet mero 
+   <lb ed="#B" n="40"/>dem suam. Et Esaiae. lviii. Frange esurienti panem 
+   <lb ed="#B" n="41"/>tuum: &amp; egenos vagosque induc in domum tuam 
+   <lb ed="#B" n="42"/>Vide quomodo Abraha sedebat in ostio domus 
+   <lb ed="#B" n="43"/>suae in convalle Mambre: vt inuitaret transeuntes ad 
+   <lb ed="#B" n="44"/>hospitium &amp; cibum. quomodo Loth excepit
+   hospi<lb ed="#B" n="45" break="no"/>tes: quomodo mortuos Thobias sepeliuit. Quid lo 
+   <lb ed="#B" n="46"/>anni eleemosynatio contigerit, lege in vitis patrum 
+   <lb ed="#B" n="47"/>Quid de sancto Osbaldo Anglorum rege post elee 
+   <lb ed="#B" n="48"/>mosynam communem pauperibus datam: cum diceretur 
+   <lb ed="#B" n="49"/>illi quod erat multitudo pauperum adhuc expectans 
+   <lb ed="#B" n="50"/>quae nihil eleemosynae acceperat: Rex zelo dei du 
+   <lb ed="#B" n="51"/>ctus lancem argenteam in qua comedebat, fregit &amp; 
+   <!--0225.xml-->
+   <cb ed="#B" n="b"/> 
+       <!-- 97-r b -->
+       <lb ed="#B" n="52"/>pauperibus iussit erogari. cui pater Aidan.
+   preco<lb ed="#B" n="53" break="no"/>deum inquit, nunquam arescat haec manus, quod &amp;
+   effe<lb ed="#B" n="54" break="no"/>ctum habuit, vt Beda recitat in historia ecclesiae gi 
+   <lb ed="#B" n="55"/>tis Anglorum. libro. iii.
+  </p>
+      <p xml:id="jMqv4a-d1e518-d1e205">
+   ⁋ Ex his patet quam stulti sint 
+   <lb ed="#B" n="56"/>illi qui eleemosynam in vita non dant: proponentes ma 
+   <lb ed="#B" n="57"/>gnam vel mediocrem relinquere dandam pauperi 
+   <lb ed="#B" n="58"/>bus post mortem. licet enim haec volitio sit bona: &amp; in  
+   <lb ed="#B" n="59"/>vita: tamen non est circa difficile: quare est parui
+   me<lb ed="#B" n="60" break="no"/>riti. das enim effectualiter quando retinere non potes 
+   <lb ed="#B" n="61"/>Forte quibus relinquis non dabunt pauperibus 
+   <lb ed="#B" n="62"/>ltem pro illa datione exteriori non mereberis: quia non 
+   <lb ed="#B" n="63"/>es viator: sed pro actu quolibet meritorio in vita 
+   <lb ed="#B" n="64"/>elicito mereris vitam aeternam.
+  </p>
+      <p xml:id="jMqv4a-d1e518-d1e227">
+   ⁋ Secundo sequitur 
+   <lb ed="#B" n="65"/>multo imprudentiores esse praedictis: bona superflua 
+   <lb ed="#B" n="66"/>colligentes &amp; accumulantes liberis: qui ea fortasse dissi 
+   <lb ed="#B" n="67"/>pabunt: vel erunt eis occasio maioris peccati &amp;
+   rui<lb ed="#B" n="68" break="no"/>nae: nec dabunt in eleemosynas.
+  </p>
+      <p xml:id="jMqv4a-d1e518-d1e238">
+   ⁋ Ex quo tertio sequ 
+   <lb ed="#B" n="69"/>tur quod multo stultiores sunt illi qui circa bona for 
+   <lb ed="#B" n="70"/>tunae inhiant: nec habent liberos, patrem, nec fratres 
+   <lb ed="#B" n="71"/>&amp; non liberaliter dant eleemosynam &amp; in pios vsus 
+   <lb ed="#B" n="72"/>quod attestatur Salomon Ecclesiastis. iiii. dicens.
+   Con<lb ed="#B" n="73" break="no"/>siderans reperi aliam vanitatem sub sole. vnus est 
+   <lb ed="#B" n="74"/>&amp; secundum non habet: non filium / non fratrem: &amp; tamen labo 
+   <lb ed="#B" n="75"/>rare non cessat: nec satiantur oculi eius diuitiis: nec 
+   <lb ed="#B" n="76"/>recogitat dicens: Cui laboro? &amp; fraudo animam 
+   <lb ed="#B" n="77"/>meam bonis. 
+  </p>
+      <p xml:id="jMqv4a-d1e518-d1e260">
+       <lb ed="#B" n="78"/>⁋ Secunda conclusio. quilibet habens 
+   <lb ed="#B" n="79"/>bona superflua pro se potest dare eleemosynam non
+   ex<lb ed="#B" n="80" break="no"/>treme pauperi nec in notabili arctitudine posito: 
+   <lb ed="#B" n="81"/>est enim opus consilii &amp; magni meriti &amp; non
+   praece<lb ed="#B" n="82" break="no"/>pti. Haec sequitur ex probatione conclusionis
+   prae<lb ed="#B" n="83" break="no"/>cedentis: cu dictis in quaestione praecedenti. Seruus 
+   <lb ed="#B" n="84"/>autem dans eleemosyna de rebus domini sui contra eius 
+   <lb ed="#B" n="85"/>voluntatem, furtum facit. &amp; sic facit vxor de rebus 
+   <lb ed="#B" n="86"/>viri: nisi in certis casibus: caput enim mulieris est 
+   <lb ed="#B" n="87"/>vir. Si tamen famulus vel vxor habet voluntatem 
+   <lb ed="#B" n="88"/>patrisfamilias expressam vel praesumptam de
+   dan<lb ed="#B" n="89" break="no"/>da eleemosyna: non est peccatum: sed bene actum. 
+   <lb ed="#B" n="90"/>consensus enim mariti sufficit vxori: qui constat ex 
+   <lb ed="#B" n="91"/>consuetudine aliarum mulierum vel virorum
+   convicaneo<lb ed="#B" n="92" break="no"/>rum. solent namque mulieres panem, potum, &amp; huiusmo 
+   <lb ed="#B" n="93"/>di minuta dare pauperibus secundum facultates 
+   <lb ed="#B" n="94"/>suas. Si autem habeat multos liberos quibus vix ha 
+   <lb ed="#B" n="95"/>beat panem: male agit dando aliis propriis neglectis. 
+   <lb ed="#B" n="96"/>In certis casibus tamen potest dare marito no consen 
+   <lb ed="#B" n="97"/>tiente: vtpote si sit extreme pauper: iam enim ille est
+   priui<lb ed="#B" n="98" break="no"/>legiatus &amp; omnibus praeponendus: cui famulus contradicente 
+   <lb ed="#B" n="99"/>dmo, &amp; religiosus contradicente superiore potest eleemosu 
+   <lb ed="#B" n="100"/>nam dare: immo tenetur: ergo a fortiori vxor: si vir es 
+   <lb ed="#B" n="101"/>stultus, aut demens, nec datus est ei director alius
+   prae<lb ed="#B" n="102" break="no"/>ter vxorem, potest prudens mulier dare
+   eleemosy<lb ed="#B" n="103" break="no"/>nam vel aliquod donu ne maritus vel familia iacturan 
+   <lb ed="#B" n="104"/>incurrat. Sic enim fecit Abigail. i. Regum. xxv. Si est 
+   <lb ed="#B" n="105"/>mulier habeat parapherna: hoc est res proprias praeter 
+   <!--0226.xml-->
+   <pb ed="#B" n="97-v"/>
+       <cb ed="#B" n="a"/>
+       <lb ed="#B" n="1"/>dotem: potest de illis eleemosynam dare. 
+  </p>
+      <p xml:id="jMqv4a-d1e518-d1e332">
+       <lb ed="#B" n="2"/>⁋ Tertia conclusio, non de quolibet 
+   <lb ed="#B" n="3"/>bono fortunae quod est in nostra possessione,
+   possu<lb ed="#B" n="4" break="no"/>mus eleemosynam facere. Probatur. Nam aliqua
+   habe<lb ed="#B" n="5" break="no"/>mus quae tenemur veris dominis quos nouimus vel 
+   <lb ed="#B" n="6"/>noscere debemus, restituere: quemadmodum sunt
+   acqui<lb ed="#B" n="7" break="no"/>sita furto: rapina, aut vsura. hoc patet per <name xml:id="jMqv4a-d1e518-Nd1e347" ref="#Augustine">Augustinus</name> in  
+   <lb ed="#B" n="8"/>libro de verbis domini. sermone. xxxv. Si sit aliquid 
+   <lb ed="#B" n="9"/>inuentum &amp; nescitur cuius sit, post sufficientem proclama 
+   <lb ed="#B" n="10"/>tionem detur in eleemosyna pro anima illius: quid est dominus rei 
+   <lb ed="#B" n="11"/>in illa enim datione est consensus domini interpretatiuus. 
+   <lb ed="#B" n="12"/>Vel potest ascribere sibiipsi: orando pro illo si sit 
+   <lb ed="#B" n="13"/>vere pauper: sed caueat ne sit sibiipsi propitius
+   putan<lb ed="#B" n="14" break="no"/>do se pauperiorem quam sit, in illo casu retentionis. Si 
+   <lb ed="#B" n="15"/>vero sit pecunia turpiter acquisita &amp; non inique vel 
+   <lb ed="#B" n="16"/>niuste, vt a meretrice quae pecuniam capit pro sui cor 
+   <lb ed="#B" n="17"/>poris foeda locatione: &amp; licet ipsa peccet in capien 
+   <lb ed="#B" n="18"/>da pecunia: tamen dominium pecuniae acquirit: si alter 
+   <lb ed="#B" n="19"/>transferre in talem vsum poterat: &amp; qiuis turpiter 
+   <lb ed="#B" n="20"/>faciat: non tamen turpiter accepit. itu. de condi. ob 
+   <lb ed="#B" n="21"/>tur. cau. l. iiii. ipsa potest eleemosymam de tali pecunia 
+   <lb ed="#B" n="22"/>facere: quia sua est: sed illa pecunia in publicum vsum 
+   <lb ed="#B" n="23"/>templi vel altaris in sacrificio ob scandalum non est ap 
+   <lb ed="#B" n="24"/>plicanda: secundum illud Deuteronomii. xxiiii. Non 
+   <lb ed="#B" n="25"/>pfferes mercedem prostibuli in domo domini dei tui. 
+   <lb ed="#B" n="26"/>Quod non est in lege noua negligendum: quatenus infa 
+   <lb ed="#B" n="27"/>mes personae a peccatis foedis retrahantur. Idem est iu 
+   <lb ed="#B" n="28"/>dicium in meretrice non publica nec notoria. Ratio 
+   <lb ed="#B" n="29"/>est. quia si ipsa acquirit dominium rei datae. in centesimo 
+   <lb ed="#B" n="30"/>actu aeque acquirit in decimo / octauo / secundo / &amp; 
+   <lb ed="#B" n="31"/>primo. Talia tamen non sunt multum praedicanda: sed mu 
+   <lb ed="#B" n="32"/>lieres absoluendae sunt cum ad confessionem &amp; poeniten 
+   <lb ed="#B" n="33"/>tiam venerint. cuiusmodi sunt filiae dei conuersae 
+   <lb ed="#B" n="34"/>nunc Parisiis.
+  </p>
+      <p xml:id="jMqv4a-d1e518-d1e409">
+   ⁋ Hactenus vidimus eleemosynam in  
+   <lb ed="#B" n="35"/>opere consilii esse magni meriti: ergo a fortiori in  
+   <lb ed="#B" n="36"/>operem praecepti. &amp; quo id quod tenemur restituere
+   ve<lb ed="#B" n="37" break="no"/>ris dominis si cognoscantur: no est in eleemosyna
+   dan<lb ed="#B" n="38" break="no"/>dum: sed vero domino restituendum. De ordine autem 
+   <lb ed="#B" n="39"/>dandae eleemosynae sic procedas. Primo eleemosyna 
+   <lb ed="#B" n="40"/>magis coniunctis est danda si egeant. secundum <name xml:id="jMqv4a-d1e518-Nd1e424" ref="#Augustine">Augustini</name> i 
+   <lb ed="#B" n="41"/>de Doctrina christiana. obseruando semper quod
+   ma<lb ed="#B" n="42" break="no"/>gis reddendum sit debitum quam dandum beneficium. secundum 
+   <lb ed="#B" n="43"/>Philosophum. ix. Ethicorum. Extreme pauper est omnibus 
+   <lb ed="#B" n="44"/>praeponendus: &amp; post eum existens in notabili
+   necessi<lb ed="#B" n="45" break="no"/>tatis arctitudine. de quibus quaestione praecedenti locuple 
+   <lb ed="#B" n="46"/>tius loquuti sumus. Danda est autem eleemosyna: 
+   <lb ed="#B" n="47"/>sed non semper ordinate ascendendo a nihil habentibus 
+   <lb ed="#B" n="48"/>tat enim dare duos paupes: quorum minus pauper sit 
+   <lb ed="#B" n="49"/>in eleemosyna postponendus. Ratio est: quia dare 
+   <lb ed="#B" n="50"/>quibuscumque eleemosynam indifferenter est opus consi 
+   <lb ed="#B" n="51"/>ii. &amp; potest accidere casus ratione cuius potius vni 
+   <lb ed="#B" n="52"/>danda sit eleemosyna quam alteri: vtpote quia est reipu 
+   <lb ed="#B" n="53"/>plicae vtilior: vt iam existens praedicator vel verisimil 
+   <lb ed="#B" n="54"/>ter futurus: &amp; bonus studens non habens vnde ala 
+   <!--0226.xml-->
+   <cb ed="#B" n="b"/> 
+       <!-- 97-v b -->
+       <lb ed="#B" n="55"/>tur. Multi enim vadunt ad Carthusiam quotidie pro 
+   <lb ed="#B" n="56"/>grosso pane &amp; offa, &amp; seruiunt vt panem habeat, quam 
+   <lb ed="#B" n="57"/>tandem improbo labore in praeclaros viros &amp;
+   reipu<lb ed="#B" n="58" break="no"/>blicae vtiles euadunt. Tame vt plurimum non
+   opor<lb ed="#B" n="59" break="no"/>tet facere magnam discretionem in danda
+   eleemosy<lb ed="#B" n="60" break="no"/>na probat hoc Ioannes Chrysostomus super
+   episto<lb ed="#B" n="61" break="no"/>lam ad Hebraeos, exemplo Loth, &amp; Abrahae: qui omnes 
+   <lb ed="#B" n="62"/>indifferenter recipiebant: &amp; aliter angelos non
+   rece<lb ed="#B" n="63" break="no"/>pissent nisi omnes passim &amp; indiscriminatim
+   rece<lb ed="#B" n="64" break="no"/>pissent: immo &amp; fortasse angelos repulissent. Et
+   pro<lb ed="#B" n="65" break="no"/>pterea addit Chrysostomus. Quiescamus ab hac 
+   <lb ed="#B" n="66"/>surda ac diabolica &amp; peremptoria curiositate, scilicet 
+   <lb ed="#B" n="67"/>discernendi inter pauperem &amp; pauperem. Tamdeon vbi
+   con<lb ed="#B" n="68" break="no"/>stat nobis de alicuius indigentia mendicare erubescentis 
+   <lb ed="#B" n="69"/>&amp; non de aliis promiscue mendicantibus: debemus 
+   <lb ed="#B" n="70"/>potius eleemosynam illi conferre. Dicit autem Ioannes 
+   <lb ed="#B" n="71"/>Chrysostomus illud ne aliquos fame confectos &amp; 
+   <lb ed="#B" n="72"/>squalidos relinquamus defectu eleemosynae. 
+  </p>
+    </div>
+   </body>
+  </text>
+</TEI>

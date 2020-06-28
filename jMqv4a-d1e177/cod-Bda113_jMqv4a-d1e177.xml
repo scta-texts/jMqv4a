@@ -1,0 +1,251 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 2</title>
+      <author ref="#JohnMair">John Mair</author>
+      <respStmt>
+       <name>Jeffrey C. Witt</name>
+       <resp>TEI Encoder</resp>
+      </respStmt>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 2</title>
+       <date when="2020-06-09">June 27, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="B" n="cod-Bda113">Badius 1516</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+     guidelines for a diplomatic edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-06-27" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+      <pb ed="#B" n="33-v"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="jMqv4a-d1e177"> <!-- l4d6q2 -->
+      <head xml:id="jMqv4a-d1e177-Hd1e104">Quaestio 2</head>
+      <p xml:id="jMqv4a-d1e177-d1e107">
+   <!--0098.xml-->
+       <cb ed="#B" n="b"/> 
+       <!-- 33-v b -->
+       <lb ed="#B" n="55"/>ULtimo circa hoc 
+   <lb ed="#B" n="56"/>sacramentum quaeritur. an 
+   <lb ed="#B" n="57"/>catechismus &amp; exorcismus 
+   <lb ed="#B" n="58"/>sint necessarii ad
+   bapti<lb ed="#B" n="59" break="no"/>smum. Pro solutione
+   no<lb ed="#B" n="60" break="no"/>ta. quod isti termini sunt gri 
+   <lb ed="#B" n="61"/>ci. catechismus idem est 
+   <lb ed="#B" n="62"/>quod instructio. debet enim 
+   <lb ed="#B" n="63"/>baptizandus primo
+   in<lb ed="#B" n="64" break="no"/>strui antequam baptizetur: si sit adultus. Quod bene 
+   <lb ed="#B" n="65"/>significauit saluator Matthaei vltimo, dicens. Eun 
+   <lb ed="#B" n="66"/>tes ergo docete omnes gentes baptizantes &amp;c. 
+   <lb ed="#B" n="67"/>Praemisit enim docete ad insinuandum quod baptismum 
+   <lb ed="#B" n="68"/>praecedat fidei instructio. vt dicitur de consecratio 
+   <lb ed="#B" n="69"/>ne distin. iiii. Ante baptismum. Exorcismus adiura 
+   <lb ed="#B" n="70"/>tio dicitur. Exorcistae sunt qui super energuminor 
+   <lb ed="#B" n="71"/>vel catechuminos, id est super omnes qui habent spir 
+   <lb ed="#B" n="72"/>ritum immundum, inuocant nomen domini. paruuli priu 
+   <lb ed="#B" n="73"/>exorcizantur antequam catechizentur: vt non impediam 
+   <lb ed="#B" n="74"/>tur per daemonium antequam instruantur. 
+  </p>
+      <p xml:id="jMqv4a-d1e177-d1e159">
+       <lb ed="#B" n="75"/>⁋ lstis notatis ponuntur duae
+   con<lb ed="#B" n="76" break="no"/>clusiones. Prima est negatiua, quae patet ex praemissis: 
+   <lb ed="#B" n="77"/>nam ad baptismum sufficit intentio baptizantis, aqua, &amp; 
+   <lb ed="#B" n="78"/>verba quo ad paruulum non regneatu: &amp; consensus in  
+   <lb ed="#B" n="79"/>adulto.
+  </p>
+      <p xml:id="jMqv4a-d1e177-d1e172">
+   ⁋ Secunda conclusio, catechismus &amp; exorci 
+   <lb ed="#B" n="80"/>smus sunt de solennitate &amp; honestate ecclesiae: &amp; pec 
+   <lb ed="#B" n="81"/>cat illa omittens secundum consuetudinem suae ecclesiae nisi 
+   <lb ed="#B" n="82"/>baptizandus sit in periculo mortis ante baptismi finem. 
+   <lb ed="#B" n="83"/>Prior pars patet ex notabilibus. Secunda pars patet 
+   <lb ed="#B" n="84"/>quia tota conclusio est exceptiua, &amp; excipit casum 
+   <lb ed="#B" n="85"/>necessitatis: quia paruulus propter solennitatem non est 
+   <lb ed="#B" n="86"/>exponendus periculo damnationis aeternae. 
+  </p>
+      <p xml:id="jMqv4a-d1e177-d1e191">
+       <lb ed="#B" n="87"/>⁋ Contra secundam conclusionem 
+   <lb ed="#B" n="88"/>arguitur probando quod paruulus non debet catechizari 
+   <lb ed="#B" n="89"/>paruulus nihil intelligit: ergo illa instructio est ei inut 
+   <lb ed="#B" n="90"/>lis. Forte negas consequentiam: quia patrini pro eo respon 
+   <lb ed="#B" n="91"/>dent. Contra, quando presbyter quaerit credis: patrinus 
+   <lb ed="#B" n="92"/>respondet credo, pro seipo. Quod probo: quia si pro alio: 
+   <lb ed="#B" n="93"/>falsum dicit &amp; mentitur. nam bene scit patrinus quod 
+   <lb ed="#B" n="94"/>paruulus non credit. Praeterea. per hoc quod paruulus 
+   <lb ed="#B" n="95"/>esset postea haereticus, videtur quod patrinus
+   pecca<lb ed="#B" n="96" break="no"/>ret &amp; puniri deberet: &amp; si sic, paucos reperies patri 
+   <lb ed="#B" n="97"/>nos.
+  </p>
+      <p xml:id="jMqv4a-d1e177-d1e217">
+   ⁋ Secundo arguitur quod exorcismus nihil valet 
+   <lb ed="#B" n="98"/>quia vel illa verba naturaliter effugant spiritus immun 
+   <lb ed="#B" n="99"/>dos, vel ex pacto diuino: sed neutrum dabis: ergo 
+   <lb ed="#B" n="100"/>exorcismus est inutilis.
+  </p>
+      <p xml:id="jMqv4a-d1e177-d1e226">
+   ⁋ Respondetur sicut arguendo 
+   <lb ed="#B" n="101"/>dictum est: consequentia est nulla: quia patrini loco
+   par<lb ed="#B" n="102" break="no"/>uulorum respondent. &amp; nego quod falsum dicant. Primo 
+   <lb ed="#B" n="103"/>scredo, tantum valet quantum fidem habere incipio. Se 
+   <lb ed="#B" n="104"/>cundo dicitur quod ibi est partranscassio temporis pro tpore: quasi 
+   <!--0099.xml-->
+   <pb ed="#B" n="34-r"/>
+       <cb ed="#B" n="a"/>
+       <lb ed="#B" n="1"/>dicatur: credo pro tempore quo alter est adultus: vel 
+   <lb ed="#B" n="2"/>pro tempore quo putatur esse adultus. Tertio
+   dici<lb ed="#B" n="3" break="no"/>tur: quod possumus vti tempore praesenti pro. xx.
+   an<lb ed="#B" n="4" break="no"/>nis: &amp; sic illa est vera. &amp; licet cras paruulus
+   moria<lb ed="#B" n="5" break="no"/>tur, nihil impedit quin patrinus non mentiatur: quam 
+   <lb ed="#B" n="6"/>uis propositionem falsam dicat, quae est impertinens 
+   <lb ed="#B" n="7"/>ad mendacium. Ad aliud nego consequentia.
+  </p>
+      <p xml:id="jMqv4a-d1e177-d1e259">
+   ⁋
+   Vn<lb ed="#B" n="8" break="no"/>de pono propositiones. Prima est, non propterea 
+   <lb ed="#B" n="9"/>quod paruulus efficitur postea haereticus, peccat
+   pa<lb ed="#B" n="10" break="no"/>trinus. Probatur, nemo peccat pro delicto alterius 
+   <lb ed="#B" n="11"/>cum quo nullo modo communicat in illo: &amp; hoc est cla 
+   <lb ed="#B" n="12"/>rum si patrinus faciat paruulum erudiri in articu 
+   <lb ed="#B" n="13"/>lis fidei.
+  </p>
+      <p xml:id="jMqv4a-d1e177-d1e275">
+   ⁋ Secunda propositio, non obstat quamuis pa 
+   <lb ed="#B" n="14"/>trinus paruulum nullo modo in articulis fidei
+   edo<lb ed="#B" n="15" break="no"/>ceat. hoc patet. quia potest praesumere vbi
+   paruu<lb ed="#B" n="16" break="no"/>lus est cum fidelibus parentibus: nec constat sibi 
+   <lb ed="#B" n="17"/>de opposito: quod est sufficienter eruditus in necessa 
+   <lb ed="#B" n="18"/>riis ad salutem. vbi vero constaret ei de
+   opposito<lb ed="#B" n="19" break="no"/>vel si de illo dubitauerit dubitatione verisimili, 
+   <lb ed="#B" n="20"/>non esset patrinus excusatus si non doceat
+   paruu<lb ed="#B" n="21" break="no"/>lum in illis mediate, vel immediate: quia magis 
+   <lb ed="#B" n="22"/>ad eum pertinet paruuli eruditio quam ad alios
+   chri<lb ed="#B" n="23" break="no"/>stianos. Nec illud est praeter rationem: sicut enim 
+   <lb ed="#B" n="24"/>paruulus potest consequi salutem ex fide aliena 
+   <lb ed="#B" n="25"/>&amp; sacramento: sic congruum est quod obligetur ad 
+   <lb ed="#B" n="26"/>ea quae sunt fidei, obligatione aliena. sed illa non 
+   <lb ed="#B" n="27"/>est tota causa: vt inferius dicetur. In adultis oster 
+   <lb ed="#B" n="28"/>sum est esse debere catechismum ante baptismum ex 
+   <lb ed="#B" n="29"/>verbis Christi. lte docete omnes gentes. puta
+   con<lb ed="#B" n="30" break="no"/>munia &amp; principia in fide. &amp; hoc patet Actuum 
+   <lb ed="#B" n="31"/>viii. cum eunuchus Candacis reginae diceret. Quis 
+   <lb ed="#B" n="32"/>me prohibet baptizari ? respondit Philippus: si 
+   <lb ed="#B" n="33"/>credis ex toto corde, licet. at alter: credo (inquit) fi 
+   <lb ed="#B" n="34"/>lium dei Iesum esse Christum. Exorcismus etia 
+   <lb ed="#B" n="35"/>est rationabilis: vt in generatione spirituali
+   pri<lb ed="#B" n="36" break="no"/>us remoueatur dispositio baptismo repugnans 
+   <lb ed="#B" n="37"/>quam generatio spiritualis introducatur: sicut ignis 
+   <lb ed="#B" n="38"/>humiditatem remouet a ligno antequam forma
+   in<lb ed="#B" n="39" break="no"/>troducat: &amp; hortolanus vepres &amp; vrticas ab
+   hor<lb ed="#B" n="40" break="no"/>to expellit antequam inserat herbas. Et si dicas. prius 
+   <lb ed="#B" n="41"/>debet remoueri causa quam effectus: sed peccatum
+   pri<lb ed="#B" n="42" break="no"/>morum parentum est causa quare daemon in
+   ho<lb ed="#B" n="43" break="no"/>minibus habet potestatem: ergo homo est prius 
+   <lb ed="#B" n="44"/>baptizandus. Maior est falsa vniuersaliter: si effe 
+   <lb ed="#B" n="45"/>ctus augmentet causam vel eam manuteneat. 
+  </p>
+      <p xml:id="jMqv4a-d1e177-d1e347">
+       <lb ed="#B" n="46"/>⁋ Tertia propositio: licet requiratur actus volun 
+   <lb ed="#B" n="47"/>tatis proprius illius qui vouit voto proprie
+   di<lb ed="#B" n="48" break="no"/>cto: non tamen requiritur in baptismo. Prima pars 
+   <lb ed="#B" n="49"/>in materia de voto, &amp; distinctione. xxxviii. pate 
+   <lb ed="#B" n="50"/>bit. idem etiam requiritur in matrimonio: secus est 
+   <lb ed="#B" n="51"/>in baptismo: in quo non est proprie votum: cum 
+   <lb ed="#B" n="52"/>sit de necessitate salutis antequam accipiatur.
+   Secun<lb ed="#B" n="53" break="no"/>da pars patet ex praemissis. Hoc tamen non obstan 
+   <lb ed="#B" n="54"/>te ecclesia cogit legitime talem paruulum: quamquam 
+   <lb ed="#B" n="55"/>actualiter nunqui postea credat, ad seruanda ea quae 
+   <!--0099.xml-->
+   <cb ed="#B" n="b"/> 
+       <!-- 34-r b -->
+       <lb ed="#B" n="56"/>fidei sunt, &amp; non cogit purum infidelem. Ratio est 
+   <lb ed="#B" n="57"/>quia vnus est fidelis vel erat per fidem infusam: 
+   <lb ed="#B" n="58"/>alter non. Item quando non poneretur fides
+   infu<lb ed="#B" n="59" break="no"/>sa: quia vnus est de familia Christi: alter vero non  
+   <lb ed="#B" n="60"/>est: non est cogendus secundum apostoli sententiam 
+   <lb ed="#B" n="61"/>ad Romanos. v. Quid ad me de his qui foris 
+   <lb ed="#B" n="62"/>sunt? Nec paruulus incommodum postea
+   impor<lb ed="#B" n="63" break="no"/>tat ex hoc: &amp; pure infidelis commodum: sed
+   oppo<lb ed="#B" n="64" break="no"/>sito modo: quemadmodum si sint duo dyscoli:
+   quo<lb ed="#B" n="65" break="no"/>rum vnus cogatur per praeceptorem ad seruandam  
+   <lb ed="#B" n="66"/>regulam bonam: alter vero vagetur: &amp; nullum prae 
+   <lb ed="#B" n="67"/>ceptum habeat.
+  </p>
+      <p xml:id="jMqv4a-d1e177-d1e405">
+   ⁋ Ad secundum argumentum: 
+   <lb ed="#B" n="68"/>vbi petis an naturaliter effugat daemones, an ad  
+   <lb ed="#B" n="69"/>placitum: dico ex pacto diuino. Et si dicas. Dauid  
+   <lb ed="#B" n="70"/>primi Regum. xvi. auferebat daemonium a Saule 
+   <lb ed="#B" n="71"/>per pulsum citharae: &amp; fumus iecoris piscis extri 
+   <lb ed="#B" n="72"/>cat omne genus daemoniorum. Thobiae. vi. Et. iiii. 
+   <lb ed="#B" n="73"/>Regum. iii. Heliseus fecit adduci psalten: vt
+   prophe<lb ed="#B" n="74" break="no"/>taret. Respondetur. Spiritus malignus minus vnum 
+   <lb ed="#B" n="75"/>hominem torquere potest quam alium: quia est minus 
+   <lb ed="#B" n="76"/>dispositus. Nam actus actiuorum sunt in patiente 
+   <lb ed="#B" n="77"/>disposito. secundo de anima. melancholicum enim 
+   <lb ed="#B" n="78"/>&amp; subtristem magis vexare potest quam sanguineum 
+   <lb ed="#B" n="79"/>&amp; iucundum: cantus autem &amp; melodia aliquos
+   red<lb ed="#B" n="80" break="no"/>dunt iucundos: &amp; mutant dispositiones hominum: 
+   <lb ed="#B" n="81"/>vt. viii. Politicorum dicit philosophus. propterea 
+   <lb ed="#B" n="82"/>Dauid cithara poterat disponere Saulem ad hoc 
+   <lb ed="#B" n="83"/>vt minus pateretur a daemone. Vlterius dico, quod 
+   <lb ed="#B" n="84"/>Dauid dulciter personuit: ob quod minus Saul
+   ap<lb ed="#B" n="85" break="no"/>prehendebat vexationem propter voluptatem ex
+   me<lb ed="#B" n="86" break="no"/>lodia acceptam. nam pluribus intentis minor est 
+   <lb ed="#B" n="87"/>ad singula sensus. minus enim cruciatur laborans 
+   <lb ed="#B" n="88"/>morbo propter tactum cymbalorum bene
+   sonan<lb ed="#B" n="89" break="no"/>tium: licet idem morbus intrinsece maneat: quia 
+   <lb ed="#B" n="90"/>apprehensio actualis intensa vel remissa, vel
+   ani<lb ed="#B" n="91" break="no"/>maduertentia ad aliud delectabile, partem poenae 
+   <lb ed="#B" n="92"/>magnam dissoluit. Poterat etiam Dauid per preces &amp; 
+   <lb ed="#B" n="93"/>deuotionem in cithara mereri ne Saul puniretur 
+   <lb ed="#B" n="94"/>tantum quantum antea. De fumo cordis piscis 
+   <lb ed="#B" n="95"/>quem Thobias ab angelo apprehendere iussus est: 
+   <lb ed="#B" n="96"/>dico quod hoc factum est deo volente. Per psalten autem 
+   <lb ed="#B" n="97"/>deuotio Helisei accendebatur, vt dignus esset prophe 
+   <lb ed="#B" n="98"/>tiam recipere. Aliqua nanque sunt instrumenta
+   mu<lb ed="#B" n="99" break="no"/>sica ad pietatem &amp; fletum mouentia: quibus anti 
+   <lb ed="#B" n="100"/>quitus vtebantur in planctu mortuorum: aliqua  
+   <lb ed="#B" n="101"/>ad bellum accendunt: sicut inferius. distin. xv. hu 
+   <lb ed="#B" n="102"/>ius dicemus de tuba &amp; lituo. sicut enim canes so 
+   <lb ed="#B" n="103"/>no cornuum accenduntur ad venandum: sic
+   ali<lb ed="#B" n="104" break="no"/>qua ad deuotionem mouent: quibus vtendum est 
+   <lb ed="#B" n="105"/>in diuinis officiis. Hinc Dauid saltabat ante arcan 
+   <lb ed="#B" n="106"/>foederis: &amp; percutiebat in organis armigatis. ii. 
+   <lb ed="#B" n="107"/>Regum. vi. Et iam tempus equum fumantia sol 
+   <lb ed="#B" n="108"/>uere colla: circa hoc sacramentum
+  </p>
+    </div>
+   </body>
+  </text>
+</TEI>

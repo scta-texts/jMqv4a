@@ -1,0 +1,449 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 17</title>
+      <author ref="#JohnMair">John Mair</author>
+      <respStmt>
+       <name>Jeffrey C. Witt</name>
+       <resp>TEI Encoder</resp>
+      </respStmt>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 17</title>
+       <date when="2020-06-09">June 27, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="B" n="cod-Bda113">Badius 1516</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+     guidelines for a diplomatic edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-06-27" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+      <pb ed="#B" n="112-v"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="jMqv4a-d1e601"> <!-- l4d15q17 -->
+      <head xml:id="jMqv4a-d1e601-Hd1e104">Quaestio 17</head>
+      <head xml:id="jMqv4a-d1e601-Hd1e107" type="question-title">Quomodo mulier possit satisfacere suae famae 
+  salva conscientia, quae habet spurium in 
+  adulterio genitum: supposito quod hic spurius 
+  putetur a marito esse haereses etc</head>
+      <p xml:id="jMqv4a-d1e601-d1e110">
+       <lb ed="#B" n="9"/>HOc loco occurrit quod 
+   <lb ed="#B" n="10"/>stio multum implexa: quomodo scilicet 
+   <lb ed="#B" n="11"/>mulier possit satisfacere suae 
+   <lb ed="#B" n="12"/>famae salua conscientia, quae 
+   <lb ed="#B" n="13"/>habet spurium in adulterioges 
+   <lb ed="#B" n="14"/>nitum: supposito quod hic
+   spii<lb ed="#B" n="15" break="no"/>lrius putetur a marito esse hae 
+   <lb ed="#B" n="16"/>res: vtpote quia est primoge 
+   <lb ed="#B" n="17"/>nitus nobilis viri, vel putatus eius primogenitus. 
+   <lb ed="#B" n="18"/>Et idem est de muliere supponente foetum alterius mu 
+   <lb ed="#B" n="19"/>lieris: sicut de muliere Salomonica in Tertio regum 
+   <lb ed="#B" n="20"/>legimus. &amp; simile tangitur in. c. Officii. de poeniten 
+   <lb ed="#B" n="21"/>&amp; remissio. Et arguitur quod haec mulier non possit 
+   <lb ed="#B" n="22"/>suam famam seruare: sed teneatur peccatum occultum pro 
+   <lb ed="#B" n="23"/>dere. Probatur. ipsa tenetur restituere haereditatem secu 
+   <lb ed="#B" n="24"/>do genito suo quem supponimus esse primogenitum do  
+   <lb ed="#B" n="25"/>mini: vel cuicumque vero haeredi, si dominus non
+   genue<lb ed="#B" n="26" break="no"/>rit liberos: vel his quibus verisiliter dominus daret suam hae 
+   <lb ed="#B" n="27"/>reditatem: si eius liberam habeat collationem &amp; illimita 
+   <lb ed="#B" n="28"/>tam.
+  </p>
+      <p xml:id="jMqv4a-d1e601-d1e156">
+   ⁋ Respondetur. haec mulier multifariam potest se haire. Ve 
+   <lb ed="#B" n="29"/>ipsa potest probare quod filius de quo contenditur est alterius 
+   <lb ed="#B" n="30"/>vel non. Si secundum, frustra ipsa diceret veritatem 
+   <lb ed="#B" n="31"/>quia non crederetur ei, nec ipsa potest veritatem
+   manife<lb ed="#B" n="32" break="no"/>stare: quia fauore matrimonii erit praesumptio in op 
+   <lb ed="#B" n="33"/>positu quod sit filius mariti. debet tamen omni via occul 
+   <lb ed="#B" n="34"/>ta suadere filio ingressum religionis: vel vt sit
+   sa<lb ed="#B" n="35" break="no"/>cerdos, vel aliquid eiusmodi: nihil dicendo extra com 
+   <lb ed="#B" n="36"/>fessionem de adulterio: sed asserendo secundum
+   ma<lb ed="#B" n="37" break="no"/>gis idoneum pro dominio habendo. &amp; si ad suum intentum 
+   <lb ed="#B" n="38"/>hac via deuenire nequeat: debet clanculum
+   sub<lb ed="#B" n="39" break="no"/>trahere quicquid potest: &amp; dare vero haeredi: &amp; poe 
+   <lb ed="#B" n="40"/>nitere quod ipsa non possit aliud facere. Et tunc ipsa 
+   <lb ed="#B" n="41"/>est in statu salutis. Ipsea enim est posita inter duo 
+   <lb ed="#B" n="42"/>videlicet non restituere haereditatem vero haeredis 
+   <lb ed="#B" n="43"/>&amp; detegere suam infamiam occultam, quae etiam 
+   <lb ed="#B" n="44"/>ei non proderit. Propterea a secundo debet
+   au<lb ed="#B" n="45" break="no"/>fugere: stando in primo: &amp; ita erit peccati expers: 
+   <lb ed="#B" n="46"/>Si vero ipsa possit apparenter probare quod primoge 
+   <lb ed="#B" n="47"/>nitus de quo loquimur sit spurius, adhuc
+   distinguen<lb ed="#B" n="48" break="no"/>dum est. Vel enim credit filium suum esse bonae conscientii 
+   <lb ed="#B" n="49"/>&amp; timere deum: &amp; quod adhibebit fidem matri asserent. 
+   <lb ed="#B" n="50"/>se esse spurium. vel non. Si primum, potest benigne dice 
+   <!--0256.xml-->
+   <cb ed="#B" n="b"/> 
+       <!-- 112-v b -->
+       <lb ed="#B" n="51"/>re filio seorsum: aut per confessorem significare. Non 
+   <lb ed="#B" n="52"/>enim est vero simile quod filius deteget casum patri putatiuo. 
+   <lb ed="#B" n="53"/>Si filius acquiescat sententiae maternae adeundo religio 
+   <lb ed="#B" n="54"/>nem, capiendo beneficium: vel eundo ad bellum
+   pericu<lb ed="#B" n="55" break="no"/>losum, vel ad exteras regiones: bene actu est. Si 
+   <lb ed="#B" n="56"/>vero matri non acquiescat, supposito quod si mater di 
+   <lb ed="#B" n="57"/>cat ei, saltem manebit secretum, dandum est pro viribus 
+   <lb ed="#B" n="58"/>vero haeredi: &amp; adhuc mater probe aget, nec est
+   su<lb ed="#B" n="59" break="no"/>spitio quin spurius tenebit secretum: quia si
+   putati<lb ed="#B" n="60" break="no"/>uus pater &amp; alii ad quos spectat haereditas scirent 
+   <lb ed="#B" n="61"/>rem: spurium de rerum natura tollerent. Si autem spiritu 
+   <lb ed="#B" n="62"/>rius matri non assentiat: sed dicat se facile
+   crede<lb ed="#B" n="63" break="no"/>re quod mater est impudica: &amp; existimare quod ipsa
+   ma<lb ed="#B" n="64" break="no"/>gis diligat secundo genitum vel verum haeredem: hoc est 
+   <lb ed="#B" n="65"/>quem ipsa proponit pro vero haerede, quam se: tunc non pec 
+   <lb ed="#B" n="66"/>cat tenendo dominium: quia habet motiua pro se de ista 
+   <lb ed="#B" n="67"/>bilitate mulierum. Forte enim magis diligit alium filium 
+   <lb ed="#B" n="68"/>vel inordinate verum haeredem: &amp; ipsa tenuit alium pro ve 
+   <lb ed="#B" n="69"/>ro herede a principio. teste autem deponente contra 
+   <lb ed="#B" n="70"/>ria plus credetur priae depositioni qui secundae. Etiam 
+   <lb ed="#B" n="71"/>iste est in matrimonio genitus: &amp; in re praeiudicia 
+   <lb ed="#B" n="72"/>li credere non tenetur. c. Per tuas. de proba. &amp; non
+   for<lb ed="#B" n="73" break="no"/>met sibi conscientiam in oppositum. quia sic erit pos 
+   <lb ed="#B" n="74"/>sessor malae fidei: &amp; omne quod non est ex fide
+   pec<lb ed="#B" n="75" break="no"/>catum est. ad Roma. xiiii. hoc est quicquid tenet contra 
+   <lb ed="#B" n="76"/>conscientiam. &amp; patet in cap. Literas. de restitu. spoli. 
+   <lb ed="#B" n="77"/>&amp; in cap. Per tuas. de simonia. ergo non tenetur ha 
+   <lb ed="#B" n="78"/>bere conscientiam se esse spurium. &amp; hoc patet. C. 
+   <lb ed="#B" n="79"/>de nup. in. l. Si vicinis scientibus. propterea legistae 
+   <lb ed="#B" n="80"/>dicunt illum fuisse fatuum qui ad assertionem reginae 
+   <lb ed="#B" n="81"/>dicentis filium esse spurium cessit regno.
+  </p>
+      <p xml:id="jMqv4a-d1e601-d1e281">
+   ⁋ Sed vtrum 
+   <lb ed="#B" n="82"/>debeat reuelare marito, alia est difficultas. &amp; disti 
+   <lb ed="#B" n="83"/>guo. Si enim maritus sit vir cordatus &amp; seuerus:
+   da<lb ed="#B" n="84" break="no"/>to quod verositer ipsa poterit probare intentum: ad  
+   <lb ed="#B" n="85"/>huc non tenetur ei materiam aperire. &amp; ratio est: quia ipi 
+   <lb ed="#B" n="86"/>sa est inter duo constituta. Si enim materiam marito 
+   <lb ed="#B" n="87"/>detegat, exponit eum periculo vxoricidii: seipsam &amp; 
+   <lb ed="#B" n="88"/>spurium periculo mortis: &amp; erit causa suae infamiae 
+   <lb ed="#B" n="89"/>&amp; perpetuae inimicitiae &amp; odii inter suos cognatos 
+   <lb ed="#B" n="90"/>&amp; maritum. omnia autem ista magis inconveniunt quam
+   te<lb ed="#B" n="91" break="no"/>nere haereditatem veri haeredis. ipsa ergo debet re 
+   <lb ed="#B" n="92"/>linquere Scyllam &amp; appropiquare charybdi: &amp; poe 
+   <lb ed="#B" n="93"/>nitere de peccato praeterito: &amp; habre displicentia quod 
+   <lb ed="#B" n="94"/>non possit satisfacere complete: subtrahendo tamen
+   cla<lb ed="#B" n="95" break="no"/>culum quicquid ipsa potest: &amp; procurando omnia bona quae  
+   <lb ed="#B" n="96"/>potest per cognatos vel aliunde, &amp; dando vero haere 
+   <lb ed="#B" n="97"/>di: &amp; tunc ipsa facit illud ad quod tenetur: &amp; est in
+   sta<lb ed="#B" n="98" break="no"/>tu poenitentiae salutiferae. sed imprudenter facerei 
+   <lb ed="#B" n="99"/>negocium marito significando. vt patet. xiii.
+   di<lb ed="#B" n="100" break="no"/>stinctione. cap. Nerui. Si dicas. facilius scandalum 
+   <lb ed="#B" n="101"/>permittitur quam veritas relinquatur. hoc spectat ad ma 
+   <lb ed="#B" n="102"/>teriam scandali. Sed pro nunc ldiciter, quod veritas vitae 
+   <lb ed="#B" n="103"/>hoc est actus praecepti tempore quo est praeceptum, num 
+   <lb ed="#B" n="104"/>quam est relinquenda: modo reuelare hunc casum ma 
+   <lb ed="#B" n="105"/>rito: nec est casus praecepti nec consilii: sed ex ma-  
+   <!--0257.xml-->
+   <pb ed="#B" n="113-r"/>
+       <cb ed="#B" n="a"/>
+       <lb ed="#B" n="1"/>gna stultitia proueniens. Si autem maritus iste
+   rigi<lb ed="#B" n="2" break="no"/>dus ante eam moriatur: securius potest casum filio in  
+   <lb ed="#B" n="3"/>secreto praesente etiam confessore aperire.
+  </p>
+      <p xml:id="jMqv4a-d1e601-d1e349">
+   ⁋ Sed si 
+   <lb ed="#B" n="4"/>ipsa sit in periculo vitae: superstite marito: iam
+   du<lb ed="#B" n="5" break="no"/>bium est: &amp; vtrinque ratio apparens. Supposito enim 
+   <lb ed="#B" n="6"/>quod sit ei probabile sibi adhibedam esse fidem post mor 
+   <lb ed="#B" n="7"/>tem suam: videtur ipsa debere aperire duobus ve 
+   <lb ed="#B" n="8"/>tribus prudentibus &amp; secretis viris, ea
+   conditio<lb ed="#B" n="9" break="no"/>ne vt si ipsa viuat: maneat res adhuc secreta. sin  
+   <lb ed="#B" n="10"/>ipsa moriatur: detegant rem marito. significetur etiam 
+   <lb ed="#B" n="11"/>spurio vt possit suam vitam protegere ab impe 
+   <lb ed="#B" n="12"/>tu viri. tunc enim non sequuntur inconuenientia
+   illa<lb ed="#B" n="13" break="no"/>ta: quia non erit vxoricidium: nec iniusta occisio spii 
+   <lb ed="#B" n="14"/>rii: &amp; cauebitur a dissidio inter cognatos mulieris &amp; 
+   <lb ed="#B" n="15"/>virum. Nam si fuerint alii liberi a marito geniti: erunt 
+   <lb ed="#B" n="16"/>aequaliter propinqui &amp; chari consanguineis
+   mu<lb ed="#B" n="17" break="no"/>lieris / ac spurius. &amp; sic convenient in eandem sententiam 
+   <lb ed="#B" n="18"/>cum marito: &amp; fiet inter eos vnio. si autem non fuerit 
+   <lb ed="#B" n="19"/>aliquis alius genitus a marito: non multum curabum 
+   <lb ed="#B" n="20"/>consanguinei mulieris de spurio, considerata im 
+   <lb ed="#B" n="21"/>pudicitia ipsius: &amp; ne similis casus possit eis
+   con<lb ed="#B" n="22" break="no"/>tingere: quia Tunc tua res agitur paries dum proximus. 
+   <lb ed="#B" n="23"/>ardet. Sola autem remanet infamia mulieris post mor 
+   <lb ed="#B" n="24"/>tem: qua ipsa digna est propter cuplam suam. Vel de 
+   <lb ed="#B" n="25"/>virtute sermonis ipsa non est digna illa infamia, 
+   <lb ed="#B" n="26"/>cum non sit: sed vtendo logica morali: culpa eius 
+   <lb ed="#B" n="27"/>praecedens est causa quare ipsa sit hac infamia
+   di<lb ed="#B" n="28" break="no"/>gna, quemadmodum imponens alicui falsum
+   deni<lb ed="#B" n="29" break="no"/>gratiuum eius famae, esto sit boni testimonii:
+   tene<lb ed="#B" n="30" break="no"/>tur illud retractare, restituendo famam innocent 
+   <lb ed="#B" n="31"/>cum laceratione famae suae. Similiter mulier restituet 
+   <lb ed="#B" n="32"/>haereditatem vero haeredi &amp; innocenti cum parua la 
+   <lb ed="#B" n="33"/>ceratione suae famae: quia forte est in caelo: &amp; quo 
+   <lb ed="#B" n="34"/>ad eam nec obest nec prodest. Hic tamen notabis 
+   <lb ed="#B" n="35"/>quod non est imponenda infamia mortuo sine
+   ratio<lb ed="#B" n="36" break="no"/>nabili causa: scilicet propter bonum commune vt 
+   <lb ed="#B" n="37"/>credatur mortuus bonus, &amp; alii ad bonum animen 
+   <lb ed="#B" n="38"/>tur. bona fama enim retrahit hominem a peccato &amp; 
+   <lb ed="#B" n="39"/>instigat ad bonum. sed ista non conducunt mortuo 
+   <lb ed="#B" n="40"/>qui nec meretur nec demeretur.
+  </p>
+      <p xml:id="jMqv4a-d1e601-d1e432">
+   ⁋ Et breuiter teneo 
+   <lb ed="#B" n="41"/>hanc partem: quod ipsa in articulo mortis cum circum 
+   <lb ed="#B" n="42"/>stantiis quas retulimus, potest: immo tenetur
+   resera<lb ed="#B" n="43" break="no"/>re duobus vel tribus probis &amp; bonae fame viris
+   to<lb ed="#B" n="44" break="no"/>tam materiam. nam mouent me illa quae dixi. Et ad 
+   <lb ed="#B" n="45"/>do: quod dicere oppositum nihil aliud est qui fouere hu 
+   <lb ed="#B" n="46"/>iusmodi speluncas meretricum in verorum haeredum 
+   <lb ed="#B" n="47"/>iacturam &amp; familiae. Forte enim est filius alicuius 
+   <lb ed="#B" n="48"/>ignobilis, &amp; inutilis: ac pingue &amp; clarum patrimonium 
+   <lb ed="#B" n="49"/>dissipaturus. Et dico quod fauor matrimonii debet 
+   <lb ed="#B" n="50"/>ad istud tendere: quia posui in casu quod mulier sit tam 
+   <lb ed="#B" n="51"/>tae probitatis, &amp; tot indicia in medium afferre pos 
+   <lb ed="#B" n="52"/>sit: vt credatur ei quod primogenitus sit spurius.
+   ca<lb ed="#B" n="53" break="no"/>su autem quo non potest illud probare / debet ta 
+   <lb ed="#B" n="54"/>cere: quia non poterit vero haeredi prodesse: &amp;
+   ips<lb ed="#B" n="55" break="no"/>frustra lacerabit suam famam.
+  </p>
+      <p xml:id="jMqv4a-d1e601-d1e467">
+   ⁋ Si vero maritus sit 
+   <!--0257.xml-->
+   <cb ed="#B" n="b"/> 
+       <!-- 113-r b -->
+       <lb ed="#B" n="56"/>homo timens deum: vel vir contra naturam mulieri 
+   <lb ed="#B" n="57"/>quodammodo subiectus: vel quia pusillanimis: vel 
+   <lb ed="#B" n="58"/>quia longe inferioris conditionis quam mulier: vt si 
+   <lb ed="#B" n="59"/>verosimile quod non audeat mulierem interimere:
+   po<lb ed="#B" n="60" break="no"/>test casum in vita detegere marito his circumstan 
+   <lb ed="#B" n="61"/>tiis praeuiis. Sed nihil temere sine prudentum con 
+   <lb ed="#B" n="62"/>silio attentet. In primis eruditum &amp; prudentem con 
+   <lb ed="#B" n="63"/>fessorem adeat: &amp; exponat ei rem totam in
+   sigil<lb ed="#B" n="64" break="no"/>lo confessionis. postea alicui alteri doctiori &amp; pru 
+   <lb ed="#B" n="65"/>dentiori si quem potest habere. tertio simili: si talium 
+   <lb ed="#B" n="66"/>copiam facile habere possit: &amp; eorum vtatur consilio. 
+   <lb ed="#B" n="67"/>Opinionem autem meam iam dixi: quod quilibet istorum
+   consi<lb ed="#B" n="68" break="no"/>derabit: an ipsa possit indicus sufficientissimis osten 
+   <lb ed="#B" n="69"/>dere esse spurium. &amp; vocabitur spurius vt sit praesens 
+   <lb ed="#B" n="70"/>in secreto: &amp; apparentiae coram ostendentur: suadebunt 
+   <lb ed="#B" n="71"/>ei vt acquiescat rationi: &amp; sit religiosus aut ecclesia 
+   <lb ed="#B" n="72"/>sticus: &amp; in hoc dominus putatus pater prouidebit ei
+   egre<lb ed="#B" n="73" break="no"/>gie: sicut nobiles nunc solent (heu nimis infeliciter 
+   <lb ed="#B" n="74"/>suis filiis de bonis crucifixi prouidere. &amp; ita
+   mane<lb ed="#B" n="75" break="no"/>bit casus sepultus: ipse putabitur legitimus: &amp;
+   salua<lb ed="#B" n="76" break="no"/>bitur fama mulieris. addentes quod si rationi
+   acquiesce<lb ed="#B" n="77" break="no"/>re noluerit: casus marito manifestabitur. Caeterum si 
+   <lb ed="#B" n="78"/>flecti noluerit, satis ei ostensa est sua conditio: vt
+   ca<lb ed="#B" n="79" break="no"/>ueat a marito &amp; veris haeredibus. Et certe si
+   mari<lb ed="#B" n="80" break="no"/>tus sit cordatus &amp; magnanimus: mulier cum prudem 
+   <lb ed="#B" n="81"/>tia potest viro rem sine sua nece &amp; periculo sign 
+   <lb ed="#B" n="82"/>ficare: confitendo se in hoc peccasse: &amp; quaerendo veniam 
+   <lb ed="#B" n="83"/>illius delicti: potissimum si habeat alios filios
+   legi<lb ed="#B" n="84" break="no"/>timos ex viro. Prudens enim vir potest cogitare &amp; sibi 
+   <lb ed="#B" n="85"/>persuadere quod ipsa non sit sola in mundo impudica 
+   <lb ed="#B" n="86"/>sed multae sint aliae peiores quae hoc non detegunt. 
+   <lb ed="#B" n="87"/>Quemadmodum audiuimus de quadam muliere cuiui 
+   <lb ed="#B" n="88"/>dam mercatoris Parisiensis opulentissimi vxore: qua 
+   <lb ed="#B" n="89"/>habebat tres filios: sed vnum in adulterio genitum 
+   <lb ed="#B" n="90"/>In extremis autem constituta marito aperuit quod vnus 
+   <lb ed="#B" n="91"/>eorum erat spurius ex viro mariti familiarissimo 
+   <lb ed="#B" n="92"/>quem maritus ipse nimis familiariter in domo
+   exce<lb ed="#B" n="93" break="no"/>perat. in reliquis se castam asserens. Postea muliere 
+   <lb ed="#B" n="94"/>viam vniuersae carnis ingressa: magnanimus ille vir 
+   <lb ed="#B" n="95"/>dixit filiis in generali: vnum eorum esse spurium:
+   ro<lb ed="#B" n="96" break="no"/>gans eos omnes vt convenirent inter se: &amp; quilibet esset 
+   <lb ed="#B" n="97"/>contentus dare cuilibet eorum suam portionem &amp; ratam 
+   <lb ed="#B" n="98"/>in bonis fortunae: &amp; quilibet alteri cederet de iure cmmuni: 
+   <lb ed="#B" n="99"/>hoc est: essent contenti quod ius primogeniturae
+   succeden<lb ed="#B" n="100" break="no"/>ret primogenito: &amp; sic per ordinem. &amp; nunquam aliter casum 
+   <lb ed="#B" n="101"/>eis aperuit: &amp; probe egit: quia alii duo si in particula 
+   <lb ed="#B" n="102"/>ri significasset, spurium cotempsissent: &amp; cognoscen 
+   <lb ed="#B" n="103"/>tes eum solum dimidium fratrem, minus eum dilexissent. 
+   <lb ed="#B" n="104"/>Maior enim est amor erga dubios fratres ex vno
+   la<lb ed="#B" n="105" break="no"/>tere &amp; certos de alio qui quando constat de vno latere 
+   <lb ed="#B" n="106"/>tmtum. Hoc est argumentu Socratis &amp; Platonis secun 
+   <lb ed="#B" n="107"/>do Politicorum: quod &amp; prius retulimus.
+  </p>
+      <p xml:id="jMqv4a-d1e601-d1e589">
+   ⁋
+   Summa<lb ed="#B" n="108" break="no"/>tim epilogando (licet nonnunquam summatim loquem 
+   <lb ed="#B" n="109"/>tes aliquid addamus: scribo enim vt quaeque menti 
+   <lb ed="#B" n="110"/>occurrunt, vel haereditas prouenit ex parte mu- 
+   <!--0258.xml-->
+   <pb ed="#B" n="113-v"/>
+       <cb ed="#B" n="a"/>
+       <lb ed="#B" n="1"/>lieris in toto vel in maiori parte: vel nihil: vt vsita 
+   <lb ed="#B" n="2"/>tius est in Britannia: &amp; parum in comparatione viri in re 
+   <lb ed="#B" n="3"/>gionibus istis. Si haereditas proueniat ex parte mu 
+   <lb ed="#B" n="4"/>lieris: non debet esse ita praeceps ad explicandum nego 
+   <lb ed="#B" n="5"/>cium, quamquam enim secundum ius commune debetur haereditas 
+   <lb ed="#B" n="6"/>legitimo haeredi: tamen illius radix a muliere ortum habet 
+   <lb ed="#B" n="7"/>sed propterea non nego quin interdum in casu ipsa
+   te<lb ed="#B" n="8" break="no"/>neatur materiam detegere. In primis secutissime ipsa 
+   <lb ed="#B" n="9"/>potest significare spurio: &amp; studeat in iuuentute eum 
+   <lb ed="#B" n="10"/>erudire in bonis moribus: &amp; si sit opulenta: nutriat 
+   <lb ed="#B" n="11"/>virum timentem deum qui eum dirigat in studio &amp; mo 
+   <lb ed="#B" n="12"/>ribus. licet autem absolute non debeat ali de bonis
+   ma<lb ed="#B" n="13" break="no"/>riti vel communibus: tamen stantibus circunstantiis maritus 
+   <lb ed="#B" n="14"/>consentire deberet. faciat eum ali quam tenuissime possit 
+   <lb ed="#B" n="15"/>secundum exigentiam status putati: vel sibi ipsi mulier 
+   <lb ed="#B" n="16"/>detrahat in vestium pompa interea. &amp; cum
+   vene<lb ed="#B" n="17" break="no"/>rit ad annos bonae discretionis: tempore quo ad sta 
+   <lb ed="#B" n="18"/>tum saecularem vel ecclesiasticum debet se conuertere: 
+   <lb ed="#B" n="19"/>marito materiam deteget de modo geniturae si proba 
+   <lb ed="#B" n="20"/>re possit. si enim nullo modo possit probare: soli con 
+   <lb ed="#B" n="21"/>fessori aperiat: semper tollendo ab eo &amp; dando vero 
+   <lb ed="#B" n="22"/>haeredi quantum ipsa potest: &amp; quanto plura dat vero 
+   <lb ed="#B" n="23"/>haeredi, tanto melius facit. Si quaeras: quo iure spii 
+   <lb ed="#B" n="24"/>rius habet dominium istarum rerum. dicitur iure huma 
+   <lb ed="#B" n="25"/>no &amp; iure matrimonii: stantibus omnibus istis:
+   quasuffi<lb ed="#B" n="26" break="no"/>ciunt ad hoc vt dicatur harum rerum dominus, non multum 
+   <lb ed="#B" n="27"/>autem refert siue dicatur: non est dominus: siue ignorantia in  
+   <lb ed="#B" n="28"/>uincibilis excusat eum. &amp; in istis bonis praescribit. Nec 
+   <lb ed="#B" n="29"/>sufficit quod verus haeres habeat tot bona in ecclesia 
+   <lb ed="#B" n="30"/>in casu quo ipsa tenetur aperire: quia iam proximus 
+   <lb ed="#B" n="31"/>sequens est verus haeres. Si vero sit ei valde
+   proba<lb ed="#B" n="32" break="no"/>bile quod maritus est huius conditionis: vt si dicatur ei 
+   <lb ed="#B" n="33"/>in vita: mulierem cum spurio occidet: &amp; mala quae 
+   <lb ed="#B" n="34"/>superius retulimus contingent: pro toto illo tem 
+   <lb ed="#B" n="35"/>pore casum non detegat marito: proponens tamen 
+   <lb ed="#B" n="36"/>quod occurrente opportunitate ei insinuabit: quae si 
+   <lb ed="#B" n="37"/>nunquam occurrat: &amp; ipse repente moriatur: non est obex 
+   <lb ed="#B" n="38"/>ex parte mulieris quando ipsa est in periculo vi 
+   <lb ed="#B" n="39"/>tae. Si etiam multa bona vero haeredi procurauit: licet 
+   <lb ed="#B" n="40"/>non tantum quanta est tota haereditas cum
+   probabili<lb ed="#B" n="41" break="no"/>tatibus hincinde: quiescat. Nulli extra confessionem 
+   <lb ed="#B" n="42"/>casum aperiat: vita namque propriam cum fama: &amp; 
+   <lb ed="#B" n="43"/>vitam spuriicum peccato mariti, &amp; schisma futu 
+   <lb ed="#B" n="44"/>rum habet magis timere quam restitutionem bonorum 
+   <lb ed="#B" n="45"/>fortunae curare. sola enim fama mulieris non est 
+   <lb ed="#B" n="46"/>sufficiens causa de non restituendo. 
+   <lb ed="#B" n="47"/> Via hic loquuti simus quo 
+   <lb ed="#B" n="48"/>haec mulier debet famae &amp; saluti suae ani 
+   <lb ed="#B" n="49"/>atqu mae consulere de restitutione: occurrit 
+   <lb ed="#B" n="50"/>dubium frequens de illo qui dissuadet alicui
+   reli<lb ed="#B" n="51" break="no"/>gionem pro tempore: ad quam restitutionem tenea 
+   <lb ed="#B" n="52"/>tur. &amp; an si ille postea religionem assumere nolue 
+   <lb ed="#B" n="53"/>rit: dissuadens pro eo religionem teneatur assumere. 
+   <lb ed="#B" n="54"/>Ad partem affirmatiuam dubitationis arguitur 
+   <!--0258.xml-->
+   <cb ed="#B" n="b"/> 
+       <!-- 113-v b -->
+       <lb ed="#B" n="55"/>exemplo Raemundi. Ad partem negatiuam
+   argui<lb ed="#B" n="56" break="no"/>tur. multi dissuadentes postea non assumunt
+   reli<lb ed="#B" n="57" break="no"/>gionem: &amp; si teneantur, non assumentes morientur 
+   <lb ed="#B" n="58"/>n mortali: &amp; damnabuntur.
+  </p>
+      <p xml:id="jMqv4a-d1e601-d1e737">
+   ⁋ Pro solutione
+   dubita<lb ed="#B" n="59" break="no"/>tionis respondetur. quod multifariam quis dissuadet 
+   <lb ed="#B" n="60"/>alicui religionem: vel quia iudicat ilium cui
+   dissua<lb ed="#B" n="61" break="no"/>det ineptum ad religionem: vel credit esse vtilius 
+   <lb ed="#B" n="62"/>huic pro tempore dare operam literis vt sit maior 
+   <lb ed="#B" n="63"/>fructus in ecclesia dei ratione istius: vel pro
+   salu<lb ed="#B" n="64" break="no"/>te animae quam dissuadens religionem / procurat in isto quia 
+   <lb ed="#B" n="65"/>eum erudit in viam morum: vel eum nutrit praeben 
+   <lb ed="#B" n="66"/>do victum &amp; vestitum: &amp; in his dissuadens non pec 
+   <lb ed="#B" n="67"/>cat. quare alio postea nolente religionem
+   assume<lb ed="#B" n="68" break="no"/>re / dissuadens non obligabitur ipse, nemo enim
+   te<lb ed="#B" n="69" break="no"/>netur ad opera supererogationis sine culpa
+   prae<lb ed="#B" n="70" break="no"/>uia. modo in his casibus non deliquit. Si vero ei 
+   <lb ed="#B" n="71"/>dissuasit quia diligit eum amore mundano: quia
+   sci<lb ed="#B" n="72" break="no"/>licet est ei consanguineus vel amicus: &amp; desiderat 
+   <lb ed="#B" n="73"/>quod maneat in saeculo quatenus mundanos habeat 
+   <lb ed="#B" n="74"/>honores: vel dissuadeat personae illi intrare religio 
+   <lb ed="#B" n="75"/>nem qua impudice vtitur: vtpote si est mulier dissua 
+   <lb ed="#B" n="76"/>det ei religionem monialium: licet in his casibus 
+   <lb ed="#B" n="77"/>dissuadens multum peccet: &amp; potissimum in vlti 
+   <lb ed="#B" n="78"/>mo membro: &amp; teneatur personae illi suadere ad  
+   <lb ed="#B" n="79"/>bene viuendum: &amp; pro illa orare: &amp; pro viribus
+   la<lb ed="#B" n="80" break="no"/>borare vt viam salutis ingrediatur, sicut fuit in  
+   <lb ed="#B" n="81"/>causa suae perditionis hactenus: tamen non tene 
+   <lb ed="#B" n="82"/>tur pro ipso religionem assumere: quia non fecit hoc 
+   <lb ed="#B" n="83"/>inimo inferendi damnum religioni: nec ad hoc 
+   <lb ed="#B" n="84"/>habuit oculum. Et in omnibus his membris licet 
+   <lb ed="#B" n="85"/>religioni nocuit quia is fuisset conventui vtilis: non 
+   <lb ed="#B" n="86"/>tenetur aliquid refundere religioni. Simile est. si tu 
+   <lb ed="#B" n="87"/>&amp; ego certemus pro beneficio: &amp; ego intendam mi 
+   <lb ed="#B" n="88"/>hi prodesse non habendo nolle profectus tui nisi 
+   <lb ed="#B" n="89"/>indirecte: quia magis obligor mihi prouidere:
+   ni<lb ed="#B" n="90" break="no"/>hil teneor tibi restituere: esto etiam peccem importu 
+   <lb ed="#B" n="91"/>ne beneficium vel officium petendo. secus est si fa 
+   <lb ed="#B" n="92"/>cerem causa tibi nocendi. Similepatet in aliis. Namn 
+   <lb ed="#B" n="93"/>si aqua deriuetur ad puteum vicini mei per
+   mea<lb ed="#B" n="94" break="no"/>tus subterraneos terrae meae: &amp; ego illos meatus ob 
+   <lb ed="#B" n="95"/>turo non animo nocendi ei sed consulendo vtili 
+   <lb ed="#B" n="96"/>tati meae, illic domum aedificando, iaciendo profun 
+   <lb ed="#B" n="97"/>de fundamenta: quae facere nequeo nisi illos mea 
+   <lb ed="#B" n="98"/>tus obstruam: non teneor satisfacere vicino in ali 
+   <lb ed="#B" n="99"/>quo: licet puteus eius exsiccetur. Secus est si hoc 
+   <lb ed="#B" n="100"/>faciam animo nocendi proximo.
+  </p>
+      <p xml:id="jMqv4a-d1e601-d1e832">
+   ⁋ Redeundo ad 
+   <lb ed="#B" n="101"/>dubitationis prosequutionem dico. si hoc faciat ma 
+   <lb ed="#B" n="102"/>liuolentia contra religionem ( quod raro accidit) suadeat 
+   <lb ed="#B" n="103"/>postea illi assumere religionem. quod si noluerit obedi 
+   <lb ed="#B" n="104"/>re: studeat habere alium qui religionem profiteatur: 
+   <lb ed="#B" n="105"/>quem si reperire nequibit: ipse tenetur secundum ali 
+   <lb ed="#B" n="106"/>quos: exemplo Raemundi dissuadentis cuidam noui 
+   <lb ed="#B" n="107"/>tio religionem: quo nolente religionem assumere, ipse 
+   <lb ed="#B" n="108"/>Raemundus assumpsit. Item qui ordinat seruum 
+   <lb ed="#B" n="109"/>alicuius in praesbyterum tenetur ad aestimationem ser 
+   <!--0259.xml-->
+   <pb ed="#B" n="114-r"/>
+       <cb ed="#B" n="a"/>
+       <lb ed="#B" n="1"/>ui: vt inferius in sacramento ordinis patebit. Pro 
+   <lb ed="#B" n="2"/>bationes istae non ostendunt propositum vt opinor. for 
+   <lb ed="#B" n="3"/>te enim Raemundus libere religionem assumpsit. si fe 
+   <lb ed="#B" n="4"/>cit conscientiam quod tenebatur ad religionem: ei imputetur: 
+   <lb ed="#B" n="5"/>aliqua enim conscientia erronea non nocet habenti 
+   <lb ed="#B" n="6"/>sed prodest. Secunda ratio de seruo ordinato non
+   con<lb ed="#B" n="7" break="no"/>cludit: immo potius contra factorem: quia contra dominum es 
+   <lb ed="#B" n="8"/>iniuria auferendo alienum: vel ipsum indisponendo ad 
+   <lb ed="#B" n="9"/>seruitia antiqua. sed in casu nostro iste nunquam fuit 
+   <lb ed="#B" n="10"/>religiosus: &amp; dato quod esset nouitius: a religione hac 
+   <lb ed="#B" n="11"/>nihil tollitur. multum enim refert prope habere &amp; habere 
+   <lb ed="#B" n="12"/>actu. impediens namque idoneum ab assecutione benefi 
+   <lb ed="#B" n="13"/>cii habendi non tantum peccat quantum si eum priuaret ab 
+   <lb ed="#B" n="14"/>habito. Insuper forte iste ita bene viuit praesbyter vel 
+   <lb ed="#B" n="15"/>laicus in saeculo vt vixisset in religione. licet enim 
+   <lb ed="#B" n="16"/>tota religio sit melior quam non religio tantae
+   multitu<lb ed="#B" n="17" break="no"/>dinis: contingit plerosque non religiosos esse multis 
+   <lb ed="#B" n="18"/>religiosis meliores. Aliter istud patet. si suadere 
+   <lb ed="#B" n="19"/>alicui volenti profiteri religionem beatae Mariae de modo 
+   <lb ed="#B" n="20"/>te Carmelo: assumere ordinem diui <name xml:id="jMqv4a-d1e601-Nd1e903" ref="#Augustine">Augustini:</name> non 
+   <lb ed="#B" n="21"/>propterea essem obligatus pro eo ad Carmelitarum
+   re<lb ed="#B" n="22" break="no"/>ugionem profitendam. Dicis. vtrumque istorum est lici 
+   <lb ed="#B" n="23"/>tum. sic licitum est ei viuere in saeculo. homo enim non 
+   <lb ed="#B" n="24"/>semper tenetur ad melius. Suadeat itaque illi
+   religio<lb ed="#B" n="25" break="no"/>nem: vel suadeat habere alium: vel recompenset coeno 
+   <lb ed="#B" n="26"/>bio aut religioni secundum iudicium prudentum: quia non 
+   <lb ed="#B" n="27"/>sufficienter probatur quod religionem ipse profiteri teneatur.
+  </p>
+    </div>
+   </body>
+  </text>
+</TEI>

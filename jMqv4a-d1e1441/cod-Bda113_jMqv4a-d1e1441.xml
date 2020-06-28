@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 2</title>
+      <author ref="#JohnMair">John Mair</author>
+      <respStmt>
+       <name>Jeffrey C. Witt</name>
+       <resp>TEI Encoder</resp>
+      </respStmt>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 2</title>
+       <date when="2020-06-09">June 27, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="B" n="cod-Bda113">Badius 1516</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+     guidelines for a diplomatic edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-06-27" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+      <pb ed="#B" n="270-r"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="jMqv4a-d1e1441"> <!-- l4d29q2 -->
+      <head xml:id="jMqv4a-d1e1441-Hd1e104">Quaestio 2</head>
+      <head xml:id="jMqv4a-d1e1441-Hd1e107" type="question-title">An matrimonium contractum inter raptam et raptorem 
+  cum utriusque consensu mutuo antequam 
+  rapta parentibus restituatur teneat</head>
+      <p xml:id="jMqv4a-d1e1441-d1e110">
+       <lb ed="#B" n="106"/>⁋ Distinctionis Vigesimae nonae 
+   <lb ed="#B" n="107"/>Quaestio Secunda- 
+   <!--0572.xml-->
+   <pb ed="#B" n="270-v"/>
+       <cb ed="#B" n="a"/>
+       <lb ed="#B" n="1"/>Ecundo circa hanc di 
+   <lb ed="#B" n="2"/>quam stinctionem quaeritur: an
+   matri<lb ed="#B" n="3" break="no"/>monium contractum inter raptam 
+   <lb ed="#B" n="4"/>&amp; raptorem cum vtriusque consen 
+   <lb ed="#B" n="5"/>su mutuo antequam rapta
+   paren<lb ed="#B" n="6" break="no"/>tibus restituatur / teneat. Hanc 
+   <lb ed="#B" n="7"/>uaestionem propter dominum Mart 
+   <lb ed="#B" n="8"/>num de magistris mouemus 
+   <lb ed="#B" n="9"/>qui in suo libro de temperantia in quaestione de raptu 
+   <lb ed="#B" n="10"/>tenet conclusiones aliquas quas non minus
+   repro<lb ed="#B" n="11" break="no"/>bare intendo quam debea. In sexta conclusionem sic di 
+   <lb ed="#B" n="12"/>cit. Prius quam inter raptorem &amp; raptam legitimum const 
+   <lb ed="#B" n="13"/>tuatur matrimonium: oportet vt puella rapta patris 
+   <lb ed="#B" n="14"/>primum reddatur potestati: &amp; rapiae crimen digna poe 
+   <lb ed="#B" n="15"/>nitentia emendetur. In septima conclusione dicit. 
+   <lb ed="#B" n="16"/>Raptor nisi beneficio episcopi ad secundas
+   nupti<lb ed="#B" n="17" break="no"/>as transire non potest. In octaua quoque conclusione 
+   <lb ed="#B" n="18"/>sic dicit. Ad legitimum inter raptorem &amp; raptam
+   coniu<lb ed="#B" n="19" break="no"/>gium non sufficit raptoris &amp; raptae &amp; parentum eorum 
+   <lb ed="#B" n="20"/>consensus: quia requiritur primo quod ipsa resti 
+   <lb ed="#B" n="21"/>tuatur parentibus, &amp; raptor publice poeniteat. alio 
+   <lb ed="#B" n="22"/>quin manebit semper excomunicatus: nec ad com 
+   <lb ed="#B" n="23"/>trahendum erit habilis. 
+  </p>
+      <p xml:id="jMqv4a-d1e1441-d1e173">
+       <lb ed="#B" n="24"/>⁋ Contra insta pono duas conclusio 
+   <lb ed="#B" n="25"/>nes: quarum prior est primae eius conclusioni hic
+   re<lb ed="#B" n="26" break="no"/>citatae virtualiter contradictoria. Ad verum matri 
+   <lb ed="#B" n="27"/>monium sufficit raptae &amp; raptoris liber consensus 
+   <lb ed="#B" n="28"/>mutuus absque poenitentia praeuia &amp; vlla restitutione 
+   <lb ed="#B" n="29"/>facienda parentibus.
+  </p>
+      <p xml:id="jMqv4a-d1e1441-d1e190">
+   ⁋ Posterior conclusio. Ra 
+   <lb ed="#B" n="30"/>ptor absque beneficio episoi: hoc est absolutione potest 
+   <lb ed="#B" n="31"/>transire ad secundas nuptias. Prior conclusio pro 
+   <lb ed="#B" n="32"/>batur. Ad verum matrimonium sufficit consensus 
+   <lb ed="#B" n="33"/>mutuus spontaneus signo exteriori explicitus: si
+   perso<lb ed="#B" n="34" break="no"/>nae ipsae fuerint habiles ad contrahendum: omnia haec inter 
+   <lb ed="#B" n="35"/>raptorem &amp; raptam contingunt. igitur. Contingit etiam quod detur 
+   <lb ed="#B" n="36"/>raptae facultas abeundi, &amp; ipa vltro redeat, &amp; se inge 
+   <lb ed="#B" n="37"/>rat in matrimonium: sicut plerumque fit quando rapiuntur: quia 
+   <lb ed="#B" n="38"/>alioquin minoris ab aliis aestimabitur: non aut a rapto 
+   <lb ed="#B" n="39"/>re, nec tale matrimonium cum aliis habebit quale non 
+   <lb ed="#B" n="40"/>cognita habuisset: &amp; ei ab alio viro obiectabitur 
+   <lb ed="#B" n="41"/>in opprobrium. vel quia vir ei placet, ipsa redit. hoc 
+   <lb ed="#B" n="42"/>supponamus. tunc coram deo &amp; hominibus est consensus 
+   <lb ed="#B" n="43"/>liber: &amp; personarum habilitas. patet: quia omnes
+   perso<lb ed="#B" n="44" break="no"/>nae quibus non est prohibitum contrahere per legem naturalem 
+   <lb ed="#B" n="45"/>diuinam vel humanam / sunt habiles. Edictu enim de ma 
+   <lb ed="#B" n="46"/>trimonio contrahendo est prohibitorium: &amp; quaecumque pe 
+   <lb ed="#B" n="47"/>sonae non prohibentur / per consequentiam admittuntur. vt po 
+   <lb ed="#B" n="48"/>tifex dicit in ca. Cum apud. de spirito &amp; patet.litr. de testi. 
+   <lb ed="#B" n="49"/>lii. isti autem sunt huiusmodi: vt patebit per argumentum se 
+   <lb ed="#B" n="50"/>quens. Confirmatur haec ratio: &amp; personarum habilitatem 
+   <lb ed="#B" n="51"/>probat. de raptori. incendia. &amp; viola. eccle. in cap 
+   <lb ed="#B" n="52"/>vltimo, Innocentius tertius sic dicit. Accedens at 
+   <lb ed="#B" n="53"/>apostolicam sedem. &amp; infra. Rapta puella legiti- 
+   <!--0572.xml-->
+   <cb ed="#B" n="b"/> 
+       <!-- 270-v b -->
+       <lb ed="#B" n="54"/>me contrahet cum raptore si prior dissensio transeat 
+   <lb ed="#B" n="55"/>postmodum in consensum: &amp; quod ante displicuit:
+   tan<lb ed="#B" n="56" break="no"/>dem incipiat complacere: dummodo ad cotrahendum 
+   <lb ed="#B" n="57"/>legitimae sint personae. Vides quod personas tempore raptus 
+   <lb ed="#B" n="58"/>non reputat pontifex illegitimas: sed dicit quod du 
+   <lb ed="#B" n="59"/>rante tempore raptus dummodo aliud impedimen 
+   <lb ed="#B" n="60"/>tum canonicum non praestet obicem: est vere
+   ma<lb ed="#B" n="61" break="no"/>trimonium. Patet haec conclusio. xxxvi. q. ii. c. De 
+   <lb ed="#B" n="62"/>nique. &amp;. c. Tria. Praeterea arguitur ad idem. Si inter 
+   <lb ed="#B" n="63"/>has personas esset inhabilitas: hoc esset propter leges 
+   <lb ed="#B" n="64"/>vel antiquos canones eas illegitimas reddentes 
+   <lb ed="#B" n="65"/>sed hoc non. nam in canonibus positiuis semper ius po 
+   <lb ed="#B" n="66"/>sterius reuocat praecedens: ergo illi canones. de
+   pu<lb ed="#B" n="67" break="no"/>ellis. &amp; ca. Si aut. &amp; ca. Placuit. qui habentur. xxxvi. 
+   <lb ed="#B" n="68"/>q. ii nunc non habent robur. Olim siquidem infra
+   septi<lb ed="#B" n="69" break="no"/>mun gradum non contrahebatur sine dispensatione: post 
+   <lb ed="#B" n="70"/>ea ius illd reuocatum est ad quartum gradum
+   consan<lb ed="#B" n="71" break="no"/>guinitatis. vt patebit. dist. xli. Ad. l. vnicam. C. 
+   <lb ed="#B" n="72"/>de rapto. virgi, non oportet oculum flectere, quia in  
+   <lb ed="#B" n="73"/>matrimonio ecclesiae sacramento iuri canonico 
+   <lb ed="#B" n="74"/>&amp; non ciuili fidendum est. vt pontifex merito
+   de<lb ed="#B" n="75" break="no"/>terminat. c. penultimo &amp; vltimo de secundis nup.
+   si<lb ed="#B" n="76" break="no"/>cut legibus &amp; non canonibus de poena qua raptor 
+   <lb ed="#B" n="77"/>puniendus est innitimur.
+  </p>
+      <p xml:id="jMqv4a-d1e1441-d1e303">
+   ⁋ Secunda conclusio 
+   <lb ed="#B" n="78"/>ex priore &amp; eius probatione sequitur, scilicet quod
+   consen<lb ed="#B" n="79" break="no"/>sus mutuus spontaneus inter personas legitimas: 
+   <lb ed="#B" n="80"/>siue parentes consentiant, siue cotradicant: ad
+   matri<lb ed="#B" n="81" break="no"/>monium sufficit sine vlteriore dispensatione. modo pro 
+   <lb ed="#B" n="82"/>batum est has personas esse legitimas: hoc est nulla 
+   <lb ed="#B" n="83"/>illegitimatio ex rapina prouenit. 
+  </p>
+      <p xml:id="jMqv4a-d1e1441-d1e319">
+       <lb ed="#B" n="84"/>⁋ Contra has conclusiones doctor 
+   <lb ed="#B" n="85"/>nominatus facit praecise vnum argumentum in valore: quia 
+   <lb ed="#B" n="86"/>ad antiquos canones quos ex <name xml:id="jMqv4a-d1e1441-Nd1e327">Gratiano</name> allegat 
+   <lb ed="#B" n="87"/>non oportet respondere vltra proxime dicta. Ro eius 
+   <lb ed="#B" n="88"/>est. Hic rapiens virginem vel mulierem est
+   excommuni<lb ed="#B" n="89" break="no"/>catus quousque eam restituat. sed nullus
+   excommuni<lb ed="#B" n="90" break="no"/>catus potest ecclesiae sacramentum suscipere: ergo non 
+   <lb ed="#B" n="91"/>potest matrimonium contrahere. Respondeo. hoc
+   ar<lb ed="#B" n="92" break="no"/>gumentum nullam habet apparentiam. nam licet excom 
+   <lb ed="#B" n="93"/>municatus non debeat se ingerere participationi in 
+   <lb ed="#B" n="94"/>diuinis: tamen sacramenta reuera suscipit: siue pec 
+   <lb ed="#B" n="95"/>cet siue non, nihil interest. vt patet de sacramento 
+   <lb ed="#B" n="96"/>eucharistiae: &amp; in proposito expresse de sacramen 
+   <lb ed="#B" n="97"/>to matrimonii. per cap. Si gnificasti. de eo qui du 
+   <lb ed="#B" n="98"/>xit in matrimo. quam polluit per adul. vbi casus 
+   <lb ed="#B" n="99"/>est rotundus de excommunicato qui relicta
+   vxo<lb ed="#B" n="100" break="no"/>re, meretrici adhaesit: quam post vxoris mortem 
+   <lb ed="#B" n="101"/>desponsauit. illic <name xml:id="jMqv4a-d1e1441-Nd1e363">Innocentius tertius episcopo 
+   <lb ed="#B" n="102"/>Spoletano</name> sic scribit. Nos igitur inquisitioni te 
+   <lb ed="#B" n="103"/>t. t quod nisi alter eorum in mortem vxoris
+   defun<lb ed="#B" n="104" break="no"/>ctae fuerit machinatus: vel ea viuente sibi fidem 
+   <lb ed="#B" n="105"/>dederit de matrimonio contrahendo: legitimum 
+   <lb ed="#B" n="106"/>iudices matrimonium supradictum:
+   excommu<lb ed="#B" n="107" break="no"/>nicato munus absolutionis, si petierit, iuxta for- 
+   <!--0573.xml-->
+   <pb ed="#B" n="271-r"/>
+       <cb ed="#B" n="a"/>
+       <lb ed="#B" n="1"/>mam ecclesiae impensurus. Similiter potest ordines 
+   <lb ed="#B" n="2"/>suscipere de facto / &amp; characterem ordinis. cap. 
+   <lb ed="#B" n="3"/>Cum illorum. de senten. excommuni. Quare com 
+   <lb ed="#B" n="4"/>sequentia est nulla: cum oppositum consequentis 
+   <lb ed="#B" n="5"/>manifeste iam sit ostensum compati antecedens 
+   <lb ed="#B" n="6"/>ipsum. Non enim memini me legisse raptorem mulieris 
+   <lb ed="#B" n="7"/>excommunicatum. bene habemus in cap. Tua nos 
+   <lb ed="#B" n="8"/>de sentem. excommuni. quod omnens incendiarii proprie 
+   <lb ed="#B" n="9"/>dicti postquam fuerit publice excommunicati &amp;
+   denun<lb ed="#B" n="10" break="no"/>ciati, non possunt absolui citra sedem apostolicam 
+   <lb ed="#B" n="11"/>ldem legimus de spoliatoribus &amp; effractoribus 
+   <lb ed="#B" n="12"/>ecclesiarum. in cap. Comquesti. eiusdem tituli. Et sic 
+   <lb ed="#B" n="13"/>argumentum deficit tam in materia quam in forma.
+  </p>
+      <p xml:id="jMqv4a-d1e1441-d1e414">
+   ⁋ Hac 
+   <lb ed="#B" n="14"/>tenus quod raptor potest contrahere matrimonium 
+   <lb ed="#B" n="15"/>cum muliere quam rapuit: modo adsit consensus
+   mu<lb ed="#B" n="16" break="no"/>tuus pure liber: &amp; sint personae habiles, nec
+   pon<lb ed="#B" n="17" break="no"/>derandae sunt leges iuri pontificio contrariae in  
+   <lb ed="#B" n="18"/>materia sacramentorum. Forte dicis / sicut
+   Panor<lb ed="#B" n="19" break="no"/>in cap. penultimo de rapto. quod leges &amp; pontificum 
+   <lb ed="#B" n="20"/>canones non sunt contrarii, sed diuersi: quia leges 
+   <lb ed="#B" n="21"/>considerarunt delictum raptoris &amp; deceptionem 
+   <lb ed="#B" n="22"/>mulierum. lus vero canonicum considerat liber 
+   <lb ed="#B" n="23"/>tatem in matrimonio. Hoc non valet. Nemini enim 
+   <lb ed="#B" n="24"/>dubium est, quin leges positiuae in variis foris sint 
+   <lb ed="#B" n="25"/>oppositae: quia habent rationes pro vna parte: 
+   <lb ed="#B" n="26"/>&amp; pro parte contraria. vt in Britannia primoge 
+   <lb ed="#B" n="27"/>nitus domus nobilium est haeres in toto: in aliis 
+   <lb ed="#B" n="28"/>autem regnis est oppositum. &amp; in proposito
+   no<lb ed="#B" n="29" break="no"/>stro inter leges &amp; canones. nam hi dicerent,
+   hi<lb ed="#B" n="30" break="no"/>contractus est matrimonium. leges vero dicerent 
+   <lb ed="#B" n="31"/>hic contractus non est matrimonium, quae
+   pro<lb ed="#B" n="32" break="no"/>positiones realiter contradicunt: &amp; ita vtrobique es 
+   <lb ed="#B" n="33"/>in omnibus: quamuis causae sint differentes, quare hae 
+   <lb ed="#B" n="34"/>dentur leges. 
+  </p>
+    </div>
+   </body>
+  </text>
+</TEI>

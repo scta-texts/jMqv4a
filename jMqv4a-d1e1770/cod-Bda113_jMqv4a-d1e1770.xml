@@ -1,0 +1,304 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 3</title>
+      <author ref="#JohnMair">John Mair</author>
+      <respStmt>
+       <name>Jeffrey C. Witt</name>
+       <resp>TEI Encoder</resp>
+      </respStmt>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 3</title>
+       <date when="2020-06-09">June 27, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="B" n="cod-Bda113">Badius 1516</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+     guidelines for a diplomatic edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-06-27" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+      <pb ed="#B" n="331-r"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="jMqv4a-d1e1770"> <!-- l4d43q3 -->
+      <head xml:id="jMqv4a-d1e1770-Hd1e104">Quaestio 3</head>
+      <head xml:id="jMqv4a-d1e1770-Hd1e107" type="question-title">An Deus possit reproducere aliquid proprie corruptum</head>
+      <p xml:id="jMqv4a-d1e1770-d1e110">
+       <lb ed="#B" n="62"/>⁋ Distinctionis Quadragesimaetertiae 
+   <lb ed="#B" n="63"/>Quaestio Tertia. 
+   <lb ed="#B" n="64"/>camquam Ertio circa hanc
+   di<lb ed="#B" n="65" break="no"/>stinctionem quadragesimam 
+   <lb ed="#B" n="66"/>tertiam quaeritur. An deus possit 
+   <lb ed="#B" n="67"/>reproducere aliquid proprie 
+   <lb ed="#B" n="68"/>torruptum. Pro solutione quae 
+   <lb ed="#B" n="69"/>stionis recitabo aliquorum 
+   <lb ed="#B" n="70"/>opiniones. Secundo
+   respon<lb ed="#B" n="71" break="no"/>debo ad quaesitum. De gentilibus vero philosophis 
+   <lb ed="#B" n="72"/>loqui non oportet: sed de fidelibus &amp; philosophis 
+   <lb ed="#B" n="73"/>hoc est, de inis qui philosophantur, &amp; doctrinam non  
+   <lb ed="#B" n="74"/>minore sudore inquirunt &amp; assequuntur quam gentiles: 
+   <lb ed="#B" n="75"/>qui cum hoc illustrati sunt a deo de eius potentia &amp; 
+   <lb ed="#B" n="76"/>magnitudine per reuelationem. Varii autem ex nostris 
+   <lb ed="#B" n="77"/>negatiue ad quaesitum respondent tam in permanentibus 
+   <lb ed="#B" n="78"/>quam successiuis. vt <ref xml:id="jMqv4a-d1e1770-Rd1e149">
+        <name xml:id="jMqv4a-d1e1770-Nd1e151">beatus Tho.</name> in. iiii. distinct. xliiii. 
+   <lb ed="#B" n="79"/>ar. ii. in solutione ad Tertium.</ref> &amp; <ref xml:id="jMqv4a-d1e1770-Rd1e157">in. xii. dist. eiusdem 
+   <lb ed="#B" n="80"/>quarti. qui. i. ar. ii.</ref> 
+       <name xml:id="jMqv4a-d1e1770-Nd1e162" ref="#Durandus">Durandus</name> in hac dist. <name xml:id="jMqv4a-d1e1770-Nd1e165">Marsilius</name> 
+       <lb ed="#B" n="81"/>in secundo de generatione, &amp; <name xml:id="jMqv4a-d1e1770-Nd1e170">Georgius Bruxellem 
+   <lb ed="#B" n="82"/>sis</name>. sed isti solum operam dabant physicis. quare 
+   <lb ed="#B" n="83"/>de eis non est facienda magna vis: eorum tamen 
+   <lb ed="#B" n="84"/>rationes tangam. 
+  </p>
+      <p xml:id="jMqv4a-d1e1770-d1e181">
+       <lb ed="#B" n="85"/>⁋ Hoc praelibato pono dumas
+   conclu<lb ed="#B" n="86" break="no"/>siones ad quaestionem responsiuas. quarum Prior 
+   <lb ed="#B" n="87"/>est. Quamlibet rem permanentem qualitercumque
+   cortu<lb ed="#B" n="88" break="no"/>ptam, deus potest reproducere. probatur. Illam 
+   <lb ed="#B" n="89"/>rem corruptam iterato esse / nullam dicit
+   impossibili<lb ed="#B" n="90" break="no"/>tatem: nec ex illo potest inferri contradictio: vt 
+   <lb ed="#B" n="91"/>patet respondendo ad obiectiones aduersariorum. 
+   <lb ed="#B" n="92"/>ergo deus potest illud facere. tenet consequentia 
+   <lb ed="#B" n="93"/>per responsionem angeli ad diuam virginem, non  
+   <lb ed="#B" n="94"/>est apud deum impossibile omne verbum. Secun 
+   <lb ed="#B" n="95"/>do argumentor ad idem. Non aliter se habet res an 
+   <lb ed="#B" n="96"/>tequam primo producitur quam se habeat ad reproductio 
+   <lb ed="#B" n="97"/>nem, cum est vere corrupta: quia vtrobique non est. 
+   <lb ed="#B" n="98"/>sed omne possibile quod nunquam fuit, deus potest
+   pro<lb ed="#B" n="99" break="no"/>ducere: ergo etiam omne illud quod fuit, &amp; non est. 
+   <lb ed="#B" n="100"/>Tertio. deus reproduxit vere corruptum: ergo 
+   <lb ed="#B" n="101"/>deus potest reproducere corruptum. consequentia 
+   <lb ed="#B" n="102"/>est nota. probatur antecedens: immo videtur quod non 
+   <lb ed="#B" n="103"/>debeat reuocari in dubium quin aliqua bruta vere 
+   <lb ed="#B" n="104"/>corrupta deus reproduxerit: vt bouem resuscita 
+   <lb ed="#B" n="105"/>tum a beato Syluestro. vt in eius vita legimus. Sed 
+   <lb ed="#B" n="106"/>hic potest homo proteruiendo dicere dupliciter. Vno medo 
+   <lb ed="#B" n="107"/>quod tursus produxit deus vnam animam: &amp; bos quo ad 
+   <!--0694.xml-->
+   <pb ed="#B" n="331-v"/>
+       <cb ed="#B" n="a"/>
+       <lb ed="#B" n="1"/>corpus mansit similis boui priori: &amp; anima non cadit 
+   <lb ed="#B" n="2"/>sub obiectum sensus vel intellectus. propterea pu 
+   <lb ed="#B" n="3"/>tabatur idem bos. Secundo modo &amp; apparentius: quod 
+   <lb ed="#B" n="4"/>deus vidit ab aetemo illa bruta reparanda: &amp; quia 
+   <lb ed="#B" n="5"/>non potest reproducere animam si fuerit semel
+   cor<lb ed="#B" n="6" break="no"/>rupta, conseruauit animam bruti: &amp; per consequens bru 
+   <lb ed="#B" n="7"/>tum non corrumpebatur corruptione proprie dicta: cum 
+   <lb ed="#B" n="8"/>vtraque pars manserit in rerum natura. Quarto
+   ar<lb ed="#B" n="9" break="no"/>guitur ad hominem. Deus potest annihilare angelum &amp; 
+   <lb ed="#B" n="10"/>eum reproducere: ergo eodem modo potest facere de 
+   <lb ed="#B" n="11"/>quolibet permanente, non potes dicere quod potest alium an 
+   <lb ed="#B" n="12"/>gelum reproducere: quia non possunt esse plures an 
+   <lb ed="#B" n="13"/>geli eiusdem speciei per te. ergo potest eundem angelum nu 
+   <lb ed="#B" n="14"/>mero corruptum vel annihilatu reproducere. in vo 
+   <lb ed="#B" n="15"/>cabulis enim pronunc non pono discrimen. Quinto 
+   <lb ed="#B" n="16"/>hominem potest reproducere: ergo asinum. probo conse 
+   <lb ed="#B" n="17"/>quentiam: quia licet partes hominis vel quam fuerunt hominis
+   ma<lb ed="#B" n="18" break="no"/>neant: informatio tamen animae in corpore semel fuit, 
+   <lb ed="#B" n="19"/>&amp; illa praeteriit: quam deus potest reparare. Si dicas, non 
+   <lb ed="#B" n="20"/>redibit eadem relatio actiua vel passiua. hoc adhuc 
+   <lb ed="#B" n="21"/>non sufficit. nam semel informauit: &amp; postea non tali. 
+   <lb ed="#B" n="22"/>ter se habuit. igitur. Sexto hoc ostenditur auctoritate 
+   <lb ed="#B" n="23"/>beati <name xml:id="jMqv4a-d1e1770-Nd1e289" ref="#Augustine">Augustini</name>. xxii. de ciuitate dei dicentis quod si 
+   <lb ed="#B" n="24"/>illa materia de qua homo factus est decidisset in 
+   <lb ed="#B" n="25"/>omnino nihilum, &amp; non mansisset in vllis materiae
+   la<lb ed="#B" n="26" break="no"/>tebris: adhuc posset deus eundem numero reparare. 
+  </p>
+      <p xml:id="jMqv4a-d1e1770-d1e300">
+       <lb ed="#B" n="27"/>⁋ Tenendo quod motus localis distinguitur a motu 
+   <lb ed="#B" n="28"/>&amp; a loco, ponatur haec Secunda conclusio. Rem suc 
+   <lb ed="#B" n="29"/>cessiuam corruptam deus potest reproducere. pro 
+   <lb ed="#B" n="30"/>batur. tam mobile quam spatium deus potest reprodu  
+   <lb ed="#B" n="31"/>cere: ergo quodcumque accidens quod ei inhaerebat po 
+   <lb ed="#B" n="32"/>test deus reproducere. 
+  </p>
+      <p xml:id="jMqv4a-d1e1770-d1e316">
+       <lb ed="#B" n="33"/>⁋ Contra primam conclusionem assu 
+   <lb ed="#B" n="34"/>mam aliquot argumenta: quia pauca aduersariorum 
+   <lb ed="#B" n="35"/>habent colorem. Arguit <name xml:id="jMqv4a-d1e1770-Nd1e324">Durandus</name> sic, non plus po 
+   <lb ed="#B" n="36"/>test deus agens per voluntatem quam si ageret de necessi 
+   <lb ed="#B" n="37"/>tate naturae. sed si ageret de necessitate naturae non 
+   <lb ed="#B" n="38"/>posset rem proprie reproducere. ergo nec nunc. Dico 
+   <lb ed="#B" n="39"/>si deus ageret de necessitate naturae, &amp; haberet
+   ean<lb ed="#B" n="40" break="no"/>dem potentiam quam habet: multa produceret &amp; produ 
+   <lb ed="#B" n="41"/>xisset quae non produxit: vt mundum ab aetemo &amp;
+   quodli<lb ed="#B" n="42" break="no"/>bet possibile. et si ad imaginationem aliqua res
+   es<lb ed="#B" n="43" break="no"/>set proprie corrupta: illam de necessitate
+   reproduce<lb ed="#B" n="44" break="no"/>ret.
+  </p>
+      <p xml:id="jMqv4a-d1e1770-d1e348">
+   ⁋ Secundo arguit. agens naturale non potest re 
+   <lb ed="#B" n="45"/>producere corruptum: ergo nec deus. consequentiam 
+   <lb ed="#B" n="46"/>probat: quia si deus potest, &amp; non agens naturale: 
+   <lb ed="#B" n="47"/>hoc est propter diuersum modum agendi. Hoc argu 
+   <lb ed="#B" n="48"/>mentum prolixissime deducit: ad quod dimidium verbum 
+   <lb ed="#B" n="49"/>sufficit. Deus enim est omnipotens: creatura autem 
+   <lb ed="#B" n="50"/>habet certos limites producendi. Tertiam rationem re 
+   <lb ed="#B" n="51"/>linquo, quia nihil valet.
+  </p>
+      <p xml:id="jMqv4a-d1e1770-d1e366">
+   ⁋ Quarta ratio eius est. 
+   <lb ed="#B" n="52"/>si angelum corruptum deus reproduceret: sequeretur 
+   <lb ed="#B" n="53"/>quod ille angelus esset bis productus: non numeratio 
+   <lb ed="#B" n="54"/>ne dei qui vnicus est: nec angeli, nec alia dari po 
+   <!--0694.xml-->
+   <cb ed="#B" n="b"/> 
+       <!-- 331-v b -->
+       <lb ed="#B" n="55"/>test. Respondeo. nosti ex logica quod haec enunciatio, 
+   <lb ed="#B" n="56"/>Sortes bis fuit Parisiis, est vera quamuis nihil acqui 
+   <lb ed="#B" n="57"/>ratur: tenendo quod motus localis est mobile: si post 
+   <lb ed="#B" n="58"/>quam primo intrauit vrbem, discessit &amp; postea rediit. 
+   <lb ed="#B" n="59"/>ic ad veritatem istius: angelus bis fuit, sat est quod 
+   <lb ed="#B" n="60"/>fuerit semel, &amp; desiuerit esse, &amp; iterato fuerit. Mar 
+   <lb ed="#B" n="61"/>silius &amp; Georgius Bruxellensis in valore habent 
+   <lb ed="#B" n="62"/>hoc solum argumentum. Deus non potest rem existentem re 
+   <lb ed="#B" n="63"/>producere: ergo nec rem proprie corruptam. Ad quod re 
+   <lb ed="#B" n="64"/>spondeo quod antecedens implicat repugnantiam ex
+   ter<lb ed="#B" n="65" break="no"/>minis: &amp; consequens est impossibile. 
+  </p>
+      <p xml:id="jMqv4a-d1e1770-d1e405">
+       <lb ed="#B" n="66"/>⁋ Contra secundam conclusionem arguitur 
+   <lb ed="#B" n="67"/>sic a <name xml:id="jMqv4a-d1e1770-Nd1e411">beato Tho.</name> &amp; <ref xml:id="jMqv4a-d1e1770-Rd1e414">
+        <name xml:id="jMqv4a-d1e1770-Nd1e416" ref="#GodfreyOfFontaines">Godofredo</name> in secundo Quodli. 
+   <lb ed="#B" n="68"/>q. ii.</ref> Illud quod ad sui vnitatem essentialem requirit
+   con<lb ed="#B" n="69" break="no"/>tinuationem durationis, non potest esse idem
+   interru<lb ed="#B" n="70" break="no"/>pta duratione. sed successiuum est huiusmodi. igitur. 
+   <lb ed="#B" n="71"/>Respondetur: vt <name xml:id="jMqv4a-d1e1770-Nd1e429" ref="#Durandus">Durandus</name> dicit, non requiritur 
+   <lb ed="#B" n="72"/>alia continuitas a continuatione partium eius, quod 
+   <lb ed="#B" n="73"/>partes sibi succedant. sed sicut illae partes sibi suc 
+   <lb ed="#B" n="74"/>cedunt: nec plures sunt simul in prima productione 
+   <lb ed="#B" n="75"/>motus: ita est in secunda productione, nec requiri 
+   <lb ed="#B" n="76"/>tur continuatio istius motus ad alium ad hoc vt 
+   <lb ed="#B" n="77"/>dicatur vnus, nec continuitas eiusdem motus ad se 
+   <lb ed="#B" n="78"/>ipsum requiritur ad hoc vt dicatur vnus: nihil enim 
+   <lb ed="#B" n="79"/>idem continuatur sibi. <name xml:id="jMqv4a-d1e1770-Nd1e449">Petrus Paludanus</name> hoc
+   refel<lb ed="#B" n="80" break="no"/>lens dicit quod propter interruptionem partes non conti 
+   <lb ed="#B" n="81"/>nuantur ad vnum. &amp; sic non est idem motus. Hoc nihil 
+   <lb ed="#B" n="82"/>valet. nam partes &amp; mutata esse in motu, &amp; omnia 
+   <lb ed="#B" n="83"/>illa corrupta reproducuntur.
+  </p>
+      <p xml:id="jMqv4a-d1e1770-d1e462">
+   ⁋ <name xml:id="jMqv4a-d1e1770-Nd1e464" ref="#Durandus">Durandus</name> tenens 
+   <lb ed="#B" n="84"/>eandem conclusionem cum <name xml:id="jMqv4a-d1e1770-Nd1e469">beato Tho.</name> &amp; <name xml:id="jMqv4a-d1e1770-Nd1e472" ref="#GodfreyOfFontaines">Godo.</name>
+   ap<lb ed="#B" n="85" break="no"/>ponit alias rationes. quarum vna est. Vel est
+   possi<lb ed="#B" n="86" break="no"/>bile simpliciter motum corruptum reparari: vel im 
+   <lb ed="#B" n="87"/>possibile. si possibile simpliciter: erit possibile vir 
+   <lb ed="#B" n="88"/>tute naturae, quod sic probatur. quandocumque aliquis
+   effe<lb ed="#B" n="89" break="no"/>ctus est simpliciter possibilis: &amp; causa est aeque 
+   <lb ed="#B" n="90"/>potens nunc / vt prius: ex tali causa potest idem
+   effe<lb ed="#B" n="91" break="no"/>ctus produci nunc vt prius. si ergo reparatio eiusdem 
+   <lb ed="#B" n="92"/>motus sit effectus simpliciter possibilis: causa na 
+   <lb ed="#B" n="93"/>turalis quae primo facit, &amp; eo corrupto remanet 
+   <lb ed="#B" n="94"/>aeque potens vt prius: potest illum morum esndem secundum  
+   <lb ed="#B" n="95"/>numerum reparare. hoc autem est falsum. relinquitur er 
+   <lb ed="#B" n="96"/>go quod reparatio eiusdem motus secundum numerum sit 
+   <lb ed="#B" n="97"/>effectus simpliciter impossibilis. talis autem effectus 
+   <lb ed="#B" n="98"/>subterfugit omnem causam. ergo per nullam virtutem 
+   <lb ed="#B" n="99"/>potest ille idem motus reparari.
+  </p>
+      <p xml:id="jMqv4a-d1e1770-d1e510">
+   ⁋ Ad hoc
+   argu<lb ed="#B" n="100" break="no"/>mentum respondeo esse possibile reproducere illum 
+   <lb ed="#B" n="101"/>motum. &amp; quando infert, ergo erit possibile creaturae 
+   <lb ed="#B" n="102"/>nego consequentiam. &amp; ad probationem dico quod producens 
+   <lb ed="#B" n="103"/>priorem motum est aeoue potens vt prius: &amp; ad hoc 
+   <lb ed="#B" n="104"/>sufficit producere similem motum. Si autem per aeque 
+   <lb ed="#B" n="105"/>potens intelligas posse eundem motum naturaliter 
+   <lb ed="#B" n="106"/>reproducere: nunqui creatura manet aeque potens. 
+   <lb ed="#B" n="107"/>Illud argumentum si aliquid valeret, probaret quod 
+   <lb ed="#B" n="108"/>deus non posset reproducere rem permanentem cor- 
+   <!--0695.xml-->
+   <pb ed="#B" n="332-r"/>
+       <cb ed="#B" n="a"/>
+       <lb ed="#B" n="1"/>ruptam: quod apud me est inopinabile.
+  </p>
+      <p xml:id="jMqv4a-d1e1770-d1e541">
+   ⁋ Secundo 
+   <lb ed="#B" n="2"/>arguitur. Si motus corruptus posset reparari: &amp; 
+   <lb ed="#B" n="3"/>tempus. tenet consequentia: quia vtrumque est res 
+   <lb ed="#B" n="4"/>successiua. ergo si deus possit vnam rem
+   succes<lb ed="#B" n="5" break="no"/>siuam reproducere: quamlibet reproducere potest. 
+   <lb ed="#B" n="6"/>Respondetur. consequentia non est necessaria: quia 
+   <lb ed="#B" n="7"/>potest vnam rem successiuam reproducere: non  
+   <lb ed="#B" n="8"/>autem quamlibet: potissimum tempus. quia ad illud se 
+   <lb ed="#B" n="9"/>quitur quod idem in eodem tempore esset &amp; non esset 
+   <lb ed="#B" n="10"/>vt si tempus in quo erat Adam / reproduceretur 
+   <lb ed="#B" n="11"/>in hac hora: iam in illa Adam non esset: &amp; in
+   eo<lb ed="#B" n="12" break="no"/>dem tempore verum erat dicere, Adam est. talis 
+   <lb ed="#B" n="13"/>autem contradictio non sequitur ad motum a tempore 
+   <lb ed="#B" n="14"/>distinctum. Secundo potest concedi consequentia cum 
+   <lb ed="#B" n="15"/>consequente: &amp; dici quod non sequitur haec contra: 
+   <lb ed="#B" n="16"/>dictio: quia non manet idem tempus secundum rem 
+   <lb ed="#B" n="17"/>&amp; aequiualentiam: quod ad veram contradictionem 
+   <lb ed="#B" n="18"/>requiritur.
+  </p>
+      <p xml:id="jMqv4a-d1e1770-d1e580">
+   ⁋ Concludendo dico, apud me inopi 
+   <lb ed="#B" n="19"/>nabile esse quod deus non potest producere rem
+   per<lb ed="#B" n="20" break="no"/>manentem qualitercumque corruptam. Sed &amp; beatus 
+   <lb ed="#B" n="21"/>Tho. v. Quodli. tenet oppositum illius quod tenuit 
+   <lb ed="#B" n="22"/>in. iiii. &amp; in. iii. par. qui. lxxvii quamquam tertiam partem post 
+   <lb ed="#B" n="23"/>Quodlibeta videtur scripsisse. vt patet per eius 
+   <lb ed="#B" n="24"/>incomplementum. De re autem successiua vt motu 
+   <lb ed="#B" n="25"/>locali vel tempore parum discussi. nam probabilius 
+   <lb ed="#B" n="26"/>existimo cum communi nominalium schola quod
+   mo<lb ed="#B" n="27" break="no"/>tus localis est mobile quod mouetur: &amp; tempus est 
+   <lb ed="#B" n="28"/>res permanens. Sed si teneatur oppositum probabi 
+   <lb ed="#B" n="29"/>liter: adhuc conclusio secunda est probabilis, &amp; proba 
+   <lb ed="#B" n="30"/>bilior opposita: licet contradictoria secundae conclu 
+   <lb ed="#B" n="31"/>sionis non sit inopinabilis. nam multum interest inter 
+   <lb ed="#B" n="32"/>successiua quo ad esse &amp; fieri, &amp; permanentia.
+   Po<lb ed="#B" n="33" break="no"/>tes facere difficultatem, an totum tempus praeteritum deus 
+   <lb ed="#B" n="34"/>possit in hac hora reproducere. &amp; probatur quod sic 
+   <lb ed="#B" n="35"/>quia quamlibet horam praeteritam potest deus in hac 
+   <lb ed="#B" n="36"/>hora reproducere: quo facto totum tempus praeteritum 
+   <lb ed="#B" n="37"/>erit in hac hora. &amp; eodem modo in quacumque
+   minu<lb ed="#B" n="38" break="no"/>ta parte huius horae. Similiter an deus possit duas 
+   <lb ed="#B" n="39"/>medietates huius horae ponere simul. Item si Sorte 
+   <lb ed="#B" n="40"/>moto reproducatur motus quo mouebatur heri: &amp; 
+   <lb ed="#B" n="41"/>ponatur in Sorte cum isto motu: iam motus habe 
+   <lb ed="#B" n="42"/>bit plures partes simul: partes inquam non ad diui 
+   <lb ed="#B" n="43"/>sionem subiecti, quia de hoc non est difficultas: 
+   <lb ed="#B" n="44"/>sed ad diuisionem temporis. Ista sunt pro contra: 
+   <lb ed="#B" n="45"/>dictoria secundae conclusionis. quae omnia &amp; similia 
+   <lb ed="#B" n="46"/>iunioribus theologis relinquo discutienda. Sed 
+   <lb ed="#B" n="47"/>quia in quaestione praecedente dicebam soluendo 
+   <lb ed="#B" n="48"/>vnam rationem aduersariorum: quod si anima
+   cor<lb ed="#B" n="49" break="no"/>pus informaret, non produceret aliquid de nouo: 
+   <lb ed="#B" n="50"/>quia tertia entitas non distinguitur a partibus si 
+   <lb ed="#B" n="51"/>mul sumptis: gratia illius 
+  </p>
+    </div>
+   </body>
+  </text>
+</TEI>

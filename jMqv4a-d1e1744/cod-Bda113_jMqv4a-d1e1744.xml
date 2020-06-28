@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 2</title>
+      <author ref="#JohnMair">John Mair</author>
+      <respStmt>
+       <name>Jeffrey C. Witt</name>
+       <resp>TEI Encoder</resp>
+      </respStmt>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 2</title>
+       <date when="2020-06-09">June 27, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="B" n="cod-Bda113">Badius 1516</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+     guidelines for a diplomatic edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-06-27" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+      <pb ed="#B" n="326-v"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="jMqv4a-d1e1744"> <!-- l4d41q2 -->
+      <head xml:id="jMqv4a-d1e1744-Hd1e104">Quaestio 2</head>
+      <head xml:id="jMqv4a-d1e1744-Hd1e107" type="question-title">An sint aliqui filii illegitimi</head>
+      <p xml:id="jMqv4a-d1e1744-d1e110">
+       <lb ed="#B" n="10"/>⁋ Distinctionis Quadragesimae primae 
+   <lb ed="#B" n="11"/>Quaestio Secunda. 
+   <lb ed="#B" n="12"/>Vaeritur secundo cir 
+   <lb ed="#B" n="13"/>ca hanc distinctionem quadra 
+   <lb ed="#B" n="14"/>gesimamprimam. an sint aliqui 
+   <lb ed="#B" n="15"/>filii illegitimi. Respondetur. 
+   <lb ed="#B" n="16"/>Filiorum aliqui sunt legitimi 
+   <lb ed="#B" n="17"/>non naturales: vt adoptiui &amp; 
+   <lb ed="#B" n="18"/>i arrogati: quos leges
+   admit<lb ed="#B" n="19" break="no"/>e tunt. Alii sunt naturales &amp; le 
+   <lb ed="#B" n="20"/>gitimi vt in matrimonio geniti, vel qui legitimi 
+   <lb ed="#B" n="21"/>approbantur ab ecclesia. Tertii sunt naturales &amp; 
+   <lb ed="#B" n="22"/>non legitimi, vt qui nascuntur ex concubinis. Quarti 
+   <lb ed="#B" n="23"/>sunt nec naturales nec legitimi. vt geniti ex icestu 
+   <lb ed="#B" n="24"/>vel adulterio vt spurii. Dicuntur non naturales quia 
+   <lb ed="#B" n="25"/>contra legem naturae matrimonii. hoc est, inter illas 
+   <lb ed="#B" n="26"/>personas non potest esse matrimonium. dicuntur in 
+   <lb ed="#B" n="27"/>legitimi quia praeter legem nati: &amp; turpe est licet non pec 
+   <lb ed="#B" n="28"/>catum, sic generari. Ambitio quidem praeter ratio 
+   <lb ed="#B" n="29"/>nem impellebat Alexandrum dicere louem
+   Han<lb ed="#B" n="30" break="no"/>monem patrem &amp; non Philippum: &amp; forte fuit vna 
+   <lb ed="#B" n="31"/>causarum Antipatrum instigans in eius necem: quod non 
+   <lb ed="#B" n="32"/>esset dignus regno Macedonico qui erubesceret ha 
+   <lb ed="#B" n="33"/>bere patrem regem regni, cui succedere debebat 
+  </p>
+      <p xml:id="jMqv4a-d1e1744-d1e165">
+       <lb ed="#B" n="34"/>⁋ Si dicas. demonstrando quatuor legitimos cum 
+   <lb ed="#B" n="35"/>vno spurio, verum est dicere, hi sunt filii: &amp; sub
+   nul<lb ed="#B" n="36" break="no"/>lo horum membrorum includuntur: ergo diuisum 
+   <lb ed="#B" n="37"/>excedit membra diuidentia. Respondeo, sunt ille 
+   <lb ed="#B" n="38"/>gitimi contradictorie: quia non sunt legitimi. Nec 
+   <lb ed="#B" n="39"/>sequitur, isti quique sunt illegitimi: ergo quilibet eo 
+   <lb ed="#B" n="40"/>rum est illegitimus. &amp; sic plures sunt illegitimi in
+   il<lb ed="#B" n="41" break="no"/>lo casu quam legitimi: licet sit vnus singulariter illeg 
+   <lb ed="#B" n="42"/>timus. Hoc modo plures sunt illegitimi in Francia 
+   <lb ed="#B" n="43"/>quam legitimi: quia demonstrando eos omnes haec est 
+   <lb ed="#B" n="44"/>vera, isti sunt illegitimi / id est non legitimi. Sed ca 
+   <lb ed="#B" n="45"/>piendo vulgariter, reducas ad singulare: vel super: 
+   <lb ed="#B" n="46"/>addas sufficientia membra ad euadendam sophi 
+   <lb ed="#B" n="47"/>sticationem: iuxta documentum quod in illa
+   par<lb ed="#B" n="48" break="no"/>titione: Terminorum quidam vocales: quidam
+   men<lb ed="#B" n="49" break="no"/>tales: quidam scripti: secundum communem mo 
+   <lb ed="#B" n="50"/>dum numerandi posuimus. 
+  </p>
+      <p xml:id="jMqv4a-d1e1744-d1e205">
+       <lb ed="#B" n="51"/>⁋ Ista distinctione praemissa: conclusiue 
+   <!--0684.xml-->
+   <cb ed="#B" n="b"/> 
+       <!-- 326-v b -->
+       <lb ed="#B" n="52"/>respondetur. Aliqui filii sunt illegitimi. patet. qui 
+   <lb ed="#B" n="53"/>filii sunt legitimi. per totum. Filius autem legirimus 
+   <lb ed="#B" n="54"/>est ille qui nascitur in matrimonio approbato ab 
+   <lb ed="#B" n="55"/>ecclesia: vel quando proles est genita inter
+   perso<lb ed="#B" n="56" break="no"/>nas idoneas tempore generationis / &amp; mulier post 
+   <lb ed="#B" n="57"/>ea ducitur in vxorem. qui filii sunt legiti cap.
+   pri<lb ed="#B" n="58" break="no"/>mo. &amp; ca. Tanta est vis. Sptrii vero non legitimam 
+   <lb ed="#B" n="59"/>tur: vt dicitur ibidem. Etiam si habens vxorem contra 
+   <lb ed="#B" n="60"/>hat cum alia in facie ecclesiae ignara illius vxoris: 
+   <lb ed="#B" n="61"/>legitima erit eorum proles. ca. Ex tenore. Idem est si 
+   <lb ed="#B" n="62"/>fuerit separatio. ca. huius rubricae secundo.
+   Simi<lb ed="#B" n="63" break="no"/>liter ex clandestino matrimonio dum approbatur 
+   <lb ed="#B" n="64"/>per ecclesiam. ca. Qued nobis.
+  </p>
+      <p xml:id="jMqv4a-d1e1744-d1e244">
+   ⁋ Ex isto patet quod 
+   <lb ed="#B" n="65"/>ex aliquo coitu qui est peccatum generatur proles legiti 
+   <lb ed="#B" n="66"/>ma. vt si Sortes habeat vxorem in Anglia, &amp; du 
+   <lb ed="#B" n="67"/>cat mulierem in Gallia. immo quando est
+   pecca<lb ed="#B" n="68" break="no"/>tum ex vtraque parte. vt in concubinatu. Nec hoc 
+   <lb ed="#B" n="69"/>inconuenit inter coniuges. vt si vterque voueret con 
+   <lb ed="#B" n="70"/>tinentiam &amp; profiterentur religionem. quomodo
+   Ge<lb ed="#B" n="71" break="no"/>mebaldus Laudunensis episcopus habuit neptem 
+   <lb ed="#B" n="72"/>sancti Remigii qui causa religionis seinuicem ab 
+   <lb ed="#B" n="73"/>soluerunt: ex ea tamen postea filium genuit occulte, qua 
+   <lb ed="#B" n="74"/>propterea latro dictus est: qui in episcopatu ei
+   succes<lb ed="#B" n="75" break="no"/>sit, nec inuenitur dispensatio: vel quod nunc requiritur cum vi 
+   <lb ed="#B" n="76"/>culum matrimonii adhuc non est solutum. peccatum enim 
+   <lb ed="#B" n="77"/>praecedens non arguit sufficienter illegitimationem. 
+  </p>
+      <p xml:id="jMqv4a-d1e1744-d1e275">
+       <lb ed="#B" n="78"/>⁋ Sed contra ista arguitur. leges non possunt
+   legi<lb ed="#B" n="79" break="no"/>timum illegitimare: ergo nec illegitime natum legiti 
+   <lb ed="#B" n="80"/>mare. sed natus in concubinatu ante matrimonium 
+   <lb ed="#B" n="81"/>est illegitimus: ergo per nullam constitutionem ponti 
+   <lb ed="#B" n="82"/>ficis potest legitimari. Respondetur. iura sunt pro 
+   <lb ed="#B" n="83"/>niora ad absoluendum quam ad condemnandum. Si
+   di<lb ed="#B" n="84" break="no"/>cas. si rex cognoscat mulierem solutam &amp; generet
+   pro<lb ed="#B" n="85" break="no"/>lem: per hoc quod ducitur mater in vxorem proles fit 
+   <lb ed="#B" n="86"/>legitima &amp; habebit haereditatem. si non ducatur mulier: 
+   <lb ed="#B" n="87"/>roles non habebit haereditatem: ergo fraudatur iure 
+   <lb ed="#B" n="88"/>suo. Nego quod fraudetur iure suo: quia ante matrimo 
+   <lb ed="#B" n="89"/>nium huic nihil debetur in regno vel ducatum: sed 
+   <lb ed="#B" n="90"/>parum distat a iure habendo, nec est alienum quod pro 
+   <lb ed="#B" n="91"/>pter peccatum parentis filius careat haereditate, non tamen 
+   <lb ed="#B" n="92"/>propterea portat iniquitatem patris: hoc est peccatum 
+   <lb ed="#B" n="93"/>vel poenam peccato debitam.
+  </p>
+      <p xml:id="jMqv4a-d1e1744-d1e312">
+   ⁋ Petis an rex possit 
+   <lb ed="#B" n="94"/>legitimare. Dicitur, quando quis habet ius acquisitum, &amp; ha 
+   <lb ed="#B" n="95"/>bet terram iam actu: non potest legitimare
+   illegiti<lb ed="#B" n="96" break="no"/>mun vt habeat hanc terram. de iure autem acquirendo vi 
+   <lb ed="#B" n="97"/>detur quod potest cum consensu eorum ad quos
+   spe<lb ed="#B" n="98" break="no"/>ctat. vt si sit dominus talis cognominis habes filiam &amp; si 
+   <lb ed="#B" n="99"/>legitimum: consentientibus parentibus puellae, prouiden  
+   <lb ed="#B" n="100"/>do mulieri vt habeat bonum matrimonium / potest 
+   <lb ed="#B" n="101"/>rex dispensare. Annectitur autem frequenter terra co 
+   <lb ed="#B" n="102"/>gnomini post genitam mulierem ipsa contradicen 
+   <lb ed="#B" n="103"/>te: &amp; datur fratri vel alteri consanguineo sine peccato. 
+   <lb ed="#B" n="104"/>Est enim in istis constitutio humana qui tollit ius, &amp; ipsum  
+   <lb ed="#B" n="105"/>ponit: quod sufficit. In Scotia namque &amp; in Castella mu 
+   <lb ed="#B" n="106"/>lier est haeres regni: in multis aliis locis non / sesolum ma.  
+   <!--0685.xml-->
+   <pb ed="#B" n="327-r"/>
+       <cb ed="#B" n="a"/>
+       <lb ed="#B" n="1"/>In vtroque item regno Britannorum primogenitus suc 
+   <lb ed="#B" n="2"/>cedit in tota haereditate quoad immobilia: non autem 
+   <lb ed="#B" n="3"/>in Francia &amp; aliis regnis. sed primogeniti in toto 
+   <lb ed="#B" n="4"/>succedentes tenentur alios alere secundum suum statum 
+   <lb ed="#B" n="5"/>&amp; facultatem. Leges autem antiquae quamuis parum obliquae 
+   <lb ed="#B" n="6"/>videantur: non sunt facile repudiandae vel eneruan 
+   <lb ed="#B" n="7"/>dae per dispensationem. Quapropter reges non possunt 
+   <lb ed="#B" n="8"/>sine peccato dispensare cum spuriis vt succedant in  
+   <lb ed="#B" n="9"/>haereditate nisi vbi est rationabilis causa: quia dare 
+   <lb ed="#B" n="10"/>tur materia procreandi spurios &amp; eneruandi leges an 
+   <lb ed="#B" n="11"/>tiquas per facilem dispensationem. Hoc autem non con 
+   <lb ed="#B" n="12"/>tingit in dispensatione ad ordines: quia nulli fit in  
+   <lb ed="#B" n="13"/>iuria. nam multi tales sunt adeo bonae vitae vt
+   le<lb ed="#B" n="14" break="no"/>gitimi: &amp; cum habeant animum seruiendi deo, cum 
+   <lb ed="#B" n="15"/>aliis sunt admittendi. sicut quidam petens dispen 
+   <lb ed="#B" n="16"/>sationem dicebat. Quamuis peccantes me progenue 
+   <lb ed="#B" n="17"/>re parentes: Culpam non merui, nec reus inde fui. 
+  </p>
+      <p xml:id="jMqv4a-d1e1744-d1e386">
+       <lb ed="#B" n="18"/>⁋ Dubitatur. si Petrus qui cognouit 
+   <lb ed="#B" n="19"/>mulierem habilem Bertam, ex qua genuit a.
+   sobolem<lb ed="#B" n="20" break="no"/>ducat Tebergam vxorem ex qua genuit b.
+   rur<lb ed="#B" n="21" break="no"/>sus mortua Teberga ducit Bertam in vxorem quan 
+   <lb ed="#B" n="22"/>prius cognouit: quaeritur an b. erit haeres dominii, 
+   <lb ed="#B" n="23"/>an a. &amp; loquimur de portione haereditaria vbi tota 
+   <lb ed="#B" n="24"/>terra datur primogenito vel maior portio. Credo  
+   <lb ed="#B" n="25"/>quod b. est haeres, cum sit primus legitimus ex
+   vxo<lb ed="#B" n="26" break="no"/>re. Secus est si quis generet ex Catharina c. prolem. 
+   <lb ed="#B" n="27"/>deinde ad duos annos vel tres futuros ducat Ca 
+   <lb ed="#B" n="28"/>tharinam vxorem ex qua generet d. sobolem
+   le<lb ed="#B" n="29" break="no"/>gitimam: iam enim per matrimonium c. legitima 
+   <lb ed="#B" n="30"/>tur antequam generetur d. Si ponas quod in eodem instam 
+   <lb ed="#B" n="31"/>ti quo contrahitur matrimonium, nascatur d. tunc 
+   <lb ed="#B" n="32"/>c, non est proles legitima ante d. sed sufficit quod na 
+   <lb ed="#B" n="33"/>scatur ante d. &amp; de non citius est soboles legitima quam 
+   <lb ed="#B" n="34"/>c. Sed si in eodem instanti ex variis vxoribus (quod 
+   <lb ed="#B" n="35"/>fieri potest generentur duo paruuli: oportet sorti 
+   <lb ed="#B" n="36"/>ri de haereditate si est impartibilis: vel ipsam aequa 
+   <lb ed="#B" n="37"/>liter partiri, cum aequa sit ratio. 
+  </p>
+    </div>
+   </body>
+  </text>
+</TEI>

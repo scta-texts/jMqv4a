@@ -1,0 +1,271 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 6</title>
+      <author ref="#JohnMair">John Mair</author>
+      <respStmt>
+       <name>Jeffrey C. Witt</name>
+       <resp>TEI Encoder</resp>
+      </respStmt>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 6</title>
+       <date when="2020-06-09">June 27, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="B" n="cod-Bda113">Badius 1516</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+     guidelines for a diplomatic edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-06-27" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+      <pb ed="#B" n="364-r"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="jMqv4a-d1e1951"> <!-- l4d49q6 -->
+      <head xml:id="jMqv4a-d1e1951-Hd1e104">Quaestio 6</head>
+      <head xml:id="jMqv4a-d1e1951-Hd1e107" type="question-title">An omnes summae appetant beatitudinem</head>
+      <p xml:id="jMqv4a-d1e1951-d1e110">
+       <lb ed="#B" n="88"/>⁋ Distinctionis Quadragesim ae nonae 
+   <lb ed="#B" n="89"/>Quaestio Sexta. 
+   <lb ed="#B" n="90"/>Exto quaeritur
+   con<lb ed="#B" n="91" break="no"/>formiter cum magistro in
+   li<lb ed="#B" n="92" break="no"/>tera: An omnes summe
+   appe<lb ed="#B" n="93" break="no"/>tant beatitudinem. Respodetur. 
+   <lb ed="#B" n="94"/>duplex est appetitus. quidam 
+   <lb ed="#B" n="95"/>cayi 
+   <lb ed="#B" n="96"/>liber siue electiuus. de quo 
+  </p>
+      <p xml:id="jMqv4a-d1e1951-d1e132">
+       <lb ed="#B" n="97"/>⁋ Nuncquam 
+   <lb ed="#B" n="98"/>cin quaestione sequente dicemus. 
+   <lb ed="#B" n="99"/>Alius est appetitus naturalis. de quo impresentia 
+   <lb ed="#B" n="100"/>rum loquemur: ponentes conclusiones ad quaestionem 
+   <lb ed="#B" n="101"/>responsiuas.
+  </p>
+      <p xml:id="jMqv4a-d1e1951-d1e146">
+   ⁋ Quarum Prima est. Omnes ad
+   beatitu<lb ed="#B" n="102" break="no"/>dinem apti beatitudinem appetunt. probatur sic. Appe 
+   <lb ed="#B" n="103"/>titus naturalis nihil aliud est quam inclinatio, &amp;
+   apti<lb ed="#B" n="104" break="no"/>tudo rei ad suam perfectionem. sed perfectio creatu 
+   <lb ed="#B" n="105"/>rae rationalis, maxime in beatitudine consistit, quod 
+   <lb ed="#B" n="106"/>autem non dicat actum elicitum distinctum ab ipsomet apu 
+   <lb ed="#B" n="107"/>petitu, probatur, quia materia appetit formam vt 
+   <lb ed="#B" n="108"/>turpe bonum. primo Physicorum. &amp;. quaelibet res
+   ap<lb ed="#B" n="109" break="no"/>petit appetitu naturali permanere in esse. sed hoc 
+   <lb ed="#B" n="110"/>non dicit aliquem actum elicitum in materia vel in  
+   <lb ed="#B" n="111"/>re in animata: ergo ille appetitus naturalis non  
+   <lb ed="#B" n="112"/>&amp; iiii 
+   <!--0760.xml-->
+   <pb ed="#B" n="364-v"/>
+       <cb ed="#B" n="a"/>
+       <lb ed="#B" n="1"/>dicit actum elicitum in re animata. Sed dicis, non est 
+   <lb ed="#B" n="2"/>dem in te animata. Secundo arguitur specialiter
+   con<lb ed="#B" n="3" break="no"/>tra hoc. nam opposito dato sequitur quod qualitates 
+   <lb ed="#B" n="4"/>contrariae essent in eodem. consequens est impossibile 
+   <lb ed="#B" n="5"/>naturaliter. Et probo consequentiam: quia appetitus 
+   <lb ed="#B" n="6"/>naturalis hominis iusti refugit mortem. sic enim erat 
+   <lb ed="#B" n="7"/>in Christo. appetitus autem liber mortem in casu non 
+   <lb ed="#B" n="8"/>recusat sed vult. quae recusatio si sit actus elicitus 
+   <lb ed="#B" n="9"/>mortis refugitiuus in voluntate respectu mortiss: 
+   <lb ed="#B" n="10"/>cum sit volitio respectu mortis in eadem potentia: 
+   <lb ed="#B" n="11"/>qualitates contrariae dabuntur in eodem subiecto.
+   Di<lb ed="#B" n="12" break="no"/>cis hoc non concludere. nam iudicium sensus quod sol est 
+   <lb ed="#B" n="13"/>minor terra: &amp; iudicium intellectus quod sol est maior 
+   <lb ed="#B" n="14"/>terra, non contrariantur. Similiter nec actus sensatio 
+   <lb ed="#B" n="15"/>nis obiectum appetentis: &amp; rationis obiectum respuen 
+   <lb ed="#B" n="16"/>tis. Etiam quamuis sint ad idem obiectum in eadem potentia: 
+   <lb ed="#B" n="17"/>secundum multos non contrariantur: quia actui libero so 
+   <lb ed="#B" n="18"/>lus actus liber contrariatur: &amp; naturali actui actus 
+   <lb ed="#B" n="19"/>naturalis contrariatur. Contra hoc arguo. siquis
+   eli<lb ed="#B" n="20" break="no"/>ciat dilectionem Sortis in instanti, &amp; continuet per tem 
+   <lb ed="#B" n="21"/>us naturaliter: actus in illa continuatione natura 
+   <lb ed="#B" n="22"/>liter repugnat dilectioni eius, ac si esset liber.
+   Obii<lb ed="#B" n="23" break="no"/>cies. quis ille actus continuetur de necessitate per 
+   <lb ed="#B" n="24"/>tempus: tamen est mere liber. ergo nihil dicis. Sed  
+   <lb ed="#B" n="25"/>quia de subiecto sensationis &amp; iudicio sensus est 
+   <lb ed="#B" n="26"/>alterius negocii difficultas: an sit idem subiectum nu 
+   <lb ed="#B" n="27"/>mero, an alia: transeo illam rationem relinquens. nam 
+   <lb ed="#B" n="28"/>brutum modo productum appetit cibum &amp; potum si diu 
+   <lb ed="#B" n="29"/>abstinuit: &amp; ille appetitus scilicet fames vel sitis 
+   <lb ed="#B" n="30"/>nullum actum elicitum ponit, quod patet: quia non habetur 
+   <lb ed="#B" n="31"/>aliqua cognitio praeuia. nam pono quod num quam cibum ap 
+   <lb ed="#B" n="32"/>prehendit. Dicis. in vtero matemo apphendit. 
+   <lb ed="#B" n="33"/>Volo quod nunc primum producatur extra vterum a deo  
+   <lb ed="#B" n="34"/>vel a natura: vt de rana &amp; de aliquibus brutis con 
+   <lb ed="#B" n="35"/>tingit. lam sic. omnis actus appetitus productus 
+   <lb ed="#B" n="36"/>praesupponit notitiam praeuiam. sed ille appetitus
+   na<lb ed="#B" n="37" break="no"/>turalis non praesupponit notitiam vel cognitionem praeuiam 
+   <lb ed="#B" n="38"/>ergo non est actus productus ab ipso appetitu. Prae 
+   <lb ed="#B" n="39"/>terea reduco primam rationem in parte. cum res
+   inani<lb ed="#B" n="40" break="no"/>mata habeat suam inclinationem naturalem sine actu 
+   <lb ed="#B" n="41"/>elicito, &amp; res animata non sit deterioris conditionis 
+   <lb ed="#B" n="42"/>quae inanimata: videtur quod tantum appetat suam perfe 
+   <lb ed="#B" n="43"/>ctionem sine actu elicito, quantum lapis: &amp; non est
+   po<lb ed="#B" n="44" break="no"/>nenda pluralitas sine necessitate: ergo modus com 
+   <lb ed="#B" n="45"/>munis est rectus quod appetitus naturalis nullum 
+   <lb ed="#B" n="46"/>actum distinctum ponit ab ipsomet appetitu. Hoc 
+   <lb ed="#B" n="47"/>supposito arguitur sic. omnis res appetit suapte 
+   <lb ed="#B" n="48"/>natura suam perfectionem. beatitudo est maxima per 
+   <lb ed="#B" n="49"/>fectio possibilis creaturae rationali: ergo illam omnes. 
+   <lb ed="#B" n="50"/>appetunt, nec nos eiusmodi nexibus impedias: 
+   <lb ed="#B" n="51"/>nulla beatitudo est maxima perfectio possibilis. 
+   <lb ed="#B" n="52"/>sed intellige quid praetendam.
+  </p>
+      <p xml:id="jMqv4a-d1e1951-d1e291">
+   ⁋ Secunda conclusio. Omnes. 
+   <lb ed="#B" n="53"/>ad beatitudinem apti summe beatitudinem
+   appe<lb ed="#B" n="54" break="no"/>tunt. probatur: quia eam naturaliter appetunt: ergo  
+   <lb ed="#B" n="55"/>summe. tenet consequentia: quia agens naturale 
+   <!--0760.xml-->
+   <cb ed="#B" n="b"/> 
+       <!-- 364-v b -->
+       <lb ed="#B" n="56"/>secundum extremum suae potentiae tendit in suam 
+   <lb ed="#B" n="57"/>salutem: vt graue ad centrum. ergo cum appetitus 
+   <lb ed="#B" n="58"/>naturalis creaturae rationalis beatitudinem appe 
+   <lb ed="#B" n="59"/>tat: secundum extremum suae potentiae appetit, &amp;
+   sum<lb ed="#B" n="60" break="no"/>mo conatu. 
+  </p>
+      <p xml:id="jMqv4a-d1e1951-d1e317">
+       <lb ed="#B" n="61"/>⁋ Contra insta sic arguitur.
+   appeti<lb ed="#B" n="62" break="no"/>tus &amp; inclinatio naturalis distinguitur a re cuius 
+   <lb ed="#B" n="63"/>est inclinatio, quod probo. nam graue in suo loco
+   na<lb ed="#B" n="64" break="no"/>turali non inclinatur ad descensum: sed illic quiescit. 
+   <lb ed="#B" n="65"/>quando autem est extra locum naturalem vt super
+   traben<lb ed="#B" n="66" break="no"/>inclinatur ad descensum: &amp; tamen semper manet illa 
+   <lb ed="#B" n="67"/>grauitas: ergo non oportet dare aliquid aliud ab 
+   <lb ed="#B" n="68"/>illa grauitate per quod inclinetur ad descensum.
+   Si<lb ed="#B" n="69" break="no"/>militer habitus naturaliter vigilantem &amp; non
+   dor<lb ed="#B" n="70" break="no"/>mientem inclinat: ergo non oportet dare
+   inclinatio<lb ed="#B" n="71" break="no"/>nem naturalem distinctam ab appetitu naturali.
+  </p>
+      <p xml:id="jMqv4a-d1e1951-d1e343">
+   ⁋
+   Prae<lb ed="#B" n="72" break="no"/>terea appetitus rei non distinguitur a re cuius est
+   ap<lb ed="#B" n="73" break="no"/>petitus: ergo appetitus daemonis ad beatitudinem 
+   <lb ed="#B" n="74"/>est maior qui appetitus hominis. patet consequentia: 
+   <lb ed="#B" n="75"/>quia daemon est homine perfectior entitatiue. &amp; cum 
+   <lb ed="#B" n="76"/>inclinatio naturalis non dicat actum distinctum: opor 
+   <lb ed="#B" n="77"/>tet dicere, quantum sit de entitate tantum esse de inclina 
+   <lb ed="#B" n="78"/>tione.
+  </p>
+      <p xml:id="jMqv4a-d1e1951-d1e361">
+   ⁋ Respondetur. Ocleam in tertio Quodlibe 
+   <lb ed="#B" n="79"/>to ponit inclinationem habitus &amp; formae distinctam 
+   <lb ed="#B" n="80"/>ab ipsa forma: non autem appetitum materiae: &amp; ideo 
+   <lb ed="#B" n="81"/>aequiuocat vt consequenter dicat. Hoc nihil valet:  
+   <lb ed="#B" n="82"/>&amp; eius aequiuocatio est inutilis, nec rationes: quams 
+   <lb ed="#B" n="83"/>facit, aliquid valent, quod probo. nam inclinatio habi 
+   <lb ed="#B" n="84"/>tus non est actus: cum inclinatio actum praecedat &amp; po 
+   <lb ed="#B" n="85"/>nat aliquid aliud, nec habitus ipse: nec passio: quia 
+   <lb ed="#B" n="86"/>illa identificatur cum actu, vel actum naturaliter sequi 
+   <lb ed="#B" n="87"/>tur: nec est in potentia nisi durante actu. modo vt 
+   <lb ed="#B" n="88"/>dicitur. ii. Ethicorum. Omne quod est in anima, est actus /
+   ha<lb ed="#B" n="89" break="no"/>bitus / vel passio. nullum autem illorum est illa inclinatio 
+   <lb ed="#B" n="90"/>nisi dicas esse habitum, contra opinantem. Fadem etiam 
+   <lb ed="#B" n="91"/>facilitate ponere poterat appetitum materiae a mate 
+   <lb ed="#B" n="92"/>ria distinctum.
+  </p>
+      <p xml:id="jMqv4a-d1e1951-d1e394">
+   ⁋ Dico igitur quod appetitus formae est 
+   <lb ed="#B" n="93"/>forma. &amp; breuiter: nullius rei appetitus distingui 
+   <lb ed="#B" n="94"/>tur a re cuius est appetitus. Ad rationes eius,
+   qua<lb ed="#B" n="95" break="no"/>rum prima est de graui detento super trabem: dico 
+   <lb ed="#B" n="96"/>quado est extra suum locum naturalem, inclinationem 
+   <lb ed="#B" n="97"/>habet &amp; aptitudinem ad suum locum naturalem: 
+   <lb ed="#B" n="98"/>sed cum est in suo loco naturali stat sub quiete 
+   <lb ed="#B" n="99"/>in illo loco. &amp; per eandem virtutem cum est extra suum 
+   <lb ed="#B" n="100"/>locum, ad suum locum tendit, &amp; in illo permanet: 
+   <lb ed="#B" n="101"/>nec alium quaerit quo tendat. sicut elementum est gra 
+   <lb ed="#B" n="102"/>ue vel leue in sua sphaera: sed grauitatem illam in sua 
+   <lb ed="#B" n="103"/>sphaera non exercet. quando autem graue est super
+   tra<lb ed="#B" n="104" break="no"/>bem habet resistentiam quam vincere non potest, 
+   <lb ed="#B" n="105"/>quousque trabs auferatur: &amp; tunc grauitas pellit
+   gra<lb ed="#B" n="106" break="no"/>ue deorsum per nihil quod acquirit de nouo: sed per 
+   <lb ed="#B" n="107"/>grauitatem quae prius in loco innaturali
+   impe<lb ed="#B" n="108" break="no"/>diebatur.
+  </p>
+      <p xml:id="jMqv4a-d1e1951-d1e432">
+   ⁋ Ad aliud / nego quod habitus / inclinet 
+   <lb ed="#B" n="109"/>vigilantem vel dormientem. Nam proprie in- 
+   <!--0761.xml-->
+   <pb ed="#B" n="365-r"/>
+       <cb ed="#B" n="a"/>
+       <lb ed="#B" n="1"/>clinare in philosophia tantum valet quantum
+   ef<lb ed="#B" n="2" break="no"/>ficere. modo habitus hominis non facit hominem 
+   <lb ed="#B" n="3"/>sed ad bonum sensum inclinat vigilantem. hoc est 
+   <lb ed="#B" n="4"/>facit ipsum / prompte producere actum. habitus 
+   <lb ed="#B" n="5"/>niem in actum inclinat: quia concurrit ad producti 
+   <lb ed="#B" n="6"/>onem actus: &amp; quia sine apprehensione
+   obie<lb ed="#B" n="7" break="no"/>cti non facit aliquid. sed tunc habetur ferme cau 
+   <lb ed="#B" n="8"/>sa totalis in productione actus ita quod nihil deficit
+   ni<lb ed="#B" n="9" break="no"/>si concursus potentiae, &amp; quia homo reperit se 
+   <lb ed="#B" n="10"/>bene dispositum vt exeat in actum quando habet ape 
+   <lb ed="#B" n="11"/>prehensionem obiecti: dicitur hominem inclina 
+   <lb ed="#B" n="12"/>re habitus.
+  </p>
+      <p xml:id="jMqv4a-d1e1951-d1e469">
+   ⁋ Ad tertium respondetur concedendo quod 
+   <lb ed="#B" n="13"/>appetitus naturalis daemonis est ad beatitudinem 
+   <lb ed="#B" n="14"/>&amp; appetit suam perfectionem illo appetitu. nam  
+   <lb ed="#B" n="15"/>quod est imaximae perfectionis, maxime appetit. 
+   <lb ed="#B" n="16"/>modo beatitudo inter omnia appetibilia est
+   maxi<lb ed="#B" n="17" break="no"/>mum. quancunque enim suam perfectionem res
+   quali<lb ed="#B" n="18" break="no"/>bet appetit: sicut quancumque imperfectionem respuit 
+   <lb ed="#B" n="19"/>&amp; materia quamlibet formam appetit appetitu vel 
+   <lb ed="#B" n="20"/>complacentiae / vel carentiae. Contra hoc arguitur. 
+   <lb ed="#B" n="21"/>cum deus dederit hanc inclinationem rei: sequitur 
+   <lb ed="#B" n="22"/>quod in hoc ipsa non peccet prosequendo suam
+   perfe<lb ed="#B" n="23" break="no"/>ctionem: nec voluntas libera ei coniuncta,
+   permit<lb ed="#B" n="24" break="no"/>tendo naturam quaerere illud quod deus ei indidit. Raspon 
+   <lb ed="#B" n="25"/>detur. in appetitu naturali non est peccatum ratione ipsius ap 
+   <lb ed="#B" n="26"/>petitus: sed quia idem appetitus naturalis est etiam liber 
+   <lb ed="#B" n="27"/>qui effrenem appetitum naturalem habet
+   cohi<lb ed="#B" n="28" break="no"/>bere, ne immoderate prosequatur sibi conueniens 
+   <lb ed="#B" n="29"/>Nec excusatur a peccato voluntas conformans se 
+   <lb ed="#B" n="30"/>appetitui naturali. &amp; ratio est, quia habet aliam re 
+   <lb ed="#B" n="31"/>gulam cui tenetur se conformare / scilicet rationem
+   con<lb ed="#B" n="32" break="no"/>formiter ad voluntatem dei.
+  </p>
+      <p xml:id="jMqv4a-d1e1951-d1e515">
+   ⁋ Praeterea arguitur. 
+   <lb ed="#B" n="33"/>toto conatu res naturalis appetit suam
+   perfectio<lb ed="#B" n="34" break="no"/>nem: ergo intensissimo actu sibi possibili.
+  </p>
+      <p xml:id="jMqv4a-d1e1951-d1e522">
+   ⁋ Raspon 
+   <lb ed="#B" n="35"/>detur. consequutio est inualida: vt patet de
+   appeti<lb ed="#B" n="36" break="no"/>tu aquae respectu frigoris: &amp; fuga eius a calore. 
+  </p>
+    </div>
+   </body>
+  </text>
+</TEI>

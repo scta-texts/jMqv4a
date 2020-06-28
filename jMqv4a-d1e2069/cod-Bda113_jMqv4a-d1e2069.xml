@@ -1,0 +1,347 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 26</title>
+      <author ref="#JohnMair">John Mair</author>
+      <respStmt>
+       <name>Jeffrey C. Witt</name>
+       <resp>TEI Encoder</resp>
+      </respStmt>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 26</title>
+       <date when="2020-06-09">June 27, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="B" n="cod-Bda113">Badius 1516</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+     guidelines for a diplomatic edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-06-27" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+      <pb ed="#B" n="386-r"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="jMqv4a-d1e2069"> <!-- l4d49q26 -->
+      <head xml:id="jMqv4a-d1e2069-Hd1e104">Quaestio 26</head>
+      <head xml:id="jMqv4a-d1e2069-Hd1e107" type="question-title">An actus quilibet cui debetur palma martyrii 
+  sit actus magnae perfectionis et sit praeferendus actu cui haec 
+  palmam non debetur</head>
+      <p xml:id="jMqv4a-d1e2069-d1e110">
+       <lb ed="#B" n="7"/>⁋ Distinctionis Quadragensim aenonae 
+   <lb ed="#B" n="8"/>Quaestio Vigesimasexta. 
+   <lb ed="#B" n="9"/>gesimosexto in  
+   <lb ed="#B" n="10"/>hac distinctione: &amp; tertio 
+   <lb ed="#B" n="11"/>le martyrio quaero: An 
+   <lb ed="#B" n="12"/>ctus quilibet cui debetur 
+   <lb ed="#B" n="13"/>alma martyrii sit actu 
+   <lb ed="#B" n="14"/>agnae perfectionis: &amp; sit 
+   <lb ed="#B" n="15"/>praeferendus actui cui haet 
+   <lb ed="#B" n="16"/>palma non debetur. Hic 
+   <lb ed="#B" n="17"/>non quaero: an martyrii 
+   <lb ed="#B" n="18"/>actus sit magnae perfectionis: sed generalius quasi 
+   <lb ed="#B" n="19"/>ui de quolibet actu cui debetur palma martyrii: cum 
+   <lb ed="#B" n="20"/>ex quaestione prima huius materiae cuilibet actui
+   mar<lb ed="#B" n="21" break="no"/>tyrii debeatur palma martyrii. sed non quiuis 
+   <lb ed="#B" n="22"/>actus cui debetur palma martyrii est martyrium. hic 
+   <lb ed="#B" n="23"/>autem sufficienter excludemus martyrium exten 
+   <lb ed="#B" n="24"/>so termino: quod fit cum contrapugnatione: quia
+   il<lb ed="#B" n="25" break="no"/>li non debetur aureola: licet grande meritum. 
+  </p>
+      <p xml:id="jMqv4a-d1e2069-d1e154">
+       <lb ed="#B" n="26"/>⁋ Pro solutionem quaestionis propositae 
+   <lb ed="#B" n="27"/>pono aliquas conclusiones.
+  </p>
+      <p xml:id="jMqv4a-d1e2069-d1e162">
+   ⁋ Prima conclusio. Quili 
+   <lb ed="#B" n="28"/>bet actus martyrii cum contrapugnatione est actus 
+   <lb ed="#B" n="29"/>magnae perfectionis.
+  </p>
+      <p xml:id="jMqv4a-d1e2069-d1e169">
+   ⁋ Secunda conclusio.
+   Quili<lb ed="#B" n="30" break="no"/>bet actus cui debetur aureola martyrii praestat actui 
+   <lb ed="#B" n="31"/>fortitudinis bellicae cum contrapugnatione caeteris 
+   <lb ed="#B" n="32"/>paribus.
+  </p>
+      <p xml:id="jMqv4a-d1e2069-d1e178">
+   ⁋ Tertia conclusio. Regulariter quilibet 
+   <lb ed="#B" n="33"/>actus cui debetur aureola martyrii / praestat actui qui non 
+   <lb ed="#B" n="34"/>est aliquo modo martyrium.
+  </p>
+      <p xml:id="jMqv4a-d1e2069-d1e185">
+   ⁋ Prima conclusio proba 
+   <lb ed="#B" n="35"/>tur sic. quaelibet fortitudo est actus magnae
+   perfectio<lb ed="#B" n="36" break="no"/>nis: quodlibet martyrium cum contrapugnatione est for 
+   <lb ed="#B" n="37"/>titudo. igitur. maior patet tertio Ethicorum. quia ob 
+   <lb ed="#B" n="38"/>iectum fortitudinis bellicae facit actum difficiliorem quam 
+   <lb ed="#B" n="39"/>obiectum temperantiae. Insuper si extolluntur a sa 
+   <lb ed="#B" n="40"/>pientibus qui gloriose pugnarunt pro defensione 
+   <lb ed="#B" n="41"/>patriae: a fortiore laudandi sunt qui &amp; pro patria &amp; 
+   <lb ed="#B" n="42"/>dei gloria pugnant: tollendo illa quae perturbant exal 
+   <lb ed="#B" n="43"/>tationem nominis dei. Propterea Machabei:
+   Go<lb ed="#B" n="44" break="no"/>dofridus Bulloniensis: &amp; Balduinus, &amp; similes aeterni 
+   <lb ed="#B" n="45"/>tati mandantur a posteris: &amp; gloriose triumphant in caelis. 
+  </p>
+      <p xml:id="jMqv4a-d1e2069-d1e211">
+       <lb ed="#B" n="46"/>⁋ Secunda conclusio probatur: quia fortitudo perstat temperan 
+   <lb ed="#B" n="47"/>tiae propter maiorem difficultatem, vt dictum est in
+   praeceden<lb ed="#B" n="48" break="no"/>te conclusione. sed est multo maior difficultas in  
+   <lb ed="#B" n="49"/>actu cui debetur aureola martyrii, quae in actu cui non 
+   <lb ed="#B" n="50"/>debetur. igitur. minor ostenditur. nam quando est contrapugnatio 
+   <lb ed="#B" n="51"/>est spes euadendi creberrime magna: &amp; furor arma 
+   <lb ed="#B" n="52"/>ministrat: vt ex Homero tertio Ethicorum citat phi 
+   <lb ed="#B" n="53"/>losophus: &amp; minus aduertit ad vulnera calefactus 
+   <!--0803.xml-->
+   <cb ed="#B" n="b"/> 
+       <!-- 386-r b -->
+       <lb ed="#B" n="54"/>nam in impetu non percipit ictus quos sentit facile 
+   <lb ed="#B" n="55"/>non contrapugnans. Nulla autem est spes vel
+   tenuissi<lb ed="#B" n="56" break="no"/>ma euadendi illi cui debetur palma martyrii. credit 
+   <lb ed="#B" n="57"/>tamen si sibi in mentem occurrat: deum posse se
+   li<lb ed="#B" n="58" break="no"/>berare: sed nescit an conducat saluti patientis. &amp; quia 
+   <lb ed="#B" n="59"/>videt frequenter quod deus sinit bonos flagellari a ma 
+   <lb ed="#B" n="60"/>lis / non habet spien euadendi. Rursus pati martyrium si 
+   <lb ed="#B" n="61"/>ne contrapugnatione est actus heroicus / vel ex parte 
+   <lb ed="#B" n="62"/>facientis / vel ex parte obiecti, non enim est actus
+   he<lb ed="#B" n="63" break="no"/>roicus pati contrapugnando. modo actus heroicus prae 
+   <lb ed="#B" n="64"/>stat actui non heroico circa eandem materiam. quod sit actus 
+   <lb ed="#B" n="65"/>heroicus probo: quia transcendit communem facultatem ho 
+   <lb ed="#B" n="66"/>minum. nam praesentia vnius ensis plus mouet quam centum 
+   <lb ed="#B" n="67"/>absentes. Hinc Eusebius lib. vi. cap. xxx. dicit: quod 
+   <lb ed="#B" n="68"/>multi obtulerunt se ad martyrium qui martyrio obia 
+   <lb ed="#B" n="69"/>to resilierunt. Insuper omnium quae homo habet, corpus est 
+   <lb ed="#B" n="70"/>praeciosissimum, &amp; illud martyr dat deo: non martyr au 
+   <lb ed="#B" n="71"/>tem non tantum dat: igitur.
+  </p>
+      <p xml:id="jMqv4a-d1e2069-d1e276">
+   ⁋ Tertia conclusio probatur ex 
+   <lb ed="#B" n="72"/>verbo Christi Ioannis. xv. Maiorem charitatem nemo 
+   <lb ed="#B" n="73"/>habet vt animam suam ponat quis pro amicis suis. per 
+   <lb ed="#B" n="74"/>actum autem martyrii quis ponit animam suam pro amicis 
+   <lb ed="#B" n="75"/>suis. Item Pellem pro pelle, &amp; cuncta quae habet ho / dabit 
+   <lb ed="#B" n="76"/>pro anima sua. Iob secundo. sed per martyrium homo 
+   <lb ed="#B" n="77"/>dat pellem deo. igitur. Dixi (regulariter) quia contingit 
+   <lb ed="#B" n="78"/>dare heroicam dilectionem beatae virginis pstantem vni 
+   <lb ed="#B" n="79"/>martyrio Cleti vel Clementis. Praeterea martyrio 
+   <lb ed="#B" n="80"/>plantata est ecclesia: &amp; crementum accepit ex eodem. 
+   <lb ed="#B" n="81"/>Quemadmodum enim granum frumenti si conseruetur
+   inte<lb ed="#B" n="82" break="no"/>grum: ipsum solum manet: si autem fuerit terrae iniectum 
+   <lb ed="#B" n="83"/>&amp; corruptum in terra: ex vno grano multa habebis: 
+   <lb ed="#B" n="84"/>sic pro vno occiso in defensione fidei multi facti sunt 
+   <lb ed="#B" n="85"/>christiani. Cuius rei vberrima exempla videre licet in 
+   <lb ed="#B" n="86"/>sanctorum vitis. Et ore diuino Ioannis. xii. approba 
+   <lb ed="#B" n="87"/>ta est haec comparatio: vbi saluator sic dicit. Nisi 
+   <lb ed="#B" n="88"/>granum frumenti cadens in terram mortuum fuerit, ipsum 
+   <lb ed="#B" n="89"/>solum manet. si autem mortuum fuerit multum fructum 
+   <lb ed="#B" n="90"/>affert. Rursus ob actus excellentiam / heroici viri mai 
+   <lb ed="#B" n="91"/>tyrium appetebant. Hinc in actis apostolorum legi 
+   <lb ed="#B" n="92"/>mus. lbat apostoli gaudentes a conspectu concilii
+   quo<lb ed="#B" n="93" break="no"/>niam digni habiti sunt pro nomine Iesu contumeliam pati. 
+   <lb ed="#B" n="94"/>Quid dicam de Andrea qui crucem salutauit
+   gau<lb ed="#B" n="95" break="no"/>dens? quid de optimo illo episcopo Cyprianos 
+   <lb ed="#B" n="96"/>qui. xxv. aureos nummos spiculatori pro officio suo 
+   <lb ed="#B" n="97"/>dedit: &amp; in caeteris innumeris eundem feruorem comperimus. 
+  </p>
+      <p xml:id="jMqv4a-d1e2069-d1e336">
+       <lb ed="#B" n="98"/>⁋ Contra secundam conclusionem argu 
+   <lb ed="#B" n="99"/>mentor. Non licet alicui seipsum sine auctoritate 
+   <lb ed="#B" n="100"/>dei interimere: ergo nec se perobere alteri occidendum. 
+   <lb ed="#B" n="101"/>Ecas dicis, &amp; sic dicendum est: nemo praebet se alteri 
+   <lb ed="#B" n="102"/>principaliter vt occidatur: sed exhibet se potissimum 
+   <lb ed="#B" n="103"/>ad dicendam veritatem fidei: quam non vult relinquere, 
+   <lb ed="#B" n="104"/>esto sequatur mors. Contra hoc arguo. Ex illo sequitur 
+   <lb ed="#B" n="105"/>quod alteri praestat occasionem peccandi / quia occidendi 
+   <lb ed="#B" n="106"/>hominem. Insuper maior vtilitas sequitur in religione 
+   <lb ed="#B" n="107"/>christiana ex contrapugnatione: quia hostis fidei in  
+   <!--0804.xml-->
+   <pb ed="#B" n="386-v"/>
+       <cb ed="#B" n="a"/>
+       <lb ed="#B" n="1"/>terimitur &amp; hosti resistitur: ergo magis roboratur fides 
+   <lb ed="#B" n="2"/>quam ex sola tolerantia.
+  </p>
+      <p xml:id="jMqv4a-d1e2069-d1e371">
+   ⁋ Ad primum sufficienter inter at 
+   <lb ed="#B" n="3"/>guendum responsum est. ad calcem argumenti nego quod alteri 
+   <lb ed="#B" n="4"/>det occasionem culpabiliter id faciendi: immo potius 
+   <lb ed="#B" n="5"/>dat ei occasionem faciendi opus virtutis vt secun confi 
+   <lb ed="#B" n="6"/>teatur nomen domini, vel aliud simile. sicut superius dix 
+   <lb ed="#B" n="7"/>mus in xv. distinctione de petente pecuniam mutuo 
+   <lb ed="#B" n="8"/>ab vsurario, qui dat alteri occasionem bene agendi: sed  
+   <lb ed="#B" n="9"/>alter sua malitia capit occasionem male faciendi. Ad 
+   <lb ed="#B" n="10"/>aliud nego antecedens. plus enim fecerunt apostoli &amp; martyres 
+   <lb ed="#B" n="11"/>ad plantationem fidei quam in centuplo plures contrapugnam 
+   <lb ed="#B" n="12"/>tes. viderunt namque increduli tantu constantiae no posse 
+   <lb ed="#B" n="13"/>prouenire naturaliter: vt visum est per Laurentium, Vicen 
+   <lb ed="#B" n="14"/>tium, Bartholomaeum, &amp; similes caelo dignos. frequen 
+   <lb ed="#B" n="15"/>tissime enim &amp; fere semper inter patiendum occurrebant. 
+   <lb ed="#B" n="16"/>miracula. etiam in contrapugnatione frequenter hostis 
+   <lb ed="#B" n="17"/>est victor: &amp; tum victoriam ascribit suo putato deo vel 
+   <lb ed="#B" n="18"/>suo pseudoprophetae.
+  </p>
+      <p xml:id="jMqv4a-d1e2069-d1e408">
+   ⁋ Secundo arguitur. Plus meretur
+   il<lb ed="#B" n="19" break="no"/>le qui vult pati quoscumque cruciatus citra mortem
+   po<lb ed="#B" n="20" break="no"/>tius quam fidem deserat / quam ille qui facit opus honestum 
+   <lb ed="#B" n="21"/>&amp; nescit an sequetur mors: vt faciunt multi praedican 
+   <lb ed="#B" n="22"/>tes propositiones catholicas / nescientes tamen an pro illa prae 
+   <lb ed="#B" n="23"/>dicatione infligetur mors. &amp; idem forte est de illo qui 
+   <lb ed="#B" n="24"/>vult pati mortem non curando de eius acerbitate. Primus 
+   <lb ed="#B" n="25"/>lactus non est martyrium: &amp; duo secundi sunt actus mar 
+   <lb ed="#B" n="26"/>tyrii: ergo actus non martyrii sunt aeque boni vt actus 
+   <lb ed="#B" n="27"/>martyrii.
+  </p>
+      <p xml:id="jMqv4a-d1e2069-d1e430">
+   ⁋ Respondetur. ille potest habere duplex propositum 
+   <lb ed="#B" n="28"/>vnum: volo sustinere quod deus creauit caelum / citra mor 
+   <lb ed="#B" n="29"/>tem / sed non mortem. hoc totale est malum. prior tamen pars 
+   <lb ed="#B" n="30"/>est rationabilis, sed non est propositum cui debetur aureola 
+   <lb ed="#B" n="31"/>martyrum. Altero modo potest homo secludere mortem: &amp; 
+   <lb ed="#B" n="32"/>ille actus est bonus / sed nec actus martyrii: quia de 
+   <lb ed="#B" n="33"/>ratione martyrii est quod homo nolit opus honestum dese 
+   <lb ed="#B" n="34"/>rere / non obstante conditione mortis. &amp; conditio
+   mor<lb ed="#B" n="35" break="no"/>tis subeundae conditionem perditionis omnium aliarum rerum inclu 
+   <lb ed="#B" n="36"/>dit. Ex his cum prius dictis in hac materia diluitur argu 
+   <lb ed="#B" n="37"/>mentum.
+  </p>
+      <p xml:id="jMqv4a-d1e2069-d1e454">
+   ⁋ Tertio arguitur. vel est de ratione martyrii pa 
+   <lb ed="#B" n="38"/>ti quancumque mortem illatam: vel sufficit eligere mortem. 
+   <lb ed="#B" n="39"/>non secundum: quia teste Hieronymo / Seneca non est mar 
+   <lb ed="#B" n="40"/>tyr, quia elegit sibi mortem vt in balneo dulciter
+   ani<lb ed="#B" n="41" break="no"/>mam efflaret. Si primum: iam decollatus vt Paulus, &amp; de 
+   <lb ed="#B" n="42"/>coriatus vt <name xml:id="jMqv4a-d1e2069-Nd1e467">Bartholomaeus</name>, vel assatus in
+   craticu<lb ed="#B" n="43" break="no"/>la vt <name xml:id="jMqv4a-d1e2069-Nd1e472">Laurentius</name>: &amp; positus super carbones ardentes vt 
+   <lb ed="#B" n="44"/>
+       <name xml:id="jMqv4a-d1e2069-Nd1e477">Vincentius</name>, aequaliter merebuntur in illis poenis: quia ha 
+   <lb ed="#B" n="45"/>bebant actus interiores aequales patiendi quancunque 
+   <lb ed="#B" n="46"/>mortem pro fide: ergo videtur quod aequaliter merebantur in 
+   <lb ed="#B" n="47"/>hoc.
+  </p>
+      <p xml:id="jMqv4a-d1e2069-d1e488">
+   ⁋ Respondetur. volens eligere mortem facilem vt min 
+   <lb ed="#B" n="48"/>habeat poenae, non est martyr: vt Seneca. etiam cum 
+   <lb ed="#B" n="49"/>determinatum esset a perditissimo Nerone quod praeceptor 
+   <lb ed="#B" n="50"/>mortem oppeteret: erat actus patientiae &amp; non martyrii. 
+   <lb ed="#B" n="51"/>Si dicas. eo modo beatus <name xml:id="jMqv4a-d1e2069-Nd1e498">Petrus</name> qui elegit sibi mortem 
+   <lb ed="#B" n="52"/>non esset martyr. Respondetur, non elegit vt mitiorem
+   mor<lb ed="#B" n="53" break="no"/>tem ferret: quia adeo poenale est crucifigi pedibus in altum 
+   <lb ed="#B" n="54"/>erectis &amp; capite demisso vt ediuerso. sed quia non de 
+   <lb ed="#B" n="55"/>cebat famulum mortem obire eodem ordine &amp; situ quo 
+   <!--0804.xml-->
+   <cb ed="#B" n="b"/> 
+       <!-- 386-v b -->
+       <lb ed="#B" n="56"/>dominus occubuit (vt ipse dicebat) propterea sic passus 
+   <lb ed="#B" n="57"/>est.
+  </p>
+      <p xml:id="jMqv4a-d1e2069-d1e523">
+   ⁋ Sed quia tangitur in argumento de martyribus 
+   <lb ed="#B" n="58"/>qui passi sunt cruciatus impares, vt <name xml:id="jMqv4a-d1e2069-Nd1e527">Paulus</name> &amp; Lau 
+   <lb ed="#B" n="59"/>rentius, qui parati erant omne genus mortis pro
+   Chri<lb ed="#B" n="60" break="no"/>sto perpeti: an aequaliter in hoc meruerint: apponam 
+   <lb ed="#B" n="61"/>aliquot propositiones. Prima est. possibile est non mai 
+   <lb ed="#B" n="62"/>tyrem esse hoc martyre sanctiorem, quia plures bonos 
+   <lb ed="#B" n="63"/>actus fecit. sed loquimur de vno actu, quomodo Paulus &amp; 
+   <lb ed="#B" n="64"/>Laurentius habebat haec proposita: non negabimus fidem 
+   <lb ed="#B" n="65"/>non obstante quacumque conditione mortis oblata: &amp; ista 
+   <lb ed="#B" n="66"/>sunt aequalis meriti si in aequali intensione graduali. 
+   <lb ed="#B" n="67"/>&amp; caeteris paribus fiant.
+  </p>
+      <p xml:id="jMqv4a-d1e2069-d1e550">
+   ⁋ Secunda propositio. <name xml:id="jMqv4a-d1e2069-Nd1e552">Laurentius</name> 
+       <lb ed="#B" n="68"/>plus meruit per hunc actum, volo sustinere veritatem hu 
+   <lb ed="#B" n="69"/>ius: Christus est deus / non obstante craticula in oua diu 
+   <lb ed="#B" n="70"/>torqueor: quam alius quispiam per hoc propositum: voio susti 
+   <lb ed="#B" n="71"/>nere quod Christus est deus, non obstate decollatione quam 
+   <lb ed="#B" n="72"/>ptinus exequentur si non resiliam: etiam licet actus sint aes 
+   <lb ed="#B" n="73"/>liter intensi, quod probo: nam actus Laurentii erat difficilior, 
+   <lb ed="#B" n="74"/>quia in prospectu terribilioris obiecti quam actus alterius. In  
+   <lb ed="#B" n="75"/>super aliqui martyres passi sunt mortem mitiorem qui 
+   <lb ed="#B" n="76"/>forte resiluissent a tam terribili genere mortis ( nisi deus 
+   <lb ed="#B" n="77"/>specialius eos iuuisset, non tamen nego auxilium speciale 
+   <lb ed="#B" n="78"/>dei in volente sic pati cum omnibus bonis circunstantiis. 
+   <lb ed="#B" n="79"/>Contra tertiam conclusionem
+   argu<lb ed="#B" n="80" break="no"/>mentor. Dilectio dei super omnia praestat martyrio: erge 
+   <lb ed="#B" n="81"/>male dictum est. Insuo quilibet actus qui est martyrium 
+   <lb ed="#B" n="82"/>praestat actui qui non est martyrium regulariter. sed
+   quali<lb ed="#B" n="83" break="no"/>bet pars proportionalis actus qui est martyrium est 
+   <lb ed="#B" n="84"/>martyrium: ergo quaelibet pars proportionalis actus qui est 
+   <lb ed="#B" n="85"/>martyrium praestat actui qui non est martyrium. conclusio est 
+   <lb ed="#B" n="86"/>falsa &amp; minor vera: &amp; consequentia in barbara: ergo  
+   <lb ed="#B" n="87"/>maior est falsa.
+  </p>
+      <p xml:id="jMqv4a-d1e2069-d1e599">
+   ⁋ Respondetur. argumentum praesupponit 
+   <lb ed="#B" n="88"/>falsum. nam actus martyrii est dilectio dei, &amp; actus
+   he<lb ed="#B" n="89" break="no"/>rotioicus charitatis. iuxta illud superius allegatum ex
+   ca<lb ed="#B" n="90" break="no"/>Ioannis. xv. Maiorem charitatem nemo habet &amp;c.
+   ec<lb ed="#B" n="91" break="no"/>ce actum martyrii: volo sustinere veritatem huius, Chri 
+   <lb ed="#B" n="92"/>stus resurrexit a mortuis: propter deum ad mortem vs 
+   <lb ed="#B" n="93"/>quod inclusiue. fides autem in intellectu quo assentitur huic, 
+   <lb ed="#B" n="94"/>Christus resurrexit / non est martyrium. Ad secundum dico 
+   <lb ed="#B" n="95"/>quod terminus ( praestat) confundit distributiue datiuum 
+   <lb ed="#B" n="96"/>a se rectum sicut comparatiuus ablatiuum. &amp; sicut conclu 
+   <lb ed="#B" n="97"/>sio est falsa ita &amp; maior. sed intelligo de actu totali. 
+   <lb ed="#B" n="98"/>si autem terminus ( actui) staret confuse tamtum: conclusio con 
+   <lb ed="#B" n="99"/>cederetur: vt quaelibet pars proportionalis actus quae est 
+   <lb ed="#B" n="100"/>martyrium actui qui non est martyrium praestat. 
+  </p>
+      <p xml:id="jMqv4a-d1e2069-d1e630">
+       <lb ed="#B" n="101"/>⁋ Sed quia paulo superius dixi dilectio 
+   <lb ed="#B" n="102"/>nem Christiferae virginis heroicam potuisse praestare pai 
+   <lb ed="#B" n="103"/>uo actui martyrii: dubitabit quispiam vnde id proueni 
+   <lb ed="#B" n="104"/>at: actus inquam virginis fuisse heroicos.
+  </p>
+      <p xml:id="jMqv4a-d1e2069-d1e641">
+   ⁋ Respondetur. 
+   <lb ed="#B" n="105"/>actus est heroicus interdum ab obiecto: vt nolo desere 
+   <lb ed="#B" n="106"/>re honestum non obstante morte quam iudico
+   inferen<lb ed="#B" n="107" break="no"/>dam si perseuerem in actu. Nonnunqui mors est circumstam 
+   <lb ed="#B" n="108"/>tia no cadens in rationem obiecti / actum reddens he 
+   <lb ed="#B" n="109"/>roicum: vt nolo fidem deserere: quando iudicat in intelle 
+   <!--0805.xml-->
+   <pb ed="#B" n="387-r"/>
+       <cb ed="#B" n="a"/>
+       <lb ed="#B" n="1"/>ctu, si perseueret, mortem sibi inferendam. sed haec mors 
+   <lb ed="#B" n="2"/>non est actualiter volita: &amp; per consequens non cadit mori 
+   <lb ed="#B" n="3"/>in rationem obiecti. Potest insuper actus esse heroicus ex 
+   <lb ed="#B" n="4"/>tribus: in intensione / continuatione libera ac longa: &amp; 
+   <lb ed="#B" n="5"/>in relatione actuali in deum. quomodo aulti actus
+   virgi<lb ed="#B" n="6" break="no"/>nis deiparae erant heroici. Quarto dico quod alicuius 
+   <lb ed="#B" n="7"/>vita potest esse heroica / cuius quilibet determinatus actus 
+   <lb ed="#B" n="8"/>erit non heroicus. vt seruare regulam Carthusiensium 
+   <lb ed="#B" n="9"/>vel regulam beati Francisci sincere &amp; diu / reddit vitam 
+   <lb ed="#B" n="10"/>heroicam: licet surgere hac nocte ad horas, vel ho 
+   <lb ed="#B" n="11"/>die abstinere ab esu carnium non sit operatio heroica. 
+  </p>
+    </div>
+   </body>
+  </text>
+</TEI>

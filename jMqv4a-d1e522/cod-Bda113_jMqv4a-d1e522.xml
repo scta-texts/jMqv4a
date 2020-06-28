@@ -1,0 +1,597 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 9</title>
+      <author ref="#JohnMair">John Mair</author>
+      <respStmt>
+       <name>Jeffrey C. Witt</name>
+       <resp>TEI Encoder</resp>
+      </respStmt>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 9</title>
+       <date when="2020-06-09">June 27, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="B" n="cod-Bda113">Badius 1516</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+     guidelines for a diplomatic edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-06-27" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+      <pb ed="#B" n="97-v"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="jMqv4a-d1e522"> <!-- l4d15q9 -->
+      <head xml:id="jMqv4a-d1e522-Hd1e104">Quaestio 9</head>
+      <head xml:id="jMqv4a-d1e522-Hd1e107" type="question-title">An quilibet non extreme pauper teneatur pauperi 
+  exteme eleemoysnam impedere</head>
+      <p xml:id="jMqv4a-d1e522-d1e110">
+       <lb ed="#B" n="73"/>TErtio &amp; vltimo circa 
+   <lb ed="#B" n="74"/>hanc materiam eleemosynae pro 
+   <lb ed="#B" n="75"/>euacuanda difficultate quae fie 
+   <lb ed="#B" n="76"/>ri potest in eleemosyna
+   dan<lb ed="#B" n="77" break="no"/>da extreme pauperi, Quaeritur 
+   <lb ed="#B" n="78"/>an quilibet non extreme paupe 
+   <lb ed="#B" n="79"/>teneatur pauperi extreme
+   elee<lb ed="#B" n="80" break="no"/>mosynam impendere.
+  </p>
+      <p xml:id="jMqv4a-d1e522-d1e130">
+   ⁋ Respondetur affirmatiue. vt 
+   <lb ed="#B" n="81"/>patet ex quaestione prima huius materiae. Et hoc ipsum 
+   <lb ed="#B" n="82"/>adhuc ostenditur per bruta. Gallina enim nutrit alienos 
+   <lb ed="#B" n="83"/>foetus. &amp; sic facit catus, cum foetus nesciunt sibi
+   pro<lb ed="#B" n="84" break="no"/>uidere. simile aliquid de Romulo, &amp; Remo legimus, 
+   <lb ed="#B" n="85"/>&amp; Cyro. Necessitas enim non habet legem &amp; excusat. l 
+   <lb ed="#B" n="86"/>Aliquando. de offi procon. &amp;. v. Metaphysicae. Necessi 
+   <lb ed="#B" n="87"/>tas est excusabilis. Non alia ratione excusatus est 
+   <lb ed="#B" n="88"/>Dauid comedens panes propositionis. primi
+   Re<lb ed="#B" n="89" break="no"/>gum. xxi. quibus vetitum erat laicis vesci. Non
+   ali<lb ed="#B" n="90" break="no"/>ter item apostoli erant excusati euellentes spicas. 
+   <lb ed="#B" n="91"/>Lucae. xii. Sed dicis. Apostoli non erant in extrema 
+   <lb ed="#B" n="92"/>necessitate: sed bene in notabili: vt est verosimile: er 
+   <lb ed="#B" n="93"/>go habetur argumentum quod praeceptum est dare eleemo 
+   <lb ed="#B" n="94"/>synam illi qui est in valde notabili necessitate citra 
+   <lb ed="#B" n="95"/>extremam. Hoc est pro dictis in quaestione prima 
+   <lb ed="#B" n="96"/>huius materiae. Aliud etiam erat: quod tempore legis poterat 
+   <lb ed="#B" n="97"/>homo intrare vineam vel agros vicini sui &amp;
+   come<lb ed="#B" n="98" break="no"/>dere, nihil auferendo de loco. textus ad hoc est cla 
+   <lb ed="#B" n="99"/>tus. Deutero. xxiii. Ingressus vineam proximi tui 
+   <lb ed="#B" n="100"/>comede vuas quantum tibi placuerit: foras autem 
+   <lb ed="#B" n="101"/>ne efferas tecum. Si intraueris segetem amici tui fran 
+   <lb ed="#B" n="102"/>ge spicas &amp; manu conteres: falce autem non metes. 
+   <lb ed="#B" n="103"/>Praeterea frater minor non potens habere
+   necessa<lb ed="#B" n="104" break="no"/>ria vitae, labore: mendicitate, vel aliorum oblatione,
+   ex<lb ed="#B" n="105" break="no"/>cusatur ne peccet capiendo necessaria. vt habet capi 
+   <!--0227.xml-->
+   <pb ed="#B" n="98-r"/>
+       <cb ed="#B" n="a"/>
+       <lb ed="#B" n="1"/>Exiit qui seminat. de verbo. signi. lib. vi. ergo
+   quili<lb ed="#B" n="2" break="no"/>bet alius excusatur. tenet consequentia: quia nemo
+   am<lb ed="#B" n="3" break="no"/>plius a se abdicat bona fortunae quam frater minor. 
+  </p>
+      <p xml:id="jMqv4a-d1e522-d1e201">
+       <lb ed="#B" n="4"/>⁋ Contra conclusionem arguitur: vno 
+   <lb ed="#B" n="5"/>supposito quod sim ego in campo &amp; sint quatuor in  
+   <lb ed="#B" n="6"/>extrema necessitate: &amp; habeam vnum panem qui vnius 
+   <lb ed="#B" n="7"/>indigentiam solum sufficit releuare. isto supposito 
+   <lb ed="#B" n="8"/>sic argumentor. nulli istorum teneor illum panem 
+   <lb ed="#B" n="9"/>dare: quilibet illorum est in extrema necessitate: ergo 
+   <lb ed="#B" n="10"/>non teneor dare eleemosynam existenti in extrema 
+   <lb ed="#B" n="11"/>necessitate, consequentia tenet cum minore.
+   Proba<lb ed="#B" n="12" break="no"/>tur maior per ascensum, nec isti istorum teneor da 
+   <lb ed="#B" n="13"/>re panem: sorte demonstrato: nec illi illorum demon 
+   <lb ed="#B" n="14"/>strando Platonem: &amp; sic de vtroque aliorum. igitur nulli. 
+   <lb ed="#B" n="15"/>probatur vna singularis assumpta: quia idem est 
+   <lb ed="#B" n="16"/>iudicium de aliis, no dando sorti no pecco, quod patet:  
+   <lb ed="#B" n="17"/>quia possum illum panem dare Platoni sorte
+   negle<lb ed="#B" n="18" break="no"/>cto: &amp; tunc non peccarem. ergo non teneor sub poena 
+   <lb ed="#B" n="19"/>peccati dare illum panem sorti: supposito quod non plus obli 
+   <lb ed="#B" n="20"/>ger vni quam alteri: &amp; quod sit mihi licitum dare panem cui 
+   <lb ed="#B" n="21"/>velim. Non valet dicere. panis ille est
+   partiendus<lb ed="#B" n="22" break="no"/>hoc inquam non valet. parum enim panis appetitum 
+   <lb ed="#B" n="23"/>famelici ad comedendum amplius irritat: &amp; famen 
+   <lb ed="#B" n="24"/>non extinguit. Item aliqua est portio panis minima 
+   <lb ed="#B" n="25"/>quae vni sufficit, vel maxima quae non sufficit vni: qua 
+   <lb ed="#B" n="26"/>si diminueretur: nulli sufficeret: &amp; sic omnes moreren 
+   <lb ed="#B" n="27"/>tur. si ergo panem frangerem: dando cuilibet parum 
+   <lb ed="#B" n="28"/>quod nulli sufficeret: nulli succurrerem: &amp; per consequens 
+   <lb ed="#B" n="29"/>peccarem. ergo teneor dare illum panem vni. Amplius 
+   <lb ed="#B" n="30"/>ponantur centum vel mille: quorum quilibet est in 
+   <lb ed="#B" n="31"/>extrema necessitate: iam notum est quod hic panis par 
+   <lb ed="#B" n="32"/>uus non sufficit omnibus: &amp; tunc nulli illorum teneor 
+   <lb ed="#B" n="33"/>dare illum panem. igitur.
+  </p>
+      <p xml:id="jMqv4a-d1e522-d1e269">
+   ⁋ Ad istud argumentum re 
+   <lb ed="#B" n="34"/>spondebo mixtim logice &amp; theologice. Logice ad  
+   <lb ed="#B" n="35"/>huc dupliciter, vno modo vtendo logica
+   antiquo<lb ed="#B" n="36" break="no"/>rum sophistarum: de teneor &amp; obligor: quod confun 
+   <lb ed="#B" n="37"/>dant terminum sequentem immobiliter: ponendo propo 
+   <lb ed="#B" n="38"/>sitiones sequentes. Prima est. Teneor de necessita 
+   <lb ed="#B" n="39"/>te salutis dare alicui istorum quatuor illum panem. 
+   <lb ed="#B" n="40"/>probatur: quia si non dedero, pecco ex conclusione.
+   Se<lb ed="#B" n="41" break="no"/>cunda propositio. Nulli istorum teneor illum panem 
+   <lb ed="#B" n="42"/>dare. hoc patuit inter arguendum per ascensum. 
+   <lb ed="#B" n="43"/>quare illae non contradicunt. teneor alicui istorum 
+   <lb ed="#B" n="44"/>quatuor dare hunc panem: &amp; nulli istorum quatuor 
+   <lb ed="#B" n="45"/>teneor dare hunc panem. hoc ex logica notum re 
+   <lb ed="#B" n="46"/>linquo. Tertia propositio. teneor dare alicui
+   isto<lb ed="#B" n="47" break="no"/>rum panem cui non teneor dare panem. Quarta
+   pro<lb ed="#B" n="48" break="no"/>positio. Dando panem illi cui non teneor dare: sum 
+   <lb ed="#B" n="49"/>deobligatus a praecepto. patet: quia per hoc
+   suffi<lb ed="#B" n="50" break="no"/>cienter praeceptum adimpleo. Exemplum in simili. 
+   <lb ed="#B" n="51"/>teneor diligere deum: &amp; eliciendo actum
+   dilectio<lb ed="#B" n="52" break="no"/>nis dei que elicere non teneor: satisfacio praecepto: 
+   <lb ed="#B" n="53"/>sicut satisfacimus praecepto legis naturae &amp; diuino 
+   <lb ed="#B" n="54"/>per adimpletionem vnius praecepti humani positi- 
+   <!--0227.xml-->
+   <cb ed="#B" n="b"/> 
+       <!-- 98-r b -->
+       <lb ed="#B" n="55"/>ui. Quinta propositio. Si nulli istorum do
+   praedi<lb ed="#B" n="56" break="no"/>ctum panem: sum homicida.
+  </p>
+      <p xml:id="jMqv4a-d1e522-d1e328">
+   ⁋ Secundo modo  
+   <lb ed="#B" n="57"/>respondeo &amp; melius: tenendo quod aequiualent: teneor 
+   <lb ed="#B" n="58"/>dare vni istorum hunc panem: &amp; hunc panem teneor 
+   <lb ed="#B" n="59"/>dare vni istorum. &amp; quod vtraque est falsa nisi
+   capia<lb ed="#B" n="60" break="no"/>tur loco istius. Necesse est si debeam esse expers 
+   <lb ed="#B" n="61"/>peccati, dare hunc panem vni istorum: vt necesse ca 
+   <lb ed="#B" n="62"/>dat in totam conditionalem. &amp; lege stante: si nulli isto 
+   <lb ed="#B" n="63"/>rum hunc panem do, sum vnius homicida. Et si pe 
+   <lb ed="#B" n="64"/>tas a me. cuius sum homicida: Respondetur.
+   fre<lb ed="#B" n="65" break="no"/>nuenter homo est certus de indefinita: dubitando  
+   <lb ed="#B" n="66"/>ue qualibet singulari illius indefinitae. vt haec est 
+   <lb ed="#B" n="67"/>scita a me: Aliquis homo est in templo nostrae do  
+   <lb ed="#B" n="68"/>minae Parisiensi: &amp; quaelibet singularis est mihi du 
+   <lb ed="#B" n="69"/>bia. Deus tamen nouit.
+  </p>
+      <p xml:id="jMqv4a-d1e522-d1e359">
+   ⁋ Sed contra istud argui 
+   <lb ed="#B" n="70"/>tur. Nullius istorum imputabiliter sum homicida. 
+   <lb ed="#B" n="71"/>non sortis: quia pari ratione sum imputabiliter
+   ho<lb ed="#B" n="72" break="no"/>micida vitae Platonis: Ciceronis, &amp; Ioannis: nec 
+   <lb ed="#B" n="73"/>sum imputabiliter homicida istorum quatuor: quia 
+   <lb ed="#B" n="74"/>non possum satisfacere istis quatuor: &amp; non obligor 
+   <lb ed="#B" n="75"/>seruare vitas istorum quatuor: quia hoc est mihi 
+   <lb ed="#B" n="76"/>impossibile: ad quod nullus obligatur.
+  </p>
+      <p xml:id="jMqv4a-d1e522-d1e377">
+   ⁋
+   Responde<lb ed="#B" n="77" break="no"/>tur: sum cuiussibet istorum homicida
+   imputabili<lb ed="#B" n="78" break="no"/>ter sub disiunctione: quia cuiussibet istorum
+   ser<lb ed="#B" n="79" break="no"/>uare vitam possum: sed deus acceptat meam
+   omis<lb ed="#B" n="80" break="no"/>sionem si nulli istorum panem dem ad occisionem 
+   <lb ed="#B" n="81"/>vnius tantum: siue pro sorte: siue pro platone: in idem 
+   <lb ed="#B" n="82"/>redit: cum sint omnes in aequali necessitate: &amp;
+   aequali<lb ed="#B" n="83" break="no"/>ter cuilibet istorum obliger.
+  </p>
+      <p xml:id="jMqv4a-d1e522-d1e395">
+   ⁋ Contra totum istud 
+   <lb ed="#B" n="84"/>argumentor: veniat sortes ad me: &amp; petat a me pa 
+   <lb ed="#B" n="85"/>nem: habeam nolle dandi panis ipsi sorti: illud nolle 
+   <lb ed="#B" n="86"/>non est mortale peccatum immo non est peccatum.
+   ve<lb ed="#B" n="87" break="no"/>niat Plato &amp; petat panem: habeam etiam nolle dandi pa 
+   <lb ed="#B" n="88"/>nis Platoni. &amp; sic de aliis duobus. Arguitur sic: nul 
+   <lb ed="#B" n="89"/>la istarum nolitionum est peccatum: &amp; non habeo plures 
+   <lb ed="#B" n="90"/>actus voluntatis quam illos. ergo in casu isto non
+   pec<lb ed="#B" n="91" break="no"/>co. &amp; per consequens conclusio falsa.
+  </p>
+      <p xml:id="jMqv4a-d1e522-d1e416">
+   ⁋
+   Responde<lb ed="#B" n="92" break="no"/>tur ad hoc argumentum dupliciter. Vno modo eua 
+   <lb ed="#B" n="93"/>dendo vtcumque dico quod nolitio qua nolo dare sorti 
+   <lb ed="#B" n="94"/>panem non est mortalis: immo est actus licitus &amp; bo 
+   <lb ed="#B" n="95"/>nus: &amp; sic de duabus nolitionibus sequentibus: sed  
+   <lb ed="#B" n="96"/>quarta est mortalis. Coloratur quare hoc
+   concedi<lb ed="#B" n="97" break="no"/>tur: sum obligatus a deo dare hunc panem vni insto 
+   <lb ed="#B" n="98"/>rum: &amp; non tribus primis: immo. illis rationabiliter 
+   <lb ed="#B" n="99"/>panem negaui: oportet ergo dare panem quarto:  
+   <lb ed="#B" n="100"/>quia hoc sequitur ex obligato: cum oppositis trium 
+   <lb ed="#B" n="101"/>bene negatorum. sicut in obligationibus analogia 
+   <lb ed="#B" n="102"/>dari potest. Des tuipse memoriter in duobus ver 
+   <lb ed="#B" n="103"/>bis librum legendo: pudet enim logicum tale in
+   theoso<lb ed="#B" n="104" break="no"/>phia inserere. Sed contra hoc arguitur.
+   Supposi<lb ed="#B" n="105" break="no"/>to quod omnes quatuor peterent illum panem
+   si<lb ed="#B" n="106" break="no"/>mul vel successiue: &amp; ego elicerem quatuor
+   noli<lb ed="#B" n="107" break="no"/>tiones particulares simui: puta nolo dare sorti
+   pa<lb ed="#B" n="108" break="no"/>nem: nolo dare Platoni panem &amp;c. Hic euadere
+   ne<lb ed="#B" n="109" break="no"/>quis. Si dicas me non posse habere quatuor actus 
+   <!--0228.xml-->
+   <pb ed="#B" n="98-v"/>
+       <cb ed="#B" n="a"/>
+       <lb ed="#B" n="1"/>distinctos voluntatis simul, accipe duos vel tres 
+   <lb ed="#B" n="2"/>actus ponendo totidem homines, &amp; redit vis
+   ar<lb ed="#B" n="3" break="no"/>gumenti. tunc sic. vna istarum nolitionum est bona per 
+   <lb ed="#B" n="4"/>te: &amp; eadem est ratio de qualibet alia: ergo quaelibei 
+   <lb ed="#B" n="5"/>illarum est bona. ergo conclusio falsa. Restat ergo 
+   <lb ed="#B" n="6"/>aliter respondere ad argumentum concedendo quod 
+   <lb ed="#B" n="7"/>quaelibet illarum nolitionum est bonus actus: nec 
+   <lb ed="#B" n="8"/>per tales actus habens panem peccat, sed per vnam 
+   <lb ed="#B" n="9"/>omissionem: qua omittit dare panem vni illorum: 
+   <lb ed="#B" n="10"/>&amp; per consequens peccat, 
+  </p>
+      <p xml:id="jMqv4a-d1e522-d1e486">
+       <lb ed="#B" n="11"/>⁋ Secundo arguitur. ex conclusione 
+   <lb ed="#B" n="12"/>sequitur quod si nemo det eleemosynam extreme pau 
+   <lb ed="#B" n="13"/>peri: potest ipse eleemosynam quoquouersum
+   au<lb ed="#B" n="14" break="no"/>ferre a quolibet ad succurrendum suae indigentiae. 
+   <lb ed="#B" n="15"/>Probatur. alius tenetur ei panem dare: ergo potest: 
+   <lb ed="#B" n="16"/>illum capere, si non detur ei. sed probo quod non. capiat 
+   <lb ed="#B" n="17"/>sortes extreme pauper panem platonis: &amp; interea 
+   <lb ed="#B" n="18"/>incidat plato in extremam necessitatem: tunc sortes te 
+   <lb ed="#B" n="19"/>netur platoni suum panem duplici iure dare.
+   Pri<lb ed="#B" n="20" break="no"/>mo ratione extremae necessitatis. Tum secundo: quia 
+   <lb ed="#B" n="21"/>ille panis est suus: &amp; nunquam a dominio illius panis 
+   <lb ed="#B" n="22"/>cecidit. ergo conclusio falsa.
+  </p>
+      <p xml:id="jMqv4a-d1e522-d1e515">
+   ⁋ Respondetur, conse 
+   <lb ed="#B" n="23"/>quentia est nulla: quod ostenditur in aliis materiis variis. 
+   <lb ed="#B" n="24"/>Teneor dare prodigo pecuniam suam quam habeo in cu 
+   <lb ed="#B" n="25"/>stodia: qui tamen non tenetur capere. Similiter vxor 
+   <lb ed="#B" n="26"/>tenetur viro in casu reddere debitum, qui non tenetur 
+   <lb ed="#B" n="27"/>petere: immo tenetur non petere. Sed stando in no 
+   <lb ed="#B" n="28"/>stra materia: nego consequentiam. ad hoc autem vt
+   va<lb ed="#B" n="29" break="no"/>leat: oportet amplius addere in antecedente: quod sci 
+   <lb ed="#B" n="30"/>licet nolim ei eleemosynam dare, nec mutuo dare 
+   <lb ed="#B" n="31"/>necessaria. Vnde si sit iuuenis cui vestis est necessa 
+   <lb ed="#B" n="32"/>ria ad protegendum eum contra frigus: &amp; sit verosimile 
+   <lb ed="#B" n="33"/>quod lucrabitur postea pecuniam, qua mihi satisfacere 
+   <lb ed="#B" n="34"/>poterit: non teneor illi dare tunicam: sed sufficit quod ven 
+   <lb ed="#B" n="35"/>dam ei vestem expectando pecuniam: vel dem ei mu 
+   <lb ed="#B" n="36"/>tuo. Quod patet: quia si filius diuitis mercatori 
+   <lb ed="#B" n="37"/>non habens vestem vel victum me accedat, non teneor ei 
+   <lb ed="#B" n="38"/>dare victum &amp; amictum: sed sufficit indigentiae eius 
+   <lb ed="#B" n="39"/>succurrere ne moriatur: &amp; ipse obligabit se mihi so 
+   <lb ed="#B" n="40"/>luturum, quod si facere noluerit: nihil ad me: sed ipsi 
+   <lb ed="#B" n="41"/>soli imputabitur sua mors. Exemplum in simili. acce 
+   <lb ed="#B" n="42"/>dit ad cauponem separatum ab omni loco in quo habetur 
+   <lb ed="#B" n="43"/>cibus &amp; non alibi ad magnam distantiam, vit opulentus 
+   <lb ed="#B" n="44"/>peram plenam pecunia habens: qui magna laborat ine 
+   <lb ed="#B" n="45"/>dia: vult gratis habere cibum non dando pecuniam: cau 
+   <lb ed="#B" n="46"/>po no est obligatus ei dare cibum sine pecunia in 
+   <lb ed="#B" n="47"/>promptu quam in pera habet. ergo similiter homo 
+   <lb ed="#B" n="48"/>non est obligatus dare vestem illi qui est extreme 
+   <lb ed="#B" n="49"/>nudus: sed sufficit ei vendere expectando pecuniam 
+   <lb ed="#B" n="50"/>quousque alter habuerit: vel vsum dando gratis. 
+   <lb ed="#B" n="51"/>sed si nuquam habere possit pecuniam, soluere non
+   obli<lb ed="#B" n="52" break="no"/>gatur.
+  </p>
+      <p xml:id="jMqv4a-d1e522-d1e583">
+   ⁋ Addatur alia propositio. extrema patiens 
+   <lb ed="#B" n="53"/>non potest ad libitum rem alterius capere nisi in casu 
+   <lb ed="#B" n="54"/>quo alter tenetur rem illam in ipsum transferre. vt 
+   <!--0228.xml-->
+   <cb ed="#B" n="b"/> 
+       <!-- 98-v b -->
+       <lb ed="#B" n="55"/>si alter velit ei rem vendere ad succurrendum suae
+   ne<lb ed="#B" n="56" break="no"/>cessitati expectando pecuniam si nullam habeat: non 
+   <lb ed="#B" n="57"/>otest rem illam capere per modum eleemosynae vel li 
+   <lb ed="#B" n="58"/>beralis doni: sed solum emptione: qua sic dominus lici 
+   <lb ed="#B" n="59"/>te transfert rem suam in extrema patientem. quod si comins 
+   <lb ed="#B" n="60"/>rei vendere noluerit expectando pecuniam quam ille 
+   <lb ed="#B" n="61"/>gens non habet praesentem: potest rem ipsam etiam 
+   <lb ed="#B" n="62"/>violente auferre a vero domino non extrema patiente 
+   <lb ed="#B" n="63"/>sufficit namque quod consentire tenetur in translationem
+   il<lb ed="#B" n="64" break="no"/>lius rei licet no consentiat: &amp; hoc intelligendo si non 
+   <lb ed="#B" n="65"/>dederit vestem mutuo, vel locauerit eam.
+  </p>
+      <p xml:id="jMqv4a-d1e522-d1e620">
+   ⁋ Sed si 
+   <lb ed="#B" n="66"/>verus dominus aeque cito in extremam necessitatem incidat:  
+   <lb ed="#B" n="67"/>est difficultas no satis discussa. In primis est
+   co<lb ed="#B" n="68" break="no"/>lor quod non debet res ab illo capi antequi cecidit a
+   ve<lb ed="#B" n="69" break="no"/>ro dmo: &amp; duplici iure ad eum spectat. Vt autem clare 
+   <lb ed="#B" n="70"/>loquar: sit iste casus. sortes &amp; ego ingredimur
+   ne<lb ed="#B" n="71" break="no"/>mus: habet sortes vnum panem vni soli sufficientem: po 
+   <lb ed="#B" n="72"/>natur panis in medio qui vni nostrum sufficit: &amp; ego  
+   <lb ed="#B" n="73"/>non sum vtilior reipu. qui ipse sortes: videtur quod ego  
+   <lb ed="#B" n="74"/>male agam capiendo panem suum: cum duplici iure ad eum 
+   <lb ed="#B" n="75"/>spectet: vt inter arguendum diximus: scilicet positi 
+   <lb ed="#B" n="76"/>uo iure: per quod huius panis habet proprietatem: &amp; per ius 
+   <lb ed="#B" n="77"/>naturae concedentis ei vsum panis in necessitate. In  
+   <lb ed="#B" n="78"/>oppositum tamen est crassa scintilla rationis: quoniam ego mi 
+   <lb ed="#B" n="79"/>hi plus teneor quam ei: quod iuri positiuo aequualere
+   vi<lb ed="#B" n="80" break="no"/>detur: &amp; ius naturae pro vtrc quod nostrum aequaliter
+   mili<lb ed="#B" n="81" break="no"/>tat: nec ipse magis habet panem in possessione quam 
+   <lb ed="#B" n="82"/>ego. ergo licet non tenear panem illum capere simpliciter: 
+   <lb ed="#B" n="83"/>possum saltem illum capere pro sustinenda vita mea. Po 
+   <lb ed="#B" n="84"/>test homo si velit dicere me licite posse hunc panem 
+   <lb ed="#B" n="85"/>capre: &amp; nego quod capio alienum: sed mihi debitum vel 
+   <lb ed="#B" n="86"/>licitum duplici iure: &amp; dico nullum esse ius obligans me 
+   <lb ed="#B" n="87"/>ad non capiendum panem. lus enim naturae illius sopitum est 
+   <lb ed="#B" n="88"/>per ius naturae meum ei incompossibile, peinde ac si esset 
+   <lb ed="#B" n="89"/>vnus panis qui nunquam fuit eius: positus inter me &amp; 
+   <lb ed="#B" n="90"/>eum: &amp; positiuum ius humanum de dominio vel possessione 
+   <lb ed="#B" n="91"/>rerum non manet. lus inquam me arctans: cum plus mihi 
+   <lb ed="#B" n="92"/>tenear quam alteri. Oppositum est etiam probabile. 
+  </p>
+      <p xml:id="jMqv4a-d1e522-d1e681">
+       <lb ed="#B" n="93"/>⁋ Tertio arguitur. Capiens in necessi 
+   <lb ed="#B" n="94"/>tate pro sustentanda sua vita: tenetur de ablato poenite 
+   <lb ed="#B" n="95"/>re: ergo peccat releuamen capiendo. consequentia est non 
+   <lb ed="#B" n="96"/>ta. Probatur antecedens in. c. Si quis. de fur. vbi dicitur. 
+   <lb ed="#B" n="97"/>Si quis propter necessitatem famis aut nuditatis furatus 
+   <lb ed="#B" n="98"/>fuerit cibaria / vestem / vel pecus: poeniteat hebdoma 
+   <lb ed="#B" n="99"/>das tres.
+  </p>
+      <p xml:id="jMqv4a-d1e522-d1e700">
+   ⁋ Respondetur distinguendo antecedens: vel 
+   <lb ed="#B" n="100"/>iste est in extrema necessitate: &amp; sic nego quod teneatur 
+   <lb ed="#B" n="101"/>poenitere: quia non peccat vllo modo: vel in aliqua  
+   <lb ed="#B" n="102"/>necessitate alia: &amp; sic concedo. capi. autem illud intelligitur 
+   <lb ed="#B" n="103"/>de tali necessitate. vt dicit glossa. Et licet diues
+   te<lb ed="#B" n="104" break="no"/>neatur dare eleemosynam illi qui est in notabili
+   necessi<lb ed="#B" n="105" break="no"/>tate citra extremam, vt superius in hac materia diximus 
+   <lb ed="#B" n="106"/>non tamen est consequans vllo modo: illum alium posse alienum 
+   <lb ed="#B" n="107"/>subtrahere: immo furtum committit. xiiii. qui. v. c. Forte. 
+   <lb ed="#B" n="108"/>frequenter enim homo tenetur alicui aliquid dare quod 
+   <!--0229.xml-->
+   <pb ed="#B" n="99-r"/>
+       <cb ed="#B" n="a"/>
+       <lb ed="#B" n="1"/>alter non potest capere propria auctoritate: vt si teneor 
+   <lb ed="#B" n="2"/>tibi soluere debitum: tu non potes a me tibi debitum 
+   <lb ed="#B" n="3"/>subtrahere: vbi per viam iuris consequi potes debitum. op 
+   <lb ed="#B" n="4"/>posito enim dato politia humana confunderetur. Et 
+   <lb ed="#B" n="5"/>licet tibi tenear restituere debitum: non tamen teneor con 
+   <lb ed="#B" n="6"/>sentire: vt tu propria auctoritate hoc capias. Secun 
+   <lb ed="#B" n="7"/>do dicitur vt dicit Panor. in. d.c. quod intelligitur ca. hoc 
+   <lb ed="#B" n="8"/>in casu quo rapiens fuit in extrema necessitate &amp; 
+   <lb ed="#B" n="9"/>noluit restituere postea. talis enim peccat aeque ac ille 
+   <lb ed="#B" n="10"/>qui furtum commisit primo: &amp; postea incidit in necessi 
+   <lb ed="#B" n="11"/>tatem: sed iste cessante necessitate tenetur rem ablatam
+   re<lb ed="#B" n="12" break="no"/>stituere secundum omnes. sic hic: licet homo auferat aliquid  
+   <lb ed="#B" n="13"/>in extrema necessitate, primo non peccat auferendo 
+   <lb ed="#B" n="14"/>si mutuo vel alia via habere non pot: sed cum venerit 
+   <lb ed="#B" n="15"/>ad pinguiorem fortunam: tenetur ablatum restituere, probat 
+   <lb ed="#B" n="16"/>hoc Panor. per. l. Neusenius. ftf. de neg. gest. nam subtra 
+   <lb ed="#B" n="17"/>ctio potest esse in necessitate: sed cessante causa cessat 
+   <lb ed="#B" n="18"/>effectus. sicut dicimus in eo qui tempore necessitatis praebet 
+   <lb ed="#B" n="19"/>alimenta, &amp; protestatur de rependendo. vt not. in dicta. l 
+   <lb ed="#B" n="20"/>Neusenius. &amp;. l. Per alimenta.litr. de neg. gest. &amp;. xii. qui 
+   <lb ed="#B" n="21"/>ii. ca. Sacrorum. &amp;.c. Sicut.
+  </p>
+      <p xml:id="jMqv4a-d1e522-d1e774">
+   ⁋ Quarto arguitur.
+   lona<lb ed="#B" n="22" break="no"/>thas cepit fauum mellis in extrema necessitate: vi 
+   <lb ed="#B" n="23"/>patet. i. Reg. xiiii. &amp; tamen peccauit, quod patet: quia post 
+   <lb ed="#B" n="24"/>comestionem eius non dabatur responsum ad persequendos 
+   <lb ed="#B" n="25"/>Philisteos: &amp; sors super eum cecidit.
+  </p>
+      <p xml:id="jMqv4a-d1e522-d1e785">
+   ⁋ Respondetur ne 
+   <lb ed="#B" n="26"/>gando quod deliquarit: tum propter causam conclusionis: tum 
+   <lb ed="#B" n="27"/>quod erat ignarus inuincibiliter ignorantia purae
+   nega<lb ed="#B" n="28" break="no"/>tionis prohibitionis paternae: deus autem libere dat
+   respon<lb ed="#B" n="29" break="no"/>sum quando vult: &amp; ipsum sine peccato tollit. etiam mul 
+   <lb ed="#B" n="30"/>ti Philistei erant miraculose occisi. 
+   <lb ed="#B" n="31"/>Vbitatur circa hanc quaestio 
+   <lb ed="#B" n="32"/>nem: si diues fingat se esse extreme paupe 
+   <lb ed="#B" n="33"/>rem: ita vt iudicem eum esse extreme pauperens 
+   <lb ed="#B" n="34"/>an tenear ei dare eleemosynam.
+  </p>
+      <p xml:id="jMqv4a-d1e522-d1e807">
+   ⁋ Respon 
+   <lb ed="#B" n="35"/>detur quod sic. Ratio est. quia siue sit vere pauper siui 
+   <lb ed="#B" n="36"/>apparenter: non possum scire nisi per apparentiam: &amp; cum 
+   <lb ed="#B" n="37"/>iudicem eum esse talem: teneor dare ei eleemosynam: &amp; 
+   <lb ed="#B" n="38"/>bene ago. Praeterea sint duo: sortes &amp; Plato: sortes 
+   <lb ed="#B" n="39"/>Hypocrita diues: putatus extreme pauper: Plato re 
+   <lb ed="#B" n="40"/>uera pauper. hoc supposito sic argumentor. teneor 
+   <lb ed="#B" n="41"/>dare Platoni eleemosynam sub poena peccati: tanta 
+   <lb ed="#B" n="42"/>enim est apparentia extremae pauptatis sortis vt Pla 
+   <lb ed="#B" n="43"/>tonis: ergo etiam teneor dare eleemosynam sorti sub 
+   <lb ed="#B" n="44"/>poena peccati.
+  </p>
+      <p xml:id="jMqv4a-d1e522-d1e831">
+   ⁋ Ex isto sequuntur hae
+   propo<lb ed="#B" n="45" break="no"/>sitiones. Prima. Diuiti teneor dare eleemosynam 
+   <lb ed="#B" n="46"/>sub poena peccati probatur. Sorti teneor dare
+   elee<lb ed="#B" n="47" break="no"/>mosynam sub poena peccati: sortes est diues: ergi 
+   <lb ed="#B" n="48"/>diuiti teneor dare eleemosynam sub poena peccati. 
+  </p>
+      <p xml:id="jMqv4a-d1e522-d1e842">
+       <lb ed="#B" n="49"/>⁋ Secunda propositio. diuiti scienter teneor dare 
+   <lb ed="#B" n="50"/>eleemosynam probatio. sortiscienter teneor dare
+   elee<lb ed="#B" n="51" break="no"/>mosynam. sortes est diues. igitur.
+  </p>
+      <p xml:id="jMqv4a-d1e522-d1e852">
+   ⁋ Tertia propositio 
+   <lb ed="#B" n="52"/>Non teneor dare scienter diuiti eleemosynam. &amp; si 
+   <lb ed="#B" n="53"/>extreme pauper apperet non talis: tunc non tenerer da 
+   <lb ed="#B" n="54"/>re extreme pauperi eleemosynam. 
+   <!--0229.xml-->
+   <cb ed="#B" n="b"/> 
+       <!-- 99-r b -->
+      </p>
+      <p xml:id="jMqv4a-d1e522-d1e867">
+       <lb ed="#B" n="55"/>⁋ Contra duas priores propositiones 
+   <lb ed="#B" n="56"/>&amp; responsionem ad dubium, arguitur sic. Quilibet 
+   <lb ed="#B" n="57"/>actus voluntatis moraliter bonus, debet esse regu 
+   <lb ed="#B" n="58"/>latus a prudentia actuali inhaerente. vt dicitur sexto 
+   <lb ed="#B" n="59"/>Ethicorum. sed in proposito non est prudentia: quia hic 
+   <lb ed="#B" n="60"/>actus intellectus, huic diuiti danda est
+   eleemosy<lb ed="#B" n="61" break="no"/>na: non est actus prudentialis: cum sit erroneus 
+  </p>
+      <p xml:id="jMqv4a-d1e522-d1e885">
+       <lb ed="#B" n="62"/>⁋ Respondet Martinus magister de ebrietate ad 
+   <lb ed="#B" n="63"/>vnum simile de illo qui ex ignorantia
+   inuincibi<lb ed="#B" n="64" break="no"/>li cognoscit non suam, dicens quod nunquam actus volun 
+   <lb ed="#B" n="65"/>tatis conformis ignorantiae inuincibili est bonus mo 
+   <lb ed="#B" n="66"/>raliter: immo est malus moraliter: licet non imputetur ad  
+   <lb ed="#B" n="67"/>poenam: ita vt ignorantia non excuset a malitia
+   mo<lb ed="#B" n="68" break="no"/>rali: sed solum ab imputabilitate. Dicit insuper quod iste 
+   <lb ed="#B" n="69"/>ignorans habet duo iudicia: vnum vniuersale
+   scili<lb ed="#B" n="70" break="no"/>cet istud. cognoscenda est a me mea: &amp; illum iudi 
+   <lb ed="#B" n="71"/>cium est verum: &amp; volitio illi conformis est bona 
+   <lb ed="#B" n="72"/>moraliter. habet aliud iudicium particulare: puta haec 
+   <lb ed="#B" n="73"/>est mea: &amp; hoc iudicium est falsum: &amp; volitio illi
+   co<lb ed="#B" n="74" break="no"/>formis non est bona: scilicet ista, cognoscenda est a 
+   <lb ed="#B" n="75"/>me haec mulier. lstud non valet: nam stat quod non
+   ha<lb ed="#B" n="76" break="no"/>beam nisi vnicum actum voluntatis, &amp; iudicium
+   particula<lb ed="#B" n="77" break="no"/>re vnicum intellectus: videlicet volo cognoscere 
+   <lb ed="#B" n="78"/>hanc: qui est actus redditiuus debiti vxori petenti: &amp; 
+   <lb ed="#B" n="79"/>a iudicio inuincibili intellectus regulatur, quod
+   iudi<lb ed="#B" n="80" break="no"/>cium homo non potest auferre (ponatur ita esse) vel 
+   <lb ed="#B" n="81"/>non tenetur auferre, non reddere ergo stante tali iudicio 
+   <lb ed="#B" n="82"/>est peccatum: cum sit contra conscientiam. sortes ergo tenetur 
+   <lb ed="#B" n="83"/>vitare peccatum: scilicet non reddere debitum: quod
+   vita<lb ed="#B" n="84" break="no"/>re non potest nisi debitum reddendo: quia non potest vitari pri 
+   <lb ed="#B" n="85"/>uatio nisi ponendo habitum: ergo tenetur debitum redde 
+   <lb ed="#B" n="86"/>re. ergo absurdum est dicere quod ille actus non est bonus 
+   <lb ed="#B" n="87"/>moraliter. Fodem modo in proposito nostro: habeat 
+   <lb ed="#B" n="88"/>intellectus hoc iudicium practicum. danda est huic
+   elee<lb ed="#B" n="89" break="no"/>mosyna. volitio illi coformis est bona moraliter: quod 
+   <lb ed="#B" n="90"/>patet: quia est bona meritorie in habente gratiam. ergo  
+   <lb ed="#B" n="91"/>est bona moraliter. Absurdum autem est oppositum
+   conse<lb ed="#B" n="92" break="no"/>quenti cum antecedente admittere.
+  </p>
+      <p xml:id="jMqv4a-d1e522-d1e955">
+   ⁋ Respondetur itaque aliter &amp; 
+   <lb ed="#B" n="93"/>apparentius: concedendo maiorem argumenti negata
+   mi<lb ed="#B" n="94" break="no"/>nore: ves quod iudicium hoc sit erroneum: huic danda est 
+   <lb ed="#B" n="95"/>eleemosyna: immo est verum. Simiter si ex ignorantia inuin 
+   <lb ed="#B" n="96"/>cibili quis cognoscat alienam loco suae vxoris: hoc iu 
+   <lb ed="#B" n="97"/>dicium est verum, haec est a me cognoscenda. vocatur aut 
+   <lb ed="#B" n="98"/>ignorantia inuincibilis: quia implicat vnam propositionem fal 
+   <lb ed="#B" n="99"/>sam. vt patet sic arguendo. Cuilibet pauperi danda est 
+   <lb ed="#B" n="100"/>eleemosyna: hic est pauper: ergo huic danda est
+   eleemo<lb ed="#B" n="101" break="no"/>synam. minor est falsa. sed conclusio est vera. Non enim est 
+   <lb ed="#B" n="102"/>inconveniens quod ex falso sequatur verum. Sed istud in radi 
+   <lb ed="#B" n="103"/>ce &amp; vtrobique non soluit argumentum. nam habeam hoc 
+   <lb ed="#B" n="104"/>iudicium in intellectu. huic pauperi danda est
+   eleemosy<lb ed="#B" n="105" break="no"/>na. quod iudicium regulat huc actum voluntatis,
+   vo<lb ed="#B" n="106" break="no"/>lo huic pauperi dare eleemosynam, adhuc ille actus 
+   <lb ed="#B" n="107"/>voluntatis est bonus, quod probo. habeam ego hunc syllo 
+   <lb ed="#B" n="108"/>gismum practicum, cuilibet extreme pauperi danda est 
+   <!--0230.xml-->
+   <pb ed="#B" n="99-v"/>
+       <cb ed="#B" n="a"/>
+       <lb ed="#B" n="1"/>eleemosyna: hic est extreme pauper: ergo huic danda 
+   <lb ed="#B" n="2"/>est eleemosyna (licet enim minor sit simpliciter
+   spe<lb ed="#B" n="3" break="no"/>culatiua: maior tamen &amp; conclusio sunt practicae, quae to 
+   <lb ed="#B" n="4"/>tum syllogismum talem denominam. Maior est vera: nec 
+   <lb ed="#B" n="5"/>iudicium minoris vllo modo mihi imputabitur: cum 
+   <lb ed="#B" n="6"/>non tenear vincere illam ignorantiam: &amp; stat quod in die 
+   <lb ed="#B" n="7"/>naturali non possim illum errorem vincere. quod autem 
+   <lb ed="#B" n="8"/>conclusio sit falsa, notum est ex logica: cum vnum 
+   <lb ed="#B" n="9"/>extremum illius affirmatiuae propositionis non supa 
+   <lb ed="#B" n="10"/>ponat vltra communes casus dabiles: quos
+   indeco<lb ed="#B" n="11" break="no"/>rum esset in theologia recitare quantumlibet etiam bre 
+   <lb ed="#B" n="12"/>uiter.
+  </p>
+      <p xml:id="jMqv4a-d1e522-d1e1025">
+   ⁋ Dico ergo ad argumentum aliter: &amp; vtrobiqui 
+   <lb ed="#B" n="13"/>valebit responsio: negando maiorem, quod sit de ratio 
+   <lb ed="#B" n="14"/>ne actus boni voluntatis vt reguletur a prudentia: 
+   <lb ed="#B" n="15"/>quia satis est quod reguletur ab ignorantia inuincibili vel 
+   <lb ed="#B" n="16"/>a prudentia: sed ferme semper regulatur a prudentia: 
+   <lb ed="#B" n="17"/>vt patet in duobus exemplis datis. Potest tamen dari exem 
+   <lb ed="#B" n="18"/>plum vbi conclusio erit dictamen practicum falsum: 
+   <lb ed="#B" n="19"/>&amp; per consequens assensus eius erit ignorantia prauae 
+   <lb ed="#B" n="20"/>dispositionis inuincibiliter falsus. Potes si volue 
+   <lb ed="#B" n="21"/>ris dicere ipsum dictamen conclusionis esse verum 
+   <lb ed="#B" n="22"/>veritate practica: &amp; moraliter: licet falsum logice 
+   <lb ed="#B" n="23"/>loquendo. hoc est dicere. conformans se illi
+   dictami<lb ed="#B" n="24" break="no"/>ni conclusionis facit bonam praxim: &amp; facit actum bo 
+   <lb ed="#B" n="25"/>num: licet dictamen sit propositio falsa. Non iuuat
+   di<lb ed="#B" n="26" break="no"/>cere quod intellectus habet duo iudicia, quorum vnum 
+   <lb ed="#B" n="27"/>est: huic pauperi danda est eleemosyna. aliud
+   iu<lb ed="#B" n="28" break="no"/>dicium est, huic danda est eleemosyna: &amp; actus re 
+   <lb ed="#B" n="29"/>gulatur a secundo iudicio: a quo suam bonitatem 
+   <lb ed="#B" n="30"/>capit: &amp; non a priore. Hoc enim non soluit argumentum: 
+   <lb ed="#B" n="31"/>quia secludatur posterius iudicium stante priores 
+   <lb ed="#B" n="32"/>iam stringit argumentum. Dico ergo quod prudentia 
+   <lb ed="#B" n="33"/>vel error inuincibilis sufficienter regulat actum vo 
+   <lb ed="#B" n="34"/>luntatis.
+  </p>
+      <p xml:id="jMqv4a-d1e522-d1e1075">
+   ⁋ Sed quo ad diuitem in se si capiat elee 
+   <lb ed="#B" n="35"/>mosynam, an sit dominus illius eleemosynae acceptae: 
+   <lb ed="#B" n="36"/>alia est difficultas. Et dico quod non: sed tenetur diues 
+   <lb ed="#B" n="37"/>hanc eleemosynam dare aliis pauperibus: &amp; non
+   prio<lb ed="#B" n="38" break="no"/>ri domimno. Ratio est: quod dominus a se abdicat
+   domi<lb ed="#B" n="39" break="no"/>nium illius eleemosynae datae: &amp; suum meritum 
+   <lb ed="#B" n="40"/>iam in datione eleemosynae consequutus est,
+   inten<lb ed="#B" n="41" break="no"/>dens &amp; volens eleemosynam dare vni pauperi &amp; 
+   <lb ed="#B" n="42"/>praecise tali: cum ergo iste diues simulans se esse pau 
+   <lb ed="#B" n="43"/>perem non sit talis: non est intentio dantis: ei eleemo 
+   <lb ed="#B" n="44"/>synam conferre. causa data / causa non sequuta. Si tamen 
+   <lb ed="#B" n="45"/>pauptatem praeferens fingat se deuotum, vel morbo la 
+   <lb ed="#B" n="46"/>borantem vt eleemosynam habeat: eleemosynam habitam 
+   <lb ed="#B" n="47"/>non tenetur restituere. cum enim non sit verosimile
+   diui<lb ed="#B" n="48" break="no"/>ti accipienti quod intentio dantis erat dare soli huic 
+   <lb ed="#B" n="49"/>accipienti: quem putabat pauperem: non est
+   ne<lb ed="#B" n="50" break="no"/>cesse vt ei restituat: vel de hoc conscientiam
+   fa<lb ed="#B" n="51" break="no"/>ciat: nisi hoc aliunde constet: quia sic tenetur resti 
+   <lb ed="#B" n="52"/>tuere vero domino: vel eius voluntatem in hoc 
+   <lb ed="#B" n="53"/>indagare. Sed dicis. cum iudicium intellectus faciat 
+   <lb ed="#B" n="54"/>ad obligationem voluntatis de datione eleemosyi 
+   <lb ed="#B" n="55"/>nae: sequitur quod per aliquid mere naturale quod no 
+   <!--0230.xml-->
+   <cb ed="#B" n="b"/> 
+       <!-- 99-v b -->
+       <lb ed="#B" n="56"/>est in potestate nostra, merebimur: vel
+   demerebi<lb ed="#B" n="57" break="no"/>mut, contra <name xml:id="jMqv4a-d1e522-Nd1e1133" ref="#Aristotle">Aristotelem</name> tertio Ethicorum dicentem 
+   <lb ed="#B" n="58"/>Propter. illa quae nobis a natura insunt nec
+   lauda<lb ed="#B" n="59" break="no"/>mut nec vituperamur. sed quod illud sequatur
+   sae<lb ed="#B" n="60" break="no"/>piuscule, in proposito patet. Nam primo habens igno 
+   <lb ed="#B" n="61"/>rantiam inuincibilem de paupertate notabili
+   sor<lb ed="#B" n="62" break="no"/>tis: non pecco non dando ei eleemosynam. postea vero 
+   <lb ed="#B" n="63"/>habens iudicium certum siue euidens siue
+   ineui<lb ed="#B" n="64" break="no"/>dens naturaliter acquisitum: non dando pecco: &amp; 
+   <lb ed="#B" n="65"/>hoc per aliquod mere naturale.
+  </p>
+      <p xml:id="jMqv4a-d1e522-d1e1155">
+   ⁋ Respondetui 
+   <lb ed="#B" n="66"/>concedendo quod iudicium intellectus multum facit ad 
+   <lb ed="#B" n="67"/>peccatum vel meritum. si enim habeam assensum ve 
+   <lb ed="#B" n="68"/>gnorantiam vincibilem de magna inopia istius 
+   <lb ed="#B" n="69"/>pauperis: non succurrendo illi pecco: &amp; si
+   ignoran<lb ed="#B" n="70" break="no"/>tiam inuincibilem habeam non pecco. sed no mereor 
+   <lb ed="#B" n="71"/>nec demereor per aliquod mere naturale: sed per 
+   <lb ed="#B" n="72"/>aliquod liberum, scilicet per actum voluntatis
+   li<lb ed="#B" n="73" break="no"/>bere elicitum vel omissionem illius. iudicium enim 
+   <lb ed="#B" n="74"/>intellectus mere naturaliter adueniens ministrans 
+   <lb ed="#B" n="75"/>lumen voluntati est praerequisita causa illius
+   mer<lb ed="#B" n="76" break="no"/>ti vel demeriti liberi. <name xml:id="jMqv4a-d1e522-Nd1e1181" ref="#Aristotle">Aristoteles</name> autem loquitur de 
+   <lb ed="#B" n="77"/>illo quod nullo modo est situm in facultate nostra. 
+   <lb ed="#B" n="78"/>propterea dicit. Caeco quis improperabit: modo actus 
+   <lb ed="#B" n="79"/>voluntatis nostrae est totaliter liber: sed
+   imputabi<lb ed="#B" n="80" break="no"/>litas vel meritum eius a iudicio intellectus depen 
+   <lb ed="#B" n="81"/>det, sicut &amp; eius gubernatio.
+  </p>
+    </div>
+   </body>
+  </text>
+</TEI>

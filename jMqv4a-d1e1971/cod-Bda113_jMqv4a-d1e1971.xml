@@ -1,0 +1,293 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 10</title>
+      <author ref="#JohnMair">John Mair</author>
+      <respStmt>
+       <name>Jeffrey C. Witt</name>
+       <resp>TEI Encoder</resp>
+      </respStmt>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 10</title>
+       <date when="2020-06-09">June 27, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="B" n="cod-Bda113">Badius 1516</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+     guidelines for a diplomatic edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-06-27" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+      <pb ed="#B" n="368-r"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="jMqv4a-d1e1971"> <!-- l4d49q10 -->
+      <head xml:id="jMqv4a-d1e1971-Hd1e104">Quaestio 10</head>
+      <head xml:id="jMqv4a-d1e1971-Hd1e107" type="question-title">An beatitudo partialiter producatur a beato</head>
+      <p xml:id="jMqv4a-d1e1971-d1e110">
+       <lb ed="#B" n="7"/>⁋ Distinctionis Quadragesimaenonae 
+   <lb ed="#B" n="8"/>Quaestio Decima. 
+   <lb ed="#B" n="9"/>Ecimo quaero. An bea 
+   <lb ed="#B" n="10"/>titudo partialiter producatur a 
+   <lb ed="#B" n="11"/>beato. Respondetur affirmatiue. 
+   <lb ed="#B" n="12"/>nam btintudo consistit in
+   acti<lb ed="#B" n="13" break="no"/>bus intellectus &amp; voluntatis, 
+   <lb ed="#B" n="14"/>l&amp; in gaudio passione indi 
+   <lb ed="#B" n="15"/>llsequente. sed omnia ista sunt a 
+   <lb ed="#B" n="16"/>lldeo mediate vel immediate, 
+   <lb ed="#B" n="17"/>&amp; ad omnem actum intellectus &amp; voluntatis, intellectus &amp; 
+   <lb ed="#B" n="18"/>voluntas efficientiam habent extra hanc materiam. 
+   <lb ed="#B" n="19"/>Voluntas enim comprincipiat dilectionem dei in via cum 
+   <lb ed="#B" n="20"/>notitia aenigmatica: ergo a fortiore hoc potest inpatria 
+   <lb ed="#B" n="21"/>cum notitia multo clariore, scilicet visione. na cum lumine 
+   <lb ed="#B" n="22"/>gloriae / influentia dei speciali potest intellectus concurrere 
+   <lb ed="#B" n="23"/>ad visionis productionem, nec est ratio alicuius ponderis pro 
+   <lb ed="#B" n="24"/>opposito. ergo haec conclusio affirmatiua vera. 
+  </p>
+      <p xml:id="jMqv4a-d1e1971-d1e152">
+       <lb ed="#B" n="25"/>⁋ Contra hanc conclusionem obiicia 
+   <lb ed="#B" n="26"/>nonnullis argumentis Ocltam. postea alia contra 
+   <lb ed="#B" n="27"/>conclusionem afferam: &amp; omnia eluere nitar.
+   Argu<lb ed="#B" n="28" break="no"/>it primo Guilielmus Oclam sic. Quandocumque sunt
+   ali<lb ed="#B" n="29" break="no"/>qua duo supenaturalia sic se habentia vt minus per 
+   <lb ed="#B" n="30"/>fectum non possit produci a creatura ob suam
+   perfectio<lb ed="#B" n="31" break="no"/>nem: nec magis perfectum a creatura vllo modo pro 
+   <lb ed="#B" n="32"/>duci potest. sed gratia est minus perfecta quam btitudo. &amp; pi 
+   <lb ed="#B" n="33"/>or producitur totaliter a deo: ergo &amp; aima.
+  </p>
+      <p xml:id="jMqv4a-d1e1971-d1e175">
+   ⁋ Dico illud 
+   <lb ed="#B" n="34"/>argumentum bifariam deficere. primo nego quod bea 
+   <lb ed="#B" n="35"/>titudo est quid supernaturale: cum creatura ad eius pro 
+   <lb ed="#B" n="36"/>ductionem concurrat. Fortasse mutabis maiorem 
+   <lb ed="#B" n="37"/>sic, quandocunque sunt aliqua sic se habentia &amp;c.
+   relin<lb ed="#B" n="38" break="no"/>quendo supernaturalia. sed iterum praesupponis
+   fal<lb ed="#B" n="39" break="no"/>sum: quia illud non est propter perfectionem, quod patet. 
+   <lb ed="#B" n="40"/>nam asinus producit asinum &amp; non charitatem: &amp; tamen
+   asi<lb ed="#B" n="41" break="no"/>nus est perfectior charitate: ergo non est propter perfe 
+   <lb ed="#B" n="42"/>ctionem. Interdum enim magis perfectum potest produci ab 
+   <lb ed="#B" n="43"/>agente imperfectiore. vt ignis producit ignem: homo autem 
+   <lb ed="#B" n="44"/>nullam substantiam producit. nam vero similius est quod nu 
+   <lb ed="#B" n="45"/>la est forma corporeitatis distincta ab anima intellecti 
+   <lb ed="#B" n="46"/>ua.
+  </p>
+      <p xml:id="jMqv4a-d1e1971-d1e206">
+   ⁋ Secundo arguit. meritum est a merente: ergo praemium 
+   <lb ed="#B" n="47"/>debet esse a praemiante. Dico quod argumentum solum 
+   <lb ed="#B" n="48"/>est a simili: &amp; potius contra factorem. sicut autem meritum 
+   <lb ed="#B" n="49"/>particulariter est a merente: sic consonum est rationi quod 
+   <lb ed="#B" n="50"/>praemium particulariter sit a praemiante.
+  </p>
+      <p xml:id="jMqv4a-d1e1971-d1e217">
+   ⁋ Tertio arguit. 
+   <!--0767.xml-->
+   <cb ed="#B" n="b"/> 
+       <!-- 368-r b -->
+       <lb ed="#B" n="51"/>ex hac conclusione sequitur quod beatus potest desinere 
+   <lb ed="#B" n="52"/>a sua beatitudine. hoc autem est inconveniens. &amp; quod se 
+   <lb ed="#B" n="53"/>quatur, patet: quia potentiae rationales valent ad op 
+   <lb ed="#B" n="54"/>posita. Ad hoc superius respondimus quod clare
+   vi<lb ed="#B" n="55" break="no"/>dens deum necessitatur eum diligere: &amp; deus semper 
+   <lb ed="#B" n="56"/>coagit ad visionem: quare non potest cessare ab actu 
+   <lb ed="#B" n="57"/>Si autem hoc non teneatur, necessarium est dicere quod
+   vo<lb ed="#B" n="58" break="no"/>luntas a deo necessitatur continuare suum actum. 
+   <lb ed="#B" n="59"/>Tertio dico argumentum esse aequaliter contra facto 
+   <lb ed="#B" n="60"/>rem. nam licet actus a solo deo producatur &amp;
+   manute<lb ed="#B" n="61" break="no"/>neatur: potentia tamen potest non tendere in obiectum, po 
+   <lb ed="#B" n="62"/>tissimum potentia dei. &amp; forte etiam si sibi reliquatur. 
+  </p>
+      <p xml:id="jMqv4a-d1e1971-d1e252">
+       <lb ed="#B" n="63"/>⁋ Nunc praeter rationes Ocltam po 
+   <lb ed="#B" n="64"/>nam alias. &amp; quarto arguitur. sequitur quod aliquis bea 
+   <lb ed="#B" n="65"/>tificat seipsum: quod est disconueniens. quod sequatur, 
+   <lb ed="#B" n="66"/>probatur sic. capio Linum btntum. iste Linus cocurrit ad 
+   <lb ed="#B" n="67"/>suam beatitudinem: ergo se beatificat: cum partia 
+   <lb ed="#B" n="68"/>liter se beatum faciat. Ad quartum multifariam respondetur 
+   <lb ed="#B" n="69"/>Primo, non est inconveniens concedere illatum. secun 
+   <lb ed="#B" n="70"/>do non sequitur, quima ad beatificare non sufficit
+   concur<lb ed="#B" n="71" break="no"/>rere ad productionem beatitudinis. nam visio
+   par<lb ed="#B" n="72" break="no"/>tialiter efficit dilectionem: &amp; tamen non dcitur beatificare s 
+   <lb ed="#B" n="73"/>sed cum hoc requiritur quod fiat a principali beatificante. 
+   <lb ed="#B" n="74"/>modo potentia creata non est principale
+   beatifi<lb ed="#B" n="75" break="no"/>cans / sed deus. Tertio possibile est animam actiue age 
+   <lb ed="#B" n="76"/>re ad beatitudinem: &amp; non habere causalitatem quaere 
+   <lb ed="#B" n="77"/>beatitas animam informet. sed deus se solo facit quid 
+   <lb ed="#B" n="78"/>litatem animam informare: nec anima producit eam extra se 
+   <lb ed="#B" n="79"/>quia in eodem instanti quo anima comprincipiat, 
+   <lb ed="#B" n="80"/>deus informationem facit. Forte etiam illa
+   qua<lb ed="#B" n="81" break="no"/>litas potest produci ab anima partialiter, &amp; eam infor 
+   <lb ed="#B" n="82"/>mare partialiter: cum hoc quod potentia per illam quali 
+   <lb ed="#B" n="83"/>tatem non tendat in obiectum beatificum: quia 
+   <lb ed="#B" n="84"/>deus se obiectiue beato praesentat. &amp; sic deus dici 
+   <lb ed="#B" n="85"/>tur beatificare &amp; non potentia.
+  </p>
+      <p xml:id="jMqv4a-d1e1971-d1e304">
+   ⁋ Quinto arguitur 
+   <lb ed="#B" n="86"/>Nulla creatura potest visionem alicuius obiecti crea 
+   <lb ed="#B" n="87"/>ti producere totaliter: ergo nec visionem dei
+   partiali<lb ed="#B" n="88" break="no"/>ter. tenet consequentia: quia plus est producere visionem 
+   <lb ed="#B" n="89"/>dei partialiter quam visionem creaturae totaliter.
+   Re<lb ed="#B" n="90" break="no"/>spondetur negando consequentiam: quia vnum 
+   <lb ed="#B" n="91"/>creaturae repugnat: aliud autem non: vt aliunde 
+   <lb ed="#B" n="92"/>constat.
+  </p>
+      <p xml:id="jMqv4a-d1e1971-d1e322">
+   ⁋ Sexto arguitur. Ex hac opinione sequi 
+   <lb ed="#B" n="93"/>tur quod anima Christi non haberet decentem
+   beatitu<lb ed="#B" n="94" break="no"/>dinem: cum anima eius non possit concurrere vltra capa 
+   <lb ed="#B" n="95"/>citatem actiuam beatitudinis. hoc est absonum. 
+   <lb ed="#B" n="96"/>igitur. Respondeo tenendo illa quae semper tenere 
+   <lb ed="#B" n="97"/>oleo, quod argumentum non concludit. nam teneo vbi 
+   <lb ed="#B" n="98"/>quod quod anima Christi habet infinitam charitatem intensiue: 
+   <lb ed="#B" n="99"/>&amp; cum hoc charitas concurrit ad actum meritorium: vt 
+   <lb ed="#B" n="100"/>patet ex. xvii. distinct. primi. Et licet beatus non  
+   <lb ed="#B" n="101"/>mereatur sibi praemium beatificum de nouo: tamen actus eius 
+   <lb ed="#B" n="102"/>est bonus eiusdem speciei cum meritorio: quia charitas 
+   <lb ed="#B" n="103"/>ad illum concurrit. Quare cum quocumque paruo conatu 
+   <lb ed="#B" n="104"/>animae Christi voluntas eius habere possit infinitum dei 
+   <!--0768.xml-->
+   <pb ed="#B" n="368-v"/>
+       <cb ed="#B" n="a"/>
+       <lb ed="#B" n="1"/>amorem in gradu: cum vno conatu vt duo, gratia 
+   <lb ed="#B" n="2"/>vt duo aliquam dilectionem producit. &amp; stante eo 
+   <lb ed="#B" n="3"/>dem conatu charitatis vt tria / maiorem actum in  
+   <lb ed="#B" n="4"/>tensiue producit. &amp; sic proportionabiter ascendendo cum 
+   <lb ed="#B" n="5"/>charitate. ergo si est infinita charitas: actus
+   amo<lb ed="#B" n="6" break="no"/>ris dei erit infinite intensus. Et tenendo quod actus 
+   <lb ed="#B" n="7"/>voluntatis est perfectior actu intellectus, licet visio 
+   <lb ed="#B" n="8"/>diuinae essentiae sit finita: in potiori actu erit
+   im<lb ed="#B" n="9" break="no"/>mensitas: &amp; ex consequenti infinitum gaudium se 
+   <lb ed="#B" n="10"/>quens. Potest insuper lumen gloriae habere suffici 
+   <lb ed="#B" n="11"/>entiam respectu visionis: &amp; sic ponam infinitum
+   lu<lb ed="#B" n="12" break="no"/>men gloriae in anima Christi. ergo tunc habebit visi 
+   <lb ed="#B" n="13"/>onem infinitam. Aliter etiam hoc poni potest. nam 
+   <lb ed="#B" n="14"/>quicquid potest deus facere cum causa secunda, potest fa 
+   <lb ed="#B" n="15"/>cere se solo. si ergo cum lumine gloriae possit hoc 
+   <lb ed="#B" n="16"/>facere: sine lumine gloriae hoc facere potest.
+  </p>
+      <p xml:id="jMqv4a-d1e1971-d1e393">
+   ⁋ Septi 
+   <lb ed="#B" n="17"/>mo arguitur. Ex hac conclusione sequitur quod duo
+   de<lb ed="#B" n="18" break="no"/>cedentes in aequalibus meritis inaequaliter praemia 
+   <lb ed="#B" n="19"/>buntur: contra dicta in dist. xlvi. ponantur duo dece 
+   <lb ed="#B" n="20"/>dentes in naturalibus imparibus, sortes &amp; plato 
+   <lb ed="#B" n="21"/>&amp; in meritis aequalibus. Hoc supposito cum
+   con<lb ed="#B" n="22" break="no"/>clusione / sic argumentor. Sortes &amp; plato
+   aequali<lb ed="#B" n="23" break="no"/>ter meriti sunt: &amp; inaequaliter praemiabuntur: ergo 
+   <lb ed="#B" n="24"/>assumpsi verum. Minor probatur. quia habens cla 
+   <lb ed="#B" n="25"/>riora naturalia, lympidius deum videbit / &amp; inten 
+   <lb ed="#B" n="26"/>sius diliget: ergo magis praemiabitur. Forte dicis mi 
+   <lb ed="#B" n="27"/>hi. animae separatae sunt pares in naturalibus. &amp; licet 
+   <lb ed="#B" n="28"/>pro hoc statu viae corpora sint imparia: &amp; molles 
+   <lb ed="#B" n="29"/>carne sint apti mente, secundo de anima: omnibus 
+   <lb ed="#B" n="30"/>tamen in patria erit aequalis aptitudo corporis, &amp; ex con 
+   <lb ed="#B" n="31"/>sequenti totius compositi. Et licet euadas per aliqua 
+   <lb ed="#B" n="32"/>minus probabilia, quod erit omnibus aequalis dispo 
+   <lb ed="#B" n="33"/>sitio corporis: quia erit resurrectio in corporibus 
+   <lb ed="#B" n="34"/>diuersarum complexionum: tamen tergiuersari nequis 
+   <lb ed="#B" n="35"/>de homine &amp; angelo.
+  </p>
+      <p xml:id="jMqv4a-d1e1971-d1e437">
+   ⁋ Respondetur. deus ma 
+   <lb ed="#B" n="36"/>vis iuuabit illum qui habet minora naturalia: &amp; 
+   <lb ed="#B" n="37"/>dabit plus auxilii: &amp; sic minora naturalia habens 
+   <lb ed="#B" n="38"/>cum maiore ope / potest aequalem actum actui alterius 
+   <lb ed="#B" n="39"/>producere. Hoc exemplo declaro. sint sortes
+   debi<lb ed="#B" n="40" break="no"/>lis / &amp; plato fortis: quibus applicentur duo ponde, 
+   <lb ed="#B" n="41"/>ra aequalis grauitatis a. &amp; b. quorum neutrum, isto 
+   <lb ed="#B" n="42"/>rum alter solus leuare possit: iam notum est quod cum 
+   <lb ed="#B" n="43"/>maiore ope sortes debilis possit leuare a. adeo be 
+   <lb ed="#B" n="44"/>ne vt plato b. supposito quod plus auxilii detur sor 
+   <lb ed="#B" n="45"/>ti in ea portione qua plato sortem in viribus exu 
+   <lb ed="#B" n="46"/>perat. sic in proposito erit. Sed contra illud
+   repli<lb ed="#B" n="47" break="no"/>catur. Habens naturalia meliora potest saltem plus 
+   <lb ed="#B" n="48"/>deum diligere: &amp; deus ipsum non impedit plus a 
+   <lb ed="#B" n="49"/>in via: ergo plus beatificabitur. Dico quod deus non  
+   <lb ed="#B" n="50"/>concurrit ad plus diligendum cum illo / in patria. 
+   <lb ed="#B" n="51"/>&amp; ratio est / quia illic est praemium dilectio dei: in via 
+   <lb ed="#B" n="52"/>autem est solum meritum &amp; non praemium 
+   <lb ed="#B" n="53"/>uo arguitur. Ex ista positione sequitur haec cone 
+   <lb ed="#B" n="54"/>sio: quod aliquis erit btuns in via. &amp; ne lucteris de Pa 
+   <lb ed="#B" n="55"/>lo &amp; Moyse: intelligo per legem communem. con 
+   <!--0768.xml-->
+   <cb ed="#B" n="b"/> 
+       <!-- 368-v b -->
+       <lb ed="#B" n="56"/>sequens est falsum: ergo &amp; antecedens. consequentiam de 
+   <lb ed="#B" n="57"/>claro. nam aliquis potest comprincipiare dilectionem 
+   <lb ed="#B" n="58"/>dei in via. immo est nobis praeceptum diligere 
+   <lb ed="#B" n="59"/>deum: quem diligere non possumus nisi eius no 
+   <lb ed="#B" n="60"/>titiam habuerimus. Forte dicis, non omnis
+   dile<lb ed="#B" n="61" break="no"/>ctio dei ad beatitudinem sufficit: sed requiritur quod 
+   <lb ed="#B" n="62"/>sit certae intensionis: &amp; si non fuerit certae intensi 
+   <lb ed="#B" n="63"/>onis / non erit beatitudo: sed actus remissior erit 
+   <lb ed="#B" n="64"/>non beatitudo. modo quaelibet dilectio in patria est 
+   <lb ed="#B" n="65"/>intensior quam dilectio dei in via: &amp; charitas patriae est 
+   <lb ed="#B" n="66"/>maior charitate viae. nam qui minimus est in regno 
+   <lb ed="#B" n="67"/>caelorum, maior est illo. Matth. xi. &amp;. Lucae. vii. ergo  
+   <lb ed="#B" n="68"/>minimus in regno caelorum est maior loanne
+   Ba<lb ed="#B" n="69" break="no"/>ptista. Contra hoc arguo. Ioannes Baptista &amp; mul 
+   <lb ed="#B" n="70"/>ti in via habuerunt &amp; adhuc habent maiorem cha 
+   <lb ed="#B" n="71"/>ritatem quam habeant paruuli purgati ab originali: &amp; 
+   <lb ed="#B" n="72"/>forte tam intense diligunt. Illa vero auctontas
+   in<lb ed="#B" n="73" break="no"/>telligitur quo ad exercitium. nam btuns quilibet sem 
+   <lb ed="#B" n="74"/>per diligit deum &amp; actualiter: non autem in via saltem 
+   <lb ed="#B" n="75"/>quo ad homines. angeli enim hoc poterant pro tempore 
+   <lb ed="#B" n="76"/>viae. Insuper quaelibet pars beatitudinis est beatitas 
+   <lb ed="#B" n="77"/>in suo toto: ergo pars aequalis erit beatitas extra 
+   <lb ed="#B" n="78"/>suum totum: &amp; proportionabile gaudium causa: 
+   <lb ed="#B" n="79"/>bit.
+  </p>
+      <p xml:id="jMqv4a-d1e1971-d1e541">
+   ⁋ Forte dicis, &amp; ita dicendum est: quod dilectio dei 
+   <lb ed="#B" n="80"/>in patria: &amp; dilectio in via, distinguuntur specie. 
+   <lb ed="#B" n="81"/>similiter notitia intuitiua eiusdem obiecti differi 
+   <lb ed="#B" n="82"/>specie a notitia abstractiua etiam de eodem obie 
+   <lb ed="#B" n="83"/>cto. nam vna clare in suum obiectum tendit: &amp; altera 
+   <lb ed="#B" n="84"/>obscure. similiter volitio &amp; nolitio latae in idem dif 
+   <lb ed="#B" n="85"/>ferunt specie: quia in obiectum diuersimode ten 
+   <lb ed="#B" n="86"/>dunt. &amp; ex consequenti erit gaudium alterius
+   spe<lb ed="#B" n="87" break="no"/>ciei ab omni gaudio quod in via habemus. Imprae 
+   <lb ed="#B" n="88"/>sentiarum autem suppono distinctionem
+   speci<lb ed="#B" n="89" break="no"/>ficam notitiae intuitiuae ab abstractiua de eodem 
+   <lb ed="#B" n="90"/>obiecto, licet sint in eadem potentia. quia aliter
+   ten<lb ed="#B" n="91" break="no"/>dunt in sua obiecta, &amp; iudicia alia causant, non tamen 
+   <lb ed="#B" n="92"/>est consequens quod propter appropinquationem ob 
+   <lb ed="#B" n="93"/>iecti causetur continuo de nouo alia notitia
+   spe<lb ed="#B" n="94" break="no"/>cie. &amp; cum istae notitiae partialiter efficiant has di 
+   <lb ed="#B" n="95"/>lectiones: dilectiones ipsae specie distinguuntur. In  
+   <lb ed="#B" n="96"/>aliis quaestionibus faciam aliquot alias rationes: quas 
+   <lb ed="#B" n="97"/>huic materiae applicare poteris si libeat. 
+  </p>
+    </div>
+   </body>
+  </text>
+</TEI>

@@ -1,0 +1,674 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 3</title>
+      <author ref="#JohnMair">John Mair</author>
+      <respStmt>
+       <name>Jeffrey C. Witt</name>
+       <resp>TEI Encoder</resp>
+      </respStmt>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 3</title>
+       <date when="2020-06-09">June 27, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="B" n="cod-Bda113">Badius 1516</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+     guidelines for a diplomatic edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-06-27" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+      <pb ed="#B" n="86-v"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="jMqv4a-d1e462"> <!-- l4d15q3 -->
+      <head xml:id="jMqv4a-d1e462-Hd1e104">Quaestio 3</head>
+      <head xml:id="jMqv4a-d1e462-Hd1e107" type="question-title">An non ieiunantes peccent</head>
+      <p xml:id="jMqv4a-d1e462-d1e110">
+       <lb ed="#B" n="38"/>SVperiore quaestione 
+   <lb ed="#B" n="39"/>de satisfactione in comune lo 
+   <lb ed="#B" n="40"/>quuti sumus. Reliquum est 
+   <lb ed="#B" n="41"/>de aliquibus operibus
+   satis<lb ed="#B" n="42" break="no"/>factoriis in speciali loqui.
+   Ma<lb ed="#B" n="43" break="no"/>gister enim in. xiiii. dist. huius lo 
+   <lb ed="#B" n="44"/>quitur de eleemosyna. &amp; quia 
+   <lb ed="#B" n="45"/>multi hic de ieiunio etiam loquuntur: quod est opus sa 
+   <lb ed="#B" n="46"/>tisfactorium: &amp; est commune in ecclesia: de eo loquar: 
+   <lb ed="#B" n="47"/>circa ipsum proponendo quatuor quaestiones.
+   Pri<lb ed="#B" n="48" break="no"/>ma erit. An non ieiunantes peccent. Secunda erit. an ie 
+   <lb ed="#B" n="49"/>unium quadragesimae sit de iure diuino obseruandum. 
+   <lb ed="#B" n="50"/>Et propter aliquos sinistre opinantes, tangam in illa 
+   <lb ed="#B" n="51"/>quaestione: an lex pure humana obliget sub poena 
+   <!--0204.xml-->
+   <cb ed="#B" n="b"/> 
+       <!-- 86-v b -->
+       <lb ed="#B" n="52"/>peccati. Et quia consuetudo regionum multum facit ad 
+   <lb ed="#B" n="53"/>ieiunium, quaeram de robore consuetudinis: &amp;
+   quomo<lb ed="#B" n="54" break="no"/>do ipsa sit obligatoria. Quarto. an tertio comeden: 
+   <lb ed="#B" n="55"/>in die quo est ieiunandum, peccet peccato fractiuo 
+   <lb ed="#B" n="56"/>ieiunii.
+  </p>
+      <p xml:id="jMqv4a-d1e462-d1e160">
+   ⁋ Pro solutione primae quaestionis nota: quod lo 
+   <lb ed="#B" n="57"/>co ieiunii maiores nostri vsi sut vigilia: qui noctes 
+   <lb ed="#B" n="58"/>ducebant insomnes in sanctorum profestis ad carnis 
+   <lb ed="#B" n="59"/>castigationem. Sed quia successu temporum compertum est 
+   <lb ed="#B" n="60"/>hoc vigilantibus obfuisse: &amp; occasionem impudio 
+   <lb ed="#B" n="61"/>tiae / cantibus lasciuis / luxui / furto / rixae / &amp; homicidio 
+   <lb ed="#B" n="62"/>praebuisse: in nocte enim rarum est lumen: &amp; qui male 
+   <lb ed="#B" n="63"/>agit odit lucem. loan. iii. Propterea ieiunio
+   rationa<lb ed="#B" n="64" break="no"/>biliter vigilia cessit: licet consuetudo loquendi adhuc 
+   <lb ed="#B" n="65"/>maneat: sed non res ipsa. Terminus autem ieiunium bifa 
+   <lb ed="#B" n="66"/>riam accipitur: vno modo laxato vocabulo pro omni absti 
+   <lb ed="#B" n="67"/>nentia a peccatis. vt Esaiae. lviii. Nonne hoc est ieiu 
+   <lb ed="#B" n="68"/>nium quod elegi? &amp; Matthaei. xvii. super illa propositione. 
+   <lb ed="#B" n="69"/>Hoc genus daemoniorum non eijcitur nisi in oratione &amp; ie 
+   <lb ed="#B" n="70"/>iunio. glos. interlinea. dicit. Generale est non tantnum ab 
+   <lb ed="#B" n="71"/>escis, sed etiam ab omnibus iniquitatibus abstinere. &amp; 
+   <lb ed="#B" n="72"/>illud patet de consecra. dist. v. leiunium. Secundo mo 
+   <lb ed="#B" n="73"/>do capitur strictius &amp; vsitatius vt est circa cibum &amp; 
+   <lb ed="#B" n="74"/>potum. Et istud est triplex: scilicet ieiunium nature:
+   ie<lb ed="#B" n="75" break="no"/>iunium virtus: &amp; ieiunium ecclesiae. leiunium naturae dicit 
+   <lb ed="#B" n="76"/>omnimodam abstinentiam a cibo &amp; potu. vt distin. ix. 
+   <lb ed="#B" n="77"/>huius diximus. hoc autem modo interdum dicit puran 
+   <lb ed="#B" n="78"/>priuationem cibi &amp; potus: &amp; nullum actum ponit, nonumquam  
+   <lb ed="#B" n="79"/>denotat eandem cum positione actus eliciti. leiunium 
+   <lb ed="#B" n="80"/>virtus est species temperantiae. Temperantia enim vt est 
+   <lb ed="#B" n="81"/>virtus cardinalis: circa venerea habet castitatem: cit 
+   <lb ed="#B" n="82"/>ca potum sobrietatem: &amp; circa cibum abstinentiam: cuius 
+   <lb ed="#B" n="83"/>species est ieiunium. Vna autem species est circa sensum 
+   <lb ed="#B" n="84"/>tactus. Alia tam circa gustum: quam tactum: licet magis
+   cir<lb ed="#B" n="85" break="no"/>ca tactum, quod ingeniose colorat <name xml:id="jMqv4a-d1e462-Nd1e225" ref="#Aristotle">Aristoteles</name> per Philo 
+   <lb ed="#B" n="86"/>xenum quendam pultiuoracem: qui precatus est deos 
+   <lb ed="#B" n="87"/>quatinus collum gruis haberet, propter voluptatem 
+   <lb ed="#B" n="88"/>quam in collo experiebatur. de lingua enim
+   pre<lb ed="#B" n="89" break="no"/>catus est nihil. Tertium ieiunium vocatur ieiunium ecclesiae. 
+  </p>
+      <p xml:id="jMqv4a-d1e462-d1e238">
+       <lb ed="#B" n="90"/>⁋ Sed hic occurrit difficultas. Videtur enim
+   ieiu<lb ed="#B" n="91" break="no"/>nium ecclesiae si non sit actus bonus, non esse
+   sa<lb ed="#B" n="92" break="no"/>tisfactorium praecepto ecclesiae. vtpote si quis 
+   <lb ed="#B" n="93"/>propter inanem gloria solum ieiunet, non videtur quod 
+   <lb ed="#B" n="94"/>ieiunet: secundum dicta in quaestione prima huius 
+   <lb ed="#B" n="95"/>distinctionis. Et idem probabiliter videtur si scienter 
+   <lb ed="#B" n="96"/>per intemperantiam peccet per actum quo solo
+   adimple<lb ed="#B" n="97" break="no"/>re satagit ieiunium: puta per talem actum: nolo come 
+   <lb ed="#B" n="98"/>dere hodie. vbi ratio dictat quod comedere tenetur. 
+   <lb ed="#B" n="99"/>videtur inquam quod non satisfacit praecepto de ieiunio 
+   <lb ed="#B" n="100"/>ecclesiae: dato etiam quod sit peccatum solum veniale. 
+   <lb ed="#B" n="101"/>licet hic dari possit discrimen: cum non ponatur
+   ma<lb ed="#B" n="102" break="no"/>ius finis vel obiectum malum. Durum autem videtur quod 
+   <lb ed="#B" n="103"/>dicens horas mane propter diabolum &amp; hoc confitendo 
+   <lb ed="#B" n="104"/>non solum habeat peccatum detestari: sed etiam horas 
+   <lb ed="#B" n="105"/>repetere cum adhuc tempus superest. si quis enim habeat 
+   <lb ed="#B" n="106"/>actum moraliter bonum quo intendat implere prae 
+   <!--0205.xml-->
+   <pb ed="#B" n="87-r"/>
+       <cb ed="#B" n="a"/>
+       <lb ed="#B" n="1"/>ceptum ecclesiae: licet peccet interea mortaliter: nul 
+   <lb ed="#B" n="2"/>li dubium est quin satisfaciat praecepto ecclesiae
+   quam<lb ed="#B" n="3" break="no"/>tum ad substantiam actus: sic scilicet vt non peccet 
+   <lb ed="#B" n="4"/>omittendo ieiunium ecclesiae. secus est per actum malum. 
+   <lb ed="#B" n="5"/>Non tamen nego quin homo satisfaciat homini 
+   <lb ed="#B" n="6"/>per peccatum: lucrando eius stipendia: vt fodiens 
+   <lb ed="#B" n="7"/>in horto vel pugnans in bello ob inanem gloriam. 
+   <lb ed="#B" n="8"/>&amp; idem etiam opinor de celebrante in mortali pro sex par 
+   <lb ed="#B" n="9"/>uis albis. Scio tamen non esse facile convincere
+   vo<lb ed="#B" n="10" break="no"/>lentem dicere oppositum: quod scilicet non inconvenit 
+   <lb ed="#B" n="11"/>implere vnum praeceptum ecclesiae per tranigressionem ab 
+   <lb ed="#B" n="12"/>terius. illud enim est apparens. ludico tamen cum beni 
+   <lb ed="#B" n="13"/>gna venia oppositum probabilius. Dicis mihi:
+   suffi<lb ed="#B" n="14" break="no"/>cit substantia actus: licet non intentio praecipientis ad 
+   <lb ed="#B" n="15"/>satisfaciendum praecepto. Dico. si non ponatur actus 
+   <lb ed="#B" n="16"/>bonus moraliter: non ponitur substantia actus. Et 
+   <lb ed="#B" n="17"/>ex consequenti sequitur: si quis dixit horas ob inanem glo 
+   <lb ed="#B" n="18"/>riam: &amp; in fine poeniteat de malo proposito: oportet di 
+   <lb ed="#B" n="19"/>cat horas a nouo proposito suo bono: quia dicere a 
+   <lb ed="#B" n="20"/>malo actu emergens, non erat satisfactorium. 
+  </p>
+      <p xml:id="jMqv4a-d1e462-d1e327">
+       <lb ed="#B" n="21"/>⁋ His praesuppositis pono defini. 
+   <lb ed="#B" n="22"/>tionem ieiunii ecclesiae. quae est talis. leiunium eccle 
+   <lb ed="#B" n="23"/>siae est volitio qua quis no vult comedere pluries 
+   <lb ed="#B" n="24"/>quam semel. etiam si comedat: non vult comedere nisi ab 
+   <lb ed="#B" n="25"/>ecclesia admissa comedi, &amp; tempore debito. Merita 
+   <lb ed="#B" n="26"/>autem actus boni quemadmodum debet esse ieiunium 
+   <lb ed="#B" n="27"/>&amp; mala, sunt actus voluntatis. Diximus pluries 
+   <lb ed="#B" n="28"/>quam senaebquia non est de ratione ieiunii: vt quis
+   come<lb ed="#B" n="29" break="no"/>dat in die quo est ieiunandum. potest enim aliquis sa 
+   <lb ed="#B" n="30"/>nus stare vltra diem naturalem nihil comedendo: etiam 
+   <lb ed="#B" n="31"/>cui ad corporis valitudinem conducit cibos
+   admis<lb ed="#B" n="32" break="no"/>sos duntaxat comedere. comedendo autem carnes in 
+   <lb ed="#B" n="33"/>die ieiunii solum semel in die: frangitur ieiunium. 
+  </p>
+      <p xml:id="jMqv4a-d1e462-d1e358">
+       <lb ed="#B" n="34"/>⁋ Secundo sequitur. Licet oua non frangant ieiunium 
+   <lb ed="#B" n="35"/>extra quadragesimam: ouorum tamen comestio in
+   qua<lb ed="#B" n="36" break="no"/>dragesima sine dispensatione frangit ieiunium. 
+  </p>
+      <p xml:id="jMqv4a-d1e462-d1e367">
+       <lb ed="#B" n="37"/>⁋ Tertio sequitur quod oua comedens semel in die
+   ie<lb ed="#B" n="38" break="no"/>ienii etiam in quadragesima cum dispensatione, non fran 
+   <lb ed="#B" n="39"/>git ieiunium. patet. comedens butyrum &amp; taseum cum 
+   <lb ed="#B" n="40"/>dispensatione non frangit ieiunium: vbi caseum cum 
+   <lb ed="#B" n="41"/>coagulo compositum comedens in quadragesima 
+   <lb ed="#B" n="42"/>sine dispensatione frangit ieiunium. Nullum autem 
+   <lb ed="#B" n="43"/>ieiunium ecclesiae adhuc carnium comestionem
+   admi<lb ed="#B" n="44" break="no"/>sit. Frater Minimus etiam comedens oua in die
+   ie<lb ed="#B" n="45" break="no"/>iunii extra quadragesimam, licet peccet contra suam re 
+   <lb ed="#B" n="46"/>gulam: non tamen frangit ieiunium. ratio est: quia non 
+   <lb ed="#B" n="47"/>comedit cibos ab ecelesia prohibitos in die ieiunii. 
+  </p>
+      <p xml:id="jMqv4a-d1e462-d1e393">
+       <lb ed="#B" n="48"/>⁋ Quarto sequitur quod ex communi comestione &amp;
+   re<lb ed="#B" n="49" break="no"/>putata licita apud omnes: homo comedit carnes in  
+   <lb ed="#B" n="50"/>quadragesima bene ieiunando. Patet comedendo 
+   <lb ed="#B" n="51"/>rabas &amp; pisa, quae bestiolas solent in se includere: 
+   <lb ed="#B" n="52"/>sed ignorantia inuincibilis facit quod homo non
+   pec<lb ed="#B" n="53" break="no"/>cet tales bestiolas mortuas comedendo, nec opor 
+   <lb ed="#B" n="54"/>tet praeter modum communem comedendi, fabas fran- 
+   <!--0205.xml-->
+   <cb ed="#B" n="b"/> 
+       <!-- 87-r b -->
+       <lb ed="#B" n="55"/>gere venando has bestiolas: sed sufficit more
+   alio<lb ed="#B" n="56" break="no"/>rum comedere. Alia tamen ratione ductus a talium 
+   <lb ed="#B" n="57"/>comestione abstinuit Pythagoras Samius, vt
+   me<lb ed="#B" n="58" break="no"/>moriae proditum est: ne scilicet illarum bestiolarum 
+   <lb ed="#B" n="59"/>animae in suum corpus transirent. vt est apud Na 
+   <lb ed="#B" n="60"/>sonem. xv. metamorphoseos. vel vt aliis placet, 
+   <lb ed="#B" n="61"/>propter ventositatem cauebat a talium comestone ne 
+   <lb ed="#B" n="62"/>ad libidinem incenderetur. Si quis tamen comedat 
+   <lb ed="#B" n="63"/>carnes in specie carnium communium per ignorantiam 
+   <lb ed="#B" n="64"/>inuincibilem: frangit essentiam ieiunii, sed non
+   pec<lb ed="#B" n="65" break="no"/>cat. De fibro Pontico semper tenente caudam &amp; 
+   <lb ed="#B" n="66"/>posteriores partes in aqua: &amp; anteriorem extra aquan 
+   <lb ed="#B" n="67"/>potes posteriorem partem sine fractione ieiunii come 
+   <lb ed="#B" n="68"/>dere: &amp; non anteriorem. piscis enim a carne hoc modo  
+   <lb ed="#B" n="69"/>secernitur. Piscis naturaliter non potest diu viuere 
+   <lb ed="#B" n="70"/>extra aquam. sed partem posteriorem illius bestiolae opor 
+   <lb ed="#B" n="71"/>tet erebro aqua humectari dum est in aere: &amp; non  
+   <lb ed="#B" n="72"/>interiorem vt perhibent. Sed est obiectio physica 
+   <lb ed="#B" n="73"/>contra istum fibrum., quia ex dictis videtur quod partes 
+   <lb ed="#B" n="74"/>pecie distinguantur: &amp; per consequens ex eis non 
+   <lb ed="#B" n="75"/>constituitur aliquid vnum. sed illud non concludit. da 
+   <lb ed="#B" n="76"/>to nanque non esse aliquid vnum, simile est de virga 
+   <lb ed="#B" n="77"/>cuius vna pars est arida &amp; alia viua. Ex hoc
+   se<lb ed="#B" n="78" break="no"/>uitur quod ranunculi aliqui sunt pisces: alii autem non  
+   <lb ed="#B" n="79"/>sunt pisces. Patet. aliqui in aquis solis degunt: alii 
+   <lb ed="#B" n="80"/>autem per notabile tempus extra aquam, etiam qui non bene 
+   <lb ed="#B" n="81"/>viuunt in aqua. &amp; ex hoc sequitur quod limax non  
+   <lb ed="#B" n="82"/>est. piscis. Cum his tamen dictis stat quod quis in qua  
+   <lb ed="#B" n="83"/>dragesima scienter comedet carnes licite qui tene 
+   <lb ed="#B" n="84"/>tur ieiunare, probatur. in hoc tpore, demonstrando pascha, 
+   <lb ed="#B" n="85"/>sortes licite &amp; scienter comedet carnes. hoc tempus 
+   <lb ed="#B" n="86"/>est vel erit quadragesima: ergo in quadragesima 
+   <lb ed="#B" n="87"/>sortes licite &amp; scienter comedet carnes.
+  </p>
+      <p xml:id="jMqv4a-d1e462-d1e489">
+   ⁋ Quinta 
+   <lb ed="#B" n="88"/>ppositio ex definitione sequens est haec: quod non
+   ha<lb ed="#B" n="89" break="no"/>bens actum latum super diem ieiunii, non ieiunat. 
+   <lb ed="#B" n="90"/>probatur, quia actus eius non est humanus, quod non
+   me<lb ed="#B" n="91" break="no"/>reatur notum est: quia sine actu voluntatis nemo 
+   <lb ed="#B" n="92"/>meretur. immo cum hoc non satisfacit praecepto ecclesiae: 
+   <lb ed="#B" n="93"/>sed est eius transgressor, nisi per ignorantiam inuinci 
+   <lb ed="#B" n="94"/>bilem excusetur. Simile superius deduximus in. xii. 
+   <lb ed="#B" n="95"/>distinctione de dicente horas. Non tamen requiritur 
+   <lb ed="#B" n="96"/>quod actum ieiunandi habeat die quo ieiunat, sed suf 
+   <lb ed="#B" n="97"/>ficit actus in die praecedenti habitus. si etiam sortes ha 
+   <lb ed="#B" n="98"/>peret talem actum in die ieiunii mane: volo
+   dor<lb ed="#B" n="99" break="no"/>mire toto die ne ieiunium infringam: nullum alium actum 
+   <lb ed="#B" n="100"/>circa ieiunium habendo: ille sufficienter satisfaceret
+   prae<lb ed="#B" n="101" break="no"/>cepto ieiunii.
+  </p>
+      <p xml:id="jMqv4a-d1e462-d1e523">
+   ⁋ Quo ad tempus prandendi dicitur quod 
+   <lb ed="#B" n="102"/>est hora. xii. in quadragesima: ita vt sit peccatum
+   il<lb ed="#B" n="103" break="no"/>lam horam notabiliter praeuenire sine rationabili causa 
+   <lb ed="#B" n="104"/>Rationabilis causa esse potest quia homo habet vertiginem 
+   <lb ed="#B" n="105"/>capitis: membrorum tremorem, vel alium defectum stoma 
+   <lb ed="#B" n="106"/>chi ante potum: is potest praeuenire horam. Potus enim 
+   <lb ed="#B" n="107"/>ante meridiem siquis magnam sitim patiatur, nullo 
+   <lb ed="#B" n="108"/>modo ieiunium frangit. Hinc <name xml:id="jMqv4a-d1e462-Nd1e540" ref="#Aristotle">Aristote.</name> dicit in  
+   <lb ed="#B" n="109"/>problematibus, &amp; experientia est ad hoc: quod diffiei 
+   <!--0206.xml-->
+   <pb ed="#B" n="87-v"/>
+       <cb ed="#B" n="a"/>
+       <lb ed="#B" n="1"/>lius est sitim tolerare quam famen. morbi etiam ad hoc 
+   <lb ed="#B" n="2"/>sequi possunt. Propterea potum ante meridiem vel 
+   <lb ed="#B" n="3"/>post meridiem non prohibuit ecclesia nisi in frauden 
+   <lb ed="#B" n="4"/>ieiunii fiat. Nec respiciendum est ad aliquod ius 
+   <lb ed="#B" n="5"/>positiuum humanum: vt est cap. Solent. de
+   conse<lb ed="#B" n="6" break="no"/>cra. distin. i quod differendum sit ieiunium
+   quadra<lb ed="#B" n="7" break="no"/>gesimae ad tertiam vel secundam. Nam consuetudo  
+   <lb ed="#B" n="8"/>in oppositum omnia talia iura aboleuit. Praeterea 
+   <lb ed="#B" n="9"/>dico: quod sufficit rudi Minerua horas deprehendere 
+   <lb ed="#B" n="10"/>vbi no est horologium, de tempore comestionis. 
+   <lb ed="#B" n="11"/>Quando autem quis est in prandio quo ad tempus 
+   <lb ed="#B" n="12"/>non potest dari vna regula. vnus enim voraciter mo 
+   <lb ed="#B" n="13"/>re lupi comedit: &amp; in breui tempore: licet istud
+   sto<lb ed="#B" n="14" break="no"/>macho noceat, cum non faciat in ore digestionem iste in  
+   <lb ed="#B" n="15"/>minori tempore cibum sufficientem capit quam alter lente 
+   <lb ed="#B" n="16"/>cibum assumens.
+  </p>
+      <p xml:id="jMqv4a-d1e462-d1e587">
+   ⁋ Ex parte quatitatis cibi
+   dum<lb ed="#B" n="17" break="no"/>modo homo non comedat intemperanter: nullo
+   mo<lb ed="#B" n="18" break="no"/>do frangit ieiunium: vnicam refectionem in cibo 
+   <lb ed="#B" n="19"/>permisso sumendo. est autem temperantia: quando nec 
+   <lb ed="#B" n="20"/>est in iacturam corporis nec animae, &amp; comedit
+   ci<lb ed="#B" n="21" break="no"/>bum licitum. Ex quo sequitur quod licet sortes
+   come<lb ed="#B" n="22" break="no"/>dat tantum in die ieiunii quantum in alio die: non 
+   <lb ed="#B" n="23"/>propterea frangit ieiunium. patet istud de illo qui 
+   <lb ed="#B" n="24"/>quolibet die semel tamen comedit. Secundo patet idem 
+   <lb ed="#B" n="25"/>de assueto bis comedere in die. stat enim quod
+   vtrius<lb ed="#B" n="26" break="no"/>quod temporis refectio non noceat ei, quia est
+   abstinen<lb ed="#B" n="27" break="no"/>tia a vice temporum, licet non a magnitudine vel
+   mul<lb ed="#B" n="28" break="no"/>titudine cibi. Vlterius patet hominem posse lautius 
+   <lb ed="#B" n="29"/>coenare &amp; plus comedere in coena praecedenti diem ie 
+   <lb ed="#B" n="30"/>iunii sine peccato. patet, quia temperanter comedit, &amp; 
+   <lb ed="#B" n="31"/>magis quam comederet alio die: vt ieiunium seruet. Et 
+   <lb ed="#B" n="32"/>ex eodem fonte sequitur quod in die sequenti diem ieiunii 
+   <lb ed="#B" n="33"/>potest tempestiuius ientari, &amp; splendidius solito: quia 
+   <lb ed="#B" n="34"/>non transcendit limites temperantiae. Hinc aliqui ineru 
+   <lb ed="#B" n="35"/>dite dicunt homines pro vno ieiunio ter peccare: vt pote 
+   <lb ed="#B" n="36"/>lautius coenando in coena ieiunium praecedente: in me 
+   <lb ed="#B" n="37"/>ridie quando ieiunatur: &amp; in ientaculo subsequentis diei 
+   <lb ed="#B" n="38"/>omnia enim ista sunt licita: vt ex dictis patet. &amp; per conse 
+   <lb ed="#B" n="39"/>quens non peccatur in aliqua istarum comestionum. 
+   <lb ed="#B" n="40"/>Non impugnas istud per hoc quod debet pati maioren 
+   <lb ed="#B" n="41"/>famen in ieiunio quam extra ieiunium: quod hic non
+   contin<lb ed="#B" n="42" break="no"/>git. Assumptum enim est falsum: vt liquet de obeso 
+   <lb ed="#B" n="43"/>&amp; quolibet die assueto ieiunare. immo nec est de essen 
+   <lb ed="#B" n="44"/>tia ieiunii (quod maius est) vt caro ieiunantis domen 
+   <lb ed="#B" n="45"/>licet enim ecclesia hoc intendat: non tamen ad hoc obligat. 
+   <lb ed="#B" n="46"/>Patet hoc. Nam aliqui pisces aeque carnem ad
+   libidi<lb ed="#B" n="47" break="no"/>nem prouocant, ac caro melancholica / bouina / &amp; 
+   <lb ed="#B" n="48"/>anatis. sed quia caro a tota specie plus mouet, quam 
+   <lb ed="#B" n="49"/>piscis: vnum est vetitum, &amp; aliud non. In super vinum prouo 
+   <lb ed="#B" n="50"/>cat ad insultus sensualitatis sicut haec caro vel illa: &amp; 
+   <lb ed="#B" n="51"/>tamen ipsum non est vetitum: cuius ratio est, quia poputle 
+   <lb ed="#B" n="52"/>difficilius est non bibere vinum quam abstinere ab esu
+   car<lb ed="#B" n="53" break="no"/>nium: quaere noluit ecclesia hoc prohibere. Nec oportet 
+   <lb ed="#B" n="54"/>hic quaerere profundas rationes quare ecclesia hoc
+   fece<lb ed="#B" n="55" break="no"/>rit: &amp; non illud. nam in positiuo iure sufficit apparen- 
+   <!--0206.xml-->
+   <cb ed="#B" n="b"/> 
+       <!-- 87-v b -->
+       <lb ed="#B" n="56"/>tia pro vna parte: esto nonnihil sit apparentiae in  
+   <lb ed="#B" n="57"/>oppositum: immo interdum tantundem 
+  </p>
+      <p xml:id="jMqv4a-d1e462-d1e685">
+       <lb ed="#B" n="58"/>⁋ Hoc praemisso ponitur haec conclu 
+   <lb ed="#B" n="59"/>sio. Quilibet frangens ieiunium sine rationabili
+   cau<lb ed="#B" n="60" break="no"/>sa peccat. Probatur conclusio quo ad ambas partes 
+   <lb ed="#B" n="61"/>per varia capi. de consecra. dist. v. &amp; totum vsum ec 
+   <lb ed="#B" n="62"/>clesiae. Praeterea praetermittens praecepta ecclesiae sine 
+   <lb ed="#B" n="63"/>causa, peccat: non ieiunans sine rationabili causa est 
+   <lb ed="#B" n="64"/>huiusmodi. igitur.
+  </p>
+      <p xml:id="jMqv4a-d1e462-d1e703">
+   ⁋ Rationabilis causa tamen excusat 
+   <lb ed="#B" n="65"/>quempiam ne ieiunet. &amp; multae sunt tales causae:
+   videli<lb ed="#B" n="66" break="no"/>cet aetas: quare iuuenis &amp; senio confectus non tenentur 
+   <lb ed="#B" n="67"/>ieiunare. si enim iuuenes ieiunarent, impediretur eorum 
+   <lb ed="#B" n="68"/>crementum. noluit ergo ecclesia eos obligare. Vix 
+   <lb ed="#B" n="69"/>autem potest dari certa regula quando iuuenes tenean 
+   <lb ed="#B" n="70"/>tur ad ieiunium totius quadragesimae. Nam aliqui 
+   <lb ed="#B" n="71"/>sunt debiliores &amp; teneriores qui alii. Porro ante. xx. 
+   <lb ed="#B" n="72"/>annum videtur iuuenis non obiigatus ieiunare totam 
+   <lb ed="#B" n="73"/>quadragesimam: sed solum paucos dies secundum 
+   <lb ed="#B" n="74"/>suas vires, quod enim aliqui praefigant. xxi. annum: est 
+   <lb ed="#B" n="75"/>voluntatium. Consulant iuuenes isti, sapientes qui 
+   <lb ed="#B" n="76"/>robur &amp; conditiones eorum nouerunt: &amp; potissimum 
+   <lb ed="#B" n="77"/>suos confessores qui peccata eorum occulta opti 
+   <lb ed="#B" n="78"/>me nouerunt. si enim iuuenis insultus habeat
+   ma<lb ed="#B" n="79" break="no"/>gnos ad sensualitatem: inducatur ad ieiunium ec 
+   <lb ed="#B" n="80"/>clesiae. abstinentia enim a cibo &amp; potu est ei de
+   praece<lb ed="#B" n="81" break="no"/>pto diuino. quia secundum Comicum, Sine Cerere 
+   <lb ed="#B" n="82"/>&amp; Baccho friget Venus. &amp; licet ieiunare more
+   ec<lb ed="#B" n="83" break="no"/>clesiae sit positiuum ius: non tamen potest melius 
+   <lb ed="#B" n="84"/>abstinent: a ei iniungi. &amp; sic per ius positiuum humanum 
+   <lb ed="#B" n="85"/>seruabit illud quod est de iure diuino. Habeat au 
+   <lb ed="#B" n="86"/>tem confessor oculos ad iuuenem. aliqui enim
+   mul<lb ed="#B" n="87" break="no"/>tum crescunt ante. xvii. vel. xviii. annu, &amp; parum 
+   <lb ed="#B" n="88"/>postea. &amp; habent hoc a sua gente. quibus potest 
+   <lb ed="#B" n="89"/>ieiunium tempestiuius iniungi. alii sunt delicati qui 
+   <lb ed="#B" n="90"/>lente crescunt. Senes item habentes alterum pedem in  
+   <lb ed="#B" n="91"/>fouea pro se ipsis consultent.
+  </p>
+      <p xml:id="jMqv4a-d1e462-d1e764">
+   ⁋ Secundo infirmi non 
+   <lb ed="#B" n="92"/>tenentur ad ieiunium vllum: siue infirmitatem ex
+   cul<lb ed="#B" n="93" break="no"/>pa mortali acquisiuerint siue non. Ratio est. ipso
+   in<lb ed="#B" n="94" break="no"/>firmo posito inter duo praecepta scilicet humanum ex 
+   <lb ed="#B" n="95"/>vna parte de seruando ieiunium: &amp; diuinum ex 
+   <lb ed="#B" n="96"/>altera parte de seruanda vita: vel ea non notabiliter 
+   <lb ed="#B" n="97"/>abbreuianda saltem hoc tempore &amp; modo: praecepto 
+   <lb ed="#B" n="98"/>diuino praeceptum humanum cedit, &amp; desinit esse
+   prae<lb ed="#B" n="99" break="no"/>ceptum vel consilium. stat etiam quod nec possit vti
+   ci<lb ed="#B" n="100" break="no"/>bis praecise quadragesimalibus: nec teneatur ad tem 
+   <lb ed="#B" n="101"/>pus, nec oculum vllum habebit ad
+   quadragesi<lb ed="#B" n="102" break="no"/>mam. quemadmodum in necessitate obsessus in  
+   <lb ed="#B" n="103"/>arce, in quam nihil habet quod comedat nisi
+   car<lb ed="#B" n="104" break="no"/>nes in quadragesima: tarnes comedit nullum scrui 
+   <lb ed="#B" n="105"/>pulum habendo: immo male ageret non
+   come<lb ed="#B" n="106" break="no"/>dendo.
+  </p>
+      <p xml:id="jMqv4a-d1e462-d1e799">
+   ⁋ Tertio excusatur laborans opere
+   mul<lb ed="#B" n="107" break="no"/>tum decoctiuo, pro se vel sua familia: qui non  
+   <lb ed="#B" n="108"/>potest aliter commode se &amp; suos alere
+   ieiunan<lb ed="#B" n="109" break="no"/>do. ratio est: quia corpus eius labore affligitur. 
+   <!--0207.xml-->
+   <pb ed="#B" n="88-r"/>
+       <cb ed="#B" n="a"/>
+       <lb ed="#B" n="1"/>modo afflicto non est danda afflictio. Si vero
+   ha<lb ed="#B" n="2" break="no"/>beat vnde egregie se &amp; suos alere possit: non est ex 
+   <lb ed="#B" n="3"/>cusandus no tamen requiritur quod habeat praecise ad 
+   <lb ed="#B" n="4"/>succurrendum indigentiae extremae. Dixi (in opere mul 
+   <lb ed="#B" n="5"/>tum decoctiuo) quemadmodum sunt lapidum incisoress 
+   <lb ed="#B" n="6"/>fabti ferrarii: lapides pro extruendis domibus fe 
+   <lb ed="#B" n="7"/>rentes: frumentum flagello percutientes, &amp;
+   huiusmo<lb ed="#B" n="8" break="no"/>di. Sutor autem, sartor, &amp; architectus, latomus vel 
+   <lb ed="#B" n="9"/>alius faber parum laborans: a ieiunio
+   quadragesi<lb ed="#B" n="10" break="no"/>mae non est excusatus.
+  </p>
+      <p xml:id="jMqv4a-d1e462-d1e837">
+   ⁋ Quarta causa excusans est 
+   <lb ed="#B" n="11"/>mendicitas. mendicus enim non potest simul habere 
+   <lb ed="#B" n="12"/>cibum vt vnicam faciat refectionem. Forte enim
+   con<lb ed="#B" n="13" break="no"/>strictus fame cogitur comedere sibi datum in
+   pron<lb ed="#B" n="14" break="no"/>ptu. &amp; quamquam non constringitur ad hoc: non potest
+   serua<lb ed="#B" n="15" break="no"/>re suum cibum vt sibi valeat diutius conseruatus: 
+   <lb ed="#B" n="16"/>quia forte est offa calida vel cibus alius qui
+   nota<lb ed="#B" n="17" break="no"/>biliter minus valet conseruatus. breuiter iste
+   labo<lb ed="#B" n="18" break="no"/>rat, more laborantis in horto. plerumque etiam est debi 
+   <lb ed="#B" n="19"/>lis: qui infimo aequiparatur. Mulieres insuper foetus 
+   <lb ed="#B" n="20"/>habentes in vtero vel lactantes excusantur a ieiunio 
+   <lb ed="#B" n="21"/>quoniam nutrimentum paruulo in vtero ministrant: etiam 
+   <lb ed="#B" n="22"/>extra vterum. Iac enim est sanguis dealbatus, quaere opus 
+   <lb ed="#B" n="23"/>est eis maiore cibo. Praedicator quoque verbi diuini 
+   <lb ed="#B" n="24"/>in quadragesima est excusatus a ieiunio quadra 
+   <lb ed="#B" n="25"/>gesimae: modo non possit vtrique officio incumbere: 
+   <lb ed="#B" n="26"/>maius enim officium vtilitati reipublicae christianae prae 
+   <lb ed="#B" n="27"/>bet quam sit suum ieiunium: licet praedicare sit solum di 
+   <lb ed="#B" n="28"/>consilio: quia non inconvenit vnum grande opus consilii 
+   <lb ed="#B" n="29"/>tollere de medio vnum opus praecepti. vt patet de la 
+   <lb ed="#B" n="30"/>tomo. Simile patet etiam in materia de martyrio: vt 
+   <lb ed="#B" n="31"/>distinctione. xlix. huius videbitur de multis qui se cru 
+   <lb ed="#B" n="32"/>ciatibus martyrii tempore consilii exposuerunt.
+  </p>
+      <p xml:id="jMqv4a-d1e462-d1e887">
+   ⁋
+   Mar<lb ed="#B" n="33" break="no"/>tinus magister dicit regentes in artibus esse a ieiunio 
+   <lb ed="#B" n="34"/>quadragesimae excusatos. Sed istud indistincte di 
+   <lb ed="#B" n="35"/>ctum non placet. sed opinor esse verum vbi regens est 
+   <lb ed="#B" n="36"/>iuuenis non potens auditoribus satisfacere sine impro 
+   <lb ed="#B" n="37"/>bo labore, quem non potest ferre cum ieiunio. continuo 
+   <lb ed="#B" n="38"/>enim in honesto officio affligitur tam in corpore quam 
+   <lb ed="#B" n="39"/>in anima surgendo mane, &amp; sero petendo quietem: ac
+   ani<lb ed="#B" n="40" break="no"/>mo sollicitus est ad domandos insultus passionum 
+   <lb ed="#B" n="41"/>suorum scholasticorum, &amp; pro eis recte &amp; honeste
+   mo<lb ed="#B" n="42" break="no"/>derandis &amp; manutenendis: astrictis aliis in magnis 
+   <lb ed="#B" n="43"/>reparationibus respondere, &amp; ipsos impugnare. Idem 
+   <lb ed="#B" n="44"/>intelligo in simili casu de regente in gramatica. &amp; 
+   <lb ed="#B" n="45"/>propter illud ne videar regentibus ( de quorum numero 
+   <lb ed="#B" n="46"/>licet indignus fuerim) fauere: hoc sic declaro. Agri 
+   <lb ed="#B" n="47"/>cola, vinitor &amp; latomus excusantur a ieiunio quadra 
+   <lb ed="#B" n="48"/>gesimae: quamuis nec ipsi: nec sui paruuli sint in
+   ex<lb ed="#B" n="49" break="no"/>trema necessitate: sed acquirendo denario pro se &amp; 
+   <lb ed="#B" n="50"/>suis mediocriter sustentandis intenti. ergo tunc
+   ta<lb ed="#B" n="51" break="no"/>lis labor est eis de consilio. sed regens, de quo
+   locu<lb ed="#B" n="52" break="no"/>tus sum, habet similem excusationem, &amp; non habet pe 
+   <lb ed="#B" n="53"/>cuniam vt altiorem gradum in alia scientia adipi 
+   <lb ed="#B" n="54"/>scatur: semper autem in artibus regendo marcesceret. 
+   <lb ed="#B" n="55"/>ergo potest legere causa lucri obtinendi: etiam pro 
+   <!--0207.xml-->
+   <cb ed="#B" n="b"/> 
+       <!-- 88-r b -->
+       <lb ed="#B" n="56"/>doctrina spirituali quam seminat, more
+   declamato<lb ed="#B" n="57" break="no"/>ris in templo: qui in fine quadragesimae etiam eapit 
+   <lb ed="#B" n="58"/>pecuniam oblatam: &amp; sub illius spe ad dei verbum 
+   <lb ed="#B" n="59"/>eminandum ducitur etiam sine culpa. pecunia enim 
+   <lb ed="#B" n="60"/>est motiuum minus principale. vt in xxv.
+   distin<lb ed="#B" n="61" break="no"/>ctione huius dicemus in materia de Simonia. Omnes 
+   <lb ed="#B" n="62"/>autem isti causas excusatorias habentes caueant vesperi 
+   <lb ed="#B" n="63"/>comedere coram iuuenibus, similes causas non haben 
+   <lb ed="#B" n="64"/>tibus: quia facile scandalizantur accipientes argumentum 
+   <lb ed="#B" n="65"/>a superioribus, hoc sibi licere. 
+  </p>
+      <p xml:id="jMqv4a-d1e462-d1e967">
+       <lb ed="#B" n="66"/>⁋ Contra conclusionem arguitur.
+   fa<lb ed="#B" n="67" break="no"/>muli dominorum non peccant: &amp; tame frangunt
+   ie<lb ed="#B" n="68" break="no"/>iunium. igitur conclusio falsa. minor patet. Nam inter 
+   <lb ed="#B" n="69"/>vndecimam &amp; duodecimam comedunt parum: postea 
+   <lb ed="#B" n="70"/>domino manente in mensa ad tertiam forte inclusiue, 
+   <lb ed="#B" n="71"/>famulus incipit comedere. &amp; sic protrahitur
+   come<lb ed="#B" n="72" break="no"/>stio famuli ad tertiam vel quartam horam: ergo non ieiu 
+   <lb ed="#B" n="73"/>nat. maior patet. quia quilibet iudicat eos non pecca 
+   <lb ed="#B" n="74"/>re. Idem potest fieri delectore in mensa inter religio 
+   <lb ed="#B" n="75"/>sos. &amp; de famulis examinantibus cibos dominorum. 
+  </p>
+      <p xml:id="jMqv4a-d1e462-d1e991">
+       <lb ed="#B" n="76"/>⁋ Respondetur negando minorem. parum enim sumunt 
+   <lb ed="#B" n="77"/>a principio pro sui recreatione: quia non possunt
+   come<lb ed="#B" n="78" break="no"/>stionem ad secudam horam vel tertiam differre: &amp;
+   su<lb ed="#B" n="79" break="no"/>munt illum cibum per modum medicinae praeseruatiuae 
+   <lb ed="#B" n="80"/>non ad nutriendum. inter tertiam autem &amp; quartam
+   pran<lb ed="#B" n="81" break="no"/>dium faciunt. Si etiam magnum cibum sumerent ante 
+   <lb ed="#B" n="82"/>meridiem: nec bene dominis seruirent: nec eis conduceret. 
+   <lb ed="#B" n="83"/>Primum est notum, nemo enim plenus cibo &amp; potu ita 
+   <lb ed="#B" n="84"/>vigilanter seruit, vt non plenus. Item esset seruis in  
+   <lb ed="#B" n="85"/>iacturam: quia post magnum cibum assumptum onerosum 
+   <lb ed="#B" n="86"/>est incidere, &amp; potissimum celeriter: quod tame oportet 
+   <lb ed="#B" n="87"/>facere famulos. Etiam esset indecorum quod famulus 
+   <lb ed="#B" n="88"/>ante dominum pranderet, no enim est discipulus super ma 
+   <lb ed="#B" n="89"/>gistrum: sed sufficit ministro quod sit sicut dominus suus: 
+   <lb ed="#B" n="90"/>immo quod eum sequatur. Sed dicis. famulus ille potest: 
+   <lb ed="#B" n="91"/>viuere sine seruitio istius domini in propria domo: 
+   <lb ed="#B" n="92"/>&amp; si esset in propria domo ieiunare posset. ponal 
+   <lb ed="#B" n="93"/>mediocriter diues. igitur. Hoc aliter patet. si latomus. 
+   <lb ed="#B" n="94"/>habet vnde se &amp; suos alat non debet frangere
+   ieiu<lb ed="#B" n="95" break="no"/>nium sed viuere de proprio: &amp; minus in domo
+   labora<lb ed="#B" n="96" break="no"/>re seruando ieiunium. Concedo vtramque praemissarum: &amp; 
+   <lb ed="#B" n="97"/>nego consequantiam. quia magnus dominus frequenter habet 
+   <lb ed="#B" n="98"/>famulum potentem viuere de bonis paretum. &amp; hoc 
+   <lb ed="#B" n="99"/>est licitum. quando autem primo conducitur non est men 
+   <lb ed="#B" n="100"/>tio de seruitio mensae in die ieiunii: sed hoc in
+   ser<lb ed="#B" n="101" break="no"/>uitium incidit. aut si hoc seruitium exciperet, non  
+   <lb ed="#B" n="102"/>conduceretur. Nec est simile de latomo in die
+   de<lb ed="#B" n="103" break="no"/>terminato conducto. Etiam mediocriter diues
+   lato<lb ed="#B" n="104" break="no"/>mus ieiunium frangit laborando, sine peccato: licet 
+   <lb ed="#B" n="105"/>opes mediocres habeat: quia forte in morbum inci 
+   <lb ed="#B" n="106"/>det: &amp; tunc pecunia quam collegit ei non sufficiet. Sed  
+   <lb ed="#B" n="107"/>melius est dicere quod essentiam ieiunii seruent quam quod 
+   <lb ed="#B" n="108"/>excusentur a ieiunio more pauperum: quia latum est 
+   <lb ed="#B" n="109"/>discrimen. pauperes enim non possunt ieiunare: isti 
+   <!--0208.xml-->
+   <pb ed="#B" n="88-v"/>
+       <cb ed="#B" n="a"/>
+       <lb ed="#B" n="1"/>autem possunt. Contra hoc arguitur. famuli non
+   absti<lb ed="#B" n="2" break="no"/>nent a cibo per maius tempus, incipientes hora
+   secun<lb ed="#B" n="3" break="no"/>da, quam domini sui hora. xii. incipientes: ergo nihil 
+   <lb ed="#B" n="4"/>dictu est. antecedens patet. prandeat famulus ad
+   ter<lb ed="#B" n="5" break="no"/>tiam, vel ad tertiam cum dimidia: &amp; dominus eius ad primam 
+   <lb ed="#B" n="6"/>cum dimidia: iam sicut dominus in die sequenti incipit per 
+   <lb ed="#B" n="7"/>horam cum dimidia ante famulum: ita famulus pransus est 
+   <lb ed="#B" n="8"/>tanto tempore post dominum. Respondetur. illud est verum: &amp; si 
+   <lb ed="#B" n="9"/>caetera essent paria famulum non excusarem plus quam do  
+   <lb ed="#B" n="10"/>minum abstinentem a cibo. xxiiii. horis. sed quia plures 
+   <lb ed="#B" n="11"/>habet labores &amp; sudores currendo hincinde: non potest 
+   <lb ed="#B" n="12"/>ita diu abstine re: quapropter tales serui sunt excu 
+   <lb ed="#B" n="13"/>sati, &amp; qui escas examinat quos oportet prius gu 
+   <lb ed="#B" n="14"/>stare ne toxicum domino ponatur in disco: vel vt dominus 
+   <lb ed="#B" n="15"/>hoc non formidans habeat cibum bene apparatum 
+  </p>
+      <p xml:id="jMqv4a-d1e462-d1e1106">
+       <lb ed="#B" n="16"/>⁋ Secundo arguitur. sortes comedens ab hora. xii. 
+   <lb ed="#B" n="17"/>ad dimidiam primae &amp; desinens comedere vna dimi 
+   <lb ed="#B" n="18"/>dia hora vel amplius: postea rursus incipiens
+   come<lb ed="#B" n="19" break="no"/>dere per tempus vnius quartae partis horae frangit 
+   <lb ed="#B" n="20"/>ieiunium. &amp; tamen non peccat, probatur ponendo quod plato
+   in<lb ed="#B" n="21" break="no"/>cipiat cum ipso comedere in eodem tpore: &amp; comedat il 
+   <lb ed="#B" n="22"/>lo toto tempore quo sortes desinit comedere, &amp; come 
+   <lb ed="#B" n="23"/>dat actualiter quando sortes comedit.
+  </p>
+      <p xml:id="jMqv4a-d1e462-d1e1126">
+   ⁋ Respondetur 
+   <lb ed="#B" n="24"/>concedendo maiorem: sed negatur minor. &amp; ad
+   proba<lb ed="#B" n="25" break="no"/>tionem concedo quod plato non peccat: sed ieiunat, quia in  
+   <lb ed="#B" n="26"/>vno est interruptio ieiunium frangens: non autem in alio. 
+   <lb ed="#B" n="27"/>Consule prudentes quanta interruptio sufficiat ieiunium 
+   <lb ed="#B" n="28"/>rumpere. Nolo tamen dicere iuuenem in mensa
+   come<lb ed="#B" n="29" break="no"/>dentem accedentem domum vicini pro vino nihil come 
+   <lb ed="#B" n="30"/>dentem, frangere ieiunium. Maior autem interruptio vni 
+   <lb ed="#B" n="31"/>est rationabilis causa: sic vt non frangat ieiunium: 
+   <lb ed="#B" n="32"/>vbi minor interruptio frangeret sne simili causa. 
+   <lb ed="#B" n="33"/>vt si non sit vinum in domo vicina sed opus sit
+   do<lb ed="#B" n="34" break="no"/>mun remotiorem adire: vel longa est dilatio pro haben 
+   <lb ed="#B" n="35"/>do vino, &amp; cito non potest se expedire: tunc opus 
+   <lb ed="#B" n="36"/>est longiore mora. &amp; sic magna interruptio in isto 
+   <lb ed="#B" n="37"/>non frangit ieiunium. Nec opus est ei pane in ore 
+   <lb ed="#B" n="38"/>praeter aliorum consuetudinem quatenus seruet
+   ieiu<lb ed="#B" n="39" break="no"/>nium.
+  </p>
+      <p xml:id="jMqv4a-d1e462-d1e1164">
+   ⁋ Tertio arguitur. ad Ephesios quinto
+   scri<lb ed="#B" n="40" break="no"/>bitur. nemo vnquam carnem suam odio habuit. ergo
+   ca<lb ed="#B" n="41" break="no"/>ro est fouenda: &amp; no est maceranda ieiunio.
+  </p>
+      <p xml:id="jMqv4a-d1e462-d1e1171">
+   ⁋ Quar 
+   <lb ed="#B" n="42"/>to arguitur per illud quod scribitur Lucae. vi. Diligite 
+   <lb ed="#B" n="43"/>inimicos vestros &amp; benefacite his qui oderunt vos 
+   <lb ed="#B" n="44"/>sed caro est nobis inimica, vt dicitur ad Galathas 
+   <lb ed="#B" n="45"/>v. Tres enim ab omnibus reputantur hostes: Mundus 
+   <lb ed="#B" n="46"/>daemon / &amp; caro. immo est hostis caeteris deterior quia 
+   <lb ed="#B" n="47"/>hostis domesticus datus in exercitium.
+  </p>
+      <p xml:id="jMqv4a-d1e462-d1e1187">
+   ⁋ Respon 
+   <lb ed="#B" n="48"/>detur ad tertium quod substantia carnis est fouenda: sed 
+   <lb ed="#B" n="49"/>eius insultus ad illicitum tendens est refrenandus. 
+  </p>
+      <p xml:id="jMqv4a-d1e462-d1e1194">
+       <lb ed="#B" n="50"/>⁋ Ad quartum dicitur quod illic est sermo de inimicis 
+   <lb ed="#B" n="51"/>ratione vtentibus. sed quo ad omnem inimicum nos 
+   <lb ed="#B" n="52"/>ducentem in malum &amp; captiuantem in peccatum: ab
+   il<lb ed="#B" n="53" break="no"/>lo discedendum est eo modo quo possumus. hoc est 
+   <lb ed="#B" n="54"/>euitemus malum quod prouenit ex eius inimicitia. si 
+   <lb ed="#B" n="55"/>enim caro nostra sit effrenis: in chamo &amp; freno ma- 
+   <!--0208.xml-->
+   <cb ed="#B" n="b"/> 
+       <!-- 88-v b -->
+       <lb ed="#B" n="56"/>xillas eius constringemus: ieiunio, vigilia,
+   sollici<lb ed="#B" n="57" break="no"/>tudine, &amp; labore corporali. Si namque carnem plus 
+   <lb ed="#B" n="58"/>aequo foueris: viperam in sinu fouebis: quae continuum 
+   <lb ed="#B" n="59"/>toxicum tibi parabit. Et quanto delicatius ea
+   nutriue<lb ed="#B" n="60" break="no"/>ris: tanto magis spiritui reluctabitur, &amp; peior efficietur, 
+   <lb ed="#B" n="61"/>secundum illud Alani. Pessimus est hostis qui cum 
+   <lb ed="#B" n="62"/>benefeceris illi Fortius iusurgit bella mouendo tibi. 
+  </p>
+      <p xml:id="jMqv4a-d1e462-d1e1231">
+       <lb ed="#B" n="63"/>⁋ Quinto arguitur. nihil quod in os intrat coinquinai 
+   <lb ed="#B" n="64"/>animam. Matthaei. xv. ergo cibus nullo tempore
+   assum<lb ed="#B" n="65" break="no"/>ptus facit peccatum.
+  </p>
+      <p xml:id="jMqv4a-d1e462-d1e1240">
+   ⁋ Respondetur. illic est sermo 
+   <lb ed="#B" n="66"/>contra pharisaeos qui apostolos reprobant quod illotis 
+   <lb ed="#B" n="67"/>manibus comederent. volebat enim Saluator dicere 
+   <lb ed="#B" n="68"/>quod assumptio talis cibi non est peccatum. sed ad
+   pro<lb ed="#B" n="69" break="no"/>positum nostrum, quod intrat in os licite: non arguit
+   pec<lb ed="#B" n="70" break="no"/>catum in voluntate nec in ore, sicut erat de
+   comestio<lb ed="#B" n="71" break="no"/>ne apostolorum quos Christus excusat.
+  </p>
+      <p xml:id="jMqv4a-d1e462-d1e1257">
+   ⁋ Sexto 
+   <lb ed="#B" n="72"/>arguitur. corporalis exercitatio ad modicum vtilis est. 
+   <lb ed="#B" n="73"/>pietas ad omnia valet. primae ad Timotheum quarto.  
+  </p>
+      <p xml:id="jMqv4a-d1e462-d1e1264">
+       <lb ed="#B" n="74"/>⁋ Respondetur. superflua subtrahere a corpore vt ipsum  
+   <lb ed="#B" n="75"/>reddatur subiectum rationi: est multum spirituale: non 
+   <lb ed="#B" n="76"/>tamen est corpus penitus eneruandum cum sit
+   instru<lb ed="#B" n="77" break="no"/>mentum bene agendi, non enim est bonus politicus qui 
+   <lb ed="#B" n="78"/>occidit ciuem sine quo non potest viuere. modo
+   ani<lb ed="#B" n="79" break="no"/>ma non potest viuere in hoc statu merendi aut
+   de<lb ed="#B" n="80" break="no"/>merendi sine corpore. Sed cum poeta optandum est vt 
+   <lb ed="#B" n="81"/>sit mens sana in corpore sano.
+  </p>
+      <p xml:id="jMqv4a-d1e462-d1e1284">
+   ⁋ Ecce quomodo  
+   <lb ed="#B" n="82"/>triplex est ieiunium. scilicet ieiunium ecclesiae:
+   ieiu<lb ed="#B" n="83" break="no"/>nium virtus: &amp; ieiunium naturae. &amp; quod ipsum
+   insti<lb ed="#B" n="84" break="no"/>tutum est pro domandis hominum effrenis
+   insulti<lb ed="#B" n="85" break="no"/>bus passionum: cum pisces minus foedas passio 
+   <lb ed="#B" n="86"/>nes nutriant quam carnes, quod argumento patet.
+   alio<lb ed="#B" n="87" break="no"/>quin Carthusienses &amp; Benedictini &amp; multi alii re 
+   <lb ed="#B" n="88"/>ligiosi in regulis non abstinerent ab esu carnium. 
+   <lb ed="#B" n="89"/>Et licet ieiunium ecclesiae vniuersaliter
+   pronuncie<lb ed="#B" n="90" break="no"/>tur: aliquae tamen personae non obligantur ad ipsum 
+   <lb ed="#B" n="91"/>sed aliquos lex naturae: &amp; hominum communis consue 
+   <lb ed="#B" n="92"/>tudo viuendi excipit. Et cum causa est euidens:  
+   <lb ed="#B" n="93"/>dispensatione non opus est. De absolutione autem a 
+   <lb ed="#B" n="94"/>ieiunio in casu ancipiti, petatur facultas a superio 
+   <lb ed="#B" n="95"/>re, episcopo: vel eius locum tenente in hoc:
+   scili<lb ed="#B" n="96" break="no"/>cet poenitentiario si facile haberi potest. sin minus: 
+   <lb ed="#B" n="97"/>habeatur curatus vel alius vir probus vice eius. 
+   <lb ed="#B" n="98"/>Quo ad horam comedendi seruetur consuetudo 
+   <lb ed="#B" n="99"/>hominum cum quibus viuitur: neglecto positiuo 
+   <lb ed="#B" n="100"/>iure scripto de non comedendo ante secundam po 
+   <lb ed="#B" n="101"/>meridianam. Licet autem ius scriptum nullum ieiu 
+   <lb ed="#B" n="102"/>nium de profestis nostrae dominae instituerit demi 
+   <lb ed="#B" n="103"/>pto profesto assumptionis: consuetudo tamen est 
+   <lb ed="#B" n="104"/>apud Britannos &amp; forte apud alios, quodlibet an 
+   <lb ed="#B" n="105"/>tiquum profestum eius ieiunare. &amp; tales obligantur 
+   <lb ed="#B" n="106"/>ex iure non scripto. Quare si velis iudicare de
+   ali<lb ed="#B" n="107" break="no"/>quo ieiunio in aliqua regione, non sufficit tibi
+   vide<lb ed="#B" n="108" break="no"/>re praecepta Romanorum pontificum: sed cum hoc
+   in<lb ed="#B" n="109" break="no"/>quirere oportet consuetudinem loci. leiunium enim eccle 
+   <lb ed="#B" n="110"/>siae est praeceptum solum humanum: quod interpretatur ho 
+   <!--0209.xml-->
+   <pb ed="#B" n="89-r"/>
+       <cb ed="#B" n="a"/>
+       <lb ed="#B" n="1"/>minum consuetudo. Transmutat etiam pontifex 
+   <lb ed="#B" n="2"/>ieiunium vnius diei in alium in quo non est ieiu 
+   <lb ed="#B" n="3"/>nium pro causa: vt profestum Omniu sanctorum apud 
+   <lb ed="#B" n="4"/>sanctum Quintinum, quod in die sancti Quintini 
+   <lb ed="#B" n="5"/>incidit.
+  </p>
+    </div>
+   </body>
+  </text>
+</TEI>

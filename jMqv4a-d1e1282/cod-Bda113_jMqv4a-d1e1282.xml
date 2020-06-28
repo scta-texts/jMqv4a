@@ -1,0 +1,276 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 19</title>
+      <author ref="#JohnMair">John Mair</author>
+      <respStmt>
+       <name>Jeffrey C. Witt</name>
+       <resp>TEI Encoder</resp>
+      </respStmt>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 19</title>
+       <date when="2020-06-09">June 27, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="B" n="cod-Bda113">Badius 1516</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+     guidelines for a diplomatic edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-06-27" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+      <pb ed="#B" n="240-v"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="jMqv4a-d1e1282"> <!-- l4d24q19 -->
+      <head xml:id="jMqv4a-d1e1282-Hd1e104">Quaestio 19</head>
+      <head xml:id="jMqv4a-d1e1282-Hd1e107" type="question-title">An praelatus ecclesiae qui nihil aliud habet nisi patrimonium 
+  crucifixi possit dotare sororem. vel 
+  si forte tentatus a Sathana genuerit filiam in 
+  sacris, vel ante sacerdotium in vero matrimonio: eidem provvidere possit</head>
+      <p xml:id="jMqv4a-d1e1282-d1e110">
+       <lb ed="#B" n="77"/>⁋ Distinctionis Vigesimae quartae 
+   <lb ed="#B" n="78"/>Quaestio Decimanona. 
+   <lb ed="#B" n="79"/>Ecimonono quaeritur 
+   <lb ed="#B" n="80"/>An praelatus ecclesiae qui ni 
+   <lb ed="#B" n="81"/>chil aliud habent nisi
+   patrimo<lb ed="#B" n="82" break="no"/>nium crucifixi possit dota 
+   <lb ed="#B" n="83"/>re sororem. vel si forte ten 
+   <lb ed="#B" n="84"/>ltatus a Sathana genuerit
+   fi<lb ed="#B" n="85" break="no"/>Galiam in sacris: vel ante
+   sacer<lb ed="#B" n="86" break="no"/>eidotium in vero
+   matrimo<lb ed="#B" n="87" break="no"/>nio: eidem prouidere possit.
+  </p>
+      <p xml:id="jMqv4a-d1e1282-d1e136">
+   ⁋ Respondetur per
+   con<lb ed="#B" n="88" break="no"/>clusiones. quarum Prima est. Beneficiatus pot do 
+   <lb ed="#B" n="89"/>tare pauperem alienam: hoc est non consanguineam. 
+   <lb ed="#B" n="90"/>Probatur. potest ei eleemosynam erogare quatenus a 
+   <lb ed="#B" n="91"/>peccato carnis praeseruetur. nam pot dare eleemosy 
+   <lb ed="#B" n="92"/>nam pro vita corporali seruanda: ergo &amp; pro vita 
+   <lb ed="#B" n="93"/>spirituali. In hoc plurimum commendatur aelus bti 
+   <lb ed="#B" n="94"/>Nicolai erga proximum. tritissima est historia, nec 
+   <lb ed="#B" n="95"/>refert quod dedit de proprio patrimonio. ergo cum est 
+   <lb ed="#B" n="96"/>iuuencula cuius castitas exponitur periculo: quae si se 
+   <lb ed="#B" n="97"/>mel frontem perfricuerit: verosimile est quod permanebit 
+   <lb ed="#B" n="98"/>in peccato &amp; quidem foedissimo: nunquid est grande meri 
+   <lb ed="#B" n="99"/>tum dare huic mediocrem dotem vt habeat virum 
+   <lb ed="#B" n="100"/>suae conditioni parem?
+  </p>
+      <p xml:id="jMqv4a-d1e1282-d1e168">
+   ⁋ Secunda conclusio.
+   Cleri<lb ed="#B" n="101" break="no"/>cus de quo est quaestio potest tantum dare consangui 
+   <lb ed="#B" n="102"/>neae in dotem quantum externae. Probatur: quaerem 
+   <lb ed="#B" n="103"/>do ab aduersario quo iure sit postponenda
+   cosan<lb ed="#B" n="104" break="no"/>guinea externae: &amp; dicere non poterit. nam inhu 
+   <lb ed="#B" n="105"/>manissimum esset quod homo propriis consanguineis 
+   <lb ed="#B" n="106"/>&amp; conterraneis neglectis / alienis succurreret. Ad 
+   <lb ed="#B" n="107"/>hoc est sententia illa Platonis: quam Marcus Tullius 
+   <!--0513.xml-->
+   <pb ed="#B" n="241-r"/>
+       <cb ed="#B" n="a"/>
+       <lb ed="#B" n="1"/>primo Officiorum commenorat inquiens. Non solum
+   no<lb ed="#B" n="2" break="no"/>bis nati sumus: sed ortus notri parte patria vendicat 
+   <lb ed="#B" n="3"/>&amp; amici. Hoc expresse habet beatus Ambrosius in 
+   <lb ed="#B" n="4"/>lib. de Officiis, &amp; auctoritas est canonizata. lxxxvi. 
+   <lb ed="#B" n="5"/>distin. in. c. Non satis. Praeterea arguitur ad idem. licet 
+   <lb ed="#B" n="6"/>alere matrem vel sororem ex patrimonio crucifixi:
+   er<lb ed="#B" n="7" break="no"/>go &amp; sororem dotare. cosequentia tenet: quia dotatio 
+   <lb ed="#B" n="8"/>est fauorabilior. Item si possum dare annuatim. x. 
+   <lb ed="#B" n="9"/>scuta pro alenda sorore: quare non possum dare ei se 
+   <lb ed="#B" n="10"/>mel. xxx. pro dote: antecedens habetur ex concilio Ma 
+   <lb ed="#B" n="11"/>guntinensi. de cohabi. cle. &amp; mu. c. i. vbi sic dicitur, 
+   <lb ed="#B" n="12"/>Inhibendum est vt nullus sacerdos foeminas de 
+   <lb ed="#B" n="13"/>quibus suspicio potest esse / retineat: sed neque illas quas 
+   <lb ed="#B" n="14"/>canones concedunt / matrem / amitam / &amp; sororem: quia
+   in<lb ed="#B" n="15" break="no"/>stigante diabolo &amp; in illis scelus perpetratum reperitur: 
+   <lb ed="#B" n="16"/>aut etiam in pedissequis earundem. Sed siqua de his 
+   <lb ed="#B" n="17"/>necessitatem habuerit: presbyteri habeant in vico aui 
+   <lb ed="#B" n="18"/>in villa domum longe a sua conuersatione: &amp; ibi eis 
+   <lb ed="#B" n="19"/>quae sunt necessaria subministrent. vbi glossa in vei 
+   <lb ed="#B" n="20"/>bo (subministrent. Et sic patet quod clerici possunt 
+   <lb ed="#B" n="21"/>sustentare consanguineos pauperes: de quibus capitulum 
+   <lb ed="#B" n="22"/>hoc intelligitur: quibus potius qui extraneis tenentur. 
+  </p>
+      <p xml:id="jMqv4a-d1e1282-d1e240">
+       <lb ed="#B" n="23"/>⁋ Tertia conclusio. Stat clericum sub poena peccati 
+   <lb ed="#B" n="24"/>esse deuinctum dare dotem consanguineae qui non est
+   ob<lb ed="#B" n="25" break="no"/>noxius praebere dotem externae probatur sic. contingit quod 
+   <lb ed="#B" n="26"/>mulier nolit esse religiosa: non enim tenetur: nec reperiis 
+   <lb ed="#B" n="27"/>ilia ratio pro seruanda castitate mulieris qui per
+   matri<lb ed="#B" n="28" break="no"/>monium: nec est aliquis alius volens ei succurrere. 
+   <lb ed="#B" n="29"/>igitur. Confirmatur haec ratio. si nullum beneficium haberei 
+   <lb ed="#B" n="30"/>teneretur opem ferre filiae vel sorori stantibus circumstan 
+   <lb ed="#B" n="31"/>tiis secundum suas vires: immo teneretur arctius
+   viue<lb ed="#B" n="32" break="no"/>re in propria persona / quatenus ei succurrat. ergo cum 
+   <lb ed="#B" n="33"/>portionem beneficii habet in pios vsus dandam: te 
+   <lb ed="#B" n="34"/>netur illam ei applicare: &amp; cu non occurrit externa 
+   <lb ed="#B" n="35"/>in tanta necessitate: saltem ei non constat: nec
+   inda<lb ed="#B" n="36" break="no"/>gare tenetur, vt de consanguinea. immo quod amplius 
+   <lb ed="#B" n="37"/>est, vbi extranea &amp; cognata occurrunt: &amp; est
+   incon<lb ed="#B" n="38" break="no"/>possibile vtrique succurrere: tenetur ( vt opinor) suae 
+   <lb ed="#B" n="39"/>ferre suppetias etiam ex patrimonio crucifixi: de 
+   <lb ed="#B" n="40"/>proprio enim non est dubium. &amp; istud iudico probabi 
+   <lb ed="#B" n="41"/>lius.
+  </p>
+      <p xml:id="jMqv4a-d1e1282-d1e284">
+   ⁋ Quarta conclusio. hoc non obstante ista dos 
+   <lb ed="#B" n="42"/>data est reuera eleemosyna: nec transcendit latitudinem 
+   <lb ed="#B" n="43"/>eleemosynae. an autem dicatur dos obiectum eleemosyni 
+   <lb ed="#B" n="44"/>effectus eleemosynae: an eleemosyna / remitto ad
+   il<lb ed="#B" n="45" break="no"/>la quae dixi superius in sua materia in xv. distin. huius. 
+   <lb ed="#B" n="46"/>Probatio conclusionis. Si transcenderet totam
+   latitudi<lb ed="#B" n="47" break="no"/>nem eleemosynae: hoc esset propterea quia est de 
+   <lb ed="#B" n="48"/>praecepto. sed hoc non obstat. igitur est
+   eleemosy<lb ed="#B" n="49" break="no"/>na. consequentia tenet a tota conditionali
+   virtuali<lb ed="#B" n="50" break="no"/>ter cum destructione consequentis ad destructionem 
+   <lb ed="#B" n="51"/>antecedentis. probatur quod hoc non obstat: quia
+   da<lb ed="#B" n="52" break="no"/>re pauperi in extrema necessitate eleemosynam est 
+   <lb ed="#B" n="53"/>de praecepto: &amp; tamen est eleemosyna. Secundo
+   ar<lb ed="#B" n="54" break="no"/>guitur ad idem, &amp; superius in sua materia
+   allega<lb ed="#B" n="55" break="no"/>uimus, per glossam interlinearem. Matthaei. vi. super 
+   <!--0513.xml-->
+   <cb ed="#B" n="b"/> 
+       <!-- 241-r b -->
+       <lb ed="#B" n="56"/>illud. Cum ergo facis eleemosynam. quae dicit.
+   Elee<lb ed="#B" n="57" break="no"/>mosyna est pars iustitiae 
+  </p>
+      <p xml:id="jMqv4a-d1e1282-d1e328">
+       <lb ed="#B" n="58"/>⁋ Contra secundam &amp; tertiam conclusio 
+   <lb ed="#B" n="59"/>nem arguitur per illud quod scribitur. i. q. iii. in. c. Peruenit. 
+   <lb ed="#B" n="60"/>vbi Grego. vii. multum reprehendit epos dantes bo 
+   <lb ed="#B" n="61"/>na ecclesiae laicis: his verbis. Vel quod grauius est
+   com<lb ed="#B" n="62" break="no"/>sanguineis. pono totum caput. Peruenit ad nos 
+   <lb ed="#B" n="63"/>inquit) fama sinistra quod quidam episcoporum non
+   sa<lb ed="#B" n="64" break="no"/>cerdotibus propriae dioecesis decimas atque
+   christia<lb ed="#B" n="65" break="no"/>norum oblationes conferant: sed potius laicalibus perso 
+   <lb ed="#B" n="66"/>nis / militum videlicet siue seruitorum: vel, quod grauius 
+   <lb ed="#B" n="67"/>est, consanguineis. Vnde si quis amodo episcopus 
+   <lb ed="#B" n="68"/>inuentus fuerit huius diuini praecepti transgressor: 
+   <lb ed="#B" n="69"/>inter maximos haereticos &amp; antichristos / non
+   mini<lb ed="#B" n="70" break="no"/>mus habeatur: sicut Nicena synodus de simonia 
+   <lb ed="#B" n="71"/>cis censuit. &amp; qui dat episcopus: &amp; qui recipiunt ab 
+   <lb ed="#B" n="72"/>eo laici: siue precio / siue beneficio: aeterni incendi 
+   <lb ed="#B" n="73"/>ignibus deputentur.
+  </p>
+      <p xml:id="jMqv4a-d1e1282-d1e365">
+   ⁋ Respondetur. grauius est 
+   <lb ed="#B" n="74"/>dare consanguineis / cosiderata affectione communi 
+   <lb ed="#B" n="75"/>inordinata hominum qui dant plus quam oporteat / &amp; 
+   <lb ed="#B" n="76"/>quidem diuitibus. nam caeci sunt episcopi erga nepotes 
+   <lb ed="#B" n="77"/>&amp; consanguineos: &amp; crebro dando / alios scandalizant. 
+   <lb ed="#B" n="78"/>sed danda est haec dos secrete vel per manum tertiam 
+   <lb ed="#B" n="79"/>ne alii scandalizentur. pondera verba textus / quem 
+   <lb ed="#B" n="80"/>totum ex industria posui, vt videas quantum ponti 
+   <lb ed="#B" n="81"/>fex detestetur ditantes laicos vel consanguineos. 
+  </p>
+      <p xml:id="jMqv4a-d1e1282-d1e385">
+       <lb ed="#B" n="82"/>⁋ Contra tertia conclusionem &amp; proba 
+   <lb ed="#B" n="83"/>tionem eius arguo: quia ex his sequitur quod eleemosynatius 
+   <lb ed="#B" n="84"/>regis teneretur ex pecunia regis potius succurrere
+   pro<lb ed="#B" n="85" break="no"/>priis consanguineis quam extraneo: quod non videtur dicendum. 
+   <lb ed="#B" n="86"/>consequentia probatur: quia idem est quo ad administratio 
+   <lb ed="#B" n="87"/>nem vtriusque. Respondet consequenter concedendo illatum. 
+   <lb ed="#B" n="88"/>nam de pecunia data pro eius seruitio notum est esse com 
+   <lb ed="#B" n="89"/>cedendum. etiam probabile est de alia portione quam
+   te<lb ed="#B" n="90" break="no"/>netur dare in pios vsus: quia illic est praesumpta
+   vo<lb ed="#B" n="91" break="no"/>luntas domini: immo sufficit quod non constet de opposi 
+   <lb ed="#B" n="92"/>ta voluntate domini. &amp; quicquid sit de domino terreno 
+   <lb ed="#B" n="93"/>deus qui est dominus bonorum ecclesiae, dedit
+   no<lb ed="#B" n="94" break="no"/>bis praeceptum naturale vt succurramus nostris: quia ne 
+   <lb ed="#B" n="95"/>mo carnem suam vnquam odio habuit. xiii. quaest. ii. Non  
+   <lb ed="#B" n="96"/>existimemus. Et si dicas. eleemosynarius potius 
+   <lb ed="#B" n="97"/>tenetur dare eleemosynam pauperi consanguineo 
+   <lb ed="#B" n="98"/>domini sui quam proprio: ergo clericus ex bonis
+   eccle<lb ed="#B" n="99" break="no"/>siae tenetur potius dare meliori iuuenculae dotem 
+   <lb ed="#B" n="100"/>quam propriae filiae: quia illa melior magis imitatur 
+   <lb ed="#B" n="101"/>deum in bonitate / &amp; est magis filia eius.
+   Respon<lb ed="#B" n="102" break="no"/>detur concedendo antecedens: sed negando
+   conse<lb ed="#B" n="103" break="no"/>quentiam. vtraque enim est filia dei. nam ipse pascit 
+   <lb ed="#B" n="104"/>pullos coruorum &amp; omnes qui inuocant eum.
+   Secun<lb ed="#B" n="105" break="no"/>do si illa est melior: melius continebit: &amp; non est in 
+   <lb ed="#B" n="106"/>tanto discrimine castitatis perdendae. modo maio 
+   <lb ed="#B" n="107"/>ri periculo citius occurrendum est. &amp; si des vnam 
+   <lb ed="#B" n="108"/>aliam instabiliorem filia sacerdotis, probando quod 
+   <lb ed="#B" n="109"/>ergo potius ei erit danda dos, adhuc non habes pro- 
+   <!--0514.xml-->
+   <pb ed="#B" n="241-v"/>
+       <cb ed="#B" n="a"/>
+       <lb ed="#B" n="1"/>positum: cum dicamus esse praeceptum / succurrere 
+   <lb ed="#B" n="2"/>natris. sed potes tot circumstantias addere: vtpote quod 
+   <lb ed="#B" n="3"/>filia sacerdotis non sit in periculo castitatis perdendae: 
+   <lb ed="#B" n="4"/>&amp; extena sit in magno discrimine: vt fatendum sit 
+   <lb ed="#B" n="5"/>dotem esse dandam externae.
+  </p>
+      <p xml:id="jMqv4a-d1e1282-d1e467">
+   ⁋ Summatim
+   colligen<lb ed="#B" n="6" break="no"/>do dicta, patet beneficiatum posse licite immo esse 
+   <lb ed="#B" n="7"/>deuictum in casu dare dotem cosanguineae vt habeat 
+   <lb ed="#B" n="8"/>virum suae conditioni parem: non autem vt ditetur: quia hoc 
+   <lb ed="#B" n="9"/>esset deo data dicare Baal. quare si vir nobilis
+   cle<lb ed="#B" n="10" break="no"/>ricus habeat filias, non habebit respectum ad
+   nobili<lb ed="#B" n="11" break="no"/>tatem domus suae dando dotem: quia hoc esset ditare fi 
+   <lb ed="#B" n="12"/>liam vel sororem ex bonis pauperum. Et patet alia via 
+   <lb ed="#B" n="13"/>cum mediocri viro ipsa adeo bene seruabit castitatem 
+   <lb ed="#B" n="14"/>immo melius quam inter magnas opes cum opulento 
+   <lb ed="#B" n="15"/>viro. &amp; dos ecclesiae danda est solum in pios vsus 
+   <lb ed="#B" n="16"/>quatenus ipsa praeseruetur a peccato. In super cum mino 
+   <lb ed="#B" n="17"/>re pace manebit mulier iuncta nobili &amp; opulento 
+   <lb ed="#B" n="18"/>viro quam inferiori: quia spernet eam successu temporis. 
+   <lb ed="#B" n="19"/>&amp; si contingat ipsum cum ea habere lites: vocabulum 
+   <lb ed="#B" n="20"/>pate) obliuioni dabit: loco cuius supplementum 
+   <lb ed="#B" n="21"/>capiet per sacerdotem / vocando eam sacerdotis filiam vbi 
+   <lb ed="#B" n="22"/>inferior tacuisset. Praeterea vir nobilis &amp; opulent. 
+   <lb ed="#B" n="23"/>nollet filiam sacerdotis in sacris genitam ducere
+   vxo<lb ed="#B" n="24" break="no"/>rem nisi augeatur dos vltra statu mulieris legitime 
+   <lb ed="#B" n="25"/>natae ex simili stirpe qua ipse: vt reddatur pecunia 
+   <lb ed="#B" n="26"/>aequiualens huic maculae mundanae quod ipsa sacerdo  
+   <lb ed="#B" n="27"/>tis filia appellatur. volo dicere: fugibile est ducere fi 
+   <lb ed="#B" n="28"/>liam sacerdotis: sed dabilis est pecunia ita
+   eligibi<lb ed="#B" n="29" break="no"/>lis, vt illa nota est fugibilis. quia non capiet ea sine 
+   <lb ed="#B" n="30"/>tali pecunia vel maiore quam quae sibi daretur a filia
+   con<lb ed="#B" n="31" break="no"/>similiter nobili &amp; legitime nata. vir autem longe
+   in<lb ed="#B" n="32" break="no"/>ferioris conditionis multo minoris facit illam
+   no<lb ed="#B" n="33" break="no"/>tam. ergo non modo ditanda est filia sacerdotis dan 
+   <lb ed="#B" n="34"/>da nobili viro: sed excessiue ditanda contra cano 
+   <lb ed="#B" n="35"/>nes omnes &amp; aequitatem naturalem. Ex dictis
+   quo<lb ed="#B" n="36" break="no"/>dammodo deduci potest: quod quamuis clericus teneatur fre 
+   <lb ed="#B" n="37"/>quentius dotare consanguineam quam externam: tamen 
+   <lb ed="#B" n="38"/>non potest licite plus dare consanguineae quam externae. 
+   <lb ed="#B" n="39"/>Et hoc iterum sic suadetur, non potest consanguinean 
+   <lb ed="#B" n="40"/>ditare. sed qualibet externa mulier non diues est pauper:s 
+   <lb ed="#B" n="41"/>&amp; omnis pauper est obiectum eleemosynae in hoc quod 
+   <lb ed="#B" n="42"/>est posse ei eleemosynam dare. igitur. 
+  </p>
+    </div>
+   </body>
+  </text>
+</TEI>

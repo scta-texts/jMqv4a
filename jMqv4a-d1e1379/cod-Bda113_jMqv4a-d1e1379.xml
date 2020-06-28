@@ -1,0 +1,348 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 1</title>
+      <author ref="#JohnMair">John Mair</author>
+      <respStmt>
+       <name>Jeffrey C. Witt</name>
+       <resp>TEI Encoder</resp>
+      </respStmt>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 1</title>
+       <date when="2020-06-09">June 27, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="B" n="cod-Bda113">Badius 1516</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+     guidelines for a diplomatic edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-06-27" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+      <pb ed="#B" n="259-r"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="jMqv4a-d1e1379"> <!-- l4d27q1 -->
+      <head xml:id="jMqv4a-d1e1379-Hd1e104">Quaestio 1</head>
+      <head xml:id="jMqv4a-d1e1379-Hd1e107" type="question-title">An requiratur et sufficiat consensus mutuus 
+  per signa praesentialia explicitus ad verum 
+  matrimonium</head>
+      <p xml:id="jMqv4a-d1e1379-d1e110">
+       <lb ed="#B" n="10"/>⁋ Distinctionis Vigesimaeseptimae 
+   <lb ed="#B" n="11"/>Quaestio Prima. 
+   <lb ed="#B" n="12"/>Irca distinctio 
+   <lb ed="#B" n="13"/>nem vigesimansepti 
+   <lb ed="#B" n="14"/>mam quaeritur primo: 
+   <lb ed="#B" n="15"/>An requiratur &amp; 
+   <lb ed="#B" n="16"/>sufficiat consensus 
+   <lb ed="#B" n="17"/>mutuus per signa 
+   <lb ed="#B" n="18"/>praesentialia explici 
+   <lb ed="#B" n="19"/>tus ad verum matri 
+   <lb ed="#B" n="20"/>monium. Responde 
+   <lb ed="#B" n="21"/>turaffirmatiue, non 
+   <lb ed="#B" n="22"/>tamen requiritur consen 
+   <lb ed="#B" n="23"/>sus formalis in ma 
+   <lb ed="#B" n="24"/>trimonium: vel con 
+   <lb ed="#B" n="25"/>sensus formalis in dationem corporum: simplices 
+   <lb ed="#B" n="26"/>enim nesciunt ita discernere: sed requiritur saltem 
+   <lb ed="#B" n="27"/>consensus tacitus inter illos quo velint illum con 
+   <lb ed="#B" n="28"/>tractum inire quo sint coniuges: vel possint licite 
+   <lb ed="#B" n="29"/>reddere debitum: vel aliquid aequiualens. Probatur 
+   <lb ed="#B" n="30"/>conclusio. Aliqua ad matrimonium inter
+   persona<lb ed="#B" n="31" break="no"/>legitimas requiruntur: &amp; nion videtur quid aliud 
+   <lb ed="#B" n="32"/>quam ista recitata: igitur. solus autem consensus non  
+   <lb ed="#B" n="33"/>sufficit. nani potest Petrus in Bertam consentire 
+   <lb ed="#B" n="34"/>&amp; contra: &amp; vterque ignorare de alterius consensu. 
+   <lb ed="#B" n="35"/>si autem tunc esset matrimonium / esset valde incer 
+   <lb ed="#B" n="36"/>tum. Et patet hoc in ca. Tua nos. de spon. Item ma 
+   <lb ed="#B" n="37"/>trimonium est sacramentum ad quod de commui le 
+   <lb ed="#B" n="38"/>ge requiritur signum sensibile. verba tamen sine
+   con<lb ed="#B" n="39" break="no"/>sensu etiam non sufficiunt. Tertio arguitur ad idem. 
+   <lb ed="#B" n="40"/>vir habet dominium sui corporis: sic mulier: &amp; vter 
+   <lb ed="#B" n="41"/>quod pontest transferre partiale dominium in alterum: 
+   <lb ed="#B" n="42"/>si transsatio non sit irritata per legem superioris, quod 
+   <lb ed="#B" n="43"/>excludo per ( legitime). sed haec trassatio non potest fic 
+   <lb ed="#B" n="44"/>ri nisi per signa. igitur. 
+  </p>
+      <p xml:id="jMqv4a-d1e1379-d1e188">
+       <lb ed="#B" n="45"/>⁋ Contra conclusionem arguitur. Non 
+   <lb ed="#B" n="46"/>requiritur explicatio per signum sensibile in casu 
+   <lb ed="#B" n="47"/>inter Petrum &amp; Bertam iam signatos. Nam Petrus 
+   <lb ed="#B" n="48"/>in Bertam consentit: &amp; scit se consentire: hoc etiam 
+   <lb ed="#B" n="49"/>Berta de se ipsa scit: ergo ipsi duo sciunt se
+   consen<lb ed="#B" n="50" break="no"/>tire in se mutuo. Respondetur. licet isti sciant se con 
+   <lb ed="#B" n="51"/>sentire de matrimonio: hoc tamen non sufficit: sed  
+   <lb ed="#B" n="52"/>requiritur quod vterque sciat illud de altero.
+  </p>
+      <p xml:id="jMqv4a-d1e1379-d1e209">
+   ⁋ Secundo 
+   <lb ed="#B" n="53"/>arguituriliter. de regu. iuris. dicitur. Nuptias non con 
+   <!--0549.xml-->
+   <cb ed="#B" n="b"/> 
+       <!-- 259-r b -->
+       <lb ed="#B" n="54"/>cubitus sed consensus facit. ergo solus consensus 
+   <lb ed="#B" n="55"/>sufficit. Respondetur. consensus partialiter facit ma 
+   <lb ed="#B" n="56"/>trimonium: licet partialiter facere sit facere simpli 
+   <lb ed="#B" n="57"/>citer.
+  </p>
+      <p xml:id="jMqv4a-d1e1379-d1e229">
+   ⁋ Tertio arguitur. Matrimonium inter
+   absen<lb ed="#B" n="58" break="no"/>tes crebro contrahitur: vt reges contrahere solent in  
+   <lb ed="#B" n="59"/>magna locorum intercapedine. tunc autem vno con 
+   <lb ed="#B" n="60"/>sentiente altera forte dormit: ergo non requiritur consen 
+   <lb ed="#B" n="61"/>sus mutuus.
+  </p>
+      <p xml:id="jMqv4a-d1e1379-d1e240">
+   ⁋ Respondetur concedendo quod ma 
+   <lb ed="#B" n="62"/>trimonium inter absentes contrahitur si specialiter 
+   <lb ed="#B" n="63"/>mandetur procuratori vt contrahat: &amp; signetur ei 
+   <lb ed="#B" n="64"/>determinata persona cum qua contrahatur si perseue 
+   <lb ed="#B" n="65"/>ret in eadem voluntate. vt habetur de procur. ca. Procu 
+   <lb ed="#B" n="66"/>rator. libro sexto, iuncta glossa. Sed ad formam
+   ar<lb ed="#B" n="67" break="no"/>gumenti dico. quod duplex est consensus. quidam 
+   <lb ed="#B" n="68"/>actualis: &amp; ille ad matrimonium sufficit: sed non re 
+   <lb ed="#B" n="69"/>quiritur. Nam quando vir profert verba de praesen 
+   <lb ed="#B" n="70"/>ti &amp; consentit: potest mulier adhuc non
+   consenti<lb ed="#B" n="71" break="no"/>re. postea muliere verba proferente &amp; haben te
+   con<lb ed="#B" n="72" break="no"/>sensum viri, consensus non est in rerum natura: &amp; 
+   <lb ed="#B" n="73"/>tamen est verum matrimonium. alioquin
+   ratissi<lb ed="#B" n="74" break="no"/>me erit matrimonium si talis vnio consensus requi 
+   <lb ed="#B" n="75"/>ratur. Alius est consensus virtualis / qui debet esse 
+   <lb ed="#B" n="76"/>simul: &amp; ille sufficit. Consensum virtualem voco 
+   <lb ed="#B" n="77"/>quando alter consensit, &amp; postea non dissentit.
+   Vir<lb ed="#B" n="78" break="no"/>tualis etiam cum formali sufficit. hoc sic declaro. 
+   <lb ed="#B" n="79"/>Sortes in Britannia consentit in Bertam in Gallia in  
+   <lb ed="#B" n="80"/>principio lanuarii. Berta vero in Francia consentit 
+   <lb ed="#B" n="81"/>in hunc Sortem primo die Februatii sorte dormien 
+   <lb ed="#B" n="82"/>te: iam consensus virtualis in sorte concurrit cum 
+   <lb ed="#B" n="83"/>consensu actuali Bertae: qui duo consensus ad
+   ma<lb ed="#B" n="84" break="no"/>trimonium sufficiunt. Tertia propositio. possibile 
+   <lb ed="#B" n="85"/>est matrimonium primo esse contractum: &amp; tamen 
+   <lb ed="#B" n="86"/>nullum esse consensum actualem in vno
+   coniuga<lb ed="#B" n="87" break="no"/>torum. Probatur. Sortes in principio lanuatii in  
+   <lb ed="#B" n="88"/>Bertam consensit: &amp; Berta in Sortem ante
+   expli<lb ed="#B" n="89" break="no"/>cationem verborum in principio Februarii quan 
+   <lb ed="#B" n="90"/>do matrimonium contrahitur: non est autem
+   necessa<lb ed="#B" n="91" break="no"/>rium ad matrimonium quod Berta tunc iterato con 
+   <lb ed="#B" n="92"/>sentiat: sed sufficit quod ipsa consenserit, &amp; postea non 
+   <lb ed="#B" n="93"/>dissentiat.
+  </p>
+      <p xml:id="jMqv4a-d1e1379-d1e312">
+   ⁋ Ex istis tribus propositionibus ad
+   ar<lb ed="#B" n="94" break="no"/>gumentum responsiuis infero alias propositiones:
+   qua<lb ed="#B" n="95" break="no"/>rum Prima est. Consensus virtualis nullum actum volun 
+   <lb ed="#B" n="96"/>tatis vel intellectus ponit.
+  </p>
+      <p xml:id="jMqv4a-d1e1379-d1e321">
+   ⁋ Secunda propositio. si 
+   <lb ed="#B" n="97"/>Sortes dissensit tempore intermedio quo oratores 
+   <lb ed="#B" n="98"/>erant in itinere antequam Bertam adirent, &amp; postea
+   con<lb ed="#B" n="99" break="no"/>sensit: consensus virtualis manet sufficiens.
+  </p>
+      <p xml:id="jMqv4a-d1e1379-d1e330">
+   ⁋
+   Ter<lb ed="#B" n="100" break="no"/>tia propositio. si Sortes in Bertam consentiat &amp; hoc 
+   <lb ed="#B" n="101"/>explicet verbo, &amp; Berta dissentiat: sed Berta
+   con<lb ed="#B" n="102" break="no"/>sentiente Sortes dissentiat: non est matrimonium. pa 
+   <lb ed="#B" n="103"/>tet: quia nec est consensus actualis / nec virtualis cum 
+   <lb ed="#B" n="104"/>formali simul: &amp; ille ad matrimonium requiritur.
+   Af<lb ed="#B" n="105" break="no"/>ferri potest exemplum ex secundo Regum de Thamar &amp; 
+   <lb ed="#B" n="106"/>Ammodo.
+  </p>
+      <p xml:id="jMqv4a-d1e1379-d1e349">
+   ⁋ Quarta propositio. Nihil est quod Panor. 
+   <lb ed="#B" n="107"/>in ca. Dilectus. de sponsa. dicit, quod de subtilitate iuris 
+   <lb ed="#B" n="108"/>securior &amp; tutior debet esse cosensus mutuus simul- 
+   <!--0550.xml-->
+   <pb ed="#B" n="259-v"/>
+       <cb ed="#B" n="a"/>
+       <lb ed="#B" n="1"/>quia talis iuris subtilitas omnia matrimonia tam in  
+   <lb ed="#B" n="2"/>ter praesentes quam inter absentes confunderet. Nec valet 
+   <lb ed="#B" n="3"/>dictum Specu. in ti. de sponsa. dicentis quod alterium 
+   <lb ed="#B" n="4"/>responsio debet sequi incontinenti. Ad hoc
+   addu<lb ed="#B" n="5" break="no"/>cit. li. ite. de verbo. obli. Isti de actuali consensu le 
+   <lb ed="#B" n="6"/>quuntur. Et patet quod non: inter absentes &amp; inter pri 
+   <lb ed="#B" n="7"/>sentes. Similiter si Sortes consentiret in Bertam: 
+   <lb ed="#B" n="8"/>&amp; Berta mentiretur proferendo verba / non consentien 
+   <lb ed="#B" n="9"/>do vsque ad finem hebdomadae: adhuc esset matri 
+   <lb ed="#B" n="10"/>monium quando Berta consentiret, nec video opus 
+   <lb ed="#B" n="11"/>esse quod ipsa hoc sorti explicet: quia antea ei suam 
+   <lb ed="#B" n="12"/>mente aperuit / licet dolose. quod sufficit. Ad. l indi 
+   <lb ed="#B" n="13"/>ctam dico quod est consensus virtualis simul: &amp; hoi 
+   <lb ed="#B" n="14"/>sufficit.
+  </p>
+      <p xml:id="jMqv4a-d1e1379-d1e393">
+   ⁋ Quinta propositio. licet Berta e gallia ad 
+   <lb ed="#B" n="15"/>Britanniam rediens contrahat in facie ecclesiae / non fa 
+   <lb ed="#B" n="16"/>cit matrimonium: quia iam illud est contractum: sed 
+   <lb ed="#B" n="17"/>hoc fit ob solennitatem &amp; ad cautelam pro maiori
+   se<lb ed="#B" n="18" break="no"/>curitate.
+  </p>
+      <p xml:id="jMqv4a-d1e1379-d1e404">
+   ⁋ Sexta propositio. Si Sortes mittat lite 
+   <lb ed="#B" n="19"/>ras ad Bertam dicens se consentire in eam de praeser 
+   <lb ed="#B" n="20"/>ti &amp; permansurum in hoc proposito si ipsa
+   con<lb ed="#B" n="21" break="no"/>sentiat: visis literis antequam rescribat / est
+   matrimo<lb ed="#B" n="22" break="no"/>nium: quia est consensus mutuo signo sensibili expli 
+   <lb ed="#B" n="23"/>catus. Sed contra illud arguitur, non sufficit conser 
+   <lb ed="#B" n="24"/>sus mutuus nisi per signum constiterit: quod non fii 
+   <lb ed="#B" n="25"/>inter absentes. Respondetur. est signum sensibile 
+   <lb ed="#B" n="26"/>exterius sufficiens secundum exigentiam materiae. 
+   <lb ed="#B" n="27"/>nam oratores &amp; magni viri possunt de mente illi 
+   <lb ed="#B" n="28"/>facere fidem. &amp; ipsa consentit actualiter &amp; praesentia 
+   <lb ed="#B" n="29"/>liter oratoribus: vel antea consensit: &amp; in illo
+   propo<lb ed="#B" n="30" break="no"/>siio manens postea non dissensit / vel si dissenserit. 
+   <lb ed="#B" n="31"/>sufficit posterior consensus. oportet autem
+   habe<lb ed="#B" n="32" break="no"/>re vltimum: quia consensus superueniens dissensum 
+   <lb ed="#B" n="33"/>reuocat &amp; contra, ante complementum contractus 
+  </p>
+      <p xml:id="jMqv4a-d1e1379-d1e439">
+       <lb ed="#B" n="34"/>⁋ Quarto arguitur. Frat matrimonium inter Iacob 
+   <lb ed="#B" n="35"/>&amp; Liam: &amp; tamen non erat consensus mutuus nec 
+   <lb ed="#B" n="36"/>formalis nec virtualis. ergo conclusio falsa: &amp; solu 
+   <lb ed="#B" n="37"/>tio praecedens nulla. maior patet: quia non
+   pecca<lb ed="#B" n="38" break="no"/>uit Iacob Liam cognoscendo: ergo actum castita 
+   <lb ed="#B" n="39"/>tis coniugalis exercuit. Minor nota est ex Geneseos 
+   <lb ed="#B" n="40"/>xxix. capite.
+  </p>
+      <p xml:id="jMqv4a-d1e1379-d1e457">
+   ⁋ Respondetur negando maiorem. Et 
+   <lb ed="#B" n="41"/>ad probationem conceditur quod Liam cognoscendo 
+   <lb ed="#B" n="42"/>non peccauit Iacob: quia erat ei ignorantia inuinci 
+   <lb ed="#B" n="43"/>bilis: &amp; fecit actum castitatis coniugalis: ad quem non 
+   <lb ed="#B" n="44"/>requiritur coniugium / sed inuincibiliter putata coniunx. 
+   <lb ed="#B" n="45"/>putabat enim fuisse Rachelem. Lia tamen &amp; Laban 
+   <lb ed="#B" n="46"/>peccarunt: licet excusandus esset Laban a tanto:
+   no<lb ed="#B" n="47" break="no"/>lens minorem natu praeter patriae consuetudinem nuptum 
+   <lb ed="#B" n="48"/>tradere: quia hoc fuisset in maioris natu contemptum 
+   <lb ed="#B" n="49"/>&amp; iactura: sicut inter nos videmus. In fine autem 
+   <lb ed="#B" n="50"/>septem dierum conviuii consensit de nouo: &amp; erat verum 
+   <lb ed="#B" n="51"/>matrimonium.
+  </p>
+      <p xml:id="jMqv4a-d1e1379-d1e483">
+   ⁋ Quinto arguitur. dicat Sortes ficte 
+   <lb ed="#B" n="52"/>Bertae in facie ecclesiae. capio te in meam. per facien 
+   <lb ed="#B" n="53"/>ecclesiae hominium multitudinem intelligo. &amp; contra Ber 
+   <lb ed="#B" n="54"/>ta. faciat hoc Sortes gratia libidinis explendae vel 
+   <lb ed="#B" n="55"/>habendarum opum: breuiter non consentiat: consentiat 
+   <!--0550.xml-->
+   <cb ed="#B" n="b"/> 
+       <!-- 259-v b -->
+       <lb ed="#B" n="56"/>tamen Berta. postea contrahat Sortes cum Teberga: 
+   <lb ed="#B" n="57"/>&amp; in eam consentiat. Hoc supposito sic argumentor. 
+   <lb ed="#B" n="58"/>Inter Sortem &amp; Bertam est verum matrimonium: &amp; nec 
+   <lb ed="#B" n="59"/>consensus actualis / nec virtualis: igitur. maior
+   proba<lb ed="#B" n="60" break="no"/>tur: quia compellitur Sortes Bertae adhaerere &amp; ei red 
+   <lb ed="#B" n="61"/>dere debitum: ergo hoc est ei licitum: alioquin
+   ec<lb ed="#B" n="62" break="no"/>clesia illicitum praeciperet, quod est inconueniens. Si 
+   <lb ed="#B" n="63"/>dicas. excusabitur a peccato adhaerendo Bertae ob ec 
+   <lb ed="#B" n="64"/>clesiae praeceptum. Contra. ergo conclusio contra quan 
+   <lb ed="#B" n="65"/>obiicimus est falsa. Item tenebitur veram vxore 
+   <lb ed="#B" n="66"/>scilicet Tebergam dimittere. &amp; sic in lege gratiae 
+   <lb ed="#B" n="67"/>erit diuortium.
+  </p>
+      <p xml:id="jMqv4a-d1e1379-d1e528">
+   ⁋ Respondetur negando maiorems 
+   <lb ed="#B" n="68"/>scilicet quod sit verum matrimonium inter Sortem &amp; Ber 
+   <lb ed="#B" n="69"/>tam. nam si non contraxit cum Teberga / tenetur de 
+   <lb ed="#B" n="70"/>nouo in Bertam consentire: &amp; matrimonium inchoatum 
+   <lb ed="#B" n="71"/>perficere sub poena mortalis peccati. Si vero cin 
+   <lb ed="#B" n="72"/>Teberga contraxerit, cum ea manebit: nec ecclesiae 
+   <lb ed="#B" n="73"/>parebit: quia non potest, ecclesia tamen licite praecipit 
+   <lb ed="#B" n="74"/>ei facere aliquid quod facere esset illicitum: puta
+   re<lb ed="#B" n="75" break="no"/>linquere propriam vxorem. Ecclesia enim potest 
+   <lb ed="#B" n="76"/>falli in tali facto. Et secundum probationes allega 
+   <lb ed="#B" n="77"/>tas bene procedit &amp; iudicat: quia plus est credendum 
+   <lb ed="#B" n="78"/>testi in prima depositione antequi falsum deponai 
+   <lb ed="#B" n="79"/>quam postea. Dicebat iste in facie ecclesiae se in Bertam 
+   <lb ed="#B" n="80"/>consentire: nec constabat adhuc de eius
+   falsitate<lb ed="#B" n="81" break="no"/>quando autem postea dicit se non consensisse:
+   mi<lb ed="#B" n="82" break="no"/>nus debet ei credi iam quam ab initio. iudicat enim eccle 
+   <lb ed="#B" n="83"/>sia quod initio mentiri noluit: &amp; eam cognoscere si non 
+   <lb ed="#B" n="84"/>fuisset ei vxor. Nam si ei crederet postea: daretur oc 
+   <lb ed="#B" n="85"/>casio multis a matrimonio retrocedendi, quod foret 
+   <lb ed="#B" n="86"/>in commodum in politia christiana: cum ipsum ob suam 
+   <lb ed="#B" n="87"/>vtilitatem &amp; honestatem sit omni modo licito conser 
+   <lb ed="#B" n="88"/>uandum &amp; manutenendum. Si autem confiteatur officiali se ex 
+   <lb ed="#B" n="89"/>communicanti: credet ei officialis in occulto: quia in
+   il<lb ed="#B" n="90" break="no"/>lo foro creditur viro tam pro se quam contra se. sed i 
+   <lb ed="#B" n="91"/>foro exteriore eum excommunicabit: suadendo  
+   <lb ed="#B" n="92"/>ei &amp; recte adhaerere primae. sed hoc deus dissuadet. 
+   <lb ed="#B" n="93"/>nam crebro deus &amp; homo difformiter volunt in  
+   <lb ed="#B" n="94"/>volito: &amp; homo licite vult. quia in foro exteriori 
+   <lb ed="#B" n="95"/>oportet secundum allegata &amp; probata
+   conclude<lb ed="#B" n="96" break="no"/>re. scit enim officialis illum mortaliter peccasse &amp; 
+   <lb ed="#B" n="97"/>esse contumacem / ecclesiae non parentem: &amp; per
+   con<lb ed="#B" n="98" break="no"/>sequens excommunicatione dignum. &amp; potest os 
+   <lb ed="#B" n="99"/>ficialis assentiri quod dolose contraxit vel opposito 
+   <lb ed="#B" n="100"/>vel nullum assensum de hoc habere / secundum ra 
+   <lb ed="#B" n="101"/>tiones &amp; apparentias occurrentes. Potest autem
+   Ro<lb ed="#B" n="102" break="no"/>manum pontificem adire ei casum reuelando: qui 
+   <lb ed="#B" n="103"/>eum a sententia excommunicationis absoluet hac 
+   <lb ed="#B" n="104"/>lege, si verum sit quod recitat. si falsum: non inten 
+   <lb ed="#B" n="105"/>dit eum absoluere. Et vbi est cognitus: in occulto 
+   <lb ed="#B" n="106"/>suscipiat sacramenta. vbi est incognitus: potest 
+   <lb ed="#B" n="107"/>capere in publico: quia absolutus est conditioni 
+   <lb ed="#B" n="108"/>liter: &amp; ipse scit quod conditio inexistit. &amp; siue sit 
+   <lb ed="#B" n="109"/>absolutus / siue non: est in statu salutis. Net 
+   <lb ed="#B" n="110"/>mo enim rationis compos in lege Dei est perple 
+   <!--0551.xml-->
+   <pb ed="#B" n="260-r"/>
+       <cb ed="#B" n="a"/>
+       <lb ed="#B" n="1"/>xus, quin ei pateat via salutis: etiam ex quacumque cul 
+   <lb ed="#B" n="2"/>pa praecedente. Sed Berta non potest contrahere
+   ma<lb ed="#B" n="3" break="no"/>trimonium sorte viuente. Ratio est: quia non potest e 
+   <lb ed="#B" n="4"/>constare quin Sortes sit vir suus / licet ipsa sit perso 
+   <lb ed="#B" n="5"/>na habilis, &amp; Plato cum quo contrahit. &amp; reuera est 
+   <lb ed="#B" n="6"/>matrimonium inter eam &amp; Platonem: cum nec ipsa 
+   <lb ed="#B" n="7"/>nec ipse sint personae inhabiles ad mutuo contra 
+   <lb ed="#B" n="8"/>hendum. Sed quidiu putant matrimonium esse into 
+   <lb ed="#B" n="9"/>Sortem &amp; Bertam: illo iudicio stante non possun 
+   <lb ed="#B" n="10"/>sine peccato contrahere. Si tamen constaret sufficiente 
+   <lb ed="#B" n="11"/>Bertae &amp; Platoni non fuisse consensum sortis prim 
+   <lb ed="#B" n="12"/>cum Berta: ipsa Berta posset tunc Platoni cohabitare 
+  </p>
+      <p xml:id="jMqv4a-d1e1379-d1e656">
+       <lb ed="#B" n="13"/>⁋ Eccequoe consensus ad matrimonium requiritur / quai 
+   <lb ed="#B" n="14"/>non sufficit nisi aliquo signo sensibili vel aequalent 
+   <lb ed="#B" n="15"/>explicetur. quis sit consensus actualis: &amp; quis virtualis 
+   <lb ed="#B" n="16"/>quod ficte cotrahens cum aliqua / ante aliud matrimoniim 
+   <lb ed="#B" n="17"/>cotractum debs deponere fictionem: &amp; cum priore contra 
+   <lb ed="#B" n="18"/>here: vel post matrimonium de praesenti ante car 
+   <lb ed="#B" n="19"/>nalem copulam potest religionem profiteri: vt in quaestio 
+   <lb ed="#B" n="20"/>ne sequente dicetur. post matrimonium vero contracti 
+   <lb ed="#B" n="21"/>&amp; consummatum / difficilius est culpam iam quo ad se 
+   <lb ed="#B" n="22"/>quam quo ad illam cui illusit reparare. 
+  </p>
+    </div>
+   </body>
+  </text>
+</TEI>

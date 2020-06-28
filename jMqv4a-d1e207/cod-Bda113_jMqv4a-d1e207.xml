@@ -1,0 +1,613 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 1 An omnis mortalis peccator indigne Eucharistiam assumat</title>
+      <author ref="#JohnMair">John Mair</author>
+      <respStmt>
+       <name>Jeffrey C. Witt</name>
+       <resp>TEI Encoder</resp>
+      </respStmt>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 1 An omnis mortalis peccator indigne Eucharistiam assumat</title>
+       <date when="2020-06-09">June 27, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="B" n="cod-Bda113">Badius 1516</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+     guidelines for a diplomatic edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-06-27" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+      <pb ed="#B" n="39-v"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="jMqv4a-d1e207"> <!-- l4d9q1 -->
+      <head xml:id="jMqv4a-d1e207-Hd1e104">Quaestio 1</head>
+      <head xml:id="jMqv4a-d1e207-Hd1e107">An omnis mortalis peccator indigne Eucharistiam assumat</head>
+      <p xml:id="jMqv4a-d1e207-d1e110">
+   <!--0110.xml-->
+       <pb ed="#B" n="39-v"/>
+       <cb ed="#B" n="a"/>
+       <lb ed="#B" n="1"/>IN hac
+   No<lb ed="#B" n="2" break="no"/>na distinctione ma 
+   <lb ed="#B" n="3"/>gister loquitur de 
+   <lb ed="#B" n="4"/>digne &amp; indigne 
+   <lb ed="#B" n="5"/>Eucharistiam su 
+   <lb ed="#B" n="6"/>mente. Propono 
+   <lb ed="#B" n="7"/>conformiter ad 
+   <lb ed="#B" n="8"/>hoc quatuor
+   in<lb ed="#B" n="9" break="no"/>quirere. Primo. an 
+   <lb ed="#B" n="10"/>omnis mortalis pec 
+   <lb ed="#B" n="11"/>cator indigne Eu 
+   <lb ed="#B" n="12"/>charistiam
+   assu<lb ed="#B" n="13" break="no"/> mat. Et quia sunt 
+   <lb ed="#B" n="14"/>nonnulli non existentes in mortali peccato inepti ad con 
+   <lb ed="#B" n="15"/>municandum ratione immunditiae vel ieiunii fracti 
+   <lb ed="#B" n="16"/>Secundo loquar de pollutione nocturna: an sit pec 
+   <lb ed="#B" n="17"/>catum: &amp; an a communione impediat. Tertio an ad con 
+   <lb ed="#B" n="18"/>municandum requiratur ieiunium naturae. Quarto an 
+   <lb ed="#B" n="19"/>occulto peccatori licite dari possit eucharistia.
+  </p>
+      <p xml:id="jMqv4a-d1e207-d1e160">
+   ⁋ Pro 
+   <lb ed="#B" n="20"/>primi expeditione quaetro. An omis in peccato
+   mor<lb ed="#B" n="21" break="no"/>tali existens Eucharistiam sumens: eam indigne 
+   <lb ed="#B" n="22"/>suscipiat.
+  </p>
+      <p xml:id="jMqv4a-d1e207-d1e170">
+   ⁋ Pro solutione quaestionis aliquas
+   nota<lb ed="#B" n="23" break="no"/>tiunculas praemittam, postea conclusiue &amp; obiectiue ad 
+   <lb ed="#B" n="24"/>quaestionem responsurus. Quadrifariam quis hoc
+   sa<lb ed="#B" n="25" break="no"/>cramentum sumit. Primo modo quis sumit hoc
+   sa<lb ed="#B" n="26" break="no"/>cramentum realiter &amp; non sacramentaliter: vt infide, 
+   <lb ed="#B" n="27"/>lis vel haereticus credens corpus Christi hic non  
+   <lb ed="#B" n="28"/>contineri: realiter sacramentum sumit: sed non vt 
+   <lb ed="#B" n="29"/>sacramentum sed vt panem. Secundo modo quis
+   sa<lb ed="#B" n="30" break="no"/>cramentum hoc sacramentaliter &amp; non
+   spirituali<lb ed="#B" n="31" break="no"/>ter sumit: vt vere assentiens corpus Christi hic con 
+   <lb ed="#B" n="32"/>tineri: sed tamen existens in mortali noxa. Tertio 
+   <lb ed="#B" n="33"/>quis hoc sacramentum sumit sacramentaliter &amp;
+   spi<lb ed="#B" n="34" break="no"/>ritualiter: vt deuotus christianus. Quarto modo 
+   <lb ed="#B" n="35"/>quis sacramentum hoc spiritualiter sumit &amp; non sus 
+   <lb ed="#B" n="36"/>cipit realiter sacramentum. vt fidelis bonus volens 
+   <lb ed="#B" n="37"/>hoc sacramentum sumere: sed non potest ipsum habere 
+   <lb ed="#B" n="38"/>ob defectum Eucharistiae: vel quia vomitum patitur 
+   <lb ed="#B" n="39"/>vt de <name xml:id="jMqv4a-d1e207-Nd1e209" ref="#HughOfStVictor">Hugone de sancto Victore</name> legimus.
+  </p>
+      <p xml:id="jMqv4a-d1e207-d1e213">
+   ⁋
+   Se<lb ed="#B" n="40" break="no"/>cundo notabis quod aliquis sumit hoc sacramentum 
+   <lb ed="#B" n="41"/>digne: vt existens in gratia &amp; deuote sacramentum 
+   <lb ed="#B" n="42"/>suscipiens. Aliquis indigne contrarie. hoc est pec 
+   <lb ed="#B" n="43"/>cat in sumendo sacramento. Tertio modo
+   indi<lb ed="#B" n="44" break="no"/>gne contradictorie: hoc est non sumit digne: vt qui 
+   <lb ed="#B" n="45"/>probabiliter suam conscientiam examinauit &amp; non rea 
+   <lb ed="#B" n="46"/>liter: talis enim est in peccato mortali: &amp; per consequens 
+   <lb ed="#B" n="47"/>digne non sumit. Et sic ad minus indigne
+   contra<lb ed="#B" n="48" break="no"/>dictorie sumit. Sed secundum coniter loquentes is non 
+   <lb ed="#B" n="49"/>sumit indigne contrarie quia non peccat sumendo.  
+   <lb ed="#B" n="50"/>nam dato opposito non videretur esse viaticum: sed est 
+   <lb ed="#B" n="51"/>set grande periculum in ipso sacramento sumendo.  
+   <!--0110.xml-->
+   <cb ed="#B" n="b"/> 
+       <!-- 39-v b -->
+      </p>
+      <p xml:id="jMqv4a-d1e207-d1e248">
+       <lb ed="#B" n="52"/>⁋ His praemissis pono conclusiones ad  
+   <lb ed="#B" n="53"/>quaestionem responsiuas. quarum Prima est. quilibet
+   exi<lb ed="#B" n="54" break="no"/>istens in gratia sacramentum Eucharistiae sumens: 
+   <lb ed="#B" n="55"/>digne &amp; meritorie Eucharistiam sumit.
+  </p>
+      <p xml:id="jMqv4a-d1e207-d1e259">
+   ⁋ Secun 
+   <lb ed="#B" n="56"/>da conclusio probabilis. quilibet in mortali
+   pec<lb ed="#B" n="57" break="no"/>cato existens Eucharistiam sumens: hoc ipso morta 
+   <lb ed="#B" n="58"/>liter peccat.
+  </p>
+      <p xml:id="jMqv4a-d1e207-d1e268">
+   ⁋ Ex hac conclusione secunda sequi 
+   <lb ed="#B" n="59"/>tur vna tertia. Quia nullus sumit Eucharistiam idi 
+   <lb ed="#B" n="60"/>gne contradictorie quin is eam sumat indigne con 
+   <lb ed="#B" n="61"/>trarie: &amp; per consequens distinctio praemissa est nul 
+   <lb ed="#B" n="62"/>la. Illa autem secunda conclusio quae tertiam infert, es 
+   <lb ed="#B" n="63"/>mihi vero similior quam eius opposita, quicquid dicat 
+   <lb ed="#B" n="64"/>communis opinio.
+  </p>
+      <p xml:id="jMqv4a-d1e207-d1e284">
+   ⁋ Probatur prima conclusio. 
+   <lb ed="#B" n="65"/>Aliquis digne &amp; meritorie Eucharistiam sumit: 
+   <lb ed="#B" n="66"/>&amp; nullus eam digne sumeret si is de quo est sermo 
+   <lb ed="#B" n="67"/>eam non digne &amp; meritorie sumeret. igitur. Secun 
+   <lb ed="#B" n="68"/>do arguitur ad idem. quilibet actus deliberatus bonus 
+   <lb ed="#B" n="69"/>in habente gratiam est bonus, &amp; reddit facientem 
+   <lb ed="#B" n="70"/>magis dignum quam prius erat. sed sic est in proposito 
+   <lb ed="#B" n="71"/>igitur.
+  </p>
+      <p xml:id="jMqv4a-d1e207-d1e303">
+   ⁋ Secunda conclusio patet primae ad
+   Corin<lb ed="#B" n="72" break="no"/>thios. xi. vbi dicit Apostolus. Probet autem seipsum 
+   <lb ed="#B" n="73"/>homo &amp; sic de pane illo edat &amp; de calice bibat. Qui 
+   <lb ed="#B" n="74"/>enim manducat &amp; bibit indigne: iudicium sibi
+   man<lb ed="#B" n="75" break="no"/>ducat &amp; bibit, non diiudicans corpus domini. vbi glos 
+   <lb ed="#B" n="76"/>sa interlinearis. hoc est peccatum mortale cui debetur 
+   <lb ed="#B" n="77"/>damnatio. Dicis. hoc intelligitur de eo qui indigne con 
+   <lb ed="#B" n="78"/>trarie sacramentum sumit: hoc est qui se non praeparat 
+   <lb ed="#B" n="79"/>sufficienter secundum veritatem vel probabilitatem ad 
+   <lb ed="#B" n="80"/>sumendam Eucharistiam. Contra hoc sic argumen 
+   <lb ed="#B" n="81"/>tor. capto quocumque: Sorte tamen gratia exempli, 
+   <lb ed="#B" n="82"/>vel Sortes fecit omnem indaginem peccatorum suo 
+   <lb ed="#B" n="83"/>rum ad quam tenetur: &amp; sufficienter detestatus est 
+   <lb ed="#B" n="84"/>illa detestatione ad quam tenetur: vel non fecit 
+   <lb ed="#B" n="85"/>hoc. Inter haec enim duo membra non est dare me 
+   <lb ed="#B" n="86"/>dium: cum contradicant. Si primum: iam non est 
+   <lb ed="#B" n="87"/>amplius in peccato. Si secundum: iam est in mor. 
+   <lb ed="#B" n="88"/>tali peccato: &amp; peccat ex culpa sua tam excellens 
+   <lb ed="#B" n="89"/>sacramentum suscipiendo: &amp; non faciendo illud  
+   <lb ed="#B" n="90"/>ad quod tenetur. Secundo arguitur ad idem. si Sortes 
+   <lb ed="#B" n="91"/>sufficientem praeparationem fecit secundum proba 
+   <lb ed="#B" n="92"/>bilitatem: per te nec meretur: nec demeretur Eucha 
+   <lb ed="#B" n="93"/>ristiam sumendo. sed hoc est falsum: quia vel intelli 
+   <lb ed="#B" n="94"/>gis secundum probabilitatem realem &amp; iudicio sapien 
+   <lb ed="#B" n="95"/>tum: &amp; iam non est in peccato: vel secundum
+   opi<lb ed="#B" n="96" break="no"/>nionem sumentis forte stultam: &amp; hoc eum non excu 
+   <lb ed="#B" n="97"/>sat: quia est ignorantia vincibilis. Quod enim vni est 
+   <lb ed="#B" n="98"/>probabile, alteri non est probabile: &amp; sic peccat
+   su<lb ed="#B" n="99" break="no"/>mendo. Tertio, nemo tenetur maiorem indaginem 
+   <lb ed="#B" n="100"/>facere de peccatis suis &amp; detestationem ante sum 
+   <lb ed="#B" n="101"/>ptionem Eucharistiae, quam si esset statim decessurus 
+   <lb ed="#B" n="102"/>e vita: sed decessuro sufficit probabilis iudicio pru 
+   <lb ed="#B" n="103"/>dentum, peccatorum indago &amp; detestatio
+   propor<lb ed="#B" n="104" break="no"/>tionata. oppositum enim mihi apparet nullum.
+   er<lb ed="#B" n="105" break="no"/>go idem hic sufficit. Propter has paucas &amp; breues 
+   <!--0111.xml-->
+   <pb ed="#B" n="40-r"/>
+       <cb ed="#B" n="a"/>
+       <lb ed="#B" n="1"/>rationes conclusionem praefatam teneo sicut dixi: 
+   <lb ed="#B" n="2"/>quae tertiam infert. 
+  </p>
+      <p xml:id="jMqv4a-d1e207-d1e390">
+       <lb ed="#B" n="3"/>⁋ Contra primam conclusionem arguitur 
+   <lb ed="#B" n="4"/>sic. sumens in mortali Eucharistiam mortaliter
+   pec<lb ed="#B" n="5" break="no"/>cat: ergo eam sumens in veniali venialiter peccat, com 
+   <lb ed="#B" n="6"/>uenienti similitudine: sed consequens est falsum
+   er<lb ed="#B" n="7" break="no"/>go &amp; antecedens.
+  </p>
+      <p xml:id="jMqv4a-d1e207-d1e403">
+   ⁋ Respondetur. consequentia est 
+   <lb ed="#B" n="8"/>nulla. prohibemur enim in mortali Eucharistiam
+   su<lb ed="#B" n="9" break="no"/>mere sub poena peccati, vt in probatione
+   conclusio<lb ed="#B" n="10" break="no"/>nis dictum est. &amp; hoc est rationabile. Nam si pro terreno re 
+   <lb ed="#B" n="11"/>ge recipiendo domum tapetis ornares, multo magis 
+   <lb ed="#B" n="12"/>debes domum conscientiae bene purgare pro aetenmo
+   re<lb ed="#B" n="13" break="no"/>ge excipiendo in hospitium. Non est idem de veniali, a 
+   <lb ed="#B" n="14"/>quo difficillimum est viro se praeseruare, noluit enim 
+   <lb ed="#B" n="15"/>deus nos ad illud obligare sub poena alicuius
+   pec<lb ed="#B" n="16" break="no"/>cati. veniale etiam stat cum gratia. &amp; hoc intelligo de 
+   <lb ed="#B" n="17"/>quocumque veniali commisso: etiam dato quod habeat pro 
+   <lb ed="#B" n="18"/>positum veniale committendi: dummodo sciat ipsum non 
+   <lb ed="#B" n="19"/>transcendere limites venialis noxae. sed est bene
+   impru<lb ed="#B" n="20" break="no"/>dens ille qui actu proponit venialiter peccare dum communicat. 
+  </p>
+      <p xml:id="jMqv4a-d1e207-d1e434">
+       <lb ed="#B" n="21"/>⁋ Secundo arguitur: paruulus ante 
+   <lb ed="#B" n="22"/>vsum rationis Eucharistiam sumens non meretur, nec di 
+   <lb ed="#B" n="23"/>gne eam sumit: &amp; tamen est in gratia baptismali &amp;
+   for<lb ed="#B" n="24" break="no"/>te confirmationis: ergo conclusio falsa. Respondetur. 
+   <lb ed="#B" n="25"/>paruulus non sumit Eucharistiam. Ad Eucharistiam 
+   <lb ed="#B" n="26"/>enim sumendam, in proposito requiritur quod quis velit eam 
+   <lb ed="#B" n="27"/>sumere. bene tamen ei dari potest Eucharistia de facto 
+   <lb ed="#B" n="28"/>&amp; realiter eucharistia: sed tali nihil (opinione mea)  
+   <lb ed="#B" n="29"/>prodest, quia dato opposito, si interdum dat ei gratiam 
+   <lb ed="#B" n="30"/>virtute operis operati: eodem modo quandocumque ei dat 
+   <lb ed="#B" n="31"/>sic eucharistia. &amp; sic paruulus is habebit tatum gratiae 
+   <lb ed="#B" n="32"/>&amp; ex consequenti gloriae quantum adultus optimus, quod 
+   <lb ed="#B" n="33"/>est inconveniens. Vlterius dico quod peccat dans
+   puu<lb ed="#B" n="34" break="no"/>lo eucharistiam. quia dicit apostolus. Probet autem
+   seip<lb ed="#B" n="35" break="no"/>sum homo &amp; sic de pane illo edat &amp; de calice
+   bi<lb ed="#B" n="36" break="no"/>bat. quod paruulo convenire non potest. Et idem est de 
+   <lb ed="#B" n="37"/>amente. si tamen dum ratione vsus est voluit
+   Euchari<lb ed="#B" n="38" break="no"/>stiam sumere: &amp; posset in amentia, instante
+   mor<lb ed="#B" n="39" break="no"/>te honestate quadam vti: posset ei concedi. 
+  </p>
+      <p xml:id="jMqv4a-d1e207-d1e478">
+       <lb ed="#B" n="40"/>⁋ Contra secundam conclusionem arguitur 
+   <lb ed="#B" n="41"/>sic. Sortes peccator tenetur in pascha sacramentum 
+   <lb ed="#B" n="42"/>Eucharistiae sumere. sed nullus peccat faciendo
+   il<lb ed="#B" n="43" break="no"/>lud ad quod tenetur. ergo Sortes in hoc non peccat. 
+   <lb ed="#B" n="44"/>Forte dicis &amp; ita dicedum est. tenetur Eucharistiam
+   su<lb ed="#B" n="45" break="no"/>mere: sed non in statu in quo est: sed se disponere 
+   <lb ed="#B" n="46"/>antequam praeceptum de Eucharistia adimpleat. Contra. 
+   <lb ed="#B" n="47"/>deus obligat ad substantiam actus &amp; non modum:  
+   <lb ed="#B" n="48"/>videlicet quod fiat ex gratia.
+  </p>
+      <p xml:id="jMqv4a-d1e207-d1e500">
+   ⁋ Respondetur. in aliquibus 
+   <lb ed="#B" n="49"/>&amp; hoc est commune) deus obligat solum ad sub 
+   <lb ed="#B" n="50"/>stantiam actus: quem si homo faciat non peccat. 
+   <lb ed="#B" n="51"/>vt ieiunando: dicendo horas: peregrinando: &amp; hu 
+   <lb ed="#B" n="52"/>iusmodi: non tamen per tales actus meretur vitam 
+   <lb ed="#B" n="53"/>aeternam. vtrobique autem in talibus sufficit implere 
+   <!--0111.xml-->
+   <cb ed="#B" n="b"/> 
+       <!-- 40-r b -->
+       <lb ed="#B" n="54"/>praeceptum quo ad substantiam actus, &amp; non quo 
+   <lb ed="#B" n="55"/>ad intentionem praecipientis. Aliqui vero sunt 
+   <lb ed="#B" n="56"/>actus praeceptorum, ad quos homo non solum
+   te<lb ed="#B" n="57" break="no"/>netur quo ad substantiam actus, sed etiam quo ad  
+   <lb ed="#B" n="58"/>modum faciendi, propter actus excellentiam. vt 
+   <lb ed="#B" n="59"/>est sumere Eucharistiam, vel eam consecrare: &amp; alia 
+   <lb ed="#B" n="60"/>sacramenta administrare vel suscipere: licet
+   pec<lb ed="#B" n="61" break="no"/>catum sit inaequale. grauius est enim peccatum in mor 
+   <lb ed="#B" n="62"/>tali Eucharistiam sumere quam aliud sacramentum
+   cae<lb ed="#B" n="63" break="no"/>teris paribus. potest tamen quis scienter in
+   mor<lb ed="#B" n="64" break="no"/>tali vel mortalibus manens sumere aliud sacramen 
+   <lb ed="#B" n="65"/>tum &amp; magis peccare, quam sumendo Eucharistiam 
+   <lb ed="#B" n="66"/>in mortali ignoto post aliqualem indaginem. 
+  </p>
+      <p xml:id="jMqv4a-d1e207-d1e549">
+       <lb ed="#B" n="67"/>⁋ Secundo arguitur. sanin non egent me 
+   <lb ed="#B" n="68"/>dico: sed qui male habent. sed peccator est infirmus. 
+   <lb ed="#B" n="69"/>&amp; male se habet: Eucharistia autem est medicina: 
+   <lb ed="#B" n="70"/>ergo ei non nocet.
+  </p>
+      <p xml:id="jMqv4a-d1e207-d1e560">
+   ⁋ Respondetur. si infirmus
+   ca<lb ed="#B" n="71" break="no"/>piat medicinam principaliter intentam ante
+   eua<lb ed="#B" n="72" break="no"/>cuationem: medicina ei nocet. propterea physicus 
+   <lb ed="#B" n="73"/>cirupos &amp; aliquas dispositiones praeuias patienti 
+   <lb ed="#B" n="74"/>applicat ante medicinam principaliter intentam: 
+   <lb ed="#B" n="75"/>alioquin patientem perimeret. sic est in proposito- 
+  </p>
+      <p xml:id="jMqv4a-d1e207-d1e573">
+       <lb ed="#B" n="76"/>⁋ Tertio arguitur. aliquis potest videre 
+   <lb ed="#B" n="77"/>Eucharistiam in mortali &amp; ea leuare e luto: ergo  
+   <lb ed="#B" n="78"/>&amp; Eucharistiam sumere potest in mortali.
+  </p>
+      <p xml:id="jMqv4a-d1e207-d1e582">
+   ⁋ Respon 
+   <lb ed="#B" n="79"/>detur, non est tanta irreuerentia Eucharistiam vi 
+   <lb ed="#B" n="80"/>dendo quanta eam sumendo. Sicut non requiritur 
+   <lb ed="#B" n="81"/>tanta dispositio domus tuae interior vt rex
+   prae<lb ed="#B" n="82" break="no"/>tereat ostium: quanta requiritur vt eum suscipias 
+   <lb ed="#B" n="83"/>hospitio. Deus etiam ad vnum obligat &amp; non ad  
+   <lb ed="#B" n="84"/>aliud. De tactu autem quando venit casus inopi 
+   <lb ed="#B" n="85"/>natus &amp; subitus: praeceptum est corpus Christi sta 
+   <lb ed="#B" n="86"/>tim leuare: nec datur tempus deliberandi de
+   pec<lb ed="#B" n="87" break="no"/>catis. vbi tamen daretur tempus: deberet sua pec 
+   <lb ed="#B" n="88"/>cata detestari: saltem in generali: &amp; tunc corpus 
+   <lb ed="#B" n="89"/>Christi leuare. &amp; per consequens non est idem de vi 
+   <lb ed="#B" n="90"/>su &amp; tactu corporis Christi (sicut diximus) &amp; gu 
+   <lb ed="#B" n="91"/>stu. Et licet laico vetitum sit corpus Christi tange 
+   <lb ed="#B" n="92"/>re, vt patet de consecra. dist. ii. ca. Peruenit. hoc in  
+   <lb ed="#B" n="93"/>telligitur vbi reperitur sacerdos.
+  </p>
+      <p xml:id="jMqv4a-d1e207-d1e617">
+   ⁋ Sed contra hoc 
+   <lb ed="#B" n="94"/>arguitur. Oaa percussus est quia arcam dei tetigit: 
+   <lb ed="#B" n="95"/>secundi Regum. vi. &amp; Bethsamitae arcam dei vi 
+   <lb ed="#B" n="96"/>dentes. primi Regum. vi. vbi. lxx. populi, &amp; quin 
+   <lb ed="#B" n="97"/>quaginta milia plebis desiderata sunt. in qua ar 
+   <lb ed="#B" n="98"/>ca sola dei prodigia continebantur. ergo existen 
+   <lb ed="#B" n="99"/>tes in peccato mortali Eucharistiam in qua est cor 
+   <lb ed="#B" n="100"/>ius Christi verum videntes vel tangentes peccant 
+   <lb ed="#B" n="101"/>&amp; spiritualiter occiduntur. Respondetur conceden 
+   <lb ed="#B" n="102"/>do assumpta. Nam ipsi peccarunt: &amp; praecepto 
+   <lb ed="#B" n="103"/>dei contrauenerunt. debebant enim Leuitae in hu 
+   <lb ed="#B" n="104"/>meris portare arcam foederis. vt patet Numeri. x. &amp; 
+   <lb ed="#B" n="105"/>hoc Oaa ignorare ne debuit, propterea quia posuit ar 
+   <lb ed="#B" n="106"/>cam in plaustrum boum irronnalium: voluit deus quod arca decli 
+   <!--0112.xml-->
+   <pb ed="#B" n="40-v"/>
+       <cb ed="#B" n="a"/>
+       <lb ed="#B" n="1"/>naret, &amp; Oaa manum apponeret &amp; puniretur, ne arca 
+   <lb ed="#B" n="2"/>domini duceretur a brutis. De Bethsamitis dicitur quod prohi 
+   <lb ed="#B" n="3"/>bebantur videre arcam nudam sub poena mortis. Nume 
+   <lb ed="#B" n="4"/>ri. iiii. nimis diu etiam passi sunt eam stare sub dio sine 
+   <lb ed="#B" n="5"/>uminibus &amp; cultu debito. &amp; propterea septuagita de 
+   <lb ed="#B" n="6"/>populo, hoc est optimates &amp; primores occisi sunt 
+   <lb ed="#B" n="7"/>&amp; quinquaginta milia plebis. Et hoc est quod Lauren 
+   <lb ed="#B" n="8"/>tius Valla dicit. Plebs minutiores: populus maio 
+   <lb ed="#B" n="9"/>res natu significat. Nos autem non habemus
+   prohibitio<lb ed="#B" n="10" break="no"/>nem videndi Eucharistiam vel tangendi in casu quo lo 
+   <lb ed="#B" n="11"/>cuti sumus. propterea non est idem. 
+  </p>
+      <p xml:id="jMqv4a-d1e207-d1e678">
+       <lb ed="#B" n="12"/>⁋ Quarto arguitur. capiatur
+   Euchari<lb ed="#B" n="13" break="no"/>stia &amp; ponatur cum hostiis non consecratis in domo
+   pi<lb ed="#B" n="14" break="no"/>storis: &amp; detur illa cum alia Sorti adulto existenti in mor 
+   <lb ed="#B" n="15"/>tali. hoc supposito sic arguitur. Eucharistiam hanc Sor 
+   <lb ed="#B" n="16"/>tes sumit sine peccato mortali. Dicis, non credit illam 
+   <lb ed="#B" n="17"/>esse Eucharistiam: sed ex ignorantia inuincibili excu 
+   <lb ed="#B" n="18"/>satur. &amp; sic nihil contra conclusionem. Contra hoc arguitur 
+   <lb ed="#B" n="19"/>hanc hostiam ( demonstrando species panis) Sortes in 
+   <lb ed="#B" n="20"/>mortali scienter sumit. haec hostia est Eucharistia:
+   er<lb ed="#B" n="21" break="no"/>go Eucharistiam Sortes scienter in mortali sumit: 
+   <lb ed="#B" n="22"/>&amp; non peccat. igitur. Respondetur concedendo illam
+   con<lb ed="#B" n="23" break="no"/>clusionem. sed hanc nego. Sortes sumit scienter Eu 
+   <lb ed="#B" n="24"/>charistiam in mortali peccato sine nouo peccato 
+   <lb ed="#B" n="25"/>hic enim scientia in (Eucharistiam) cadit. 
+  </p>
+      <p xml:id="jMqv4a-d1e207-d1e712">
+       <lb ed="#B" n="26"/>⁋ Quinto arguitur. sit Sortes in pec 
+   <lb ed="#B" n="27"/>cato mortali tempore sumptionis prioris medieta. 
+   <lb ed="#B" n="28"/>tis Eucharistiae, &amp; sua peccata detestetur in sumptione 
+   <lb ed="#B" n="29"/>secundae medietatis. hoc enim est possibile de lege. vel 
+   <lb ed="#B" n="30"/>econverso sit Sortes in gratia in sumptione primae 
+   <lb ed="#B" n="31"/>medietatis in ore, &amp; in secunda medietate accepta sit 
+   <lb ed="#B" n="32"/>in mortali. Tunc sic. Sortes sumit Eucharistiam in 
+   <lb ed="#B" n="33"/>mortali peccato: &amp; non peccat: quod patet, quia conferi 
+   <lb ed="#B" n="34"/>ei gratia Eucharistiae: &amp; meretur pro tempore illo partia 
+   <lb ed="#B" n="35"/>li quo est in gratia. ergo conclusio nulla.
+  </p>
+      <p xml:id="jMqv4a-d1e207-d1e736">
+   ⁋ Respondetur  
+   <lb ed="#B" n="36"/>hoc argumentum non est contra conclusionem in qua loc 
+   <lb ed="#B" n="37"/>propono de illo qui est in mortali peccato toto tempore 
+   <lb ed="#B" n="38"/>sumptionis Eucharistiae. Si quis autem fuerit in gratia in  
+   <lb ed="#B" n="39"/>aliqua parte temporis quo Eucharistiam sumit in ores 
+   <lb ed="#B" n="40"/>meretur si habeat actu interiorem bonum, &amp; datur ei gratia 
+   <lb ed="#B" n="41"/>virtute operis operati. Et forte hoc non solum verum 
+   <lb ed="#B" n="42"/>est in tempore adaequato quo Eucharistia est in ore, 
+   <lb ed="#B" n="43"/>sed etiam pro toto tempore quo corpus Christi est inisto 
+   <lb ed="#B" n="44"/>macho: &amp; illic manet. Ex hac solutione sequitur qui 
+   <lb ed="#B" n="45"/>aliquis mortaliter peccat Eucharistiam sumendo: &amp; 
+   <lb ed="#B" n="46"/>tamen habet vel habebit gratiam Eucharistiae. patet pro tem 
+   <lb ed="#B" n="47"/>pore inadaequato. si erat in mortali peccato in
+   princi<lb ed="#B" n="48" break="no"/>pio sumptionis, iam peccat. Et preterea per detestatio 
+   <lb ed="#B" n="49"/>nem sufficientem datur ei gratia Eucharistiae: &amp; vt
+   opi<lb ed="#B" n="50" break="no"/>nor ita magna ac si fuisset in gratia toto tempore quo 
+   <lb ed="#B" n="51"/>habuit Eucharistiam. Hic gratiam datam virtute operis 
+   <lb ed="#B" n="52"/>operati, gratiam Eucharistiae voco. Et patet illud. si 
+   <lb ed="#B" n="53"/>duo sumant duas hostias magnam &amp; paruam pigre 
+   <lb ed="#B" n="54"/>&amp; impigre, aequales gratias Eucharistiae habent. etiam da 
+   <!--0112.xml-->
+   <cb ed="#B" n="b"/> 
+       <!-- 40-v b -->
+       <lb ed="#B" n="55"/>to quod deus illas gratias pure successiue det: quima deus 
+   <lb ed="#B" n="56"/>non dat aequaliter arithmetice cum aequalibus
+   parti<lb ed="#B" n="57" break="no"/>bus, sed geometrice. ergo magnitudo temporis gratiae 
+   <lb ed="#B" n="58"/>non facit ad maiorem gratiam Eucharistiae. secus e 
+   <lb ed="#B" n="59"/>de gratia virtute operis operantis. Forte deus dat
+   gra<lb ed="#B" n="60" break="no"/>tiam Eucharistiae ea sumenti quocumque tempore sumptiois 
+   <lb ed="#B" n="61"/>quo est in gratia, siue in principio, medio, vel fine. 
+   <lb ed="#B" n="62"/>tibi enim de opposito constare non potest: &amp; illud est 
+   <lb ed="#B" n="63"/>conforme misericordiae dei: nostra fragilitate ex 
+   <lb ed="#B" n="64"/>parte peccatorum mortalium considerata. ergo est probabi 
+   <lb ed="#B" n="65"/>e, &amp; mihi vero simile. 
+  </p>
+      <p xml:id="jMqv4a-d1e207-d1e810">
+       <lb ed="#B" n="66"/>⁋ Sexto arguitur directe contra
+   con<lb ed="#B" n="67" break="no"/>clusionem in ea parte qua commui opinioni contra 
+   <lb ed="#B" n="68"/>eo. Alii in commui opinione dant medium inter me 
+   <lb ed="#B" n="69"/>reri &amp; demereri in sumenda Eucharistia: quod ego non 
+   <lb ed="#B" n="70"/>pono: ergo viam dei angustam facio, quam alii latam
+   te<lb ed="#B" n="71" break="no"/>nent.
+  </p>
+      <p xml:id="jMqv4a-d1e207-d1e826">
+   ⁋ Respondetur, non minus late immo latius quam ali 
+   <lb ed="#B" n="72"/>loquor. Nam vbi ipsi in via media ponunt hominem 
+   <lb ed="#B" n="73"/>stare in mortali peccato, &amp; non peccare sumendo
+   Eu<lb ed="#B" n="74" break="no"/>charistiam: ego dico talem non peccare si fecit
+   indagi<lb ed="#B" n="75" break="no"/>nem &amp; detestationem ad quam tenetur: nec amplius in  
+   <lb ed="#B" n="76"/>peccato vllo manere. &amp; si decederet sic, saluaretur. Si 
+   <lb ed="#B" n="77"/>non fecit indaginem &amp; detestationem ad quam
+   te<lb ed="#B" n="78" break="no"/>netur: manet in peccato, &amp; mortaliter peccat sumen 
+   <lb ed="#B" n="79"/>do scienter Eucharistiam. 
+  </p>
+      <p xml:id="jMqv4a-d1e207-d1e846">
+       <lb ed="#B" n="80"/>⁋ Septimo arguitur. ex insto modo con 
+   <lb ed="#B" n="81"/>clusionis quam pono nemo potest scire an digne Eu 
+   <lb ed="#B" n="82"/>charistiam sumat: quod est inconveniens. patet. quia nemo 
+   <lb ed="#B" n="83"/>scit an amore vel odio dignus sit. Et vlterius
+   sequi<lb ed="#B" n="84" break="no"/>tur quod cum exponat se periculo peccati mortalis: 
+   <lb ed="#B" n="85"/>mortaliter peccet.
+  </p>
+      <p xml:id="jMqv4a-d1e207-d1e862">
+   ⁋ Respondetur. illud argumentum 
+   <lb ed="#B" n="86"/>non est speciale contra conclusionem meam: sed est mihi 
+   <lb ed="#B" n="87"/>&amp; aliis commune. sed quia ad pauca aspiciens prima 
+   <lb ed="#B" n="88"/>fronte oppositum crederet: hoc sic ostendo. notu est 
+   <lb ed="#B" n="89"/>sicut doctor Seraphicus dicit tenendo opinionem 
+   <lb ed="#B" n="90"/>communem: quod si non probabiliter fecit quod debuit: pec 
+   <lb ed="#B" n="91"/>cat sumendo Eucharistiam: etsi fecit probabiliter quod 
+   <lb ed="#B" n="92"/>debuit, non peccat. sed eum latebit quando probabiliter
+   fe<lb ed="#B" n="93" break="no"/>cit indaginem: quando vero non: ergo solutio erit
+   commu<lb ed="#B" n="94" break="no"/>nis aliis &amp; mihi. Et in primis dico argumentum esse 
+   <lb ed="#B" n="95"/>difficile vt ei satisfiat propter difficultatem
+   cogno<lb ed="#B" n="96" break="no"/>cendi quando sumus in peccato mortali, quando vero non. 
+  </p>
+      <p xml:id="jMqv4a-d1e207-d1e889">
+       <lb ed="#B" n="97"/>⁋ Circa hoc tamen aliqua dicam: sapientum
+   pau<lb ed="#B" n="98" break="no"/>ca dicta recitans. <name xml:id="jMqv4a-d1e207-Nd1e895" ref="#JeanGerson">Ioannes Gerson</name> in fine opuscu 
+   <lb ed="#B" n="99"/>li sui quod inscribitur, opus tripartitum / ponit triplicem 
+   <lb ed="#B" n="100"/>veritatem, quam si quis habeat: &amp; sic decedat / etiam sine 
+   <lb ed="#B" n="101"/>confessione, saluabitur: licet in purgatorio sit
+   pu<lb ed="#B" n="102" break="no"/>niendus. Et illae veritates nihil aliquod volunt in effectu 
+   <lb ed="#B" n="103"/>nisi hoc quod homo doleat de praeteritis, proponendo 
+   <lb ed="#B" n="104"/>se velle cauere a futuris, &amp; confiteri pro loco &amp; tpore. 
+   <lb ed="#B" n="105"/>Sed istud non sufficit, quod sic declaro. Contingit
+   ho<lb ed="#B" n="106" break="no"/>minem cum his propositis esse in vno mortali vel plu 
+   <lb ed="#B" n="107"/>ribus, quod patet sic, contingit virum etiam eruditum ha 
+   <lb ed="#B" n="108"/>bere plura beneficia quam debeat: sic scilicet vt sit in pec 
+   <!--0113.xml-->
+   <pb ed="#B" n="41-r"/>
+       <cb ed="#B" n="a"/>
+       <lb ed="#B" n="1"/>cato mortali continuo: ratione detentionis tantorum 
+   <lb ed="#B" n="2"/>vel vnius. ergo est indignus. Item contingit
+   religio<lb ed="#B" n="3" break="no"/>sum etiam eruditum: non autem sapientem, esse in mortali 
+   <lb ed="#B" n="4"/>peccato continuo: ratione professionis suae quam non 
+   <lb ed="#B" n="5"/>seruat: assentitur tamen erronee quod sit in statu salutis &amp; 
+   <lb ed="#B" n="6"/>bene viuat. &amp; sic de quibusdam aliis hominum gene 
+   <lb ed="#B" n="7"/>ribus. Tunc vterque istorum potest habere tres veritates 
+   <lb ed="#B" n="8"/>de quibus loquitur, &amp; esse in peccato mortali. Bea 
+   <lb ed="#B" n="9"/>tus Thomas autem ex beato Bernardo quatuor in 
+   <lb ed="#B" n="10"/>troducit per quae homo potest cognoscere an sit in 
+   <lb ed="#B" n="11"/>gratia. Primum est, quando verbum dei libenter audit 
+   <lb ed="#B" n="12"/>Qui enim ex deo est verba dei audit. loan. viii. 
+   <lb ed="#B" n="13"/>Secundum, dum quis se proptum inuenit ad bene opi 
+   <lb ed="#B" n="14"/>randum. nam secundum Gregorium probatio dilectionis est 
+   <lb ed="#B" n="15"/>exhibitio operis. Tertium est dolere de praeteritis pec 
+   <lb ed="#B" n="16"/>catis. Quartum proponere cauere in posterum. Sed ir 
+   <lb ed="#B" n="17"/>bene habituato omnia ista stant cum mortali
+   pec<lb ed="#B" n="18" break="no"/>cato. Vides igitur quam difficile sit scire: an simus in 
+   <lb ed="#B" n="19"/>gratia: an in mortali peccato. Vnde hic dico. Ali 
+   <lb ed="#B" n="20"/>quis potest bene scire certitudine morali se esse in 
+   <lb ed="#B" n="21"/>gratia. patet. potest scire a sapientibus quod modus 
+   <lb ed="#B" n="22"/>viuendi in religione in hac domo sit bonus: vt in 
+   <lb ed="#B" n="23"/>Carthusia, Caelestinis, vel aliis reformatis: quod
+   ser<lb ed="#B" n="24" break="no"/>uat professionem suam more sociorum in domo sua 
+   <lb ed="#B" n="25"/>Et si interdum delinquat vel deum offendat contra 
+   <lb ed="#B" n="26"/>eius praecepta: potest laborare ad hoc cognoscendum 
+   <lb ed="#B" n="27"/>&amp; si non omnia peccata occurrant, est ei ignorantia inuin 
+   <lb ed="#B" n="28"/>cibilis. Sic potest saecularis suis contentus: sciens quod ne 
+   <lb ed="#B" n="29"/>habet alienum: quod facile scire potest: vel si habeat /
+   pa<lb ed="#B" n="30" break="no"/>ratus est restituere. Similiter ecclesiasticus solum
+   ha<lb ed="#B" n="31" break="no"/>bens vnum beneficium quo est dignus: potest bona 
+   <lb ed="#B" n="32"/>certitudine morali cognoscere se non esse in
+   mor<lb ed="#B" n="33" break="no"/>tali. Alii sunt quibus est difficilius cognoscere an 
+   <lb ed="#B" n="34"/>digne sumant: sicut dedi exemplum de piurali in be 
+   <lb ed="#B" n="35"/>neficiis: qui cum sapientibus non consultat, an licite haec 
+   <lb ed="#B" n="36"/>habeat. &amp; sic de viuente in hac domo circa religio 
+   <lb ed="#B" n="37"/>nem, dicendum est: simiter de iis quide terris ablatis restitu 
+   <lb ed="#B" n="38"/>tionem negligunt: vt inter reges plerumque via facti ie 
+   <lb ed="#B" n="39"/>ensem sine vero titulo fit: vel inter causidicos: &amp; 
+   <lb ed="#B" n="40"/>alia hominum genera. vna enim regula dari non
+   po<lb ed="#B" n="41" break="no"/>test. Primi istorum habent certitudinem
+   sufficientissi<lb ed="#B" n="42" break="no"/>mam, dummodo confidant in domino: &amp; doleant de praeter 
+   <lb ed="#B" n="43"/>itis habendo propositum abstinendi in posterum: quod 
+   <lb ed="#B" n="44"/>non sint in mortali, sine fastu more Pharisaei: quin 
+   <lb ed="#B" n="45"/>omnia ascribunt deo: &amp; reputant se stercus &amp; cinerem 
+   <lb ed="#B" n="46"/>quantum est ex se. secundu illud Iob. ix. Etiam si
+   sim<lb ed="#B" n="47" break="no"/>plex fuero, hoc ipsum ignorabit anima mea. Ali 
+   <lb ed="#B" n="48"/>omnes quotquot sunt: iudicent se esse sine mortali si 
+   <lb ed="#B" n="49"/>ue vere siue false, ne contraeant propriis conscientiis 
+   <lb ed="#B" n="50"/>&amp; hoc si constituerint communicare. Pro omnibus autem 
+   <lb ed="#B" n="51"/>haec regula ponitur: consultet homo de suo statu
+   vi<lb ed="#B" n="52" break="no"/>uendi: &amp; post indaginem peccatorum &amp; detestationem 
+   <lb ed="#B" n="53"/>eorundem (quam sufficientem credit) assentiat quod non si 
+   <lb ed="#B" n="54"/>amplius in mortali peccato: reliquam partem deo
+   re<lb ed="#B" n="55" break="no"/>linquens.
+  </p>
+      <p xml:id="jMqv4a-d1e207-d1e1046">
+   ⁋ Hoc praemisso ad formam argumenti 
+   <!--0113.xml-->
+   <cb ed="#B" n="b"/> 
+       <!-- 41-r b -->
+       <lb ed="#B" n="56"/>respondeo, negando quod quilibet exponat se peri 
+   <lb ed="#B" n="57"/>culo peccati sumendo Eucharistiam. Aliquis enim 
+   <lb ed="#B" n="58"/>rationabilissime iudicat quod non est in mortali
+   pec<lb ed="#B" n="59" break="no"/>cato. &amp; talis non exponit se periculo peccati: plus 
+   <lb ed="#B" n="60"/>quam Sortes transiens in nauicuia vltra Sequanam tempo 
+   <lb ed="#B" n="61"/>re tranquillo. Aliquis autem cum maiore discrimine 
+   <lb ed="#B" n="62"/>censet se non esse in mortali: sed non peccat: &amp; quamquam 
+   <lb ed="#B" n="63"/>maiori discrimini exponitur: non tamen tali quo ipsum  
+   <lb ed="#B" n="64"/>sufficiat probare mortaliter delinquere. patet in si 
+   <lb ed="#B" n="65"/>mili de nauigante per mare inter Scotiam &amp; Depam 
+   <lb ed="#B" n="66"/>tempore tramquillo &amp; pace habita cum omnibus vicinis. 
+   <lb ed="#B" n="67"/>aliquid enim est periculi illic quod ratissime solet eue 
+   <lb ed="#B" n="68"/>nire. est tamen maius quam primum. Tertii sunt adhuc in  
+   <lb ed="#B" n="69"/>maiore periculo, &amp; tamen non oportet quod mortaliter pec 
+   <lb ed="#B" n="70"/>cent: quia adhuc non est periculum sufficiens ad peccum 
+   <lb ed="#B" n="71"/>dum mortaliter ratione expositionis in periculum. 
+   <lb ed="#B" n="72"/>Quarti sunt iudicantes se esse sine peccato morta 
+   <lb ed="#B" n="73"/>li: qui in generali detestantur omnia peccata sua: &amp; propo 
+   <lb ed="#B" n="74"/>nunt cauere in posterum: sed quia ex ignorantia
+   vinci<lb ed="#B" n="75" break="no"/>bili &amp; sua culpa omittunt consulere sapientes
+   neu<lb ed="#B" n="76" break="no"/>tros de aliquibus se concenentibus: an sint peccata: 
+   <lb ed="#B" n="77"/>nec ne: vt de relinquendis beneficiis superfluis: de 
+   <lb ed="#B" n="78"/>seruandis votis emissis: de restituendo alieno: quam
+   in<lb ed="#B" n="79" break="no"/>uenirent se non posse tenere cum salute animae: isti
+   si<lb ed="#B" n="80" break="no"/>ne illa indagine praeuia quam facere tenentur Eucha 
+   <lb ed="#B" n="81"/>ristiam sumentes, peccant mortaliter, &amp; periculo
+   con<lb ed="#B" n="82" break="no"/>mittendi peccati se exponunt ex sua culpa: sicut 
+   <lb ed="#B" n="83"/>de nauigante in periculoso mari in tenebris sine 
+   <lb ed="#B" n="84"/>perito nauarcho contingit. 
+  </p>
+      <p xml:id="jMqv4a-d1e207-d1e1118">
+       <lb ed="#B" n="85"/>⁋ Octauo arguitur. ponendo quod pres 
+   <lb ed="#B" n="86"/>byter sit celebrans missam, &amp; inter celebrandum
+   oc<lb ed="#B" n="87" break="no"/>currat ei memoria peccati mortalis a se perpetra 
+   <lb ed="#B" n="88"/>ti &amp; nondum confessi: ille celebrans consequenter no
+   pec<lb ed="#B" n="89" break="no"/>cat vlterius: quicquid sit de initio: de quo ad argu 
+   <lb ed="#B" n="90"/>mentum nihil refert. &amp; tamen est in peccato mortali. igi 
+   <lb ed="#B" n="91"/>tur conclusio falsa. Sed forte dicis &amp; bene. debet 
+   <lb ed="#B" n="92"/>detestari peccatum occurrens: proponens ipsum confiteri 
+   <lb ed="#B" n="93"/>pro loco &amp; tempore. Sed contra. ponatur ei in mentem 
+   <lb ed="#B" n="94"/>occurrere quod non dixit matutinas, vel quod est
+   excom<lb ed="#B" n="95" break="no"/>municatus, interdictus, suspensus, vel huiusmodi. 
+  </p>
+      <p xml:id="jMqv4a-d1e207-d1e1144">
+       <lb ed="#B" n="96"/>⁋ Respondetur. ille debet consequenter celebrare: quia 
+   <lb ed="#B" n="97"/>non celebrare est prohibitum solum iure humano:
+   relin<lb ed="#B" n="98" break="no"/>quere vero celebrationem est scandalum insolitum, &amp; 
+   <lb ed="#B" n="99"/>de iure diuino fugiendum. Debet ergo ab illo
+   caue<lb ed="#B" n="100" break="no"/>re: iudicando praeceptum humanum in illo casu non obl 
+   <lb ed="#B" n="101"/>gare, nec debet fingere se aegrotum. Ex isto autem non 
+   <lb ed="#B" n="102"/>habes quod existens in mortali peccato non peccat co 
+   <lb ed="#B" n="103"/>lebrando: quia cum peccatum detestatur non est in pec 
+   <lb ed="#B" n="104"/>cato: nec requiritur quod confiteatur in medio missae: 
+   <lb ed="#B" n="105"/>quia contingit in casu ratione scandali euitandi
+   ce<lb ed="#B" n="106" break="no"/>lebrare missam sine confessione a principio missae. 
+   <lb ed="#B" n="107"/>ergo multo magis continuare celebrationem.
+  </p>
+      <p xml:id="jMqv4a-d1e207-d1e1173">
+   ⁋ Ha 
+   <lb ed="#B" n="108"/>ctenus quomodo quilibet hoc sacramentum
+   sumen<lb ed="#B" n="109" break="no"/>vel mortaliter peccat nouo peccato, vel meretur: &amp; 
+   <!--0114.xml-->
+   <pb ed="#B" n="41-v"/>
+       <cb ed="#B" n="a"/>
+       <lb ed="#B" n="1"/>per consequens digne sacramentum sumit, vel indi 
+   <lb ed="#B" n="2"/>gne contrarie. Vlterius patuit quod aliquis peccator 
+   <lb ed="#B" n="3"/>potest corpus Christi videre: &amp; ipsum in casu tange 
+   <lb ed="#B" n="4"/>re: quomodo poterat peccator ipsum tangere in vita 
+   <lb ed="#B" n="5"/>torporali: quia tunc venit tamquam medicus curatiuus 
+   <lb ed="#B" n="6"/>morbi spiritualis. secus est modo in corpore glo 
+   <lb ed="#B" n="7"/>rificato in Eucharistia: quia nemo hunc cibum spiri 
+   <lb ed="#B" n="8"/>tuanlem digne sumere potest nisi viuat vita spiritu 
+   <lb ed="#B" n="9"/>ali per gratiam. Amplius diximus quod multa hominum 
+   <lb ed="#B" n="10"/>genera suscipiunt Eucharistiam digne: nec vllo
+   dis<lb ed="#B" n="11" break="no"/>crimini peccati se exponunt. sed aliqui eorum cum 
+   <lb ed="#B" n="12"/>maiore certitudine morali suscipiunt quam alii. tamen omnes 
+   <lb ed="#B" n="13"/>illi sufficientem certitudinem habent ad hoc vt non  
+   <lb ed="#B" n="14"/>peccent mortaliter. Alii autem iudicant se sumere
+   di<lb ed="#B" n="15" break="no"/>gne: &amp; tamen indigne suscipiunt: quia non fecerunt cum sa 
+   <lb ed="#B" n="16"/>pientibus neutris indaginem circa multa periculosa 
+   <lb ed="#B" n="17"/>suum statum concernentia: secundum illud apostoli. Nihil 
+   <lb ed="#B" n="18"/>mihi conseius sum: sed in hoc iustificatus non sum. 
+   <lb ed="#B" n="19"/>Aliquis etiam potest erronee iudicare se esse in mor 
+   <lb ed="#B" n="20"/>tali &amp; non esse: talis autem communicare non debet.
+  </p>
+    </div>
+   </body>
+  </text>
+</TEI>

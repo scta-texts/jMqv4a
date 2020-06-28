@@ -1,0 +1,279 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 18</title>
+      <author ref="#JohnMair">John Mair</author>
+      <respStmt>
+       <name>Jeffrey C. Witt</name>
+       <resp>TEI Encoder</resp>
+      </respStmt>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 18</title>
+       <date when="2020-06-09">June 27, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="B" n="cod-Bda113">Badius 1516</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+     guidelines for a diplomatic edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-06-27" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+      <pb ed="#B" n="376-r"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="jMqv4a-d1e2014"> <!-- l4d49q18 -->
+      <head xml:id="jMqv4a-d1e2014-Hd1e104">Quaestio 18</head>
+      <head xml:id="jMqv4a-d1e2014-Hd1e107" type="question-title">Unde proveniat agilitas in beatis et an possint 
+  in instanti se movere vel mutare quovis locorum</head>
+      <p xml:id="jMqv4a-d1e2014-d1e110">
+   <!--0783.xml-->
+       <pb ed="#B" n="376-r"/>
+       <cb ed="#B" n="a"/>
+       <lb ed="#B" n="1"/>⁋ Distinctio. Quadragesimae nonae 
+   <lb ed="#B" n="2"/>Quaestio Decimaoctaua. 
+   <lb ed="#B" n="3"/>x Ecimooctauo in hac 
+   <lb ed="#B" n="4"/>amdistinctione, &amp; secundo de 
+   <lb ed="#B" n="5"/>dotibus quaeritur de dote agi 
+   <lb ed="#B" n="6"/>litatis, vnde proueniat haec 
+   <lb ed="#B" n="7"/>agilitas in beatis. &amp; an
+   pos<lb ed="#B" n="8" break="no"/>gAsint in instanti se mouere vel 
+   <lb ed="#B" n="9"/>uamutare quouis locorum. 
+   <lb ed="#B" n="10"/>ur
+  </p>
+      <p xml:id="jMqv4a-d1e2014-d1e141">
+   ⁋ Pro solutione quaestionis 
+   <lb ed="#B" n="11"/>pono conclusiones: quarum Prima est. Anima
+   sepa<lb ed="#B" n="12" break="no"/>rata potest se quocumque mutare. probatur. nam anima 
+   <lb ed="#B" n="13"/>mouet corpus quod informat / ad cuius motum mo 
+   <lb ed="#B" n="14"/>uetur anima: ergo anima potest sese mouere loca 
+   <lb ed="#B" n="15"/>liter. patet consequentia: quia si ipsa potest se
+   moue<lb ed="#B" n="16" break="no"/>re cum alio: potest seipsam mouere.
+  </p>
+      <p xml:id="jMqv4a-d1e2014-d1e158">
+   ⁋ Secunda con 
+   <lb ed="#B" n="17"/>clusio. Anima potest seipsam in instanti / quolibet 
+   <lb ed="#B" n="18"/>mutare. probatur sic. Agens naturale nullam
+   ha<lb ed="#B" n="19" break="no"/>bens resistentiam intrinsecam vel extrinsecam
+   po<lb ed="#B" n="20" break="no"/>test subito se mutare. vt patet de graui simplici 
+   <lb ed="#B" n="21"/>moto in vacuo. iiii. Physico. alioquin dari posset 
+   <lb ed="#B" n="22"/>corpus ita cito motum in pleno, vt illud idem vel 
+   <lb ed="#B" n="23"/>simile in vacuo / per media rariora procedendo: quod 
+   <lb ed="#B" n="24"/>est impossibile. sed agens liberum nullam resistentiam 
+   <lb ed="#B" n="25"/>habens potest sic se mutare si voluerit. Quia nulla 
+   <lb ed="#B" n="26"/>sit resistentia extrinseca animae pates. nam potest 
+   <lb ed="#B" n="27"/>esse cum corpore sicut in vacuo: vt cum corpore quod 
+   <lb ed="#B" n="28"/>informat. Nec vlla est resistentia intrinseca. quia 
+   <lb ed="#B" n="29"/>si sic, maxime esset eius finitas, prout aliquibus pla 
+   <lb ed="#B" n="30"/>cet. sed hoc non: quia anima potest actum elicere in 
+   <lb ed="#B" n="31"/>instanti etiam secundum eos, quuis sit creatura finita. 
+   <lb ed="#B" n="32"/>ergo mutationem subitam producere potest. &amp; cum 
+   <lb ed="#B" n="33"/>nulla differentia positionis sit ei aduersa: potest se 
+   <lb ed="#B" n="34"/>quolibet mutare.
+  </p>
+      <p xml:id="jMqv4a-d1e2014-d1e200">
+   ⁋ Tertia conclusio. Beatus siue 
+   <lb ed="#B" n="35"/>anima beati potest se vel corpus beati mutare in 
+   <lb ed="#B" n="36"/>instanti in quancumque differentiam positionis.
+   Pro<lb ed="#B" n="37" break="no"/>batur. nam dos agilitatis terrestreitatem corporis 
+   <lb ed="#B" n="38"/>a beato tollit: ita vt ipsum non resistat motui animae. 
+   <lb ed="#B" n="39"/>sed anima ex praecedente conclusione potest
+   seip<lb ed="#B" n="40" break="no"/>sam mutare in instanti: &amp; non habet obicem ex 
+   <lb ed="#B" n="41"/>parte corporis. igitur. Item ostenditur per illud
+   Sa<lb ed="#B" n="42" break="no"/>bientiae. iii. Fulgebunt iusti, &amp; tanquam scintillae in arum 
+   <lb ed="#B" n="43"/>dineto discurret. &amp; Esaiae. xl. dicitur. Qui sperant 
+   <lb ed="#B" n="44"/>in domino mutabunt fortitudinem: assument pennas
+   si<lb ed="#B" n="45" break="no"/>cut aquilae: current &amp; non laborabunt: ambulabunt &amp; 
+   <lb ed="#B" n="46"/>non deficient. Vlterius hoc probatur auctoritate beati 
+   <lb ed="#B" n="47"/>Augustini. xxii. de ciuitate dei. capi. xxx. dicentis 
+   <lb ed="#B" n="48"/>vbi volet spiritus / ibi erit protinus corpus. 
+  </p>
+      <p xml:id="jMqv4a-d1e2014-d1e233">
+       <lb ed="#B" n="49"/>⁋ Contra primam conclusionem
+   ar<lb ed="#B" n="50" break="no"/>gumentor. Angelus portauit animam Lazari ad
+   si<lb ed="#B" n="51" break="no"/>num Abrahae. Lucae. xvi. ergo eodem modo ad cae 
+   <lb ed="#B" n="52"/>lum. Respondetur. Angelus gratia curialis societatis 
+   <lb ed="#B" n="53"/>ccomitatur animam. &amp; sic quodam modo dicitur 
+   <!--0783.xml-->
+   <cb ed="#B" n="b"/> 
+       <!-- 376-r b -->
+       <lb ed="#B" n="54"/>portare, &amp; non quasi opus sit latione angelica. 
+  </p>
+      <p xml:id="jMqv4a-d1e2014-d1e255">
+       <lb ed="#B" n="55"/>⁋ Contra duas vltimas connclusio, 
+   <lb ed="#B" n="56"/>nes arguitur sic. Ex eis sequitur quod Linus potest se 
+   <lb ed="#B" n="57"/>mutare prope caelum in instanti: &amp; facere circulum 
+   <lb ed="#B" n="58"/>in eo. &amp; sic in eodem instanti erit in oriente &amp; occi 
+   <lb ed="#B" n="59"/>dente: &amp; in pluribus locis naturaliter. Insuper, vel
+   il<lb ed="#B" n="60" break="no"/>la mutatio incipit per vltimum instans non esse: sicut 
+   <lb ed="#B" n="61"/>tontingit de motu proprie dicto. &amp; sic non datur
+   in<lb ed="#B" n="62" break="no"/>stans quo mouetur. vel mutatur ab a. ad b. imme 
+   <lb ed="#B" n="63"/>diate post hoc instans. vel dabitur vnum instans 
+   <lb ed="#B" n="64"/>immediatum alteri instanti. si in hoc instanti: obiicio 
+   <lb ed="#B" n="65"/>in hoc instanti est in termino ad quem &amp; in
+   termi<lb ed="#B" n="66" break="no"/>no a quo: &amp; quandocumque mobile est in termino a 
+   <lb ed="#B" n="67"/>quo &amp; ad quem / quiescit. ergo simul mouetur &amp;
+   quie<lb ed="#B" n="68" break="no"/>scit. extendo terminum motus ad mutationem instan 
+   <lb ed="#B" n="69"/>taneam.
+  </p>
+      <p xml:id="jMqv4a-d1e2014-d1e290">
+   ⁋ Ad primum conceditur illatum: nec hoc est 
+   <lb ed="#B" n="70"/>inconveniens. Ad secundum dicitur quod vtrumque potest 
+   <lb ed="#B" n="71"/>dari. primo admittamus quod mobile incipiat muta 
+   <lb ed="#B" n="72"/>ri per vltimum instans non esse mutationis / quod est
+   vlti<lb ed="#B" n="73" break="no"/>mum instans esse quietis. sed illa mutatio subitanea 
+   <lb ed="#B" n="74"/>nec desinit esse per vltimum instans esse mutationis: 
+   <lb ed="#B" n="75"/>nec primum non esse post mutationem. Dando aliud 
+   <lb ed="#B" n="76"/>menbrum dico quod in hoc instanti describit circulum 
+   <lb ed="#B" n="77"/>prope celum: vel ascendit vel descendit, &amp; est in ter 
+   <lb ed="#B" n="78"/>mino ad quem &amp; a quo. &amp; nego quod quandocumque est 
+   <lb ed="#B" n="79"/>in termino a quo quiescit: si quiescere opponatur 
+   <lb ed="#B" n="80"/>moueri &amp; mutari. si solum motui: conceditur quod
+   si<lb ed="#B" n="81" break="no"/>mul idem mutatur &amp; quiescit / si intelligatur quocumque 
+   <lb ed="#B" n="82"/>tempore dato vel instanti. At dicis. ille beatus
+   ma<lb ed="#B" n="83" break="no"/>net semper in eodem loco in quo prius erat: ergo non 
+   <lb ed="#B" n="84"/>mutatur: quia nunquam transit extra hunc locum.
+   Re<lb ed="#B" n="85" break="no"/>spondeo. consequentia est nulla, quemadmodum sorte 
+   <lb ed="#B" n="86"/>manente Parisiis si deus ponat eum Romae / &amp;
+   mo<lb ed="#B" n="87" break="no"/>ueatur vel mutetur: antecedens est verum &amp;
+   conse<lb ed="#B" n="88" break="no"/>quens est falsum.
+  </p>
+      <p xml:id="jMqv4a-d1e2014-d1e334">
+   ⁋ Secundo argumentor. sit
+   Li<lb ed="#B" n="89" break="no"/>nus in oriente: &amp; Cletus in occidente: qui velint si 
+   <lb ed="#B" n="90"/>bi subito obuiare in puncto medio interstitii inter 
+   <lb ed="#B" n="91"/>illos: quod signo centum miliarium. quaeritur in quo puncto 
+   <lb ed="#B" n="92"/>sibi obuiabunt. Dicitur quod obuiabunt sibi in puncto 
+   <lb ed="#B" n="93"/>in quo volunt. nam si Linus velit in puncto
+   peda<lb ed="#B" n="94" break="no"/>liter a se distante mutari, &amp; Cletus per reliquam  
+   <lb ed="#B" n="95"/>partem / in illo puncto sibi obuiabunt: quia tam
+   fa<lb ed="#B" n="96" break="no"/>cile, &amp; tam cito potest beatus mutare se per
+   ma<lb ed="#B" n="97" break="no"/>gnam intercapedinem quam per paruam.
+  </p>
+      <p xml:id="jMqv4a-d1e2014-d1e357">
+   ⁋ Tertio
+   ar<lb ed="#B" n="98" break="no"/>guitur. Caelum non circuit in instanti: &amp; tamen
+   nul<lb ed="#B" n="99" break="no"/>lam habet resistentiam extrinsecan nec intrinsecam. 
+   <lb ed="#B" n="100"/>ergo probatio conclusionis nulla. Respondetur.
+   intel<lb ed="#B" n="101" break="no"/>ligentiae libere mouent caelos successiue: propter
+   ge<lb ed="#B" n="102" break="no"/>ncrationem in istis inferioribus. Etiam probare nequis 
+   <lb ed="#B" n="103"/>uod non est resistentia intrinseca caeli ad circuitionem. 
+   <lb ed="#B" n="104"/>licet enim corpus sphaericum vel orbiculare sit 
+   <lb ed="#B" n="105"/>aptum circuitioni: tamen requiritur aliqua vis mo 
+   <lb ed="#B" n="106"/>tiua ad ipsum mouendum: &amp; resistit ne a suo loco pel 
+   <lb ed="#B" n="107"/>latur.
+  </p>
+      <p xml:id="jMqv4a-d1e2014-d1e381">
+   ⁋ Quarto arguitur. Corpora beatorum sunt 
+   <!--0784.xml-->
+   <pb ed="#B" n="376-v"/>
+       <cb ed="#B" n="a"/>
+       <lb ed="#B" n="1"/>grauia. ergo animae beatae illorum corporum non pos 
+   <lb ed="#B" n="2"/>sunt ipsa mutare in instanti propter resistentiam
+   ex<lb ed="#B" n="3" break="no"/>trinsecam: quia non ob aliud graue mixtum successis 
+   <lb ed="#B" n="4"/>ue descendit in vacuo. Fortasse dicis. tota
+   graui<lb ed="#B" n="5" break="no"/>tas erit ablata a corpore. Contra hoc arguitur. sic 
+   <lb ed="#B" n="6"/>ipsum erit indispositum pro toto composito.
+  </p>
+      <p xml:id="jMqv4a-d1e2014-d1e403">
+   ⁋ lstud 
+   <lb ed="#B" n="7"/>argumentum quaerit vnde proueniat dos agilitatis 
+   <lb ed="#B" n="8"/>&amp; dabo duas imaginationes: quarum Prior erit quod 
+   <lb ed="#B" n="9"/>nulla grauitas est in corpore beati. hoc enim deo est 
+   <lb ed="#B" n="10"/>possibile, quod probo: nam grauitas est accidens cor 
+   <lb ed="#B" n="11"/>poris grauis, vt in. xii. distinctio. huius diximus. 
+   <lb ed="#B" n="12"/>modo deus potest facere animam informare cor 
+   <lb ed="#B" n="13"/>pus sine tali accidente: &amp; forte ita est. Cui
+   imagi<lb ed="#B" n="14" break="no"/>nationi consonat dictum beati <name xml:id="jMqv4a-d1e2014-Nd1e422" ref="#Augustine">Augustini</name>. xxii. de 
+   <lb ed="#B" n="15"/>ciuitate dei cap. xi. dicentis quod deus a corporibus bea 
+   <lb ed="#B" n="16"/>tis aufert graue pondus. hoc est totam grauitatem. 
+   <lb ed="#B" n="17"/>iuxta illud Sapientiae. ix. Corpus quod corrumpitur /
+   ag<lb ed="#B" n="18" break="no"/>grauat anima. hoc est corpus corruptibile quale 
+   <lb ed="#B" n="19"/>habemus in hac vita / animae resistit: non autem corpus 
+   <lb ed="#B" n="20"/>dotatum.
+  </p>
+      <p xml:id="jMqv4a-d1e2014-d1e439">
+   ⁋ Secunda via vel imaginatio erit: quod ma 
+   <lb ed="#B" n="21"/>gna pars grauitatis remittetur in resurrectione bea 
+   <lb ed="#B" n="22"/>ti. &amp; sic anima habebit maius dominium ad motum 
+   <lb ed="#B" n="23"/>localem super suum corpus quam modo habeat, propter 
+   <lb ed="#B" n="24"/>minorem resistentiam. sed cum remaneat aliqua gra 
+   <lb ed="#B" n="25"/>uitas: anima cum influentia dei generali non potes 
+   <lb ed="#B" n="26"/>corpus mutare in instanti: sed deus proportionabili 
+   <lb ed="#B" n="27"/>ter dat auxilium ad illam resistentiam grauitatis. hot 
+   <lb ed="#B" n="28"/>est, tantum iuuat ad motum subitum corporis beati 
+   <lb ed="#B" n="29"/>si beatus voluerit: quantum illa grauitas resistit. &amp; 
+   <lb ed="#B" n="30"/>tunc in effectu anima habet suum corpus
+   moue<lb ed="#B" n="31" break="no"/>re. lstud autem potest esse adhuc bifariam. vno modo 
+   <lb ed="#B" n="32"/>sic vt deus se solo moueat vel mutet totam
+   gra<lb ed="#B" n="33" break="no"/>uitatem quandocumque &amp; quomodocumque subito ve 
+   <lb ed="#B" n="34"/>successiue placet beato: &amp; beatus cum influentia de 
+   <lb ed="#B" n="35"/>generali moueat corpus beati &amp; non grauitatem. Alio 
+   <lb ed="#B" n="36"/>modo potest intelligi quod anima beati concurrit ad 
+   <lb ed="#B" n="37"/>mutationem subitanea: non obstante resistentia cor 
+   <lb ed="#B" n="38"/>poris, nec vllum inconveniens affert cum auxilio
+   in<lb ed="#B" n="39" break="no"/>finiti vigoris. hoc sic declaro. grauitas deo
+   coad<lb ed="#B" n="40" break="no"/>iuuante potest corpus graue per plenum mutare sub 
+   <lb ed="#B" n="41"/>to. Et ne in hoc formides: alio exemplo hoc ipsum 
+   <lb ed="#B" n="42"/>ostendo. sit pondus infinitae resistentie: angelus vel 
+   <lb ed="#B" n="43"/>anima potest cooperari cum deo ad motum loca 
+   <lb ed="#B" n="44"/>lem illius corporis. Aut si essent infinitae animae ap 
+   <lb ed="#B" n="45"/>plicatae tali corpori infinite graui: illae possent ipsum 
+   <lb ed="#B" n="46"/>mutare.
+  </p>
+      <p xml:id="jMqv4a-d1e2014-d1e498">
+   ⁋ Quinto arguitur. anima mouet corpus 
+   <lb ed="#B" n="47"/>nostrum organice: hoc est vnam partem primo 
+   <lb ed="#B" n="48"/>postea aliam / &amp; non omnes aeque primo. ergo an 
+   <lb ed="#B" n="49"/>ma non potest mouere corpus post resurrectionem 
+   <lb ed="#B" n="50"/>motu non organico. hoc est omnes partes aeque
+   pri<lb ed="#B" n="51" break="no"/>mo probatur consequentia: quia eadem potentia non 
+   <lb ed="#B" n="52"/>est organica &amp; non organica copulatiue.
+   Respon<lb ed="#B" n="53" break="no"/>detur. eadem potentia numero primo mouet
+   or<lb ed="#B" n="54" break="no"/>ganice &amp; postea non organice.
+  </p>
+      <p xml:id="jMqv4a-d1e2014-d1e518">
+   ⁋ Et haec de dote 
+   <lb ed="#B" n="55"/>agilitatis. Dos agilitatis supponit pro homine / conno- 
+   <!--0784.xml-->
+   <cb ed="#B" n="b"/> 
+       <!-- 376-v b -->
+       <lb ed="#B" n="56"/>tando quod possit suum corpus mutare in
+   instanti<lb ed="#B" n="57" break="no"/>vel connotando quod ratione beatitudinis animae
+   to<lb ed="#B" n="58" break="no"/>ta grauitas corporis sit ablata, vel magna pars eius 
+   <lb ed="#B" n="59"/>quod fortassis est melius, nec est aliqua qualitas 
+   <lb ed="#B" n="60"/>animae / corpori / vel toti composito primo
+   inhae<lb ed="#B" n="61" break="no"/>rens / corporis mutatiua. 
+  </p>
+    </div>
+   </body>
+  </text>
+</TEI>

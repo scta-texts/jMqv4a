@@ -1,0 +1,498 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 5</title>
+      <author ref="#JohnMair">John Mair</author>
+      <respStmt>
+       <name>Jeffrey C. Witt</name>
+       <resp>TEI Encoder</resp>
+      </respStmt>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 5</title>
+       <date when="2020-06-09">June 27, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="B" n="cod-Bda113">Badius 1516</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+     guidelines for a diplomatic edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-06-27" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+      <pb ed="#B" n="178-r"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="jMqv4a-d1e947"> <!-- l4d17q5 -->
+      <head xml:id="jMqv4a-d1e947-Hd1e104">Quaestio 5</head>
+      <head xml:id="jMqv4a-d1e947-Hd1e107" type="question-title">An homo habens peccata non reservata 
+  cum reservatis teneatur omnia illa curato</head>
+      <p xml:id="jMqv4a-d1e947-d1e110">
+       <lb ed="#B" n="1"/>⁋ Distinctionis Decimaeseptimae 
+   <lb ed="#B" n="2"/>Quaestio Quinta. 
+   <lb ed="#B" n="3"/>Vito quaeritur
+   specia<lb ed="#B" n="4" break="no"/>liter de casibus reseruatis. an 
+   <lb ed="#B" n="5"/>Thomo hominus peccata non reseruata 
+   <lb ed="#B" n="6"/>lcum reseruatis: teneatur omnia
+   il<lb ed="#B" n="7" break="no"/>la curato confiteri. Verbi gratia 
+   <lb ed="#B" n="8"/>habeat Sortes nouem peccata 
+   <lb ed="#B" n="9"/>rum. xnon reseruata: &amp; vnum
+   reserua<lb ed="#B" n="10" break="no"/>tum. Praemitto quod superiores ex industria sibi aliquos 
+   <lb ed="#B" n="11"/>casus reseruant: a quibus inferiores absoluere neque 
+   <lb ed="#B" n="12"/>unt. &amp; hoc propterea vt peccatores non sint ita pro 
+   <lb ed="#B" n="13"/>pesi ad peccadum: sed a peccatis abstineant: propter 
+   <lb ed="#B" n="14"/>erubescentiam quam habent superiores adeundo: &amp;
+   pro<lb ed="#B" n="15" break="no"/>pter salubre consilium quod ab eis expectare habent in  
+   <lb ed="#B" n="16"/>poenitentia iniungenda. Et propterea sunt aliqui
+   ca<lb ed="#B" n="17" break="no"/>sus papales maximo pontifici reseruati: aliqui
+   epi<lb ed="#B" n="18" break="no"/>scopales: aliquos etiam casus sibi reseruant curati 
+   <lb ed="#B" n="19"/>propter similem causam. Sane ob hunc finem / casuum 
+   <lb ed="#B" n="20"/>reseruatio foret vtilis: si nihil aliud quod tantum in re 
+   <lb ed="#B" n="21"/>publica obest propter istud, quantum hoc statutum 
+   <lb ed="#B" n="22"/>prodest, consequeretur. plerique enim sunt qui non
+   ade<lb ed="#B" n="23" break="no"/>unt superiorem ex verecundia: sed manet in
+   pec<lb ed="#B" n="24" break="no"/>cato mortali: &amp; tamen confiterentur sufficienter inferio 
+   <lb ed="#B" n="25"/>ri praelato omnia peccata sua. Quapropter non meo 
+   <lb ed="#B" n="26"/>oportet respicere ad bonitatem vnius legis: sed ad 
+   <lb ed="#B" n="27"/>malum quod occasione illius legis sequitur. declaro 
+   <lb ed="#B" n="28"/>exemplariter. bonum esset nullam inueniri famosam
+   mu<lb ed="#B" n="29" break="no"/>lierem in vrbe Parisiensi: sed a prudenti
+   legistato<lb ed="#B" n="30" break="no"/>re hoc non est dandum executioni: ne deteriora contin 
+   <lb ed="#B" n="31"/>gant secundum <name xml:id="jMqv4a-d1e947-Nd1e179" ref="#Augustine">Augustini</name> in de libero arbitrio. sed ex ista ca 
+   <lb ed="#B" n="32"/>suum reseruatione putantur deteriora contingere: de 
+   <lb ed="#B" n="33"/>quo qui crebro confessiones audit potest esse rectus 
+   <lb ed="#B" n="34"/>iudex: quilibet enim est bonus iudex eorum quae nouit 
+   <lb ed="#B" n="35"/>primo Ethico. Credo cum aliis prudentibus patribus 
+   <lb ed="#B" n="36"/>quod si non excedant iustum numerum iam reseruati casus 
+   <lb ed="#B" n="37"/>saltem sunt in sufficiente numero. curatis vero pleraque 
+   <lb ed="#B" n="38"/>debent episcopi relinquere. Si dicas. quare non pos 
+   <lb ed="#B" n="39"/>sunt adiugere vnum casum vt alii priores fecerunt 
+   <lb ed="#B" n="40"/>Respondetur. si ita procedatur reseruando: quid curatis 
+   <lb ed="#B" n="41"/>relinquetur: qui sunt de ordine hierarchico ecclesiae 
+   <lb ed="#B" n="42"/>sicut ipsi episcopi ex institutione Christi, quando autem 
+   <lb ed="#B" n="43"/>&amp; vbi sit praecisus status: iudicio prudentum relin 
+   <lb ed="#B" n="44"/>quitur. Insuper successu temporis aliquid reperit 
+   <lb ed="#B" n="45"/>obesse quod ab initio non animaduertebatur. Propter 
+   <lb ed="#B" n="46"/>ea quando non constat de casus reseruatione:
+   iu<lb ed="#B" n="47" break="no"/>dicetur non reseruatus, nec vlterior facienda est in  
+   <lb ed="#B" n="48"/>hoc conscientia. per consuetudinem autem loci vel 
+   <lb ed="#B" n="49"/>per ius scriptum consuetudine vallatum,
+   cogno<lb ed="#B" n="50" break="no"/>scitur casus reseruatio. 
+  </p>
+      <p xml:id="jMqv4a-d1e947-d1e224">
+       <lb ed="#B" n="51"/>⁋ Nunc ad quaesitum cuius
+   enoda<lb ed="#B" n="52" break="no"/>tionem difficilem aestimo, casu admisso respondeo  
+   <lb ed="#B" n="53"/>quod Sortes debet omnia peccata confiteri curato suo 
+   <!--0387.xml-->
+   <cb ed="#B" n="b"/> 
+       <!-- 178-r b -->
+       <lb ed="#B" n="54"/>tam reseruata quam non reseruata: vt vultum pecoris sui 
+   <lb ed="#B" n="55"/>curatus cognoscat. haec enim est communis via. &amp; 
+   <lb ed="#B" n="56"/>debet ipsum curatus a nouem peccatis absoluere 
+   <lb ed="#B" n="57"/>si non sit excommunicatus: alioquin non est
+   ca<lb ed="#B" n="58" break="no"/>pax sacramentorum secundum communem vian. 
+   <lb ed="#B" n="59"/>a decimo autem absoluere nequit: cum non sit de 
+   <lb ed="#B" n="60"/>foro inferioris, quemadmodum enim superior
+   po<lb ed="#B" n="61" break="no"/>test absoluere a sibi reseruato: ita potest inferior 
+   <lb ed="#B" n="62"/>a sibi concessis. nam per contritionem culpa
+   de<lb ed="#B" n="63" break="no"/>letur: &amp; satisfacit ecclesiae praecepto sicut
+   praecipi<lb ed="#B" n="64" break="no"/>tur. Postea Sortes superiorem qui potest absolue 
+   <lb ed="#B" n="65"/>re adibit: cui a. vnicum peccatum reseruatum in
+   con<lb ed="#B" n="66" break="no"/>fessiones prout moris est) patefaciet: qui eum a pec 
+   <lb ed="#B" n="67"/>cato illo absoluet: vel eum remittet ad inferiorem 
+   <lb ed="#B" n="68"/>cui tunc facultas est data absoluendi a casu
+   reser<lb ed="#B" n="69" break="no"/>uato: nec amplius ille casus est reseruatus. Ex quo 
+   <lb ed="#B" n="70"/>patet quod hic duae sunt absolutiones partiales: nec 
+   <lb ed="#B" n="71"/>hoc est inconueniens: vt in cuiusdam argumenti 
+   <lb ed="#B" n="72"/>tertiae quaestionis solutione diximus de
+   peccato<lb ed="#B" n="73" break="no"/>rum partitione post sufficientem indaginem. Et 
+   <lb ed="#B" n="74"/>duae erunt poenitentiae iniunctae. Vna a curato de no 
+   <lb ed="#B" n="75"/>uem peccatis: altera ab episcopo de a. peccato reser 
+   <lb ed="#B" n="76"/>uato. Analogiam do. cupis a me habere completam ab 
+   <lb ed="#B" n="77"/>solutionem peccatorum totius vitae tuae praeteritae: primo 
+   <lb ed="#B" n="78"/>die audiam. xx. peccata circa quique sensus: &amp; pro 
+   <lb ed="#B" n="79"/>illis peccatis iniungam poenitentiam. &amp; sic de aliis die 
+   <lb ed="#B" n="80"/>pus ad finem peccatorum vsque inclusiue. dicere etiam 
+   <lb ed="#B" n="81"/>quod sit vna absolutio: &amp; quod illae duae partiales vnam 
+   <lb ed="#B" n="82"/>integrent: est idem in sententia. lstud autem est melius 
+   <lb ed="#B" n="83"/>quam dicere quod prima curati absolutio expectat absolu 
+   <lb ed="#B" n="84"/>tionem superioris: &amp; quod factum primum suspenditur: nec ha 
+   <lb ed="#B" n="85"/>bet effectum donec veniat secunda absolutio quae  
+   <lb ed="#B" n="86"/>primam ratificat: ita vt vrima fiat sub ratihabitione 
+   <lb ed="#B" n="87"/>de secunda subsequutura. vt ostendimus per
+   simi<lb ed="#B" n="88" break="no"/>le in argumento praecedente. quia secundum hoc 
+   <lb ed="#B" n="89"/>dicere oportet quod si confitens moriatur antequam adit 
+   <lb ed="#B" n="90"/>superiorem: nulla portio poenae peccatis debitae re 
+   <lb ed="#B" n="91"/>mittatur: quia hoc dependet a ratihabitione secun 
+   <lb ed="#B" n="92"/>dum aduersarios. Et licet non possim hoc efficaci 
+   <lb ed="#B" n="93"/>ter deducere: sic tamen suadeo. categorice dicit sa 
+   <lb ed="#B" n="94"/>cerdos. absoluo te a peccatis tuis. &amp; ita est
+   commu<lb ed="#B" n="95" break="no"/>nis consuetudo: ergo non dependet ab absolutione 
+   <lb ed="#B" n="96"/>superioris. Sed dicis. sic de omnibus peccatis
+   di<lb ed="#B" n="97" break="no"/>cit: &amp; tamen non absoluit ab a. reseruato. Contra, no 
+   <lb ed="#B" n="98"/>uem sunt de eius foro: &amp; poenitens est contritus: 
+   <lb ed="#B" n="99"/>ergo ab illis absolutus est. obex enim ex parte par 
+   <lb ed="#B" n="100"/>titionis peccatorum non dat impedimentum. vt 
+   <lb ed="#B" n="101"/>ex argumento praecedenti liquet. Praeterea argui 
+   <lb ed="#B" n="102"/>tur ad idem. absolutio duo facit: scilicet remittit par 
+   <lb ed="#B" n="103"/>tem poenae debitae: &amp; peccatorem reconciliat
+   ec<lb ed="#B" n="104" break="no"/>clesiae militanti a qua per mortalem noxam fuit se 
+   <lb ed="#B" n="105"/>paratus: nam omnis mortaliter peccans a
+   commu<lb ed="#B" n="106" break="no"/>nicatione sacramentorum est separatus &amp;
+   excom<lb ed="#B" n="107" break="no"/>municatus quodammodo. Sed vtriusque istorum
+   po<lb ed="#B" n="108" break="no"/>test esse partitio. de diminutione poenae patet / suc 
+   <!--0388.xml-->
+   <pb ed="#B" n="178-v"/>
+       <cb ed="#B" n="a"/>
+       <lb ed="#B" n="1"/>cessiue peccata audiendo &amp; satisfactionem succes 
+   <lb ed="#B" n="2"/>siue iniungendo. de reconciliatione ecclesiae etiam 
+   <lb ed="#B" n="3"/>patet in pluribus excommunicationibus irretito: 
+   <lb ed="#B" n="4"/>qui ab vna potest primo absolui: &amp; postea ab aliis 
+   <lb ed="#B" n="5"/>de senten. exemommuni. ca. Cum pro causa. vt am 
+   <lb ed="#B" n="6"/>plius distinctione sequenti notum euadet. igitur 
+  </p>
+      <p xml:id="jMqv4a-d1e947-d1e379">
+       <lb ed="#B" n="7"/>⁋ Ex quo patet quod aliqua est partitio peccatorum 
+   <lb ed="#B" n="8"/>rationabilis vt in argumento praecedenti diximus 
+   <lb ed="#B" n="9"/>&amp; iam super hoc duos tetigimus casus. Secundo 
+   <lb ed="#B" n="10"/>patet quod curatus virtute clauis diminuit partem
+   poe<lb ed="#B" n="11" break="no"/>nae debitae nouem peccatis mortalibus: &amp; superior 
+   <lb ed="#B" n="12"/>partem poenae debitae a. peccato reseruato: &amp; sic est 
+   <lb ed="#B" n="13"/>tanta poena deleta ab his duabus clauibus: ac si
+   su<lb ed="#B" n="14" break="no"/>perior audiuisset istum ab initio: &amp; eum ab omni 
+   <lb ed="#B" n="15"/>bus absoluisset. Sed dicis: ex illo sequitur quod
+   ho<lb ed="#B" n="16" break="no"/>mo tenetur idem peccatum bis confiteri.
+   Distin<lb ed="#B" n="17" break="no"/>guo: vel quando quis illi confitetur peccatum qu 
+   <lb ed="#B" n="18"/>non potest ab illo absoluere: &amp; sic conceditur. ali 
+   <lb ed="#B" n="19"/>ter negatur. 
+  </p>
+      <p xml:id="jMqv4a-d1e947-d1e410">
+       <lb ed="#B" n="20"/>⁋ Contra instud arguitur. licet duc 
+   <lb ed="#B" n="21"/>copulatiue possint eundem baptizare: &amp; eandem 
+   <lb ed="#B" n="22"/>hostiam consecrare: tamen oportet vnum esse mi 
+   <lb ed="#B" n="23"/>nistrum sufficientem totius effectus sacramenta 
+   <lb ed="#B" n="24"/>lis sine reliquo. ergo in confessione vnus debet es 
+   <lb ed="#B" n="25"/>se minister sufficiens respectu effectus
+   poeniten<lb ed="#B" n="26" break="no"/>tialis, scilicet diminutionis totius poenae vi clauis 
+   <lb ed="#B" n="27"/>quemadmodum si duorum vterque baptizet: vterqui 
+   <lb ed="#B" n="28"/>est causa ministerialis characteris baptismalis.
+   er<lb ed="#B" n="29" break="no"/>go sacerdos non potens absoluere a casu reseru 
+   <lb ed="#B" n="30"/>to erit causa ministerialis sufficiens totius effectus: 
+   <lb ed="#B" n="31"/>vel nihil facit ministerialiter ad effectum
+   poeniten<lb ed="#B" n="32" break="no"/>tiae: sed solus superior potens absoluere a casu ri 
+   <lb ed="#B" n="33"/>seruato, quod dicere non potes. quia superior non po 
+   <lb ed="#B" n="34"/>test hoc facere omnibus peccatis sibi non detectis 
+   <lb ed="#B" n="35"/>quemadmodum non potest absoluere ante vllum 
+   <lb ed="#B" n="36"/>peccatum auditum in confessione. Forte dicis. vn 
+   <lb ed="#B" n="37"/>sacerdos consecrat corpus Christi sub speciebus 
+   <lb ed="#B" n="38"/>panis: &amp; alter sacerdos consecrat corpus Christi 
+   <lb ed="#B" n="39"/>sub speciebus vini. &amp; sic sacramentum Euchari 
+   <lb ed="#B" n="40"/>stiae diuiditur. simile erit hic. Hoc non valet. quia 
+   <lb ed="#B" n="41"/>illic sunt duo sacramenta: a seinuicem non depen 
+   <lb ed="#B" n="42"/>dentia: sicut est de variis ordinibus. licet enim sacer 
+   <lb ed="#B" n="43"/>dos non debeat consecrare sub vna specie quin 
+   <lb ed="#B" n="44"/>sub altera consecret: potest tamen de facto conse 
+   <lb ed="#B" n="45"/>crare sub vna non consecrando sub alia.
+  </p>
+      <p xml:id="jMqv4a-d1e947-d1e469">
+   ⁋ Respo 
+   <lb ed="#B" n="46"/>detur, non est idem in sacramento poenitentiae &amp; in sacra 
+   <lb ed="#B" n="47"/>mentis assignatis. in variis enim sacramentis vario mi 
+   <lb ed="#B" n="48"/>procedendum est: tam in ministris quam in forma. nam in bapti 
+   <lb ed="#B" n="49"/>smoi confirmatione / Eucharistia / &amp; ordine requiritur vni 
+   <lb ed="#B" n="50"/>tas ministri: non autem in matrimonio. &amp; idem vi 
+   <lb ed="#B" n="51"/>detur in extrema vnctione: quando vt videmus, s 
+   <lb ed="#B" n="52"/>quis est statim moriturus: in variis partibus inun 
+   <lb ed="#B" n="53"/>gitur a variis sacerdotibus. sic in proposito curatus 
+   <lb ed="#B" n="54"/>absoluit ab omnibus peccatis sui fori: &amp; diminuit 
+   <!--0388.xml-->
+   <cb ed="#B" n="b"/> 
+       <!-- 178-v b -->
+       <lb ed="#B" n="55"/>ministerialiter vi clauis partem poenae peccatis sui 
+   <lb ed="#B" n="56"/>fori debitae. sic facit superior de peccato sui foris 
+   <lb ed="#B" n="57"/>ita vt sit diminutio tantae poenae ac si omnia pec 
+   <lb ed="#B" n="58"/>cata essent confessa soli vni ab omnibus absolue 
+   <lb ed="#B" n="59"/>re potenti, nec maior gratia virtute operis opera 
+   <lb ed="#B" n="60"/>ti infunditur. Contra hoc arguit quidam grauis 
+   <lb ed="#B" n="61"/>theologus neotericus. Sacerdos non potest absol 
+   <lb ed="#B" n="62"/>uere quempiam ex industria tacentem de aliqu 
+   <lb ed="#B" n="63"/>bus mortalibus: &amp; alia confitentem: vel ante cor 
+   <lb ed="#B" n="64"/>fessionem integram: ergo nec in casu nostro. Re 
+   <lb ed="#B" n="65"/>spondetur. in argumento non est magnus color. Ioan 
+   <lb ed="#B" n="66"/>nes Gerson putat non esse necessarium confiteri 
+   <lb ed="#B" n="67"/>peccatum reseruatum inferiori: &amp; dicit se non au 
+   <lb ed="#B" n="68"/>dere damnare sic facientem. sed nos viam commu 
+   <lb ed="#B" n="69"/>nem tenemus quod peccata sint singula inferiori con 
+   <lb ed="#B" n="70"/>fitenda: licet dictum cancellarii non careat proba 
+   <lb ed="#B" n="71"/>bilitate.
+  </p>
+      <p xml:id="jMqv4a-d1e947-d1e534">
+   ⁋ Sed <ref xml:id="jMqv4a-d1e947-Rd1e536">
+        <name xml:id="jMqv4a-d1e947-Nd1e538">Durandus</name> in hac distinctione</ref> dicit 
+   <lb ed="#B" n="72"/>hunc modum includere aliqua inconuenientia. Pri 
+   <lb ed="#B" n="73"/>mum: quod ille qui est confessus omnia peccata sua in 
+   <lb ed="#B" n="74"/>feriori puta curato suo, teneretur omnia peccata ite 
+   <lb ed="#B" n="75"/>rum confiteri superiori: puta episcopo vel eius poe 
+   <lb ed="#B" n="76"/>nitentiario: quod est magnum inconueniens. quia quam 
+   <lb ed="#B" n="77"/>uis rite confessus possit si velit iterum confiteri: quoi 
+   <lb ed="#B" n="78"/>tamen ad hoc obligetur: non videtur rationabile. 
+   <lb ed="#B" n="79"/>Respondetur negando quod includit aliqua inconve 
+   <lb ed="#B" n="80"/>nientia: &amp; nego primum esse inconueniens, quan 
+   <lb ed="#B" n="81"/>do quis est confessus illi primo qui non potest ab 
+   <lb ed="#B" n="82"/>omnibus absoluere. &amp; hoc tenendo sicut Ioannes 
+   <lb ed="#B" n="83"/>Gerson existimat, quod poenitens debet esse parat 
+   <lb ed="#B" n="84"/>confiteri omnia peccata sua superiori si ea audire 
+   <lb ed="#B" n="85"/>voluerit. Hic tamen ego iudico magis probabile 
+   <lb ed="#B" n="86"/>quam dictum cancellarii. quod non teneatur omnia con 
+   <lb ed="#B" n="87"/>fiteri superiori: sed sufficit reseruatum vel reserua 
+   <lb ed="#B" n="88"/>ta ei confiteri, nec talem auderem dicere esse in sta 
+   <lb ed="#B" n="89"/>tu damnationis. Non habeo autem pro inconue 
+   <lb ed="#B" n="90"/>nienti quod homo teneatur idem peccatum bis con 
+   <lb ed="#B" n="91"/>fiteri de per accidens quando primo est confessus 
+   <lb ed="#B" n="92"/>illi qui non potest absoluere: quia ad hoc tenetur 
+   <lb ed="#B" n="93"/>secundum communem viam. Sed contra hoc ai 
+   <lb ed="#B" n="94"/>guit Cancellarius per theoricam doctoris subtilis. 
+   <lb ed="#B" n="95"/>tunc duo possent contra vnum testimonium fe 
+   <lb ed="#B" n="96"/>re: licet male agerent. &amp; forte crimen erit plectendum 
+   <lb ed="#B" n="97"/>vltimo supplicio in foro exteriori. Si haec Thec 
+   <lb ed="#B" n="98"/>rica intelligatur vniuersaliter nego eam: cuius fa 
+   <lb ed="#B" n="99"/>sitas manifesta est in religiosis: in quibus expres 
+   <lb ed="#B" n="100"/>se dicit cancellarius non esse inconueniens quod bis 
+   <lb ed="#B" n="101"/>idem peccatum confiteantur. &amp; nego quod testimo 
+   <lb ed="#B" n="102"/>nium confessorum contra confitentem vllo mo 
+   <lb ed="#B" n="103"/>do acceptabitur in foro exteriori quamuis essent mil 
+   <lb ed="#B" n="104"/>le. Ad secundum argumentum Durandi quod est: 
+   <lb ed="#B" n="105"/>frustra fit confessio illi a quo non speratur absolu 
+   <lb ed="#B" n="106"/>tio. si intelligas de totali absolutione: hoc nego: &amp; 
+   <lb ed="#B" n="107"/>quamuis non esset absolutio vllo modo vt in confes 
+   <lb ed="#B" n="108"/>sione facta laico: adhuc confessio potest esse vtilis 
+   <lb ed="#B" n="109"/>ob peccatorum verecundiam &amp; eorum contritio 
+   <!--0389.xml-->
+   <pb ed="#B" n="179-r"/>
+       <cb ed="#B" n="a"/>
+       <lb ed="#B" n="1"/>nem annexam. Etiam habens casum reseruatum non 
+   <lb ed="#B" n="2"/>tenetur simpliciter confiteri inferiori: sed poterat su 
+   <lb ed="#B" n="3"/>periorem primo adire qui se ab omnibus absoluii 
+   <lb ed="#B" n="4"/>set.
+  </p>
+      <p xml:id="jMqv4a-d1e947-d1e640">
+   ⁋ Vnde adhuc pro clariore intelligentia ponam 
+   <lb ed="#B" n="5"/>propositiones vel dictis corollarias vel corollario 
+   <lb ed="#B" n="6"/>rum pellibus indutas. Prima propositio. Confessio 
+   <lb ed="#B" n="7"/>quae fit inferiori integre &amp; de omnibus peccatis non 
+   <lb ed="#B" n="8"/>habet absolutionem respondentem. hoc est abso 
+   <lb ed="#B" n="9"/>lutionem ab omnibus. Secundum corollarium est 
+   <lb ed="#B" n="10"/>confessio quae fit superiori de solo casu ad eum 
+   <lb ed="#B" n="11"/>pertinente non est integra. <name xml:id="jMqv4a-d1e947-Nd1e657" ref="#Durandus">Durandus</name> tamen infert 
+   <lb ed="#B" n="12"/>haec tanquam inconuenientia: quae rationi consentanea di 
+   <lb ed="#B" n="13"/>co. &amp; dictum epilogando seu recapitulando colo 
+   <lb ed="#B" n="14"/>rabitur. Tertio sequitur quod falsa est illa opinio quam 
+   <lb ed="#B" n="15"/>secundo loco inter opiniones quatuor in hac ma 
+   <lb ed="#B" n="16"/>teria <name xml:id="jMqv4a-d1e947-Nd1e671" ref="#Durandus">Durandus</name> recitat. dicit haec opinio: quod inferior 
+   <lb ed="#B" n="17"/>audit totam confessionem &amp; de omnibus
+   absol<lb ed="#B" n="18" break="no"/>uit: remittit tamen confitentem ad superiorem non quod 
+   <lb ed="#B" n="19"/>dem vt absoluatur a peccato: sed vt absoluatur ab 
+   <lb ed="#B" n="20"/>obligatione praecepti quo tenetur se praesentare 
+   <lb ed="#B" n="21"/>superiori cui reseruatur cognitio talium
+   peccato<lb ed="#B" n="22" break="no"/>rum. lstud non valet: quia per hanc viam suffice 
+   <lb ed="#B" n="23"/>ret episcopo vel eius poenitentiario peccatum dicere 
+   <lb ed="#B" n="24"/>&amp; protinus abire contra communem praxim eci 
+   <lb ed="#B" n="25"/>clesiae: nam homo peccatum reseruatum confitetur 
+   <lb ed="#B" n="26"/>&amp; absolutionem sumit ab eo &amp; poenitentiam iniunctam,. 
+   <lb ed="#B" n="27"/>Secundo reprobatur haec opinio: quia peccatum 
+   <lb ed="#B" n="28"/>reseruatum non est obiectum vel materia in quan 
+   <lb ed="#B" n="29"/>potest agere curatus: quia de suo foro subtrahitu 
+   <lb ed="#B" n="30"/>quod probatur: quia Romanus pontifex vel episcopus 
+   <lb ed="#B" n="31"/>inferior populum subtrahere potest ne sit de foro 
+   <lb ed="#B" n="32"/>ferioris. nam dato opposito non esset difficultas. &amp; 
+   <lb ed="#B" n="33"/>cum putemus eos hoc posse: hoc ipsi ponunt
+   in<lb ed="#B" n="34" break="no"/>esse. Recitat <name xml:id="jMqv4a-d1e947-Nd1e713" ref="#Durandus">Durandus</name> alias duas opiniones quas 
+   <lb ed="#B" n="35"/>impugnat: post multa concludens quod opus est pro 
+   <lb ed="#B" n="36"/>hac difficultate magna, solenni discussione &amp; de 
+   <lb ed="#B" n="37"/>terminatione Romanae ecclesie, quod dictum timorem 
+   <lb ed="#B" n="38"/>incussit <name xml:id="jMqv4a-d1e947-Nd1e725" ref="#JeanGerson">Ioanni Gersono</name>: adeo vt in sermone in  
+   <lb ed="#B" n="39"/>coena domini habito dicat. Haec est tam
+   profun<lb ed="#B" n="40" break="no"/>da difficultas vt <name xml:id="jMqv4a-d1e947-Nd1e732" ref="#Durandus">Durandus</name> exercitatissimus in istis 
+   <lb ed="#B" n="41"/>tractando hanc materiam dixerit quod expediret ha 
+   <lb ed="#B" n="42"/>bere super hoc papale consilium. 
+  </p>
+      <p xml:id="jMqv4a-d1e947-d1e741">
+       <lb ed="#B" n="43"/>⁋ Quia inam longiuscule materiam 
+   <lb ed="#B" n="44"/>tractando euagatus sum: paucis modum quem cre 
+   <lb ed="#B" n="45"/>do verum conformiter ad praxim ecclesiae ponam: 
+   <lb ed="#B" n="46"/>ipsum colorando: &amp; obiectiones aliorum per apparem 
+   <lb ed="#B" n="47"/>tes similitudines refellendo. &amp; si hoc contigerit: alio 
+   <lb ed="#B" n="48"/>rum rationes cuiuscunque auctoritatis fuerint, non 
+   <lb ed="#B" n="49"/>erunt magni pendendae. In primis dico quod superior 
+   <lb ed="#B" n="50"/>potest sibi aliquem casum reseruare, a quo si inferior 
+   <lb ed="#B" n="51"/>absoluere tentauerit, nihil facit: quia peccatum non est 
+   <lb ed="#B" n="52"/>de suo foro: sicut sacerdos non absoluit non sub 
+   <lb ed="#B" n="53"/>ditum.
+  </p>
+      <p xml:id="jMqv4a-d1e947-d1e768">
+   ⁋ Secunda propositio. Non debet superior reser 
+   <lb ed="#B" n="54"/>uare casus occultos: hoc est peccata volutatis non ex 
+   <!--0389.xml-->
+   <cb ed="#B" n="b"/> 
+       <!-- 179-r b -->
+       <lb ed="#B" n="55"/>euntia in actum exteriorem: nec peccata multum 
+   <lb ed="#B" n="56"/>exprobrabilia interdum minoris culpae si non exeant 
+   <lb ed="#B" n="57"/>in aliorum scandalum. Ratio est: quia multa talia pec 
+   <lb ed="#B" n="58"/>cata sunt communia: quemadmodum sunt peccata carnis 
+   <lb ed="#B" n="59"/>&amp; magnae infamiae: quae homines non libenter confiten 
+   <lb ed="#B" n="60"/>tur: &amp; signanter superioribus. Et licet aliqui arcean 
+   <lb ed="#B" n="61"/>tur ab his peccatis ratione reseruationis: tamen (vt 
+   <lb ed="#B" n="62"/>opinor) plures periclitantur propter eorum reseruatio 
+   <lb ed="#B" n="63"/>nem, superiorem non adeuntes: plerique enim suapte na 
+   <lb ed="#B" n="64"/>tura sunt verecundi: potissimum iuuenes vtriusque se 
+   <lb ed="#B" n="65"/>xus. Episcopus ergo curam sui gregis habens de 
+   <lb ed="#B" n="66"/>bet accersere aliquos probos curatos, senes, &amp;
+   cir<lb ed="#B" n="67" break="no"/>cumspectos, assuetos confessiones audire: &amp; eorum
+   com<lb ed="#B" n="68" break="no"/>silio vti. &amp; si de aliquo casu reseruando dubitetur: 
+   <lb ed="#B" n="69"/>vtantur hac maxima. Si plures arceantur a peccato re 
+   <lb ed="#B" n="70"/>seruando a, quam peccent omittendo confiteri a. reser 
+   <lb ed="#B" n="71"/>uetur. sin aliter, non reseruetur. Quemadmodum enim
+   medi<lb ed="#B" n="72" break="no"/>cina non adhibetur corpori vero: nisi toti
+   composi<lb ed="#B" n="73" break="no"/>to putetur plus prodesse quam obesse: et si maiori par 
+   <lb ed="#B" n="74"/>ti corporis prosit: licet paruae parti noceat: nihilo tame 
+   <lb ed="#B" n="75"/>minus adhibetur: sic debet esse de medicina spirituali 
+   <lb ed="#B" n="76"/>praeseruatiua in corpore mystico.
+  </p>
+      <p xml:id="jMqv4a-d1e947-d1e827">
+   ⁋ Tertia propositio 
+   <lb ed="#B" n="77"/>Sortes habens decem peccata potest in primis adire 
+   <lb ed="#B" n="78"/>superiorem: &amp; illi omnia peccata confiteri, quam eum 
+   <lb ed="#B" n="79"/>absoluat ab omnibus: vel si poenitentem ad inferio 
+   <lb ed="#B" n="80"/>rem mittat: nihil est amplius reseruatum. Potest etiam 
+   <lb ed="#B" n="81"/>solum reseruatum peccatum confiteri illi,
+   potissi<lb ed="#B" n="82" break="no"/>mun si reliqua audire noluerit: adeundo inferiorem &amp; 
+   <lb ed="#B" n="83"/>ei confitendo omnia. vel poterat incipere ab inferiore /
+   con<lb ed="#B" n="84" break="no"/>fitendo ei omnia: &amp; suscipere absolutionem ab eo 
+   <lb ed="#B" n="85"/>de omnibus non reseruatis: &amp; postea absoluetur de re 
+   <lb ed="#B" n="86"/>seruato a superiore. Ratio quare debet alteri eorum 
+   <lb ed="#B" n="87"/>omnia confiteri, est: quia ita est in communi consue 
+   <lb ed="#B" n="88"/>tudine ecclesiae: &amp; in saniore opinione doctorum 
+   <lb ed="#B" n="89"/>conformiter ad deum qui non dimittit vnum morta 
+   <lb ed="#B" n="90"/>le sine alio. Poenitens enim debet integre omnia mor 
+   <lb ed="#B" n="91"/>talia occurrentia confiteri: alioquin non absoluel 
+   <lb ed="#B" n="92"/>nisi in certis casibus quorum iste non est vnus.
+   Vl<lb ed="#B" n="93" break="no"/>terius dico quod non caret omnimoda probabilitate 
+   <lb ed="#B" n="94"/>dictum cancellarii dicentis se non audere damnare 
+   <lb ed="#B" n="95"/>hominem peccatum reseruatum non confitentem
+   infe<lb ed="#B" n="96" break="no"/>riori. Probabilius tamen est apud me si omnia
+   con<lb ed="#B" n="97" break="no"/>fessus sit inferiori: ipsum non teneri integram con 
+   <lb ed="#B" n="98"/>fessionem facere superiori, quamuis superior velit op 
+   <lb ed="#B" n="99"/>pofitum.
+  </p>
+      <p xml:id="jMqv4a-d1e947-d1e879">
+   ⁋ Sed remanet neruus quem multi plus 
+   <lb ed="#B" n="100"/>ponderant de confessionis partitione. qui vt frangatur: ner 
+   <lb ed="#B" n="101"/>vllus scrupulus illic maneat: onedo confessionis parti 
+   <lb ed="#B" n="102"/>tionem rationabilem. Antiqui namque doctores bene
+   sentien<lb ed="#B" n="103" break="no"/>tes, &amp; item grauis iste theologus cuius paulo ante me 
+   <lb ed="#B" n="104"/>tionem feci: in hac parte conveniunt quod post sufficientem 
+   <lb ed="#B" n="105"/>indaginem peccatorum si homo confiteatur omnia pecca 
+   <lb ed="#B" n="106"/>ta sibi occurrentia non tenetur iterato illa confite 
+   <lb ed="#B" n="107"/>ri. &amp; ponatur quod post confessionem occurrat ei
+   me<lb ed="#B" n="108" break="no"/>moria mortalis peccati nondum confessi: quod sit 
+   <lb ed="#B" n="109"/>b. iste tenetur confiteri b. secundum omnes. 
+   <!--0390.xml-->
+   <pb ed="#B" n="179-v"/>
+       <cb ed="#B" n="a"/>
+       <lb ed="#B" n="1"/>&amp; addo, non tenetur b confiteri priori sacerdoti:  
+   <lb ed="#B" n="2"/>ergo potest b confiteri alteri. Vlterius stat quod aliqua  
+   <lb ed="#B" n="3"/>peccata homini occurrant etiam non reseruata 
+   <lb ed="#B" n="4"/>quae non teneatur confiteri: sed de illis tacebit, &amp; 
+   <lb ed="#B" n="5"/>reliqua confitebitur. quod patet exemplariter 
+   <lb ed="#B" n="6"/>in aliquibus casibus quos ponit Altisiodorus in quai 
+   <lb ed="#B" n="7"/>to. videlicet de occisione fratris sacerdotis ex alte 
+   <lb ed="#B" n="8"/>ro parente: &amp; de circumstantia quam consueuit sacerdos 
+   <lb ed="#B" n="9"/>plerunque reuelare: vel de enormi luxu qui erit causa 
+   <lb ed="#B" n="10"/>quare sacerdos mouebitur ad libidinem: vel si quis 
+   <lb ed="#B" n="11"/>propriam neptem cognouerit quae est filia sacerdotis. 
+   <lb ed="#B" n="12"/>In his enim casibus non tenetur poenitens sua peccata 
+   <lb ed="#B" n="13"/>confiteri sacerdoti: vt aliorum opinione
+   reproba<lb ed="#B" n="14" break="no"/>ta recte dicit. Et multiscius ille beatus Thomas i 
+   <lb ed="#B" n="15"/>hac distinctione quaestione. xiii. ar. iiii. in responsione ad 
+   <lb ed="#B" n="16"/>quintum dicit. quod in casibus illis in quibus proba 
+   <lb ed="#B" n="17"/>biliter timet poenitens sibi vel sacerdoti ex confes 
+   <lb ed="#B" n="18"/>sione ei facta periculum: debet recurrere ad
+   su<lb ed="#B" n="19" break="no"/>periorem vel ab eodem petere licentiam alteri
+   com<lb ed="#B" n="20" break="no"/>fitendi. quod si licentiam habere non possit: idem est 
+   <lb ed="#B" n="21"/>iudicium quod de illo qui non habet copiam
+   sacer<lb ed="#B" n="22" break="no"/>dotis. vnde magis debet eligere laico confiteri, nec 
+   <lb ed="#B" n="23"/>in hoc casu transgreditur aliquis praeceptum
+   eccle<lb ed="#B" n="24" break="no"/>siae: quia praecepta iuris positiui non se extendunt 
+   <lb ed="#B" n="25"/>vltra intentionem praecipientis: quae est finis prae 
+   <lb ed="#B" n="26"/>cepti. Haec autem est charitas secundum apostolum. 
+   <lb ed="#B" n="27"/>Confessionem laico faciendam non approbo: re 
+   <lb ed="#B" n="28"/>liqua omnia suscipio. cum enim scandalum passi 
+   <lb ed="#B" n="29"/>uum ex infirmitate vel ex ignorantia probabiliter 
+   <lb ed="#B" n="30"/>imminet: esset contra charitatem tunc illi sacerdoti 
+   <lb ed="#B" n="31"/>peccatum detegere, nec protunc stringit praeceptum 
+   <lb ed="#B" n="32"/>diuinum de confitendo: quamqui immineat articulus mor 
+   <lb ed="#B" n="33"/>tis. ligat enim solum cum possumus: hoc autem 
+   <lb ed="#B" n="34"/>possumus quod iure possumus. Ecce ergo secundum 
+   <lb ed="#B" n="35"/>casum in quo peccatum actu occurrens non tenemur 
+   <lb ed="#B" n="36"/>confiteri. sed prior casus est lucidior: in quo mani 
+   <lb ed="#B" n="37"/>feste patet quod poenitentia sacramentum a duobus 
+   <lb ed="#B" n="38"/>ministris sumit suum effectum quo ad
+   remissio<lb ed="#B" n="39" break="no"/>nem poenae culpis debitae: &amp; forte etiam quo ad gratiam 
+   <lb ed="#B" n="40"/>in fusam virtute operis operati: quando peccatorum par 
+   <lb ed="#B" n="41"/>titio est rationabilis. &amp; cum manifeste hoc ab omni 
+   <lb ed="#B" n="42"/>bus concedatur: &amp; ab isto arguente: quare
+   mirabi<lb ed="#B" n="43" break="no"/>tur super hoc in casu reseruato: cum illam
+   parti<lb ed="#B" n="44" break="no"/>tionem rationabilem confiteatur tota ecclesia?
+   mo<lb ed="#B" n="45" break="no"/>dus est ergo securus: nec opus est vlla pontificis di 
+   <lb ed="#B" n="46"/>terminatione super casuum reseruatorum confes 
+   <lb ed="#B" n="47"/>sione. vt dicit <name xml:id="jMqv4a-d1e947-Nd1e1011" ref="#Durandus">Durandus</name>.
+  </p>
+      <p xml:id="jMqv4a-d1e947-d1e1015">
+   ⁋ Ex quo patet negan 
+   <lb ed="#B" n="48"/>dum esse quod iste postremus dicit: quod inferior non 
+   <lb ed="#B" n="49"/>debet tentare absolutionem priusquam fuerit per
+   su<lb ed="#B" n="50" break="no"/>periorem a reseruatis absolutus. &amp; nego quod
+   sacra<lb ed="#B" n="51" break="no"/>mentalis absolutio omnia remittat vel nuila, nego 
+   <lb ed="#B" n="52"/>vlterius, si sit vnus casus quem remittere non possit 
+   <lb ed="#B" n="53"/>quod penitus nihil operetur: quia vitiatur vtile per inu 
+   <lb ed="#B" n="54"/>tile quando non recipit diuisionem: immo dico quod 
+   <lb ed="#B" n="55"/>recipit diuisionem. &amp; improbatio illius est nulla: quod 
+   <!--0390.xml-->
+   <cb ed="#B" n="b"/> 
+       <!-- 179-v b -->
+       <lb ed="#B" n="56"/>virtute clauis nihil remittitur: quando de industria 
+   <lb ed="#B" n="57"/>homo tacet de peccatis. dico enim si praeter ratio 
+   <lb ed="#B" n="58"/>nem taceat: non esse in bonitate consequentiae co 
+   <lb ed="#B" n="59"/>lorem. 
+  </p>
+    </div>
+   </body>
+  </text>
+</TEI>

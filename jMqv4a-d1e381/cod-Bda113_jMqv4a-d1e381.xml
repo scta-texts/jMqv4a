@@ -1,0 +1,310 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 8</title>
+      <author ref="#JohnMair">John Mair</author>
+      <respStmt>
+       <name>Jeffrey C. Witt</name>
+       <resp>TEI Encoder</resp>
+      </respStmt>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 8</title>
+       <date when="2020-06-09">June 27, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="B" n="cod-Bda113">Badius 1516</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+     guidelines for a diplomatic edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-06-27" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+      <pb ed="#B" n="71-v"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="jMqv4a-d1e381"> <!-- l4d12q8 -->
+      <head xml:id="jMqv4a-d1e381-Hd1e104">Quaestio 8</head>
+      <head xml:id="jMqv4a-d1e381-Hd1e107" type="question-title">An audiens missam, et interea dicens horas 
+  satisfaciat utrique praecepto</head>
+      <p xml:id="jMqv4a-d1e381-d1e110">
+   <!--0174.xml-->
+       <cb ed="#B" n="b"/> 
+       <!-- 71-v b -->
+       <lb ed="#B" n="52"/>OCtauo pro maiori
+   hu<lb ed="#B" n="53" break="no"/>us maieriae complemento 
+   <lb ed="#B" n="54"/>quaeritur. An audiens missam 
+   <lb ed="#B" n="55"/>&amp; interea dicens horas
+   satis<lb ed="#B" n="56" break="no"/>faciat vtrique praecepto, non. n. 
+   <lb ed="#B" n="57"/>loquor quando vnum vel vtrum 
+   <lb ed="#B" n="58"/>quod est de consilio. Hic respon 
+   <lb ed="#B" n="59"/>let quidam summista Angelus in ver. Feria. quod non 
+   <lb ed="#B" n="60"/>satisfacit. hoc probat per. c. Ex literis. de proba. in  
+   <lb ed="#B" n="61"/>versu Vices.
+  </p>
+      <p xml:id="jMqv4a-d1e381-d1e141">
+   ⁋ In huius conclusionis reprobatio 
+   <lb ed="#B" n="62"/>nem ponitur conclusio contraria: haec scilicet. Cle 
+   <lb ed="#B" n="63"/>ricus obligatus dicere horas canonicas in die do 
+   <lb ed="#B" n="64"/>minico: &amp; etiam obligatus audire missam sicut re 
+   <lb ed="#B" n="65"/>uera tenetur: vt patet per. c. Missas. de consecra. di 
+   <lb ed="#B" n="66"/>stinctione. i. simul vtrique praecepto satisfacit. Pro 
+   <lb ed="#B" n="67"/>batur. audiat Sortes clericus missam in die domi 
+   <lb ed="#B" n="68"/>nico: &amp; dicat horas interea: in fine sic argumentor 
+   <lb ed="#B" n="69"/>vel Sortes satisfecit vtrique praecepto: vel alteri 
+   <lb ed="#B" n="70"/>tantum: vel neutri. Si primum / habeo propositum: si 
+   <lb ed="#B" n="71"/>secundum, rationem assertionis tuae adducas. si 
+   <lb ed="#B" n="72"/>tertium: ergo si adhuc secundo &amp; tertio audiat
+   mi<lb ed="#B" n="73" break="no"/>sam &amp; legat semper horas interea: neutri praecepto 
+   <lb ed="#B" n="74"/>satisfacit: quod non videtur concedendum. 
+  </p>
+      <p xml:id="jMqv4a-d1e381-d1e173">
+       <lb ed="#B" n="75"/>⁋ Secundo arguitur ad idem. si homo non satis 
+   <lb ed="#B" n="76"/>facit vtrique praecepto: hoc erit quia tenetur
+   habe<lb ed="#B" n="77" break="no"/>re distinctam notitiam verborum in missa recita 
+   <lb ed="#B" n="78"/>torum: &amp; hoc est incompossibile horis dicendis: 
+   <lb ed="#B" n="79"/>sed hoc non: quod probo dupliciter. Nam primo 
+   <lb ed="#B" n="80"/>illud est falsum. Secundo quamuis esset verum, 
+   <lb ed="#B" n="81"/>non inualidatur conclusio. Primum probo. ex hoc 
+   <lb ed="#B" n="82"/>sequitur quod surdus non posset satisfacere
+   praece<lb ed="#B" n="83" break="no"/>pto de audienda missa. Sed hic dices: quod
+   necessi<lb ed="#B" n="84" break="no"/>tas non habet legem. Sequitur etiam quod nec
+   exi<lb ed="#B" n="85" break="no"/>stens in remotis locis templi posset satisfacere illi 
+   <lb ed="#B" n="86"/>praecepto. Vlterius sequitur, quod si presbyter ita sub 
+   <lb ed="#B" n="87"/>misse loqueretur vt vix aliquis posset ipsum
+   au<lb ed="#B" n="88" break="no"/>dire: nemo satisfaceret praecepto de audienda mis 
+   <lb ed="#B" n="89"/>sa praecise assistendo illius missae, quod non est di 
+   <lb ed="#B" n="90"/>cendum. Insuper clarissime hoc patet de orationi 
+   <lb ed="#B" n="91"/>bus quas quis in secreto dicit. Patet etiam
+   secun<lb ed="#B" n="92" break="no"/>dum: quia homo potest &amp; audire missam &amp; aduerte 
+   <lb ed="#B" n="93"/>re ad horarum lectionem. duo enim vel tres actus 
+   <lb ed="#B" n="94"/>possunt simul esse in intellectu: quemadmodum 
+   <lb ed="#B" n="95"/>Caesar tribus varia simul dictauit.
+  </p>
+      <p xml:id="jMqv4a-d1e381-d1e221">
+   ⁋ Tertio
+   ar<lb ed="#B" n="96" break="no"/>guitur. lus humanum consuetudo prudentum ho 
+   <lb ed="#B" n="97"/>minum interpretatur: sed ius humanum est hoc die 
+   <lb ed="#B" n="98"/>audire missam: &amp; dicere horas interea est consue 
+   <lb ed="#B" n="99"/>tudo ferme omnium: ergo illud ius est ita limitan 
+   <lb ed="#B" n="100"/>dum.
+  </p>
+      <p xml:id="jMqv4a-d1e381-d1e234">
+   ⁋ Quarto arguitur. minus obligamur ces 
+   <lb ed="#B" n="101"/>sare ab opere seruili in die dominico quam cessare ab 
+   <lb ed="#B" n="102"/>opere spirituali: quemadmodum est pronunciare 
+   <lb ed="#B" n="103"/>horas tempore quo tenemur audire missam: sed 
+   <lb ed="#B" n="104"/>multa sunt opera corporalia etiam de praecepto: 
+   <!--0175.xml-->
+   <pb ed="#B" n="72-r"/>
+       <cb ed="#B" n="a"/>
+       <lb ed="#B" n="1"/>diem dominicum celebrandum: ergo nec lectio ho 
+   <lb ed="#B" n="2"/>rarum impedit auditionem missae praeceptae. 
+  </p>
+      <p xml:id="jMqv4a-d1e381-d1e256">
+       <lb ed="#B" n="3"/>⁋ Contra hanc conclusionem
+   argumen<lb ed="#B" n="4" break="no"/>tor. ex ea sequitur si presbyter iniungat mihi in poeni 
+   <lb ed="#B" n="5"/>lentiam audire tres missas, quod possim simul satisface 
+   <lb ed="#B" n="6"/>re illis tribus praeceptis: tres missas in tribus variis 
+   <lb ed="#B" n="7"/>altaribus audiendo: quod non videtur dicendum. 
+  </p>
+      <p xml:id="jMqv4a-d1e381-d1e269">
+       <lb ed="#B" n="8"/>⁋ Secundo arguitur, non licet per eundem actum
+   duo<lb ed="#B" n="9" break="no"/>pus satisfacere praeceptis: ergo homo non satisfacit si 
+   <lb ed="#B" n="10"/>mul vtrique praecepto.
+  </p>
+      <p xml:id="jMqv4a-d1e381-d1e278">
+   ⁋ Respondetur. oportet videre 
+   <lb ed="#B" n="11"/>intentionem iniungentis mihi tres missas. Si n
+   in<lb ed="#B" n="12" break="no"/>iungat eas incompossibiliter: tunc non est apparentia 
+   <lb ed="#B" n="13"/>sequelae: vtpote si iniungeret tres missas in variis 
+   <lb ed="#B" n="14"/>diebus audiendas: vel in variis locis. si vero
+   inten<lb ed="#B" n="15" break="no"/>dat qualitercumque audiendas eas iniungere: concedo
+   il<lb ed="#B" n="16" break="no"/>latum: quia praecepta illa sunt compossibilia: &amp; si du 
+   <lb ed="#B" n="17"/>bitem de intentione sacerdotis quaeram eius mentem. 
+   <lb ed="#B" n="18"/>In aliis autem vt in proposito, mens legis colligitur a 
+   <lb ed="#B" n="19"/>consuetudine hominum.
+  </p>
+      <p xml:id="jMqv4a-d1e381-d1e301">
+   ⁋ Ad secundum dico: 
+   <lb ed="#B" n="20"/>quod argumentum peccat tam in forma quam in materia, 
+   <lb ed="#B" n="21"/>antecedens. n. est falsum: nam frater minor
+   satisfa<lb ed="#B" n="22" break="no"/>cit suae regulae de ieiunio sextae feriae: &amp; praecepto ec 
+   <lb ed="#B" n="23"/>clesiae de ieiunio quadragesimae: &amp; quatuor tempo 
+   <lb ed="#B" n="24"/>rum, in die veneris primae hebdomadae integrae
+   qua<lb ed="#B" n="25" break="no"/>dragesimae. Secundo dico: quod consequentia nihil va 
+   <lb ed="#B" n="26"/>let. homo enim duobus actibus satisfacit istis prae 
+   <lb ed="#B" n="27"/>ceptis, legendo horas vel memoriter dicendo: intue 
+   <lb ed="#B" n="28"/>do laeuationem corporis Christi: surgendo ad euan 
+   <lb ed="#B" n="29"/>gelium &amp; huiusmodi faciendo.
+  </p>
+      <p xml:id="jMqv4a-d1e381-d1e325">
+   ⁋ Tertio arguitur. 
+   <lb ed="#B" n="30"/>ex conclusione sequitur quod laicus ad tantum obligatur 
+   <lb ed="#B" n="31"/>in die dominico quantum clericus beneficiatus. consequens 
+   <lb ed="#B" n="32"/>est inconveniens, &amp; quod sequatur patet sic. Laicus tene 
+   <lb ed="#B" n="33"/>tur dicere preces audiendo missam in die dominico 
+   <lb ed="#B" n="34"/>&amp; audire missam: quae simul facit. eodem autem modo bene 
+   <lb ed="#B" n="35"/>ficiatus se absoluit. igitur.
+  </p>
+      <p xml:id="jMqv4a-d1e381-d1e341">
+   ⁋ Respondetur. Laicus tenel 
+   <lb ed="#B" n="36"/>aliquas praeces dicere tempore quo missam audit: sed quas 
+   <lb ed="#B" n="37"/>determinate dicere teneatur: non cadit sub arte tradita:  
+   <lb ed="#B" n="38"/>beneficiatus autem non tenetur dicere horas tempore quo mis 
+   <lb ed="#B" n="39"/>sam audit: potest tamen satisfacere praecepto de dicedis
+   ho<lb ed="#B" n="40" break="no"/>ris tempore quo missam audit. &amp; ita plurimum fit.
+  </p>
+      <p xml:id="jMqv4a-d1e381-d1e354">
+   ⁋ Quar 
+   <lb ed="#B" n="41"/>to arguitur. si Sortes clericus satisfacit simul vtrique 
+   <lb ed="#B" n="42"/>praecepto: sequitur quod plato socius eius dicens ho 
+   <lb ed="#B" n="43"/>ras in conclaui: &amp; nihu dicens tempore missae: nec missa 
+   <lb ed="#B" n="44"/>audiens propter distantiam, eodem modo satisfacit: 
+   <lb ed="#B" n="45"/>cum tantum faciat quantum Sortes.
+  </p>
+      <p xml:id="jMqv4a-d1e381-d1e367">
+   ⁋ Respondetur, non 
+   <lb ed="#B" n="46"/>sequitur: quia ex consuetudine Sortes applicat se circa 
+   <lb ed="#B" n="47"/>materiam missae: &amp; dicit orationes tempore missae 
+   <lb ed="#B" n="48"/>uon autem Plato: sed sedet tanquam vna statua nullam 
+   <lb ed="#B" n="49"/>deuotionem habendo tempore missae: nec sufficit 
+   <lb ed="#B" n="50"/>in conclaui habuisse similem deuotionem: nullam 
+   <lb ed="#B" n="51"/>tempore rei diuinae habendo.
+  </p>
+      <p xml:id="jMqv4a-d1e381-d1e383">
+   ⁋ Quinto arguitur. 
+   <lb ed="#B" n="52"/>sequitur ex conclusione quod sacerdos potest iniun 
+   <lb ed="#B" n="53"/>gere poenitenti opus praecepti in poenitentiam i 
+   <lb ed="#B" n="54"/>cum per eundem actum possit duobus vel pluri- 
+   <!--0175.xml-->
+   <cb ed="#B" n="b"/> 
+       <!-- 72-r b -->
+       <lb ed="#B" n="55"/>bus praeceptis satisfacere:
+  </p>
+      <p xml:id="jMqv4a-d1e381-d1e402">
+   ⁋ Respondetur. illud 
+   <lb ed="#B" n="56"/>nullo modo ex conclusione sequitur. quia per va 
+   <lb ed="#B" n="57"/>rios actus homo his duobus praeceptis satisfacit. 
+   <lb ed="#B" n="58"/>Secundo dico ad argumentum in se, negando quod 
+   <lb ed="#B" n="59"/>possit: ratio est, quia opus satisfactorium debet ei 
+   <lb ed="#B" n="60"/>se illud ad quod homo aliunde non obligatur: quia 
+   <lb ed="#B" n="61"/>si opus praecepti posset confessor iniungere poeniten 
+   <lb ed="#B" n="62"/>ti pro vno peccato: pro omnibus peccatis posset 
+   <lb ed="#B" n="63"/>opera praecepti iniungere: quod non iudico
+   con<lb ed="#B" n="64" break="no"/>cedendum. Sed hoc inferius in materia
+   poeniten<lb ed="#B" n="65" break="no"/>tiae latius tangam: quare supersedeo. 
+   <lb ed="#B" n="66"/>Vbitatur circa hanc materiam 
+   <lb ed="#B" n="67"/>quot sint horae canonicae. Et an homo 
+   <lb ed="#B" n="68"/>quam septies laudare deum teneatur de iure
+   di<lb ed="#B" n="69" break="no"/>uno.
+  </p>
+      <p xml:id="jMqv4a-d1e381-d1e435">
+   ⁋ Secundo dubitatur. an clericus beneficia 
+   <lb ed="#B" n="70"/>tus teneatur quolibet die dicere horas nostrae
+   do<lb ed="#B" n="71" break="no"/>minae.
+  </p>
+      <p xml:id="jMqv4a-d1e381-d1e442">
+   ⁋ Tertio ad quot horas homo teneatur an  
+   <lb ed="#B" n="72"/>tequam celebret missam.
+  </p>
+      <p xml:id="jMqv4a-d1e381-d1e447">
+   ⁋ Ad primum dicitur, quod sunt 
+   <lb ed="#B" n="73"/>septem horae canoniicae quae repraesentant septem 
+   <lb ed="#B" n="74"/>memorialia passionis Christi: vt patet in carmini 
+   <lb ed="#B" n="75"/>bus. In matutino damnatur tempore Christus, 
+   <lb ed="#B" n="76"/>Quando surrexit primam canit ordo fidelis. 
+   <lb ed="#B" n="77"/>Tertia dum canitur tunc est cruciamina passus. 
+   <lb ed="#B" n="78"/>Sexta sunt tenebrae per mundi climata factae. 
+   <lb ed="#B" n="79"/>Emissus nona diuinus spiritus hora. 
+   <lb ed="#B" n="80"/>Vespere clauduntur Christi sacra membra sepulchro. 
+   <lb ed="#B" n="81"/>Christo bis sena custodia ponitur hora. Et licet 
+   <lb ed="#B" n="82"/>Psalmographus septies in die deum laudauerit: 
+   <lb ed="#B" n="83"/>vel in media nocte laudem dixerit deo: totiens ta 
+   <lb ed="#B" n="84"/>men vel tali tempore laudare deum non est de iu 
+   <lb ed="#B" n="85"/>re diuino. si quis tamen hoc voueret: de iure naturae &amp; 
+   <lb ed="#B" n="86"/>diuino teneretur seruare suum votum.
+  </p>
+      <p xml:id="jMqv4a-d1e381-d1e480">
+   ⁋ Ad
+   se<lb ed="#B" n="87" break="no"/>cundam dubitationem dicitur quod non, quod patet per 
+   <lb ed="#B" n="88"/>vsum Romanum in rubricis: &amp; ex consuetudine 
+   <lb ed="#B" n="89"/>proborum virorum non legentium horas nostrae 
+   <lb ed="#B" n="90"/>dominae quolibet die. Similiter respondetur de 
+   <lb ed="#B" n="91"/>dicendis septem psalmis: &amp; de matutinis ac
+   ve<lb ed="#B" n="92" break="no"/>speris mortuorum. vbi enim non est consuetudo 
+   <lb ed="#B" n="93"/>proborum virorum ista dicere: homo non obliga 
+   <lb ed="#B" n="94"/>tur ad ea: qunia nec iure scripto nec
+   consuetudina<lb ed="#B" n="95" break="no"/>rio.
+  </p>
+      <p xml:id="jMqv4a-d1e381-d1e502">
+   ⁋ Ad tertium dubium dicitur quod post dictam 
+   <lb ed="#B" n="96"/>prima solent sacerdotes missam celebrare.
+  </p>
+      <p xml:id="jMqv4a-d1e381-d1e508">
+   ⁋
+   Ec<lb ed="#B" n="97" break="no"/>ce horas canonicas: quae ideo sic dicuntur: quia a 
+   <lb ed="#B" n="98"/>canonico iure &amp; positiuo &amp; congruenter institutae 
+   <lb ed="#B" n="99"/>sunt: ad quas dicendas tria hominum genera
+   obli<lb ed="#B" n="100" break="no"/>gantur: beneficiati: existentes in sacris: &amp;
+   profes<lb ed="#B" n="101" break="no"/>si in religione. De primo genere patet in ca. fi. xcii. 
+   <lb ed="#B" n="102"/>distinct. De secundo. in cap. Dolentes. de celebra. 
+   <lb ed="#B" n="103"/>mis. &amp; in capitulo primo. De tertio in capi. Licet. 
+   <lb ed="#B" n="104"/>de voto. siue sint excommunicati, degradati: vel 
+   <lb ed="#B" n="105"/>quouis alio crimine irretiti. Et licet existens in mor 
+   <lb ed="#B" n="106"/>tali non mereatur vitam aeternam horas dicendo:  
+   <lb ed="#B" n="107"/>tamen praeseruat se ne nouo peccato mortali
+   pec<lb ed="#B" n="108" break="no"/>cet: &amp; hoc si habeat attentionem debitam actualiter vel 
+   <!--0176.xml-->
+   <pb ed="#B" n="72-v"/>
+       <cb ed="#B" n="a"/>
+       <lb ed="#B" n="1"/>virtualiter. Et licet sint casus in quibus homo horas 
+   <lb ed="#B" n="2"/>possit praetermittere: si tamen commode eas dicere possit: 
+   <lb ed="#B" n="3"/>non assuescat ad hoc: ne in inconveniens de no dicen 
+   <lb ed="#B" n="4"/>dis horis extra excusationem legitimam incidat. cum 
+   <lb ed="#B" n="5"/>hoc tamen non faciat conscientiam de horis non
+   di<lb ed="#B" n="6" break="no"/>ctis, quando consilio sapientum dicitur esse rationabilis ex 
+   <lb ed="#B" n="7"/>cusatio. Conuertat etiam se homo quantum poterit in
+   ho<lb ed="#B" n="8" break="no"/>ris dicendis, ad memorialia passionis Christi: quia 
+   <lb ed="#B" n="9"/>ob hoc institutae sunt: vt dicens matutinas, in men 
+   <lb ed="#B" n="10"/>te recolat quomodo Chrstus pro nostris sceleribus 
+   <lb ed="#B" n="11"/>damnatus est. &amp; ita in aliis secundum carmina
+   assi<lb ed="#B" n="12" break="no"/>gnata. Quando autem iudicat se probabiliter aliquas horas 
+   <lb ed="#B" n="13"/>dixisse: pergat consequenter non faciendo conscientiam: 
+   <lb ed="#B" n="14"/>vt quando est in medio tertiae si percipiat certitudinaliter 
+   <lb ed="#B" n="15"/>se non dixisse primam, compleat suam tertiam cum
+   se<lb ed="#B" n="16" break="no"/>xta &amp; nona si voluerit: &amp; in fine redeat ad primam 
+   <lb ed="#B" n="17"/>supreplendo omissum: &amp; ita de vno vel de duobus 
+   <lb ed="#B" n="18"/>psalmis si voluerit. 
+  </p>
+    </div>
+   </body>
+  </text>
+</TEI>

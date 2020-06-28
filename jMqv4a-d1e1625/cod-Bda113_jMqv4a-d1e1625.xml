@@ -1,0 +1,309 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 11</title>
+      <author ref="#JohnMair">John Mair</author>
+      <respStmt>
+       <name>Jeffrey C. Witt</name>
+       <resp>TEI Encoder</resp>
+      </respStmt>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 11</title>
+       <date when="2020-06-09">June 27, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="B" n="cod-Bda113">Badius 1516</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+     guidelines for a diplomatic edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-06-27" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+      <pb ed="#B" n="304-v"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="jMqv4a-d1e1625"> <!-- l4d38q11 -->
+      <head xml:id="jMqv4a-d1e1625-Hd1e104">Quaestio 11</head>
+      <head xml:id="jMqv4a-d1e1625-Hd1e107" type="question-title">An licite sint aliqui religiosi mendicantes</head>
+      <p xml:id="jMqv4a-d1e1625-d1e110">
+       <lb ed="#B" n="14"/>⁋ Distinctionis Trigesimaeoctauae 
+   <lb ed="#B" n="15"/>Quaestio Vndecima. 
+   <lb ed="#B" n="16"/>Varto igitur circa 
+   <lb ed="#B" n="17"/>votum pauptatis &amp;. xi. in hac 
+   <lb ed="#B" n="18"/>distinct. quero: an licite sint 
+   <lb ed="#B" n="19"/>liqui religiosi mendicantes 
+   <lb ed="#B" n="20"/>Respondetur affirmatiue. 
+   <lb ed="#B" n="21"/>Aliqui enim sunt religiosi men 
+   <lb ed="#B" n="22"/>dicantes honeste viuentes 
+   <lb ed="#B" n="23"/>ves quatuor religionum mendicantes ab ecclesia 
+   <lb ed="#B" n="24"/>approbati scilicet praedicatores / minores / <name xml:id="jMqv4a-d1e1625-Nd1e136" ref="#Augustine">Augustinen</name> 
+       <lb ed="#B" n="25"/>ses siue eremitani / &amp; Carmelitae: qui nunc sunt per
+   ec<lb ed="#B" n="26" break="no"/>clesiam latissime dispersi. Quia medicare liceat, sio 
+   <lb ed="#B" n="27"/>probatur. licet patres validos in modo viuendi imi 
+   <lb ed="#B" n="28"/>tari. sed multi sancti humilitatis causa
+   mendica<lb ed="#B" n="29" break="no"/>runt. Vnde <name xml:id="jMqv4a-d1e1625-Nd1e150" ref="#Jerome">Hieronymus</name> in epistola ad Oceanum 
+   <lb ed="#B" n="30"/>commendat Fabiolam in hoc quod optabat vt suis 
+   <lb ed="#B" n="31"/>diuitiis pariter effusis pro Christo stipem accipe 
+   <lb ed="#B" n="32"/>ret. Et beatus Alexius omnibus suis propter Christum 
+   <lb ed="#B" n="33"/>dimissis gaudebat se a seruis suis eleemosynam ad 
+   <lb ed="#B" n="34"/>cipere: qui in Edessa ciuitate Mesopotamiae. xvii. 
+   <lb ed="#B" n="35"/>annos iuxta aedem beatae Mariae ex eleemosynis 
+   <lb ed="#B" n="36"/>viuendo iacuit: deinde reuersus Romam totidem 
+   <lb ed="#B" n="37"/>annos a patre nutritus est tanquam mendicus, patre 
+   <lb ed="#B" n="38"/>tamen ignorante quod sibi filius esset. Et in vitis patrum 
+   <lb ed="#B" n="39"/>legitur de beato Arsenio gratias agente de hoc quod
+   ne<lb ed="#B" n="40" break="no"/>cessitate cogente debuit eleemosynam petere. Da 
+   <lb ed="#B" n="41"/>uid item ab Abimelech petiuit panem. primi Regum 
+   <lb ed="#B" n="42"/>xxi. &amp; a Nabal. primi Regum. xxv. &amp; Helias a mu 
+   <lb ed="#B" n="43"/>liere Sareptana. Tertii regum. xvii. Nunc quoque 
+   <lb ed="#B" n="44"/>in poenitentiam aliquibus pro grauibus culpis inium 
+   <lb ed="#B" n="45"/>gitur vt peregrinando per mundum, &amp; mendicam 
+   <lb ed="#B" n="46"/>do imundi erunas perpeti discant, quod tamen non est in  
+   <lb ed="#B" n="47"/>iungendum nisi cum magna prudentia. Ostenditur etia 
+   <lb ed="#B" n="48"/>ratione. nam periculosus morbus remedio contrario 
+   <lb ed="#B" n="49"/>est e medio tollendus, sicut calida febris vsu
+   fri<lb ed="#B" n="50" break="no"/>gidorum. sed per hanc subiectionem mendicandi: &amp;
+   vi<lb ed="#B" n="51" break="no"/>litatem in populo reputatam tollitur superbia. Etian 
+   <lb ed="#B" n="52"/>in necessitate / vbi quis non potest aliter viuere: vel cum i 
+   <!--0640.xml-->
+   <cb ed="#B" n="b"/> 
+       <!-- 304-v b -->
+       <lb ed="#B" n="53"/>tenditur aliquid vtile quod sine eleemosynis habeti non 
+   <lb ed="#B" n="54"/>potest: licitum est mendicare. vt pote pro domibus
+   ho<lb ed="#B" n="55" break="no"/>spitalibus aedificandis, vel restituendis pontibus 
+   <lb ed="#B" n="56"/>vel pro quibuscunque aliis quae in vtilitatem commu 
+   <lb ed="#B" n="57"/>nem vergunt. qualis est conventus religiosorum 
+   <lb ed="#B" n="58"/>qui orationi &amp; studio vacant, pro benefactoribus 
+   <lb ed="#B" n="59"/>supplicantes: &amp; verbum dei esurientibus frangentes. 
+  </p>
+      <p xml:id="jMqv4a-d1e1625-d1e225">
+       <lb ed="#B" n="60"/>⁋ Contra hanc conclusionem arguitur 
+   <lb ed="#B" n="61"/>sic. prohibetur in lege mendicitas: ergo ipsa non est 
+   <lb ed="#B" n="62"/>licita &amp; honesta. antecedens patet per illd quod scribitur Deu 
+   <lb ed="#B" n="63"/>teronomii. xv. Et omnino indigens &amp; mendicus non 
+   <lb ed="#B" n="64"/>erit inter vos. Et in psalmo. xxxvi. lunior fui, et 
+   <lb ed="#B" n="65"/>enim senui: &amp; non vidi iustum derelictum / nec semen 
+   <lb ed="#B" n="66"/>eius quaerens panem.
+  </p>
+      <p xml:id="jMqv4a-d1e1625-d1e244">
+   ⁋ Respondetur.
+   consequen<lb ed="#B" n="67" break="no"/>tia est inualida: nec antecedens ad seusum argumenti est 
+   <lb ed="#B" n="68"/>verum. Dico ad primum quod praeceptum est diuitibus vt 
+   <lb ed="#B" n="69"/>subueniant pauperibus, nec patiantur eos mendi 
+   <lb ed="#B" n="70"/>care. multi tamen in illa lege mendicarunt. vt patx 
+   <lb ed="#B" n="71"/>ex contextu noui testamenti: &amp; de gestis a Chrum 
+   <lb ed="#B" n="72"/>sto &amp; apostolis: vbi erant mendicantes. quia egen 
+   <lb ed="#B" n="73"/>tibus quibus non subueniebatur alia via qui per
+   me<lb ed="#B" n="74" break="no"/>dicitate, licitum erat mendicare. Ad secundum responde, 
+   <lb ed="#B" n="75"/>tur quod Dauid intellexit de pane spirituali
+   verbi<lb ed="#B" n="76" break="no"/>nec semen eius: hoc est imitatores iusti. sic glossa 
+   <lb ed="#B" n="77"/>interlinearis exponit, secundum illud
+   Ecclesiast<lb ed="#B" n="78" break="no"/>xv. Cibauit illum pane vitae &amp; intellectus., quia in
+   pro<lb ed="#B" n="79" break="no"/>batione conclusionis ostendimus sanctos viros 
+   <lb ed="#B" n="80"/>mendicasse: vt dictum est de beato Alexio.
+  </p>
+      <p xml:id="jMqv4a-d1e1625-d1e277">
+   ⁋
+   Ter<lb ed="#B" n="81" break="no"/>tio arguitur. primae ad Thessalo. iiii. dicit
+   Aposto<lb ed="#B" n="82" break="no"/>lus. Operemini manibus vestris / sicut praecepimus 
+   <lb ed="#B" n="83"/>vobis. Et. ii. ad Thessalo. iii. Si quis non vult opera 
+   <lb ed="#B" n="84"/>ri nec manducet. Propterea noctu operabatur apo 
+   <lb ed="#B" n="85"/>stolus &amp; interdium praedicabat, ne quem grauaret, vt 
+   <lb ed="#B" n="86"/>ipse in eodem cap. dicit. sed isti religiosi mendicantes 
+   <lb ed="#B" n="87"/>mirum in modum sunt multiplicati in onus po 
+   <lb ed="#B" n="88"/>puli &amp; eius grauamen. ergo male faciunt mendi 
+   <lb ed="#B" n="89"/>cando.
+  </p>
+      <p xml:id="jMqv4a-d1e1625-d1e299">
+   ⁋ Respondetur. labor manuarius proprie ipsum car 
+   <lb ed="#B" n="90"/>piendo est aliquibus de praecepto: vtpote iis qui non patert 
+   <lb ed="#B" n="91"/>aliunde se &amp; suos sustentare: vel iis qui alioquin non 
+   <lb ed="#B" n="92"/>possent cauere a peccato, quin furentur / mentiantur / vel 
+   <lb ed="#B" n="93"/>adulterentur. sed iis quibus haec non eueniunt labor
+   ma<lb ed="#B" n="94" break="no"/>nuum non praecipitur, vt nobilibus / studentibus, adud 
+   <lb ed="#B" n="95"/>catis, praedicatoribus &amp; aliis. nam corporis impetus 
+   <lb ed="#B" n="96"/>ad illicita procliuis potest aliter magis quam labore
+   ma<lb ed="#B" n="97" break="no"/>nuum frangi: vtpote per longas omniones, per crebra 
+   <lb ed="#B" n="98"/>ieiunia, vigilias, igens studium: quia Minerua minuit 
+   <lb ed="#B" n="99"/>neruum. Non enim est credendum agricolam, vinitoren 
+   <lb ed="#B" n="100"/>aut lapidum incisorem tantum laborare quantum lite 
+   <lb ed="#B" n="101"/>ris incumbentem, quod experientia docet. Nam himanua 
+   <lb ed="#B" n="102"/>rii opifices carnes bouinas, porcinas, fabas &amp;
+   re<lb ed="#B" n="103" break="no"/>liqua durissimae concoctionis comedentes egregie 
+   <lb ed="#B" n="104"/>concoquunt: manent laeti &amp; sani: dormiunt quieti 
+   <lb ed="#B" n="105"/>quia rudes sunt / nec vexant ingenium ad varia 
+   <lb ed="#B" n="106"/>meditanda. At ingeniosus &amp; studiosus si sangui 
+   <!--0641.xml-->
+   <pb ed="#B" n="305-r"/>
+       <cb ed="#B" n="a"/>
+       <lb ed="#B" n="1"/>neae complexionis vel cholericae a natura fuerit: fri 
+   <lb ed="#B" n="2"/>quenti meditatione in pituitam, dolorem
+   stomachi<lb ed="#B" n="3" break="no"/>morbos chronicos, in consumptionem virium
+   natu<lb ed="#B" n="4" break="no"/>ralium labitur, nec in sonino noctu quietem habet: syllo 
+   <lb ed="#B" n="5"/>gizat hincinde, suadet, dissuadet: opponit: respon 
+   <lb ed="#B" n="6"/>det: semper est occupatus: aegre comedendo ocium 
+   <lb ed="#B" n="7"/>mentis capit. Nec in hoc male agit, licet vitam corri 
+   <lb ed="#B" n="8"/>piat. nam in honesta occupatione more militis &amp; 
+   <lb ed="#B" n="9"/>agricolae, &amp; pro vtilitate communi omnia facit, vt scribat. 
+   <lb ed="#B" n="10"/>legat, praedicet verbum dei: vel artes bonas vt gram 
+   <lb ed="#B" n="11"/>maticam &amp; logicen, quae ad verbum dei intelligendum 
+   <lb ed="#B" n="12"/>non parum conducunt, tradat. quis sapiens dicet hunc 
+   <lb ed="#B" n="13"/>ociosum: &amp; non minus alendum a republica quam
+   ma<lb ed="#B" n="14" break="no"/>nuarios opifices? Religiosi autem mendicantes haec 
+   <lb ed="#B" n="15"/>faciunt, vbi bene viuunt. Forum vero importunitatem 
+   <lb ed="#B" n="16"/>in petendo, &amp; nimiam inutilium multiplicationem 
+   <lb ed="#B" n="17"/>laudat nemo. Scite ad hoc propositum respondet
+   Au<lb ed="#B" n="18" break="no"/>gustinus in libro de operibus monachorum. Tam 
+   <lb ed="#B" n="19"/>multos hypocritas sub habitu monachorum vsque 
+   <lb ed="#B" n="20"/>quaque dispersit callidissimus hostis circumeuntes pro 
+   <lb ed="#B" n="21"/>uincias: omnes petunt: omnes exigunt, aut sumptus 
+   <lb ed="#B" n="22"/>lucrosae egestatis, aut simulatae precium sanctitatis. 
+   <lb ed="#B" n="23"/>Hic fige pedem. Porro si videret hunc numerum 
+   <lb ed="#B" n="24"/>multiplicatum qui a trecentis annis praeteritis initium 
+   <lb ed="#B" n="25"/>sumpsit, plura diceret. Videmus siquidem
+   mendican<lb ed="#B" n="26" break="no"/>tium plurimos nomen ipsum mendicitatis ample 
+   <lb ed="#B" n="27"/>ctentes: &amp; rem non prosequentes: sed institutorum in 
+   <lb ed="#B" n="28"/>tentionem frustrantes. hoc est, importune
+   mendi<lb ed="#B" n="29" break="no"/>cant, &amp; id a plebeis pauperibus tenuissime alitis: 
+   <lb ed="#B" n="30"/>ipsi autem inutiles imtemperanter &amp; prodige haec 
+   <lb ed="#B" n="31"/>expendunt. Videbis fratres minores plurimos con 
+   <lb ed="#B" n="32"/>tra suam professionem pyxides pro pecunia quaestuo 
+   <lb ed="#B" n="33"/>se colligenda in mensa praesentantes: triticum, bo 
+   <lb ed="#B" n="34"/>ues, &amp; oues sub deuotionis vmbra / mendicitate comn 
+   <lb ed="#B" n="35"/>quirentes. &amp; ita de aliis tribus religionibus. Verum 
+   <lb ed="#B" n="36"/>non loquor in religiosos mendicantes reformate 
+   <lb ed="#B" n="37"/>viuentes: sed in hos dyscolos qui reformari renuunt 
+   <lb ed="#B" n="38"/>cum oculatissimi &amp; prudentissimi harum quatuor re 
+   <lb ed="#B" n="39"/>ligiorium institutores intenderent quod paucis
+   conten<lb ed="#B" n="40" break="no"/>ti forent: eleemosynas oblatas caperent: &amp; solum pr 
+   <lb ed="#B" n="41"/>necessitate vitae cu quadam mediocritate vbi opo 
+   <lb ed="#B" n="42"/>tet, requirerent.
+  </p>
+      <p xml:id="jMqv4a-d1e1625-d1e436">
+   ⁋ Quarto arguitur. Isti religiosi men 
+   <lb ed="#B" n="43"/>dicantes tenentur pro aliis orare: ergo eorum oran 
+   <lb ed="#B" n="44"/>tio minus pro ipsis applicabitur: &amp; per consequens 
+   <lb ed="#B" n="45"/>imprudenter profitentur. Respondetur. hoc argu 
+   <lb ed="#B" n="46"/>mentum contra omnes religiosos aequaliter tendit:  
+   <lb ed="#B" n="47"/>&amp; breuiter contra primas ecclesiae colunnas, aposto 
+   <lb ed="#B" n="48"/>los, &amp; sanctos qui erant hierosolymis: pro quibus 
+   <lb ed="#B" n="49"/>Paulus crebro vt ex eius epistolis liquet,
+   eleemosy<lb ed="#B" n="50" break="no"/>nam quaesiuit. nam orans pro aliis non minus me 
+   <lb ed="#B" n="51"/>retur sibi ipsi ad vitam aeternam quam si pro se solo oraret. 
+  </p>
+      <p xml:id="jMqv4a-d1e1625-d1e458">
+       <lb ed="#B" n="52"/>⁋ Quinto arguitur. multi sunt istorum qui non 
+   <lb ed="#B" n="53"/>mendicant: ergo non sunt omnes de religione men 
+   <lb ed="#B" n="54"/>dicantium: nec illum ordinem secundum institu 
+   <lb ed="#B" n="55"/>tionem patrum seruant. Respondetur conceden- 
+   <!--0641.xml-->
+   <cb ed="#B" n="b"/> 
+       <!-- 305-r b -->
+       <lb ed="#B" n="56"/>do antecedens. nam <name xml:id="jMqv4a-d1e1625-Nd1e477">sanctus Thomas</name>, <name xml:id="jMqv4a-d1e1625-Nd1e480">Albertus</name>, 
+   <lb ed="#B" n="57"/>
+       <name xml:id="jMqv4a-d1e1625-Nd1e486" ref="#AlexanderOfHales">Alexander Halensis</name>, &amp; <name xml:id="jMqv4a-d1e1625-Nd1e489" ref="#Scotus">Ioannes Scotus</name> non mendi 
+   <lb ed="#B" n="58"/>carunt, saltem non constat. sed viuebant ex his qua 
+   <lb ed="#B" n="59"/>sibi dabantur in ratione eleemosynae a diuitibus. vel 
+   <lb ed="#B" n="60"/>nutriebantur mediate ex eleemosynis. nam alii men 
+   <lb ed="#B" n="61"/>dicantes soluerunt pro eorum victu &amp; vestitu: &amp; 
+   <lb ed="#B" n="62"/>ipsi alios exemplo, verbo vitae, &amp; legendo
+   docue<lb ed="#B" n="63" break="no"/>runt, vt praedicare possent. alii autem praedicando 
+   <lb ed="#B" n="64"/>necessaria conuentui attulerunt. Et propterea ex 
+   <lb ed="#B" n="65"/>ordine mendicantium vocati sunt isti quatuor no 
+   <lb ed="#B" n="66"/>minati: &amp; multi alii harum religionum, &amp; aliarum 
+   <lb ed="#B" n="67"/>duarum. Etiam in ecclesia plurimum profuerunt, 
+   <lb ed="#B" n="68"/>&amp; plus quam plurimi saeculares. De his tamen duobus 
+   <lb ed="#B" n="69"/>minoribus nominatis &amp; Middiltono, &amp; similibus 
+   <lb ed="#B" n="70"/>sufficienter constat quod in itinere vbi non habebant 
+   <lb ed="#B" n="71"/>coenobium: amore dei victum / hospitium / &amp;
+   trans<lb ed="#B" n="72" break="no"/>itum per oceanum a Britannia ad gallias &amp; contra / peti 
+   <lb ed="#B" n="73"/>uerunt / in grande meritum sibi / &amp; aliorum aedificationem: 
+   <lb ed="#B" n="74"/>quod viri summo pontificatu digni / digito
+   demonstra<lb ed="#B" n="75" break="no"/>ti ob eminentes suas virtutes, sic eleemosynam non 
+   <lb ed="#B" n="76"/>veriti sunt petere. Idem fecissent doctor sanctus,
+   li<lb ed="#B" n="77" break="no"/>cet genere nobilis: &amp; doctor seraphicus, vbi opus 
+   <lb ed="#B" n="78"/>fuisset.
+  </p>
+      <p xml:id="jMqv4a-d1e1625-d1e538">
+   ⁋ Sexto arguitur. Religiones mendicantium 
+   <lb ed="#B" n="79"/>parum fixe steterunt in prima institutione. nam bea 
+   <lb ed="#B" n="80"/>tus Bonauentura statim post regulam veniens, re 
+   <lb ed="#B" n="81"/>gulam reformare, &amp; fratres deuios ad normam
+   redu<lb ed="#B" n="82" break="no"/>cere conatus est: ita vt multi fratres conquesti sint 
+   <lb ed="#B" n="83"/>in concilio Constantiensi se habere conscientias 
+   <lb ed="#B" n="84"/>laceratas: quibus concilium tradidit modum viuen 
+   <lb ed="#B" n="85"/>di: qui hodiemo die obseruantes dicuntur, quod prae 
+   <lb ed="#B" n="86"/>dicatores &amp; multi alii sequuti sunt. Alii autem reli 
+   <lb ed="#B" n="87"/>giosi diutius perstiterunt. signum est ergo quod
+   reli<lb ed="#B" n="88" break="no"/>gio mendicantium religiosorum sit minus
+   rationa<lb ed="#B" n="89" break="no"/>biliter fundata. Nec sufficit dicere, hoc prouenire a 
+   <lb ed="#B" n="90"/>culpa religiosorum regulam non obseruantium, 
+   <lb ed="#B" n="91"/>&amp; non a regula. quia loquimur de bono instrumen 
+   <lb ed="#B" n="92"/>to quo homines vtuntur vt ad beatitudinem
+   pue<lb ed="#B" n="93" break="no"/>niant. cum enim multi alias religiones obseruent &amp; 
+   <lb ed="#B" n="94"/>non has: signum est quod non est instrumentum adeo 
+   <lb ed="#B" n="95"/>perfectum, quo homines vtuntur ad beatitudinem, 
+   <lb ed="#B" n="96"/>vt aliae religiones.
+  </p>
+      <p xml:id="jMqv4a-d1e1625-d1e581">
+   ⁋ Respondetur concedendo quod 
+   <lb ed="#B" n="97"/>multi istorum lapsi sunt a patrum limitibus. aliqui ta 
+   <lb ed="#B" n="98"/>men eorum spiritum domini habentes alios ad
+   vi<lb ed="#B" n="99" break="no"/>am salutis reduxere. &amp; vt intentioni argumenti sa 
+   <lb ed="#B" n="100"/>tisfiat / dico quod partim prouenit superiorum culpa tot 
+   <lb ed="#B" n="101"/>passim ad suas religiones admittentium. Alii autem ex 
+   <lb ed="#B" n="102"/>communi viuentes non suscipiunt nisi quos ex
+   redditi<lb ed="#B" n="103" break="no"/>bus coenobii alere possunt. tamen etiam multi eo 
+   <lb ed="#B" n="104"/>rum ex communi viuentium non diu perstiterunt 
+   <lb ed="#B" n="105"/>in rigore institutorum.
+  </p>
+      <p xml:id="jMqv4a-d1e1625-d1e603">
+   ⁋ Epilogando dico religio 
+   <lb ed="#B" n="106"/>nes quatuor mendicantium rationabiliter
+   institu<lb ed="#B" n="107" break="no"/>tas. quod a signo patet. Nam egregios viros in lite 
+   <lb ed="#B" n="108"/>ris &amp; moribus in ecclesiam emisit: &amp; praedicatores quo 
+   <lb ed="#B" n="109"/>tidie emittit in vineam domini ad declamandum 
+   <lb ed="#B" n="110"/>in templis / &amp; ad supplendas vices ineruditorum cu- 
+   <!--0642.xml-->
+   <pb ed="#B" n="305-v"/>
+       <cb ed="#B" n="a"/>
+       <lb ed="#B" n="1"/>ratorum. Item mendicitas est licita moderate assum 
+   <lb ed="#B" n="2"/>pta, &amp; meritoria. sed quum importune nimis petitur: 
+   <lb ed="#B" n="3"/>&amp; potissimum a pauperibus egentibus: ipsa est
+   ex<lb ed="#B" n="4" break="no"/>probranda. Validi autem mendicantes in Codice sunt 
+   <lb ed="#B" n="5"/>reprehensi / qui scilicet sunt robusti / saeculares / mendicita 
+   <lb ed="#B" n="6"/>te &amp; ociositate torpentes, qui si vellent, possent
+   labo<lb ed="#B" n="7" break="no"/>re manuum sibi in vita prouidere. 
+  </p>
+    </div>
+   </body>
+  </text>
+</TEI>

@@ -1,0 +1,370 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 1</title>
+      <author ref="#JohnMair">John Mair</author>
+      <respStmt>
+       <name>Jeffrey C. Witt</name>
+       <resp>TEI Encoder</resp>
+      </respStmt>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 1</title>
+       <date when="2020-06-09">June 27, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="B" n="cod-Bda113">Badius 1516</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+     guidelines for a diplomatic edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-06-27" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+      <pb ed="#B" n="344-r"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="jMqv4a-d1e1841"> <!-- l4d45q1 -->
+      <head xml:id="jMqv4a-d1e1841-Hd1e104">Quaestio 1</head>
+      <head xml:id="jMqv4a-d1e1841-Hd1e107" type="question-title">Quibus prosint suffragia ecclesiae</head>
+      <p xml:id="jMqv4a-d1e1841-d1e110">
+       <lb ed="#B" n="39"/>⁋ Distinctionis Quadragesimaequintae. 
+   <lb ed="#B" n="40"/>Quaestio Prima 
+   <lb ed="#B" n="41"/>Ria principa 
+   <lb ed="#B" n="42"/>liter in hac distine 
+   <lb ed="#B" n="43"/>ctione quadragesi 
+   <lb ed="#B" n="44"/>maquinta inquirere 
+   <lb ed="#B" n="45"/>pono. Primo de 
+   <lb ed="#B" n="46"/>suffragiis: quibus
+   va<lb ed="#B" n="47" break="no"/>leant: &amp; ad quid. Se 
+   <lb ed="#B" n="48"/>cundo de sepultura 
+   <lb ed="#B" n="49"/>mortuorum ad quid 
+   <lb ed="#B" n="50"/>illa conducat. Ter 
+   <lb ed="#B" n="51"/>tio an sancti pro no 
+   <lb ed="#B" n="52"/>bis &amp; existentibus in 
+   <lb ed="#B" n="53"/>purgatorio orent. 
+   <!--0719.xml-->
+   <cb ed="#B" n="b"/> 
+       <!-- 344-r b -->
+       <lb ed="#B" n="54"/>De suffragiis primo inquiram, quibus prosint suffra 
+   <lb ed="#B" n="55"/>gia ecclesiae. Pro quo pono conclusiones.
+  </p>
+      <p xml:id="jMqv4a-d1e1841-d1e156">
+   ⁋ Prima 
+   <lb ed="#B" n="56"/>est. Suffragia ecclesiae non prosunt damnatis probatur 
+   <lb ed="#B" n="57"/>Nam quarto de ciuitate dei dicit diuus <name xml:id="jMqv4a-d1e1841-Nd1e162" ref="#Augustine">Augustinus</name> 
+       <lb ed="#B" n="58"/>Si scirem patrem meum in infemo / non plus orarem pro 
+   <lb ed="#B" n="59"/>eo quam pro diabolo. Et Baptista tertio Calamitatum. 
+   <lb ed="#B" n="60"/>Sed neque rex erebi quemquam tranare paludem: Nec
+   su<lb ed="#B" n="61" break="no"/>peris iterum reddi sinit.
+  </p>
+      <p xml:id="jMqv4a-d1e1841-d1e176">
+   ⁋ Secunda propositio. Suffra 
+   <lb ed="#B" n="62"/>gia ecclesiae non prosunt existentibus in caelo. Nam ipsi 
+   <lb ed="#B" n="63"/>sunt in termino: quorum gloria non augetur: sicut nec 
+   <lb ed="#B" n="64"/>poena existentium in infemo diminuetur. Hoc patet 
+   <lb ed="#B" n="65"/>in Enchiridio. lxv. c. &amp; de cele. mis. c. Cum Marthae 
+   <lb ed="#B" n="66"/>.S. Tertio loco. vbi dicitur. Iniuriam facit martyri qui 
+   <lb ed="#B" n="67"/>orat pro martyre. Et propterea vt Innocentius tertius 
+   <lb ed="#B" n="68"/>archiepiscopo Lugdunensi illic scribit, mutata est 
+   <lb ed="#B" n="69"/>oratio sancti Leonis, vt pro nobis oraret: pro quo olim 
+   <lb ed="#B" n="70"/>orabatur.
+  </p>
+      <p xml:id="jMqv4a-d1e1841-d1e198">
+   ⁋ Tertia conclusio. Suffragia ecclesiae ali 
+   <lb ed="#B" n="71"/>quid prosunt: &amp; aliquibus. alioquin ecclesia frustra 
+   <lb ed="#B" n="72"/>oraret pro defunctis: &amp; sic erraret: quod nefas est dice 
+   <lb ed="#B" n="73"/>re. Et ostenditur per illud. ii. Machabeorum. xii. Sancta 
+   <lb ed="#B" n="74"/>&amp; salubris est cogitatio pro defunctis exorare, vt a 
+   <lb ed="#B" n="75"/>peccatis soluantur. Quod tangit idem Baptista
+   lib<lb ed="#B" n="76" break="no"/>iii. <name xml:id="jMqv4a-d1e1841-Nd1e213">Alphonsi</name> dicens. Propterea caeso rediens Macha 
+   <lb ed="#B" n="77"/>peus ab hoste Immensum Solymas argenti
+   pon<lb ed="#B" n="78" break="no"/>dus ad arces Misit / opem sociis qui cum virtute suprer 
+   <lb ed="#B" n="79"/>mam Clausissent pro lege diem. Et paulo ante in
+   eo<lb ed="#B" n="80" break="no"/>dem. Haec homines quotiens iterant libamina vel cum 
+   <lb ed="#B" n="81"/>Aere iuuant inopem vel pneumina sancta precantur: 
+   <lb ed="#B" n="82"/>Aut auido minus indulgent obsonia ventri. Sic deus 
+   <lb ed="#B" n="83"/>edixit: tali perfundimur auta. Diuinam sentimus
+   open<lb ed="#B" n="84" break="no"/>mitescit auernus: Exilium decrescit: habent fessi ocia 
+   <lb ed="#B" n="85"/>manes. In super arguitur ratione. Aliquis potest
+   satisfa<lb ed="#B" n="86" break="no"/>cere pro viuo: ergo &amp; pro defuncto. patet consequentia: 
+   <lb ed="#B" n="87"/>quia defunctus est capax liberatiois a poena sicui 
+   <lb ed="#B" n="88"/>&amp; viuus: quia actualiter poenam patitur. Sed siquis totum 
+   <lb ed="#B" n="89"/>valorem operis sui referat in satisfactionem alterius:
+   nul<lb ed="#B" n="90" break="no"/>lo modo satisfacit pro seipso. Nam existens dominus
+   fru<lb ed="#B" n="91" break="no"/>ctuum operis sui / &amp; omnino applicans fructum
+   al<lb ed="#B" n="92" break="no"/>teri: nihil sibi retinet, quemadmodum si pro se oret: totum 
+   <lb ed="#B" n="93"/>sibi prodest, non tamen sibi ipsi minus meretur de 
+   <lb ed="#B" n="94"/>gratia &amp; gloria: quia illa non meretur alteri.
+  </p>
+      <p xml:id="jMqv4a-d1e1841-d1e256">
+   ⁋
+   Quar<lb ed="#B" n="95" break="no"/>ta conclusio. Suffragia ecclesiae prosunt
+   existenti<lb ed="#B" n="96" break="no"/>bus in purgatorio. probatur sic. aliquibus prosunt. 
+   <lb ed="#B" n="97"/>secundum tertiam praemissam: &amp; non existentibus in caelo 
+   <lb ed="#B" n="98"/>aut infemo per primam &amp; secundam: ergo prosunt exi 
+   <lb ed="#B" n="99"/>stentibus in purgatorio: a sufficiente diuisione. Ap 
+   <lb ed="#B" n="100"/>pellamus existentem in purgatorio defunctum / vbicumo 
+   <lb ed="#B" n="101"/>locorum fuerit: modo non discesserit in originali vel 
+   <lb ed="#B" n="102"/>mortali: sed sit debitor poenae temporariae 
+  </p>
+      <p xml:id="jMqv4a-d1e1841-d1e276">
+       <lb ed="#B" n="103"/>⁋ Contra primam conclusionem
+   argu<lb ed="#B" n="104" break="no"/>mentor per argumentum commune de Traiano liberato 
+   <lb ed="#B" n="105"/>precibus beati Gregorii: qui tamen erat in inferno 
+   <lb ed="#B" n="106"/>quia beatum lgnatium discipulum beati Ioannis 
+   <lb ed="#B" n="107"/>euangelistae: &amp; aliquos alios morti tradidit iniuste- 
+   <!--0720.xml-->
+   <pb ed="#B" n="344-v"/>
+       <cb ed="#B" n="a"/>
+       <lb ed="#B" n="1"/>ltem ecclesia canit. Aporta inferi erue animas eo 
+   <lb ed="#B" n="2"/>rum. In super in Vitis patrum legitur quod Beatus Macharius 
+   <lb ed="#B" n="3"/>liberauit quendam gentilem presbyterum qui asseruit 
+   <lb ed="#B" n="4"/>se esse damnatum. Praeterea in vita sancti Brandani 
+   <lb ed="#B" n="5"/>continetur quod &amp; Altisi. in fine sui quarti allegat ex 
+   <lb ed="#B" n="6"/>Praepositino) quod beatus Brandanus vidit ludam ince 
+   <lb ed="#B" n="7"/>dentem per prata: &amp; cum quaereret ab eo quare non esset 
+   <lb ed="#B" n="8"/>in inferno: respondit quod ad tempus refrigerium
+   habe<lb ed="#B" n="9" break="no"/>bat propter bona quae fecerat.
+  </p>
+      <p xml:id="jMqv4a-d1e1841-d1e315">
+   ⁋ Ad primum, nescio 
+   <lb ed="#B" n="10"/>vnde sit origo illius historiae: cum attribuatur loanns 
+   <lb ed="#B" n="11"/>Damasceno qui multo tempore praecessit beatum Gre 
+   <lb ed="#B" n="12"/>gorium. Solutio autem communis est quod non erat
+   finali<lb ed="#B" n="13" break="no"/>ter damnatus. sed cum fuerit liberatus: hoc palam est 
+   <lb ed="#B" n="14"/>satius est dicere quod precibus beati Gregoriifuit vi 
+   <lb ed="#B" n="15"/>tae restitutus: &amp; meruerit: &amp; decesserit tandem in gra 
+   <lb ed="#B" n="16"/>tia. Ad aliud, non recipio illud de beato Machario 
+   <lb ed="#B" n="17"/>nisi aliunde doceatur certius, nec etiam illud quod nai 
+   <lb ed="#B" n="18"/>ratur in vita illius sancti patris beati Brandani. Ali 
+   <lb ed="#B" n="19"/>qui namque ineruditi interdum putantes sanctos ex 
+   <lb ed="#B" n="20"/>tollere falsa asserunt in eorum vitis. hic autem sanctus 
+   <lb ed="#B" n="21"/>pater fiorens multis miraculis / pater fere trium mi 
+   <lb ed="#B" n="22"/>lium monachorum vt memoriae proditum est: non ista 
+   <lb ed="#B" n="23"/>dicebat vt opinor: sed quidam alius asseruit hoc 
+   <lb ed="#B" n="24"/>esse ab eo dictum. Per portam autem inferi intelligitur 
+   <lb ed="#B" n="25"/>purgatorium. quomodo limbus patrum interdum
+   ap<lb ed="#B" n="26" break="no"/>pellatur infernus. vnde dicebat Iacob Gene. xlii 
+   <lb ed="#B" n="27"/>Deducetis canos meos cum dolore ad inferos. &amp; 
+   <lb ed="#B" n="28"/>xxxvii. Descendam ad filium meum lugens in infer 
+   <lb ed="#B" n="29"/>num. &amp; Iob. xvii. dicitur. In tenebris straui lectulum 
+   <lb ed="#B" n="30"/>meum: infernus domus mea est. Insiste tu ipse de 
+   <lb ed="#B" n="31"/>his qui resuscitati erant in vetere &amp; nouo testamen 
+   <lb ed="#B" n="32"/>to. forte aliquorum animae erant in purgatorio: aliquae 
+   <lb ed="#B" n="33"/>in caelo: &amp; decesserant forte in mortali. Hoc autem 
+   <lb ed="#B" n="34"/>non est directe contra nostram conclusionem: quia tales 
+   <lb ed="#B" n="35"/>sint extra communem legem.
+  </p>
+      <p xml:id="jMqv4a-d1e1841-d1e374">
+   ⁋ Secundo argumentor. 
+   <lb ed="#B" n="36"/>Anima Christi descendit ad inferos &amp; redemit ani 
+   <lb ed="#B" n="37"/>mas quae ibi fuerunt. sed aliquae erant in infemo. ig 
+   <lb ed="#B" n="38"/>tur. In super per distinctionem beati <name xml:id="jMqv4a-d1e1841-Nd1e382" ref="#Augustine">Augustini</name> in Eni 
+   <lb ed="#B" n="39"/>chiri. quae etiam citatur, de celebratione missarum. cap. 
+   <lb ed="#B" n="40"/>Cum Marthae. &amp;. xiii. q. ii. c. Tempus. quidam sunt valde 
+   <lb ed="#B" n="41"/>boni: quidam valde mali: &amp; his non prosunt suffra 
+   <lb ed="#B" n="42"/>gia. quidam mediocriter boni: &amp; quidam mediocriter 
+   <lb ed="#B" n="43"/>mali. &amp; illa membra non coincidunt. ad quod enim distin  
+   <lb ed="#B" n="44"/>xisset <name xml:id="jMqv4a-d1e1841-Nd1e398" ref="#Augustine">Augustinus</name> quatuor membra / si essent
+   so<lb ed="#B" n="45" break="no"/>lum tria in re? ergo per mediocriter malos intelligit 
+   <lb ed="#B" n="46"/>existentes in paucis peccatis mortalibus: quo mo 
+   <lb ed="#B" n="47"/>do multi intelligunt.
+  </p>
+      <p xml:id="jMqv4a-d1e1841-d1e410">
+   ⁋ Respondetur concedendo quoi 
+   <lb ed="#B" n="48"/>anima Christi descendit ad inferos. sed nego quod 
+   <lb ed="#B" n="49"/>omnes animas ibi existentes liberauerit: quia solum 
+   <lb ed="#B" n="50"/>debitrices poenae. vt <ref xml:id="jMqv4a-d1e1841-Rd1e418">beatus Gregorius</ref> dicit in
+   qua<lb ed="#B" n="51" break="no"/>dam homilia festorum paschalium. sed electorum
+   suo<lb ed="#B" n="52" break="no"/>rum nullum apud inferos reliquit. Purgatorium autem 
+   <lb ed="#B" n="53"/>est infernus inferior ad hos qui puniuntur hic su 
+   <lb ed="#B" n="54"/>perius. &amp; sic non obstat illud psalmi. lxxxv.
+   Frui<lb ed="#B" n="55" break="no"/>sti animam meam ex inferno inferiori. Ad secundum 
+   <!--0720.xml-->
+   <cb ed="#B" n="b"/> 
+       <!-- 344-v b -->
+       <lb ed="#B" n="56"/>dico quod per mediocriter bonos intelligit
+   existen<lb ed="#B" n="57" break="no"/>tes in venialibus, &amp; in eorum poenis. per
+   medio<lb ed="#B" n="58" break="no"/>criter malos intelligit existentes in venialibus &amp; de 
+   <lb ed="#B" n="59"/>bitores poenae pro mortalibus, de quibus acta est 
+   <lb ed="#B" n="60"/>poenitentia in hoc mundo. Et licet illa membra coin 
+   <lb ed="#B" n="61"/>ciderent: non esset disconueniens. nam in vulgari 
+   <lb ed="#B" n="62"/>modo loquendi idem intelligimus per mediocriter 
+   <lb ed="#B" n="63"/>bonos, &amp; mediocriter malos. Limitatio autem glos 
+   <lb ed="#B" n="64"/>sae in capitulo Cum Marthae. quod suffragia tollunt 
+   <lb ed="#B" n="65"/>geometrice &amp; non arithmetice. nihil valet cum
+   secun<lb ed="#B" n="66" break="no"/>dum suffragium sit vel esse possit adeo bonum, vt 
+   <lb ed="#B" n="67"/>primum: &amp; tertium aeque bonum, ac secundum. nam 
+   <lb ed="#B" n="68"/>pure voluntatium est dicere posteriora non tantum 
+   <lb ed="#B" n="69"/>tollere quantum priora. melior autem esset disceptatio 
+   <lb ed="#B" n="70"/>de illo qui decedit in mortali &amp; veniali. nam
+   ve<lb ed="#B" n="71" break="no"/>niale punietur solum temporaliter vt putamus. &amp; 
+   <lb ed="#B" n="72"/>videtur quod illi quo ad diminutionem poenae venia 
+   <lb ed="#B" n="73"/>lium prosint suffragia. quales forte vocantur
+   me<lb ed="#B" n="74" break="no"/>diocriter mali a beato <name xml:id="jMqv4a-d1e1841-Nd1e480" ref="#Augustine">Augustino,</name> qui cum
+   mor<lb ed="#B" n="75" break="no"/>talibus &amp; venialibus decedunt. Sed dices: illi pro 
+   <lb ed="#B" n="76"/>quibus ludas Machabeus misit pecuniam erant 
+   <lb ed="#B" n="77"/>damnati. quia habebant pecuniam idolorum sub
+   tu<lb ed="#B" n="78" break="no"/>nicis. Praesumebat quod poenitebant de peccato. 
+  </p>
+      <p xml:id="jMqv4a-d1e1841-d1e492">
+       <lb ed="#B" n="79"/>⁋ Contra secundam conclusionem 
+   <lb ed="#B" n="80"/>argumentor. sequitur quod tunc superflue quis orat, cum illi 
+   <lb ed="#B" n="81"/>non prosit oratio. Respondetur. oratio mea tunc in
+   si<lb ed="#B" n="82" break="no"/>nu meo convertetur. nam intentio mea
+   interpreta<lb ed="#B" n="83" break="no"/>tiua est vt ad me redeat si illi non prosit.
+  </p>
+      <p xml:id="jMqv4a-d1e1841-d1e505">
+   ⁋ Secun 
+   <lb ed="#B" n="84"/>do arguitur. oramus pro morientibus statim post 
+   <lb ed="#B" n="85"/>baptismum: quos tamen scimus baptizatos. igitur. Re 
+   <lb ed="#B" n="86"/>spondetur. dicimus missam pro paruulo baptizato 
+   <lb ed="#B" n="87"/>vt nobis prosit: &amp; ad commendandum mysterium 
+   <lb ed="#B" n="88"/>redemptionis, &amp; ad incorporandum talem in ecclesia cum 
+   <lb ed="#B" n="89"/>aliis. nam si est baptizatus / statim euolat. si non est: 
+   <lb ed="#B" n="90"/>protinus ibit ad limbum puerorum: &amp; iterum ei non 
+   <lb ed="#B" n="91"/>prodest. disiunctiua autem est certa certitudine
+   infalli<lb ed="#B" n="92" break="no"/>bili: licet altera pars sit certa certitudine solum mo 
+   <lb ed="#B" n="93"/>rali. puta quod est baptizatus vel non. Petis, an talis 
+   <lb ed="#B" n="94"/>certitudo sit fides: cum sit assensus firmus &amp;
+   ineui<lb ed="#B" n="95" break="no"/>dens. dico quod sic. nam si ego baptizem / sum certus de 
+   <lb ed="#B" n="96"/>nac categorica. iste est saluatus. quia haec dependet 
+   <lb ed="#B" n="97"/>ab his, quilibet rite baptizatus habet gratiam
+   ba<lb ed="#B" n="98" break="no"/>ptismalem. ille est huiusmodi. igitur. maior est de 
+   <lb ed="#B" n="99"/>fide. &amp; minor mihi certa: quia ego scio me intendis 
+   <lb ed="#B" n="100"/>se: protulisse verba: &amp; aquam proiecisse. &amp; alter est 
+   <lb ed="#B" n="101"/>certus de disiunctiua certitudine fidei nullum for 
+   <lb ed="#B" n="102"/>te assensum habendo circa categoricas: vel certitu 
+   <lb ed="#B" n="103"/>dinem moralem de altera. 
+  </p>
+      <p xml:id="jMqv4a-d1e1841-d1e551">
+       <lb ed="#B" n="104"/>⁋ Contra duas posteriores
+   conclusio<lb ed="#B" n="105" break="no"/>nes simul argumentor. Per illam viam renitimur
+   iusti<lb ed="#B" n="106" break="no"/>tiae diuinae liberando aliquem a purgatorio quem deus 
+   <lb ed="#B" n="107"/>vult punire: &amp; sic malum erit impunitum. In super sic 
+   <lb ed="#B" n="108"/>actus exterior aliquid boni super actum interiorem addet. 
+   <lb ed="#B" n="109"/>probatur. si sortes relinquat haeredi vel legatario 
+   <!--0721.xml-->
+   <pb ed="#B" n="345-r"/>
+       <cb ed="#B" n="a"/>
+       <lb ed="#B" n="1"/>celebrandas. xxx. missas pro se: &amp; plato totidem 
+   <lb ed="#B" n="2"/>&amp; nihil siat pro platone: sed pro sorte: sortes
+   ci<lb ed="#B" n="3" break="no"/>tius liberabitur. alioquin suffragia ei non prodessent. 
+  </p>
+      <p xml:id="jMqv4a-d1e1841-d1e580">
+       <lb ed="#B" n="4"/>⁋ Ad primum nego quod orans pro defunctis com 
+   <lb ed="#B" n="5"/>trauenit iustitiae diuinae: quia deus decreuit hand 
+   <lb ed="#B" n="6"/>animam purgari per ignem: nisi aliquis pro ea oret, nec 
+   <lb ed="#B" n="7"/>malum erit impunitum: quia iste orans patitur poe 
+   <lb ed="#B" n="8"/>nam pro amico non potente sibiipsi subuenire 
+   <lb ed="#B" n="9"/>Ad secundum nego de praemio essentiali. de ad 
+   <lb ed="#B" n="10"/>celeratione autem ad gloriam, &amp; ad habendam
+   glo<lb ed="#B" n="11" break="no"/>riam essentialem, concedo. &amp; quo ad hoc
+   condi<lb ed="#B" n="12" break="no"/>tio diuitis est melior quam pauperis: &amp; habentis
+   mul<lb ed="#B" n="13" break="no"/>tos amicos pro se orantes. iuxta illud Iob.
+   Mise<lb ed="#B" n="14" break="no"/>remini mei: miseremini mei / saltem vos amici mei: 
+   <lb ed="#B" n="15"/>quia manus domini tetigit me. Iob. xix. Obiicies.
+   er<lb ed="#B" n="16" break="no"/>go non sufficit velle celebrare pro aliquo ad libe 
+   <lb ed="#B" n="17"/>randum illum a purgatorio. vel si requiratur
+   exe<lb ed="#B" n="18" break="no"/>quutio quo ad hoc: sequitur haec conclusio.
+   Me<lb ed="#B" n="19" break="no"/>lius est habere sacrificium presbyteri celeriter
+   ce<lb ed="#B" n="20" break="no"/>lebrantis vt in Gallia, quam diu celebrantis vt in Sco 
+   <lb ed="#B" n="21"/>tia vel Hispania: quia in fine missae solum iste libe 
+   <lb ed="#B" n="22"/>rabitur. ponamus quod celebratio vnius missae libe 
+   <lb ed="#B" n="23"/>rabit aliquem a purgatorio. In super melius erit habe 
+   <lb ed="#B" n="24"/>statim post mortem. ccclxv. missas qui habere
+   pres<lb ed="#B" n="25" break="no"/>byterum quotidie celebrantem per annum. Patet 
+   <lb ed="#B" n="26"/>quoniam si tot missae hunc liberabunt: omnes celebra 
+   <lb ed="#B" n="27"/>tae mox post mortem eum liberabunt: quae si succes 
+   <lb ed="#B" n="28"/>siue fiant / non ita cito liberabunt. Respondetur. 
+   <lb ed="#B" n="29"/>requiritur actus exterior: &amp; caeteris paribus
+   mis<lb ed="#B" n="30" break="no"/>sa impigre celebrantis est melior. sed crebro caete 
+   <lb ed="#B" n="31"/>ra sunt imparia: quia deuotius alter sacerdos
+   ce<lb ed="#B" n="32" break="no"/>lebrat: &amp; plura dicit. quapropter neutrum
+   mo<lb ed="#B" n="33" break="no"/>dum reprobamus dummodo bene fiat iuxta com 
+   <lb ed="#B" n="34"/>suetudinem regionis. Ad secundum dico
+   argu<lb ed="#B" n="35" break="no"/>mentum concludente quo ad liberationem a
+   poe<lb ed="#B" n="36" break="no"/>na: sed non oportet esse melius: cum possibile sit 
+   <lb ed="#B" n="37"/>mereri plus de praemio essentiali celebrando per 
+   <lb ed="#B" n="38"/>annum: vel obitum instituendo seu fundando in  
+   <lb ed="#B" n="39"/>maiorem gloriam dei. sed neutrum istorum alteri 
+   <lb ed="#B" n="40"/>praeferimus: quia vtrumque est bonum suo modo.  
+  </p>
+      <p xml:id="jMqv4a-d1e1841-d1e663">
+       <lb ed="#B" n="41"/>⁋ Secundo arguitur. Apocalypsis. xiiii. dicitur. 
+   <lb ed="#B" n="42"/>Opera enim illorum sequuntur illos. ergo non  
+   <lb ed="#B" n="43"/>iuuantur alienis operibus. Item Ecclesiasti. ix. di 
+   <lb ed="#B" n="44"/>citur de mortuis quod non habent partem in opere 
+   <lb ed="#B" n="45"/>quod sub sole geritur. Insuper mala opera viuorum 
+   <lb ed="#B" n="46"/>non possunt nocere mortuis: quia nullus punitur 
+   <lb ed="#B" n="47"/>bis. ergo nec bona opera eis prodesse possunt. 
+  </p>
+      <p xml:id="jMqv4a-d1e1841-d1e682">
+       <lb ed="#B" n="48"/>⁋ Ad primum dicit beatus <name xml:id="jMqv4a-d1e1841-Nd1e686" ref="#Augustine">Augustinus:</name> &amp;
+   ma<lb ed="#B" n="49" break="no"/>gister allegat in litera, quod opera facta pro mortuis 
+   <lb ed="#B" n="50"/>dicuntur opera eorum: inquantum meruerunt in vita 
+   <lb ed="#B" n="51"/>vt pro eis fierent. &amp; hoc nihil aliud est quam decedere 
+   <lb ed="#B" n="52"/>in gratia, &amp; in debito poenae. Ad secundum. hoc est 
+   <lb ed="#B" n="53"/>verum ad augmentum gloriae vel gratiae. Ad ter 
+   <lb ed="#B" n="54"/>tium dicitur quod deus pronior est ad miserendum 
+   <lb ed="#B" n="55"/>quam puniendum.
+  </p>
+      <p xml:id="jMqv4a-d1e1841-d1e705">
+   ⁋ Nunc concludam paucis ea quai hac pri- 
+   <!--0721.xml-->
+   <cb ed="#B" n="b"/> 
+       <!-- 345-r b -->
+       <lb ed="#B" n="56"/>ma quaestione diximuscilicet quod possumus mereri liberati 
+   <lb ed="#B" n="57"/>onem poenae existentibus in purgatorio qui non possunt 
+   <lb ed="#B" n="58"/>seipsos iuuare. Ad hoc probationes adduximus. &amp; 
+   <lb ed="#B" n="59"/>probatur adhuc per glos. i. ad Thess. iiii. super illo verbo 
+   <lb ed="#B" n="60"/>nolumus vos) &amp; per Augustgi in sermodoe de verbis
+   apo<lb ed="#B" n="61" break="no"/>stoli. Sed si alicui vel aliquibus omnem fructum operis 
+   <lb ed="#B" n="62"/>mei applicem / &amp; pro illo praecise faciam: non mereor
+   ali<lb ed="#B" n="63" break="no"/>quid de liberatione poenae quo ad meipsum: nisi ab 
+   <lb ed="#B" n="64"/>ter non egeat tanto fructu. nam sic oratio mea
+   mi<lb ed="#B" n="65" break="no"/>ni proficit: quia est intentio mea interpretatiua quod in 
+   <lb ed="#B" n="66"/>me redeat, vbi expresse alteri non applicatur.
+   Du<lb ed="#B" n="67" break="no"/>randus tamen dicit quod non possum alteri mereri libera 
+   <lb ed="#B" n="68"/>tionem culpae venialis, nisi culpa fuerit prius
+   remis<lb ed="#B" n="69" break="no"/>sa. Hoc puto falsum, &amp; dico consequenter ad dicta 
+   <lb ed="#B" n="70"/>quod culpa venialem remitti in infemo nihil aliud 
+   <lb ed="#B" n="71"/>est quam poenam illic pati pro illa: &amp; hoc sufficit. &amp; a
+   for<lb ed="#B" n="72" break="no"/>tiore in purgatorio. Si igitur pati pro culpa veniali 
+   <lb ed="#B" n="73"/>est culpam venialem tolli in alio saeculo: me
+   rogan<lb ed="#B" n="74" break="no"/>te pro diminutione illius poenae poena delebitur: acsi 
+   <lb ed="#B" n="75"/>esset poena respondens vni culpae mortali prius 
+   <lb ed="#B" n="76"/>in via dimissae. Vlterius dico non esse prudentem quim 
+   <lb ed="#B" n="77"/>seneglecto suffragia sua mortuis applicat.
+  </p>
+    </div>
+   </body>
+  </text>
+</TEI>

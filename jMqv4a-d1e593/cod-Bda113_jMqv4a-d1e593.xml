@@ -1,0 +1,417 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 16</title>
+      <author ref="#JohnMair">John Mair</author>
+      <respStmt>
+       <name>Jeffrey C. Witt</name>
+       <resp>TEI Encoder</resp>
+      </respStmt>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 16</title>
+       <date when="2020-06-09">June 27, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="B" n="cod-Bda113">Badius 1516</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+     guidelines for a diplomatic edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-06-27" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+      <pb ed="#B" n="111-r"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="jMqv4a-d1e593"> <!-- l4d15q16 -->
+      <head xml:id="jMqv4a-d1e593-Hd1e104">Quaestio 16</head>
+      <head xml:id="jMqv4a-d1e593-Hd1e107" type="question-title">An proximi lacerans famam teneatur eam restituere</head>
+      <p xml:id="jMqv4a-d1e593-d1e110">
+       <lb ed="#B" n="26"/>DEcimosexto circa 
+   <lb ed="#B" n="27"/>Athanc distinctionem
+   quin<lb ed="#B" n="28" break="no"/>uitamdecimam quaeritur: an 
+   <lb ed="#B" n="29"/>proximi lacerans famam 
+   <lb ed="#B" n="30"/>llteneatur eam restituere. Super 
+   <lb ed="#B" n="31"/>ponatur quod fama nihil aliud 
+   <lb ed="#B" n="32"/>vest quam opinio vel iudicium 
+   <lb ed="#B" n="33"/>ARsEquod de aliquo habetur. &amp; si 
+   <lb ed="#B" n="34"/>sit in bono / vocatur bona fama: si in malo, mala. fre 
+   <lb ed="#B" n="35"/>quentius tamen in bonam partem accipitur. Detrahere nihi 
+   <lb ed="#B" n="36"/>aliud est quam aliquid ab aliquo toto auferre. vel dare 
+   <lb ed="#B" n="37"/>proximo malum: quod est peius quam de bono tollere.
+   Mul<lb ed="#B" n="38" break="no"/>tifariam autem homo detrahit famae alterius. Vno mo 
+   <lb ed="#B" n="39"/>do quando mala fama est publicata. &amp; ille proprie 
+   <lb ed="#B" n="40"/>non detrahit: cum iam detracta sit, &amp; nullam ferme
+   fa<lb ed="#B" n="41" break="no"/>mam habeat nisi eam suscitet cum est semel extincta. vel 
+   <lb ed="#B" n="42"/>dicendo paucis quibus res est nota. vel dicendo
+   ali<lb ed="#B" n="43" break="no"/>quoid quod parum famam laedit: vt vocando eum iracundum 
+   <lb ed="#B" n="44"/>loquacem, non studiosum: vel addens aliquid quod 
+   <lb ed="#B" n="45"/>de natura loquendi diminuit, a certitudine
+   dimi<lb ed="#B" n="46" break="no"/>nutionis famae. vt dicendo: intellexi talia esse re 
+   <lb ed="#B" n="47"/>lata de sorte. vel plato mihi mala dixit de Sorte: 
+   <lb ed="#B" n="48"/>nescio quid veri sit. Secundo modo quis laedit fa 
+   <lb ed="#B" n="49"/>mam proximi, ei falsum crimen notabiliter
+   ma<lb ed="#B" n="50" break="no"/>lum imponendo: quaele vxor Phutifaris imposuit 
+   <lb ed="#B" n="51"/>loseph. Genesis. xxxix. &amp; senes Susannae. Da- 
+   <!--0253.xml-->
+   <cb ed="#B" n="b"/> 
+       <!-- 111-r b -->
+       <lb ed="#B" n="52"/>nielis. xiii. Tertio modo verum crimen sed occul 
+   <lb ed="#B" n="53"/>tum alteri imponendo: hoc est praetermisso ordie 
+   <lb ed="#B" n="54"/>iuris. Quarto modo quis negat verum crimen si 
+   <lb ed="#B" n="55"/>bi impositum sed occultum. 
+  </p>
+      <p xml:id="jMqv4a-d1e593-d1e184">
+       <lb ed="#B" n="56"/>⁋ lstis notatis ponuntur conclusiones. 
+   <lb ed="#B" n="57"/>Prima est. In detractione primi modi plerunque es 
+   <lb ed="#B" n="58"/>veniale peccatum. Ratio est. quia dicitur aliquid 
+   <lb ed="#B" n="59"/>quod non notabiliter laedit famam proximi: vel ex 
+   <lb ed="#B" n="60"/>parte dict i / vocando virum iracundum, loquacen 
+   <lb ed="#B" n="61"/>vel huiusmodi: quod est ei notum naturale. vel ponit tem 
+   <lb ed="#B" n="62"/>peramentum vt audiui talia de illo dici: nescio an 
+   <lb ed="#B" n="63"/>sint vera: vel non credo: vel simile: &amp; stat hic esse 
+   <lb ed="#B" n="64"/>mortale quando dicitur coram dicacibus &amp; imprudentibus 
+   <lb ed="#B" n="65"/>quos dicens faciles nouit ad assentiendum: qui talia 
+   <lb ed="#B" n="66"/>forte enunciabunt sine addito. Propterea ab omnibus 
+   <lb ed="#B" n="67"/>his est cauendum.
+  </p>
+      <p xml:id="jMqv4a-d1e593-d1e214">
+   ⁋ Secunda conclusio in quam omnes con 
+   <lb ed="#B" n="68"/>ueniunt. Imponens alicui falsum crimen tenctur illud 
+   <lb ed="#B" n="69"/>reuocare: vt si quam voluptatem male dicendo ac 
+   <lb ed="#B" n="70"/>cepit, eam reuocando amittat: more Sallustii ad 
+   <lb ed="#B" n="71"/>Tullium. &amp; concedat publice quod mentitus fuerit: vt 
+   <lb ed="#B" n="72"/>fama restituatur innoceti apud eos ad quos infamia 
+   <lb ed="#B" n="73"/>alterius deuenit: non tamen coram omnibus. Forte enim infa 
+   <lb ed="#B" n="74"/>mia spargitur per totum regnum innocentis. Hoc autem modo 
+   <lb ed="#B" n="75"/>restituat. eat ad forum vel ad ecclesiam parochialem: 
+   <lb ed="#B" n="76"/>&amp; ibi publice confiteatur se mentitum fuisse, nec 
+   <lb ed="#B" n="77"/>sic dicendo se infamat radicaliter: licet tunc primo 
+   <lb ed="#B" n="78"/>pestimetur infamis a populo. Cum enim primum
+   fal<lb ed="#B" n="79" break="no"/>sum crimen fratri imposuit, radicem dedit infamiae 
+   <lb ed="#B" n="80"/>Analogia est. sortes furatur in conspectu duorum 
+   <lb ed="#B" n="81"/>crimen illud iam paucis innotescit. Hi duo testantur 
+   <lb ed="#B" n="82"/>contra sortem in iudicio: nunc infamia sortis vaga 
+   <lb ed="#B" n="83"/>tur coram populo: &amp; radicaliter quando furatus 
+   <lb ed="#B" n="84"/>est. Potius tamen homo debet seruare famam propriam quam alte 
+   <lb ed="#B" n="85"/>rius caeteris paribus. Hic autem caetera sunt multu impa 
+   <lb ed="#B" n="86"/>ria: quia innocentis fama iniuste dente canino laceratur: &amp; 
+   <lb ed="#B" n="87"/>fama istius nocentis putatur bona. Tenetur ergo innocen 
+   <lb ed="#B" n="88"/>ti reddere ablatum. Si enim necessarium est proximo red  
+   <lb ed="#B" n="89"/>dere bona fortumae ablata: quanto magis necessarium 
+   <lb ed="#B" n="90"/>est reddere famaqua bonis fortunae praestat secundum illud 
+   <lb ed="#B" n="91"/>prouerbiorum. xxii. Melius est nomen bonum quam diuitiae 
+   <lb ed="#B" n="92"/>multae. Et Ecclesiast. xli. Curam habe de bono nomine. 
+   <lb ed="#B" n="93"/>hoc enim magis permanebit tibi qui mille thesauri praecio 
+   <lb ed="#B" n="94"/>si &amp; magni. Et istud est verum nisi fortiori viculo tene 
+   <lb ed="#B" n="95"/>retur ad non reserandum. Stant enim quod si confiterer me hoc 
+   <lb ed="#B" n="96"/>dixisse, sim occidendus: tunc restituere no teneor. stat 
+   <lb ed="#B" n="97"/>etiam quod non credetur retractanti. vel mala fama iam ab 
+   <lb ed="#B" n="98"/>hominium mentibus excidit: aut si iste retractare tentauerii 
+   <lb ed="#B" n="99"/>famam alterius laedet: tunc iudicio prudentis acquiescet. 
+   <lb ed="#B" n="100"/>Si autem imposuit alicui falsum crimen quod credebat ex 
+   <lb ed="#B" n="101"/>relatione aliquorum esse verum, sed tandem com 
+   <lb ed="#B" n="102"/>perit illud esse falsum: iam tenetur famam
+   inno<lb ed="#B" n="103" break="no"/>centi restituere: &amp; cum hoc potest famam propriam 
+   <lb ed="#B" n="104"/>seruare dicendo publice si publicauit: vel vni, duo 
+   <lb ed="#B" n="105"/>bus, vel tribus si apud illos solum dixit. ratus sum 
+   <!--0254.xml-->
+   <pb ed="#B" n="111-v"/>
+       <cb ed="#B" n="a"/>
+       <lb ed="#B" n="1"/>sortem sic fuisse malum: fornicatorem: vel periurum, sic 
+   <lb ed="#B" n="2"/>eram persuasus ab aliquibus quibus non debeba credere: 
+   <lb ed="#B" n="3"/>nunc coperi oppositum verum. iam reddit alteri debitum: 
+   <lb ed="#B" n="4"/>&amp; sibiipsi imponit solum quandam leuitatem. nam qui cito cre 
+   <lb ed="#B" n="5"/>dit leuis est corde. &amp; tantum de fama sibi tribuit quan 
+   <lb ed="#B" n="6"/>tum aufert: cum seipsum solum notet leuitatis: &amp; innocen 
+   <lb ed="#B" n="7"/>ti restituat fama: quod indicium est bonae conscientiae: &amp; quod 
+   <lb ed="#B" n="8"/>deum timet &amp; proximum diligit. Pestifera vero res est 
+   <lb ed="#B" n="9"/>haec laceratio famae &amp; grande mortale quando fit animo 
+   <lb ed="#B" n="10"/>denigrandi proximi. &amp; quanto ille cuius fama laeditur est 
+   <lb ed="#B" n="11"/>maior: tanto illam lacerare est maius peccatum. &amp; crescit 
+   <lb ed="#B" n="12"/>magnitudo peccati per hoc quod infamatus distrahitur a bo 
+   <lb ed="#B" n="13"/>no quod impendebat communi populo. Sic enim omnibus po 
+   <lb ed="#B" n="14"/>puli seu de populo tenetur infamans ad quandam 
+   <lb ed="#B" n="15"/>compensationem: vt dicit forte de curato vel praedi 
+   <lb ed="#B" n="16"/>catore quod est fornicator, adulter, vel homicida: iam 
+   <lb ed="#B" n="17"/>curatus distrahitur a sermone, quia est notatus vno
+   vi<lb ed="#B" n="18" break="no"/>tio: nec audet vt olim praedicare contra illud vitium 
+   <lb ed="#B" n="19"/>vel contra alia: timens ne sibi dicatur vocaliter vel men 
+   <lb ed="#B" n="20"/>taliter verbum euangelicum. Eiice primum trabende ocu 
+   <lb ed="#B" n="21"/>lo tuo, postea labe de nostris. vt testantur plebei
+   ver<lb ed="#B" n="22" break="no"/>siculi. Qui cupit ex oculo consortis tollere labem, 
+   <lb ed="#B" n="23"/>Primitus ex proprio diluat ipse trabem. ltaque non
+   profi<lb ed="#B" n="24" break="no"/>cit aliis vt heri &amp; nudiustertius, necin se ipso. sicut 
+   <lb ed="#B" n="25"/>enim honos alit artes, ita &amp; virtutem. &amp; in se virtus 
+   <lb ed="#B" n="26"/>tabescit. Ecce quid facit vir Belial alterius famam la 
+   <lb ed="#B" n="27"/>cerando. Caueat ergo alios dente canino lacerare: &amp; 
+   <lb ed="#B" n="28"/>si quos iniuste lacerauerit, laboret restituere.
+   Ma<lb ed="#B" n="29" break="no"/>gnitudo autem eius peccati patet. Nam tollere rem proximi est 
+   <lb ed="#B" n="30"/>grande peccatum: &amp; quanto plus tollitur tanto peccatum est ma 
+   <lb ed="#B" n="31"/>ius. sed omnibus his bonis praestat fama. ergo proximi 
+   <lb ed="#B" n="32"/>lacerans famam ex industria ei falsum imponendo, quam 
+   <lb ed="#B" n="33"/>to notabilius laedit eius famam / tanto grauius peccat &amp; 
+   <lb ed="#B" n="34"/>semper mortaliter. Sub hoc etiam membro includitur quando homo 
+   <lb ed="#B" n="35"/>iuget peccatum verum proximi notabiliter: quia id quod appo 
+   <lb ed="#B" n="36"/>nit, est falsum crimen: &amp; non commissum ab eo. Peccat 
+   <lb ed="#B" n="37"/>etiam sed minus: si bonam famam proximi occultat vel in 
+   <lb ed="#B" n="38"/>pedit inordinate. vt quando dicit bonus &amp; deuotus: 
+   <lb ed="#B" n="39"/>&amp; detractor dicit se non credere: vel inordinate 
+   <lb ed="#B" n="40"/>hoc impedit. Dixi (inordinate) quia si crederet quod 
+   <lb ed="#B" n="41"/>fama alterius esset reipublicae nociua, iam non
+   inordina<lb ed="#B" n="42" break="no"/>te impediret alterius famam.
+  </p>
+      <p xml:id="jMqv4a-d1e593-d1e396">
+   ⁋ Tertio quis lacerat faman 
+   <lb ed="#B" n="43"/>alterius verum crimen sed occultum ei imponendo. &amp; is 
+   <lb ed="#B" n="44"/>quia contra ordinem charitatis processit, occultum crimen 
+   <lb ed="#B" n="45"/>fratris propalando: tenetur illud retractare, non tamen potest 
+   <lb ed="#B" n="46"/>dicere: mentitus sum de tali: quia sic peccaret. ldeo
+   di<lb ed="#B" n="47" break="no"/>cunt aliquod quod debet dicere se non processisse bono modo 
+   <lb ed="#B" n="48"/>contra istu. Alii dicunt sic esse dicendum: non credatis eum 
+   <lb ed="#B" n="49"/>esse talem. Male enim dixi. &amp; hoc est verum: quia non serua 
+   <lb ed="#B" n="50"/>uit ordinem iuris. Sed contra vtrumque istorum arguitur. 
+   <lb ed="#B" n="51"/>ex isto modo dicendi non redditur alteri fama: sed puta 
+   <lb ed="#B" n="52"/>tur esse peior quam antea: cum ex modo dicendi appeat 
+   <lb ed="#B" n="53"/>alium fuisse occulte malum. Sed tunc est difficile ser 
+   <lb ed="#B" n="54"/>uare se a mendacio: ad quod tamen obligatur. Ego sic 
+   <lb ed="#B" n="55"/>consulerem dicere: credebam tempore quo loquutus 
+   <!--0254.xml-->
+   <cb ed="#B" n="b"/> 
+       <!-- 111-v b -->
+       <lb ed="#B" n="56"/>sum de isto, ei hoc crimen imponendo, verum
+   di<lb ed="#B" n="57" break="no"/>xisse: postea ponderando casum: &amp; faciendo inda 
+   <lb ed="#B" n="58"/>ginem reperi me leuiter processisse. Hoc enim totum 
+   <lb ed="#B" n="59"/>est verum: nec iste mentitur: &amp; seruat propriam
+   fa<lb ed="#B" n="60" break="no"/>mam: per hoc quod dicit credebam me verum dixisse 
+   <lb ed="#B" n="61"/>&amp; hoc est verum: &amp; scit hoc esse verum adhuc: sed pro 
+   <lb ed="#B" n="62"/>cautela vt famam alteri reddat, dicit post indaginem 
+   <lb ed="#B" n="63"/>factam de scelere: fateor me leuiter dixisse. &amp; hoc ite 
+   <lb ed="#B" n="64"/>rum est verum. Si dicas. docti per nostrum consilium intelli 
+   <lb ed="#B" n="65"/>gent quod crimemn erat occultum: &amp; ita magis lacerabit 
+   <lb ed="#B" n="66"/>famam qui tacendo. Respondeo in primis vulgus non sic
+   intel<lb ed="#B" n="67" break="no"/>iget. dein de occultiorem modum videmur dare quam alii 
+   <lb ed="#B" n="68"/>pro seruanda fama laesi. &amp; pauci docti etiam hoc 
+   <lb ed="#B" n="69"/>intel ligent: quia non seruauit ordinem iuris. &amp;
+   lic<lb ed="#B" n="70" break="no"/>approximet lacerationi famae propriae: non obstat, 
+   <lb ed="#B" n="71"/>cum hoc demeruerit detrahendo. Si hoc contentus 
+   <lb ed="#B" n="72"/>non fueris: da meliorem modum tu ipse: &amp; nobis pla 
+   <lb ed="#B" n="73"/>cebit.
+  </p>
+      <p xml:id="jMqv4a-d1e593-d1e472">
+   ⁋ De quarto membro dicunt aliqui quod non
+   te<lb ed="#B" n="74" break="no"/>netur retractare negationem suam qua negauit in  
+   <lb ed="#B" n="75"/>publico verum crimen sibi impositum: tenetur tamen 
+   <lb ed="#B" n="76"/>per quaedam verba sobtia restituere famam accu 
+   <lb ed="#B" n="77"/>santi, quem indirecte notauit de calumnia,
+   dicen<lb ed="#B" n="78" break="no"/>do, non habeatis eum pro calumniatore. credo quod ha 
+   <lb ed="#B" n="79"/>buit bonam intentionem proponendo: vel forte credi 
+   <lb ed="#B" n="80"/>dit se probaturum intentum suum: sed deceptus fuit 
+   <lb ed="#B" n="81"/>Quo ad priorem partem negatiuam placet mihi
+   il<lb ed="#B" n="82" break="no"/>lud. Secunda pars etiam habet aliquid apparentiae 
+   <lb ed="#B" n="83"/>sed nego eam. nam opinione mea non tenetur 
+   <lb ed="#B" n="84"/>ad restitutionem alicuius famae huic: quia intentio 
+   <lb ed="#B" n="85"/>eius non valebat: saltem non processit debite inten 
+   <lb ed="#B" n="86"/>dendo. &amp; quando proposuit mihi puplice crimen
+   occul<lb ed="#B" n="87" break="no"/>tum / quod probare non poterat: suam famam inique
+   la<lb ed="#B" n="88" break="no"/>cerauit ipse. Licitum est autem inuaso pro sua protectio 
+   <lb ed="#B" n="89"/>ne alium occidere. sic nihil ad me quod ipse ex mea 
+   <lb ed="#B" n="90"/>defensione calumniator iudicetur. Ego igitur non
+   tene<lb ed="#B" n="91" break="no"/>bor restituere ei quicquam: sed ipse erit mihi deuinctus 
+   <lb ed="#B" n="92"/>restituere modo praedicto. 
+  </p>
+      <p xml:id="jMqv4a-d1e593-d1e516">
+       <lb ed="#B" n="93"/>⁋ Sed circa dicta dubitatur. ponatur 
+   <lb ed="#B" n="94"/>Bortes dixisse de Platone curato quod tenet
+   occul<lb ed="#B" n="95" break="no"/>tam concubinam in domo. postea Plato dicat de 
+   <lb ed="#B" n="96"/>sorte vel faciat dici per alium (quia ei non haberetur 
+   <lb ed="#B" n="97"/>fides: sed putaretur dicere ex maliuolentia) quod sor 
+   <lb ed="#B" n="98"/>tes est adulter, vel tenet concubinam. ponatur
+   vtrun<lb ed="#B" n="99" break="no"/>uod crimen falsum. an possint facere recompensatio 
+   <lb ed="#B" n="100"/>nem mutuam. Et apperet quod sic., quia si sortes furetur equum 
+   <lb ed="#B" n="101"/>a Platone: &amp; plato duos boues aequalis valoris 
+   <lb ed="#B" n="102"/>cum equo a sorte: faciunt recompensationem.
+  </p>
+      <p xml:id="jMqv4a-d1e593-d1e540">
+   ⁋ Re 
+   <lb ed="#B" n="103"/>spondeo quod non possunt facere
+   recompensatio<lb ed="#B" n="104" break="no"/>nem sic mutuo: sed vterque tenetur retractare
+   ma<lb ed="#B" n="105" break="no"/>ledictum: quia non solum peccatur in personas ip 
+   <lb ed="#B" n="106"/>sas: sed etiam in communitatem quando
+   infa<lb ed="#B" n="107" break="no"/>mia hicide est publica. peccatum namque boni vehementer 
+   <lb ed="#B" n="108"/>offendit indoctam plebem: &amp; vehementer diminuit fidem 
+   <lb ed="#B" n="109"/>&amp; bonam vitam in aliis. nam aliqui peruersi &amp; maleuoli a 
+   <!--0255.xml-->
+   <pb ed="#B" n="112-r"/>
+       <cb ed="#B" n="a"/>
+       <lb ed="#B" n="1"/>natura habent perperam de bonis loqui: vt sua mala
+   vi<lb ed="#B" n="2" break="no"/>ta non appareat: quia vt vulgo circumfertur: est conso 
+   <lb ed="#B" n="3"/>latio miserorum habere consortem in poena. vel ad 
+   <lb ed="#B" n="4"/>si nulla esset deuotio in mundo. Et vt magis fallant, 
+   <lb ed="#B" n="5"/>assimilant se sophistis. Assumunt namque maiorem rationa 
+   <lb ed="#B" n="6"/>bilem: minorem falsam adiugunt: tandem cocludentes fal 
+   <lb ed="#B" n="7"/>sum. Si enim maior praemissa non esset rationabilis, no 
+   <lb ed="#B" n="8"/>esset causa fallaciae: deficeret enim causa apparen 
+   <lb ed="#B" n="9"/>tiae. in minore autem est causa defectus. pro maiore 
+   <lb ed="#B" n="10"/>extollunt virum in scientia: in sermone ad populum 
+   <lb ed="#B" n="11"/>in grauitate / prudentia / &amp; huiusmodi. subsumunt 
+   <lb ed="#B" n="12"/>pro minore: dicentes eum esse impudicum vel ve 
+   <lb ed="#B" n="13"/>hementer laborare pro beneficiorum
+   pluralita<lb ed="#B" n="14" break="no"/>te: vel esse superbum. postea inferunt proponem in parte ve 
+   <lb ed="#B" n="15"/>ram &amp; in parte falsam vbi deberent inferre proponne in to 
+   <lb ed="#B" n="16"/>to vera. &amp; be bona occulta publicent: malo fine hoc 
+   <lb ed="#B" n="17"/>faciunt: &amp; si forte non malo fine hoc faciant, quod est
+   ra<lb ed="#B" n="18" break="no"/>tissimum, sed quadam dicacitate, male agunt. Si enim 
+   <lb ed="#B" n="19"/>vere bona recitant de eo: dant ei solum sua: sed cum 
+   <lb ed="#B" n="20"/>hoc tollunt ab eo de fama. si eum extollendo, falsa i 
+   <lb ed="#B" n="21"/>misceant: imponunt ei falsum &amp; dant alienum:
+   qua<lb ed="#B" n="22" break="no"/>re nullo modo faciunt recompensationem mali per bono 
+   <lb ed="#B" n="23"/>rum additionem.
+  </p>
+      <p xml:id="jMqv4a-d1e593-d1e614">
+   ⁋ Ex istis patet quod si quis iniuste laesit 
+   <lb ed="#B" n="24"/>famam alterius in publico: non sufficit petere veniam 
+   <lb ed="#B" n="25"/>ab illo, quemadmodum lber ego parcam viro qui res meas 
+   <lb ed="#B" n="26"/>furatus est: non tamen possum dimittere correctionem iu 
+   <lb ed="#B" n="27"/>stitiae communis: quin subiaceat poenae coni. In super si quis fa 
+   <lb ed="#B" n="28"/>mam tuam iniuste lacerauerit, debes dicere, non habeo 
+   <lb ed="#B" n="29"/>rancorem contra te frater: sed quia dedisti mihi
+   gran<lb ed="#B" n="30" break="no"/>de impedimentum progrediendi in via morum: tolle illud  
+   <lb ed="#B" n="31"/>retractando iniuste mihi imposita, consulta cum sa 
+   <lb ed="#B" n="32"/>pientibus: an possim tibi illud remittere: vtar
+   eo<lb ed="#B" n="33" break="no"/>rum consilio an remittere possim hanc iniuriam nec 
+   <lb ed="#B" n="34"/>ne. Nuillo modo autem est simile de rebus ablatis: ni 
+   <lb ed="#B" n="35"/>si loquaris de poena debita pro perturbatione
+   reipu<lb ed="#B" n="36" break="no"/>blicae.
+  </p>
+      <p xml:id="jMqv4a-d1e593-d1e646">
+   ⁋ Vlterius sequitur ex istis quod vir bonus potest resi 
+   <lb ed="#B" n="37"/>stere detractoribus suis. Probatur. potest
+   resiste<lb ed="#B" n="38" break="no"/>re omni illi quod tollit sibi calcar bene viuendi: &amp; quod impedit 
+   <lb ed="#B" n="39"/>prgressum in via morum. sed in detractione famae
+   im<lb ed="#B" n="40" break="no"/>peditur a spiritualibus: cum verbum suum non tanto hono 
+   <lb ed="#B" n="41"/>re &amp; auiditate suscipiatur quanto antea quando erat
+   bo<lb ed="#B" n="42" break="no"/>nae famae. nam attestante Gregorio in quadam Ho 
+   <lb ed="#B" n="43"/>milia. Cuius vita despicitur, restat vt &amp; praedicatio eius 
+   <lb ed="#B" n="44"/>contemnatur.
+  </p>
+      <p xml:id="jMqv4a-d1e593-d1e666">
+   ⁋ Tertio sequitur quod homo potest &amp; debet
+   pro<lb ed="#B" n="45" break="no"/>curare sibi restitutionem famae aelo iustitiae, non aut  
+   <lb ed="#B" n="46"/>vindictae. Si autem videat quod sibi laboranti pro acquisi 
+   <lb ed="#B" n="47"/>tione famae: fama non restituatur: surda aure per 
+   <lb ed="#B" n="48"/>transeat cum patientia &amp; humilitate. Si etiam alius 
+   <lb ed="#B" n="49"/>gelo vindictae &amp; arrogantia eum ad hoc laborare iu 
+   <lb ed="#B" n="50"/>dicet: capiat hoc remedii. continuet eandem vitam bo 
+   <lb ed="#B" n="51"/>nam praeteritam: &amp; eam augeat. Tunc enim videbitur contrarium 
+   <lb ed="#B" n="52"/>&amp; quod alter de eo metitus est. Ab omnibus enim pru 
+   <lb ed="#B" n="53"/>dentibus ita iudicabitur: quia Non est prudentis 
+   <lb ed="#B" n="54"/>propter mala verbula gentis Perdere vim mentis 
+   <lb ed="#B" n="55"/>sed talia tradere ventis.
+  </p>
+      <p xml:id="jMqv4a-d1e593-d1e692">
+   ⁋ Ecce quid est fama: &amp; 
+   <!--0255.xml-->
+   <cb ed="#B" n="b"/> 
+       <!-- 112-r b -->
+       <lb ed="#B" n="56"/>detractio: &amp; quod detractio est grande peccatum. nam ad 
+   <lb ed="#B" n="57"/>Romanos. i. dicitur. Detractores deo odibiles. 
+   <lb ed="#B" n="58"/>Vna enim detractione seipsum / absentem / &amp; cum
+   volupta<lb ed="#B" n="59" break="no"/>te audientem, vel non resistentem vbi deberet, percutit. 
+   <lb ed="#B" n="60"/>Pessimus autem est ille detractor qui falsum crimem iponitur. 
+   <lb ed="#B" n="61"/>caeteris paribus hoc dico. Potest enim quis imponere cri 
+   <lb ed="#B" n="62"/>men verum occultum fratri &amp; grande: vt adulterium,
+   im<lb ed="#B" n="63" break="no"/>cestum, aut aliud falsum minus corrosiuum famae non 
+   <lb ed="#B" n="64"/>tabiliter. Vlterius patet quod dicere verum dem fratre non 
+   <lb ed="#B" n="65"/>excusat dicentem quin grauiter mortaliter peccet, quia 
+   <lb ed="#B" n="66"/>dicit de peccato occulto. Ecclesiastici. xxvii. Qui 
+   <lb ed="#B" n="67"/>denudat arcana amici fidem perdit. Et psalmogra 
+   <lb ed="#B" n="68"/>phus ait. Detrahentem secreto proximo suo hunc per se 
+   <lb ed="#B" n="69"/>quebar. Item animaduerte quod ille peccat qui dat aliud os 
+   <lb ed="#B" n="70"/>corrodendum loquentibus: cum de alio absente bene lo 
+   <lb ed="#B" n="71"/>quuntur: ita vt absens non magis laudetur: ille enim est 
+   <lb ed="#B" n="72"/>finis detrahentis: praeter que si imponat finem dicen 
+   <lb ed="#B" n="73"/>di de absentis laude: non est peccatum. Sed magis pec 
+   <lb ed="#B" n="74"/>cat ille qui contrario resistit: qui scilicet virtutes absentis 
+   <lb ed="#B" n="75"/>vtpote eleemosynam / &amp; ieiunium / in hypocrisim &amp; 
+   <lb ed="#B" n="76"/>auaritiam conuerrit. Maneat hoc apud te alta mente 
+   <lb ed="#B" n="77"/>repostum. Qui in tua societate aliis te melioribus cre 
+   <lb ed="#B" n="78"/>bro detrahet: talem maledicum iudica: &amp; de te post ter 
+   <lb ed="#B" n="79"/>gum plura mala dicturum. Propterea hunc pestiferum 
+   <lb ed="#B" n="80"/>&amp; scelestum hominem fugito: nec eum in amicitiae viculum 
+   <lb ed="#B" n="81"/>admittas. Si vero dicat detrahens. diligo virum de 
+   <lb ed="#B" n="82"/>quo est sermo: vel est mihi amicus: sed audio quod sit 
+   <lb ed="#B" n="83"/>lubricus, hypocrita, mendax, vel huiusmodi: iam indi 
+   <lb ed="#B" n="84"/>cium est quod sit astutus, versipellis, &amp; serpentinus
+   de<lb ed="#B" n="85" break="no"/>tractor: sub specie Iacob, hispidus Esau. Hinc dici 
+   <lb ed="#B" n="86"/>tur Ecclesiastes. x. Si mordeat serpens in silentio ni 
+   <lb ed="#B" n="87"/>hil eo minus habet qui occulte detrahit. Vltio patr 
+   <lb ed="#B" n="88"/>a detractione multum esse cauendum propter periculosis 
+   <lb ed="#B" n="89"/>simam &amp; difficillimam famae restitutione. vere opinor 
+   <lb ed="#B" n="90"/>plures immo plurimos danatos ob defectum restitu 
+   <lb ed="#B" n="91"/>tionis famae: immo multo plures quam in restitutione 
+   <lb ed="#B" n="92"/>vsurae vel simoniae: quia restitutio famae est latens 
+   <lb ed="#B" n="93"/>&amp; homo est ita auidus suae famae, &amp; ita inordinate ad  
+   <lb ed="#B" n="94"/>eam afficitur, vt raro, ne sua fama laedatur, aliis
+   restitue<lb ed="#B" n="95" break="no"/>re laboret. Ineruditi quoque confessiones audientes 
+   <lb ed="#B" n="96"/>istud non ponderant: sed solum bona fortunae pauca 
+   <lb ed="#B" n="97"/>&amp; peccata carnis communia, aliis spiritualibus vitiis neglectis 
+   <lb ed="#B" n="98"/>magni faciunt.
+  </p>
+      <p xml:id="jMqv4a-d1e593-d1e794">
+   ⁋ Ecce igitur quomodo notabilus detractio 
+   <lb ed="#B" n="99"/>ex industria est semper mortale peccatum. &amp; si ex
+   loquae<lb ed="#B" n="100" break="no"/>citate naturae proueniatilicet crebro possit esse ve 
+   <lb ed="#B" n="101"/>nialis, interdum est mortalis: quare lingua est refre 
+   <lb ed="#B" n="102"/>nanda. Interdum tamen occultum peccatum lici 
+   <lb ed="#B" n="103"/>te panditur: vt in sigillo secreti post hac dicemus. 
+   <lb ed="#B" n="104"/>Praeterea memor sis quod teneris tuam famam &amp; con 
+   <lb ed="#B" n="105"/>socii laedere vt famam alienam serues: vt si tu 
+   <lb ed="#B" n="106"/>&amp; Plato falsum crimen sorti imposuistis. Analo 
+   <lb ed="#B" n="107"/>giam accipito de bonis fortunae a Sorte ablatis 
+   <lb ed="#B" n="108"/>vel abs te combustis: quae restituere deuictus es.
+   Op<lb ed="#B" n="109" break="no"/>posito autem modo peccatur in ablatione famae &amp; bonorum 
+   <lb ed="#B" n="110"/>fortumae. nam capiens furto a paupore plus peccat quae tan- 
+   <!--0256.xml-->
+   <pb ed="#B" n="112-v"/>
+       <cb ed="#B" n="a"/>
+       <lb ed="#B" n="1"/>tundem a diuite capiens. sed furto subtrahens a di 
+   <lb ed="#B" n="2"/>uite in fama, hoc est a viro clarae famae: plus pec 
+   <lb ed="#B" n="3"/>cat quam subtrahens a male famato viro. ratio est, quia 
+   <lb ed="#B" n="4"/>parum ab isto tollit aut tollere potest in fama. Postre 
+   <lb ed="#B" n="5"/>mo maledicus &amp; vilis de bono viro loquens non tan 
+   <lb ed="#B" n="6"/>tum tollit famae quantum putatus bonus simcite loquens 
+   <lb ed="#B" n="7"/>Reuera enim famam non tollit quia ei non habe 
+   <lb ed="#B" n="8"/>bitur fides.
+  </p>
+    </div>
+   </body>
+  </text>
+</TEI>

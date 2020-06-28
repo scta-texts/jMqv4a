@@ -1,0 +1,399 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 1</title>
+      <author ref="#JohnMair">John Mair</author>
+      <respStmt>
+       <name>Jeffrey C. Witt</name>
+       <resp>TEI Encoder</resp>
+      </respStmt>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 1</title>
+       <date when="2020-06-09">June 27, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="B" n="cod-Bda113">Badius 1516</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+     guidelines for a diplomatic edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-06-27" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+      <pb ed="#B" n="200-r"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="jMqv4a-d1e1064"> <!-- l4d21q1 -->
+      <head xml:id="jMqv4a-d1e1064-Hd1e104">Quaestio 1</head>
+      <head xml:id="jMqv4a-d1e1064-Hd1e107" type="question-title">An aliqua peccata dimittantu rpost hanc vitam</head>
+      <p xml:id="jMqv4a-d1e1064-d1e110">
+       <lb ed="#B" n="1"/>⁋ Distinctionis Vigesimae primae 
+   <lb ed="#B" n="2"/>Quaestio Prima. 
+   <lb ed="#B" n="3"/>N hac
+   distin<lb ed="#B" n="4" break="no"/>ctione vigesima 
+   <lb ed="#B" n="5"/>rima quaeram tria. 
+   <lb ed="#B" n="6"/>Primo. an aliqua 
+   <lb ed="#B" n="7"/>peccata
+   dimittan<lb ed="#B" n="8" break="no"/>ur post hanc
+   vi<lb ed="#B" n="9" break="no"/>am. Secundo de
+   si<lb ed="#B" n="10" break="no"/>gillo secreti. Ter 
+   <lb ed="#B" n="11"/>io de sigillo con 
+   <lb ed="#B" n="12"/>fessionis. Quaero 
+   <lb ed="#B" n="13"/>t aque primo. An  
+   <lb ed="#B" n="14"/>aliqua peccata di 
+   <lb ed="#B" n="15"/>mittantur post hanc 
+   <lb ed="#B" n="16"/>vitam.
+  </p>
+      <p xml:id="jMqv4a-d1e1064-d1e147">
+   ⁋ Pro quaestionis solutione ponam duas
+   con<lb ed="#B" n="17" break="no"/>clusiones. Prior est. decedenti cum solis venialibus 
+   <lb ed="#B" n="18"/>sine mortali dimittuntur peccata post hanc vitam.
+  </p>
+      <p xml:id="jMqv4a-d1e1064-d1e155">
+   ⁋
+   Se<lb ed="#B" n="19" break="no"/>cunda conclusio. decedenti cum mortali &amp;
+   veniali<lb ed="#B" n="20" break="no"/>veniale dimitti sine mortali est rationabilius oppo 
+   <lb ed="#B" n="21"/>sito: licet oppositum possit defendi: immo ab vno 
+   <lb ed="#B" n="22"/>conterraneorum nostrorum theologo profundissimo / Ri 
+   <lb ed="#B" n="23"/>cardo de sancto Victore defenditur in quodam
+   libel<lb ed="#B" n="24" break="no"/>lo super hoc confecto ex industria: quem Alexander / bea 
+   <lb ed="#B" n="25"/>tus Thomas / &amp; doctores in hoc fere sequuntur. sed  
+   <lb ed="#B" n="26"/>alterius conterranei scilicet doctoris subtilis senten 
+   <lb ed="#B" n="27"/>tia plus in hac parte placet. vtramque tamen
+   probabi<lb ed="#B" n="28" break="no"/>lem: quia ita reor esse) tenebimus. Prior conclusio 
+   <lb ed="#B" n="29"/>probatur: quia talis in gratia decedit: ergo interdum 
+   <lb ed="#B" n="30"/>habebit gloriam: sed non antequam punietur pro peccatis 
+   <lb ed="#B" n="31"/>suis: vel aliquis satisfaciat pro eo: vel dentur ei
+   in<lb ed="#B" n="32" break="no"/>dulgentiae. secludo duo vltima: &amp; volo quod non
+   ap<lb ed="#B" n="33" break="no"/>plicentur. quod non antequam punietur: patet. nam primae 
+   <lb ed="#B" n="34"/>ad Corinth. iii. per foenum / lignum / &amp; stipulam
+   in<lb ed="#B" n="35" break="no"/>telligit Apostolus punitionem peccatorum venialium. 
+   <lb ed="#B" n="36"/>&amp; quia aliqua sunt maiora / aliqua minora: dicit foe 
+   <lb ed="#B" n="37"/>num / lignum / &amp; stipulam. hoc docet <name xml:id="jMqv4a-d1e1064-Nd1e198" ref="#Augustine">Augustini</name>. xxi. 
+   <lb ed="#B" n="38"/>de ciuitate dei. &amp; de vera &amp; falsa poenitentia. sed si 
+   <lb ed="#B" n="39"/>quis decedat in gratia: saluabitur, constat autem quod 
+   <lb ed="#B" n="40"/>non simul habebit poenam &amp; gloriam: nec poenam 
+   <lb ed="#B" n="41"/>post gloriam: ergo prius vapulabit per ignem purga 
+   <lb ed="#B" n="42"/>torii. Nec iuuat dicere quod in mortis tolerantia
+   ve<lb ed="#B" n="43" break="no"/>niale quodlibet consumitur: quia licet homo sit me 
+   <lb ed="#B" n="44"/>mor in extremis de veniali scito tali / &amp; ipsum non 
+   <lb ed="#B" n="45"/>detestatus fuerit: non videtur mortaliter peccare: 
+   <lb ed="#B" n="46"/>quia sicut consensus in veniale est venialis: ita non 
+   <lb ed="#B" n="47"/>videtur detestatio eius occurrentis sub poena pec 
+   <lb ed="#B" n="48"/>cati mortalis requiri. &amp; dato quod taliter negligentem 
+   <lb ed="#B" n="49"/>in extremis dicas mortaliter peccare / quod non admit 
+   <lb ed="#B" n="50"/>to: non euadis difficultatem de illo qui est in solis ve 
+   <lb ed="#B" n="51"/>nialibus: &amp; dormiens occiditur: vel in amentiam 
+   <lb ed="#B" n="52"/>perpetuam cadit. nam iste non manebit perpetuo in  
+   <lb ed="#B" n="53"/>purgatorio ratione peccatorum venialium: nec bea 
+   <!--0431.xml-->
+   <cb ed="#B" n="b"/> 
+       <!-- 200-r b -->
+       <lb ed="#B" n="54"/>tificabitur cum culpa vel culpis venialibus: ergo  
+   <lb ed="#B" n="55"/>aliquando culpae illae veniales omnes post hanc
+   vi<lb ed="#B" n="56" break="no"/>tam remittentur.
+  </p>
+      <p xml:id="jMqv4a-d1e1064-d1e250">
+   ⁋ Dico ergo quod veniale potest 
+   <lb ed="#B" n="57"/>deleri post hanc vitam. Sed de modo quo deletur 
+   <lb ed="#B" n="58"/>varius est modus respondendi tam apud
+   docto<lb ed="#B" n="59" break="no"/>rem sanctum quam seraphicum: quorum nullus placet.
+   Do<lb ed="#B" n="60" break="no"/>ctor subtilis in hac distinctione recitat tres modos 
+   <lb ed="#B" n="61"/>&amp; in nullo stat fixus. Primus est. idem est peccatum 
+   <lb ed="#B" n="62"/>veniale deleri &amp; poenam pati debitam illi, quem mo 
+   <lb ed="#B" n="63"/>dum auctoritate sanctorum impugnat. vel vt diciti 
+   <lb ed="#B" n="64"/>per merita in vita habita reseruata in diuina
+   acce<lb ed="#B" n="65" break="no"/>ptatione. Postea subiungit. si neuter modus
+   pla<lb ed="#B" n="66" break="no"/>cet, quaeratur alius: quem difficile est inuenire. nam 
+   <lb ed="#B" n="67"/>ipsum deleri per bonum motum: non est doctrinae 
+   <lb ed="#B" n="68"/>Theologicae conforme. tamen doctor sanctus hunc 
+   <lb ed="#B" n="69"/>tertium modum asserit. Sed dico quod conterraneus com 
+   <lb ed="#B" n="70"/>sequenter ad suam sententiam debuit imitari primum 
+   <lb ed="#B" n="71"/>modum. &amp; illum ego amplector: quia multo probabi 
+   <lb ed="#B" n="72"/>lius est apud me quod veniale remittitur in infemo. 
+   <lb ed="#B" n="73"/>Dico ergo veniale deleri in purgatorio vel in infer 
+   <lb ed="#B" n="74"/>no, non esse aliud quam poenam pati veniali debitam. 
+   <lb ed="#B" n="75"/>Ex quo sequitur quod aliquis decedit cum culpa &amp; debi 
+   <lb ed="#B" n="76"/>to poenae, qui no diutius erit in purgatorio / quam dece 
+   <lb ed="#B" n="77"/>dens sine culpa debitor solum poenae. quod patet 
+   <lb ed="#B" n="78"/>si sortes decedat cum veniali foeno / qui est
+   debi<lb ed="#B" n="79" break="no"/>tor paruae poenae: &amp; plato cum debito magno poe 
+   <lb ed="#B" n="80"/>nae. Ex isto ferme sequitur quod veniale iunctum mor 
+   <lb ed="#B" n="81"/>tali solum punietur temporaliter ratione venialis. 
+  </p>
+      <p xml:id="jMqv4a-d1e1064-d1e307">
+       <lb ed="#B" n="82"/>⁋ Et sic secunda conclusio probabiliter ex priore 
+   <lb ed="#B" n="83"/>sequitur quo ad partem priorem. Nam veniali se 
+   <lb ed="#B" n="84"/>cundum legem de per se debetur solum poena tem 
+   <lb ed="#B" n="85"/>poraria. ergo propter coniunctionem eius cum
+   mor<lb ed="#B" n="86" break="no"/>tali non debetur ei maior poena. Insuper. virtute 
+   <lb ed="#B" n="87"/>clauium deus magis malo remittit maiorem
+   par<lb ed="#B" n="88" break="no"/>tem poenae quam minus malo, vt supra ostensum est. 
+   <lb ed="#B" n="89"/>&amp; hoc est quia maiore misericordia eget: ergo
+   sal<lb ed="#B" n="90" break="no"/>tem non decet suam clementiam punire veniale vltra 
+   <lb ed="#B" n="91"/>poenam ei debitam solum &amp; seorsum, nec ex assumpto 
+   <lb ed="#B" n="92"/>praetendo quod veniale minus punietur iunctum
+   morta<lb ed="#B" n="93" break="no"/>li qui sine mortali: sed aequaliter. Secunda autem pars 
+   <lb ed="#B" n="94"/>probabitur respondendo ad oppositum. Vlterius sequi 
+   <lb ed="#B" n="95"/>tur quod alicui dimittitur culpa. cui non augetur gratia, 
+   <lb ed="#B" n="96"/>nec gloria, quod patet de punito in purgatorio haben 
+   <lb ed="#B" n="97"/>te gratiam: similiter in infemo de peccato veniali.
+   sal<lb ed="#B" n="98" break="no"/>tem culpa dimittitur. Sed dubitando pones aliquem 
+   <lb ed="#B" n="99"/>decedere stipatum multitudine solorum venialium 
+   <lb ed="#B" n="100"/>circa diem iudicii. Dico quod deus potest illum tantum 
+   <lb ed="#B" n="101"/>punire vna hora quantum alius punitur vno
+   an<lb ed="#B" n="102" break="no"/>no: immo septem annis, per intensionem poenae. ad 
+   <lb ed="#B" n="103"/>cipe scalam intelligentiae per hemicraneum vel colicam 
+   <lb ed="#B" n="104"/>passionem, &amp; lentam febrem. 
+  </p>
+      <p xml:id="jMqv4a-d1e1064-d1e359">
+       <lb ed="#B" n="105"/>⁋ Contra priorem conclusionem &amp; 
+   <lb ed="#B" n="106"/>eius probatione quae stat in hoc quod nemo manet 
+   <lb ed="#B" n="107"/>perpetuo in poena ratione venialium, argumentor sic. 
+   <!--0432.xml-->
+   <pb ed="#B" n="200-v"/>
+       <cb ed="#B" n="a"/>
+       <lb ed="#B" n="1"/>Ponamus deum prohibere Sorti continuare a actum 
+   <lb ed="#B" n="2"/>per quancumque partem proportionalem vnius horae sub 
+   <lb ed="#B" n="3"/>poena horae vel diei: ipse decedens cum gratia punie 
+   <lb ed="#B" n="4"/>tur aeternaliter probatur. in infinitis venialibus
+   deces<lb ed="#B" n="5" break="no"/>sit: &amp; pro quolibet punietur vna hora: ergo infinitis 
+   <lb ed="#B" n="6"/>horis punietur: quae reddunt tantum tempus quantum 
+   <lb ed="#B" n="7"/>infiniti anni. Eodem modo prohibeat sorti deus vel 
+   <lb ed="#B" n="8"/>abbas / trahere digitum vltra primam partem
+   proportio<lb ed="#B" n="9" break="no"/>nalem huius pedalitatis sub poena diurna: vltra
+   se<lb ed="#B" n="10" break="no"/>cundam / sub simili poena: &amp; sic de qualibet parte 
+   <lb ed="#B" n="11"/>proportionali: trahat sortes digitum scienter ab vno 
+   <lb ed="#B" n="12"/>extremo in aliud. Dicis. casus est irrationabilis: cum 
+   <lb ed="#B" n="13"/>non possit cognoscere illas exiles partes
+   proportio<lb ed="#B" n="14" break="no"/>nales temporis vel albedinis: &amp; per cosequens non potest 
+   <lb ed="#B" n="15"/>cognoscere quando peccat distincte &amp; nouo pecca 
+   <lb ed="#B" n="16"/>to. Contra hoc arguo. quis peccat instantanee, &amp; tamen 
+   <lb ed="#B" n="17"/>non cognoscit instans: &amp; sic potest peccare in quali 
+   <lb ed="#B" n="18"/>bet parte proportionali / licet eam non cognoscat: ergo 
+   <lb ed="#B" n="19"/>notitia partis non requiritur ad peccatum. sicut multi 
+   <lb ed="#B" n="20"/>peccant peccato omissionis: &amp; nesciunt quae res sit 
+   <lb ed="#B" n="21"/>Quicquid sit: casus est praeter legem. de potentia tamen
+   de<lb ed="#B" n="22" break="no"/>absoluta casus est possibilis, quod quis decedat in infi 
+   <lb ed="#B" n="23"/>nitis venialibus habendo cuiussibet partis
+   propor<lb ed="#B" n="24" break="no"/>tionalis notitiam distinctam. &amp; vel creaturae creabili 
+   <lb ed="#B" n="25"/>vel homini qui nunc est, potest id imputare sicut ori 
+   <lb ed="#B" n="26"/>ginale imputat: sed hic homo potest cauere ne delin 
+   <lb ed="#B" n="27"/>quat. sicut Adam poterat non peccare dum
+   iusti<lb ed="#B" n="28" break="no"/>tiam originalem habuit. Peccatum autem in maiore
+   par<lb ed="#B" n="29" break="no"/>te continuatum est peius quam in minore. &amp; sic inaequali 
+   <lb ed="#B" n="30"/>ter puniendum est a deo secundum legem. De
+   po<lb ed="#B" n="31" break="no"/>tentia vero absoluta potest deus hominem punire 
+   <lb ed="#B" n="32"/>aeternaliter pro solis venialibus. sed de lege loquimur 
+   <lb ed="#B" n="33"/>Secundo dicatur ad hoc sicut diceretur de omitten 
+   <lb ed="#B" n="34"/>te diligere deum per vnam totam horam, qui in nulla parte 
+   <lb ed="#B" n="35"/>illius horae deum diligit. In. xvii. dist. primi, &amp; alibi 
+   <lb ed="#B" n="36"/>ad similia respondimus. De abbate loqui non
+   opor<lb ed="#B" n="37" break="no"/>tet: quia non teneor eo praecipiente ad omnia licita: siue 
+   <lb ed="#B" n="38"/>enim faciam siue non, nullo modo pecco. vt videbitur 
+   <lb ed="#B" n="39"/>postea distin. xxxviii. huius.
+  </p>
+      <p xml:id="jMqv4a-d1e1064-d1e459">
+   ⁋ Contra secundam con 
+   <lb ed="#B" n="40"/>clusionem arguitur. In infemo nulla est
+   redemptio<lb ed="#B" n="41" break="no"/>vt ait Iob. Forte dicis &amp; bene. nullus qui est in in 
+   <lb ed="#B" n="42"/>ferno / liberatur ab eo &amp; de faucibus eius: bene ta 
+   <lb ed="#B" n="43"/>men est redemptio quo ad peccatum veniale: vel 
+   <lb ed="#B" n="44"/>quo ad mille venialia: quia homo debet solum pro 
+   <lb ed="#B" n="45"/>eis solutionem poenae. 
+  </p>
+      <p xml:id="jMqv4a-d1e1064-d1e475">
+       <lb ed="#B" n="46"/>⁋ Alia positio contradictoria secun 
+   <lb ed="#B" n="47"/>dae conclusioni tenet: quod veniale non dimittitur in infer 
+   <lb ed="#B" n="48"/>no si iungatur cum mortali: &amp; hoc est de per accidens 
+   <lb ed="#B" n="49"/>propter coniunctionem alterius: de per se enim debetu 
+   <lb ed="#B" n="50"/>ei poena finita. Sed contra hoc dices. si quis
+   dece<lb ed="#B" n="51" break="no"/>dat cum originali &amp; veniali: is punietur in inferno 
+   <lb ed="#B" n="52"/>pro aliquo tempore: &amp; tandem ab infemo liberabi 
+   <lb ed="#B" n="53"/>tur: &amp; ibit ad limbum puerorum. Quia punietur pro tempo 
+   <lb ed="#B" n="54"/>re in infemo, probatur: quia non punietur illo tempore in pur 
+   <!--0432.xml-->
+   <cb ed="#B" n="b"/> 
+       <!-- 200-v b -->
+       <lb ed="#B" n="55"/>gatorio: nam purgatorii erit finis, nec punietur in 
+   <lb ed="#B" n="56"/>limbo: quia illic solum punientur paruuli poena 
+   <lb ed="#B" n="57"/>damni. Respondetur. quicquid sit de liberatione eius 
+   <lb ed="#B" n="58"/>a tali situ semper manebit damnatus poena damni 
+   <lb ed="#B" n="59"/>vbicumque enim quis post hanc vitam punitur: ibi est 
+   <lb ed="#B" n="60"/>eius infernus vel purgatorium. concedo tamen quod de 
+   <lb ed="#B" n="61"/>loco in locum variabitur: &amp; minus in fine punietur 
+   <lb ed="#B" n="62"/>quam ab initio puniebatur. Et quia beatus Thomas 
+   <lb ed="#B" n="63"/>negat casum: amplius deducitur in secundo
+   possi<lb ed="#B" n="64" break="no"/>bilis: &amp; ad ipsum respondetur. 
+  </p>
+      <p xml:id="jMqv4a-d1e1064-d1e526">
+       <lb ed="#B" n="65"/>⁋ Contra hanc positionem arguo. dece 
+   <lb ed="#B" n="66"/>dat Sortes in veniali &amp; mortali. vel illud veniale 
+   <lb ed="#B" n="67"/>delebitur in alio mundo, vel non. si primum, habetur 
+   <lb ed="#B" n="68"/>propositum. Si non deleatur: sortes habens originale 
+   <lb ed="#B" n="69"/>&amp; veniale punietur de per se poena sensus
+   aeternali<lb ed="#B" n="70" break="no"/>ter pro veniali: contra hanc opinionem. immo Sortes 
+   <lb ed="#B" n="71"/>non punietur pro originali poena sensus. vt communi 
+   <lb ed="#B" n="72"/>ter tenent omnes. Et cu puniatur poena sensus aeterna 
+   <lb ed="#B" n="73"/>liter: oportet dicere quod veniale per se sit causa illius. 
+  </p>
+      <p xml:id="jMqv4a-d1e1064-d1e548">
+       <lb ed="#B" n="74"/>⁋ Respondetur dupliciter. Primo negando casum 
+   <lb ed="#B" n="75"/>in quo quis decedit cum solo originali &amp; veniali, se 
+   <lb ed="#B" n="76"/>cundum beatum Thomam / &amp; doctorem seraphicum. &amp; can 
+   <lb ed="#B" n="77"/>est secundum eos quia non potest ante annos discretionis aliquis 
+   <lb ed="#B" n="78"/>venialiter peccare: &amp; si omittat tunc baptizari, &amp; non 
+   <lb ed="#B" n="79"/>sit baptizatus: culpabiliter mortaliter omittit. quare 
+   <lb ed="#B" n="80"/>non datur casus secundum eos. Sed quia illud
+   fal<lb ed="#B" n="81" break="no"/>sum existimo, ideo aliter respondeo: admisso casu 
+   <lb ed="#B" n="82"/>consequenter concedo quod talis punietur aeternaliter pro venia 
+   <lb ed="#B" n="83"/>li poena sensus / poena quidem satis miti quo ad inten 
+   <lb ed="#B" n="84"/>sionem / quia pro solo veniali. &amp; illa poena sensus est sola 
+   <lb ed="#B" n="85"/>causa perpetuitatis illius poenae sensus: sed non est per 
+   <lb ed="#B" n="86"/>se causa illius. Voco illud causam per se quid est
+   cau<lb ed="#B" n="87" break="no"/>sa omni alio secluso: modo semoto originali si iste 
+   <lb ed="#B" n="88"/>decederet in solo veniali, non puniretur aeternaliter pro 
+   <lb ed="#B" n="89"/>illo. Originale enim est causa perpetuitatis poenae: ve 
+   <lb ed="#B" n="90"/>niale autem causa poenae sensus immediata. &amp; sic nec 
+   <lb ed="#B" n="91"/>veniale est per se causa perpetuitatis: nec originale 
+   <lb ed="#B" n="92"/>causa per se poenae sensus: sed illorum peccatorum 
+   <lb ed="#B" n="93"/>vnio / est causa talis poenae: licet illa vnio non sit aliud  
+   <lb ed="#B" n="94"/>ab illis peccatis vnitis.
+  </p>
+      <p xml:id="jMqv4a-d1e1064-d1e596">
+   ⁋ Secundo arguitur contra
+   ean<lb ed="#B" n="95" break="no"/>dem positionem. decedat sortes cum a. mortali &amp; b 
+   <lb ed="#B" n="96"/>veniali: &amp; plato cum c. mortali aequali a. vel sortes 
+   <lb ed="#B" n="97"/>punietur intensius quam plato aeternaliter: vel aeque
+   in<lb ed="#B" n="98" break="no"/>tense. Si secundum / non punietur aeternaliter pro venia 
+   <lb ed="#B" n="99"/>li. si primum / signetur: &amp; sit illa tristitia vnus gradus 
+   <lb ed="#B" n="100"/>vel medius gradus. si ergo sortes punietur aeterna 
+   <lb ed="#B" n="101"/>liter acerbius quam plato: stat quod Cicero faciat
+   morta<lb ed="#B" n="102" break="no"/>le aequale a. &amp; adhuc aliud mortale pro quo punietur 
+   <lb ed="#B" n="103"/>vnico gradu: quo facto Cicero solum aeque intense 
+   <lb ed="#B" n="104"/>punietur cum sorte &amp; aequaliter quo ad durationem, quod 
+   <lb ed="#B" n="105"/>est inconveniens.
+  </p>
+      <p xml:id="jMqv4a-d1e1064-d1e622">
+   ⁋ Ad secundum admisso casu dico 
+   <lb ed="#B" n="106"/>quod sortes punietur aeternaliter intensius quam plato: &amp; aequa 
+   <lb ed="#B" n="107"/>liter quo ad durationem. &amp; concedo quod sortes
+   aequali<lb ed="#B" n="108" break="no"/>ter punietur cum Cicerone in duratione &amp; in intensione 
+   <!--0433.xml-->
+   <pb ed="#B" n="201-r"/>
+       <cb ed="#B" n="a"/>
+       <lb ed="#B" n="1"/>graduali: sed non in ratione offensae diuinae. Illae enim 
+   <lb ed="#B" n="2"/>poenae sunt improportionabiles: quemadmodum 
+   <lb ed="#B" n="3"/>punctu &amp; linea. de hoc inferius in materia poenarum 
+   <lb ed="#B" n="4"/>dist. xlvi.
+  </p>
+      <p xml:id="jMqv4a-d1e1064-d1e646">
+   ⁋ Tertio. pono Sortem qui decedit solum 
+   <lb ed="#B" n="5"/>cum tribus venialibus, &amp; Platonem decedentem cum vno 
+   <lb ed="#B" n="6"/>mortali &amp; duobus venialibus aequalibus Sortis. 
+   <lb ed="#B" n="7"/>Arguitur sic. deus plus punit Platonem pro suis ve 
+   <lb ed="#B" n="8"/>nialibus duobus quam Sortem pro suis: immo sequitur 
+   <lb ed="#B" n="9"/>quod deus plus punit illum qui decedit cum vnico
+   ve<lb ed="#B" n="10" break="no"/>niali &amp; mortali, pro illo veniali / quam vnum alium qui dece 
+   <lb ed="#B" n="11"/>dit cum mille venialibus, quod negandum videtur a mise 
+   <lb ed="#B" n="12"/>ricordia diuina.
+  </p>
+      <p xml:id="jMqv4a-d1e1064-d1e666">
+   ⁋ Ad tertium respondetur conceden 
+   <lb ed="#B" n="13"/>do quod deus plus punit Platonem pro suis duobus ve 
+   <lb ed="#B" n="14"/>nialibus quam Sorte. sed de per accidens illa peccata 
+   <lb ed="#B" n="15"/>sunt inaequalia: quia Platonis peccata communiunguntur 
+   <lb ed="#B" n="16"/>mortali. Et conceditur haec conclusio quod deus plus 
+   <lb ed="#B" n="17"/>punit aliquem pro vnico veniali iuncto mortali vel 
+   <lb ed="#B" n="18"/>originali qui pro quibuscumque finitis venialibus, non  
+   <lb ed="#B" n="19"/>ne vides quod malus denarius vel non bonus in
+   so<lb ed="#B" n="20" break="no"/>cietate bonorum a mercatore suscipitur: &amp; coniunctus 
+   <lb ed="#B" n="21"/>malis cum aliis reiicitur? sic est in proposito.
+  </p>
+      <p xml:id="jMqv4a-d1e1064-d1e689">
+   ⁋ Epilo 
+   <lb ed="#B" n="22"/>gando, diximus quo modo aliquis decedit cum solo 
+   <lb ed="#B" n="23"/>veniali vel venialibus: &amp; temporatie pro illis punitur: 
+   <lb ed="#B" n="24"/>&amp; quod culpa venialis post hanc vitam dimittitur in pur 
+   <lb ed="#B" n="25"/>gatorio. ad venialis enim deletionem sufficit poenam 
+   <lb ed="#B" n="26"/>pati, quam vltor illius infligit. &amp; cum poena venialis 
+   <lb ed="#B" n="27"/>seorsum sit temporaria, si coniungatur originali vel 
+   <lb ed="#B" n="28"/>mortali: verosimilius est quod deus illam culpam solum 
+   <lb ed="#B" n="29"/>temporarie punit in infemo: &amp; non acerbius qui similem 
+   <lb ed="#B" n="30"/>seorsum in purgatorio: licet oppositum possit
+   de<lb ed="#B" n="31" break="no"/>fendi propter hominis ingratitudinem in mortali deceden 
+   <lb ed="#B" n="32"/>tis. &amp; sic de per accidens venialis culpa aeternaliter 
+   <lb ed="#B" n="33"/>punitur. Et licet existens in purgatorio possit
+   habe<lb ed="#B" n="34" break="no"/>re causas venialium expiatiuas: vt in hoc mundo. 
+   <lb ed="#B" n="35"/>puta contritionem vel detestationem eorum sde
+   nomi<lb ed="#B" n="36" break="no"/>nibus non refert) vel referre actus in deletionem
+   il<lb ed="#B" n="37" break="no"/>lorum peccatorum: vel alios actus charitatis habere: 
+   <lb ed="#B" n="38"/>tamen cum non sint in via: vero simile est quod non
+   accele<lb ed="#B" n="39" break="no"/>rant ad gloriam: nec possunt se iuuare ad hoc illi spi 
+   <lb ed="#B" n="40"/>ritus beati in spe: licet nos iuuare possimus.
+   opor<lb ed="#B" n="41" break="no"/>tet enim patiantur poenam a deo statutam: nisi a
+   viato<lb ed="#B" n="42" break="no"/>ribus iuuentur. &amp; qiuis ponantur se posse iuuare vt 
+   <lb ed="#B" n="43"/>liberentur a purgatorio: de existentibus in inferno 
+   <lb ed="#B" n="44"/>hoc dicere nequimus. &amp; cum teneam venialia illic
+   re<lb ed="#B" n="45" break="no"/>mitti: oportet quod hoc fiat per tolerantiam poenae. oconis 
+   <lb ed="#B" n="46"/>enim schola non admittit quod aliquos actus bonos 
+   <lb ed="#B" n="47"/>moraliter eliciant. ergo eodem mo dico esse in
+   pur<lb ed="#B" n="48" break="no"/>gatorio &amp; in infemo. Praeterea diximus quod
+   possi<lb ed="#B" n="49" break="no"/>bile est quempiam decedere cum originali &amp; solo ve 
+   <lb ed="#B" n="50"/>niali: quia cum primum venit ad annos discretionis 
+   <lb ed="#B" n="51"/>non tenetur statim sub poena peccati suscipere
+   ba<lb ed="#B" n="52" break="no"/>ptismum: &amp; interea pot mentiri iocose &amp; protinus 
+   <lb ed="#B" n="53"/>mori: cui veniale remittetur, &amp; de purgatorio ad 
+   <lb ed="#B" n="54"/>limbum puerorum transferetur. tenendo autem oppositum 
+   <lb ed="#B" n="55"/>semper punietur poena sensus. Petrus Paludanus 
+   <!--0433.xml-->
+   <cb ed="#B" n="b"/> 
+       <!-- 201-r b -->
+       <lb ed="#B" n="56"/>in. xvi. distinctione huius. qui. i. dicit quod veniale ab 
+   <lb ed="#B" n="57"/>priginali abolebitur: non autem a mortali. ratio eius est 
+   <lb ed="#B" n="58"/>quia habens veniale cum originali potest habere bo 
+   <lb ed="#B" n="59"/>num actum: non autem habens mortale cum veniali. hoc non 
+   <lb ed="#B" n="60"/>placet. Nam consequenter ad positionem quam imitaturi 
+   <lb ed="#B" n="61"/>non est improbabile quin existens in infemo
+   pos<lb ed="#B" n="62" break="no"/>sit habere actum moraliter bonum. Etiam bonus actus 
+   <lb ed="#B" n="63"/>vt opinor, in alio saeculo non tollit veniale. fateor 
+   <lb ed="#B" n="64"/>tamen dictum eius non carere probabilitate. Concludendo 
+   <lb ed="#B" n="65"/>dico ne te moueat quod displicentia quantumlibet remis 
+   <lb ed="#B" n="66"/>sa tollit culpam mortalem: &amp; non totam poenam
+   veniali<lb ed="#B" n="67" break="no"/>bus debitam: quia tollens maius non semper tollit minus. 
+   <lb ed="#B" n="68"/>Nam contritio vt vnum tollit totam culpam / &amp; aeternam poe 
+   <lb ed="#B" n="69"/>nam: &amp; tamen similis contritio non tollit poenam temporalem 
+   <lb ed="#B" n="70"/>totam sequentem. poena enim &amp; culpa sunt alterius ra 
+   <lb ed="#B" n="71"/>tionis. sic in proposito. 
+  </p>
+    </div>
+   </body>
+  </text>
+</TEI>

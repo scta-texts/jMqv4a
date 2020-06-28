@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 1</title>
+      <author ref="#JohnMair">John Mair</author>
+      <respStmt>
+       <name>Jeffrey C. Witt</name>
+       <resp>TEI Encoder</resp>
+      </respStmt>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 1</title>
+       <date when="2020-06-09">June 27, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="B" n="cod-Bda113">Badius 1516</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+     guidelines for a diplomatic edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-06-27" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+      <pb ed="#B" n="321-v"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="jMqv4a-d1e1718"> <!-- l4d39q1 -->
+      <head xml:id="jMqv4a-d1e1718-Hd1e104">Quaestio 1</head>
+      <head xml:id="jMqv4a-d1e1718-Hd1e107" type="question-title">An dispar cultus impediat materimonium</head>
+      <p xml:id="jMqv4a-d1e1718-d1e110">
+       <lb ed="#B" n="36"/>⁋ Distinctionis Trigesimaenonae 
+   <lb ed="#B" n="37"/>Quaestio Vnica. 
+   <lb ed="#B" n="38"/>Ro trigesima 
+   <lb ed="#B" n="39"/>nona distinctione, 
+   <lb ed="#B" n="40"/>quaeritur. An dispar 
+   <lb ed="#B" n="41"/>cultus impediat
+   ma<lb ed="#B" n="42" break="no"/>trimonium.
+  </p>
+      <p xml:id="jMqv4a-d1e1718-d1e128">
+   ⁋ Pro so 
+   <lb ed="#B" n="43"/>lutione quaestionis 
+   <lb ed="#B" n="44"/>pono hanc
+   conclusio<lb ed="#B" n="45" break="no"/>nem. Inter infideles le 
+   <lb ed="#B" n="46"/>gitimum est
+   matri<lb ed="#B" n="47" break="no"/>monium, licet non ra 
+   <lb ed="#B" n="48"/>tum, quod patet de di 
+   <lb ed="#B" n="49"/>uortiis. Gaudemus. 
+   <lb ed="#B" n="50"/>&amp; primae ad Corinth. vii. vbi dicitur. Si quis
+   fra<lb ed="#B" n="51" break="no"/>ter habet vxorem infidelem: &amp; haec consentit
+   habi<lb ed="#B" n="52" break="no"/>tare cum illo: non dimittat illam. In eodem titulo. c. 
+   <!--0674.xml-->
+   <cb ed="#B" n="b"/> 
+       <!-- 321-v b -->
+       <lb ed="#B" n="53"/>Quanto. dicitur quod conversi ad fidem possunt simu 
+   <lb ed="#B" n="54"/>cohabitare nisi contraxerint contra legem dei ve 
+   <lb ed="#B" n="55"/>naturae. Sed si vnus conuertatur ad fidem, &amp;
+   al<lb ed="#B" n="56" break="no"/>tera non velit ei cohabitare, vel cum contumelia 
+   <lb ed="#B" n="57"/>creatoris, vel eum inducit ad peccatum: fidelis po 
+   <lb ed="#B" n="58"/>test aliam ducere. 
+  </p>
+      <p xml:id="jMqv4a-d1e1718-d1e173">
+       <lb ed="#B" n="59"/>⁋ Contra hoc arguitur. Vel deus 
+   <lb ed="#B" n="60"/>tenet matrimonium infidelium legitimum: &amp;
+   appro<lb ed="#B" n="61" break="no"/>bat: vel non. si primum non est dissolubile iuxta
+   ver<lb ed="#B" n="62" break="no"/>bum Christi Matthaei. xix. Quod deus coniunxit 
+   <lb ed="#B" n="63"/>homo non separet. Vel conversus ad fidem eo quod con 
+   <lb ed="#B" n="64"/>uersus &amp; quam primum est conversus / est liber ducere aliam 
+   <lb ed="#B" n="65"/>mulierem fidelem: vel non. Si secundum,
+   quomo<lb ed="#B" n="66" break="no"/>do dissoluitur in illis casibus? Si primum: contra. si 
+   <lb ed="#B" n="67"/>ipsa reclamet antequam ipse coniungatur, ipse
+   coge<lb ed="#B" n="68" break="no"/>tur eam ducere.
+  </p>
+      <p xml:id="jMqv4a-d1e1718-d1e197">
+   ⁋ Respondetur. matrimonium
+   infi<lb ed="#B" n="69" break="no"/>delium est legitimum: &amp; quo ad hoc deus approbat 
+   <lb ed="#B" n="70"/>ipsum. verbum autem Christi intelligitur de
+   matri<lb ed="#B" n="71" break="no"/>monio rato quod fidem presupponit, hoc est
+   sa<lb ed="#B" n="72" break="no"/>cramentum fidei.
+  </p>
+      <p xml:id="jMqv4a-d1e1718-d1e208">
+   ⁋ Ad aliud. quado conuersus est 
+   <lb ed="#B" n="73"/>alter coniugum, an matrimonium tunc primum desi 
+   <lb ed="#B" n="74"/>nat esse: sunt duae positiones oppositae: vt glossa 
+   <lb ed="#B" n="75"/>tangit in cap. Gaudemus. Vna tenet quod
+   matrimo<lb ed="#B" n="76" break="no"/>nium dissoluitur adueniente quacumque ista rum
+   condi<lb ed="#B" n="77" break="no"/>tionum. Sed si conuersus ad fidem velit aliam
+   du<lb ed="#B" n="78" break="no"/>cere: infidelis potest reclamare iure postliminii.
+   ar<lb ed="#B" n="79" break="no"/>xxxiiii. qu. ii. Cum per bellicam. sicut haeretico
+   reuer<lb ed="#B" n="80" break="no"/>so restituuntur ei bona. C. de haereticis. Et licet non 
+   <lb ed="#B" n="81"/>sit matrimonium inter eos: tamen eam recipere
+   con<lb ed="#B" n="82" break="no"/>pellitur ex consequentia prioris matrimonii, in fa 
+   <lb ed="#B" n="83"/>uorem fidei: sicut post sponsalia homo cogitur du 
+   <lb ed="#B" n="84"/>cere mulierem. Opinio oppositam &amp; probabilior est quod 
+   <lb ed="#B" n="85"/>matrimonium no corrumpitur cum infideli quousque
+   fi<lb ed="#B" n="86" break="no"/>delis cum altera contrahat, vel profiteatur religionem 
+   <lb ed="#B" n="87"/>vel frugem melioris vitae. Et causa est quia romanus 
+   <lb ed="#B" n="88"/>pontifex definit quod ipsa potest ante matrimonium 
+   <lb ed="#B" n="89"/>cum secunda / reuocare suum maritum: &amp; ipse tenea 
+   <lb ed="#B" n="90"/>tur eam suscipere: vt patet in capi. Gaudemus. 
+  </p>
+      <p xml:id="jMqv4a-d1e1718-d1e250">
+       <lb ed="#B" n="91"/>⁋ Forte dicis. Fidelis non potest habere infidelem 
+   <lb ed="#B" n="92"/>vxorem. Distinguitur. vel si ipsum matrimonium 
+   <lb ed="#B" n="93"/>fuerit contractum tempore infidelitatis: &amp; sic nego. sed  
+   <lb ed="#B" n="94"/>si vnus fuisset fidelis &amp; alter infidelis: concedo pro 
+   <lb ed="#B" n="95"/>pter illegitimationem ecclesiae. vt patet. xxviii. q. i. c. 
+   <lb ed="#B" n="96"/>Caue. Nam in primitiua ecclesia passim ludaei &amp; 
+   <lb ed="#B" n="97"/>gentiles conuertebantur: &amp; sic verisimile erat quod fi 
+   <lb ed="#B" n="98"/>delis lucraretur infidelem ad fidem. sed vbi
+   pro<lb ed="#B" n="99" break="no"/>cessu temporis ludaei facti sunt obstinati: non autem 
+   <lb ed="#B" n="100"/>gentiles: licuit manere cum secundis, non primis. post 
+   <lb ed="#B" n="101"/>ea &amp; hi &amp; illi obstinati: quare nunc est illicitum cum 
+   <lb ed="#B" n="102"/>quocumque infideli contrahere. hic autem est ius positiuum 
+   <lb ed="#B" n="103"/>humanu quod pontifex potest reuocare &amp; inualidare. 
+   <lb ed="#B" n="104"/>Sed ex toto isto non sequitur quod si alter coniugum in  
+   <lb ed="#B" n="105"/>haeresim labatur, altero manente fideli: matrimonium 
+   <lb ed="#B" n="106"/>dissoluatur: immo oppositum, quod tangitur in cap. 
+   <!--0675.xml-->
+   <pb ed="#B" n="322-r"/>
+       <cb ed="#B" n="a"/>
+       <lb ed="#B" n="1"/>Quanto. Et sic fidelis sine sua culpa vxore priua 
+   <lb ed="#B" n="2"/>bitur: quia inter illos est matrimonium legitimum &amp; ratum: 
+   <lb ed="#B" n="3"/>cum vterque sit baptizatus. Sed dicis. Ponamus quod vnus 
+   <lb ed="#B" n="4"/>credat se esse baptizatum: &amp; tamen non est: vel vterque
+   con<lb ed="#B" n="5" break="no"/>iunx: an inter eos possit esse diuortium. Similiter an 
+   <lb ed="#B" n="6"/>ecclesia possit cogere illam quae labitur in haeresim, vt 
+   <lb ed="#B" n="7"/>ad virum redeat. Respondetur quod cum non habeant chara 
+   <lb ed="#B" n="8"/>cterem baptismalem / si postea altera auertat se a fide:  
+   <lb ed="#B" n="9"/>alter potest contrahere cum alia. De alio dicitur quod ecclesia 
+   <lb ed="#B" n="10"/>potest illam quae labitur in haeresim cogere: vt reuerta 
+   <lb ed="#B" n="11"/>cum est haeretica, &amp; tradere curiae saeculari.
+  </p>
+      <p xml:id="jMqv4a-d1e1718-d1e318">
+   ⁋ Sed cor 
+   <lb ed="#B" n="12"/>tra distinctionem illam modo datam arguitur. Moyse 
+   <lb ed="#B" n="13"/>habuit vxorem filiam letro infidelis. Exodi. ii. &amp; li 
+   <lb ed="#B" n="14"/>seph filiam Phutifaris sacerdotis Heliopoleos. Gi 
+   <lb ed="#B" n="15"/>ne. xli. quae erat infidelis. &amp; vt dicitur. iii. Regum. iii. Salomi 
+   <lb ed="#B" n="16"/>accepit filiam Pharaonis. &amp; Hester nupsit Assuero 
+   <lb ed="#B" n="17"/>Hester. ii. Praeterea probatur quod nunc fidelis possit 
+   <lb ed="#B" n="18"/>contrahere cum infideli: quia fidelis est persona habilis 
+   <lb ed="#B" n="19"/>&amp; infidelis est persona habilis: ergo sunt personae 
+   <lb ed="#B" n="20"/>habiles.
+  </p>
+      <p xml:id="jMqv4a-d1e1718-d1e340">
+   ⁋ Ad primum de illis patribus ante legem 
+   <lb ed="#B" n="21"/>responderet aliquis non fuisse vetitum. Sed quia appa 
+   <lb ed="#B" n="22"/>ret oppositum, cum <name xml:id="jMqv4a-d1e1718-Nd1e346" ref="#Abraham">Abraham</name> noluerit quod Isaac accipet 
+   <lb ed="#B" n="23"/>mulierem de terra Chanaam: nec Isaac Iacob ibi sine 
+   <lb ed="#B" n="24"/>bat ducere vxorem: sed misit eum ad Mesopotamiam 
+   <lb ed="#B" n="25"/>Syriae. Esau autem inter suos ducens vxorem
+   pecca<lb ed="#B" n="26" break="no"/>uit. Nam Deuterono. vii. cum praecepit dominus delere septem 
+   <lb ed="#B" n="27"/>gentes: legitur Non inibis cum eis foedus: nec misere 
+   <lb ed="#B" n="28"/>beris earum: neque sociabis cum eis coniugia. Filiam tuan 
+   <lb ed="#B" n="29"/>non dabis filio eius: nec filiam illius accipies filio tuo: 
+   <lb ed="#B" n="30"/>quia seducet filium tuum ne sequatur me: &amp; vt magis 
+   <lb ed="#B" n="31"/>seruiat diis alienis. Populus enim ille erat obstinatus 
+   <lb ed="#B" n="32"/>in malo: quare voluit eum attenuare dominus. Et patres 
+   <lb ed="#B" n="33"/>instinctu spiritus sancti hoc seruabant ante legem. 
+   <lb ed="#B" n="34"/>Iacob namque consensit de Dina, modo mas
+   circunci<lb ed="#B" n="35" break="no"/>di vellet. Idcirco dico quod specialissime erant
+   interdi<lb ed="#B" n="36" break="no"/>ctae mulieres Chananeae: nec nisi pro magna valde 
+   <lb ed="#B" n="37"/>causa poterant ludaei contrahere cum eis: vt Naason 
+   <lb ed="#B" n="38"/>contraxit cum Raab de qua genuit Boos. vt dicitur 
+   <lb ed="#B" n="39"/>Matthaei. i. quae saluauit nuncios losue. Cum aliis autem 
+   <lb ed="#B" n="40"/>mulieribus alienigenis poterant contrahere ob
+   rationa<lb ed="#B" n="41" break="no"/>bilem causam &amp; minorem quam cum primis. sicut Obeth 
+   <lb ed="#B" n="42"/>contraxit cum Ruth. Ruth vltimo. &amp; Salomon cum 
+   <lb ed="#B" n="43"/>filia Pharaonis pro pace sui regni. iii. Regum. iii. ii 
+   <lb ed="#B" n="44"/>quo adhuc non videtur praeuaricator. De
+   alienige<lb ed="#B" n="45" break="no"/>nis autem Ammonitarum &amp; Moabitarum &amp; Aegyptio 
+   <lb ed="#B" n="46"/>rum quas abiecit Esdras. Esdrae. ix, quando populus reuer 
+   <lb ed="#B" n="47"/>sus est de captiuitate: dicitur quod causa fuit irrationabilis: quia 
+   <lb ed="#B" n="48"/>vxores eorum / iudaeae mulieres erant turpes ex rediti 
+   <lb ed="#B" n="49"/>ab itinere: quare eas abiecerunt. Ad secundum concedo 
+   <lb ed="#B" n="50"/>antecedens: quod scilicet fidelis est persona habilis, &amp; 
+   <lb ed="#B" n="51"/>infidelis est persona habilis / puta ad contrahendum 
+   <lb ed="#B" n="52"/>cum infideli: &amp; nego consequentiam: ergo fidelis &amp;
+   infi<lb ed="#B" n="53" break="no"/>delis sunt personae habiles: quia est relatio intrinse 
+   <lb ed="#B" n="54"/>ca in consequente: &amp; extrinseca in antecedente.
+  </p>
+    </div>
+   </body>
+  </text>
+</TEI>

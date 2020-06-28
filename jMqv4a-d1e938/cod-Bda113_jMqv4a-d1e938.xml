@@ -1,0 +1,503 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 4</title>
+      <author ref="#JohnMair">John Mair</author>
+      <respStmt>
+       <name>Jeffrey C. Witt</name>
+       <resp>TEI Encoder</resp>
+      </respStmt>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 4</title>
+       <date when="2020-06-09">June 27, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="B" n="cod-Bda113">Badius 1516</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+     guidelines for a diplomatic edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-06-27" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+      <pb ed="#B" n="176-r"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="jMqv4a-d1e938"> <!-- l4d17q4 -->
+      <head xml:id="jMqv4a-d1e938-Hd1e104">Quaestio 4</head>
+      <head xml:id="jMqv4a-d1e938-Hd1e107" type="question-title">An peccatorum circumstantiae sint de necessitate 
+  salutis confitendae</head>
+      <p xml:id="jMqv4a-d1e938-d1e110">
+       <lb ed="#B" n="56"/>⁋ Distinctionis Decimaeseptimae 
+   <lb ed="#B" n="57"/>Quaestio Quarta. 
+   <lb ed="#B" n="58"/>Varto circa eandem 
+   <lb ed="#B" n="59"/>materiam quaero. an peccatorum cir 
+   <lb ed="#B" n="60"/>cunstantiae sint de
+   necessita<lb ed="#B" n="61" break="no"/>qute salutis confitendae.
+   Sup<lb ed="#B" n="62" break="no"/>xvponatur ex Tertii Ethicorum. secun 
+   <lb ed="#B" n="63"/>ildo cap. quod multiplices sunt 
+   <lb ed="#B" n="64"/>Erae quae circumstantiae: sed quae nostro 
+   <lb ed="#B" n="65"/>proposito sufficiunt: hoc cat 
+   <lb ed="#B" n="66"/>mine continentur. Quis, quid, vbi, per quos, quo 
+   <lb ed="#B" n="67"/>tiens, cur, quomodo, quando. Quis causam
+   efficien<lb ed="#B" n="68" break="no"/>tem denotat: an scilicet religiosus, sacerdos, vel
+   lai<lb ed="#B" n="69" break="no"/>cus. Quid causam materialem. hoc est obiectum.
+   Ali<lb ed="#B" n="70" break="no"/>qui se fatigant inquirendo an peccata sint materia poe 
+   <lb ed="#B" n="71"/>nitentiae: an peccator. dico vtrunque. nam sermo 
+   <lb ed="#B" n="72"/>est de materia circaquam: &amp; non ex qua vel in qua 
+   <lb ed="#B" n="73"/>modo circa vtrunque istorum versatur
+   poeniten<lb ed="#B" n="74" break="no"/>tia. Quibus auxiliis, causam formalem
+   impor<lb ed="#B" n="75" break="no"/>tat. Vbi est circumstantia loci: vt si in loco sacro vel 
+   <lb ed="#B" n="76"/>prophano peccatum commissum fuerit. Per quos 
+   <lb ed="#B" n="77"/>hoc est per quam instigationem. Quotiens. hoc est 
+   <lb ed="#B" n="78"/>de numero peccatorum. Cur, causam finalem. vt 
+   <lb ed="#B" n="79"/>an sortes dedit aliquid ob malum finem. Quomo 
+   <lb ed="#B" n="80"/>do. hoc est de modo perpetrandi sceleris: vt
+   pro<lb ed="#B" n="81" break="no"/>ditorie hominem occidendo a tergo: vel redden  
+   <lb ed="#B" n="82"/>do eum certiorem vt se protegat. Secundum 
+   <lb ed="#B" n="83"/>enim est multo minus peccatum quam primum: quia 
+   <lb ed="#B" n="84"/>inuaso datur locus defensionis, &amp; est
+   auimosi<lb ed="#B" n="85" break="no"/>tas. Primum autem est vulpinum: &amp;
+   animosita<lb ed="#B" n="86" break="no"/>tis nihil habet. Quando, hoc est de tempore. Ad 
+   <lb ed="#B" n="87"/>hoc autem vt actus qui est poenitentia sit bonui 
+   <lb ed="#B" n="88"/>hoc est vera poenitentia: oportet omnia ista
+   con<lb ed="#B" n="89" break="no"/>currere. nam bonum est ex integra causat secun 
+   <lb ed="#B" n="90"/>dum Dionysium quarto de diuinis nominibus. 
+   <lb ed="#B" n="91"/>&amp; primo Ethicorum. vno modo quis est bonus 
+   <lb ed="#B" n="92"/>multisque modis nefandus. &amp; non facio vim siue 
+   <lb ed="#B" n="93"/>circumstantia cadat in ratione obiecti: siue actum 
+   <lb ed="#B" n="94"/>circumstet. 
+  </p>
+      <p xml:id="jMqv4a-d1e938-d1e197">
+       <lb ed="#B" n="95"/>⁋ lsto praemisso dico quod multiplices sunt 
+   <lb ed="#B" n="96"/>circumstantiae in peccatis, quaedam actum attenuantes: vt fu 
+   <lb ed="#B" n="97"/>rari vt pauperi succurratur. licet Dionysius
+   mona<lb ed="#B" n="98" break="no"/>chus dicat non minus esse peccatum. cui fidem non ad  
+   <lb ed="#B" n="99"/>hibeo. tales etiam sunt confitendae vt superius dixi 
+   <lb ed="#B" n="100"/>mus quaestione secunda huius distinctionis. tum ne 
+   <lb ed="#B" n="101"/>scandalizetur sacerdos de putato bono. tum vt co 
+   <lb ed="#B" n="102"/>gnoscat vultum pecoris sui, &amp; poenitentiam saluta 
+   <lb ed="#B" n="103"/>rem iniungat secundum exigentiam culpae.
+  </p>
+      <p xml:id="jMqv4a-d1e938-d1e220">
+   ⁋ Aliae sunt cir 
+   <lb ed="#B" n="104"/>cumstantiae peccatum aggrauantes: quae ipsum in aliam specien pec 
+   <lb ed="#B" n="105"/>cati mutant: siue in specien entitatiuam: siue in specien 
+   <lb ed="#B" n="106"/>malitiae. sed dae secuda loquor: siue priotu concut: 
+   <!--0384.xml-->
+   <pb ed="#B" n="176-v"/>
+       <cb ed="#B" n="a"/>
+       <lb ed="#B" n="1"/>rat, siue non / nihil refert. &amp; istae circumstantiae sunt 
+   <lb ed="#B" n="2"/>confitendae. Aliquas declarabo exemplariter. au 
+   <lb ed="#B" n="3"/>ferre alienum de templo est sacrilegium. propterea non 
+   <lb ed="#B" n="4"/>sufficit confiteri ablationem alieni: sed oportet etiam 
+   <lb ed="#B" n="5"/>addere / de aede sacra. pari forma si homo cognouii 
+   <lb ed="#B" n="6"/>suam consanguineam solutam: non sufficit
+   confi<lb ed="#B" n="7" break="no"/>teri de soluta vel simplici fornicatione: sed etiam 
+   <lb ed="#B" n="8"/>tenetur addere / fuisse consanguineam: quia hoc 
+   <lb ed="#B" n="9"/>specialem habet deformitatem. hoc est, contrauenit vni 
+   <lb ed="#B" n="10"/>praecepto ratione consanguinitatis. &amp; licet isti duo actus 
+   <lb ed="#B" n="11"/>sint eiusdem speciei specialissimae entitatiue:
+   co<lb ed="#B" n="12" break="no"/>gnoui hanc mulierem / demonstrando consanguinean 
+   <lb ed="#B" n="13"/>&amp; cognoui hanc / demonstrando aliam non
+   consan<lb ed="#B" n="14" break="no"/>guineam: isti tamen duo actus differunt in specie ma 
+   <lb ed="#B" n="15"/>litiae. &amp; vnus est altero peior: vnum peccatum virtualis 
+   <lb ed="#B" n="16"/>cum alio peccato includens. immo si esset dispensatio a 
+   <lb ed="#B" n="17"/>deo de cognoscenda soluta, si nihil aliud impediat 
+   <lb ed="#B" n="18"/>adhuc cognoscere consanguineam solutam esset
+   pec<lb ed="#B" n="19" break="no"/>catum. Simiter si quis peccauit mortaliter in die festo 
+   <lb ed="#B" n="20"/>non sufficit illud peccatum sacerdoti aperire: sed
+   opor<lb ed="#B" n="21" break="no"/>tet dicere, in die festo. &amp; sic illud quod in alio die esset 
+   <lb ed="#B" n="22"/>vnum peccatum: propter diem festum efficitur duo in va 
+   <lb ed="#B" n="23"/>lore. nam in die festo praecipitur hoc affirmatiuum:
+   va<lb ed="#B" n="24" break="no"/>care cultui diuino potissimum. &amp; vt illud liberius fi 
+   <lb ed="#B" n="25"/>at: prohibentur opera seruilia quae talis diei cultum impediunt 
+   <lb ed="#B" n="26"/>inter quae praecipuum est peccatum. Ex quo patet quod haec 
+   <lb ed="#B" n="27"/>consequentia est nulla. hic actus est tamtenm vnus: hic 
+   <lb ed="#B" n="28"/>actus est peccatum: ergo peccatum est tamten vnum. quia si actus 
+   <lb ed="#B" n="29"/>voluntatis esset impartibilis (prout aliquibus licet minus 
+   <lb ed="#B" n="30"/>scite placet) antecedens esset verum &amp; consequens falsum. 
+   <lb ed="#B" n="31"/>Et loquor de peccato in re vel in valore: nisi esset ci 
+   <lb ed="#B" n="32"/>cumstantia quae probabiliter putaretur inducere confessorem ad 
+   <lb ed="#B" n="33"/>peccandum. talis enim non est confitenda protunc 
+   <lb ed="#B" n="34"/>vt bene dicit Altisiodorus in. iiii. licet male loquatui 
+   <lb ed="#B" n="35"/>consequenter de genere peccati: puta de muliere 
+   <lb ed="#B" n="36"/>habente praecise vnum peccatum luxus in pascha: proba 
+   <lb ed="#B" n="37"/>biliter existimante quod ex sua confessione sacerdos 
+   <lb ed="#B" n="38"/>mouebitur ad peccadum: dicens adhuc genus pec 
+   <lb ed="#B" n="39"/>cati esse confitedum. nam ratio quam facit contra alios 
+   <lb ed="#B" n="40"/>de circumstantia, non minus concludit de genere peccat 
+   <lb ed="#B" n="41"/>Scandalum enim strictius prohibetur quam confessio perci 
+   <lb ed="#B" n="42"/>piatur. Si ergo immineat scandalum nisi ipsa tunc 
+   <lb ed="#B" n="43"/>communicet: &amp; non sit alter sacerdos cui possit 
+   <lb ed="#B" n="44"/>confiteri: dico quod ipsa potest communicare: proponens 
+   <lb ed="#B" n="45"/>confiteri pro loco &amp; tempore: habita opportunitate 
+   <lb ed="#B" n="46"/>sacerdotis.
+  </p>
+      <p xml:id="jMqv4a-d1e938-d1e335">
+   ⁋ Aliae sunt circumstantiae nec aggra 
+   <lb ed="#B" n="47"/>uantes nec attenuantes: hoc est impertinentes ad rati 
+   <lb ed="#B" n="48"/>nem culpae. &amp; tales non sunt confitedae. vt si sit
+   sor<lb ed="#B" n="49" break="no"/>tes vel plato occisus: stat quod sit grandius peccatum 
+   <lb ed="#B" n="50"/>occidere sortem quam platone: vt si reipu. sit vtilior: 
+   <lb ed="#B" n="51"/>vel pluribus obligationibus actus meus
+   contraue<lb ed="#B" n="52" break="no"/>nit. vtpote quia est mihi benefactor vel consangui: 
+   <lb ed="#B" n="53"/>neus: &amp; actus est propterea magis prohibitus a deo 
+   <lb ed="#B" n="54"/>sed propter tale nomen peccatum no est grandius.
+  </p>
+      <p xml:id="jMqv4a-d1e938-d1e355">
+   ⁋ Alii 
+   <lb ed="#B" n="55"/>sunt circumstantiae speciem peccati non mutantes 
+   <!--0384.xml-->
+   <cb ed="#B" n="b"/> 
+       <!-- 176-v b -->
+       <lb ed="#B" n="56"/>sed facientes peccata differre secundum maius &amp; minus: 
+   <lb ed="#B" n="57"/>exemplum de ablatione furti maioris &amp; minoris. 
+   <lb ed="#B" n="58"/>Sancto Thomae &amp; suis placet quod nemo tenetur tales 
+   <lb ed="#B" n="59"/>circumstantias confiteri. Contra quos sic argumen 
+   <lb ed="#B" n="60"/>tor. sortes tenetur confiteri furtum in loco sacro fa 
+   <lb ed="#B" n="61"/>ctum: quia speciali prohibitione prohibetur. &amp; hoc non 
+   <lb ed="#B" n="62"/>est nisi vt magnitudo peccati detegatur. sed stat quod
+   fur<lb ed="#B" n="63" break="no"/>tum de loco sacro non erit duplum ad furtum de lo 
+   <lb ed="#B" n="64"/>co non sacro: &amp; vnum furtum simplex est duplicis 
+   <lb ed="#B" n="65"/>malitiae vel triplicis respectu alterius furti simpli 
+   <lb ed="#B" n="66"/>cis: ergo ipsum cum illa circumstantia est confitendum 
+   <lb ed="#B" n="67"/>Non potes per hoc euadere quod vnum habet
+   spe<lb ed="#B" n="68" break="no"/>ciale nomen: puta auferre alienum de loco sacro est 
+   <lb ed="#B" n="69"/>sacrilegium, non sic surtum simplex magnum vel paruum 
+   <lb ed="#B" n="70"/>quia propter nominia &amp; varias nominium denominationes,
+   pec<lb ed="#B" n="71" break="no"/>cata non sunt maiora vel minora. etiam dabilia 
+   <lb ed="#B" n="72"/>sunt furta magna vel parua differentia specie en 
+   <lb ed="#B" n="73"/>titatiue: &amp; in specie malitiae: quae omnino aequalent duo  
+   <lb ed="#B" n="74"/>bus furtis solum differentibus secundum magnum &amp;
+   par<lb ed="#B" n="75" break="no"/>uum. ergo si primae circumstantiae sint confitendae 
+   <lb ed="#B" n="76"/>etiam &amp; secundae. Assumptum patet: quia isti duo actus 
+   <lb ed="#B" n="77"/>specie differunt. abstuli duo capitalia argenti &amp; absi 
+   <lb ed="#B" n="78"/>tuli duos aureos. &amp; eisdem rebus demonstratis 
+   <lb ed="#B" n="79"/>scilicet duobus capitalibus argenti &amp; duobus 
+   <lb ed="#B" n="80"/>aureis: isti duo actus aequiualent eis in malitia 
+   <lb ed="#B" n="81"/>abstuli hos &amp; illa. Praeterea aliquod furtum est 
+   <lb ed="#B" n="82"/>veniale, &amp; aliquod mortale: solum proueniens ab abla 
+   <lb ed="#B" n="83"/>tione parui vel magni obiecti. ergo hoc est confiten 
+   <lb ed="#B" n="84"/>dum.
+  </p>
+      <p xml:id="jMqv4a-d1e938-d1e429">
+   ⁋ Propter has rationes &amp; plures quae fieri possunt 
+   <lb ed="#B" n="85"/>dico istas circumstantias de necessitate confitendas 
+   <lb ed="#B" n="86"/>ldem censeo de magnitudine temporis, hoc est temporis lon 
+   <lb ed="#B" n="87"/>gitudine. nam stat sortem volendo occidere vnum 
+   <lb ed="#B" n="88"/>hominem tantum peccare quantum platonem qui imputabiliter 
+   <lb ed="#B" n="89"/>occidit decem, quod probo: quia ponatur quod continuet 
+   <lb ed="#B" n="90"/>actum suum quo primum hominem occidit solum per 
+   <lb ed="#B" n="91"/>vnam horam: &amp; sortes similem actum eliciat quo voluit 
+   <lb ed="#B" n="92"/>occidere vnum hominem: tunc sortes tantum
+   pecca<lb ed="#B" n="93" break="no"/>uit quantum plato. suppono caetera paria quae proposi 
+   <lb ed="#B" n="94"/>tum promouent. Quando autem plato occidit secundum 
+   <lb ed="#B" n="95"/>hominem actu continuato solum per vnam horam: po 
+   <lb ed="#B" n="96"/>ne quod sortes habeat similem actu ita diu continuatum 
+   <lb ed="#B" n="97"/>libere circa occisionem semper eiusdem hominis: sed non 
+   <lb ed="#B" n="98"/>occurrit ei opportunitas sceleris perpetrandi. Tunc 
+   <lb ed="#B" n="99"/>sic. in fine secundi actus sortes est ita malus vt
+   pla<lb ed="#B" n="100" break="no"/>to in fine secundi actus: &amp; eodem modo in fine
+   deci<lb ed="#B" n="101" break="no"/>mi actus. deductio est euidens. Ex qua deductio 
+   <lb ed="#B" n="102"/>ne inferre potes quod cognoscens mulierem decies, tam 
+   <lb ed="#B" n="103"/>tum peccat quantum cognoscens decem similes mu 
+   <lb ed="#B" n="104"/>lieres: paritate supposita. Et eodem modo sequitur 
+   <lb ed="#B" n="105"/>quod volens cognoscere decies eandem mulierem 
+   <lb ed="#B" n="106"/>tatum peccat quantum decem alias cognoscens. Pronunc 
+   <lb ed="#B" n="107"/>enim suppono positionem illam quam veriorem arbitror 
+   <lb ed="#B" n="108"/>quod actus exterior nihil bonitatis vel malitiae actui 
+   <lb ed="#B" n="109"/>interiori superaddit. vt latius in. xvii. distinctione 
+   <lb ed="#B" n="110"/>primi deduximus. Confessor itaque homicidae habet 
+   <!--0385.xml-->
+   <pb ed="#B" n="177-r"/>
+       <cb ed="#B" n="a"/>
+       <lb ed="#B" n="1"/>inquirere quo spiritu ductus hominem occidit: hoc 
+   <lb ed="#B" n="2"/>est qua instigatione: quamdiu mansit in illo proposito: &amp; 
+   <lb ed="#B" n="3"/>quoties opinionem sua illum actum refricuit. nisi enim 
+   <lb ed="#B" n="4"/>has circumstantias &amp; similes sollicite rimetur confessor 
+   <lb ed="#B" n="5"/>non facit officium sibi iniunctum: &amp; peccat omittendo 
+   <lb ed="#B" n="6"/>seu non faciendo illa ad quae tenetur homo in suo
+   sta<lb ed="#B" n="7" break="no"/>tu: nec potest salutarem poenitentiam recte iniunge 
+   <lb ed="#B" n="8"/>re. Haec declaro in simili de medico corporali
+   pa<lb ed="#B" n="9" break="no"/>tientem non potente curare nisi morbos cum causis 
+   <lb ed="#B" n="10"/>suis: &amp; eorum insultus a patiente deprehendat. nam 
+   <lb ed="#B" n="11"/>contingit morbos requirere curas contrarias: vt fe 
+   <lb ed="#B" n="12"/>brim &amp; ventris profluuium. Sic crebro est inter
+   pec<lb ed="#B" n="13" break="no"/>catorum circumstantias.
+  </p>
+      <p xml:id="jMqv4a-d1e938-d1e523">
+   ⁋ Sed forte dicis. ex dictis 
+   <lb ed="#B" n="14"/>sequitur haec conclusio disiunctiua: quod aliquod pecca 
+   <lb ed="#B" n="15"/>tum mortale non est confitendum: vel quod duo aequaliter 
+   <lb ed="#B" n="16"/>peccantes / inaequaliter tenentur confiteri. quae
+   disiun<lb ed="#B" n="17" break="no"/>ctiua pro vtraque sui parte refellenda apparet. quod se 
+   <lb ed="#B" n="18"/>quatur sic declaro: supposito illo quod proxime
+   di<lb ed="#B" n="19" break="no"/>ximus, actum exteriorem nihil bonitatis vel
+   ma<lb ed="#B" n="20" break="no"/>litiae actui interiori superaddere. capio sortem qui vo 
+   <lb ed="#B" n="21"/>luit efficaciter occidere hominem quantum in se fuit: 
+   <lb ed="#B" n="22"/>&amp; Platonem qui ex simili actu voluntatis illum ho 
+   <lb ed="#B" n="23"/>minem vel alium similem occidit. Tunc sic. Sortes &amp; 
+   <lb ed="#B" n="24"/>Plato aequaliter peccant. Plato tenetur ad confessio 
+   <lb ed="#B" n="25"/>nem actus exterioris &amp; interioris: quia vterque est 
+   <lb ed="#B" n="26"/>peccatum mortale: ergo tenetur amplius confiteri qua 
+   <lb ed="#B" n="27"/>Sortes. vel si non tenetur ad vtrumque confitendum: dam 
+   <lb ed="#B" n="28"/>pitur peccatum aliquod mortale non confitendum 
+   <lb ed="#B" n="29"/>contra conclusionem principalem secundae quaestionis hu 
+   <lb ed="#B" n="30"/>ius distinctionis.
+  </p>
+      <p xml:id="jMqv4a-d1e938-d1e562">
+   ⁋ Respondetur concedendo quod
+   aequa<lb ed="#B" n="31" break="no"/>liter peccant: &amp; aequaliter tenentur confiteri aequa 
+   <lb ed="#B" n="32"/>litate peccatorum imputabilium ad poenam coran 
+   <lb ed="#B" n="33"/>deo. Sortes enim confitetur quod efficaciter voluit occi 
+   <lb ed="#B" n="34"/>dere hominem: si non fuisset aliunde praepeditus. 
+   <lb ed="#B" n="35"/>Plato confitetur quod imputabiliter occidit hominem 
+   <lb ed="#B" n="36"/>&amp; confitetur virtualiter suum actum interiorem illius
+   oc<lb ed="#B" n="37" break="no"/>cisionis imperatiuum: quia illa occisio exterior non 
+   <lb ed="#B" n="38"/>est peccatum nisi pro quanto ab actu interiori
+   culpabi<lb ed="#B" n="39" break="no"/>li imperatur. &amp; quia actus exterior hominibus est non 
+   <lb ed="#B" n="40"/>tior: illum confitetur qui suum actum interiorem prae 
+   <lb ed="#B" n="41"/>supponit. &amp; quia alter non occidit actualiter: tenetur 
+   <lb ed="#B" n="42"/>actum interiorem confiteri: cum non habeat exteriorem 
+   <lb ed="#B" n="43"/>illius manifestatiuum. Nec ex illo habes quod actus in  
+   <lb ed="#B" n="44"/>terior Platonis nullo modo est confitendus: immo 
+   <lb ed="#B" n="45"/>aequiualenter est confessus. 
+   <lb ed="#B" n="46"/>Irca hanc quaestionem dubi 
+   <lb ed="#B" n="47"/>tatur: an homo teneatur confiteri
+   circun<lb ed="#B" n="48" break="no"/>i stantias differentes secundum magnum &amp;
+   par<lb ed="#B" n="49" break="no"/>uum ex parte obiecti, nam si sic: sequitur quod eodem 
+   <lb ed="#B" n="50"/>modo tenebitur confiteri intensionem &amp; remissionem 
+   <lb ed="#B" n="51"/>actus.
+  </p>
+      <p xml:id="jMqv4a-d1e938-d1e611">
+   ⁋ Secundo dubitatur supposito quod Sorte: 
+   <lb ed="#B" n="52"/>post omnium peccatorum suorum confessionem: post 
+   <lb ed="#B" n="53"/>vnam horam redeat ad curatum. &amp; dicat. domine peccau 
+   <lb ed="#B" n="54"/>post vltimam confessionem mentiendo: per hanc pro 
+   <!--0385.xml-->
+   <cb ed="#B" n="b"/> 
+       <!-- 177-r b -->
+       <lb ed="#B" n="55"/>positionem, egomentior vel mentitus sum post vl 
+   <lb ed="#B" n="56"/>timam confessionem: an teneatur confiteri. &amp; ponatur illius 
+   <lb ed="#B" n="57"/>opinionis cum curato: quod veniale separatum a 
+   <lb ed="#B" n="58"/>mortalibus in pascha sit confitendum. &amp; nullum aliud 
+   <lb ed="#B" n="59"/>mendacium committat. quod mentitus sit probo. assentitur 
+   <lb ed="#B" n="60"/>huic, ego mentior. vel ita est: &amp; tunc mentitur: quia 
+   <lb ed="#B" n="61"/>ita est in re sicut ipse assentitur. si non sit ita ex
+   par<lb ed="#B" n="62" break="no"/>te rei vt ipse assentitur: tunc ipse mentitur: ergo nullo 
+   <lb ed="#B" n="63"/>pacto patet euasio quin ipse mentiatur, quod si conce 
+   <lb ed="#B" n="64"/>das: arguitur sic. ita est in re sicut ipse assentitur: &amp; ita 
+   <lb ed="#B" n="65"/>ipse scit: ergo non mentitur: nec est confitendum de 
+   <lb ed="#B" n="66"/>mendacio. vel pone circumstantiam quae facit veniale 
+   <lb ed="#B" n="67"/>esse mortale secundum eius opinionem: vt dicere 
+   <lb ed="#B" n="68"/>mendacium in confessione. Vel succinctius mouea 
+   <lb ed="#B" n="69"/>tur dubitatio de hac. per deum domine curate ego 
+   <lb ed="#B" n="70"/>sum periurus. iurametum enim deliberatum est mor 
+   <lb ed="#B" n="71"/>tale quando est periurium. &amp; potest argumentari curato 
+   <lb ed="#B" n="72"/>quod sic. vel ita est sicut iurat: vel non ita est. si pri 
+   <lb ed="#B" n="73"/>um: est periurus. &amp; si secundum: est etiam periurus. 
+  </p>
+      <p xml:id="jMqv4a-d1e938-d1e668">
+       <lb ed="#B" n="74"/>⁋ Tertio dubitatur. an absolutio sacramentalis su 
+   <lb ed="#B" n="75"/>per eadem peccata applicata continuo poenam pec 
+   <lb ed="#B" n="76"/>catis debitam diminuat. ratio dubitandi ex dubita 
+   <lb ed="#B" n="77"/>tionis solutione clarebit. 
+  </p>
+      <p xml:id="jMqv4a-d1e938-d1e679">
+       <lb ed="#B" n="78"/>⁋ Ad primam dubitationem
+   conce<lb ed="#B" n="79" break="no"/>ditur: quod debet confiteri magnum conatum vel par 
+   <lb ed="#B" n="80"/>uum quem habuit secundum suam possibilitatem. actus 
+   <lb ed="#B" n="81"/>enim voluntatis sunt immanifestiores quam obiecta 
+   <lb ed="#B" n="82"/>ad extra. &amp; quia non est possibile scire numerum gra 
+   <lb ed="#B" n="83"/>duum naturaliter: est ei ignorantia inuincibilis.
+  </p>
+      <p xml:id="jMqv4a-d1e938-d1e695">
+   ⁋ Ad 
+   <lb ed="#B" n="84"/>secundam dubitationem hic non respondeo: cum non expe 
+   <lb ed="#B" n="85"/>diat eiusmodi tricis insistere psertim inexercitatis 
+   <lb ed="#B" n="86"/>in artium vorticibus. iuniores enim theologi quai artes 
+   <lb ed="#B" n="87"/>nouerunt, in promptu responsionem habent. Etiam in 
+   <lb ed="#B" n="88"/>fine tertii in mendacio &amp; periurio illos casus pono- 
+  </p>
+      <p xml:id="jMqv4a-d1e938-d1e708">
+       <lb ed="#B" n="89"/>⁋ Ad tertiam dubitationem respondetur quod confitens 
+   <lb ed="#B" n="90"/>peccata semel confessa facit opus bonum: &amp; me 
+   <lb ed="#B" n="91"/>retur si sit meriti capax in potentia propinqua: &amp; 
+   <lb ed="#B" n="92"/>facit actum laudabilem: quem verecundia facit 
+   <lb ed="#B" n="93"/>difficiliorem: &amp; per consequens laudabiliorem. Sed  
+   <lb ed="#B" n="94"/>an conferatur ei gratia virtute operis operati in se 
+   <lb ed="#B" n="95"/>cunda confessione: &amp; diminuatur poena: a plerisque 
+   <lb ed="#B" n="96"/>ambigitur. Partem autem affirmatiuam teneo pro 
+   <lb ed="#B" n="97"/>babiliorem propter has paucas rationes sequentes. 
+   <lb ed="#B" n="98"/>Quarum prima est. si Sortes habeat octo pecca 
+   <lb ed="#B" n="99"/>ta: &amp; post sufficientem indaginem solum septem 
+   <lb ed="#B" n="100"/>occurrant: confitendo illa / dabitur ei gratia virtute 
+   <lb ed="#B" n="101"/>operis operati: &amp; vi clauis diminuetur poena. Fo 
+   <lb ed="#B" n="102"/>dem modo si confiteatur octauum peccatum post 
+   <lb ed="#B" n="103"/>ea occurrens cum illis septem / dabuntur illi duo ef 
+   <lb ed="#B" n="104"/>fectus. Sed hic statim quis obiiciet &amp; probabiliter. 
+   <lb ed="#B" n="105"/>erit diminutio poenae in secunda absolutione so 
+   <lb ed="#B" n="106"/>lum peccati obliti, &amp; nulla erit diminutio poenae pec 
+   <lb ed="#B" n="107"/>catorum ante confessorum. sed dabitur tanta gratia virtute 
+   <lb ed="#B" n="108"/>operis operati ratione vnius peccati. Opinor quod sicut ha 
+   <!--0386.xml-->
+   <pb ed="#B" n="177-v"/>
+       <cb ed="#B" n="a"/>
+       <lb ed="#B" n="1"/>bens gratiam virtute operis operati ratione multorum: sumen 
+   <lb ed="#B" n="2"/>do eucharistiam magnam vel paruam aequaliter ha 
+   <lb ed="#B" n="3"/>bet de gratia: sic confitendo vnum peccatum dabitur 
+   <lb ed="#B" n="4"/>aequalis gratia virtute operis operati, ac in confessione 
+   <lb ed="#B" n="5"/>mille peccatorum: immo in confessione peccati ve 
+   <lb ed="#B" n="6"/>nialis peccatum enim veniale est sufficiens obiectum con 
+   <lb ed="#B" n="7"/>fessionis: sed non obiectum requisitum ad poenitentiam. 
+   <lb ed="#B" n="8"/>Propterea cum hoc argumentum non concludat inten 
+   <lb ed="#B" n="9"/>tum: aduersarii concederent quod dabitur gratia &amp;
+   diminu<lb ed="#B" n="10" break="no"/>tio poenae ratione peccati nodum confessi: sed nullo modo 
+   <lb ed="#B" n="11"/>ratione peccatorum ante confessorum. Secundo arguitur ad  
+   <lb ed="#B" n="12"/>eandem partem. peccata mortalia erant deleta pro
+   con<lb ed="#B" n="13" break="no"/>tritionem ante omnem confessionem quo ad culpam: 
+   <lb ed="#B" n="14"/>&amp; aeterna poena in temporatiam commutata. &amp; non 
+   <lb ed="#B" n="15"/>obstante absolutione vi clauis tollitur vna portio 
+   <lb ed="#B" n="16"/>poenae debitae peccatis: sed adhuc remanet aliqua 
+   <lb ed="#B" n="17"/>poena: &amp; peccata in apprehensione &amp; detestatione sicut 
+   <lb ed="#B" n="18"/>prius. ergo adhuc erit diminutio illius poenae. lstud 
+   <lb ed="#B" n="19"/>totum est probabile. In super quando sunt duae positiones 
+   <lb ed="#B" n="20"/>hincinde apparentes: illa qui deuotionem &amp; salutem 
+   <lb ed="#B" n="21"/>auget: est potius fouenda qui opposita: si constet eam 
+   <lb ed="#B" n="22"/>esse aeque rationabilem. sed sic est in proposito. est 
+   <lb ed="#B" n="23"/>enim opus meritorium &amp; laudabile idem peccatum 
+   <lb ed="#B" n="24"/>pluries confiteri, nec est ratio alicuius ponderis in  
+   <lb ed="#B" n="25"/>oppositum, quod secunda absolutio non conferat gra 
+   <lb ed="#B" n="26"/>tiam virtute operis operati sicut prima: nec diminu 
+   <lb ed="#B" n="27"/>at etiam portionem poenae debitae virtute clauis sicut 
+   <lb ed="#B" n="28"/>prima: ergo illa est fouenda &amp; tenenda. secus est in  
+   <lb ed="#B" n="29"/>iudicio humano vbi post sententiam definitiuam ni 
+   <lb ed="#B" n="30"/>hil remanet. hic autem remanet poena
+   diminuen<lb ed="#B" n="31" break="no"/>da. &amp; si nulla maneret: non esset defectus ex parte 
+   <lb ed="#B" n="32"/>sacramenti: quia si virtute intensae contritionis
+   tol<lb ed="#B" n="33" break="no"/>leretur culpa &amp; poena: idem esset de prima absolu 
+   <lb ed="#B" n="34"/>tione. &amp; semper ille est susceptiuus gratiae &amp; ea eget. 
+   <lb ed="#B" n="35"/>Contra illud arguitur: verba consecrationis prolata se 
+   <lb ed="#B" n="36"/>cundo loco nihil faciunt. similiter verba cum consen 
+   <lb ed="#B" n="37"/>su in matrimonio: ergo nec hic. Respondetur: hoc 
+   <lb ed="#B" n="38"/>argumentum nullius est momenti: quia post verba
+   con<lb ed="#B" n="39" break="no"/>secrationis non manet materia consecrabilis, nec 
+   <lb ed="#B" n="40"/>post verba &amp; consensum manet materia matrimo 
+   <lb ed="#B" n="41"/>nialis. ita quod stantibus illis extremis in rerum natu 
+   <lb ed="#B" n="42"/>ra manet vinculum matrimonii. Et argumentum 
+   <lb ed="#B" n="43"/>potest duci in oppositum in aliis sacramentis. nam aquam 
+   <lb ed="#B" n="44"/>quae semel erat baptismus in prolatione verborum: 
+   <lb ed="#B" n="45"/>postea iterum incipit esse baptismus: &amp; ita millies si 
+   <lb ed="#B" n="46"/>forma materiae millies applicetur. &amp; loquor de eadem 
+   <lb ed="#B" n="47"/>aqua numerali. hoc idem patet in confirmatione, 
+   <lb ed="#B" n="48"/>&amp; extrema vnctione. Et ex isto sic duco
+   argumen<lb ed="#B" n="49" break="no"/>tum: accepta hac maxima. omne sacramen: uam cuius 
+   <lb ed="#B" n="50"/>materia non tollitur, in applicatione formae habet 
+   <lb ed="#B" n="51"/>suum effectum. vt videre est in sacramentis qua induximus 
+   <lb ed="#B" n="52"/>baptismo, confirmatione, &amp; extrema vnctione. in aliis 
+   <lb ed="#B" n="53"/>enim sacramentis forma materiae applicata, non ma 
+   <lb ed="#B" n="54"/>net materia in potentia propinqua ad similem effectum. 
+   <lb ed="#B" n="55"/>modo peccata quo ad poenam aliquam sunt materia 
+   <!--0386.xml-->
+   <cb ed="#B" n="b"/> 
+       <!-- 177-v b -->
+       <lb ed="#B" n="56"/>poenitentiae: ergo quando confessor applicat absolutionem 
+   <lb ed="#B" n="57"/>ectis tollit partem poenae in secunda conf 
+   <lb ed="#B" n="58"/>prima: &amp; in tertia vt in secunda: &amp; ita deinceps quoi 
+   <lb ed="#B" n="59"/>quod tota poena tollatur. Et sic in qualitu 
+   <lb ed="#B" n="60"/>confertur gratia virtute operis operati: hoc est vi
+   cla<lb ed="#B" n="61" break="no"/>uis: quousque totalis poena tollatur. Et licet totalis 
+   <lb ed="#B" n="62"/>poena peccatis debita possit hoc modo tolli: illo non  
+   <lb ed="#B" n="63"/>obstante non est recusanda alia poenitentia, quemad 
+   <lb ed="#B" n="64"/>modum in indulgentiis. tum quia opus satis 
+   <lb ed="#B" n="65"/>rium est etiam meritorium. tum secundo quod nei 
+   <lb ed="#B" n="66"/>quota iteratio confessronis tollit omnem poet 
+   <lb ed="#B" n="67"/>catis debitam. Neccredendum est quod secunda
+   absolu<lb ed="#B" n="68" break="no"/>tio geometrice tollit ad primam: sed tantum p 
+   <lb ed="#B" n="69"/>quatum prima. &amp; ita consequenter ad finem poenae inclu 
+   <lb ed="#B" n="70"/>siue.
+  </p>
+      <p xml:id="jMqv4a-d1e938-d1e919">
+   ⁋ Sed forte dicis. si Sortes habeat centi 
+   <lb ed="#B" n="71"/>talia: in prima confessione vi clauis tollitur vna
+   por<lb ed="#B" n="72" break="no"/>io poenae illis peccatis debitae. ponatur gratia exempli 
+   <lb ed="#B" n="73"/>vna decima pars. deinde remanent nouem similes 
+   <lb ed="#B" n="74"/>partes puta nouem decimae. ergo sacerdotis
+   abso<lb ed="#B" n="75" break="no"/>lutio adueniens decem peccatis mortalibus tollit
+   to<lb ed="#B" n="76" break="no"/>tam poenam cum quantulacumque contritione, quod non videtur 
+   <lb ed="#B" n="77"/>dicendum.
+  </p>
+      <p xml:id="jMqv4a-d1e938-d1e938">
+   ⁋ Respondetur. absolutio vi clauis a maiori pec 
+   <lb ed="#B" n="78"/>cato vel a pluribus plus tollit. nam vbi
+   superabun<lb ed="#B" n="79" break="no"/>dat delictu ibi superabundat misericordia. &amp; patet 
+   <lb ed="#B" n="80"/>n multis similibus. nam contritio maioris peccati in 
+   <lb ed="#B" n="81"/>eadem intentione graduali tollit totam culpam maioris 
+   <lb ed="#B" n="82"/>peccati sicut &amp; minoris: &amp; plurium peccatorum sicut 
+   <lb ed="#B" n="83"/>&amp; paucorum. sic in proposito. alioquin raro maneret 
+   <lb ed="#B" n="84"/>aliquid poenae post absolutionem: quod non est dicendum. 
+   <lb ed="#B" n="85"/>Ex isto patet quod non sequitur. virtute poenitentiae tol 
+   <lb ed="#B" n="86"/>litur vna portio poenae debitae mortali peccato: ergo  
+   <lb ed="#B" n="87"/>virtute illius tollitur tota poena debita veniali. Se 
+   <lb ed="#B" n="88"/>cundo patet: quod duobus confitentibus sua peccata 
+   <lb ed="#B" n="89"/>quae se habent in proportione dupla &amp; subdupla: 
+   <lb ed="#B" n="90"/>proportionaliter diminuitur poena vi clauium: 
+   <lb ed="#B" n="91"/>a maiore tamen plus arithmetice tollitur. Sed vt 
+   <lb ed="#B" n="92"/>melius intelligas quomodo vi clauis aliquid poe 
+   <lb ed="#B" n="93"/>nae tollitur, notato quod contritio mortalem culpam tol 
+   <lb ed="#B" n="94"/>lit: &amp; aeternitatem poenae quae mortali culpae debetur, in
+   tem<lb ed="#B" n="95" break="no"/>poralem mutat. tuc ponamus quod adhucante absolu 
+   <lb ed="#B" n="96"/>tionem remaneat aliquam poena: sic scilicet vt si ille
+   de<lb ed="#B" n="97" break="no"/>cederet: gratia exempli: puniretur vno mense in
+   pur<lb ed="#B" n="98" break="no"/>gatorio: ibi virtute clauis tollitur vna portio illius poe 
+   <lb ed="#B" n="99"/>nae: &amp; sic decedens minus in purgatorio punietur: po 
+   <lb ed="#B" n="100"/>namus. xiiii. diebus: non quod ex natura clauis illd pro 
+   <lb ed="#B" n="101"/>ueniat: sed ex pacto diuino si applicetur clauis illi qui 
+   <lb ed="#B" n="102"/>confessus est.
+  </p>
+      <p xml:id="jMqv4a-d1e938-d1e995">
+   ⁋ Ecce quae circumstantiae sunt confiten 
+   <lb ed="#B" n="103"/>dae: quae vero non, quando autem circumstantiae sunt turpes: cir 
+   <lb ed="#B" n="104"/>tuloquatur confitens honeste: circa foedam enim mate 
+   <lb ed="#B" n="105"/>riam non est illote loquendum: ne scandalizetur sacerdos. 
+   <lb ed="#B" n="106"/>nam cum puerorum grammatistes prae verecundia subticue 
+   <lb ed="#B" n="107"/>rit pedo, dicens: Quod turpe sonat fit in edi: multo ma 
+   <lb ed="#B" n="108"/>gis in turpitudine vitii hoc est obseruandum, non  
+   <lb ed="#B" n="109"/>tamen vmbratice quin omnia clare possit capere 
+   <lb ed="#B" n="110"/>sacerdos: confitendum est. 
+   <!--0387.xml-->
+   <pb ed="#B" n="178-r"/>
+       <cb ed="#B" n="a"/>
+      </p>
+    </div>
+   </body>
+  </text>
+</TEI>

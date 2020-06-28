@@ -1,0 +1,493 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 2</title>
+      <author ref="#JohnMair">John Mair</author>
+      <respStmt>
+       <name>Jeffrey C. Witt</name>
+       <resp>TEI Encoder</resp>
+      </respStmt>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 2</title>
+       <date when="2020-06-09">June 27, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="B" n="cod-Bda113">Badius 1516</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+     guidelines for a diplomatic edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-06-27" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+      <pb ed="#B" n="272-r"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="jMqv4a-d1e1451"> <!-- l4d30q2 -->
+      <head xml:id="jMqv4a-d1e1451-Hd1e104">Quaestio 2</head>
+      <head xml:id="jMqv4a-d1e1451-Hd1e107" type="question-title">In quo virginitas consistat; et an sit virtus</head>
+      <p xml:id="jMqv4a-d1e1451-d1e110">
+       <lb ed="#B" n="45"/>⁋ Distinctionis Trigesimae 
+   <lb ed="#B" n="46"/>Quaestio Secunda. 
+   <lb ed="#B" n="47"/>Ecundo quaeritur. In 
+   <lb ed="#B" n="48"/>quo virginitas consistat: &amp; 
+   <lb ed="#B" n="49"/>an sit virtus. Pro quaestionis so 
+   <lb ed="#B" n="50"/>lutione notato quod virgo a vi 
+   <lb ed="#B" n="51"/>ridiore aetate appellata est. 
+   <lb ed="#B" n="52"/>Matres enim saepe virgines 
+   <lb ed="#B" n="53"/>C idicuntur. vt apud Virgilium 
+   <!--0575.xml-->
+   <cb ed="#B" n="b"/> 
+       <!-- 272-r b -->
+       <lb ed="#B" n="54"/>in Bucolicis Pasiphae, quae trium liberorum mater erat 
+   <lb ed="#B" n="55"/>Ah virgo infelix quae te dementia cepit ? Theologi 
+   <lb ed="#B" n="56"/>tamen non sic capiunt / sed longe aliter. cuius rei diuersitas 
+   <lb ed="#B" n="57"/>ex dicendis nota euadet.
+  </p>
+      <p xml:id="jMqv4a-d1e1451-d1e147">
+   ⁋ Virginitas actualis 
+   <lb ed="#B" n="58"/>prout est virtus sic describitur. Virginitas est volitio in 
+   <lb ed="#B" n="59"/>illo qui non cognouit vel in illa quae non est
+   co<lb ed="#B" n="60" break="no"/>gnita: qua vult seruare suum corpus ne polluatur 
+   <lb ed="#B" n="61"/>per opus libidinosum secundum dictamen recti 
+   <lb ed="#B" n="62"/>rationis. Alio modo definitur omittendo dictame 
+   <lb ed="#B" n="63"/>rectae rationis: &amp; sic non est semper virtus. nam fatuis 
+   <lb ed="#B" n="64"/>virginibus convenit. Adhuc tertio modo capitur 
+   <lb ed="#B" n="65"/>apud vulgo loquentes pro illo qui nunquam cognouit: &amp; 
+   <lb ed="#B" n="66"/>pro ea quae nondum est cognita per carnalem copulam: li 
+   <lb ed="#B" n="67"/>cet nullum actum vnqui habuerit de corpore
+   seruan<lb ed="#B" n="68" break="no"/>do immuni a venereis. Haec acceptio est recepta 
+   <lb ed="#B" n="69"/>alioquin multas simplices iuuenculas, virgines nul 
+   <lb ed="#B" n="70"/>lo modo diceremus, contra vulgatum modum loquem 
+   <lb ed="#B" n="71"/>di: quia talia proposita actualia nunquam habuerunt 
+   <lb ed="#B" n="72"/>Corrupta etiam quae habebit corpus reintegratum in 
+   <lb ed="#B" n="73"/>patria, potest aliquo modo dici virgo. Ex isto patet 
+   <lb ed="#B" n="74"/>quod aliqua est virgo quae habet propositum temporarium 
+   <lb ed="#B" n="75"/>de virginitate seruanda: saltem si nubere non inten 
+   <lb ed="#B" n="76"/>dat. sed de ea quae intendit nubere / post hac loque 
+   <lb ed="#B" n="77"/>mut. Secundo patet quod propositum seruandae com 
+   <lb ed="#B" n="78"/>tinentiae in cognita non est virginitas. vt patet per 
+   <lb ed="#B" n="79"/>definitionem. nam terminus virgo est
+   connota<lb ed="#B" n="80" break="no"/>tiuus pro homine supponens: connotando quod 
+   <lb ed="#B" n="81"/>non fecit actum ad cognitionem sufficientem. 
+   <lb ed="#B" n="82"/>vel quod non est cognita: nec hoc voluit. sed si
+   vo<lb ed="#B" n="83" break="no"/>luit, ante completionem actus emendat per
+   poe<lb ed="#B" n="84" break="no"/>nitentiam. Schiaticus enim non cognoscens vel 
+   <lb ed="#B" n="85"/>spado faciens quod in se est ad cognoscendum: vel 
+   <lb ed="#B" n="86"/>aliter contra naturam delinquens, non est virgo.  
+  </p>
+      <p xml:id="jMqv4a-d1e1451-d1e213">
+       <lb ed="#B" n="87"/>⁋ Hoc supposito ponuntur conclusio 
+   <lb ed="#B" n="88"/>nes duae. Prior est. Virginitas est virtus. Probatur 
+   <lb ed="#B" n="89"/>Omnis actus in medietate consistens inter
+   exces<lb ed="#B" n="90" break="no"/>sum &amp; defectum / est virtus. virginitas est huiusmodi. 
+   <lb ed="#B" n="91"/>igitur. Consequentia tenet cum maiore. minor sic 
+   <lb ed="#B" n="92"/>ostenditur. Aliquis potest excedere in venereis vbi 
+   <lb ed="#B" n="93"/>non oportet &amp; quando non oportet. aliquis etiam
+   po<lb ed="#B" n="94" break="no"/>test deficere: quod notum est si vxorem habeat. etiam 
+   <lb ed="#B" n="95"/>non habens qui deberet vxorem ducere deficit. ergo  
+   <lb ed="#B" n="96"/>in medio est virtus. Secunda conclusio. Virginitas 
+   <lb ed="#B" n="97"/>est pulchra &amp; excellens virtus probatur. virtus &amp; ars 
+   <lb ed="#B" n="98"/>sunt circa difficile. ii. Ethicorum. Difficile autem est 
+   <lb ed="#B" n="99"/>ab omnibus venereis abstinere: quod pet virginita 
+   <lb ed="#B" n="100"/>tem fit. Insuper virginitati debetur aureola
+   vir<lb ed="#B" n="101" break="no"/>ginum. vt patebit distinctione. xlix. huius. ergo  
+   <lb ed="#B" n="102"/>est virtus excellens. 
+  </p>
+      <p xml:id="jMqv4a-d1e1451-d1e250">
+       <lb ed="#B" n="103"/>⁋ Contra priorem conclusionem arguitur 
+   <lb ed="#B" n="104"/>Nulla virtus per virtutem corrumpitur: virginitas per casti 
+   <lb ed="#B" n="105"/>tatem coniugalem amittitur: ergo virginitas non est virtus. 
+   <lb ed="#B" n="106"/>maior probatur: quia sicut omne verum vero consonat. i. 
+   <!--0576.xml-->
+   <pb ed="#B" n="272-v"/>
+       <cb ed="#B" n="a"/>
+       <lb ed="#B" n="1"/>Ethico. viii. sic virtus quaelibet cuique virtuti est com 
+   <lb ed="#B" n="2"/>possibilis.
+  </p>
+      <p xml:id="jMqv4a-d1e1451-d1e272">
+   ⁋ Respondetur negando maiorem: quando virtus 
+   <lb ed="#B" n="3"/>vel eius actus est opus consilii. Aliquis enim potest esse 
+   <lb ed="#B" n="4"/>virgo sine voto: &amp; habere propositum seruandi 
+   <lb ed="#B" n="5"/>virginitatis pro tempore / vel perpetuo: quae per
+   con<lb ed="#B" n="6" break="no"/>lugium licitum &amp; meritorium corrumpitur. Et licet 
+   <lb ed="#B" n="7"/>possit habere propositum eiusdem speciei cum est
+   com<lb ed="#B" n="8" break="no"/>iunx: tamen non habet amplius virginitatem: siue actus 
+   <lb ed="#B" n="9"/>categoricos castitatis, siue conditionales habeat 
+  </p>
+      <p xml:id="jMqv4a-d1e1451-d1e290">
+       <lb ed="#B" n="10"/>⁋ Secundo. ponatur Berta habens habitum intensum 
+   <lb ed="#B" n="11"/>virginitatis &amp; actum: cognoscatur inuita &amp; renitens 
+   <lb ed="#B" n="12"/>tunc sic arguitur. In hac virginitas amittitur vel
+   amit<lb ed="#B" n="13" break="no"/>titur virginitas. sed nulla virtus inuito aufertur. 
+   <lb ed="#B" n="14"/>igitur. Hic a variis vario modo respondetur. sed
+   di<lb ed="#B" n="15" break="no"/>co quod corrumpitur virginitas. Contra hoc arguitur. 
+   <lb ed="#B" n="16"/>non est necesse habitum illum corrumpi: qui augeri potest. 
+   <lb ed="#B" n="17"/>Hic dicit Martinus magister: quod ille habitus non  
+   <lb ed="#B" n="18"/>corrumpitur: sed non inclinat in similes actus eiusdem spe 
+   <lb ed="#B" n="19"/>ciei specialissimae entitatiue vt antea: sed in similes qui 
+   <lb ed="#B" n="20"/>aequalent in merito virginitatis. Integritas enim 
+   <lb ed="#B" n="21"/>corporis existens cadit in ratione obiecti virgini 
+   <lb ed="#B" n="22"/>tatis. propterea integritate amissa desinit illd
+   ob<lb ed="#B" n="23" break="no"/>iectum: &amp; per consequens non potest virginitas haberi: 
+   <lb ed="#B" n="24"/>nec propositum actuale eiusdem speciei specialissimae 
+   <lb ed="#B" n="25"/>quemadmodum notitia intuitiua non manet obie 
+   <lb ed="#B" n="26"/>cto absente vel corrupto. Haec positio est nullius 
+   <lb ed="#B" n="27"/>momenti. nam quaero quid in viro corrumpatur: &amp; responde, 
+   <lb ed="#B" n="28"/>re non potest. Secundo ponendo quod deus miraculo 
+   <lb ed="#B" n="29"/>se teneat claustra pudoris integra in muliere
+   co<lb ed="#B" n="30" break="no"/>gnita, &amp; quod sit penetratio corporum: iam potest
+   habe<lb ed="#B" n="31" break="no"/>re propositum actuale eiusdem speciei. &amp; sic meretrix 
+   <lb ed="#B" n="32"/>erit virgo. Tertio sequitur quod corrupta ferro in
+   iu<lb ed="#B" n="33" break="no"/>uentute: hoc est si claustra virginalia sint in iuuem 
+   <lb ed="#B" n="34"/>tute corrupta: non possit esse virgo: cum non pos 
+   <lb ed="#B" n="35"/>sit habere propositum sufficiens ad virginitatem 
+   <lb ed="#B" n="36"/>secundum eum. Quarto, falsum est quod mulieris
+   inte<lb ed="#B" n="37" break="no"/>gritas corrumpitur: sed solum corrumpitur integritas
+   mu<lb ed="#B" n="38" break="no"/>lieris. Partes enim quae fuerunt integritas manent: sed 
+   <lb ed="#B" n="39"/>non manent integritas. Quinto, si Berta habeat pro 
+   <lb ed="#B" n="40"/>positum actuale virginitatis antequam cognoscatur 
+   <lb ed="#B" n="41"/>non video quin ipsa cognita possit talem actum in
+   spe<lb ed="#B" n="42" break="no"/>cie entitatiua continuare vel similem elicere: non autem 
+   <lb ed="#B" n="43"/>in tali denomnatione. Et licet actus voluntatis depem 
+   <lb ed="#B" n="44"/>dens a notitia intuitiua: &amp; actus ab abstractiua de 
+   <lb ed="#B" n="45"/>pendens differant specie: non potest hic ad illud
+   con<lb ed="#B" n="46" break="no"/>fugere. &amp; ratio est: quia de tali obiecto non opor 
+   <lb ed="#B" n="47"/>tet mulierem habere notitiam intuitiuam, siue obie 
+   <lb ed="#B" n="48"/>ctum sit, siue obiectum non sit.
+  </p>
+      <p xml:id="jMqv4a-d1e1451-d1e377">
+   ⁋ Propterea dico qui 
+   <lb ed="#B" n="49"/>uando ipsa est cognita, desinit esse virgo: &amp; potest habe 
+   <lb ed="#B" n="50"/>re similem actum in specie specialissima entitatiue 
+   <lb ed="#B" n="51"/>non autem in specie specialissima moris &amp;
+   acciden<lb ed="#B" n="52" break="no"/>tali. nam postqui ipsa est cognita, non est amplius vir 
+   <lb ed="#B" n="53"/>go: nec eius habitus virginitas. sicut si actus esse 
+   <lb ed="#B" n="54"/>continuatus per vnum tempus in cuius
+   prio<lb ed="#B" n="55" break="no"/>re parte ipsa esset incorrupta: &amp; in posteriore cor- 
+   <!--0576.xml-->
+   <cb ed="#B" n="b"/> 
+       <!-- 272-v b -->
+       <lb ed="#B" n="56"/>rupta: primo actus ille esset virginitas: &amp; postea 
+   <lb ed="#B" n="57"/>idem actus desinit esse virginitas: &amp; incipit esse 
+   <lb ed="#B" n="58"/>viduitas, si vir eam reliquat, &amp; ipsa caste viuat. Eo 
+   <lb ed="#B" n="59"/>dem modo de habitu: quamquam habitus ipse a virginitatis 
+   <lb ed="#B" n="60"/>actibus emersit. hoc enim non sufficit: sed requiritur 
+   <lb ed="#B" n="61"/>cum hoc quod suppositum habitum homionus sit virgo in  
+   <lb ed="#B" n="62"/>corrupta, siue ipsa consentiente siue renitente. Nul 
+   <lb ed="#B" n="63"/>lus enim habitus vel actus denominatur virgo. alio 
+   <lb ed="#B" n="64"/>uin virgo posset parere in sensu composito: quod apud 
+   <lb ed="#B" n="65"/>vulgo loquentes reputatur inconveniens. habitus au 
+   <lb ed="#B" n="66"/>tem ille qui prius erat virginitas, inclinabit in actus 
+   <lb ed="#B" n="67"/>de seruanda castitate eiusdem speciei
+   specialissi<lb ed="#B" n="68" break="no"/>mae entitatiue cum virginitate: sed non erit
+   virgini<lb ed="#B" n="69" break="no"/>tas ob defectum connotati termini virgo: quia
+   vir<lb ed="#B" n="70" break="no"/>go non supponit amplius pro aliqua postquam ipsa 
+   <lb ed="#B" n="71"/>est corrupta. Ad multas auctoritates insinuantes 
+   <lb ed="#B" n="72"/>quod corrupta corpore / incorrupta mente adhuc ma 
+   <lb ed="#B" n="73"/>net virgo, dicatur quod intelliguntur de virginum aureo 
+   <lb ed="#B" n="74"/>la: &amp; quod sic corruptae non peccant: quia non est in earum 
+   <lb ed="#B" n="75"/>ptante non corrumpi corpore. quare eis non imputabi 
+   <lb ed="#B" n="76"/>tur. Quia sint auctoritates docentes violente
+   corru<lb ed="#B" n="77" break="no"/>ptas, esse virgines: videre est apud <name xml:id="jMqv4a-d1e1451-Nd1e448" ref="#Augustine">Augustinum</name> 
+       <lb ed="#B" n="78"/>primo de ciuitate dei longiuscule. in libro de dua 
+   <lb ed="#B" n="79"/>bus animabus. &amp; in primo de li. arbi. &amp; Hieronymum 
+   <lb ed="#B" n="80"/>in epistolam ad Romanos.
+  </p>
+      <p xml:id="jMqv4a-d1e1451-d1e459">
+   ⁋ Tertio arguitur. Omnis 
+   <lb ed="#B" n="81"/>virtus amissa est reparabilis. virginitas amissa non 
+   <lb ed="#B" n="82"/>estreparabilis: ergo virginitas non est virtus.
+   con<lb ed="#B" n="83" break="no"/>sequentia est in Baroco. Minor patet per Hierony 
+   <lb ed="#B" n="84"/>mu in epistola ad Eustochium. Audeter loquar 
+   <lb ed="#B" n="85"/>cum deus possit omnia / suscitare non potest virginem post 
+   <lb ed="#B" n="86"/>ruinam.
+  </p>
+      <p xml:id="jMqv4a-d1e1451-d1e476">
+   ⁋ Respondetur. cum illa qualitas est amis 
+   <lb ed="#B" n="87"/>sa: non est amplius virginitas: licet propositum 
+   <lb ed="#B" n="88"/>eius de specie specialissima actuali vel habituali 
+   <lb ed="#B" n="89"/>recuperetur. immo licet idem actus numero reparetur 
+   <lb ed="#B" n="90"/>a deo: nunquam tamen redit virginitas propter
+   connotatio<lb ed="#B" n="91" break="no"/>nem termini. Aliqui nanque termini supponunt pro 
+   <lb ed="#B" n="92"/>aliquo connotando talem qualitatem subiecto inhae 
+   <lb ed="#B" n="93"/>rere siue corrumpatur semel / siue non. &amp; tales
+   termi<lb ed="#B" n="94" break="no"/>ni propter vnicum defectum connotationis adhuc pro 
+   <lb ed="#B" n="95"/>illo supponunt pro quo prius supponebant. vt albu 
+   <lb ed="#B" n="96"/>sciens. Alii vero pro subiecto supponunt
+   connotan<lb ed="#B" n="97" break="no"/>do quod nunquam ceciderunt actualiter in actum
+   exte<lb ed="#B" n="98" break="no"/>riorem: &amp; si ceciderunt non supponunt pro eis 
+   <lb ed="#B" n="99"/>amplius defectu connotationis. vt hoc complexum 
+   <lb ed="#B" n="100"/>status innocentiae post peccatum primorum parentum 
+   <lb ed="#B" n="101"/>&amp; poenitentiam pactam. Licet enim quilibet fuerit in gratia 
+   <lb ed="#B" n="102"/>&amp; omnis peccati expeors: status innocentiae non recu 
+   <lb ed="#B" n="103"/>perabitur. simiter hoc complexum, nunquam peccat: num quam ce 
+   <lb ed="#B" n="104"/>cidit ad terram, post casum in terram non amplius 
+   <lb ed="#B" n="105"/>supponit pro illo pro quo supponebat. Sic est de
+   il<lb ed="#B" n="106" break="no"/>Io termino (virgo) qui connotat quod subiectum eius 
+   <lb ed="#B" n="107"/>nunquam fuit corruptum libidinose. Virginitas tamen 
+   <lb ed="#B" n="108"/>amissa ante coniunctionem carnalem est recuperabilis: 
+   <lb ed="#B" n="109"/>&amp; qui sic eam recuperauit decedens aureolam
+   vir<lb ed="#B" n="110" break="no"/>ginum habebit. Virginitas enim connotat quod num quam eo 
+   <!--0577.xml-->
+   <pb ed="#B" n="273-r"/>
+       <cb ed="#B" n="a"/>
+       <lb ed="#B" n="1"/>cidit: vel si cecidit ante carnalem copulam recupe 
+   <lb ed="#B" n="2"/>ratur per displicentiam: post copulam vero
+   recu<lb ed="#B" n="3" break="no"/>perari non potest.
+  </p>
+      <p xml:id="jMqv4a-d1e1451-d1e544">
+   ⁋ Quarto arguitur. Omnis
+   vir<lb ed="#B" n="4" break="no"/>tus cuilibet est bona. virginitas non est cuilibet
+   bo<lb ed="#B" n="5" break="no"/>na: ergo virginitas non est virtus. minor probatur. 
+   <lb ed="#B" n="6"/>nam si omnes essent virgines / periret mundus: ne 
+   <lb ed="#B" n="7"/>esset hominum procreatio: neque etiam forent homi 
+   <lb ed="#B" n="8"/>nes solliciti laborare in mundo. maior patet de tem 
+   <lb ed="#B" n="9"/>perantia / fortitudine / prudentia et aliis. Respondetur. 
+   <lb ed="#B" n="10"/>quod est vni virtus / alteri non est virtus: capiendo  
+   <lb ed="#B" n="11"/>virtutem tam pro actu quam pro habitum. Si autem intelligas 
+   <lb ed="#B" n="12"/>quod est vni virtus, cuilibet est bonum et virtus: 
+   <lb ed="#B" n="13"/>illam nego, nec enim regi nec reginae virginitas est 
+   <lb ed="#B" n="14"/>bona. similiter castitas coniugalis non est bona re 
+   <lb ed="#B" n="15"/>ligioso / sacerdoti / vel virgini: immo eis competere non 
+   <lb ed="#B" n="16"/>pot. aliquamrum namque virtutum est incompossibilitas: quia non 
+   <lb ed="#B" n="17"/>dicuntur tales nisi taliter se habeant. modo non
+   pos<lb ed="#B" n="18" break="no"/>sunt taliter se hatre inter se. vt virginitas &amp; castitas 
+   <lb ed="#B" n="19"/>ommuniugalis. Et licet cuilibet non obligato ad
+   contra<lb ed="#B" n="20" break="no"/>hendum virginitas esset bona vel vouere castitatem: vt 
+   <lb ed="#B" n="21"/>patet ascedendo: tamen toti multitudini non eri 
+   <lb ed="#B" n="22"/>oona. sicut non sequitur: quilibet homo est vnus solus 
+   <lb ed="#B" n="23"/>homo: vel potest stare in bibliotheca mea: ergo tota 
+   <lb ed="#B" n="24"/>multitudo est vnus solus homo: vel potest esse in bi 
+   <lb ed="#B" n="25"/>bliotheca mea. nam aliquod praedicatum cuilibet supposi 
+   <lb ed="#B" n="26"/>to alicuius multitudinis licite conuenire potest: &amp; non 
+   <lb ed="#B" n="27"/>toti multitudini. similiter aliquod praeceptum toti multi 
+   <lb ed="#B" n="28"/>tudini competit: &amp; paucis vel nullis partibus eius: vt 
+   <lb ed="#B" n="29"/>de generatione, nec oportet aliquem esse super hoc solli 
+   <lb ed="#B" n="30"/>citu an hoc preceptu seruetur: cum ob pronitatem &amp; propen 
+   <lb ed="#B" n="31"/>sionem ad libidinem philuroes illi actui vacent quam oporteat, 
+   <lb ed="#B" n="32"/>lc dubitatur de paruula duo 
+   <lb ed="#B" n="33"/>decim annorum, quae habet hoc propositum: 
+   <lb ed="#B" n="34"/>u volo corporis mei integritatem seruare: 
+   <lb ed="#B" n="35"/>vel melius volo me seruare ab actibus 
+   <lb ed="#B" n="36"/>libidinosis ad vigesimum annum vsque &amp; non vltra. Re 
+   <lb ed="#B" n="37"/>spondeo. Ipsa multifariam potest se habere. vel
+   ha<lb ed="#B" n="38" break="no"/>bet istum actum, volo praeseruare me a venereis 
+   <lb ed="#B" n="39"/>per octo annos futuros, vel ad vigesimum annum 
+   <lb ed="#B" n="40"/>vsque: &amp; talis actus est virginitas. vel habet duos 
+   <lb ed="#B" n="41"/>actus: vnum, volo praeseruare me a venere ad
+   vi<lb ed="#B" n="42" break="no"/>gesimum annum vsque. alium, volo dare vsum
+   cor<lb ed="#B" n="43" break="no"/>poris mei viro quem capiam post vigesimum annum 
+   <lb ed="#B" n="44"/>Et de illo secundo est difficultas sub qua specie 
+   <lb ed="#B" n="45"/>contineatur, non enim est actus virginitatis: nec vi 
+   <lb ed="#B" n="46"/>duitatis. oportet ergo includatur in castitate
+   con<lb ed="#B" n="47" break="no"/>iugali. alioquin diuisum latitudinem membrorum 
+   <lb ed="#B" n="48"/>diuidentium exuperabit: cum talis actus sit
+   casti<lb ed="#B" n="49" break="no"/>tas. Forte dicis. secundus actus est castitas coniu 
+   <lb ed="#B" n="50"/>galis. Insto: ergo non omnis castitas elicita a
+   virgi<lb ed="#B" n="51" break="no"/>ne est castitas virginalis: &amp; per consequens nec 
+   <lb ed="#B" n="52"/>omnis castitas elicita a coniuge est castitas
+   coniu<lb ed="#B" n="53" break="no"/>galis. patet de illo actu in quo ipsa oblectatur de 
+   <lb ed="#B" n="54"/>virginitate praeterita ante matrimonium: qualis 
+   <!--0577.xml-->
+   <cb ed="#B" n="b"/> 
+       <!-- 273-r b -->
+       <lb ed="#B" n="55"/>est iste, placet mihi quod seruauerim virginitatem meam 
+   <lb ed="#B" n="56"/>ante matrimonium, secundum illud Aeneae. Forstn 
+   <lb ed="#B" n="57"/>&amp; haec olim meminisse iuuabit. Respondeo. vt vi 
+   <lb ed="#B" n="58"/>des oportebit nos aliquam harum partium eligere: 
+   <lb ed="#B" n="59"/>aut diuisum excedet membra diuidentia: puta non 
+   <lb ed="#B" n="60"/>omnis castitas est virginalis / vidualis / aut
+   coniu<lb ed="#B" n="61" break="no"/>galis: aut aliqua castitas elicita a virgine est coniu 
+   <lb ed="#B" n="62"/>galis: aut virginitas est volitio dandi suum
+   cor<lb ed="#B" n="63" break="no"/>pus alteri. Et malo in alterum duorum vltimorum 
+   <lb ed="#B" n="64"/>incidere: &amp; do tertium membrum quod vterque actus 
+   <lb ed="#B" n="65"/>est virginitas. sed prior est virginitas melior &amp; ma 
+   <lb ed="#B" n="66"/>gis spectans ad virginitatem. secundus autem actus 
+   <lb ed="#B" n="67"/>est virginitas per accidens, hoc est ratione
+   subie<lb ed="#B" n="68" break="no"/>cti: quaelibet enim castitas in virgine est
+   virgini<lb ed="#B" n="69" break="no"/>tas.
+  </p>
+      <p xml:id="jMqv4a-d1e1451-d1e696">
+   ⁋ Et pro maiore intelligentia huius notato quoi 
+   <lb ed="#B" n="70"/>istic dabis tres gradus virginitatis. primus est actus 
+   <lb ed="#B" n="71"/>quo aliquis vel aliqua vult seruare perpetuo se a 
+   <lb ed="#B" n="72"/>venereis / quando parest. Secundus actus quo quis 
+   <lb ed="#B" n="73"/>vult seruare se immunem ad tempus a venereis. 
+   <lb ed="#B" n="74"/>Tertius est actus quo vult dare corpus suum
+   al<lb ed="#B" n="75" break="no"/>teri pro tempore &amp; loco. primus actus est optimus: 
+   <lb ed="#B" n="76"/>tertius infimus. Si cuipiam placebit dicere quod iste 
+   <lb ed="#B" n="77"/>actus de quo dubitatur / sit castitas coniugalis: nec
+   re<lb ed="#B" n="78" break="no"/>pugnet virginem habere actum castitatis
+   coniu<lb ed="#B" n="79" break="no"/>galis: is non nimis late a ratione deuiare videbitur. sed  
+   <lb ed="#B" n="80"/>non tantum placet. ratio est: quia pari ratione dicere 
+   <lb ed="#B" n="81"/>debebit quod coniunx habet actum &amp; habitum
+   ca<lb ed="#B" n="82" break="no"/>stitatis virginitatis: &amp; quod sit virgo. Nec sequitur, 
+   <lb ed="#B" n="83"/>decedit virgo: ergo habebit aureolam. quia hoc 
+   <lb ed="#B" n="84"/>intelligitur de simplici virgine. modo ista est
+   mi<lb ed="#B" n="85" break="no"/>xtim virgo: hoc est, ipsa est virgo &amp; coniunx:
+   co<lb ed="#B" n="86" break="no"/>pulatim an copulatiue / non insisto. Sed tunc est 
+   <lb ed="#B" n="87"/>dubium de illa, an habebit aureolam virginum si 
+   <lb ed="#B" n="88"/>sic decedat: puta illa quae est citra annos nubiles. 
+   <lb ed="#B" n="89"/>&amp; habet propositum temporarium: vult tamen
+   nu<lb ed="#B" n="90" break="no"/>bere pro loco &amp; tempore. &amp; potest dici quod sic. Sed 
+   <lb ed="#B" n="91"/>iam aliud oboritur ambiguum: vbi esset idem 
+   <lb ed="#B" n="92"/>actus numero quo aliqua vult seruare se expertem 
+   <lb ed="#B" n="93"/>a venereis ad certum tempus vsque: &amp; deinceps 
+   <lb ed="#B" n="94"/>habere virum. secundum illa quae diximus paulo 
+   <lb ed="#B" n="95"/>superius: talis erit simpliciter virgo semper
+   ma<lb ed="#B" n="96" break="no"/>nens in latitudine virginitatis: tamen ille actus est 
+   <lb ed="#B" n="97"/>mixtus ex duobus gradibus virginitatis: vt est de 
+   <lb ed="#B" n="98"/>vsu &amp; fruitione. Si quis autem voluerit ea tutari que 
+   <lb ed="#B" n="99"/>immediate ante diximus: oportebit concedere eim 
+   <lb ed="#B" n="100"/>dem actum numero esse castitatem virginalem &amp; 
+   <lb ed="#B" n="101"/>coniugalem. &amp; sic vidua poterit habere eundem actum 
+   <lb ed="#B" n="102"/>qui est viduitas &amp; virginitas: vel eundem actum 
+   <lb ed="#B" n="103"/>qui est viduitas &amp; castitas coniugalis. 
+  </p>
+      <p xml:id="jMqv4a-d1e1451-d1e772">
+       <lb ed="#B" n="104"/>⁋ lam vidisti quid sit virginitas: &amp; 
+   <lb ed="#B" n="105"/>quomodo ante carnalem copulam virginitas amii 
+   <lb ed="#B" n="106"/>sa sit recuperabilis: &amp; ex consequenti quae nunc est 
+   <lb ed="#B" n="107"/>meretrix postea per poenitentiam incipiet esse vir 
+   <lb ed="#B" n="108"/>go. sed per actum exteriorem virginitas amissa- 
+   <!--0578.xml-->
+   <pb ed="#B" n="273-v"/>
+       <cb ed="#B" n="a"/>
+       <lb ed="#B" n="1"/>non est recuperabilis. Ex quo sequitur quod duae
+   aequali<lb ed="#B" n="2" break="no"/>ter peccant: &amp; aequaliter peccata per poenitentia emi 
+   <lb ed="#B" n="3"/>dant: sed in vna virginitas recuperatur: non autem in  
+   <lb ed="#B" n="4"/>alia. hoc patet de duabus virosis in carnalem
+   co<lb ed="#B" n="5" break="no"/>pulam aequaliter consentientibus: quarum vna est 
+   <lb ed="#B" n="6"/>tantenm cognita: altera autem non: sed per eam non stat: cum 
+   <lb ed="#B" n="7"/>actus exterior manente vniformitate in actibus in 
+   <lb ed="#B" n="8"/>terioribus nihil malitiae actui interiori adiiciat: quai 
+   <lb ed="#B" n="9"/>si poenitudine ducatur, patet propositum. Et ex
+   conse<lb ed="#B" n="10" break="no"/>quenti conceditur quod duae aequaliter peccantes &amp; me 
+   <lb ed="#B" n="11"/>rentes erunt: quarum vna habebit virginum aureolam: 
+   <lb ed="#B" n="12"/>non autem altera. Aureola est quodda praemium acciden 
+   <lb ed="#B" n="13"/>tale praeseruationi ab actu libidinoso respondens, 
+   <lb ed="#B" n="14"/>&amp; non pro corporis integritate. nam siqua violente cor 
+   <lb ed="#B" n="15"/>rupta fuerit: prorsus renitens quantum potest: ipsa aured 
+   <lb ed="#B" n="16"/>lam virginum habebit: quia non consensit in opus
+   libi<lb ed="#B" n="17" break="no"/>dinosum: sed &amp; restitit quitum potuit: vel saltem quantum 
+   <lb ed="#B" n="18"/>tenebatur si pure passiue se habebat sine consensu. 
+   <lb ed="#B" n="19"/>Non resistens autem vbi virginitatem per resistentiam
+   ser<lb ed="#B" n="20" break="no"/>uare poterat: non habebit aureolam: sed est meretrixs 
+   <lb ed="#B" n="21"/>quae cognita inuita / si postea consentiat in hanc
+   con<lb ed="#B" n="22" break="no"/>mixtionem carnalem: irrecupabiliter virginum aureolam 
+   <lb ed="#B" n="23"/>amittit: non per vnum illorum: quia non per solam copulam car 
+   <lb ed="#B" n="24"/>nalem: bene tamen virginitatem sic amittit: sed per complacem 
+   <lb ed="#B" n="25"/>tiam sequentem carnali copulae iunctam. Forte non sic 
+   <lb ed="#B" n="26"/>erit in polluta noctu ipsa dormiente / cui postea pla 
+   <lb ed="#B" n="27"/>cet pollutio: quia ista hoc modo se habens non pons 
+   <lb ed="#B" n="28"/>parere. secus est de violente cognita, nec aequaliter 
+   <lb ed="#B" n="29"/>peccare vel non peccare arguit virginitatem recupera 
+   <lb ed="#B" n="30"/>bilem vel irrecuperabilem.
+  </p>
+      <p xml:id="jMqv4a-d1e1451-d1e857">
+   ⁋ Praeterea dico quod
+   con<lb ed="#B" n="31" break="no"/>tingit virginitatem amitti / semen non diffundendo, quod 
+   <lb ed="#B" n="32"/>patet in frigido / eunucho / octogenario / ebrio / &amp; 
+   <lb ed="#B" n="33"/>huiusmodi. in seminis enim resolutione virginita 
+   <lb ed="#B" n="34"/>amittitur: sed per tactus / oscula / vel venereorum auditum 
+   <lb ed="#B" n="35"/>non est seminis resolutio: sed alterius humoris. Nan 
+   <lb ed="#B" n="36"/>vt naturaliter loquentes dicunt, e membris genitalibu 
+   <lb ed="#B" n="37"/>triplex egreditur humor. quidam vrina. secundus semen 
+   <lb ed="#B" n="38"/>quod ad generationem prolis natura ordinauit. tertius me 
+   <lb ed="#B" n="39"/>dius qui naturaliter ab aliquibus impudicis adolescen 
+   <lb ed="#B" n="40"/>tibus egreditur etiam violente cum de venereis cum volu 
+   <lb ed="#B" n="41"/>ptate loqui audiunt. Huius tertii humoris egressio 
+   <lb ed="#B" n="42"/>nihil facit ad virginitatis amissionem: prinde acsi non 
+   <lb ed="#B" n="43"/>egrederetur caeteris paribus. sed contingit bene
+   virgini<lb ed="#B" n="44" break="no"/>tatem cum illo humore perdi per actum voluntatis: sed hoc 
+   <lb ed="#B" n="45"/>non pertinet ad virginitate.
+  </p>
+      <p xml:id="jMqv4a-d1e1451-d1e892">
+   ⁋ Vlterius dico quod interdum 
+   <lb ed="#B" n="46"/>aliquibus virginitas est illicita vt regi prolem non habenti: 
+   <lb ed="#B" n="47"/>quomodo erat in principio naturae institutae: quia tunc praece 
+   <lb ed="#B" n="48"/>ptum, Crescite &amp; multiplicamini, obligabat omnes pro 
+   <lb ed="#B" n="49"/>loco &amp; tempore. vnde si Abel vixisset / matrimonium 
+   <lb ed="#B" n="50"/>contraxisset, sicut Cain. Et in lege Mosaica
+   sterili<lb ed="#B" n="51" break="no"/>tas erat opprobrium: &amp; foecunditas benedictio.
+   se<lb ed="#B" n="52" break="no"/>cundum illud Psalmographi. Vxor tua sicut vitis 
+   <lb ed="#B" n="53"/>abundans in lateribus domus tuae. Filii tui sicut 
+   <lb ed="#B" n="54"/>nouelle oliuarum in circuitu mensae tue. Ecce sic 
+   <lb ed="#B" n="55"/>benedicetur homo, qui timet dominum. psal. cxx vii 
+   <!--0578.xml-->
+   <cb ed="#B" n="b"/> 
+       <!-- 273-v b -->
+       <lb ed="#B" n="56"/>Et per locum a contrario sensu, qui non habebat 
+   <lb ed="#B" n="57"/>hanc foecunditatem / saltem apud vulgus malediceba 
+   <lb ed="#B" n="58"/>tur: vel per legem commune. dispensante autem deo 
+   <lb ed="#B" n="59"/>semper pulchrius erat seruare virginitatem. vt videre 
+   <lb ed="#B" n="60"/>est de Helia: &amp; Hieremia. in cuius libri prologo Hio 
+   <lb ed="#B" n="61"/>ronymus dicit. Virginitate sua euangelicum virum Chri 
+   <lb ed="#B" n="62"/>sti ecclesiae dedicans. &amp; Hieremiae. xvi. Non accipies 
+   <lb ed="#B" n="63"/>vxorem: &amp; non erunt tibi filii, &amp; filiae in loco isto. hoc est 
+   <lb ed="#B" n="64"/>in ludaea. In Aegypto autem semper erat in
+   vexatio<lb ed="#B" n="65" break="no"/>ne: quare non est verosimile quod illic vxorem duxerit. 
+   <lb ed="#B" n="66"/>Diua virgo quoque &amp; Ioannes baptista caelitus erant 
+   <lb ed="#B" n="67"/>sinspirati de virginitate seruanda. ipa enim erat prima 
+   <lb ed="#B" n="68"/>in qua virginitas plurimum laudata est. vnde dixit Psa 
+   <lb ed="#B" n="69"/>mog. Adducentur regi virgines post eam. psal. xliiii. Si 
+   <lb ed="#B" n="70"/>filia lepte &amp; Plato ob vulgus defleuerint
+   virgini<lb ed="#B" n="71" break="no"/>tatem: nihil improbitatis in virginibus concluditur. 
+   <lb ed="#B" n="72"/>Tamen cum virginitas in lege gratiae sit consulta: iam 
+   <lb ed="#B" n="73"/>est multo speciosior coniugio, &amp; vxoris
+   foecundi<lb ed="#B" n="74" break="no"/>tate. Et licet tota multitudo quo ad aliquams sui
+   par<lb ed="#B" n="75" break="no"/>tes adhuc ad coniugium obligetur: tamen non quodlibet 
+   <lb ed="#B" n="76"/>suppositum obligatur: immo paucissima. Nec opor 
+   <lb ed="#B" n="77"/>tet oculum ad hoc dirigere, quo modo illud praece 
+   <lb ed="#B" n="78"/>ptum, Crescite &amp; multiplicamini. nunc adimpleal 
+   <lb ed="#B" n="79"/>in tota multitudine: cum homines ad coniugium propensos 
+   <lb ed="#B" n="80"/>videamus. Amplius si aliqua virgo fuerit nolens 
+   <lb ed="#B" n="81"/>corrupta: habitus eius non amplius inclinat in actus 
+   <lb ed="#B" n="82"/>virginitatis. bene tamen inclinat in actus eiusdem 
+   <lb ed="#B" n="83"/>speciei entitatiue: quia nunquam habitus acquisitus im 
+   <lb ed="#B" n="84"/>mediate inclinat in actus alterius speciei essentialis 
+   <lb ed="#B" n="85"/>ab actibus a quibus emersit. Martinus autem tenens op 
+   <lb ed="#B" n="86"/>positum omnino praeter rationem loquitur. Ex quo sequil 
+   <lb ed="#B" n="87"/>quod habitus qui fuit virginitas inclinat in actus vidui 
+   <lb ed="#B" n="88"/>tatis vel virginitatis. Secundo sequitur quod virginitas 
+   <lb ed="#B" n="89"/>inclinabit in viduitatem immediate. Dixi (imediate 
+   <lb ed="#B" n="90"/>quia mediate inclinat in actum alterius speciei entitam 
+   <lb ed="#B" n="91"/>tiue. vt habitus praemissarum inclinat mediate in  
+   <lb ed="#B" n="92"/>assensum actualem conclusionis. hoc nihil aliud 
+   <lb ed="#B" n="93"/>est dicere quam habitum aliquem concurrere ad a. suum 
+   <lb ed="#B" n="94"/>actum: &amp; quod a actus eius inclinat in b actum
+   alte<lb ed="#B" n="95" break="no"/>rius speciei ab a propterea iste habitus dicitur
+   me<lb ed="#B" n="96" break="no"/>diate in talem actum be. inclinare 
+  </p>
+    </div>
+   </body>
+  </text>
+</TEI>

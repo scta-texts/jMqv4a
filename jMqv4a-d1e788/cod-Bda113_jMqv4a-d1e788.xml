@@ -1,0 +1,268 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 39</title>
+      <author ref="#JohnMair">John Mair</author>
+      <respStmt>
+       <name>Jeffrey C. Witt</name>
+       <resp>TEI Encoder</resp>
+      </respStmt>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 39</title>
+       <date when="2020-06-09">June 27, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="B" n="cod-Bda113">Badius 1516</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+     guidelines for a diplomatic edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-06-27" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+      <pb ed="#B" n="147-v"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="jMqv4a-d1e788"> <!-- l4d15q39 -->
+      <head xml:id="jMqv4a-d1e788-Hd1e104">Quaestio 39</head>
+      <head xml:id="jMqv4a-d1e788-Hd1e107" type="question-title">Quot sint species contractus</head>
+      <p xml:id="jMqv4a-d1e788-d1e110">
+       <lb ed="#B" n="44"/>QVaeritur vlterius in hac 
+   <lb ed="#B" n="45"/>distinctione quot sint species 
+   <lb ed="#B" n="46"/>contractus. Pro quaestionis solu 
+   <lb ed="#B" n="47"/>uu tione nota quod cotractus pro 
+   <lb ed="#B" n="48"/>prie capiendo sic definitur. 
+   <lb ed="#B" n="49"/>Contractus est actus inter
+   ali<lb ed="#B" n="50" break="no"/>quos factus, gratia cuius oritur 
+   <lb ed="#B" n="51"/>obligatio. exemplum: vbi tu emisti a me equum: tu es 
+   <!--0326.xml-->
+   <cb ed="#B" n="b"/> 
+       <!-- 147-v b -->
+       <lb ed="#B" n="52"/>mihi obligatus dare praecium: &amp; ego ad tradendum tibi 
+   <lb ed="#B" n="53"/>equum. vel si non tracam: ad interesse. sic in locatione 
+   <lb ed="#B" n="54"/>&amp; societate exemplificare potes. hoc autem modo
+   do<lb ed="#B" n="55" break="no"/>natio &amp; mutuatio non sunt contractus. nam si dono 
+   <lb ed="#B" n="56"/>tibi equum: non es mihi obligatus obligatione
+   ci<lb ed="#B" n="57" break="no"/>uili ex qua oritur actio. &amp; licet mihi obligatione
+   na<lb ed="#B" n="58" break="no"/>turali simplici obligeris: scilicet ad gratitudinem:
+   il<lb ed="#B" n="59" break="no"/>la tamen no sufficit actionem producere. sed ego sum 
+   <lb ed="#B" n="60"/>obligatus ad tradendum tibi equum quem donaui. Sic 
+   <lb ed="#B" n="61"/>etiam de euictione rei donatae sum obligatus: vt si 
+   <lb ed="#B" n="62"/>fecisti impensas in equo, &amp; euincitur abs te: forte est 
+   <lb ed="#B" n="63"/>alienus equus &amp; hoc sciebam. Idem patet in mutuo. 
+   <lb ed="#B" n="64"/>nam mutuatori mutuatarius obligatur: &amp; non con 
+   <lb ed="#B" n="65"/>tra. Sed extendere potes acceptionem vocabuli com 
+   <lb ed="#B" n="66"/>tractus ad hos modos sic definiendo. Contractus 
+   <lb ed="#B" n="67"/>est actus gratia cuius tametnum vna pars contrahentium 
+   <lb ed="#B" n="68"/>obligatur. Multas autem species contractus habet. in ali 
+   <lb ed="#B" n="69"/>quibus enim transfertur proprietas: in aliis vsus &amp; 
+   <lb ed="#B" n="70"/>non proprietas. Exemplum primi, vt in emptione 
+   <lb ed="#B" n="71"/>&amp; venditione. Secundi, vt in locatione domus vel 
+   <lb ed="#B" n="72"/>agri: precium est id quod pro domus vsu capitur. Et 
+   <lb ed="#B" n="73"/>terum ex illo potest dari alia definitio. Contractus 
+   <lb ed="#B" n="74"/>est actus per quem de vno in alium est alicuius do 
+   <lb ed="#B" n="75"/>minii transsatio, siue ad vsum, siue ad proprietatem: 
+   <lb ed="#B" n="76"/>vel si debens transferre non transferat ad
+   interes<lb ed="#B" n="77" break="no"/>se tenetur. Praeterea si res transfertur quo ad dominium 
+   <lb ed="#B" n="78"/>vel proprietatem: hoc est dupliciter. vel mediante pre 
+   <lb ed="#B" n="79"/>cio: &amp; sic est emptio: cui respondet venditio
+   tan<lb ed="#B" n="80" break="no"/>quam correlatiuum. Si autem transferatur dominium rei non me 
+   <lb ed="#B" n="81"/>diante praecio: iterum distinguendum est. vel dominium 
+   <lb ed="#B" n="82"/>capiens tenetur tantundem refundere: &amp; sic est mutuum. 
+   <lb ed="#B" n="83"/>vel non tenetur: &amp; sic est donatio: quia secundum
+   Aristo<lb ed="#B" n="84" break="no"/>lem quarto Topi. donum est datio irredibilis. Si ve 
+   <lb ed="#B" n="85"/>ro transferatur vsus: hoc est dupliciter. vel gratis: &amp; 
+   <lb ed="#B" n="86"/>sic est commodatio: quae ob accipientis commodum
+   ac<lb ed="#B" n="87" break="no"/>cipitur. sed haec interpretatio non conuertitur cum
+   in<lb ed="#B" n="88" break="no"/>terprstato: quia mutuo &amp; dono competit. si vero acci 
+   <lb ed="#B" n="89"/>piatur pecunia: est locatio &amp; conductio. De societa 
+   <lb ed="#B" n="90"/>te &amp; eius speciebus postea futurus est sermo.
+  </p>
+      <p xml:id="jMqv4a-d1e788-d1e221">
+   ⁋ Sunt 
+   <lb ed="#B" n="91"/>autem multi alii contractus qui frequenter &amp; inter se 
+   <lb ed="#B" n="92"/>&amp; cum istis materialiter coincidunt: licet
+   differenti<lb ed="#B" n="93" break="no"/>bus rationibus. Contractus censualis est contractus 
+   <lb ed="#B" n="94"/>quo quis transfert ome ius quod habet in aliqua re 
+   <lb ed="#B" n="95"/>in alium pro praecio sic vt sibi praestetur annua pen 
+   <lb ed="#B" n="96"/>sio. si enim habeat dominium vel proprietatem: illam trans 
+   <lb ed="#B" n="97"/>fert. si dominium solum vtile: etiam illud transfert. &amp; 
+   <lb ed="#B" n="98"/>per hoc contractus censualis differt a contractu 
+   <lb ed="#B" n="99"/>emphiteotico. Dominus enim transfert in emphi 
+   <lb ed="#B" n="100"/>teosi vsum rei retenta sibi ipsi proprietate.
+   Diffe<lb ed="#B" n="101" break="no"/>runt tamen aliter. nam censualis non soluendo
+   pe<lb ed="#B" n="102" break="no"/>sionem annuam in quocumque magno tempore non 
+   <lb ed="#B" n="103"/>cadit a iure suo. emphiteota vero non soluendo in  
+   <lb ed="#B" n="104"/>triennio cadit a iure suo. Contractus autem
+   emphi<lb ed="#B" n="105" break="no"/>teoticus est quando aliquis dat dominium vtile alteri 
+   <lb ed="#B" n="106"/>seruando sibiipsi proprietatem pro modico precio 
+   <!--0327.xml-->
+   <pb ed="#B" n="148-r"/>
+       <cb ed="#B" n="a"/>
+       <lb ed="#B" n="1"/>ad terram sterilem meliorem faciendam: quod modicum 
+   <lb ed="#B" n="2"/>praecium datur in recognitionem dominii directi. de quo 
+   <lb ed="#B" n="3"/>vide. x. q. ii. ca. Ea enim. S. Perpetua quoque emphi 
+   <lb ed="#B" n="4"/>teosis in his rebus permittitur. Alius est contractus 
+   <lb ed="#B" n="5"/>feudalis: de quo no nihil diximus supra in de
+   vsu<lb ed="#B" n="6" break="no"/>ra.
+  </p>
+      <p xml:id="jMqv4a-d1e788-d1e279">
+   ⁋ Contractus superficiarius exemplo notus eua 
+   <lb ed="#B" n="7"/>det. concedo tibi superficiem talis fundi: vt extru 
+   <lb ed="#B" n="8"/>as domum vel molendinum, mihi seruata proprie 
+   <lb ed="#B" n="9"/>tate: &amp; in illius recognitionem dabis quotannis scu 
+   <lb ed="#B" n="10"/>tum. &amp; si domus sit totaliter igne vel aqua destru 
+   <lb ed="#B" n="11"/>cta: finitur ille contractus superficiarius: ita vt tibi non 
+   <lb ed="#B" n="12"/>licuerit amplius sine noua facultate mea domum 
+   <lb ed="#B" n="13"/>extruere. Secus est in contractu emphiteotico in 
+   <lb ed="#B" n="14"/>quo potes domum extruere &amp; fundo vti quousqu 
+   <lb ed="#B" n="15"/>tempus tui contractus expiret.
+  </p>
+      <p xml:id="jMqv4a-d1e788-d1e301">
+   ⁋ Contractibus etiam 
+   <lb ed="#B" n="16"/>innominatis in materiis sequentibus vtimur. vt do 
+   <lb ed="#B" n="17"/>si des. faciam si facias. dabo si facias. faciam si des 
+   <lb ed="#B" n="18"/>Est etiam permutatio: qui est contractus quo datur 
+   <lb ed="#B" n="19"/>aliquid pro aliquo: siue vtrumque extremum sit
+   numisma<lb ed="#B" n="20" break="no"/>siue vtrumque non numisma fuerit. Exemplum
+   pri<lb ed="#B" n="21" break="no"/>mi: si detur vinum pro frumento. Secundi: vt au 
+   <lb ed="#B" n="22"/>rum pro argento. si vero detur numisma pro re vt 
+   <lb ed="#B" n="23"/>res contra pecuniam distinguitur: non est permu 
+   <lb ed="#B" n="24"/>tatio: sed emptio vel venditio. si detur numisma pro 
+   <lb ed="#B" n="25"/>numismate vt in secundo exemplo, dicitur cambium spi 
+   <lb ed="#B" n="26"/>ciali vocabulo.
+  </p>
+      <p xml:id="jMqv4a-d1e788-d1e327">
+   ⁋ Non opineris discrimen reale sem 
+   <lb ed="#B" n="27"/>per esse inter hos contractus: sed secundum varias 
+   <lb ed="#B" n="28"/>considerationes &amp; intentiones aliter est de contra 
+   <lb ed="#B" n="29"/>ctu iudicandum. potest enim idem contractus e 
+   <lb ed="#B" n="30"/>se verum cambium &amp; mutuum. hoc sic suadeo. do 
+   <lb ed="#B" n="31"/>tibi iam in principio Augusti scutum solare: in fi 
+   <lb ed="#B" n="32"/>ne Septembris restitues mihi idem scutum
+   nume<lb ed="#B" n="33" break="no"/>rao: hic est mutuum: quia habuisti duobus mensibus 
+   <lb ed="#B" n="34"/>istius scuti dominium, &amp; periculo illius subiectus eras 
+   <lb ed="#B" n="35"/>nihil autem deficit ab hoc contractu quin sit verum 
+   <lb ed="#B" n="36"/>mutuum, non enim est de ratione mutui quod soluatui 
+   <lb ed="#B" n="37"/>mutuum in alia pecunia numero quam sit mutuum ipsum 
+   <lb ed="#B" n="38"/>Sic iste contractus potest dici cambium, quod sic sua 
+   <lb ed="#B" n="39"/>detur. argentum pro auro &amp; aurum pro auro eiusdem 
+   <lb ed="#B" n="40"/>valoris cambimus: nec requiritur simultas tempo 
+   <lb ed="#B" n="41"/>ris. quare enim non posset esse in lapsu temporis
+   dam<lb ed="#B" n="42" break="no"/>do idem scutum numero, nisi in terminis lucteris?: 
+   <lb ed="#B" n="43"/>de quibus non contendo. Nihil probas si dicas. ra 
+   <lb ed="#B" n="44"/>tione cambii licet aliquid accipere: ergo non est idem 
+   <lb ed="#B" n="45"/>contractus. Respondetur, non licet accipere ali 
+   <lb ed="#B" n="46"/>quid in hoc contractu ea ratione qua est mutuum. sed 
+   <lb ed="#B" n="47"/>bene aliqua alia vi: vt in de vsura crebro diximus. 
+   <lb ed="#B" n="48"/>Nec multum refert in sententia: siue dicatur pecunia 
+   <lb ed="#B" n="49"/>emi siue non. sed loquamur vt plures. si alia res vi 
+   <lb ed="#B" n="50"/>in priore exemplo, retinet nomen commune: ille 
+   <lb ed="#B" n="51"/>quem alter adit gratia pecuniae habendae: apud vul 
+   <lb ed="#B" n="52"/>go loquentes vocatur canipsor: &amp; cambire dicitur: 
+   <lb ed="#B" n="53"/>licet vterque pecuniam det. difficultas enim est ver 
+   <lb ed="#B" n="54"/>balis: nec est magnavis.
+  </p>
+      <p xml:id="jMqv4a-d1e788-d1e390">
+   ⁋ Sed dubitas.
+   quomo<lb ed="#B" n="55" break="no"/>do permutatio inter contractus innominatos nomine 
+   <!--0327.xml-->
+   <cb ed="#B" n="b"/> 
+       <!-- 148-r b -->
+       <lb ed="#B" n="56"/>tur: cum nomen habeat determinatum.
+  </p>
+      <p xml:id="jMqv4a-d1e788-d1e403">
+   ⁋
+   Responde<lb ed="#B" n="57" break="no"/>tur, non dicitur contractus innominatus eo quod
+   no<lb ed="#B" n="58" break="no"/>men speciale non habeat: sed quia contractus ille 
+   <lb ed="#B" n="59"/>vocatur nominatus qui statim vt fit producit
+   obli<lb ed="#B" n="60" break="no"/>gationem efficacem vel actionem: etiam si neute 
+   <lb ed="#B" n="61"/>impleuit. patet. l. iicii. de re. permuta. Et contra con 
+   <lb ed="#B" n="62"/>tractus ille dicitur innominatus, in quo si neuter i 
+   <lb ed="#B" n="63"/>pleuit, non oritur actio. modo permutatione facta 
+   <lb ed="#B" n="64"/>si neuter impleuit non oretur actio. immo si tanmen 
+   <lb ed="#B" n="65"/>alter eorum implesset non oriretur actio: quin
+   al<lb ed="#B" n="66" break="no"/>ter qui nondum implesset / posset resilire: quamuis is quam 
+   <lb ed="#B" n="67"/>implesset posset contra non implentem agere ad 
+   <lb ed="#B" n="68"/>repetitionem rei datae, vel ad id quod interest illum alium 
+   <lb ed="#B" n="69"/>non implere. illi etiam qui impleuit licitum est
+   re<lb ed="#B" n="70" break="no"/>silire quo ad hoc vt possit repetere rem si alter non 
+   <lb ed="#B" n="71"/>vult implere. Aliter etiam soluit glossa rubricae de 
+   <lb ed="#B" n="72"/>rerum permutatione in. C. dicens. Permutatio est 
+   <lb ed="#B" n="73"/>nomen generale ad emptionem / venditionem, &amp; 
+   <lb ed="#B" n="74"/>ad omnem contractum: vbi aliquid hincinde
+   ac<lb ed="#B" n="75" break="no"/>cipitur: &amp; alii contractus sumpserunt sua nomina 
+   <lb ed="#B" n="76"/>specialia. sed cum datur species certa pro specie alia 
+   <lb ed="#B" n="77"/>certa: caret nomine speciali.
+  </p>
+      <p xml:id="jMqv4a-d1e788-d1e451">
+   ⁋ Precarium est contra 
+   <lb ed="#B" n="78"/>ctus quo alicui res aliqua gratuite conceditur quo 
+   <lb ed="#B" n="79"/>ad vsum propter preces eius: &amp; hoc tandiu solum 
+   <lb ed="#B" n="80"/>quandiu concedens patitur. &amp; in hoc differt a dono. 
+   <lb ed="#B" n="81"/>nam donans non habet animum repetendi: sed rem 
+   <lb ed="#B" n="82"/>concedens praecario potest rem ipsam repetere quan 
+   <lb ed="#B" n="83"/>docunque placuerit. Precarium autem est contractus 
+   <lb ed="#B" n="84"/>cum emphiteotico coincidens: nisi quod de quinquem 
+   <lb ed="#B" n="85"/>nio in quinquennium renouatur.
+  </p>
+      <p xml:id="jMqv4a-d1e788-d1e472">
+   ⁋ Alius est
+   con<lb ed="#B" n="86" break="no"/>tractus qui dicitur impignoratio capiendo
+   impi<lb ed="#B" n="87" break="no"/>gnorationem vt hypothecationem includat.
+   Im<lb ed="#B" n="88" break="no"/>pignoratio proprie est rei mobilis quae datur ad pi 
+   <lb ed="#B" n="89"/>gnus &amp; manum. Hypothecatio vero est in re immo 
+   <lb ed="#B" n="90"/>bili. creditori autem conuenit actio quae dicitur
+   hy<lb ed="#B" n="91" break="no"/>pothecaria contra debitorem qua potest agere con 
+   <lb ed="#B" n="92"/>tra eum si debitor illam rem alteri venderet. In con 
+   <lb ed="#B" n="93"/>tractu impignorationis &amp; hypothecationis ex vtra 
+   <lb ed="#B" n="94"/>quod parte nascitur obligatio: quia debitor potest rem 
+   <lb ed="#B" n="95"/>impignoratam vel hypothecatam repetere quan 
+   <lb ed="#B" n="96"/>do satisfacit. similiter potest agere vt creditor
+   con<lb ed="#B" n="97" break="no"/>putet fructus perceptos vel quos potuit percipe 
+   <lb ed="#B" n="98"/>re in solutionem sortis.
+  </p>
+      <p xml:id="jMqv4a-d1e788-d1e503">
+   ⁋ Alius est contractus so 
+   <lb ed="#B" n="99"/>lutionis indebiti. vt si credam me tibi debere decens 
+   <lb ed="#B" n="100"/>cum nihil tibi tenear: ita vt ex errore tibi soluam 
+   <lb ed="#B" n="101"/>decem: conuenit mihi actio contra te vt illa decen 
+   <lb ed="#B" n="102"/>restituas. Aliae sunt etiam species multae: de qui 
+   <lb ed="#B" n="103"/>bus quia canonista vel legista considerare habet: 
+   <lb ed="#B" n="104"/>&amp; non per se theologus: transeo sufficit namque theo 
+   <lb ed="#B" n="105"/>logo communiorum contractuum habere nomi 
+   <lb ed="#B" n="106"/>na. &amp; intellectis fundamentis in illis: in aliis dum 
+   <lb ed="#B" n="107"/>modo ei explicentur: conformiter loquetur: quod 
+   <lb ed="#B" n="108"/>sufficit. 
+  </p>
+    </div>
+   </body>
+  </text>
+</TEI>

@@ -1,0 +1,398 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 6</title>
+      <author ref="#JohnMair">John Mair</author>
+      <respStmt>
+       <name>Jeffrey C. Witt</name>
+       <resp>TEI Encoder</resp>
+      </respStmt>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 6</title>
+       <date when="2020-06-09">June 27, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="B" n="cod-Bda113">Badius 1516</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+     guidelines for a diplomatic edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-06-27" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+      <pb ed="#B" n="264-v"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="jMqv4a-d1e1410"> <!-- l4d27q6 -->
+      <head xml:id="jMqv4a-d1e1410-Hd1e104">Quaestio 6</head>
+      <head xml:id="jMqv4a-d1e1410-Hd1e107" type="question-title">An maximus pontifex possit cum bigamo 
+  dispensare ut ordines suscipiat</head>
+      <p xml:id="jMqv4a-d1e1410-d1e110">
+       <lb ed="#B" n="76"/>⁋ Distinctionis Vigesimaeseptimae 
+   <lb ed="#B" n="77"/>Quaestio Sexta. 
+   <lb ed="#B" n="78"/>ET quia magister 
+   <lb ed="#B" n="79"/>in vltimo capitulo huius 
+   <lb ed="#B" n="80"/>distinctionis dicit quod
+   bi<lb ed="#B" n="81" break="no"/>gamus non potest ad
+   or<lb ed="#B" n="82" break="no"/>dines promoueri: idcirco 
+   <lb ed="#B" n="83"/>Sexto quaeritur. An ponti 
+   <lb ed="#B" n="84"/>fex possit cum bigamo 
+   <lb ed="#B" n="85"/>e dispensare vt ordines sus 
+   <lb ed="#B" n="86"/>cipiat.
+  </p>
+      <p xml:id="jMqv4a-d1e1410-d1e136">
+   ⁋ Pro illo
+   nota<lb ed="#B" n="87" break="no"/>to quod triplex est bigamia. quaedam vera: quaedam inter 
+   <lb ed="#B" n="88"/>pretatiua: &amp; quaedam similitudinaria. Vera, quando quis ha 
+   <lb ed="#B" n="89"/>buit plures vxores legitimas. xxvi. dist. Acutius. &amp; 
+   <lb ed="#B" n="90"/>cap. sequi. si ambas cognouit. vt patet ex ca.
+   Debi<lb ed="#B" n="91" break="no"/>tum. de biga. Bigamia interpretatiua bifariam contrahitur 
+   <lb ed="#B" n="92"/>vno modo quando quis cum corrupta quam cognouiti 
+   <lb ed="#B" n="93"/>contraxit. xxxiii. dist. Maritum. &amp; cap. Anobis. de bi 
+   <lb ed="#B" n="94"/>ga. Altero modo quando debitum vxori adulterae redditur 
+   <lb ed="#B" n="95"/>xxxiiii. dist. Si cuius. &amp;.c. Si laici. Bigamia
+   simili<lb ed="#B" n="96" break="no"/>tudinaria quadrifariam contrahitur. Primo cum quis cum 
+   <lb ed="#B" n="97"/>deo contraxit per votum solenne: &amp; postea contraxit 
+   <lb ed="#B" n="98"/>matrimonium de facto. xxvii. qui. i. Quotquot. Secun 
+   <lb ed="#B" n="99"/>do modo quando quis diuersis temporibus habuit
+   plu<lb ed="#B" n="100" break="no"/>res vxores: vnam de iure: &amp; alteram de facto: &amp; am 
+   <lb ed="#B" n="101"/>bas cognouit. c. Nuper. eiusdem titu. Tertio
+   mo<lb ed="#B" n="102" break="no"/>do si simul habuit duas vxores: vnam de iure: &amp; 
+   <lb ed="#B" n="103"/>alteram de facto: &amp; vtramque cognouit. Quarto mo 
+   <lb ed="#B" n="104"/>do si existens in sacris contrahat. vt in di. ca.
+   Nu<lb ed="#B" n="105" break="no"/>per.
+  </p>
+      <p xml:id="jMqv4a-d1e1410-d1e181">
+   ⁋ Ex his patet quod si quis in concubinatu
+   sae<lb ed="#B" n="106" break="no"/>culariter vel regulariter / siue in matrimonio vero 
+   <lb ed="#B" n="107"/>siue similitudinario: siue interpretatiuo cognoue- 
+   <!--0561.xml-->
+   <pb ed="#B" n="265-r"/>
+       <cb ed="#B" n="a"/>
+       <lb ed="#B" n="1"/>rit quotlibet mulieres: propterea non efficitur biga 
+   <lb ed="#B" n="2"/>mus.
+  </p>
+      <p xml:id="jMqv4a-d1e1410-d1e199">
+   ⁋ Secundo patet quod si quis contraxerit cum 
+   <lb ed="#B" n="3"/>virgine: &amp; ea mortua / ante carnalem copulam cum alia 
+   <lb ed="#B" n="4"/>virgine contrahit, &amp; eam cognoscit: non est adhuc bi 
+   <lb ed="#B" n="5"/>gamus. Idem est si primam cognouisset ante secundam 
+   <lb ed="#B" n="6"/>cognitam: sed secunda cognita, est bigamus: quia 
+   <lb ed="#B" n="7"/>carnem duabus vxoribus diuisit.
+  </p>
+      <p xml:id="jMqv4a-d1e1410-d1e212">
+   ⁋ Et ex illo cum 
+   <lb ed="#B" n="8"/>interprtatione vocabuli quodam modo sequitur 
+   <lb ed="#B" n="9"/>quod violans virginem &amp; postea cum ea contrahens,
+   co<lb ed="#B" n="10" break="no"/>gnoscens eam in matrimonio, non est bigamus: quia 
+   <lb ed="#B" n="11"/>non diuisit carnem suam multis. poenae enim sunt restrin 
+   <lb ed="#B" n="12"/>gendae. quare nullus est dicendus bigamus, nisi iure 
+   <lb ed="#B" n="13"/>probetur. iuxta id quid dicitur in. c. Cum apud. de sponsa. 
+   <lb ed="#B" n="14"/>&amp; ma.
+  </p>
+      <p xml:id="jMqv4a-d1e1410-d1e230">
+   ⁋ Quarto sequitur quod plerique credunt se
+   mo<lb ed="#B" n="15" break="no"/>nogamos qui sunt bigami. nam si quis credat se 
+   <lb ed="#B" n="16"/>cum virgine contraxisse: &amp; postea comperiens contrarium 
+   <lb ed="#B" n="17"/>reuera est bigamus. li. di. Qui in aliquo. xxii. qui. v. 
+   <lb ed="#B" n="18"/>Ille. Idem est cognoscendo suam vxorem post adulterium 
+  </p>
+      <p xml:id="jMqv4a-d1e1410-d1e241">
+       <lb ed="#B" n="19"/>⁋ Quito infertur quod velle cognoscere plures
+   vxo<lb ed="#B" n="20" break="no"/>res nisi sequatur effectus, non inducit bigamiam 
+  </p>
+      <p xml:id="jMqv4a-d1e1410-d1e248">
+       <lb ed="#B" n="21"/>⁋ Sexto sequitur quod quis per eundem actum contrahit ma 
+   <lb ed="#B" n="22"/>trimonium &amp; incurrit bigamiam: puta cognoscendo  
+   <lb ed="#B" n="23"/>viduam desponsatam.
+  </p>
+      <p xml:id="jMqv4a-d1e1410-d1e258">
+   ⁋ Septimo sequitur quod maior 
+   <lb ed="#B" n="24"/>bigamia ex parte mulieris quam viri oritur: licet vir 
+   <lb ed="#B" n="25"/>bigamus, &amp; non mulier appelletur. 
+  </p>
+      <p xml:id="jMqv4a-d1e1410-d1e265">
+       <lb ed="#B" n="26"/>⁋ His praemissis respondetur ad titulum 
+   <lb ed="#B" n="27"/>quaestionis per tres conclusiones: quarum Primaem. Bigamus 
+   <lb ed="#B" n="28"/>non est promouendus ad sacramenta. sine dispensatione 
+   <lb ed="#B" n="29"/>patet de biga. per totum.
+  </p>
+      <p xml:id="jMqv4a-d1e1410-d1e276">
+   ⁋ Secunda conclusio. Papa 
+   <lb ed="#B" n="30"/>potest dispensare cum bigamo quolibet vt ad ordi 
+   <lb ed="#B" n="31"/>nes promoueatur. probatur. Bigamum non ordinari 
+   <lb ed="#B" n="32"/>ad ordines est solum de iure humano pontificio. sed 
+   <lb ed="#B" n="33"/>in illo pontifex potest dispensare. Nam si esset de iure 
+   <lb ed="#B" n="34"/>diuino: hoc esset propter verba Apostoli ad
+   Ti<lb ed="#B" n="35" break="no"/>motheum seribentis (vnius vxoris virum) hoc est, non 
+   <lb ed="#B" n="36"/>habeat plures vxores. sed non propterea est de iure 
+   <lb ed="#B" n="37"/>diuino: vt patet de virginitate primae ad Corith. 
+   <lb ed="#B" n="38"/>vii. Sed dicis. illic dicit. Dico ego non dominus. 
+   <lb ed="#B" n="39"/>Contra, non est magis bigamus de iure diuino 
+   <lb ed="#B" n="40"/>prohibitus promoueri quam caeteris vitiis infecti, quod 
+   <lb ed="#B" n="41"/>bus coniungitur: scilicet vinolentus / dyscolus /
+   per<lb ed="#B" n="42" break="no"/>cussor / reprehensibilis. sed tales non prohibentur iure 
+   <lb ed="#B" n="43"/>diuino ad ordines promoueri: ergo nec bigamus 
+   <lb ed="#B" n="44"/>nec trigamus. Hec conclusio communiter a
+   sapien<lb ed="#B" n="45" break="no"/>tibus tam theologis quam canonistis tenetur. Praeterea 
+   <lb ed="#B" n="46"/>vt glos. dicit in ca. Lector. xxxiiii. di. Lucius
+   dis<lb ed="#B" n="47" break="no"/>pensauit cum archiepiscopo Panormitano. sed 
+   <lb ed="#B" n="48"/>illud argumentum non est maximi ponderis. alia 
+   <lb ed="#B" n="49"/>tamen ad conclusionem sufficiunt.
+  </p>
+      <p xml:id="jMqv4a-d1e1410-d1e322">
+   ⁋ Tertia
+   con<lb ed="#B" n="50" break="no"/>clusio. Inferior papa non potest dispensare cum 
+   <lb ed="#B" n="51"/>bigamo vt ad ordines promoueatur. patet de bi 
+   <lb ed="#B" n="52"/>gamis per totum. nam alicui illic prohibetur sub 
+   <lb ed="#B" n="53"/>poena &amp; non papae: quia par in parem non habet 
+   <lb ed="#B" n="54"/>imperium. igitur. 
+   <!--0561.xml-->
+   <cb ed="#B" n="b"/> 
+       <!-- 265-r b -->
+      </p>
+      <p xml:id="jMqv4a-d1e1410-d1e342">
+       <lb ed="#B" n="55"/>⁋ Contra primam conclusionem
+   ar<lb ed="#B" n="56" break="no"/>gumentor, contingit virum contrahere cum
+   meretri<lb ed="#B" n="57" break="no"/>ce occulta, quam putat esse virginem: &amp; ea mortua 
+   <lb ed="#B" n="58"/>iuscipere ordines etiam sine dispensatione: ergo
+   bi<lb ed="#B" n="59" break="no"/>gamus licite sine dispensatione promouetur. Respon 
+   <lb ed="#B" n="60"/>detur distinguendo cosequens. vel notus bigamus 
+   <lb ed="#B" n="61"/>&amp; sic nego: &amp; de illo intelligitur conclusio. vel inco 
+   <lb ed="#B" n="62"/>gnitus: &amp; sic conceditur. sicut multi sacerdotum filii 
+   <lb ed="#B" n="63"/>in occidentali ecclesia ad ordines sacros promouen 
+   <lb ed="#B" n="64"/>tur sine dispensatione ob ignorantiam inuincibilem. 
+   <lb ed="#B" n="65"/>Et hic erit extensus error probabilis. nam si aliqui
+   im<lb ed="#B" n="66" break="no"/>mo multi dicant vxorem tuam non fuisse virginem quan 
+   <lb ed="#B" n="67"/>do cum ea contrahebas, vel eam adulterium commisisse 
+   <lb ed="#B" n="68"/>tempore tuo: &amp; te eam postea cognouisse: vbi
+   suf<lb ed="#B" n="69" break="no"/>ficienter de hoc non doceris, sidem non
+   adhibe<lb ed="#B" n="70" break="no"/>bis. nam multi multa loquuntur: nec te
+   torque<lb ed="#B" n="71" break="no"/>bis, magnam indaginem super hoc faciendo. sed  
+   <lb ed="#B" n="72"/>si sufficienter es super hoc edoctus: te bigamum 
+   <lb ed="#B" n="73"/>ludicabis. 
+  </p>
+      <p xml:id="jMqv4a-d1e1410-d1e386">
+       <lb ed="#B" n="74"/>⁋ Contra secudam conclusionem arguitur 
+   <lb ed="#B" n="75"/>de biga. cap. ii. dicitur sic. Quia in bigamis contra 
+   <lb ed="#B" n="76"/>Apostolum dispensare non licet: vt debeant ad sacros 
+   <lb ed="#B" n="77"/>ordines promoueri, vel in eis si promoti fuerint re 
+   <lb ed="#B" n="78"/>manere. Respondetur. Non licuit illi inferiori episco 
+   <lb ed="#B" n="79"/>po ad quem Romanus pontifex scripsit, cum
+   biga<lb ed="#B" n="80" break="no"/>mo dispensare, etiam in minoribus: vt notatur in cap. 
+   <lb ed="#B" n="81"/>vnico de biga. lib. vi. Et etiam fuit forte
+   irrationa<lb ed="#B" n="82" break="no"/>bilis causa dispensandi. &amp; ita fuit contra Apostolum 
+   <lb ed="#B" n="83"/>Dicentes autem Romanum pontificem dispensare contra 
+   <lb ed="#B" n="84"/>Apostolum, nihil dicunt. ratio est: quia vel est rationa 
+   <lb ed="#B" n="85"/>bilis causa non seruandi illius dicti apostolici quod vir 
+   <lb ed="#B" n="86"/>non habeat plures vxores: &amp; sic apostolus
+   an<lb ed="#B" n="87" break="no"/>nueret: quomodo ergo tunc contra Apostolum dispen 
+   <lb ed="#B" n="88"/>sat papa? vel non est rationabilis causa dispensandi:  
+   <lb ed="#B" n="89"/>&amp; sic non est bona dispensatio. Vel dicitur quod prohibetur 
+   <lb ed="#B" n="90"/>ordinari per legem communem: non autem dispensari.
+  </p>
+      <p xml:id="jMqv4a-d1e1410-d1e426">
+   ⁋ Se 
+   <lb ed="#B" n="91"/>cundo arguitur contra eandem conclusionem per illa quae scribum 
+   <lb ed="#B" n="92"/>tur in cap. Debitum. de biga. &amp; in gloi, quae sic dicit in  
+   <lb ed="#B" n="93"/>verbo (sacramentum). Triplex sacramentum designatur 
+   <lb ed="#B" n="94"/>in matrimonio carnali copula consummato.
+   Pri<lb ed="#B" n="95" break="no"/>mo est vnio fidelis animae ad deum per dilectionem &amp; 
+   <lb ed="#B" n="96"/>charitatem. &amp; haec designatur per coniunctionem animorum 
+   <lb ed="#B" n="97"/>in ipsa prima desposatione: dum alter per mutuum com 
+   <lb ed="#B" n="98"/>sensum consentit in alterum. Secundum est vnio
+   huma<lb ed="#B" n="99" break="no"/>nae naturae ad deum, quae facta est in vtero virginali per 
+   <lb ed="#B" n="100"/>incarnationem verbi dei: &amp; haec designatur per carnalem 
+   <lb ed="#B" n="101"/>commixtionem viri &amp; vxoris. Reliquum vero
+   desi<lb ed="#B" n="102" break="no"/>gnat conformitatem quae consistit in carne, inter Christum 
+   <lb ed="#B" n="103"/>&amp; sanctam ecclesiam. Et pontifex in illo capitulo sic di 
+   <lb ed="#B" n="104"/>cit. Cum ergo propter sacramenti defectum inhibitum sit 
+   <lb ed="#B" n="105"/>ne bigamus aut maritus viduae praesumat ad sacros 
+   <lb ed="#B" n="106"/>ordines promoueri: quoniam nec illa est vnica vnici: nec 
+   <lb ed="#B" n="107"/>ste vnus vnius: profecto vbi deficit inter huiusmoni 
+   <lb ed="#B" n="108"/>coniuges commixtio corporum: non deest huiusmodi signa- 
+   <!--0562.xml-->
+   <pb ed="#B" n="265-v"/>
+       <cb ed="#B" n="a"/>
+       <lb ed="#B" n="1"/>culum sacramenti. Ecclesia autem est vna ab origine 
+   <lb ed="#B" n="2"/>sua ad finem mundi &amp; incorrupta. crgo si quis contra 
+   <lb ed="#B" n="3"/>hat cum corrupta vel pluribus: non manet haec signi 
+   <lb ed="#B" n="4"/>ficatio. Hoc supposito arguitur sic. Cum quis est
+   bi<lb ed="#B" n="5" break="no"/>gamus non manet hoc sacramentum: ergo cum illo non 
+   <lb ed="#B" n="6"/>potest dispensari.
+  </p>
+      <p xml:id="jMqv4a-d1e1410-d1e487">
+   ⁋ Propter hoc argumentum dicebat 
+   <lb ed="#B" n="7"/>
+       <name xml:id="jMqv4a-d1e1410-Nd1e491">Hugo</name>, vt <name xml:id="jMqv4a-d1e1410-Nd1e494">Panor</name>. allegat in cap. Super eo. quod papa 
+   <lb ed="#B" n="8"/>non potest dispensare. <name xml:id="jMqv4a-d1e1410-Nd1e499">Panor</name>. dicit illic, non est contra 
+   <lb ed="#B" n="9"/>ius naturae: sed est solum de iure positiuo. de diuino 
+   <lb ed="#B" n="10"/>loquitur. &amp; in hoc multum potest papa. Prior modus
+   di<lb ed="#B" n="11" break="no"/>cendi per secundam conclusione &amp; eius probationem est 
+   <lb ed="#B" n="12"/>reprobatus: &amp; secundus etiam. Dico igitur papam posse 
+   <lb ed="#B" n="13"/>exponere ius diuinum in casu ambiguo: &amp; nihil ali 
+   <lb ed="#B" n="14"/>ud posse facere. nam si esset de iure diuino: non se in  
+   <lb ed="#B" n="15"/>hoc ingereret ipsum relaxando. Ad argumentum dico 
+   <lb ed="#B" n="16"/>quod ipsum est solum metaphoricum &amp; non ponderandum. si 
+   <lb ed="#B" n="17"/>cut enim vere potest ordinari qui numquam contraxit cum
+   vir<lb ed="#B" n="18" break="no"/>gine: in cuius coniunctione, quia nulla est, non
+   ma<lb ed="#B" n="19" break="no"/>net haec metaphora: sic per dispensationem trigamus 
+   <lb ed="#B" n="20"/>potest ordinari. Non enim facit pontifex quod bigamus 
+   <lb ed="#B" n="21"/>vel trigamus non fuerit talis: vt isti putant: sed irre 
+   <lb ed="#B" n="22"/>gularitatem ecclesiasticam ab ecclesia inflictam tollit, si 
+   <lb ed="#B" n="23"/>cut ab homicida. Propter verbum tamen Apostoli &amp; 
+   <lb ed="#B" n="24"/>illam significationem additam difficulter pontifex dis 
+   <lb ed="#B" n="25"/>pensat. sed cum dispensat: is vere est sacerdos, inter 
+   <lb ed="#B" n="26"/>quem &amp; eius vxores non est haec metaphora: quare 
+   <lb ed="#B" n="27"/>ipsa non est necessaria. Et ex consequenti sequitur stol 
+   <lb ed="#B" n="28"/>ditas imaginationis Nicolai furiosi, quam Panor. 
+   <lb ed="#B" n="29"/>recitat cap. ii. huius tituli, quod bigamus non plus re 
+   <lb ed="#B" n="30"/>cipit ordines quam asinus. quilibet enim masculus est 
+   <lb ed="#B" n="31"/>prdinum susceptiuus quocumque crimine irretitus fu 
+   <lb ed="#B" n="32"/>erit. vt in distin. xxiiii. diximus. Et si sine disperi 
+   <lb ed="#B" n="33"/>satione ordines attentaret suscipere: reuera eos ob 
+   <lb ed="#B" n="34"/>tineret: sed non ordinum executionem, ob solam
+   ec<lb ed="#B" n="35" break="no"/>clesiae prohibitionem. 
+   <lb ed="#B" n="36"/>Vbitatur: An is qua habuit 
+   <lb ed="#B" n="37"/>vxorem cognitam vel plures ante
+   bapti<lb ed="#B" n="38" break="no"/>ssmum: &amp; ipsis mortuis, post baptismum 
+   <lb ed="#B" n="39"/>c ducens virginem: ipsa mortua possit 
+   <lb ed="#B" n="40"/>suscipere ordines etiam sine dispensatione. Respon 
+   <lb ed="#B" n="41"/>detur. Hic est duplex modus opinandi. Hterony 
+   <lb ed="#B" n="42"/>mus ad Oceanum tenet partem affirmatiuam: cum sit 
+   <lb ed="#B" n="43"/>nouus homo: nec stupra, nec aliqua alia quae ante 
+   <lb ed="#B" n="44"/>fuerunt, obsint. Oppositum tenet Augustinus
+   scri<lb ed="#B" n="45" break="no"/>bens in epistolam ad Titum: &amp; recitat <ref xml:id="jMqv4a-d1e1410-Rd1e583" target="http://scta.info/resource/gd-p1d26-d1e139">
+        <name xml:id="jMqv4a-d1e1410-Nd1e585" ref="#Gratian">Gratianus</name> 
+        <lb ed="#B" n="46"/>xxvi. di. in cap. Acutius.</ref> opinionem <name xml:id="jMqv4a-d1e1410-Nd1e591" ref="#Augustine">Augustini</name> 
+   pra<lb ed="#B" n="47"/>ferens, cum inquit. <quote xml:id="jMqv4a-d1e1410-Qd1e596">Acutius intelligunt qui nec eum 
+   <lb ed="#B" n="48"/>qui catechuminus vel paganus habuerit vnam an 
+   <lb ed="#B" n="49"/>te baptismum: &amp; post baptismum habuerit alteram: oi 
+   <lb ed="#B" n="50"/>dinandum censuerunt: quia de sacramento agitur, non de 
+   <lb ed="#B" n="51"/>peccato propter sanctitatem sacramenti. sicut si foemi 
+   <lb ed="#B" n="52"/>na catechumina vitiata est non potest post baptisma 
+   <lb ed="#B" n="53"/>inter dei virgines consecrari: ita non absurde visum 
+   <lb ed="#B" n="54"/>est bigamum non peccasse: sed normam sacramenti 
+   <!--0562.xml-->
+   <cb ed="#B" n="b"/> 
+        <!-- 265-v b -->
+        <lb ed="#B" n="55"/>imisisse</quote>. Et in <ref xml:id="jMqv4a-d1e1410-Rd1e622" target="http://scta.info/resource/gd-p1d26-d1e123">ca. Vnius. eiusdem distin</ref>. vbi recitatur 
+   <lb ed="#B" n="56"/>opinio Hieronymi tenentis partem affirmatiuam.
+   di<lb ed="#B" n="57" break="no"/>cit Apparatus. Non dicit HHieronymusc. lie verum 
+   <lb ed="#B" n="58"/>quia matrimonium non soluitur in baptismo. vt infra 
+   <lb ed="#B" n="59"/>ca. Deinde. &amp; male sentit hic Hieronymus. vnde 
+   <lb ed="#B" n="60"/>Augustinus eum corrigit in proximo ca.
+  </p>
+      <p xml:id="jMqv4a-d1e1410-d1e637">
+   ⁋ Licet opi 
+   <lb ed="#B" n="61"/>nio <name xml:id="jMqv4a-d1e1410-Nd1e641" ref="#Augustine">Augustini</name> sit communior: opinio tamen Hierony 
+   <lb ed="#B" n="62"/>mi est non minus probabilis: quae sic defenditur. Ex
+   di<lb ed="#B" n="63" break="no"/>ctis manifestum est, bigamum non posse ad sacra pro 
+   <lb ed="#B" n="64"/>moueri, non esse de iure diuino: sed ex iure
+   eccle<lb ed="#B" n="65" break="no"/>siae. modo ecclesia non arctat infideles: secundum illud 
+   <lb ed="#B" n="66"/>Apostoli. i. ad Corinth. v. Quid enim mihi de, his qui 
+   <lb ed="#B" n="67"/>foris sunt iudicare. Hinc Mahumetani &amp; ludaei 
+   <lb ed="#B" n="68"/>in gradibus ab ecclesia prohibitis reuera contrahunt: 
+   <lb ed="#B" n="69"/>non autem Christiani. ergo poena hec de non suscipien 
+   <lb ed="#B" n="70"/>dis sacris ordinibus solos Christianos concemit 
+   <lb ed="#B" n="71"/>&amp; non alios: quia ante baptisma nullam irregularita 
+   <lb ed="#B" n="72"/>tem contrahunt. sicut catulus non est videns neque caecus 
+   <lb ed="#B" n="73"/>ante nonum diem. Nullus autem est poena bigamiae punien 
+   <lb ed="#B" n="74"/>dus nisi vbi in iure hoc expresse habeatur. vt patet 
+   <lb ed="#B" n="75"/>ex allegatis in ca. Cum apud. de spon. &amp; cum in
+   cor<lb ed="#B" n="76" break="no"/>pore iuris hoc non habeatur: talis non erit dicendus 
+   <lb ed="#B" n="77"/>bigamus. Ad <name xml:id="jMqv4a-d1e1410-Nd1e679" ref="#Gratian">Gratianum</name> dicitur quod nusquam liber eius 
+   <lb ed="#B" n="78"/>est ab ecclesia approbatus: sed tantum habet
+   aucto<lb ed="#B" n="79" break="no"/>ritatis quantum ex sanctis quos fideliter recitat colli 
+   <lb ed="#B" n="80"/>gitur: vel si ratione vel auctoritate probet. modo hi eru 
+   <lb ed="#B" n="81"/>ditissimi viri contradicunt: &amp; neutrum alteri in
+   erudi<lb ed="#B" n="82" break="no"/>tione completa praeponendum puto: licet hominum
+   affe<lb ed="#B" n="83" break="no"/>ctiones hos ad hunc: &amp; illos ad alterum inducant. Et 
+   <lb ed="#B" n="84"/>cum rationes hincinde sint probabiles: tenere possumus. 
+   <lb ed="#B" n="85"/>alterutram positionem. De sacramento proxime solutum 
+   <lb ed="#B" n="86"/>est, respondendo ad obiectum contra secundam
+   conclusio<lb ed="#B" n="87" break="no"/>nem. Ad id quod hic de muliere additur a <name xml:id="jMqv4a-d1e1410-Nd1e704">Gratiano</name>, di 
+   <lb ed="#B" n="88"/>co. licet pontifex non possit facere de non virgine 
+   <lb ed="#B" n="89"/>virginem: immo nec deus: potest tamen facere quod velum inter 
+   <lb ed="#B" n="90"/>alias vocatas virgines deferat &amp; benedicatur: si 
+   <lb ed="#B" n="91"/>cut interdum contingit de illa quae putatur virgo, &amp; non 
+   <lb ed="#B" n="92"/>est. Non tamen nego quin sententia <name xml:id="jMqv4a-d1e1410-Nd1e718" ref="#Augustine">Augustini</name> sit etiam 
+   <lb ed="#B" n="93"/>probabilis: &amp; quod de lege communi propter defectum
+   sa<lb ed="#B" n="94" break="no"/>cramenti non debet promoueri. secus est per dispensatio 
+   <lb ed="#B" n="95"/>nem. <name xml:id="jMqv4a-d1e1410-Nd1e727" ref="#Jerome">Hieronymus</name> autem diceret quod nulla lex positiua 
+   <lb ed="#B" n="96"/>vetat quin is de quo in dubitatione tractatur: promo 
+   <lb ed="#B" n="97"/>ueri possit etiam sine dispensantione. Est enim quaestio 
+   <lb ed="#B" n="98"/>inter eos de legibus in illa tempestate latis: nec me 
+   <lb ed="#B" n="99"/>mini me super hoc legem vspiam vidisse.
+  </p>
+      <p xml:id="jMqv4a-d1e1410-d1e740">
+   ⁋
+   Epilogan<lb ed="#B" n="100" break="no"/>do tam in dictis quam in obiter occurrentibus more no 
+   <lb ed="#B" n="101"/>stro: licet non consequentibus sed a materia tractata 
+   <lb ed="#B" n="102"/>non extraneis, habetur quod bigamus sine dispensatione 
+   <lb ed="#B" n="103"/>Romani pontificis non est promouendus ad sacra. An 
+   <lb ed="#B" n="104"/>autem Romani pontificis dispensatio in qualibet biga 
+   <lb ed="#B" n="105"/>mia requiratur, ad canonistas, &amp; non ad theologum spe 
+   <lb ed="#B" n="106"/>ctat. Bigamus enim est irregularis. modo
+   irregula<lb ed="#B" n="107" break="no"/>ritas est inhabilitas ad susceptionem &amp; executionem 
+   <lb ed="#B" n="108"/>ordinum: estque poena solum a iure canonico inflicta 
+   <lb ed="#B" n="109"/>quae inter caeteras poenas canonicas, scilicet degrada- 
+   <!--0563.xml-->
+   <pb ed="#B" n="266-r"/>
+       <cb ed="#B" n="a"/>
+       <lb ed="#B" n="1"/>tionem, infamiam, excommunicationem, &amp; suspensionem 
+   <lb ed="#B" n="2"/>enumeratur. Irregularitas vero haec crebro sine
+   cul<lb ed="#B" n="3" break="no"/>pa contrahitur: vt patet in nostra materia. Et sic
+   ho<lb ed="#B" n="4" break="no"/>mo sine culpa ab ordinibus &amp; beneficiis repellitur: 
+   <lb ed="#B" n="5"/>non autem sine causa, vt addiscat magis a venereis 
+   <lb ed="#B" n="6"/>abstinere. Multi item sunt bigami qui sine peccato 
+   <lb ed="#B" n="7"/>suscipiunt ordines sine dispensatione. &amp; bigami sci 
+   <lb ed="#B" n="8"/>entes suscipiunt ordines sine dispensatione. Haec propo 
+   <lb ed="#B" n="9"/>sitio verificatur dupliciter: Vnomodo ex praecedente. 
+   <lb ed="#B" n="10"/>sic syllogizando. isti scienter suscipiunt ordines: ist 
+   <lb ed="#B" n="11"/>sunt bigami: igitur. praemissae sunt verae. Secundo ve 
+   <lb ed="#B" n="12"/>rificatur: si sciant se bigamos ante baptismum secundum  
+   <lb ed="#B" n="13"/>sententiam Hieronymi. alioquin non oportet. Amplius 
+   <lb ed="#B" n="14"/>patet non oportere pontificem capere dispositionem 
+   <lb ed="#B" n="15"/>Pauli vniuersaliter in dispositione ordinandorum in 
+   <lb ed="#B" n="16"/>sacris. patet, non tenetur capere dispositionem alterius 
+   <lb ed="#B" n="17"/>pontificis maximi, nec hoc est dicto Pauli contraire, 
+   <lb ed="#B" n="18"/>quando est rationabilis causa dispensandi. Vltimo, 
+   <lb ed="#B" n="19"/>quando dispensatur cum bigamo: non facit pontifex de 
+   <lb ed="#B" n="20"/>bigamo non bigamum: sed tollit irregularitatem: hoc 
+   <lb ed="#B" n="21"/>est poenam ecclesiasticam a praedecessore illatam, ab illo 
+   <lb ed="#B" n="22"/>promouendo. sicut rex tollit poenam, vltimum suppli 
+   <lb ed="#B" n="23"/>cium: hoc est poenam homicidio debitam, in casu: de 
+   <lb ed="#B" n="24"/>quo quamdiu viuit verum est dicere, iste est homicida. 
+  </p>
+    </div>
+   </body>
+  </text>
+</TEI>

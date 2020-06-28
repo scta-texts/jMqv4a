@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 3</title>
+      <author ref="#JohnMair">John Mair</author>
+      <respStmt>
+       <name>Jeffrey C. Witt</name>
+       <resp>TEI Encoder</resp>
+      </respStmt>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 3</title>
+       <date when="2020-06-09">June 27, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="B" n="cod-Bda113">Badius 1516</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+     guidelines for a diplomatic edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-06-27" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+      <pb ed="#B" n="360-v"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="jMqv4a-d1e1932"> <!-- l4d49q3 -->
+      <head xml:id="jMqv4a-d1e1932-Hd1e104">Quaestio 3</head>
+      <head xml:id="jMqv4a-d1e1932-Hd1e107" type="question-title">An essentia beatitudinis in uno actu consistat, an pluribus</head>
+      <p xml:id="jMqv4a-d1e1932-d1e110">
+       <lb ed="#B" n="81"/>⁋ Distinctionis Quadragesimaenonae 
+   <lb ed="#B" n="82"/>Quaestio Tertia. 
+   <lb ed="#B" n="83"/>Ertio quaeritur de essen 
+   <lb ed="#B" n="84"/>tia beatitudinis: An in vno 
+   <lb ed="#B" n="85"/>actu consistat, an pluribus. 
+   <lb ed="#B" n="86"/>Hic varii varia dicunt. aliqui 
+   <lb ed="#B" n="87"/>quod beatitudo in recto pro pluri 
+   <lb ed="#B" n="88"/>bus supponit: hoc est pro toto 
+   <lb ed="#B" n="89"/>&amp; aggregato ad beatitudinem 
+   <lb ed="#B" n="90"/>equisito. Sic tenet Holcotus, &amp; Ioannes Burida 
+   <lb ed="#B" n="91"/>nus, purus artista, laboriosus tamen. Addit. Dici
+   po<lb ed="#B" n="92" break="no"/>test quod supponit pro vno actu, siue intellectus, siue 
+   <lb ed="#B" n="93"/>voluntatis caetera connotando. lstud prolixe
+   dedu<lb ed="#B" n="94" break="no"/>cit quaestione quarta. x. Ethicorum: multas rationes 
+   <lb ed="#B" n="95"/>&amp; auctoritates hincinde adducendo. Et quia diffi 
+   <lb ed="#B" n="96"/>cultas est solum verbalis: &amp; non minus inerudite qua 
+   <lb ed="#B" n="97"/>dissute procedit, vt quilibet theologus ingenium 
+   <lb ed="#B" n="98"/>habens facile percipit: non insisto. Dico ad illud quod 
+   <lb ed="#B" n="99"/>beatitudo bifariam capitur. Vno modo collectiue. 
+   <lb ed="#B" n="100"/>&amp; sic pro toto aggregato notitiae intuitiuae dei /
+   dile<lb ed="#B" n="101" break="no"/>ctionis dei clare visi, &amp; gaudii sequentis supponit. 
+   <lb ed="#B" n="102"/>sicut logica accipitur pro multis habitibus
+   logicali<lb ed="#B" n="103" break="no"/>bus. quomodo accipit <name xml:id="jMqv4a-d1e1932-Nd1e162" ref="#Boethius">Boetius.</name> iii. de consolatione 
+   <lb ed="#B" n="104"/>philosophiae: dicens. Beatitudo est status omnium 
+   <lb ed="#B" n="105"/>bonorum aggregatione perfectus. &amp; M. Cicero. v. 
+   <lb ed="#B" n="106"/>lib. Tusculanarum quaestionum. Existimo beatos qui 
+   <lb ed="#B" n="107"/>sunt in bonis nullo adiuncto malo. Et btuns Au- 
+   <!--0753.xml-->
+   <pb ed="#B" n="361-r"/>
+       <cb ed="#B" n="a"/>
+       <lb ed="#B" n="1"/>gustinus. viii. ca. xiii. de Trinitate. Beatus habe 
+   <lb ed="#B" n="2"/>quicquid vult: &amp; nihil mali vult. Alio modo
+   ca<lb ed="#B" n="3" break="no"/>pitur diuisiue pro notitia intuitiua dei: vel pro dilectio 
+   <lb ed="#B" n="4"/>ne dei clare visi: vel pro gaudio sequente. Prima ad 
+   <lb ed="#B" n="5"/>ceptio patet in verbo Christi. loan. xvii. Haec est 
+   <lb ed="#B" n="6"/>vita aeterna vt cognoscant te &amp;c. De secunda primo 
+   <lb ed="#B" n="7"/>de ciuitate dei. c. penul. dicit beatus <name xml:id="jMqv4a-d1e1932-Nd1e195" ref="#Augustine">Augustinus</name> Bea 
+   <lb ed="#B" n="8"/>titudo est summum praemium: quod consistit in actu volun 
+   <lb ed="#B" n="9"/>tatis. &amp; primo de doctrina christiana dicit idem. 
+   <lb ed="#B" n="10"/>Haec est summa merces vt ipso fruamur. De
+   ter<lb ed="#B" n="11" break="no"/>tia acceptione scilicet gaudio, dicitur Ioannis. xvi. 
+   <lb ed="#B" n="12"/>Gaudium vestrum nemo tollet a vobis. Qui ponunt 
+   <lb ed="#B" n="13"/>intellectum esse nobiliorem potentiam voluntate: dicunt 
+   <lb ed="#B" n="14"/>beatitudinem in actu solo intellectus consistere: aliqui 
+   <lb ed="#B" n="15"/>econtrario. sed quodlibet istorum trium / beatitudinem 
+   <lb ed="#B" n="16"/>dico esse: licet vnum aliud exuperet. In omnibus autem 
+   <lb ed="#B" n="17"/>istis acceptionibus loquutus sum de beatitudine 
+   <lb ed="#B" n="18"/>creata &amp; formali. aliqua namque est beatitudo ve 
+   <lb ed="#B" n="19"/>gloria increata, siue obiectiua quae est ipse deus 
+   <lb ed="#B" n="20"/>iuxta illud Psalmographi Psal. iii. Tu autem domine 
+   <lb ed="#B" n="21"/>susceptor meus es, gloria mea &amp;c. 
+  </p>
+      <p xml:id="jMqv4a-d1e1932-d1e229">
+       <lb ed="#B" n="22"/>⁋ His praemissis ponuntur conclusio 
+   <lb ed="#B" n="23"/>nes ad quaestionem responsiuae: quarum Prima est. 
+   <lb ed="#B" n="24"/>Aliqua beatitudo est optima res possibilis.
+  </p>
+      <p xml:id="jMqv4a-d1e1932-d1e239">
+   ⁋
+   Se<lb ed="#B" n="25" break="no"/>cunda conclusio. Aliqua beatitudo est notitia dei. si 
+   <lb ed="#B" n="26"/>militer aliqua beatitudo est dilectio dei.
+  </p>
+      <p xml:id="jMqv4a-d1e1932-d1e246">
+   ⁋ Prim 
+   <lb ed="#B" n="27"/>conclusio probatur sic. Aliqua beatitudo est deus: 
+   <lb ed="#B" n="28"/>ergo aliqua beatitudo est optima res possibilis 
+   <lb ed="#B" n="29"/>Antecedens patet de beatitudine increata. item 
+   <lb ed="#B" n="30"/>deus in lumine naturali lympidissime se intelligit, 
+   <lb ed="#B" n="31"/>&amp; se diligit: &amp; super hoc gaudet, nec dormit, sicut 
+   <lb ed="#B" n="32"/>End vmion in lumine naturali: ergo est beatus. 
+   <lb ed="#B" n="33"/>In super primae ad Timo. vlti. dicit Apostolus. Quem 
+   <lb ed="#B" n="34"/>suis temporibus ostendet beatus &amp; solus potens,
+   re<lb ed="#B" n="35" break="no"/>regum &amp; dominus dominantium. Praeterea obiectum 
+   <lb ed="#B" n="36"/>beatitudinis eius est infinitum, sicut obiectum nostri 
+   <lb ed="#B" n="37"/>beatitudinis. Intellectus quoque &amp; voluntas eius 
+   <lb ed="#B" n="38"/>est infinita: ergo beatitudo eius est infinita. igi 
+   <lb ed="#B" n="39"/>aliqua beatitudo est optima res possibilis. Secun 
+   <lb ed="#B" n="40"/>da conclusio patet ex terminis declaratis. 
+  </p>
+      <p xml:id="jMqv4a-d1e1932-d1e279">
+       <lb ed="#B" n="41"/>⁋ Contra primam conclusionem arguit 
+   <lb ed="#B" n="42"/>sic. Ex ea sequitur quod aliqua beatitudo est beata 
+   <lb ed="#B" n="43"/>consequens est falsum: quia num quam concretum pote st ve 
+   <lb ed="#B" n="44"/>rificari de abstracto. haec enim est falsa, albedo est 
+   <lb ed="#B" n="45"/>alba.
+  </p>
+      <p xml:id="jMqv4a-d1e1932-d1e292">
+   ⁋ Respondetur. concessa sequela nego quod numuen 
+   <lb ed="#B" n="46"/>concretum potest verificari de abstracto. nam interdum co 
+   <lb ed="#B" n="47"/>cretum &amp; abstractum supponunt pro eodem: vt homo &amp; 
+   <lb ed="#B" n="48"/>humanitas: idem &amp; identitas: pater &amp; paternitas.
+   in<lb ed="#B" n="49" break="no"/>terdum impossibiliter concretum &amp; abstractum
+   suppo<lb ed="#B" n="50" break="no"/>nunt pro eodem, saltem deducta ampliatione de
+   imma<lb ed="#B" n="51" break="no"/>ginatur. vt album &amp; albedo.  
+  </p>
+      <p xml:id="jMqv4a-d1e1932-d1e308">
+       <lb ed="#B" n="52"/>⁋ Contra secundam conclusionem 
+   <lb ed="#B" n="53"/>arguitur. Si notitia intuitiua dei sit beatitas: sequi- 
+   <!--0753.xml-->
+   <cb ed="#B" n="b"/> 
+       <!-- 361-r b -->
+       <lb ed="#B" n="54"/>tur haec conclusio de possibili, quod aliquis esset
+   bea<lb ed="#B" n="55" break="no"/>tus qui nec deum diligeret, nec gauderet de dec 
+   <lb ed="#B" n="56"/>viso. consequens est disconveniens. Et quod sequatui 
+   <lb ed="#B" n="57"/>manifestum est supponendo quod deus possit omnium 
+   <lb ed="#B" n="58"/>rerum creatarum distinctarum, quarum neutra est 
+   <lb ed="#B" n="59"/>pars alterius, vnam conseruare reliqua destructa: 
+   <lb ed="#B" n="60"/>&amp; sic haec tria realiter distinguuntur. impraesentiarum 
+   <lb ed="#B" n="61"/>enim supponitur quod deus potest visionem conse 
+   <lb ed="#B" n="62"/>uare non concurrendo ad productionem aliorum 
+   <lb ed="#B" n="63"/>duorum. immo sequitur quod beatus erit miser: po 
+   <lb ed="#B" n="64"/>sito quod habeat aliquis videns deum poenam sine 
+   <lb ed="#B" n="65"/>ratione culpae.
+  </p>
+      <p xml:id="jMqv4a-d1e1932-d1e347">
+   ⁋ Respondetur distinguendo hanc 
+   <lb ed="#B" n="66"/>conclusionem. vel diuisiue capto vocabulo: &amp; sie 
+   <lb ed="#B" n="67"/>potest non improbabiliter concedi: &amp; vlterius quod 
+   <lb ed="#B" n="68"/>possibile est aliquem esse punitum, qui cum hoc 
+   <lb ed="#B" n="69"/>sit beatus: &amp; sit miser miseria poenae. nam Christus 
+   <lb ed="#B" n="70"/>simul erat beatus, &amp; passus est tristitiam, nec vided 
+   <lb ed="#B" n="71"/>contradictionem in hoc: Sortes videt clare deum: 
+   <lb ed="#B" n="72"/>&amp; peccat. Sed si terminus beatitudo capiatur co 
+   <lb ed="#B" n="73"/>lectiue pro illis simul: non sequitur.
+  </p>
+      <p xml:id="jMqv4a-d1e1932-d1e368">
+   ⁋ Sed contra 
+   <lb ed="#B" n="74"/>hoc arguitur. collectiue capto vocabulo potest 
+   <lb ed="#B" n="75"/>quis deum odio habere, &amp; tristari videndo deum 
+   <lb ed="#B" n="76"/>eum diligendo &amp; gaudendo super hoc, quod
+   proba<lb ed="#B" n="77" break="no"/>tur: quia nihil aliud sequitur nisi qualitates contra 
+   <lb ed="#B" n="78"/>rias esse in eodem subiecto. sed hoc non est deo 
+   <lb ed="#B" n="79"/>impossibile. igitur. Respondetur concedendo quod 
+   <lb ed="#B" n="80"/>deus de potentia absoluta possit ponere qualita 
+   <lb ed="#B" n="81"/>tes contrarias in eodem subiecto. sed hoc ad beati 
+   <lb ed="#B" n="82"/>tudinem non sufficit. &amp; dico quod has qualitates ha 
+   <lb ed="#B" n="83"/>bens non est beatus: quia beatitudo supponit pro 
+   <lb ed="#B" n="84"/>illis tribus connotando quod illas habens non
+   ha<lb ed="#B" n="85" break="no"/>beat aliquid aduersum his tribus de commui
+   le<lb ed="#B" n="86" break="no"/>ge. modo in obiectione deficit illa connotatio: &amp; 
+   <lb ed="#B" n="87"/>per consequens suppositio. quare siquis videre 
+   <lb ed="#B" n="88"/>deum &amp; non diligeret eum, &amp; gauderet: non esset
+   bea<lb ed="#B" n="89" break="no"/>tus: quia terminus beatitudo hoc connotat. Quia aute 
+   <lb ed="#B" n="90"/>Christus cum beatitudine habuerit tristitiam: non erat 
+   <lb ed="#B" n="91"/>de lege communi. Ex hoc patet quod beatitudo
+   ma<lb ed="#B" n="92" break="no"/>nebit qualitas in aliquo: quando non erit beatitudo., 
+  </p>
+      <p xml:id="jMqv4a-d1e1932-d1e412">
+       <lb ed="#B" n="93"/>⁋ Tertio arguitur. beatitudo nostra est quod optimum 
+   <lb ed="#B" n="94"/>quia est finis vitae humanae. sed visio dei est
+   acci<lb ed="#B" n="95" break="no"/>dens. similiter dilectio &amp; gaudium. Respondetur.
+   beati<lb ed="#B" n="96" break="no"/>tudo obiectiua debet esse quid optimum: non autem bea 
+   <lb ed="#B" n="97"/>titudo formalis: tamen ipsa est optima qualitas haben 
+   <lb ed="#B" n="98"/>ti. licet enim musca entitatiue praestet beatitudini for 
+   <lb ed="#B" n="99"/>mali: non tamen est adeo bona habenti.
+  </p>
+      <p xml:id="jMqv4a-d1e1932-d1e430">
+   ⁋ Hactenus de 
+   <lb ed="#B" n="100"/>dei beatitudine &amp; beatitate creata quae in aggregato 
+   <lb ed="#B" n="101"/>visionis dei, dilectionis dei clare visi, &amp; gaudii in 
+   <lb ed="#B" n="102"/>de consequentis consistit: si non ponatur aliquid aliud cum 
+   <lb ed="#B" n="103"/>illis de lege communi pugnans. &amp; proportionabiliter 
+   <lb ed="#B" n="104"/>de quolibet istorum dicere potes. 
+  </p>
+    </div>
+   </body>
+  </text>
+</TEI>

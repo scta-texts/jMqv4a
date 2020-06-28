@@ -1,0 +1,630 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 4</title>
+      <author ref="#JohnMair">John Mair</author>
+      <respStmt>
+       <name>Jeffrey C. Witt</name>
+       <resp>TEI Encoder</resp>
+      </respStmt>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 4</title>
+       <date when="2020-06-09">June 27, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="B" n="cod-Bda113">Badius 1516</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+     guidelines for a diplomatic edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-06-27" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+      <pb ed="#B" n="216-r"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="jMqv4a-d1e1150"> <!-- l4d24q4 -->
+      <head xml:id="jMqv4a-d1e1150-Hd1e104">Quaestio 4</head>
+      <head xml:id="jMqv4a-d1e1150-Hd1e107" type="question-title">An accipiens personas in beneficiis ecclesiasticis 
+  peccet</head>
+      <p xml:id="jMqv4a-d1e1150-d1e110">
+       <lb ed="#B" n="68"/>⁋ Distinctionis Vigesimae quartae 
+   <lb ed="#B" n="69"/>Quaestio Quarta. 
+   <lb ed="#B" n="70"/>Varto circa hanc 
+   <lb ed="#B" n="71"/>distinctionem. xxiiii. quia 
+   <lb ed="#B" n="72"/>in ea materiam
+   beneficio<lb ed="#B" n="73" break="no"/>rum tractare vtcumque
+   propo<lb ed="#B" n="74" break="no"/>sui: Quaero: an accipiens 
+   <lb ed="#B" n="75"/>personas in beneficiis ec 
+   <lb ed="#B" n="76"/>clesiasticis peccet.
+  </p>
+      <p xml:id="jMqv4a-d1e1150-d1e132">
+   ⁋ Pro 
+   <lb ed="#B" n="77"/>quaestionis elucidatione 
+   <lb ed="#B" n="78"/>v explicabitur quid sit
+   acce<lb ed="#B" n="79" break="no"/>ptio personarum. quia vt primo Elenchorum dicitur. 
+   <lb ed="#B" n="80"/>necesse est non intelligentem significantias terminorum 
+   <lb ed="#B" n="81"/>paralogizari. ls acceptor personarum dicitur qui per 
+   <lb ed="#B" n="82"/>sonam personae iniuste praefert: siue in conferedo /  
+   <lb ed="#B" n="83"/>siue in acceptando. hoc est tam acceptione actiua 
+   <lb ed="#B" n="84"/>quam passiua. Iniuste) autem sumitur contrarie.
+  </p>
+      <p xml:id="jMqv4a-d1e1150-d1e153">
+   ⁋ Ex 
+   <lb ed="#B" n="85"/>quo sequitur quod deus non est acceptor personatum: 
+   <lb ed="#B" n="86"/>licet teneatur quod gratis praedestinet: &amp; nemo possit 
+   <lb ed="#B" n="87"/>bene agere sine eius ope speciali: quam quidem sua 
+   <lb ed="#B" n="88"/>sponte vni confert &amp; non alteri. hoc patet: quia nul 
+   <lb ed="#B" n="89"/>li est obnoxius: nec flectitur cum regula Lesbia 
+   <lb ed="#B" n="90"/>tortuose: sed regula inobliquabilis est. Illud autem 
+   <lb ed="#B" n="91"/>Petri Actuum. x. In veritate comperi: quia non est 
+   <lb ed="#B" n="92"/>personarum acceptor deus, non concludit
+   opposi<lb ed="#B" n="93" break="no"/>tum: quia putabat Petrus antea fidem solis
+   he<lb ed="#B" n="94" break="no"/>braeis esse praedicandam, sed Cornelio gentili fidem 
+   <lb ed="#B" n="95"/>suscipiente / sciebat Petrus deum velle suscipere 
+   <lb ed="#B" n="96"/>ad fidem gentiles. &amp; sic non solum accepit
+   gen<lb ed="#B" n="97" break="no"/>tem ludiorum. Secundo sequitur quod episcopus confe 
+   <lb ed="#B" n="98"/>rens beneficium vni idoneorum &amp; non alteri / non est
+   ac<lb ed="#B" n="99" break="no"/>ceptor personarum: quia non praefert personam perso 
+   <lb ed="#B" n="100"/>nae / indebite. Tertio sequitur quod romanus
+   ponti<lb ed="#B" n="101" break="no"/>fex dispensans cum duobus regibus quatinus fi 
+   <lb ed="#B" n="102"/>lius &amp; filia matrimonium contrahant gratia belli 
+   <lb ed="#B" n="103"/>sedandi &amp; pacis nutriendae / &amp; non eum duabus 
+   <lb ed="#B" n="104"/>priuatis personis, in quibus habetur haec ratio, non est ac 
+   <lb ed="#B" n="105"/>ceptor personatum. quia hoc non facit indebite. 
+   <lb ed="#B" n="106"/>Quarto sequitur: quod si quis ex ignorantia inuinci 
+   <lb ed="#B" n="107"/>pili beneficium minus idoneo conferat: non est
+   acce<lb ed="#B" n="108" break="no"/>ptor personarum. Quinto sequitur per oppositum: quod 
+   <!--0464.xml-->
+   <pb ed="#B" n="216-v"/>
+       <cb ed="#B" n="a"/>
+       <lb ed="#B" n="1"/>pontifex / rex / vel primarius collegii iniuste perso 
+   <lb ed="#B" n="2"/>nam personae praeferens, est acceptor personarum 
+  </p>
+      <p xml:id="jMqv4a-d1e1150-d1e218">
+       <lb ed="#B" n="3"/>⁋ Significatione vocabuli
+   explica<lb ed="#B" n="4" break="no"/>ta pono conclusionem responsiuam: quae est haec. Omnis 
+   <lb ed="#B" n="5"/>acceptio personatum in beneficiis ecclesiasticis est
+   gra<lb ed="#B" n="6" break="no"/>ue peccatum. &amp; intelligo tam de acceptione actiua 
+   <lb ed="#B" n="7"/>quam passiua. hoc est tam in accipiente quam in dante. Pro 
+   <lb ed="#B" n="8"/>batur conclusio. omnis acceptio personarum est
+   gra<lb ed="#B" n="9" break="no"/>ue peccatum: omnis acceptio personarum in beneficiis
+   ec<lb ed="#B" n="10" break="no"/>clesiasticis est acceptio personarum: ergo omnis talis est 
+   <lb ed="#B" n="11"/>peccatum, consequentia tenet ex primo primae. maior 
+   <lb ed="#B" n="12"/>est clara, saltem quod est peccatum: cum in quid nominis 
+   <lb ed="#B" n="13"/>acceptionis personarum / ponatur (iniuste, Sed dicis. 
+   <lb ed="#B" n="14"/>hoc solum concludit esse peccatum: &amp; non graue
+   pec<lb ed="#B" n="15" break="no"/>tatum. Alias rationes ponam quamlibet personarum 
+   <lb ed="#B" n="16"/>acceptionem in ecclesiastico, concludentes esse graue 
+   <lb ed="#B" n="17"/>peccatum: licet vna sit alia grauior.
+  </p>
+      <p xml:id="jMqv4a-d1e1150-d1e253">
+   ⁋ Et primo sio 
+   <lb ed="#B" n="18"/>robo. acceptio personarum opponitur iustitiae. mo 
+   <lb ed="#B" n="19"/>do iustitia est praeclarissima virtutum. v. Ethicorum primo 
+   <lb ed="#B" n="20"/>&amp; neque est hesperus neque lucifer ita admirabilis. Et 
+   <lb ed="#B" n="21"/>prouerbio (inquit philosophus) dicere solemus: 
+   <lb ed="#B" n="22"/>iustitia in se virtutes continet omnes. modo quanto vir 
+   <lb ed="#B" n="23"/>tus est melior vel eius actus: tanto eius oppositum 
+   <lb ed="#B" n="24"/>est peius, ex doctrina Arist. topica. Praeterea iusti 
+   <lb ed="#B" n="25"/>tiam sacrae historiae bibliacae plurimum extollunt, &amp; 
+   <lb ed="#B" n="26"/>ustos ratione iustitiae: ergo est multum efferenda. an 
+   <lb ed="#B" n="27"/>tecedens patet his testimoniis sacris. lustus vt pal 
+   <lb ed="#B" n="28"/>ma fiorebit. In memoria aeterna erunt iusti. lusti 
+   <lb ed="#B" n="29"/>fulgebunt sicut sol. lustorum animae in manu dei 
+   <lb ed="#B" n="30"/>sunt. Et psal. cy. dicuntur beati. vbi psalmographus 
+   <lb ed="#B" n="31"/>dicit. Beati qui custodiunt iudicium: &amp; faciunt
+   iusti<lb ed="#B" n="32" break="no"/>tiam in omni tempore. Et Matth. v. inter beatitudines 
+   <lb ed="#B" n="33"/>a Christo enumerantur beati qui persecutionem
+   patium<lb ed="#B" n="34" break="no"/>tur propter iustitiam. ergo per locu ab oppositis /
+   iniu<lb ed="#B" n="35" break="no"/>sti sunt miseri, quorum memoria abolebitur de terra 
+   <lb ed="#B" n="36"/>viuentium. Et <name xml:id="jMqv4a-d1e1150-Nd1e296" ref="#Augustine">Augustini</name> iiii. de ciui. dei. iiii. ca. ait. Remo 
+   <lb ed="#B" n="37"/>ta iustitia quid sunt regna nisi latrocinia magna? er 
+   <lb ed="#B" n="38"/>go cum be neficii collator iustitia repudiata
+   Benefi<lb ed="#B" n="39" break="no"/>cium personae inidoneae confert: grauiter delinquit 
+   <lb ed="#B" n="40"/>&amp; quato personae minus idonee: tanto magis delin  
+   <lb ed="#B" n="41"/>quit.
+  </p>
+      <p xml:id="jMqv4a-d1e1150-d1e311">
+   ⁋ Secundo arguitur. illud est graue peccatum quod 
+   <lb ed="#B" n="42"/>est causa virtutis relinquendae, &amp; cofidendi in vitiis. 
+   <lb ed="#B" n="43"/>sed sic est in acceptione personatum in conferendis 
+   <lb ed="#B" n="44"/>beneficiis ecclesiasticis: ergo est grande peccatum. com 
+   <lb ed="#B" n="45"/>sequentia tenet cum maiore. &amp; probatur minor. Nam. cum 
+   <lb ed="#B" n="46"/>eruditi &amp; probi ad honores vocantur sicut Aaron: 
+   <lb ed="#B" n="47"/>alii ad virtutes animantur / quatinus &amp; ipsi postea 
+   <lb ed="#B" n="48"/>honores obtineant. per honores autem locum vel bene 
+   <lb ed="#B" n="49"/>ficia honorifica / &amp; omne illud quod laude dignum a 
+   <lb ed="#B" n="50"/>prudentibus putatur, intelligo, nec illud est pecca 
+   <lb ed="#B" n="51"/>tum: quia non est causa finalis virtutis: sed potius 
+   <lb ed="#B" n="52"/>effectiua eius &amp; inflammatiua. quod enim ad virtutem
+   ho<lb ed="#B" n="53" break="no"/>nor accendat, manifestum est. Honos, inquit. M. 
+   <lb ed="#B" n="54"/>Tullius, alit artes: &amp; omnes ad studia incendimur glersia. 
+   <!--0464.xml-->
+   <cb ed="#B" n="b"/> 
+       <!-- 216-v b -->
+       <lb ed="#B" n="55"/>Simulacrum nanque Alexandri in templo Herculis in  
+   <lb ed="#B" n="56"/>occidentali hesperia lulium Caesarem ad fortiter agen 
+   <lb ed="#B" n="57"/>dum induxit. Non aliam ob causam fortiter
+   pu<lb ed="#B" n="58" break="no"/>gnantibus pro patria triumphus &amp; ouatio apud
+   ma<lb ed="#B" n="59" break="no"/>iores parabatur. hinc Milciadis trophaeum sic
+   Themi<lb ed="#B" n="60" break="no"/>stoclem inflammauit ad gloriam: vt ei nocturnum 
+   <lb ed="#B" n="61"/>somnum eripuerit. Et vt suos ad virtutes animarent 
+   <lb ed="#B" n="62"/>prudentes illi Romani: templo honoris templum vir 
+   <lb ed="#B" n="63"/>tutis coniunxere, vt inquit diuus <name xml:id="jMqv4a-d1e1150-Nd1e367" ref="#Augustine">Augustini</name> v. de
+   ciui<lb ed="#B" n="64" break="no"/>dei. c. xii. insinuantes nulli ad honorem esse aditum: 
+   <lb ed="#B" n="65"/>qui per virtutes gradatim non transiuerit. Nemo est 
+   <lb ed="#B" n="66"/>tam cornea (vt aiunt) fibra, quam spernat honorem. Non 
+   <lb ed="#B" n="67"/>secus honoratiores sedes licentia donandis tam in 
+   <lb ed="#B" n="68"/>theologia quam in artibus conferuntur: nisi vt iuuenes 
+   <lb ed="#B" n="69"/>ad studium, &amp; virtutes tam intellectuales quam appe 
+   <lb ed="#B" n="70"/>titiuas alliciantur. Sufficienter ergo ostensum est hono 
+   <lb ed="#B" n="71"/>res esse virtutum productiuos. &amp; ex consequenti per
+   op<lb ed="#B" n="72" break="no"/>positum, honoris ablatio inertiam &amp; vitia nutrit. Quod 
+   <lb ed="#B" n="73"/>patet a signo. plerique literis apti &amp; ad regendum gre 
+   <lb ed="#B" n="74"/>gem / ad curias principum &amp; tumultus aulicos se con 
+   <lb ed="#B" n="75"/>ferunt vt honoribus potiantur: vbi in schola mo 
+   <lb ed="#B" n="76"/>rum &amp; literarum non proficiunt: sed deficiunt &amp;
+   retroce<lb ed="#B" n="77" break="no"/>dunt, nemo est qui non nouit, non tamen nego quin  
+   <lb ed="#B" n="78"/>vocati ad tumultus aulicos possint illic moram tra 
+   <lb ed="#B" n="79"/>here sine peccato.
+  </p>
+      <p xml:id="jMqv4a-d1e1150-d1e406">
+   ⁋ Tertio arguitur. illud est graue 
+   <lb ed="#B" n="80"/>peccatum quod est causa innumerabilium malorum in to 
+   <lb ed="#B" n="81"/>ta republica. sed sic est de acceptione personarum in  
+   <lb ed="#B" n="82"/>beneficiis ecclesiasticis. igitur. restat solum probare mi 
+   <lb ed="#B" n="83"/>norem. si episcopi essent boni, solum probis benefi 
+   <lb ed="#B" n="84"/>cia ecclesiastica conferrent: &amp; sic verbo &amp; exemplo 
+   <lb ed="#B" n="85"/>seipsos &amp; illiteratos seu laicos erudirent. &amp; per
+   con<lb ed="#B" n="86" break="no"/>sequens tam principes quam laici multo meliores effi 
+   <lb ed="#B" n="87"/>cerentur. &amp; sic cum quolibet episcopo bono, totam 
+   <lb ed="#B" n="88"/>dioecesim bonam haberes. quia ad motum primi mo 
+   <lb ed="#B" n="89"/>bilis mouentur sphaerae inferiores, etiam motu raptus. 
+   <lb ed="#B" n="90"/>alios quippe male natos ad virtutes, sua
+   influen<lb ed="#B" n="91" break="no"/>tia raperent episcopi. Talia enim sunt subiecta qua 
+   <lb ed="#B" n="92"/>lia permittuntur ab eorum praedicatis. iuxta topica re 
+   <lb ed="#B" n="93"/>gulam. &amp; cum necesse sit tam regem quam principes esse 
+   <lb ed="#B" n="94"/>licuius dioecesis: per bonos episcopos totum regnum 
+   <lb ed="#B" n="95"/>diuitiis spiritualibus scilicet bonitate abundabit. 
+   <lb ed="#B" n="96"/>Ad vitia autem quae sunt virtutibus inimica &amp; con 
+   <lb ed="#B" n="97"/>traria, non solum sequi poenam in alio saeculo: sed &amp; 
+   <lb ed="#B" n="98"/>in hoc mundo poena temporariam: gladium nonnunqum 
+   <lb ed="#B" n="99"/>per bella ciuilia: interdum ab hoste extero: famen: &amp; 
+   <lb ed="#B" n="100"/>pestilentias: nemo est nisi infidelis qui dubitet. 
+   <lb ed="#B" n="101"/>vnde Hieremiae. xv. pro peccatis populiinquit
+   pro<lb ed="#B" n="102" break="no"/>pheta in persona domini. Et visitabo super eos quatuor 
+   <lb ed="#B" n="103"/>species dicit dominus. gladium ad occisionem: &amp; canes ad  
+   <lb ed="#B" n="104"/>lacerandum: &amp; volatilia caeli &amp; bestias terrae ad deuo 
+   <lb ed="#B" n="105"/>randum &amp; dissipandum: &amp; dabo eos in feruorem vni 
+   <lb ed="#B" n="106"/>uersis regnis terrae. Et. xxxiiii. ca. eiusdem libri ai 
+   <lb ed="#B" n="107"/>propheta. Ecce ego praedico libertatem, ait dominus, ad 
+   <lb ed="#B" n="108"/>gladium, ad pestem, &amp; ad famen, &amp; dabo vos in con 
+   <lb ed="#B" n="109"/>motionem cunctis regnis terrae. Modo pro regula ser- 
+   <!--0465.xml-->
+   <pb ed="#B" n="217-r"/>
+       <cb ed="#B" n="a"/>
+       <lb ed="#B" n="1"/>uabis, quod ex poenis quas deus pro peccatis: scriptura 
+   <lb ed="#B" n="2"/>pro culpis commemorat / edocemur sufficienter / quare 
+   <lb ed="#B" n="3"/>has tribulationes in nos mittat: quia non est malum in 
+   <lb ed="#B" n="4"/>ciuitate quod non fecit dominus: de malo poenae intelligo 
+   <lb ed="#B" n="5"/>Ecce ergo multa mala quae ex malis epscois sequuntur. 
+  </p>
+      <p xml:id="jMqv4a-d1e1150-d1e491">
+       <lb ed="#B" n="6"/>⁋ Et adhunc idem ostendo sic. dans occasionem damnt 
+   <lb ed="#B" n="7"/>aliquibus / tenetur eos releuare. modo instituens inido 
+   <lb ed="#B" n="8"/>neu dat damni occasionem. Isti namque viri spirituales
+   de<lb ed="#B" n="9" break="no"/>bent esse tanquam bases &amp; colunnae in politia
+   christia<lb ed="#B" n="10" break="no"/>na. modo vbi non est bonum fundamentum: nihil
+   fir<lb ed="#B" n="11" break="no"/>mum superaedificari potest. i qui. i. Cum Paulus. &amp; de praes 
+   <lb ed="#B" n="12"/>byte, non bap. Veniens. Et sicut Salomon in templo 
+   <lb ed="#B" n="13"/>materiali construendo lapides quadratos &amp; politos 
+   <lb ed="#B" n="14"/>accepit: sic debet praelatus pro ecclesia construenda acc 
+   <lb ed="#B" n="15"/>pere viros probos: qui more tesserae vbicumque cadera 
+   <lb ed="#B" n="16"/>contingat, in vnam costarum cadant. Et rursus connexio 
+   <lb ed="#B" n="17"/>virtutum episcopi / &amp; ecclesiastici boni qui spiritualibus 
+   <lb ed="#B" n="18"/>praesunt / regem &amp; principes bonos efficerent vt 
+   <lb ed="#B" n="19"/>diximus. nam mores regios, omnes asseclae seu
+   curia<lb ed="#B" n="20" break="no"/>les libenter insequuntur vt eis complaceant: quia in sua 
+   <lb ed="#B" n="21"/>curia est primum mobile. &amp; sic de quolibus magno 
+   <lb ed="#B" n="22"/>viro in sua domo intelligas. Si autem rex &amp; principes 
+   <lb ed="#B" n="23"/>essent boni: in dignitatibus ecclesiasticis ad se non 
+   <lb ed="#B" n="24"/>pertinentibus, queadmodum sunt episcopatus &amp; bene 
+   <lb ed="#B" n="25"/>ficia, non se ingererent. &amp; si interdum rogarent / pro bonis 
+   <lb ed="#B" n="26"/>&amp; probis intercederent: &amp; boni canonici bonos epi 
+   <lb ed="#B" n="27"/>scopos eligerent. Concludendo itaque quales habes 
+   <lb ed="#B" n="28"/>epos: tales habebis canonicos: &amp; ediuerso. nam 
+   <lb ed="#B" n="29"/>mali canonici &amp; vetemo rubiginoso torpentes num 
+   <lb ed="#B" n="30"/>quam eligunt seuerum &amp; vigilantem episcopum ne eos 
+   <lb ed="#B" n="31"/>puniat. Verbum namque est vulgare, similis similem sibi qua 
+   <lb ed="#B" n="32"/>rit. Episcopus vero improbus ambitiose ingrediens fa 
+   <lb ed="#B" n="33"/>mulis, &amp; aliis indignis / animarum curas committit: qui ad 
+   <lb ed="#B" n="34"/>huc curiam vt plura habeant / insequuntur: deinde plus 
+   <lb ed="#B" n="35"/>offerenti ad firmam cura traditur: quem oportebit &amp;
+   il<lb ed="#B" n="36" break="no"/>literatum &amp; in idoneum esse ad populum regendum. quia
+   li<lb ed="#B" n="37" break="no"/>teratus &amp; prudens nouit aliunde sibi prouidere: nec 
+   <lb ed="#B" n="38"/>datur ei pro suis laboribus praemium condignum:
+   propter<lb ed="#B" n="39" break="no"/>ea onus curae relinquit. Ecce ergo minorem ostensam 
+   <lb ed="#B" n="40"/>quod innumera mala ex acceptione personarum sequum 
+   <lb ed="#B" n="41"/>tur. Et licet in practica sic fiat inidoneorum promotio 
+   <lb ed="#B" n="42"/>syncera tamen speculatiua eam contra rationem
+   osten<lb ed="#B" n="43" break="no"/>dit. Quamuis etiam sit de vita / non tamen de honestate cle 
+   <lb ed="#B" n="44"/>ricorum super altare dei ponere vitulos &amp; hominium simu 
+   <lb ed="#B" n="45"/>lacra muta: doctos quoque ac probos subesse: &amp; ido 
+   <lb ed="#B" n="46"/>la hominium monstra praesse 
+  </p>
+      <p xml:id="jMqv4a-d1e1150-d1e583">
+       <lb ed="#B" n="47"/>⁋ Nunc aliquibus rationibus instabo 
+   <lb ed="#B" n="48"/>contra conclusionem vt distinctius cognoscatur
+   idone<lb ed="#B" n="49" break="no"/>tas. Et arguitur primo sic. in idoneus capiens benefi 
+   <lb ed="#B" n="50"/>cium non tenetur sub poena peccati ipsum resigna 
+   <lb ed="#B" n="51"/>re. ergo ei beneficium conferens non peccat. anteceden 
+   <lb ed="#B" n="52"/>patet: quia paucissimos vel nullos beneficia ratione 
+   <lb ed="#B" n="53"/>peccati euitandi resignantes vides: ergo vel omnes 
+   <lb ed="#B" n="54"/>beneficiati sunt idonei: vel multi sunt in peccatis 
+   <!--0465.xml-->
+   <cb ed="#B" n="b"/> 
+       <!-- 217-r b -->
+       <lb ed="#B" n="55"/>&amp; in illis tandem moriuntur.
+  </p>
+      <p xml:id="jMqv4a-d1e1150-d1e612">
+   ⁋ Respondeo. tam con 
+   <lb ed="#B" n="56"/>sequentia est neganda quam antecedens:
+   quemadmo<lb ed="#B" n="57" break="no"/>dum licet prodigus peccet dado creberrime: tamen capiens 
+   <lb ed="#B" n="58"/>non tenetur restituere datum. Secundo nego antecedens: &amp; dico 
+   <lb ed="#B" n="59"/>quod tenetur resignare beneficium suis humeris impar: &amp; 
+   <lb ed="#B" n="60"/>hoc quando cognoscit se inidoneum, vel cognosce 
+   <lb ed="#B" n="61"/>re tenetur. Ignorantia enim vincibilis non excusat quin 
+   <lb ed="#B" n="62"/>peccet. &amp; concedo quod plerique manent in peccato non 
+   <lb ed="#B" n="63"/>restituendo / quorum multi nunquam faciunt conscien 
+   <lb ed="#B" n="64"/>tiam: etiam manentes in idonei. nam si erat quis
+   im<lb ed="#B" n="65" break="no"/>idoneus tempore acceptionis, peccauit heneficium 
+   <lb ed="#B" n="66"/>quo est indignus acceptando. &amp; eadem ratione quo 
+   <lb ed="#B" n="67"/>libet tempore quo benificium tenet manens
+   ini<lb ed="#B" n="68" break="no"/>doneus. Secundo. sit sortes sciens facere omnia 
+   <lb ed="#B" n="69"/>quae a. beneficio incumbunt, sed tamen occulte malus 
+   <lb ed="#B" n="70"/>&amp; hypocrita. arguitur sic. Sortes tenens a. curam est
+   in<lb ed="#B" n="71" break="no"/>idoneus: &amp; tamen non peccat tenendo a. curam: cum 
+   <lb ed="#B" n="72"/>sciat facere omnia quae illi curae incumbunt. Dicis 
+   <lb ed="#B" n="73"/>forte. potest alios reducere &amp; rectificare se non rectifi 
+   <lb ed="#B" n="74"/>cato. Contra. impossibile est rectificare vmbram 
+   <lb ed="#B" n="75"/>virga illius effectiua non rectificata. ergo non potest 
+   <lb ed="#B" n="76"/>alios rectificare nisi se rectificet. Respondetur. si sit 
+   <lb ed="#B" n="77"/>occulte malus lasciuus vel auarus: nolo dicere quod 
+   <lb ed="#B" n="78"/>peccet tenendo beneficium: sed bene moraliter agit 
+   <lb ed="#B" n="79"/>licet non meritorie / manendo in peccato
+   occulto<lb ed="#B" n="80" break="no"/>nec est simile de vmbra &amp; virga: vtpote in effectu 
+   <lb ed="#B" n="81"/>&amp; causa naturali: &amp; in agente libero. Vlterius dico. 
+   <lb ed="#B" n="82"/>licet homo labatur in peccatum publicum vel
+   no<lb ed="#B" n="83" break="no"/>torium carnis, quod maximae infamiae est in vulgo  
+   <lb ed="#B" n="84"/>non tamen tenetur restituere beneficium, modo 
+   <lb ed="#B" n="85"/>sit in proposito efficaci emendandae vitae: quia suc 
+   <lb ed="#B" n="86"/>cessu temporis ostendet se in alium virum muta 
+   <lb ed="#B" n="87"/>tum. Oppositum autem est nimis durum. nam considera 
+   <lb ed="#B" n="88"/>re oportet, homines nos esse: &amp; non esse arborem sine 
+   <lb ed="#B" n="89"/>nodo. Propterea non opinor cum dicentibus quod 
+   <lb ed="#B" n="90"/>existens in mortali non facit fructus suos in
+   be<lb ed="#B" n="91" break="no"/>neficio.
+  </p>
+      <p xml:id="jMqv4a-d1e1150-d1e693">
+   ⁋ Sed contra istud argumentor. bonitas
+   pu<lb ed="#B" n="92" break="no"/>tata hypocritae fuit causa quare bonus episcopus 
+   <lb ed="#B" n="93"/>huic beneficium contulit / qui reuera est hypocrita 
+   <lb ed="#B" n="94"/>modo deficiente causa deficit effectus. ergo cum 
+   <lb ed="#B" n="95"/>non esset intentio episcopi ei conferre beneficium: non 
+   <lb ed="#B" n="96"/>habet iustum titulum in eo: &amp; per consequens ad resigna 
+   <lb ed="#B" n="97"/>tionem tenetur. sicut diues simulans se pauperem / elee 
+   <lb ed="#B" n="98"/>mosynam capiendo: eam restituere tenetur. Respondetur
+   conce<lb ed="#B" n="99" break="no"/>dendo quod bonitas morum fuit vna causarum quaere da 
+   <lb ed="#B" n="100"/>batur huic beneficium. sed idoneitas est casa praecipua: &amp; alia 
+   <lb ed="#B" n="101"/>debes reputari accidentatia. alioquin no esset stabilimen 
+   <lb ed="#B" n="102"/>tum in coscientiis hominium de retinendis beneficiis. Et
+   lic<lb ed="#B" n="103" break="no"/>epus non intenderet conferre huic beneficium nisi
+   stan<lb ed="#B" n="104" break="no"/>tibus his duabus causis: tamen intentio cadens 
+   <lb ed="#B" n="105"/>super vnam causam est praeter rationem: si intendit quod 
+   <lb ed="#B" n="106"/>non haberet beneficium &amp; ipsum restitueret si non
+   ha<lb ed="#B" n="107" break="no"/>beret illa duo. Nec exemplum adductum de diuite con 
+   <lb ed="#B" n="108"/>cludit quia reuera diues non est obiectum
+   eleemo<lb ed="#B" n="109" break="no"/>synae: sed omnino esset simile si aliquis nebulo 
+   <!--0466.xml-->
+   <pb ed="#B" n="217-v"/>
+       <cb ed="#B" n="a"/>
+       <lb ed="#B" n="1"/>fingeret se esse bonum vt haberet eleemosynam: quod 
+   <lb ed="#B" n="2"/>reuera sit pauper &amp; malus. ls enim non tenetur restitu 
+   <lb ed="#B" n="3"/>ere eleemosynam acceptam, quae litercumque intenderetdans 
+   <lb ed="#B" n="4"/>illi conferre, cum in potentia propiqua sit capax.
+  </p>
+      <p xml:id="jMqv4a-d1e1150-d1e750">
+   ⁋
+   Ter<lb ed="#B" n="5" break="no"/>tio arguitur. quilibet est reputadus bonus &amp; idoneus 
+   <lb ed="#B" n="6"/>donec conster de opposito. de praesump. c. Dudum. 
+   <lb ed="#B" n="7"/>Sortes quem non noui est huiusmodi. igitur. sed stat talem 
+   <lb ed="#B" n="8"/>esse inidoneum. ergo conclusio falsa.
+  </p>
+      <p xml:id="jMqv4a-d1e1150-d1e761">
+   ⁋ Respondetur 
+   <lb ed="#B" n="9"/>licet non tenear elicere iudicium de alio: tamen si aliquod eli 
+   <lb ed="#B" n="10"/>ciam, debeo assentire quod sit bonus quando non costat 
+   <lb ed="#B" n="11"/>de opposito. &amp; licet sit iudicium erroneum / non refert 
+   <lb ed="#B" n="12"/>Hoc enim sufficit. nam ille assensus est mihi ignorantia 
+   <lb ed="#B" n="13"/>inuincibilis. quod autem ita iudicandum sit convincitur ex vet 
+   <lb ed="#B" n="14"/>bo Christi. Matth. vii. Nolite iudicare &amp; non iudi 
+   <lb ed="#B" n="15"/>cabimini. nolite condemnate &amp; non condemnabimini. 
+   <lb ed="#B" n="16"/>Sed propterea non debeo iudicare eum bonum pastorem. 
+   <lb ed="#B" n="17"/>aliud namque est esse bonum virum &amp; bonum canonicum: 
+   <lb ed="#B" n="18"/>vel bonu curatum. sicut primo poli. dicit Aristi non esse 
+   <lb ed="#B" n="19"/>idem esse bonum virum &amp; bonum ciuem. Non enim te fugit ad 
+   <lb ed="#B" n="20"/>varia officia / variam explorationem requiri. nam ad
+   con<lb ed="#B" n="21" break="no"/>uiuendum in mundo cum aliquo sufficit iudicare eum bo 
+   <lb ed="#B" n="22"/>num. sed si velis extruere domum, vel habere generum 
+   <lb ed="#B" n="23"/>pro filia: aliam faceres inquisitionem pro perito latomo 
+   <lb ed="#B" n="24"/>vel idoneo genero.
+  </p>
+      <p xml:id="jMqv4a-d1e1150-d1e798">
+   ⁋ Quarto arguitur. habeat sor 
+   <lb ed="#B" n="25"/>tes beneficium a vero collatore tempore quo est inidone 
+   <lb ed="#B" n="26"/>postea improbo labore literis &amp; moribus proficiat: ita 
+   <lb ed="#B" n="27"/>vt euadat idoneus in a. tempore. tunc sic. iste non tenetur 
+   <lb ed="#B" n="28"/>relinquere beneficium: &amp; tamen in ipso fuit acceptio 
+   <lb ed="#B" n="29"/>personarum passiua: quia non iuste detinuit beneficium 
+   <lb ed="#B" n="30"/>toto tempore quo erat in idoneus: &amp; nunc quando est
+   ido<lb ed="#B" n="31" break="no"/>neus non habet collationem denuo. ergo nunc tenetur 
+   <lb ed="#B" n="32"/>relinquare beneficium.
+  </p>
+      <p xml:id="jMqv4a-d1e1150-d1e819">
+   ⁋ Hic respondet Panor. in. c. qualiter 
+   <lb ed="#B" n="33"/>de cleri. tenendo quod tenetur relinquare beneficium, quod tempore 
+   <lb ed="#B" n="34"/>inidoneitatis habuit collatum. &amp; licet aliquid apparem 
+   <lb ed="#B" n="35"/>tiae in hoc sit: nolo esse ita rigidus: &amp; existimo illud 
+   <lb ed="#B" n="36"/>falsum. Vnde sic arguo. collator fecit quod in se erat 
+   <lb ed="#B" n="37"/>ad conferendum huic beneficium: nec reuocat toto 
+   <lb ed="#B" n="38"/>tpeinidoneitatis: &amp; nihil obstat quin iste iuste / iure 
+   <lb ed="#B" n="39"/>fori &amp; iure poli semper habuisset beneficium nisi quia 
+   <lb ed="#B" n="40"/>erat in idoneus, nunc autem est idoneus: &amp; episcopi con 
+   <lb ed="#B" n="41"/>sensus tacitus &amp; virtualis habetur, non enim requiritur 
+   <lb ed="#B" n="42"/>denuo aliquis consensus actualis ipsius
+   collato<lb ed="#B" n="43" break="no"/>ris. Et potest dari quodammodo analogia. Si Sortes 
+   <lb ed="#B" n="44"/>&amp; Berta contrahant in facie ecclesiae / sorte animo dis 
+   <lb ed="#B" n="45"/>sentiente &amp; Berta consentiente: Sorte tamen 
+   <lb ed="#B" n="46"/>postea consentiente, &amp; Berta nunquam amplius
+   ha<lb ed="#B" n="47" break="no"/>bente consensum: super hoc manet consensus sor 
+   <lb ed="#B" n="48"/>tis occultus. &amp; forte istud sufficit ad verum
+   matri<lb ed="#B" n="49" break="no"/>monium. &amp; si sic: manuductionem sufficientem
+   ha<lb ed="#B" n="50" break="no"/>bes. Sed quicquid sit de illo: dico sufficere quod dictum 
+   <lb ed="#B" n="51"/>est in matrimonio spirituali: quod inter praelatum 
+   <lb ed="#B" n="52"/>&amp; ecclesiam contrahitur: immo inter quemlibet be 
+   <lb ed="#B" n="53"/>neficiatum &amp; ecclesiam licet alii praelatos magni 
+   <lb ed="#B" n="54"/>ficantes dicant hoc solum verum in magnis prae 
+   <lb ed="#B" n="55"/>latis. in signum cuius annulum portant. sed paru 
+   <!--0466.xml-->
+   <cb ed="#B" n="b"/> 
+       <!-- 217-v b -->
+       <lb ed="#B" n="56"/>hoc facit: eadem enim est sententia: &amp; est solorum
+   ver<lb ed="#B" n="57" break="no"/>borum multiplicatio. Sed contra hoc arguitur, non 
+   <lb ed="#B" n="58"/>firmatur tractu temporis quod de iure ab initio non
+   sub<lb ed="#B" n="59" break="no"/>sistit. per regulam iuris. lib. vi. &amp;. itt. eo. ti 
+   <lb ed="#B" n="60"/>initio. Respondeo. ex parte collatoris non erat
+   defe<lb ed="#B" n="61" break="no"/>ctus ab initio: sed ex parte in idoneitatis suscipientis 
+   <lb ed="#B" n="62"/>Secundo dico quod regula illa intelligitur si omnia caetera 
+   <lb ed="#B" n="63"/>maneant paria: puta in simili inidoneitate. &amp; potes l 
+   <lb ed="#B" n="64"/>videre in analogia quam dedimus. &amp; ostenditur al 
+   <lb ed="#B" n="65"/>de. nam si habeam equum sortis furto ab 
+   <lb ed="#B" n="66"/>ipse transferat in me dominium eius: iam iuste teneo 
+   <lb ed="#B" n="67"/>equum quem iniuste ab initio habui. Contra ln 
+   <lb ed="#B" n="68"/>arguitur. ergo si quis esset inidoneus ob defect 
+   <lb ed="#B" n="69"/>tiae vel aliud tempore electionis ad dignitatem aliquoi 
+   <lb ed="#B" n="70"/>&amp; tempore confirmationis idoneus: is esset confirma 
+   <lb ed="#B" n="71"/>dus. consequens est falsum. vt patet de elect. c. 
+   <lb ed="#B" n="72"/>Qualiter. Et confirmatur. ad iustam electionem duo in 
+   <lb ed="#B" n="73"/>runtur / scilicet idoneitas: &amp; eligi ab his ad
+   quo<lb ed="#B" n="74" break="no"/>tinet. modo tempore electionis ille est inidoneus: er 
+   <lb ed="#B" n="75"/>go est ineligibilis. Respondetur. ex dictis non se 
+   <lb ed="#B" n="76"/>quitur. ratio est: quia non habet totum iu 
+   <lb ed="#B" n="77"/>tum in foro exteriori, non enim sufficit electio qui 
+   <lb ed="#B" n="78"/>usque sit confirmatus. ergo concedendo
+   conclusio<lb ed="#B" n="79" break="no"/>nem quam posui / sum adhuc liber ad opinandum. 
+   <lb ed="#B" n="80"/>&amp; quicquid dicat Panor. in illo. c. Qualiter. concedo  
+   <lb ed="#B" n="81"/>episcopus potest talem confirmare cu est idoneus tempore 
+   <lb ed="#B" n="82"/>quo est ei oblatus: &amp; aliidederunt ius quod dare po 
+   <lb ed="#B" n="83"/>terant. Nec illud cap. iuuat. quia illic nihil dicitur 
+   <lb ed="#B" n="84"/>de hoc an esset idoneus ante confirmationem. &amp; 
+   <lb ed="#B" n="85"/>non idoneus non efficitur in tam angusto tempore 
+   <lb ed="#B" n="86"/>idoneus, nisi fonte caballino labra proluerit. et si 
+   <lb ed="#B" n="87"/>idoneus tunc fuisset / poterat papa electionem con 
+   <lb ed="#B" n="88"/>firmare: licet non esset necessarium talem confirma 
+   <lb ed="#B" n="89"/>re propter alterutram illarum causarum: scilicet quia
+   ad<lb ed="#B" n="90" break="no"/>ministrauit ante consecrationem, &amp; passus est de 
+   <lb ed="#B" n="91"/>fectum scientiae ad episcopatum requisitae. Ad 
+   <lb ed="#B" n="92"/>confirmationem concedo quod duo illa copulatim ad 
+   <lb ed="#B" n="93"/>iustam electionem requiruntur / ad hoc vt quis
+   benefi<lb ed="#B" n="94" break="no"/>cium teneat: nisi sit ignorantia inuincibilis: vel nul 
+   <lb ed="#B" n="95"/>li idonei reperiantur. &amp; quamdiu ista duo simul non po 
+   <lb ed="#B" n="96"/>nantur: iniuste beneficium tenet. propterea tempore 
+   <lb ed="#B" n="97"/>inidoneitatis &amp; capiens &amp; dans peccat. Ad hoc sa 
+   <lb ed="#B" n="98"/>tis responsum est. Potes replicare de electo simo 
+   <lb ed="#B" n="99"/>niace si maximus pontifex illam electionem
+   con<lb ed="#B" n="100" break="no"/>firmet. qui si alioquin sit idoneus: iuste beneficium 
+   <lb ed="#B" n="101"/>post confirmationem tenebit. sed non est
+   difficul<lb ed="#B" n="102" break="no"/>tas.
+  </p>
+      <p xml:id="jMqv4a-d1e1150-d1e980">
+   ⁋ Quinto arguitur. Ex conclusione sequitur 
+   <lb ed="#B" n="103"/>quod senex cum in inidoneitatem descendit / tenetur 
+   <lb ed="#B" n="104"/>beneficium relinquere, consequens est durum. &amp; quod 
+   <lb ed="#B" n="105"/>sequatur notum est ex conclusione. cum duo ad te 
+   <lb ed="#B" n="106"/>nendum beneficium cum sana conscientia requia 
+   <lb ed="#B" n="107"/>rantur: scilicet idoneitas: &amp; collatio ab illo ad quem 
+   <lb ed="#B" n="108"/>spectat. &amp; quod tu possis esse inidoneus propter sene 
+   <lb ed="#B" n="109"/>ctutem patet ratione: quia non potes fortasse egre 
+   <lb ed="#B" n="110"/>didomum &amp; facere illa quae beneficio incumbunt. Item expe 
+   <!--0467.xml-->
+   <pb ed="#B" n="218-r"/>
+       <cb ed="#B" n="a"/>
+       <lb ed="#B" n="1"/>tientia videmus quod in bona aetate homines plus rati 
+   <lb ed="#B" n="2"/>nis incipiunt habre: aliqui citius, aliqui tardius: &amp; sicut ratio 
+   <lb ed="#B" n="3"/>successiue crescit, ita sensim euanescit. incipiat ei 
+   <lb ed="#B" n="4"/>go sortes in sexagesimo anno minus rationis habre qua 
+   <lb ed="#B" n="5"/>antea: cum tota ratio sit finita: &amp; omne finitum per
+   abla<lb ed="#B" n="6" break="no"/>tionem finiti tandem absumatur. primo Physi. nihil tandem 
+   <lb ed="#B" n="7"/>rationis remanebit. &amp; propterea prouerbio dicimus / senes 
+   <lb ed="#B" n="8"/>esse bis pueros. nam alterationem corporis alteratio mem 
+   <lb ed="#B" n="9"/>tis sequitur. Hinc dicit Alanus. Vtribus antiquis vi 
+   <lb ed="#B" n="10"/>num committere noli. Nec senibus sensum quem
+   re<lb ed="#B" n="11" break="no"/>tinere velis. Et Horatius senum incommoda recitans 
+   <lb ed="#B" n="12"/>sic inquit. Difficilis, querulus, laudator temporis acti 
+  </p>
+      <p xml:id="jMqv4a-d1e1150-d1e1032">
+       <lb ed="#B" n="13"/>⁋ Ad quintum respondetur. dato quod esset senex omino ad 
+   <lb ed="#B" n="14"/>pueritia mentis descendens: durum mihi videtur quod
+   te<lb ed="#B" n="15" break="no"/>neatur beneficium relinquanre, cum iam sit miles emeritus 
+   <lb ed="#B" n="16"/>&amp; fixerit armaad postem Herculis: &amp; bene meritus sit 
+   <lb ed="#B" n="17"/>de politia ecclesiastica, nego ergo quod tenetur reline 
+   <lb ed="#B" n="18"/>re beneficium nisi habeat aliunde prouisionem vt alatur: 
+   <lb ed="#B" n="19"/>vel ab episcopo / vel ex patrimonio: vel collectam 
+   <lb ed="#B" n="20"/>pecuniam ad emendum vitalitium. &amp; oportet dare ei
+   co<lb ed="#B" n="21" break="no"/>adiutorem quia parochianis vel ab episcopo
+   nu<lb ed="#B" n="22" break="no"/>trietur. quia dicere oppositum / esset dare occasio 
+   <lb ed="#B" n="23"/>nem probis viris non impendendi omneum operam suam in subi 
+   <lb ed="#B" n="24"/>iectam materiam: sed sibi prouidendi. Nec huic
+   senten<lb ed="#B" n="25" break="no"/>tiae obuiat. c. Cum percussio. de cleri. aegro. vel debi. &amp; 
+   <lb ed="#B" n="26"/>cap. sequentia de leproso. Si vtrique sufficiat bene 
+   <lb ed="#B" n="27"/>ficium, partiatur inter eos. sin minus / alatur ipse ex benefi 
+   <lb ed="#B" n="28"/>cio / &amp; alteri pronideat epsous. Secundo dico, quando homo inci 
+   <lb ed="#B" n="29"/>pit esse minus idoneus propter senium / vel quaecumque alia ratio 
+   <lb ed="#B" n="30"/>ne: probe ageret alteri cedendo: more illius boni Vale 
+   <lb ed="#B" n="31"/>rii epi Hipponensis: qui <name xml:id="jMqv4a-d1e1150-Nd1e1075" ref="#Augustine">Augustino</name> cessit: Petri Da 
+   <lb ed="#B" n="32"/>miani: Alberti magni / &amp; sancti Baldredi. Tertio 
+   <lb ed="#B" n="33"/>dico quod senes si temperati fuerint &amp; bene nati / quanto 
+   <lb ed="#B" n="34"/>magis colligunt in annis: tanto deuotiores &amp; magis 
+   <lb ed="#B" n="35"/>idonei efficiuntur. nam per rerum experientias plus proficiunt 
+   <lb ed="#B" n="36"/>quam carnis alteratione deficiant. &amp; licet non possint sic 
+   <lb ed="#B" n="37"/>suo officio incumbere vt in iuuentute: tamen verbo 
+   <lb ed="#B" n="38"/>&amp; exemplo possunt illud supplere. vnde M. Tui 
+   <lb ed="#B" n="39"/>lius in Catone maiore seu de senectute sic inquit. 
+   <lb ed="#B" n="40"/>Non viribus / aut velocitatibus, aut celeritate corpo 
+   <lb ed="#B" n="41"/>rum res magnae geruntur: sed consilio / auctoritate / &amp; 
+   <lb ed="#B" n="42"/>sententia: quibus non modo non orbari: sed etiam auger 
+   <lb ed="#B" n="43"/>solet senectus. Quod perbelle per operarios in naui ex 
+   <lb ed="#B" n="44"/>plicat. nam clauum in puppi quietus tenens / non est
+   mi<lb ed="#B" n="45" break="no"/>nus vtilis quam sentinam exhauriens. Et paulo post in  
+   <lb ed="#B" n="46"/>quit. Quia si legere aut audire velitis, externas &amp; 
+   <lb ed="#B" n="47"/>maximas respublicas per adolescentes
+   labefa<lb ed="#B" n="48" break="no"/>ctatas, a senibus sustentatas &amp; restitutas
+   reperie<lb ed="#B" n="49" break="no"/>tis. Florentis namque aetatis temeritas est passio: pru 
+   <lb ed="#B" n="50"/>dentia senectutis. Plerosque senes in medium affert 
+   <lb ed="#B" n="51"/>qui plurimum in senecta polluerunt: vt Sophocle 
+   <lb ed="#B" n="52"/>Hesiodum, Simonidem, Homerum / Democritum / Plato 
+   <lb ed="#B" n="53"/>nem, &amp; Diogenem Stoicum eius contemporaneum. Cui
+   al<lb ed="#B" n="54" break="no"/>ludit illud Homericum in primo lliados de
+   Nesto<lb ed="#B" n="55" break="no"/>re / qui tertiam viuebat aetatem: &amp; tamen ex ore senis du 
+   <!--0467.xml-->
+   <cb ed="#B" n="b"/> 
+       <!-- 218-r b -->
+       <lb ed="#B" n="56"/>cior melle fluebat oratio. ldipsum per viros Heroi 
+   <lb ed="#B" n="57"/>cos legis gratiae illis longe praestantiores probare pos 
+   <lb ed="#B" n="58"/>sum. Nam btuns Simodo Chananeus vicesimum
+   su<lb ed="#B" n="59" break="no"/>pra centesimum vitae agens annum / non sine magna 
+   <lb ed="#B" n="60"/>gentilium admiratione pro Christi fide vitam in mortem 
+   <lb ed="#B" n="61"/>commutauit. De loanne euangelista / Hieronymo 
+   <lb ed="#B" n="62"/>&amp; <name xml:id="jMqv4a-d1e1150-Nd1e1152" ref="#Augustine">Augustino</name> egregiis viris &amp; de aliis innumeris cae 
+   <lb ed="#B" n="63"/>lo dignis in lege gratiae idem inuenies: qui corpus Chri 
+   <lb ed="#B" n="64"/>sti mysticum scripto &amp; vitae exemplo instituerunt 
+   <lb ed="#B" n="65"/>Nonne medicus corporis senex, ob longas experientias 
+   <lb ed="#B" n="66"/>licet minus de theoricis calleat, iuueni medico est 
+   <lb ed="#B" n="67"/>praeferendus? Quare ergo hoc negabis de medi 
+   <lb ed="#B" n="68"/>co spirituali, cum dium vixiti, licet mortaliter crebro 
+   <lb ed="#B" n="69"/>deliquerit? Tota enim gratia &amp; merita in poeniten 
+   <lb ed="#B" n="70"/>tia cum ipso resurgunt, quod iuuenis, licet sanctius 
+   <lb ed="#B" n="71"/>vixerit / non habet. ista autem plurimum iuuant ad 
+   <lb ed="#B" n="72"/>bene viuendum. Vltimo dico quod homo non pro 
+   <lb ed="#B" n="73"/>portionabiliter amittit rationem tendendo ad
+   mor<lb ed="#B" n="74" break="no"/>tem naturalem: sicut eam acquisiuit cum primo an 
+   <lb ed="#B" n="75"/>nos discretionis ingressus est. hoc tibi sensibiliter 
+   <lb ed="#B" n="76"/>ostenditur. nam in quantitate corporis sui
+   acqui<lb ed="#B" n="77" break="no"/>rit tantum in vigintiquatuor annis, &amp; plus, quam in to 
+   <lb ed="#B" n="78"/>ta vita amittat. &amp; contingit quod septem pedes in 
+   <lb ed="#B" n="79"/>annorum curriculo signato acquirat, &amp; vix
+   di<lb ed="#B" n="80" break="no"/>midium in centum amittat. Nec etiam ratio 
+   <lb ed="#B" n="81"/>tanta velocitate proportionabiliter, sicut corpus 
+   <lb ed="#B" n="82"/>diminuitur. Non me fugit quin iuuenis insolubi 
+   <lb ed="#B" n="83"/>lia / obligationes, &amp; caeteros nexus prae manibus 
+   <lb ed="#B" n="84"/>habens, se alterum Origenem vel Hieronymum exi 
+   <lb ed="#B" n="85"/>stimet.
+  </p>
+      <p xml:id="jMqv4a-d1e1150-d1e1206">
+   ⁋ Sexto. reliquat episcopus breue aliquod 
+   <lb ed="#B" n="86"/>de beneficiis dandis (vt moris est) suo vicario: i 
+   <lb ed="#B" n="87"/>quo ponat inidoneos. Arguitur sic. collator non pec 
+   <lb ed="#B" n="88"/>cat eis beneficium conferendo. ergo conclusio
+   fal<lb ed="#B" n="89" break="no"/>sa.
+  </p>
+      <p xml:id="jMqv4a-d1e1150-d1e1217">
+   ⁋ Respondetur negando quod non peccat: quia coopera 
+   <lb ed="#B" n="90"/>tur peccato episcopi: &amp; per consequens male agit. Nam 
+   <lb ed="#B" n="91"/>tenetur beneficium dare idoneo, esto promisit contrarium 
+   <lb ed="#B" n="92"/>Melius enim est deo parere quam hominibus. Actuum 
+   <lb ed="#B" n="93"/>v. &amp; in turpi voto mutandum est promissum.
+  </p>
+      <p xml:id="jMqv4a-d1e1150-d1e1228">
+   ⁋
+   Ec<lb ed="#B" n="94" break="no"/>ce quid sit perso narum acceptio: &amp; qui sit graue
+   pec<lb ed="#B" n="95" break="no"/>catum in politia ecclesiastica: &amp; quod collator benefi 
+   <lb ed="#B" n="96"/>cii grauiter peccat ipsum inidoneo conferendo. 
+   <lb ed="#B" n="97"/>vel ad hoc cooperando. Ex quo sequitur: quod
+   ca<lb ed="#B" n="98" break="no"/>nonici eligentes episcopum inidoneum grauiter pec 
+   <lb ed="#B" n="99"/>cant: quia cooperantur ad inidonei promotione 
+   <lb ed="#B" n="100"/>&amp; cum debeat esse caput in tota dioecesi, augetur 
+   <lb ed="#B" n="101"/>peccatum. vt enim vulgo circumfertur, dum caputi 
+   <lb ed="#B" n="102"/>aegrotat / caetera membra dolent. Vlterius patet 
+   <lb ed="#B" n="103"/>quod in idoneus se inidoneum sciens / vel qui scire 
+   <lb ed="#B" n="104"/>tenetur: beneficium suscipiendo peccat: &amp; ipsum 
+   <lb ed="#B" n="105"/>tenetur restituere si notabiliter a latitudine idoneita 
+   <lb ed="#B" n="106"/>tis distet. nam quod parum distat / nihil distare videtur 
+   <lb ed="#B" n="107"/>secundo Physicorum. Potest autem esse tam parua dei 
+   <lb ed="#B" n="108"/>stantia a latitudine idoneitatis vt sit solum venia 
+   <lb ed="#B" n="109"/>le peccatum / beneficium suscipiendo vel dando.  
+   <lb ed="#B" n="110"/>Sed vbi incipit esse idoneus: beneficium tempore 
+   <!--0468.xml-->
+   <pb ed="#B" n="218-v"/>
+       <cb ed="#B" n="a"/>
+       <lb ed="#B" n="1"/>inidoneitatis acceptum, restituere non tenetur, nec 
+   <lb ed="#B" n="2"/>etiam senex: etiansi sit minus aptus ad beneficium 
+   <lb ed="#B" n="3"/>quam cum esset iuuenis: qui tamen nonnunquam est
+   iu<lb ed="#B" n="4" break="no"/>uene magis idoneus. Cum his omnibus stat quod in
+   ido<lb ed="#B" n="5" break="no"/>neo conferendum est beneficium quando putatur
+   er<lb ed="#B" n="6" break="no"/>rore inuincibili esse maxime idoneus: vel si non ha 
+   <lb ed="#B" n="7"/>beatur idoneus. nam vbi non est marpesia cautes: 
+   <lb ed="#B" n="8"/>ex latere coctili aedificandum est. etiam aliquis est 
+   <lb ed="#B" n="9"/>bonus homo &amp; malus pastor, &amp; contra. 
+  </p>
+    </div>
+   </body>
+  </text>
+</TEI>

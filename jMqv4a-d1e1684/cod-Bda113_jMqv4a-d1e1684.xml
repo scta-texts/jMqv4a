@@ -1,0 +1,460 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 23</title>
+      <author ref="#JohnMair">John Mair</author>
+      <respStmt>
+       <name>Jeffrey C. Witt</name>
+       <resp>TEI Encoder</resp>
+      </respStmt>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 23</title>
+       <date when="2020-06-09">June 27, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="B" n="cod-Bda113">Badius 1516</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+     guidelines for a diplomatic edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-06-27" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+      <pb ed="#B" n="315-r"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="jMqv4a-d1e1684"> <!-- l4d38q23 -->
+      <head xml:id="jMqv4a-d1e1684-Hd1e104">Quaestio 23</head>
+      <head xml:id="jMqv4a-d1e1684-Hd1e107" type="question-title">An Carthusia sit religionum optima</head>
+      <p xml:id="jMqv4a-d1e1684-d1e110">
+       <lb ed="#B" n="98"/>⁋ Distinctionis Trigesimae octauae 
+   <lb ed="#B" n="99"/>Quaestio Vigesimatertia 
+   <lb ed="#B" n="100"/>Vas quaestiones nunc 
+   <lb ed="#B" n="101"/>scribere propono de Carthust 
+   <lb ed="#B" n="102"/>lensium ordine: quem aliqui impru 
+   <lb ed="#B" n="103"/>ldenter deprimunt: alii non satis 
+   <lb ed="#B" n="104"/>vt par est efferunt. Sit ergo pri 
+   <lb ed="#B" n="105"/>or quaestio. An Carthusia sit ri 
+   <lb ed="#B" n="106"/>ligionum optima. Ad quam 
+   <lb ed="#B" n="107"/>&amp; respondeo hac conelusione. 
+   <!--0662.xml-->
+   <pb ed="#B" n="315-v"/>
+       <cb ed="#B" n="a"/>
+       <lb ed="#B" n="1"/>Nulla inter religiones omnes Carthusiam in
+   boni<lb ed="#B" n="2" break="no"/>tate &amp; securitate transcendit. loquor de religionibus 
+   <lb ed="#B" n="3"/>factitiis &amp; vulgaribus: sicut vulgo capimus
+   religio<lb ed="#B" n="4" break="no"/>nem. &amp; intelligo tam inter mendicantes quam non men 
+   <lb ed="#B" n="5"/>dicantes. Supposito pro fundamento certo quod re 
+   <lb ed="#B" n="6"/>ligio vulgaris non est perfectio sed perfectionis
+   in<lb ed="#B" n="7" break="no"/>strumentum, ad hominem praeseruandum a peccato:
+   si<lb ed="#B" n="8" break="no"/>cut medicina praeseruatiua sumitur ad praeseruandum 
+   <lb ed="#B" n="9"/>hominem ne in morbum labatur. Religio etiam com 
+   <lb ed="#B" n="10"/>paratur cuidam naui praeseruaturae hominem in hoc 
+   <lb ed="#B" n="11"/>mati magno vt ad portum scilicet patriam deue 
+   <lb ed="#B" n="12"/>niat. Omnes enim ad patriam eandem tendimus, variis na 
+   <lb ed="#B" n="13"/>uibus vecti: &amp; per varia itinera: &amp; quolibet die / qua 
+   <lb ed="#B" n="14"/>libet hora, quolibet momento ad mortem
+   tendi<lb ed="#B" n="15" break="no"/>mus: tacitisque senescimus annis.
+  </p>
+      <p xml:id="jMqv4a-d1e1684-d1e173">
+   ⁋ His
+   supposi<lb ed="#B" n="16" break="no"/>tis formo tale argumentum sensibile. Omnis na 
+   <lb ed="#B" n="17"/>uis quae rarius a scopulis colliditur / sed suos ad  
+   <lb ed="#B" n="18"/>portum ducit sine collisione, est securior quam nauis 
+   <lb ed="#B" n="19"/>cuius multae costae franguntur: &amp; in qua multi per 
+   <lb ed="#B" n="20"/>eunt. sed sic est de naui Carthusiensium. igitur. conse 
+   <lb ed="#B" n="21"/>quentia est nota cum maiore. Pro probatione
+   mino<lb ed="#B" n="22" break="no"/>ris capio eorum regulam, &amp; quicquid cerimoniarum 
+   <lb ed="#B" n="23"/>obseruant, pro eorum naui. Praeterea Carthusienses 
+   <lb ed="#B" n="24"/>praecesserunt mendicantes omnes ad centum &amp; 
+   <lb ed="#B" n="25"/>xxx. annos: nec vnquam audita est in terris vna eorum 
+   <lb ed="#B" n="26"/>domus lapsa. si vnus illorum in vna domo
+   la<lb ed="#B" n="27" break="no"/>psus inueniatur, quod mirum cum ludas in sacro illo 
+   <lb ed="#B" n="28"/>apostolorum duodenario repertus sit filius
+   perdi<lb ed="#B" n="29" break="no"/>tionis? Accepi autem nauim vnius religionis colle 
+   <lb ed="#B" n="30"/>ctiue pro aggregato omnium nauium ad vnam 
+   <lb ed="#B" n="31"/>religionem spectantium. Quot enim sunt coenobia: 
+   <lb ed="#B" n="32"/>tot sunt particulares naues. Nulla ergo nauis car 
+   <lb ed="#B" n="33"/>thusiae a prima ipsa institutione inueta est fracta: 
+   <lb ed="#B" n="34"/>non est sic dae aliis nauibus religionum, quod patet 
+   <lb ed="#B" n="35"/>inductiue. nam multae aliarum religionum naues 
+   <lb ed="#B" n="36"/>sunt collisae: &amp; asseres a toto corpote nauis
+   sepa<lb ed="#B" n="37" break="no"/>rati: quos boni patres redintegrare (quod
+   reforma<lb ed="#B" n="38" break="no"/>re nunc dicimus) &amp; nauim instaurare studuerunt: 
+   <lb ed="#B" n="39"/>quibus callidus hostis / &amp; peruersi religiosi quantum 
+   <lb ed="#B" n="40"/>possunt / obicem praestiterunt. Nunquid sanctus
+   Bo<lb ed="#B" n="41" break="no"/>nauentura statim veniens post suae religionis ini 
+   <lb ed="#B" n="42"/>tium conatus est eam restituere: &amp; postea in
+   con<lb ed="#B" n="43" break="no"/>cilio Constantiensi aliqui boni patres conscientiam fa 
+   <lb ed="#B" n="44"/>cientes quod non essent in statu salutis, facultatem habu 
+   <lb ed="#B" n="45"/>erunt subtrahendi se a generali remige. Sed et nunc aliqui 
+   <lb ed="#B" n="46"/>viuentes, illius religionis student cum sua vnione 
+   <lb ed="#B" n="47"/>facere: quod dominus concedat. Inter praedicatores simile vidi 
+   <lb ed="#B" n="48"/>mus. Idem circa monachos &amp; canonicos his annis 
+   <lb ed="#B" n="49"/>pximis conspeximus: dum Ioannes Standonct
+   Me<lb ed="#B" n="50" break="no"/>chlinianus / totus charitate ardens pro hoc pio os 
+   <lb ed="#B" n="51"/>ficio seipsum penitus expendit. res est adeo nota de 
+   <lb ed="#B" n="52"/>aliarum religionum lapsu / &amp; multorum reluctatio 
+   <lb ed="#B" n="53"/>ne ne ad patrum limites redeant: vt nemo nisi cae 
+   <lb ed="#B" n="54"/>cus non videat.
+  </p>
+      <p xml:id="jMqv4a-d1e1684-d1e261">
+   ⁋ Secundo arguitur ad idem. Vera
+   reli<lb ed="#B" n="55" break="no"/>giosorum intentio cadit in nauim Carthusiensium: 
+   <!--0662.xml-->
+   <cb ed="#B" n="b"/> 
+       <!-- 315-v b -->
+       <lb ed="#B" n="56"/>ergo nauis illa est secura in mari. antecedens patet: quia apud 
+   <lb ed="#B" n="57"/>eos optime seruatur paupertas. nulius enim
+   religio<lb ed="#B" n="58" break="no"/>sus potest habere proprietatem in aliquo: intelligo in 
+   <lb ed="#B" n="59"/>rebus vsu non consumptibilibus. nullus eorum habent 
+   <lb ed="#B" n="60"/>denarium: sed vestes &amp; necessaria solum: quoniam nec 
+   <lb ed="#B" n="61"/>aliquorum eget, quia assidue manet in coenobio: por 
+   <lb ed="#B" n="62"/>tionem, vestes / &amp; omnia habet sufficienter. ergo non 
+   <lb ed="#B" n="63"/>est possibile mendicanti religioso paupertatem
+   me<lb ed="#B" n="64" break="no"/>lius seruare. Isti namque religiosi viri necessaria
+   ha<lb ed="#B" n="65" break="no"/>bent sine sollicitudine vt deo vacent. Prior eorum 
+   <lb ed="#B" n="66"/>non habet laicorum vllum, famulum: sed cogitur veni 
+   <lb ed="#B" n="67"/>re cum aliis tam ad matutinas quam ad alia officia. Casti 
+   <lb ed="#B" n="68"/>tas praeterea apud eos seruatur: mulierum nulla ingre 
+   <lb ed="#B" n="69"/>ditur vnquam, nec ipsi (quod ponderandum est) egrediuntur: 
+   <lb ed="#B" n="70"/>nisi prior vel procurator in necessitate. Obedientia 
+   <lb ed="#B" n="71"/>etiam. nam optime seruant regulam: cum seruent naues 
+   <lb ed="#B" n="72"/>particulares integras: quod est seruare obedientiam.
+   ta<lb ed="#B" n="73" break="no"/>citurni consistunt in cellulis secundum illud Baptistae. 
+   <lb ed="#B" n="74"/>Hinc carthusiacis aeterna silentia claustris. sunt mor 
+   <lb ed="#B" n="75"/>tui mundo vt viuant deo: nunquam vescuntur
+   carni<lb ed="#B" n="76" break="no"/>pus: induuntur continuo ad carne cilicio: dormiunt 
+   <lb ed="#B" n="77"/>in straminibus / num quam in plumis: ad matutinas ho 
+   <lb ed="#B" n="78"/>ra decima surgunt: in diebus festis hora nona, ad 
+   <lb ed="#B" n="79"/>tertiam vsque orantes: die veneris in pane &amp; aqua  
+   <lb ed="#B" n="80"/>ieiunant, cum multis aliis rigidis cerimoniis: &amp; tamen 
+   <lb ed="#B" n="81"/>adhuc perseuerant.
+  </p>
+      <p xml:id="jMqv4a-d1e1684-d1e329">
+   ⁋ Tertio arguitur. Fundator pau 
+   <lb ed="#B" n="82"/>perum studentium nostri collegti Montis Ioannes 
+   <lb ed="#B" n="83"/>Standoclt / consilio sapientum motus curam &amp;
+   mo<lb ed="#B" n="84" break="no"/>deramen primum collegii priori Carthusiae reliquit: 
+   <lb ed="#B" n="85"/>non ob aliud nisi quia ex anteacta vita iudicauit 
+   <lb ed="#B" n="86"/>continuationem Carthusiensium solidissimam, &amp;
+   per<lb ed="#B" n="87" break="no"/>seueraturam. igitur. 
+  </p>
+      <p xml:id="jMqv4a-d1e1684-d1e345">
+       <lb ed="#B" n="88"/>⁋ Contra hanc conclusionem arguitur 
+   <lb ed="#B" n="89"/>sic. Minores nihil habent: &amp; ita sunt nimis solliciti 
+   <lb ed="#B" n="90"/>circa bona habenda. habentes autem in communi nimis habentus 
+   <lb ed="#B" n="91"/>&amp; sic aliquid viscositatis habent amnexum. aliqui pauca bo 
+   <lb ed="#B" n="92"/>na habent pro tempore in communi, &amp; nihil in proprio 
+   <lb ed="#B" n="93"/>&amp; illi nihil viscositatis &amp; sollicitudinis habent,
+   quae<lb ed="#B" n="94" break="no"/>les sunt praedicatores.
+  </p>
+      <p xml:id="jMqv4a-d1e1684-d1e363">
+   ⁋ Respondetur. Antoninus 
+   <lb ed="#B" n="95"/>praedicator hoc argumentum facit: sed quantum carthu 
+   <lb ed="#B" n="96"/>sienses concernit: nego quod habere immobilia in  
+   <lb ed="#B" n="97"/>communi ad sufficientia sicut Carthusienses vtunt 
+   <lb ed="#B" n="98"/>aliquid viscositatis habeat. nam non minus
+   bo<lb ed="#B" n="99" break="no"/>num est / si non maius, habere bona more Carthu 
+   <lb ed="#B" n="100"/>siensium quam patica more praedicatorum. Illud autem at 
+   <lb ed="#B" n="101"/>gumentum est contra omnes religiosos habentes red  
+   <lb ed="#B" n="102"/>ditus in communi: qui vno ore dicerent se esse paupes: vt 
+   <lb ed="#B" n="103"/>paupertas cotra proprietatem distinguitur: aeque atque 
+   <lb ed="#B" n="104"/>mendicantes. &amp; alios esse sollicitos plurimum pro 
+   <lb ed="#B" n="105"/>bonis habendis.
+  </p>
+      <p xml:id="jMqv4a-d1e1684-d1e389">
+   ⁋ Secundo arguitur. Carthusi 
+   <lb ed="#B" n="106"/>enses sibi solis deseruiunt: mendicantes autem praedi 
+   <lb ed="#B" n="107"/>cant / audiunt confessiones, &amp; multa similia faciunt quam 
+   <lb ed="#B" n="108"/>non faciunt Carthusienses. ergo plus merentur. 
+  </p>
+      <p xml:id="jMqv4a-d1e1684-d1e398">
+       <lb ed="#B" n="109"/>⁋ Respondetur. multifariam hoc argumentum diluitur. 
+   <!--0663.xml-->
+   <pb ed="#B" n="316-r"/>
+       <cb ed="#B" n="a"/>
+       <lb ed="#B" n="1"/>primo quamuis se solos saluarent, cum non sint obliga 
+   <lb ed="#B" n="2"/>ti alios saluare: est ne hoc parum: quinimo debemus 
+   <lb ed="#B" n="3"/>omnes super hoc gaudere. Secundo nego quod sibi solis de 
+   <lb ed="#B" n="4"/>seruiant. nam orant tam pro se quam proaliis. num quid deus vo 
+   <lb ed="#B" n="5"/>luit parcere pentapoli si dece iusti fuissent in ea
+   re<lb ed="#B" n="6" break="no"/>parti? Propter bonos enim deus differt punire multos 
+   <lb ed="#B" n="7"/>malos: &amp; sic peruersis / eorum sancta vita prodest. Ter 
+   <lb ed="#B" n="8"/>tio aliquae eorum scribunt: &amp; recta dant consilia peten 
+   <lb ed="#B" n="9"/>tibus. Quarto praedicant vita: illa autem praedicatio est 
+   <lb ed="#B" n="10"/>raedicatione verbali &amp; verborum multiplicatione 
+   <lb ed="#B" n="11"/>longe efficacior &amp; vehementor. Da duos
+   sacerdo<lb ed="#B" n="12" break="no"/>tes in vrbe tua / sortem simplicem exemplaris vi 
+   <lb ed="#B" n="13"/>tae: &amp; platonem male vitae / sed verbi diuini declama 
+   <lb ed="#B" n="14"/>torem dicacem. vter istorum plures ad rectum iter
+   attra<lb ed="#B" n="15" break="no"/>hit &amp; allicit: nonne facto praedicans? Soleo ego
+   dice<lb ed="#B" n="16" break="no"/>re: cum gratia leuandi spiius, circa muros Parisienses 
+   <lb ed="#B" n="17"/>deambulo: Carthusiensium domos separatas contem 
+   <lb ed="#B" n="18"/>plando: domos ipsas praedicare, &amp; eorum campanam ho 
+   <lb ed="#B" n="19"/>ra nona dum caeteri vadut cubitum.
+  </p>
+      <p xml:id="jMqv4a-d1e1684-d1e451">
+   ⁋ Tertio arguitur 
+   <lb ed="#B" n="20"/>Carthusienses sunt cauti. nam manent inclusi: &amp; si 
+   <lb ed="#B" n="21"/>peccent, eorum vitia non deprehenduntur. aliorum autem 
+   <lb ed="#B" n="22"/>in publicum prodeuntium vitia facile deprehenduntur. 
+   <lb ed="#B" n="23"/>&amp; sic iudicamus Carthusienses bonos, quia non con 
+   <lb ed="#B" n="24"/>stat nobis de opposito.
+  </p>
+      <p xml:id="jMqv4a-d1e1684-d1e464">
+   ⁋ Respondetur. consulto sic 
+   <lb ed="#B" n="25"/>obiicio vt proteruo in absentia respondentis satisfiat. 
+   <lb ed="#B" n="26"/>dico quod alii multi religiosi ab initio ita parum
+   se<lb ed="#B" n="27" break="no"/>ta coenobii egressi sunt. Et addo quod si eorum vita 
+   <lb ed="#B" n="28"/>foret iniqua: prodiret in publicum: &amp; ambitiose prio 
+   <lb ed="#B" n="29"/>res se erigerent multitudine clientum stipati: ac eos 
+   <lb ed="#B" n="30"/>inuisentes eorum errata cognoscerent. Non tamen iu 
+   <lb ed="#B" n="31"/>dico eos impeccabiles: nec per naturam, nec per
+   gra<lb ed="#B" n="32" break="no"/>tiam: sed cum non constet de opposito: secundum regulam 
+   <lb ed="#B" n="33"/>euangelicam non debeo aliter iudicare de fratre meo. 
+   <lb ed="#B" n="34"/>Addo vltra hoc, me facile cognoscere quod parum 
+   <lb ed="#B" n="35"/>peccant. Si enim <name xml:id="jMqv4a-d1e1684-Nd1e490" ref="#AlexanderOfHales">Alex. Halensis</name> / conterraneus: &amp; alii 
+   <lb ed="#B" n="36"/>in. xvii. distinctione. iiii. ausi sunt dicere quod multi 
+   <lb ed="#B" n="37"/>perstant vno anno sine mortali: illic non minus serua 
+   <lb ed="#B" n="38"/>tur quam in quauis religione.
+  </p>
+      <p xml:id="jMqv4a-d1e1684-d1e500">
+   ⁋ Quarto arguitur. Non 
+   <lb ed="#B" n="39"/>clarent tot miraculis vt alii religiosi: nec habent 
+   <lb ed="#B" n="40"/>tot sanctos canonizatos. ergo non est in eis
+   si<lb ed="#B" n="41" break="no"/>gnum tantae sanctimoniae.
+  </p>
+      <p xml:id="jMqv4a-d1e1684-d1e509">
+   ⁋ Respondetur. mira 
+   <lb ed="#B" n="42"/>culorum multiplicatio est res caeca: &amp; miraculorum 
+   <lb ed="#B" n="43"/>a non miraculis discretio. Minores namque sancti cre 
+   <lb ed="#B" n="44"/>bro pluribus miraculis fulgent quam maiores: de quo 
+   <lb ed="#B" n="45"/>rum sanctimonia minime dubitatur. &amp; sic de cano 
+   <lb ed="#B" n="46"/>nizatione. aliqui enim si sollicitarent apud sedem apo 
+   <lb ed="#B" n="47"/>stolicam habere sanctos canonizatos: facile ipe 
+   <lb ed="#B" n="48"/>trarent: sed non expedit. nam miracula saepe fiunt 
+   <lb ed="#B" n="49"/>vt dicit Gerson &amp; bene, ob incredulos in regione 
+   <lb ed="#B" n="50"/>aliqua: &amp; facientem non sufficienter arguunt plus 
+   <lb ed="#B" n="51"/>sanctimoniae habere quae non donatum miraculorum 
+   <lb ed="#B" n="52"/>numero. Vbi autem sanctimonia est nota: quid est opus 
+   <lb ed="#B" n="53"/>miraculorum multitudine? Refert cancellarius Pa 
+   <lb ed="#B" n="54"/>risiensis in secunda parte, obiectionem de
+   cano<lb ed="#B" n="55" break="no"/>nizatione sancti Thomae / quod non claruerat mul- 
+   <!--0663.xml-->
+   <cb ed="#B" n="b"/> 
+       <!-- 316-r b -->
+       <lb ed="#B" n="56"/>tis miraculis, cui pontifex respondit non esse
+   la<lb ed="#B" n="57" break="no"/>borandum de miraculis eius. nam tot miracula
+   fecis<lb ed="#B" n="58" break="no"/>se, quot quaestiones determinauerit. Simile in secun 
+   <lb ed="#B" n="59"/>da parte dicit de <name xml:id="jMqv4a-d1e1684-Nd1e556" ref="#Augustine">Augustino</name> &amp; Hieronymo &amp; Gre 
+   <lb ed="#B" n="60"/>gorio: cum habuerint probationem sanctimoniae 
+   <lb ed="#B" n="61"/>in eminentia doctrinae. Et ostendo illud rationabil in 
+   <lb ed="#B" n="62"/>ter dictum. Nam cum omne opus suum circa vtilitatem 
+   <lb ed="#B" n="63"/>spiritualem reipub. applicauerint bonis omnibus
+   for<lb ed="#B" n="64" break="no"/>tunae conculcatis: signum erat bonitatis vitae in 
+   <lb ed="#B" n="65"/>eis. Praeterea Ioannes Baptista, Carthusiensium
+   pa<lb ed="#B" n="66" break="no"/>tronus, nullo in vita claruit miraculo vt Ioannes 
+   <lb ed="#B" n="67"/>euangelista testatur: quo inter natos mulierum non
+   sur<lb ed="#B" n="68" break="no"/>rexit maior: testimonio oris diuini. In super habere 
+   <lb ed="#B" n="69"/>fratres in conuentu miraculis clarentes eis
+   obes<lb ed="#B" n="70" break="no"/>set. nam indoctum vulgus quod miraculis concitatur i 
+   <lb ed="#B" n="71"/>eos maxime infestaret pro sanctis illis visitandis. 
+   <lb ed="#B" n="72"/>quod indicat quaedam eorum historia anni domini
+   du<lb ed="#B" n="73" break="no"/>centesimi supra millesimum. Quidam namque defum 
+   <lb ed="#B" n="74"/>ctus miraculis claruit: gratia cuius fratribus mirum 
+   <lb ed="#B" n="75"/>in modum populus erat molestus. Quem coenobii 
+   <lb ed="#B" n="76"/>prior sic affatus est. Desine fili in virtute sanctae 
+   <lb ed="#B" n="77"/>obedientiae quam semper seruasti / a miraculis: &amp; per 
+   <lb ed="#B" n="78"/>mittas commilitones tuos tramnquille viuere sub
+   mo<lb ed="#B" n="79" break="no"/>dio vt portum felicem attingant tecum: &amp; non sis eis
+   im<lb ed="#B" n="80" break="no"/>pedimento, quod &amp; factum est. Dico esse opus heroin 
+   <lb ed="#B" n="81"/>cum, regulam diu seruare: esto (quod humanum est)  
+   <lb ed="#B" n="82"/>interdum labantur / dummodo resurgant.
+  </p>
+      <p xml:id="jMqv4a-d1e1684-d1e610">
+   ⁋ Quin 
+   <lb ed="#B" n="83"/>to arguitur. regula eorum non est approbata ab ec 
+   <lb ed="#B" n="84"/>clesia: ergo nauis eorum non est tantae securitatis quan 
+   <lb ed="#B" n="85"/>tae ego pdico.
+  </p>
+      <p xml:id="jMqv4a-d1e1684-d1e619">
+   ⁋ Respondetur. duplex est approba 
+   <lb ed="#B" n="86"/>tio. quaedam verbalis: de qua conceditur antecedens. alia ta 
+   <lb ed="#B" n="87"/>cita &amp; virtualis. de qua negatur. Hoc amplius
+   decla<lb ed="#B" n="88" break="no"/>ro. nam ante mendicantes non erat haec approbatio vo 
+   <lb ed="#B" n="89"/>calis, quod patet de <name xml:id="jMqv4a-d1e1684-Nd1e629" ref="#Augustine">Augustino</name> Hieronymo &amp; aliis 
+   <lb ed="#B" n="90"/>religionum institutoribus: quos vitae
+   sanctimo<lb ed="#B" n="91" break="no"/>nia approbauit: &amp; postea donati erant priuilegiis 
+   <lb ed="#B" n="92"/>ab ecclesia. Sed vbi religiosi mendicantes pullu 
+   <lb ed="#B" n="93"/>lare coeperunt: &amp; fratres suos multiplicarunt: ac vt 
+   <lb ed="#B" n="94"/>multis visum est / excessiue, tulit legem pontifex ne 
+   <lb ed="#B" n="95"/>de caetero illud fieret sine sua approbatione. vis 
+   <lb ed="#B" n="96"/>meliorem approbationem habere quam bonam vitam in tor 
+   <lb ed="#B" n="97"/>annos continuatam?
+  </p>
+      <p xml:id="jMqv4a-d1e1684-d1e652">
+   ⁋ Sexto arguitur. Multis bo 
+   <lb ed="#B" n="98"/>nis abundant: &amp; vt superius dixi, multitudo bono 
+   <lb ed="#B" n="99"/>rum non est instrumentum bonum attingendi portum. Reaspon 
+   <lb ed="#B" n="100"/>detur. si non deficerent in aliquo: non essentin hoc ma 
+   <lb ed="#B" n="101"/>ri magno: sed in portu. veruntamem nego quod in hoc de 
+   <lb ed="#B" n="102"/>ficiant. nam accepi eos plus eleemosynatum dare quam
+   reli<lb ed="#B" n="103" break="no"/>quos multos. Dicunt namque mihi studentes se ab eis 
+   <lb ed="#B" n="104"/>largiorem victum consequi quam ab omnibus religiosis domi 
+   <lb ed="#B" n="105"/>bus Parisiis. Vlterius intellexi quod vbi religiosi men 
+   <lb ed="#B" n="106"/>dicantes reformate viuentes eos accedunt: recipiam 
+   <lb ed="#B" n="107"/>tur charitatiue ad duos, vel tres dies. Nego ergo 
+   <lb ed="#B" n="108"/>quod habeant bona superflua vllo modo, quod iterum osten 
+   <lb ed="#B" n="109"/>do. Quid enim cuiqui eorum conducerent: cu nullus acci 
+   <lb ed="#B" n="110"/>piat denarium vnquam: nec priorpossit dare aliquid con 
+   <!--0664.xml-->
+   <pb ed="#B" n="316-v"/>
+       <cb ed="#B" n="a"/>
+       <lb ed="#B" n="1"/>sanguineis plus quam alius inferior? essent vtique
+   im<lb ed="#B" n="2" break="no"/>prudentes coaceruando pecuniam vltra illam quan 
+   <lb ed="#B" n="3"/>debent in rebus necessariis expendere.
+  </p>
+      <p xml:id="jMqv4a-d1e1684-d1e696">
+   ⁋ Septimo 
+   <lb ed="#B" n="4"/>arguitur. Non conducit quemlibet religionem pro 
+   <lb ed="#B" n="5"/>fiteri volentem / ingredi Carthusiam. sed quilibet
+   de<lb ed="#B" n="6" break="no"/>bet conari assumere optimam religionem. ergo ipsa 
+   <lb ed="#B" n="7"/>non est optima / negatiue vel affirmatiue capiendo su 
+   <lb ed="#B" n="8"/>platiuum.
+  </p>
+      <p xml:id="jMqv4a-d1e1684-d1e709">
+   ⁋ Respondetur concedendo antecedens quia non 
+   <lb ed="#B" n="9"/>quilibet valet iugum adeo graue ferre: cum sit
+   ge<lb ed="#B" n="10" break="no"/>nus longi martyrii. Sed pro materia argumenti 
+   <lb ed="#B" n="11"/>dico multiplices esse homines. quidam sunt
+   do<lb ed="#B" n="12" break="no"/>cti: vel vero simiter eminenti doctrina pollebunt. &amp; 
+   <lb ed="#B" n="13"/>sti sunt duplices. aliquorum enim periclitatur castitas 
+   <lb ed="#B" n="14"/>in saeculo: vel ipsi alios in saeculo scandalizant. quoi 
+   <lb ed="#B" n="15"/>bus consulerem assumere religionem mendicantium 
+   <lb ed="#B" n="16"/>ad alios docendos. si autem possint cum salute animae 
+   <lb ed="#B" n="17"/>conversari in saeculo: sint mendicantes &amp; praedicatores 
+   <lb ed="#B" n="18"/>in populo. Possunt tamen laudabiliter accedere
+   Car<lb ed="#B" n="19" break="no"/>thusiam sihabeant sufficientia principia doctrinae: &amp; 
+   <lb ed="#B" n="20"/>scribere. Si autem sint viri quai verosimiter non erunt emi 
+   <lb ed="#B" n="21"/>nentis literaturae: nec declamatores frugiferi:
+   po<lb ed="#B" n="22" break="no"/>tius pro salute animae Carthusiam petant, non tamen quin bene 
+   <lb ed="#B" n="23"/>possint alibi saluari inter monachos vel
+   canoni<lb ed="#B" n="24" break="no"/>cos bene viuentes. Multi enim sunt qui non possent 
+   <lb ed="#B" n="25"/>illud iugum ferre: vel le possent non audent se ad hoc 
+   <lb ed="#B" n="26"/>astrigere. quibus consulendum est aliam religionem profite 
+   <lb ed="#B" n="27"/>ri. nihilominus multi docti sunt in Carthusia: &amp; 
+   <lb ed="#B" n="28"/>doctores theologi ante professionem. Ad formam igi 
+   <lb ed="#B" n="29"/>tur argumenti dico hanc cosequentiam inualidam. haec re 
+   <lb ed="#B" n="30"/>ligio non est optima huic: ergo non est optia.
+  </p>
+      <p xml:id="jMqv4a-d1e1684-d1e759">
+   ⁋ Octa 
+   <lb ed="#B" n="31"/>uo arguitur. Mendicantes vel alii religiosi praedicantes 
+   <lb ed="#B" n="32"/>verbo &amp; exemplo populum in saeculo istituentes: plus 
+   <lb ed="#B" n="33"/>merentur quam Carthusienses sub modio latentes. sed  
+   <lb ed="#B" n="34"/>enitendum est plus mereri. Ad hoc dico quod varii sunt 
+   <lb ed="#B" n="35"/>saeculares tantum merentes quantum religiosi, non tamen pro 
+   <lb ed="#B" n="36"/>pterea sequitur vitam saecularem esse potiore professione
+   reli<lb ed="#B" n="37" break="no"/>giosorum aut tam bonam. Nolo negare quin sint aliqui re 
+   <lb ed="#B" n="38"/>ligiosi mendicantes, pariter &amp; non mendicantes: qui pos 
+   <lb ed="#B" n="39"/>sint tantum mereri quantum Carthusienses. sed plurimum non 
+   <lb ed="#B" n="40"/>est ita. nam etsi religiosus meretur praedicado: ducit tamen 
+   <lb ed="#B" n="41"/>bonos dies vbi alter est in continua mortificatione 
+   <lb ed="#B" n="42"/>carnis: &amp; in suis cerimoniis. Adde quod religiosi in  
+   <lb ed="#B" n="43"/>terdum pro quaestu praedicationibus insistunt. secundo non sunt 
+   <lb ed="#B" n="44"/>in tam securo statum. tertio nulla vna tota nauis
+   reli<lb ed="#B" n="45" break="no"/>gionis diuersa a Carthusia / videtur securior vel aequa 
+   <lb ed="#B" n="46"/>secura, quod non parum est.
+  </p>
+      <p xml:id="jMqv4a-d1e1684-d1e796">
+   ⁋ Nono arguitur. Minimi 
+   <lb ed="#B" n="47"/>strictius viuunt quam Carthusienses. Nunquam enim vescun 
+   <lb ed="#B" n="48"/>tur cibis aliis quam quadragesimalibus. ergo sunt
+   Car<lb ed="#B" n="49" break="no"/>thusiensibus praeferendi. Respondetur. Minimi heri &amp; nu 
+   <lb ed="#B" n="50"/>diustertius in medium prodiere: de quibus iudicari po 
+   <lb ed="#B" n="51"/>terit si more Carthusiesium perseuerent. Potissimum 
+   <lb ed="#B" n="52"/>enim argumentum meum est de Carthusiensium longa perse 
+   <lb ed="#B" n="53"/>uerantia.
+  </p>
+      <p xml:id="jMqv4a-d1e1684-d1e814">
+   ⁋ Decimo arguitur. Caelestini ab esu
+   car<lb ed="#B" n="54" break="no"/>nium abstinent more Carthusiensium. ergo non debec 
+   <lb ed="#B" n="55"/>Carthusiam Caelestinis praeferre. Respondetur, non prae 
+   <!--0664.xml-->
+   <cb ed="#B" n="b"/> 
+       <!-- 316-v b -->
+       <lb ed="#B" n="56"/>tuli verbaliter adhuc nauim Carthusiensium nauibus 
+   <lb ed="#B" n="57"/>aliarum religionum. sed ducentis annis Caelestinos Car 
+   <lb ed="#B" n="58"/>thusienses percesserunt. Caelestini tamen in Gallia
+   opti<lb ed="#B" n="59" break="no"/>me hodie viuunt / &amp; a diebus Caelestini Quiti multa 
+   <lb ed="#B" n="60"/>cum laude in Gallia durarunt: quos perseuerare faciat 
+   <lb ed="#B" n="61"/>deus. Potest esse argumentum contra Carthusienses quod
+   eo<lb ed="#B" n="62" break="no"/>tum prior est perpetuus: Caelestinorum autem &amp; multorum 
+   <lb ed="#B" n="63"/>aliorum de triennio in triennium variabilis. Satius 
+   <lb ed="#B" n="64"/>enim est habere triennales: sed consulto de hac
+   mate<lb ed="#B" n="65" break="no"/>ria nunc sileo.
+  </p>
+      <p xml:id="jMqv4a-d1e1684-d1e850">
+   ⁋ Nunc vidimus quomodo
+   religio<lb ed="#B" n="66" break="no"/>num nulla Carthusiensium ordini est praeferenda. qui 
+   <lb ed="#B" n="67"/>etsi bonis fortunae (vt parest) abundant / haec opti 
+   <lb ed="#B" n="68"/>me distribuunt. tot namque curialium sollicitant prioratum 
+   <lb ed="#B" n="69"/>Carthusiae in commenda: quot prioratum Sorbonae. 
+   <lb ed="#B" n="70"/>Nec milites in belli furore eorum coenobia ingredium 
+   <lb ed="#B" n="71"/>tur. nam quod non capit Christus: hoc capit fiscus: &amp; 
+   <lb ed="#B" n="72"/>contra quod capit Christus, hoc non capit fiscus. &amp; sicut 
+   <lb ed="#B" n="73"/>Herodes / istorum patronum loannem a mortuis
+   resur<lb ed="#B" n="74" break="no"/>recturum crebro timuit: ita milites / reges, &amp; omnes. 
+   <lb ed="#B" n="75"/>timent manus in istorum bona mittere. Solent
+   pru<lb ed="#B" n="76" break="no"/>dentes viri dicere tria illum ordinem conseruare: scilicet so 
+   <lb ed="#B" n="77"/>si / vi / hoc est, solitudo / silentium per quae mortificantur 
+   <lb ed="#B" n="78"/>mundo. vi. id est habent capitulum quotannis
+   genera<lb ed="#B" n="79" break="no"/>e / &amp; visitationem optimam. Nec putet religiosorum 
+   <lb ed="#B" n="80"/>quisquam me fauore aliquo haec scripsisse. certe non 
+   <lb ed="#B" n="81"/>memini me vnquam ab aliquo Carthusiae coenobio 
+   <lb ed="#B" n="82"/>denarium vel denarii valorem accepisse. deum testem
+   ci<lb ed="#B" n="83" break="no"/>to quo animo nedum in hac materia: sed in qualibet alia 
+   <lb ed="#B" n="84"/>procedam. Sed in hoc proposito ista praecise dixerim: 
+   <lb ed="#B" n="85"/>vt virtus laudata crescat: &amp; in via domini iamdiu con 
+   <lb ed="#B" n="86"/>tinuata ipsi perseuerent: &amp; tanquam athletae &amp; fortes 
+   <lb ed="#B" n="87"/>religionum vexilliferi iter pugnandi contra
+   anti<lb ed="#B" n="88" break="no"/>quum hostem ostendant. Licet autem religiones 
+   <lb ed="#B" n="89"/>multae eos tempore praecesserint: hoc nihil
+   con<lb ed="#B" n="90" break="no"/>tra eos vincit: cum pugna relicta vexillum
+   reli<lb ed="#B" n="91" break="no"/>querint. Quamuis etiam in antiquiore religione sem 
+   <lb ed="#B" n="92"/>per reperiatur vnum coenobium non lapsum 
+   <lb ed="#B" n="93"/>multis aliis labentibus: id non sufficit pro
+   vexil<lb ed="#B" n="94" break="no"/>lo ferendo.  
+  </p>
+    </div>
+   </body>
+  </text>
+</TEI>

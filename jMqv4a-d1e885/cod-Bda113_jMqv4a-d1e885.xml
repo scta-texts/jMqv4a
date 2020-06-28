@@ -1,0 +1,493 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 48</title>
+      <author ref="#JohnMair">John Mair</author>
+      <respStmt>
+       <name>Jeffrey C. Witt</name>
+       <resp>TEI Encoder</resp>
+      </respStmt>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 48</title>
+       <date when="2020-06-09">June 27, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="B" n="cod-Bda113">Badius 1516</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+     guidelines for a diplomatic edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-06-27" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+      <pb ed="#B" n="166-r"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="jMqv4a-d1e885"> <!-- l4d15q48 -->
+      <head xml:id="jMqv4a-d1e885-Hd1e104">Quaestio 48</head>
+      <head xml:id="jMqv4a-d1e885-Hd1e107" type="question-title">De quodam particulari contractu tanquam societatis 
+  an sit licitus</head>
+      <p xml:id="jMqv4a-d1e885-d1e110">
+       <lb ed="#B" n="84"/>Vaeritur secundo. 
+   <lb ed="#B" n="85"/>vtrum iste contractus
+   tan<lb ed="#B" n="86" break="no"/>i societatis sit licitus:
+   a<lb ed="#B" n="87" break="no"/>tradidit b. centum
+   flore<lb ed="#B" n="88" break="no"/>nos vt eos expendat in  
+   <lb ed="#B" n="89"/>negociationibus ita vt b 
+   <lb ed="#B" n="90"/>teneatur a. reddere centum 
+   <lb ed="#B" n="91"/> florenos qualitercunque per 
+   <lb ed="#B" n="92"/>eant. &amp; si quod lucrum 
+   <lb ed="#B" n="93"/>inde obuenerit: debeat b. dare a. aliquotam partem 
+   <lb ed="#B" n="94"/>quam a. protunc specificat: scilicet dimidium vel 
+   <lb ed="#B" n="95"/>huiusmodi: aut dimittit quantitatem huius
+   pende<lb ed="#B" n="96" break="no"/>re in beneplacito b. si autem nullum lucrum
+   obue<lb ed="#B" n="97" break="no"/>niat: nihil teneatur b. dare a. nisi capitalem
+   pecu<lb ed="#B" n="98" break="no"/>niam.
+  </p>
+      <p xml:id="jMqv4a-d1e885-d1e145">
+   ⁋ Circa praedictum contractum tres
+   compe<lb ed="#B" n="99" break="no"/>rio modos dicendi. &amp; quia nullus illorum mihi
+   pla<lb ed="#B" n="100" break="no"/>cet, quartum modum ponere propono. Primus
+   mo<lb ed="#B" n="101" break="no"/>dus dicendi est Asonis, &amp; Accursii auditoris eius 
+   <lb ed="#B" n="102"/>in. l. Si non fuerit. itut. Pro socio. &amp; sequitur Panor. 
+   <lb ed="#B" n="103"/>in capi. Per vestras. de donationibus inter virum &amp; 
+   <lb ed="#B" n="104"/>vxorem. Positio autem eorum in propositionibus sequen 
+   <lb ed="#B" n="105"/>tibus stat, non est societas sed verum mutuum: &amp; a.
+   ca<lb ed="#B" n="106" break="no"/>pit lucrum a b. ratione illius contractus: ergo con- 
+   <!--0364.xml-->
+   <pb ed="#B" n="166-v"/>
+       <cb ed="#B" n="a"/>
+       <lb ed="#B" n="1"/>tractus est vsurarius. vis argumenti est probare quod 
+   <lb ed="#B" n="2"/>non est societas, quod sic probant. pactum adiectum 
+   <lb ed="#B" n="3"/>est contra naturam societatis: igitur non est societas. 
+   <lb ed="#B" n="4"/>antecedens probatur: quia de natura societatis est 
+   <lb ed="#B" n="5"/>quod sociorum partes sint aequales nisi aliud sit dictum. 
+   <lb ed="#B" n="6"/>Non negatur quin agi possit in contractu quod ad vnum 
+   <lb ed="#B" n="7"/>pertineant duae partes lucri &amp; ad alium tertia: si is 
+   <lb ed="#B" n="8"/>qui plus debet habere / plus contulit societati vel pe 
+   <lb ed="#B" n="9"/>cuniae vel operae cuiuscumque artis: alioquin non opor 
+   <lb ed="#B" n="10"/>tet. Ratio assumpti est quia societas est quoddam ius 
+   <lb ed="#B" n="11"/>fraternitatis. &amp; haec est ratio specialis quare ex vi 
+   <lb ed="#B" n="12"/>pacti talis societas non valet quamuis in aliis
+   contracti<lb ed="#B" n="13" break="no"/>bus pactum oppositum teneat. Hoc dictum &amp; eius 
+   <lb ed="#B" n="14"/>robationem / Asonis, &amp; Accursii sequitur Gof. &amp; 
+   <lb ed="#B" n="15"/>Ioan. Cal. in repetitione ca. Nauiganti. de vsuris. 
+   <lb ed="#B" n="16"/>Sed haec ratio est nulla. nam isti capiunt naturam pro 
+   <lb ed="#B" n="17"/>substantia actus. &amp; propterea non oportet
+   distingue<lb ed="#B" n="18" break="no"/>re de natura: vt est contractui naturalis: &amp; non cotra 
+   <lb ed="#B" n="19"/>eius substantiam: &amp; de natura vt est contra substan 
+   <lb ed="#B" n="20"/>tiam contractus. Sed ad eorum intentionem loquendo 
+   <lb ed="#B" n="21"/>dico: quod non probant quod dicunt: quod scilicet pactum 
+   <lb ed="#B" n="22"/>quod in casu ponitur, sit contra substantiam
+   socie<lb ed="#B" n="23" break="no"/>tatis: puta quod essentiale sit ponenti pecuniam in so 
+   <lb ed="#B" n="24"/>cietate esse subiectum periculo. nam mutuatarius 
+   <lb ed="#B" n="25"/>vi contractus sine pluri debet subire periculum: 
+   <lb ed="#B" n="26"/>quia mutuum est suum: quo non obstante potest pa 
+   <lb ed="#B" n="27"/>cisci quod periculum penes mutuantem maneat. sicut 
+   <lb ed="#B" n="28"/>superius quaestione tertia de vsuris ad capi.
+   Naui<lb ed="#B" n="29" break="no"/>ganti, diximus. &amp; hoc in commodato ex intentione 
+   <lb ed="#B" n="30"/>Romani pontificis expressa ostensum est: quod scili 
+   <lb ed="#B" n="31"/>cet commodans potest pacisci cum commodatario:  
+   <lb ed="#B" n="32"/>vt omne periculum subeat. sic etiam in locatione &amp; 
+   <lb ed="#B" n="33"/>conductione ostendimus superius. &amp; cum ita sit in  
+   <lb ed="#B" n="34"/>iliis contractibus omnibus / quod pactum appositum 
+   <lb ed="#B" n="35"/>non est contra substantiam contractus, sed solum 
+   <lb ed="#B" n="36"/>praeter eius naturam (vt verbis Panor. &amp; aliorum 
+   <lb ed="#B" n="37"/>vtar) ergo dicere quod est vnum speciale in societa: 
+   <lb ed="#B" n="38"/>te: est dictum voluntarium &amp; sine colore, quemadmo 
+   <lb ed="#B" n="39"/>dum tu posses dicere quod non potest esse assecuratio 
+   <lb ed="#B" n="40"/>in locatione: tamen potest esse in societate. Praeter 
+   <lb ed="#B" n="41"/>ta arguitur imperator. Institu. de soci. S De illa.
+   re<lb ed="#B" n="42" break="no"/>probata opinione Quinti Mutii approbat
+   opinio<lb ed="#B" n="43" break="no"/>nem Seruii Sulpitii dicentis quod societas est licita 
+   <lb ed="#B" n="44"/>dato quod vnus habeat duas partes lucri, &amp; alter
+   so<lb ed="#B" n="45" break="no"/>lam vnam partem damni: quia potest esse refusio per
+   aequi<lb ed="#B" n="46" break="no"/>ualens. Insuper in eodem loco imperator contra 
+   <lb ed="#B" n="47"/>Quintum Mutium dicit quod valet pactio societatis vt 
+   <lb ed="#B" n="48"/>quis partem lucri ferat &amp; de damno non teneatur. &amp; 
+   <lb ed="#B" n="49"/>dicit hoc intelligi quando tale damnum compensatur. 
+   <lb ed="#B" n="50"/>Si dicas. societas est quoddam ius fraternitatis: 
+   <lb ed="#B" n="51"/>&amp; in fraternitate vnus non potest suscipere totum 
+   <lb ed="#B" n="52"/>periculum. haec euasio est nulla: nam ponens pecu 
+   <lb ed="#B" n="53"/>niam potest suscipere totum periculum capitalis: 
+   <lb ed="#B" n="54"/>dato quod capitale in fine sit partiendum cum interuso 
+   <lb ed="#B" n="55"/>rio ponente operas. &amp; potest esse quod ponens ope- 
+   <!--0364.xml-->
+   <cb ed="#B" n="b"/> 
+       <!-- 166-v b -->
+       <lb ed="#B" n="56"/>ram sit extra omne periculum: quia alter potest esse 
+   <lb ed="#B" n="57"/>obligatus omne periculum subire. ergo non
+   opor<lb ed="#B" n="58" break="no"/>tet aequaliter partiri omne periculum. Secundo.  
+   <lb ed="#B" n="59"/>ponens operam tenetur lata &amp; leui culpa.
+   capian<lb ed="#B" n="60" break="no"/>tur reliqua pericula omnia: scilicet de casu
+   fortui<lb ed="#B" n="61" break="no"/>to &amp; culpa leuissima. tunc sic arguo. illud
+   pericu<lb ed="#B" n="62" break="no"/>lum subire non est infinitae fugibilitatis: ergo  
+   <lb ed="#B" n="63"/>dabile est aliquid tantae expetibilitatis: puta tam 
+   <lb ed="#B" n="64"/>grande lucrum: quantae illud est fugibilitatis: ergo  
+   <lb ed="#B" n="65"/>cum subire tale periculum sit aestimabile precio: 
+   <lb ed="#B" n="66"/>potest pecuniam ponens dare ponenti operas tantum 
+   <lb ed="#B" n="67"/>ucri vt libentissime omne periculum subeat: &amp; sic 
+   <lb ed="#B" n="68"/>ponens pecuniam seruabit rationem optimae
+   fra<lb ed="#B" n="69" break="no"/>ternitatis: dando ponenti operam, partem eligibi 
+   <lb ed="#B" n="70"/>liorem. Vis ne meliorem fraternitatem quam dare tibi 
+   <lb ed="#B" n="71"/>optionem de meliore parte sumenda? Hac autem
+   ra<lb ed="#B" n="72" break="no"/>tione soluta non opus est respondere ad rationem 
+   <lb ed="#B" n="73"/>Baldi in. l. i. C. Pro socio. quia probatio tendit ad 
+   <lb ed="#B" n="74"/>hoc quod non est societas, sed mutuum. aliud pondus 
+   <lb ed="#B" n="75"/>robationum non affert. Panor. adducit glossam 
+   <lb ed="#B" n="76"/>in capi. Plerique. xiiii. q. iii. dicentem. ad hoc vt
+   socie<lb ed="#B" n="77" break="no"/>tas sit licita &amp; honesta inter ponentem pecuniam, &amp; 
+   <lb ed="#B" n="78"/>ponentem operam: oportere quod ponens pecuniam: 
+   <lb ed="#B" n="79"/>sentiat de lucro &amp; de damno. sed glossa satis
+   con<lb ed="#B" n="80" break="no"/>muniter negatur. licet possit exponi vt
+   intelliga<lb ed="#B" n="81" break="no"/>tur communiter. vel sic: a non habet maius
+   appa<lb ed="#B" n="82" break="no"/>rens lucrum quam damnum.
+  </p>
+      <p xml:id="jMqv4a-d1e885-d1e357">
+   ⁋ Secunda positio est 
+   <lb ed="#B" n="83"/>Hosticun. &amp; loan. Andreae rationabilior: quod
+   contra<lb ed="#B" n="84" break="no"/>ctus est licitus si capitale non sit perditum casu
+   for<lb ed="#B" n="85" break="no"/>uito: quia dicunt quod tunc ille qui posuit pecuniam 
+   <lb ed="#B" n="86"/>deberet in foro animae remittere. Haec opinio etiam 
+   <lb ed="#B" n="87"/>non placet in secundo dicto: scilicet, si capitale esset 
+   <lb ed="#B" n="88"/>perditum casu fortuito quod ponens pecuniam tenea 
+   <lb ed="#B" n="89"/>tur refundere ponenti operam. Alia autem pars placet. 
+   <lb ed="#B" n="90"/>vnde sic argumentor: sicut iam soluendo argumen 
+   <lb ed="#B" n="91"/>tum primae positionis argumentatus sum. Illud  
+   <lb ed="#B" n="92"/>periculum non est infinitae fugibilitatis. dabile est 
+   <lb ed="#B" n="93"/>ergo aliquid tantae expetibilitatis: &amp; per consequens
+   il<lb ed="#B" n="94" break="no"/>lud periculum est redimibile pecunia. hoc sic
+   decla<lb ed="#B" n="95" break="no"/>ro. pono quod sortes Parisiensis societatem ineat cum 
+   <lb ed="#B" n="96"/>platone Britone solertissimo in arte negociandi:  
+   <lb ed="#B" n="97"/>hac conditione: Primo dabit ei decies mille
+   aure<lb ed="#B" n="98" break="no"/>os: vt ad paruam Britanniam eat empturus
+   bo<lb ed="#B" n="99" break="no"/>ues / oues / &amp; equos qui vili precio in Britannia ha 
+   <lb ed="#B" n="100"/>bentur, &amp; dabit ei tertiam partem lucri interuso 
+   <lb ed="#B" n="101"/>rii. Alii multi etiam Parisienses fideles viri
+   va<lb ed="#B" n="102" break="no"/>dunt cum illo consocii ad similia emenda pro
+   se<lb ed="#B" n="103" break="no"/>ipsis. &amp; suppono quod prudentes iudicabunt
+   lu<lb ed="#B" n="104" break="no"/>crum futurum vltra impensas &amp; labores consiste 
+   <lb ed="#B" n="105"/>re in mille francis gratia exempli. Plato tenetur 
+   <lb ed="#B" n="106"/>lata culpa &amp; leui, &amp; talibus periculis est subiectus. 
+   <lb ed="#B" n="107"/>Plato quem supponimus circumspectissimum potest habe 
+   <lb ed="#B" n="108"/>re pecuniam suam Namnetis per trapezitas seu bancarios. 
+   <lb ed="#B" n="109"/>pone ita esse. &amp; pono quod Sortes inter coenandum cum 
+   <lb ed="#B" n="110"/>Platone &amp; aliis peritis negociatoribus Parisiensibus 
+   <!--0365.xml-->
+   <pb ed="#B" n="167-r"/>
+       <cb ed="#B" n="a"/>
+       <lb ed="#B" n="1"/>paratis ire ad Britanniam loquatur de lucro venturo: &amp; 
+   <lb ed="#B" n="2"/>Cicero offerat sorti sexcentos francos pro lucro in fi 
+   <lb ed="#B" n="3"/>ne quatuor mensium soluendos: quare sortes non
+   po<lb ed="#B" n="4" break="no"/>terit hoc concedere platoni consocio hoc rogantirom 
+   <lb ed="#B" n="5"/>pone quod sorte dicente esse periculum tam in lucro qui 
+   <lb ed="#B" n="6"/>in capitali, dicat Cicero se paratum subire omne pericu 
+   <lb ed="#B" n="7"/>lum gratia trecentorum francorum: periculum inquam ad quod 
+   <lb ed="#B" n="8"/>non tenetur Plato: &amp; hoc idem offerat Plato libenter: &amp; 
+   <lb ed="#B" n="9"/>cum hoc magnam sibi reputabit factam gratiam. Si po 
+   <lb ed="#B" n="10"/>nas haec animalia morti naturali &amp; casui fortuito 
+   <lb ed="#B" n="11"/>esse subiecta: hoc est falsum dummodo vigiles
+   pa<lb ed="#B" n="12" break="no"/>stores ea in itinere minent. vel pone in speciebus, 
+   <lb ed="#B" n="13"/>vel aliis mercibus preciosis &amp; raris, &amp; quas facile 
+   <lb ed="#B" n="14"/>est adducere: quas abusque Tropico capricorni
+   he<lb ed="#B" n="15" break="no"/>sperii occidui ad Britannia paruam nauigio attulelite. 
+   <lb ed="#B" n="16"/>Haec ratio mihi persuadet contractum non esse
+   vsura<lb ed="#B" n="17" break="no"/>rium: sed pono finem debitum &amp; caetera
+   requisi<lb ed="#B" n="18" break="no"/>ta. Secundo arguitur ad idem. pactum quod non est 
+   <lb ed="#B" n="19"/>contra substantiam: sed praeter naturam contractus 
+   <lb ed="#B" n="20"/>valet. vt. ff. de po. l. i. &amp; in capi. vnico de commo.
+   In<lb ed="#B" n="21" break="no"/>super Romanus pontifex in cap. Per vestras. de 
+   <lb ed="#B" n="22"/>donatio. inter virum &amp; vxorem. dicit quod dos mulieris 
+   <lb ed="#B" n="23"/>potest committi alicui mercatori: vt de parte
+   hone<lb ed="#B" n="24" break="no"/>sti lucri vir onera matrimonii possit sustentare. Non 
+   <lb ed="#B" n="25"/>valet quod alii dicunt, non tamen debet restitui dos si 
+   <lb ed="#B" n="26"/>percat sine culpa mercatoris. hoc inquam non valet. 
+   <lb ed="#B" n="27"/>&amp; ratio est: quia in illo ca. certabatur quod maritus hu 
+   <lb ed="#B" n="28"/>ius satisdaret de dote seruanda: qui erat inopia per res 
+   <lb ed="#B" n="29"/>sus. &amp; Innocentius mandat vt det cautionem quam 
+   <lb ed="#B" n="30"/>potest maritus: vel saltem mercatori alicui dos com 
+   <lb ed="#B" n="31"/>mittatur: qui tamen si non esset obligatus in omnem 
+   <lb ed="#B" n="32"/>euentum seruare mulieris pecuniam: peius forte agere 
+   <lb ed="#B" n="33"/>tur cum illa quam cum marito: nec voluisset pontifex suffi 
+   <lb ed="#B" n="34"/>cienter prouidere mulieri. quod est inconveniens. &amp; 
+   <lb ed="#B" n="35"/>si hoc liceat mulieri: non erit vllo modo vsura: &amp; 
+   <lb ed="#B" n="36"/>aliis licebit. igitur. Praeterea ad idem est lex. Si non 
+   <lb ed="#B" n="37"/>fueritcilite. pro socio. &amp; institu. De socie. Ss. De illa. 
+  </p>
+      <p xml:id="jMqv4a-d1e885-d1e507">
+       <lb ed="#B" n="38"/>⁋ Tertia est opinio istius Conradi Sumenhart nec 
+   <lb ed="#B" n="39"/>terici, contractum asserentis esse illicitum cum prima 
+   <lb ed="#B" n="40"/>opinione: etiam si a. minimam partem lucri velit
+   habe<lb ed="#B" n="41" break="no"/>re. ratio est: quia habet speciem mutui vsurarii: 
+   <lb ed="#B" n="42"/>quia traditio illa quantum est ex forma sua / est
+   for<lb ed="#B" n="43" break="no"/>ma in qua fit mutuatio: quamuis non sit propria soli 
+   <lb ed="#B" n="44"/>mutuationi. &amp; licet intentio possit facere quod non sit 
+   <lb ed="#B" n="45"/>mutuatio: tamen illa non constat hominibus. &amp; ideo 
+   <lb ed="#B" n="46"/>ille contractus natus est infamare a. de crimine vsu 
+   <lb ed="#B" n="47"/>rae. &amp; sic a contrahendo agit contra charitatem sui 
+   <lb ed="#B" n="48"/>ipsius. Dicit insuper quod ille contractus natus est scaun 
+   <lb ed="#B" n="49"/>dalizare proximum: quia ex hoc accipiet proximus 
+   <lb ed="#B" n="50"/>occasionem etiam contractum qui est mutuum
+   vsu<lb ed="#B" n="51" break="no"/>rarium exercendi. Item si admitteretur ille contra 
+   <lb ed="#B" n="52"/>ctus: aperta esset ianua omnibus vsurariis. Dico 
+   <lb ed="#B" n="53"/>hanc opinionem nullam: quia pari facilitate dicam 
+   <lb ed="#B" n="54"/>quod non licet capere aliquid vltra sortem in mutuc 
+   <lb ed="#B" n="55"/>ratione interesse lucri cessantis: cum multo maio- 
+   <!--0365.xml-->
+   <cb ed="#B" n="b"/> 
+       <!-- 167-r b -->
+       <lb ed="#B" n="56"/>ri colore quam ipse hic dicat. immo ratione damni quod 
+   <lb ed="#B" n="57"/>me fingam incurrisse: viam vsurariis aperiam. Has 
+   <lb ed="#B" n="58"/>rationes in secunda quaestione de vsura eluimus: 
+   <lb ed="#B" n="59"/>nunc autem breuitati studendum est. Introduxi duas 
+   <lb ed="#B" n="60"/>leges quas Hostiensis, &amp; Ioannes Andreas pro 
+   <lb ed="#B" n="61"/>se allegarunt: quia partim cum eis conuenio.
+   Re<lb ed="#B" n="62" break="no"/>spondet iste ad. s. De illa. Institu. de soci. vbi
+   dici<lb ed="#B" n="63" break="no"/>tur quod valet pactum vt alter non sentiat de damno 
+   <lb ed="#B" n="64"/>sed de lucro. dicens hoc intelligi quod licitum sit
+   po<lb ed="#B" n="65" break="no"/>nenti operam pacisci vt non sentiat damnum
+   pecu<lb ed="#B" n="66" break="no"/>niae capitalis: sed ponens pecuniam non potest sic pa 
+   <lb ed="#B" n="67"/>cisci. Hoc non est rationabile quod liceat ponenti ope 
+   <lb ed="#B" n="68"/>ram magis pacisci quam ponenti pecuniam: &amp; equae 
+   <lb ed="#B" n="69"/>erit species mali in vno vt in alio, non tamen me 
+   <lb ed="#B" n="70"/>fugit quod licitum sit aliquid accipere &amp; honestum: &amp; non 
+   <lb ed="#B" n="71"/>pacisci de illo accipiendo: vt superius de vsura 
+   <lb ed="#B" n="72"/>exemplificauimus, quod mutuator potest gratis
+   ob<lb ed="#B" n="73" break="no"/>latum capere a mutuatatio: sed non super hoc
+   pa<lb ed="#B" n="74" break="no"/>cisci. verum hoc est propter speciale in sua
+   mate<lb ed="#B" n="75" break="no"/>ria. &amp; si donator paciscatur cum donatario vt do 
+   <lb ed="#B" n="76"/>natarius sibi aliquid det gratis: iam est egressus 
+   <lb ed="#B" n="77"/>extra limites donationis: cum donum secundum 
+   <lb ed="#B" n="78"/>Aristote. iiii. Topicorum, sit datio irredibilis: id est, 
+   <lb ed="#B" n="79"/>est datio facta non propter aequiualens reddendum 
+   <lb ed="#B" n="80"/>datori. Dicit praeterea aliuo: quod a. praeter damnum 
+   <lb ed="#B" n="81"/>quod expectat in pecunia capitali in toto vel in  
+   <lb ed="#B" n="82"/>parte si perdatur: habet ex pectare etiam damnum 
+   <lb ed="#B" n="83"/>in interusorio / etiam si pecunia non perdatur.
+   si<lb ed="#B" n="84" break="no"/>cut contra b. sentit damnum perditionis
+   opera<lb ed="#B" n="85" break="no"/>rum si contingat. Et concludit quod haec solutio est 
+   <lb ed="#B" n="86"/>val ida: non autem illa quam dat roan. Cal. dicens 
+   <lb ed="#B" n="87"/>quod. S. ille intelligitur non de capitali sed de damnis 
+   <lb ed="#B" n="88"/>&amp; lucris contingentibus saluo capitali. Contra 
+   <lb ed="#B" n="89"/>Calderinum argumentatur Conradus &amp; bene. 
+   <lb ed="#B" n="90"/>si aequitati societatis non obstat quod in lucris
+   con<lb ed="#B" n="91" break="no"/>tingentibus ex interusorio pecuniae &amp; operarum 
+   <lb ed="#B" n="92"/>sint ita inaequales vt vnus: vt puta etiam ille qui 
+   <lb ed="#B" n="93"/>dat pecuniam, sentiat lucrum sine damno
+   op<lb ed="#B" n="94" break="no"/>posito tali lucro: &amp; hoc non possit esse nisi alter 
+   <lb ed="#B" n="95"/>scilicet a. alteri scilicet b. refundat onus alia via: 
+   <lb ed="#B" n="96"/>ergo eadem ratione etiam fieri poterit sine
+   incur<lb ed="#B" n="97" break="no"/>su iniquitatis, quod alter scilicet a. sentiat lucrum
+   si<lb ed="#B" n="98" break="no"/>ne vllo damno capitalis pecuniae: dummodo a. 
+   <lb ed="#B" n="99"/>refundat b. onus periculi capitalis ei impositum. 
+   <lb ed="#B" n="100"/>Dico quod etiam hoc argumentum factorem iugu 
+   <lb ed="#B" n="101"/>lat: &amp; probat solutionem nullam quam dicit esse 
+   <lb ed="#B" n="102"/>validam. dicit quod non: quia a. praeter damnum 
+   <lb ed="#B" n="103"/>quod expectat in pecunia capitali in toto vel in  
+   <lb ed="#B" n="104"/>parte si perdatur, habet expectare etiam damnum 
+   <lb ed="#B" n="105"/>in interusorio eiusdem pecuniae / etiam si
+   pecu<lb ed="#B" n="106" break="no"/>nia non perdatur. Hoc totum est verum, sed no 
+   <lb ed="#B" n="107"/>dus rei est &amp; pondus totius argumenti quo
+   qui<lb ed="#B" n="108" break="no"/>libet vteretur arguendo: cui non est satisfactum 
+   <lb ed="#B" n="109"/>hoc totum est redimibile precio: &amp; potest a.
+   rele<lb ed="#B" n="110" break="no"/>uare b. in hoc quod obligat ipsum b. ad omnia onera 
+   <!--0366.xml-->
+   <pb ed="#B" n="167-v"/>
+       <cb ed="#B" n="a"/>
+       <!--0366.xml-->
+       <cb ed="#B" n="b"/> 
+       <!-- 167-v b -->
+       <lb ed="#B" n="1"/>periculi subeunda per lucri diminutionem, quemad  
+   <lb ed="#B" n="2"/>modum per sortem parisiensem ratione &amp;
+   exem<lb ed="#B" n="3" break="no"/>plo argumentati sumus. 
+  </p>
+      <p xml:id="jMqv4a-d1e885-d1e694">
+       <lb ed="#B" n="4"/>⁋ Epilogando convenientiam &amp; dis 
+   <lb ed="#B" n="5"/>crimen inter has opiniones: meam opinionem
+   recen<lb ed="#B" n="6" break="no"/>sere &amp; fulcire libebit. Aso &amp; Accursius contractum 
+   <lb ed="#B" n="7"/>nominatum in titulo quaestionis dicunt illicitum. 
+   <lb ed="#B" n="8"/>non respondi omnibus rationibus eorum: quia 
+   <lb ed="#B" n="9"/>pondus omnium consistit in hoc quod dixi soluendo 
+   <lb ed="#B" n="10"/>argumentum eorum vnicum. Alia est positio Ho 
+   <lb ed="#B" n="11"/>stiensis &amp; loan. Andreae. sed iste contemporaneus 
+   <lb ed="#B" n="12"/>noster Conradus contra eos arguens dicit eos
+   si<lb ed="#B" n="13" break="no"/>pi contradicere: quia dicunt pactum valere quod po 
+   <lb ed="#B" n="14"/>nens pecuniam non sentiat damnum in capitali. si 
+   <lb ed="#B" n="15"/>tamen capitale esset perditum in casu fortuito: tunc 
+   <lb ed="#B" n="16"/>qui posuit capitale deberet in foro animae
+   remit<lb ed="#B" n="17" break="no"/>tere. Ipse semper suo more non modo non capit opi 
+   <lb ed="#B" n="18"/>niones aliorum, sed nec apparenter mentem eorum 
+   <lb ed="#B" n="19"/>verum sparsim dicta sine intellectu ponentium 
+   <lb ed="#B" n="20"/>impugnat. palam est quod isti profundi iurisperiti seu 
+   <lb ed="#B" n="21"/>Canonistae volunt dicere quod licet pacisci, excipien 
+   <lb ed="#B" n="22"/>do tamen casum fortuitum, vel qui de aequitate 
+   <lb ed="#B" n="23"/>naturali est excipiendus. Hostiensis ergo &amp; loan 
+   <lb ed="#B" n="24"/>Andreas dicunt contractum esse illicitum si in ca 
+   <lb ed="#B" n="25"/>su fortuito sit pactio. Et ex isto patet quod sibi non 
+   <lb ed="#B" n="26"/>contradicunt, nec argumenta contra eos directa 
+   <lb ed="#B" n="27"/>sunt ad eorum mentem. lste tertius Conradus di 
+   <lb ed="#B" n="28"/>cit contractum esse illicitum propter speciem vsu 
+   <lb ed="#B" n="29"/>rae: licet interdum incidat in hoc quod est contra
+   iu<lb ed="#B" n="30" break="no"/>stitiam commutatiuam. Dico ego contractum esse 
+   <lb ed="#B" n="31"/>licitum etiam in casu fortuito &amp; quocunque alio. 
+  </p>
+      <p xml:id="jMqv4a-d1e885-d1e757">
+       <lb ed="#B" n="32"/>⁋ Sed contra istum quartum modum adhuc
+   ar<lb ed="#B" n="33" break="no"/>gumentabor pro Hostiense, &amp; loanne Andrea. 
+   <lb ed="#B" n="34"/>stante toto casu inter a &amp; b. vel inter sortem &amp;
+   pla<lb ed="#B" n="35" break="no"/>tonem Parisiis, stat quod animalia in itinere aliquem 
+   <lb ed="#B" n="36"/>morbum contrahant: frigore vel fulmine pereant: 
+   <lb ed="#B" n="37"/>vel multis aliis modis. ergo est contra iustitiam 
+   <lb ed="#B" n="38"/>commutatiuam a platone capere ducentos vel trecen 
+   <lb ed="#B" n="39"/>tos francos fixos platone nihil lucrante. Fortasse 
+   <lb ed="#B" n="40"/>alicui videbitur in hoc argumento color. sed con 
+   <lb ed="#B" n="41"/>sideratis illis quae crebro ante diximus,
+   argumen<lb ed="#B" n="42" break="no"/>tum non habet apparentiam vllam. ratio est: quia
+   con<lb ed="#B" n="43" break="no"/>cludit contra verum sicut &amp; contra falsum: ergo 
+   <lb ed="#B" n="44"/>est elenchus sophisticus &amp; non ponderandus.
+   as<lb ed="#B" n="45" break="no"/>sumptum probo, concludit contra vnum
+   contra<lb ed="#B" n="46" break="no"/>ctum quem quilibet diceret licitum / sicut contra 
+   <lb ed="#B" n="47"/>hunc contractum. ergo si contra vnum non
+   conclu<lb ed="#B" n="48" break="no"/>dit: vi huius rationis contractum non damnabis 
+   <lb ed="#B" n="49"/>Quod probatur: si dem mille aureos mutuo
+   sor<lb ed="#B" n="50" break="no"/>ti: ipse tenetur dare mihi ratione interesse. xl.
+   au<lb ed="#B" n="51" break="no"/>reos: ipse enim est negociator. fures post duos dies ex 
+   <lb ed="#B" n="52"/>quo egressus est domo mea tollunt totum
+   capi<lb ed="#B" n="53" break="no"/>tale: adhuc tenebitur mihi dare vltra capitale. xl 
+   <lb ed="#B" n="54"/>nisi inopia pressus fuerit tanta vt licite non possim 
+   <!--0366.xml-->
+   <pb ed="#B" n="167-v"/>
+       <cb ed="#B" n="c"/>
+       <lb ed="#B" n="55"/>habere actionem contra eum repetendi. nullo mo 
+   <lb ed="#B" n="56"/>do enim est habendus respectus ad illud quod se 
+   <lb ed="#B" n="57"/>quitur: sed ad illud quod erat verosimile iudicio 
+   <lb ed="#B" n="58"/>rudentum in principio contractus: vt saepiuscu 
+   <lb ed="#B" n="59"/>le antehac diximus. Sed dicis. mutuatarius est 
+   <lb ed="#B" n="60"/>dominus mutui: &amp; mutuum in manu domini perit. 
+   <lb ed="#B" n="61"/>Contra. idem contingit in commodato: vt dicit 
+   <lb ed="#B" n="62"/>Romanus pontifex in capitulo vnico illius
+   titu<lb ed="#B" n="63" break="no"/>li. &amp; tamen commodans est dominus: tunc si dem 
+   <lb ed="#B" n="64"/>centum equos meos tibi commodato cum hoc
+   pa<lb ed="#B" n="65" break="no"/>cto vt sis subiectus omni periculo / quod accidere 
+   <lb ed="#B" n="66"/>potest: &amp; si sine culpa tua omnes in die sequenti 
+   <lb ed="#B" n="67"/>pereant more bonorum lob: vel aliter non refert) 
+   <lb ed="#B" n="68"/>teneberis mihi ad restitutionem: quamuis ego sim
+   il<lb ed="#B" n="69" break="no"/>larum rerum dominus.
+  </p>
+      <p xml:id="jMqv4a-d1e885-d1e848">
+   ⁋ Dico ergo ad formam 
+   <lb ed="#B" n="70"/>argumenti. postquam aliquis contractus est licitus ab 
+   <lb ed="#B" n="71"/>initio &amp; aequus iudicio prudentum in illa arte:
+   vtra<lb ed="#B" n="72" break="no"/>quod pars contrahentium habet apparens lucrum. 
+   <lb ed="#B" n="73"/>licet enim altera pars postea, siue sine culpa, siue 
+   <lb ed="#B" n="74"/>cum culpa in sua negociatione deterior fiat: hoc 
+   <lb ed="#B" n="75"/>non inficit contractum pristinum: nec arguit ipsum 
+   <lb ed="#B" n="76"/>fuisse illicitum. quod nobis sufficit. &amp; quod
+   am<lb ed="#B" n="77" break="no"/>plius est, non tenetur resarcire damnum parti quae 
+   <lb ed="#B" n="78"/>imprudenter negociata est / vel casu fortuito
+   inci<lb ed="#B" n="79" break="no"/>dit in suarum rerum iacturam.
+  </p>
+      <p xml:id="jMqv4a-d1e885-d1e872">
+   ⁋ Secundo argui 
+   <lb ed="#B" n="80"/>tur, non licet a. capere a be, nec sorti a platone, de 
+   <lb ed="#B" n="81"/>quibus exemplificauimus inter arguendum &amp; in  
+   <lb ed="#B" n="82"/>casu quaestionis, ducentos vel trecentos francos. 
+   <lb ed="#B" n="83"/>probatur sic. nulli licet capere lucrum de pecunia 
+   <lb ed="#B" n="84"/>alterius. sed b. &amp; Plato sunt domini istius
+   pecu<lb ed="#B" n="85" break="no"/>niae: ergo non licet a. &amp; sorti aliquid capere
+   ratio<lb ed="#B" n="86" break="no"/>ne illius pecuniae.
+  </p>
+      <p xml:id="jMqv4a-d1e885-d1e891">
+   ⁋ Respondetur: a. &amp; sortes adhuc 
+   <lb ed="#B" n="87"/>sunt domini istius pecuniae: quemadmodum po 
+   <lb ed="#B" n="88"/>nens in societatem pecuniam / facit socium suum 
+   <lb ed="#B" n="89"/>condominum. sicut econuerso si alter ponat pe 
+   <lb ed="#B" n="90"/>cuniam: alter etiam dat ei condominium: ita vt 
+   <lb ed="#B" n="91"/>pecunia sit vtriusque indistincte: quemadmodum 
+   <lb ed="#B" n="92"/>omnia bona erant Adae, &amp; Euae ab initio orbis 
+   <lb ed="#B" n="93"/>conditi. vel si sortes ponit pecuniam &amp; plato ope 
+   <lb ed="#B" n="94"/>tam: Plato est condominus illius pecuniae, de qua 
+   <lb ed="#B" n="95"/>accipit partiale lucrum. quod autem condominium 
+   <lb ed="#B" n="96"/>tradidit ei sortes, &amp; iterato sortes est
+   condomi<lb ed="#B" n="97" break="no"/>nus operarum platonis in illa negociatione
+   exhi<lb ed="#B" n="98" break="no"/>bitarum, patet: quia ponens pecuniam in
+   societa<lb ed="#B" n="99" break="no"/>tem non exuit a se totale dominium pecuniae suae: 
+   <lb ed="#B" n="100"/>&amp; propterea non recipit de alieno ponens solam 
+   <lb ed="#B" n="101"/>pecuniam in sortem: sed de suo, non enim
+   sequi<lb ed="#B" n="102" break="no"/>tur: pecunia est consocii Platonis: ergo est
+   alie<lb ed="#B" n="103" break="no"/>num, hoc est nullo modo eius, quemadmodum de 
+   <lb ed="#B" n="104"/>equo in statu innocentiae, qui fuit Euae: non
+   ta<lb ed="#B" n="105" break="no"/>men sequitur quod erat alienum ab Adam, id est non 
+   <lb ed="#B" n="106"/>eius: licet alienum improprie valde loquendo: id  
+   <lb ed="#B" n="107"/>est non solius eius. Dico etiam quod rem assecurari 
+   <lb ed="#B" n="108"/>ab alio non arguit assecurantem in re illa habere 
+   <lb ed="#B" n="109"/>dominium vllum: immo stat quod assecuratus solus 
+   <!--0367.xml-->
+   <pb ed="#B" n="168-r"/>
+       <cb ed="#B" n="a"/>
+       <lb ed="#B" n="1"/>habeat dominium: &amp; assecurans non habeat: sed hoc 
+   <lb ed="#B" n="2"/>non est in societate pecuniaria. Hoc sic declaro. 
+   <lb ed="#B" n="3"/>cum aromatarius tradidit mihi sua vasa argentea in 
+   <lb ed="#B" n="4"/>prandio doctoratus mei: tenebar ex lege caesarea 
+   <lb ed="#B" n="5"/>vt in locatione allegauimus, &amp; ex lege consuetudi 
+   <lb ed="#B" n="6"/>natia Parisiis obseruata restituere quodcumque vas perdi 
+   <lb ed="#B" n="7"/>tum qualitercumque periisset: &amp; tamen aromatarius 
+   <lb ed="#B" n="8"/>vasorum solus erat dominus: ego autem assecurans: non dominus 
+   <lb ed="#B" n="9"/>Sed dicis. ponens operam in societatem / post societa 
+   <lb ed="#B" n="10"/>tis complementum. creberrime refundit totum capitale 
+   <lb ed="#B" n="11"/>pecuniam ponenti: vt puta si aggregatum ex capitali 
+   <lb ed="#B" n="12"/>&amp; interusorio non sit in fine partiendum: ergo ponens 
+   <lb ed="#B" n="13"/>operam nec est dominus nec condominus illius pecuniae 
+  </p>
+      <p xml:id="jMqv4a-d1e885-d1e978">
+       <lb ed="#B" n="14"/>⁋ Respondeo. consequentia est nulla, nonne vides quod 
+   <lb ed="#B" n="15"/>mutuatarius mutuum restituere est obstrictus: &amp; tamen 
+   <lb ed="#B" n="16"/>est solus dominus mutui: quia in mutatione mutuator 
+   <lb ed="#B" n="17"/>dominio cessit. Si quaeras an sequatur: sortes est
+   con<lb ed="#B" n="18" break="no"/>dominus in societate istius totius pecuniae: ergo est 
+   <lb ed="#B" n="19"/>dominus istius totius. Dico siue sequatur siue non 
+   <lb ed="#B" n="20"/>quid ad a? sed illam concedo: alioquin Adam in
+   sta<lb ed="#B" n="21" break="no"/>tu innocentiae nullius rei fuisset dominus simpliciter. 
+   <lb ed="#B" n="22"/>simpliciter autem dico quod sine addito dico. primo 
+   <lb ed="#B" n="23"/>Priorum. Sed nisi nobis esset fixus animus diuer 
+   <lb ed="#B" n="24"/>sum ab hac materia seu impertinens non aggredien 
+   <lb ed="#B" n="25"/>di: mente occurrit replicatio de religiosorum bonis 
+   <lb ed="#B" n="26"/>Nam quilibet. xxx. canonicorum sanctae Genouefai 
+   <lb ed="#B" n="27"/>est condominus bonorum coenobii: &amp; tamen non dici 
+   <lb ed="#B" n="28"/>mus quemlibet illorum bonorum esse dominum 
+   <lb ed="#B" n="29"/>Ex his patet aditus ad decisionem cuiusdam quae 
+   <lb ed="#B" n="30"/>stionis quam doctissimus Ioannes Eclius gymna 
+   <lb ed="#B" n="31"/>sii Ingolstadiensis procancellarius optime
+   meri<lb ed="#B" n="32" break="no"/>tus, ad nostram facultatem transmisit. 
+  </p>
+    </div>
+   </body>
+  </text>
+</TEI>

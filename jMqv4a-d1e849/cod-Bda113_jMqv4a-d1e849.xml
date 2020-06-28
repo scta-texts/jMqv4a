@@ -1,0 +1,376 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 44</title>
+      <author ref="#JohnMair">John Mair</author>
+      <respStmt>
+       <name>Jeffrey C. Witt</name>
+       <resp>TEI Encoder</resp>
+      </respStmt>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 44</title>
+       <date when="2020-06-09">June 27, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="B" n="cod-Bda113">Badius 1516</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+     guidelines for a diplomatic edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-06-27" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+      <pb ed="#B" n="159-r"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="jMqv4a-d1e849"> <!-- l4d15q44 -->
+      <head xml:id="jMqv4a-d1e849-Hd1e104">Quaestio 44</head>
+      <head xml:id="jMqv4a-d1e849-Hd1e107" type="question-title">An liceat emere vitalitium, hoc est sustentationem 
+  pro vita vel pro victu</head>
+      <p xml:id="jMqv4a-d1e849-d1e110">
+       <lb ed="#B" n="96"/>Vinto &amp; vltimo
+   cir<lb ed="#B" n="97" break="no"/>ca emptionem &amp; venditionem 
+   <lb ed="#B" n="98"/>ac tertio &amp; vltimo circa
+   ma<lb ed="#B" n="99" break="no"/>teriam reddituum quaeritur: an liceat 
+   <lb ed="#B" n="100"/>emere vitalitium / hoc est susten 
+   <lb ed="#B" n="101"/>tationem pro vita vel pro victum. 
+   <lb ed="#B" n="102"/>sed de primo intendimus
+   lo<lb ed="#B" n="103" break="no"/>qui.
+  </p>
+      <p xml:id="jMqv4a-d1e849-d1e130">
+   ⁋ Respondetur affirmatiue ad titulum quaestionis 
+   <lb ed="#B" n="104"/>Probatur. licet emere redditus perpetuos &amp;
+   tempora<lb ed="#B" n="105" break="no"/>neos redimibiles &amp; irredimibiles ex quaestionibus praece- 
+   <!--0350.xml-->
+   <pb ed="#B" n="159-v"/>
+       <cb ed="#B" n="a"/>
+       <lb ed="#B" n="1"/>dentibus: ergo emere redditus de se: hoc est in cmmuni: 
+   <lb ed="#B" n="2"/>si habeat circumstantias requisitas &amp; sufficientes: est 
+   <lb ed="#B" n="3"/>actus bonus. hoc est / actus voluntatis quo quis vuli 
+   <lb ed="#B" n="4"/>talem redditum emere: nec habet circumstantiam malam: 
+   <lb ed="#B" n="5"/>saltem non oportet, quod probatur: quia aliqui sunt quibus 
+   <lb ed="#B" n="6"/>respublica debet debito congruitatis, &amp; aliqui sunt 
+   <lb ed="#B" n="7"/>quibus debet debito necessitatis prouidere de victu 
+   <lb ed="#B" n="8"/>&amp; vestitu, hoc est de omnibus necessariis ad viuendum 
+   <lb ed="#B" n="9"/>&amp; si eis non prouideatur ex reipublicae segnitie: homo 
+   <lb ed="#B" n="10"/>potest sibi in his prouidere. assumptum pats de intentis 
+   <lb ed="#B" n="11"/>alicui bono spirituali pro reipublicae vtilitate: quibus 
+   <lb ed="#B" n="12"/>&amp; reipublicae nocet quod saecularibus negociis vacent: 
+   <lb ed="#B" n="13"/>quod patebit in solutione primi argumenti. Secundo  
+   <lb ed="#B" n="14"/>probatur. licitum est alicui contractum praecariarum facere: igitur 
+   <lb ed="#B" n="15"/>etiam emere vitalitium. tenet consequentia, quia contractus 
+   <lb ed="#B" n="16"/>praecariarum est contractus non gratuitus quo aliquis pro 
+   <lb ed="#B" n="17"/>aliquo quod praecio aequiualet, acquirit vitalitium. modo 
+   <lb ed="#B" n="18"/>idem est acquirere per pecuniam: quia hoc discrimen non 
+   <lb ed="#B" n="19"/>potest facere vnum cotractum illicitum &amp; alium licitum. Osten 
+   <lb ed="#B" n="20"/>do exemplo. Sortes habens praedium mox dat illud
+   ec<lb ed="#B" n="21" break="no"/>clesiae in proprietatem: sic scilicet vt ecclesia Sorti ad vitam 
+   <lb ed="#B" n="22"/>tria perdia assignet ad vsufructuandum: quorum quodli 
+   <lb ed="#B" n="23"/>bet suo praedio aequiualet. &amp; si suum praedium tenere
+   vo<lb ed="#B" n="24" break="no"/>luerit: duo praedia aequiualentia ecclesia assignare
+   te<lb ed="#B" n="25" break="no"/>netur. lstud expresse habetur. x. q. ii. ca. Precariae. Illud 
+   <lb ed="#B" n="26"/>autem quod Sortes per praedictum contractum acquirit, solum est 
+   <lb ed="#B" n="27"/>pro vitalitio vt sustentetur pro vita sua: vel pro aliquo 
+   <lb ed="#B" n="28"/>maiore quod vitalitium includit. sit ergo Sortes dans 
+   <lb ed="#B" n="29"/>praedium. xl. aureos valens ecclesiae: ecclesia assignabit 
+   <lb ed="#B" n="30"/>ei tria similia praedia quae valent quadragesies mille
+   li<lb ed="#B" n="31" break="no"/>bras sterlingorum quotannis pro sui sustentatione
+   ho<lb ed="#B" n="32" break="no"/>nesta, nec requiritur quod semper contractus praecariarum sit 
+   <lb ed="#B" n="33"/>gratuitus ex parte vtriusque partis contrahetis, vtpote 
+   <lb ed="#B" n="34"/>Sortes titulo donationis dat suum praedium ecclessae: &amp; 
+   <lb ed="#B" n="35"/>econverso ecclesia titulo donationis dat vsumfru 
+   <lb ed="#B" n="36"/>ctum Sorti. Illum enim contractum approbat ius pontifi 
+   <lb ed="#B" n="37"/>cium. vt patet in loco assignato &amp;. x. q. ii. in ca. Casellas 
+   <lb ed="#B" n="38"/>S. Si oeconomus. idem patet in iure Caesareo in auth. 
+   <lb ed="#B" n="39"/>de non alte. S. Si quis autem. Ergo eodem modo Plato potest 
+   <lb ed="#B" n="40"/>dare ecclesiae suum praedium simile vel tantum in pecunia 
+   <lb ed="#B" n="41"/>quantum valet praedium Sortis vt detur sibi similiter
+   tri<lb ed="#B" n="42" break="no"/>plex praedium cum praedio Sortis vt inde viuat. Tertio 
+   <lb ed="#B" n="43"/>probatur idem. Sortes potest licite agrum suum locare ad
+   vi<lb ed="#B" n="44" break="no"/>tam Platonis: &amp; licite potest Plato eum conducere. vt in  
+   <lb ed="#B" n="45"/>vtroque regno Britannorum satis vsitate fit. locatio 
+   <lb ed="#B" n="46"/>enim &amp; conductio fit pro pensione annua quam locanti 
+   <lb ed="#B" n="47"/>conductor dare debet. tunc Plato pro pensione annua 
+   <lb ed="#B" n="48"/>acquirit ius percipiendi fructus illius agri: immo
+   ple<lb ed="#B" n="49" break="no"/>rumque conductores agrorum procurant sibi in senectute 
+   <lb ed="#B" n="50"/>a dominis locantibus ius tale vt sic maneant per
+   vi<lb ed="#B" n="51" break="no"/>tam: ergo eodem modo potest aliquis emere sibi 
+   <lb ed="#B" n="52"/>vitalitium dando simul alicui illud quod iudicatur 
+   <lb ed="#B" n="53"/>aequiualere pensioni annuae. 
+  </p>
+      <p xml:id="jMqv4a-d1e849-d1e259">
+       <lb ed="#B" n="54"/>⁋ Contra hanc conclusionem arguitur. 
+   <!--0350.xml-->
+   <cb ed="#B" n="b"/> 
+       <!-- 159-v b -->
+       <lb ed="#B" n="55"/>vel cuilibet licet emere vitalitium, vel alicui &amp; ali 
+   <lb ed="#B" n="56"/>cui non. Secundum non videtur dicendum: quia nulla 
+   <lb ed="#B" n="57"/>apparet ratio discriminis, nec primum: quia tunc 
+   <lb ed="#B" n="58"/>nomines torperent ocio: &amp; nulli laborarent pro
+   fru<lb ed="#B" n="59" break="no"/>ctibus terrae colligendis. Similiter si Titius &amp; vxor 
+   <lb ed="#B" n="60"/>sua darent omnia bona sua alicui coenobio pro 
+   <lb ed="#B" n="61"/>vitalitiis, suis relictis liberis quibus habent thesau 
+   <lb ed="#B" n="62"/>rizare, improbe agerent. igitur.
+  </p>
+      <p xml:id="jMqv4a-d1e849-d1e288">
+   ⁋ Ad
+   argumen<lb ed="#B" n="63" break="no"/>tum concedo secundam partem quod alicui licet &amp;
+   ali<lb ed="#B" n="64" break="no"/>cui non. alicui enim est valde illicitum sicut exemplifica 
+   <lb ed="#B" n="65"/>uimus in casu. &amp; stat quod aliquibus sit licitum: nullo 
+   <lb ed="#B" n="66"/>pacto tamen expediens: muita namque licent quae non 
+   <lb ed="#B" n="67"/>expediunt, secundum Apostolum. vnde actus indiffe 
+   <lb ed="#B" n="68"/>rens secundum ponentes ipsum est licitus: vel siue negetur 
+   <lb ed="#B" n="69"/>actus indifferens siue non, minus bonum maiori
+   bo<lb ed="#B" n="70" break="no"/>no comparatum alicui est licitum: &amp; tamen non expa 
+   <lb ed="#B" n="71"/>dit. quia ad maius bonum non promouet. Aliqui etiam 
+   <lb ed="#B" n="72"/>sunt qui licet possint emere vitalitia: tamen magis con 
+   <lb ed="#B" n="73"/>ducit quod honesto labore vitam degant. Tertii sunt 
+   <lb ed="#B" n="74"/>quibus plurimum conducit emere vitalitia vel ea ha 
+   <lb ed="#B" n="75"/>bere. si vero habeant prouisionem iam sibi a republica 
+   <lb ed="#B" n="76"/>collatam, stultum est vitalitium velle emere. hoc autem 
+   <lb ed="#B" n="77"/>solum erit vocatum vitalitium, cum vitalitium iam habeant. 
+   <lb ed="#B" n="78"/>Exempla de generibus hominum quibus expedit
+   vi<lb ed="#B" n="79" break="no"/>talitia emere. habemus ex lege diuina veteri Nu 
+   <lb ed="#B" n="80"/>me. xviii. &amp; Deutero. xviii. quod Leuitis &amp; sacerdo  
+   <lb ed="#B" n="81"/>tibus filii Israel dabant primitias &amp; decimas: quia 
+   <lb ed="#B" n="82"/>erant cultui diuino mancipati. &amp; Deutero. xxv. di 
+   <lb ed="#B" n="83"/>citur. Non ligabis os bouis terentis in area fruges 
+   <lb ed="#B" n="84"/>tuas. Per bouem intelligitur verbi dei declamator: 
+   <lb ed="#B" n="85"/>populum in spiritualibus instruens. vt Apostolus 
+   <lb ed="#B" n="86"/>primae ad Corinth, nono exponit. &amp; Apostolus 
+   <lb ed="#B" n="87"/>in prima epistola ad Timoth. ca. v. Qui bene
+   prae<lb ed="#B" n="88" break="no"/>sunt (inquit) presbyteri: duplici honore digni ha 
+   <lb ed="#B" n="89"/>beantur: maxime qui laborant in verbo &amp;
+   doctri<lb ed="#B" n="90" break="no"/>na. vbi glossa dicit. Duplici honore. spiritualiter 
+   <lb ed="#B" n="91"/>eis obediant, &amp; exteriora ministrent. Propterea
+   be<lb ed="#B" n="92" break="no"/>neficia in noua lege addictis cultui diuino a
+   ma<lb ed="#B" n="93" break="no"/>loribus nostris deputata sunt: vt homines ab eis 
+   <lb ed="#B" n="94"/>capiant spiritualia bona: secundum illud Psalmographi. 
+   <lb ed="#B" n="95"/>Sumite psalterium &amp; date tympanum. per psalterium 
+   <lb ed="#B" n="96"/>spiritualia: &amp; tympanum temporalia intelliguntur. 
+   <lb ed="#B" n="97"/>Fodem modo de religiosis qui mundo abrenuncia 
+   <lb ed="#B" n="98"/>runt: contemplationi vacantes, pro se &amp; reliquis oran 
+   <lb ed="#B" n="99"/>tes. saltem hoc ex officio eis incumbit. Tertii sunt 
+   <lb ed="#B" n="100"/>in republica vtilissimi: vt qui vacant scientiarum 
+   <lb ed="#B" n="101"/>studio, &amp; potissimum vtiles ad illuminandum
+   in<lb ed="#B" n="102" break="no"/>tellectum: &amp; ad inflammandum affectum: sic vt 
+   <lb ed="#B" n="103"/>lluminatio sit ad inflammationem praeparatio 
+   <lb ed="#B" n="104"/>&amp; dispositio: sicut qualitatiuae dispositiones
+   requ<lb ed="#B" n="105" break="no"/>runtur in materia ad introductionem formae sub 
+   <lb ed="#B" n="106"/>stantialis. Hi olim habebant a republica stipendia 
+   <lb ed="#B" n="107"/>quibus dabantur alimenta e publicis regum horreis. 
+   <lb ed="#B" n="108"/>teste philosophorum principe primo
+   Metaphy<lb ed="#B" n="109" break="no"/>sicae. Vetus namque est prouerbium. bonus in foro, ma-  
+   <!--0351.xml-->
+   <pb ed="#B" n="160-r"/>
+       <cb ed="#B" n="a"/>
+       <lb ed="#B" n="1"/>lus in studio. Ergo ne in caducis bonis fortunae 
+   <lb ed="#B" n="2"/>occupentur, si sint ingeniosi / laboriosi / &amp; prudentes 
+   <lb ed="#B" n="3"/>pro aliis tam in speculatiuis quam in practicis laboran 
+   <lb ed="#B" n="4"/>tes: nunc vulgo ad populum qeclamantes: nunc
+   theo<lb ed="#B" n="5" break="no"/>logiam doctis legentes &amp; praedicatores promouentes: &amp; 
+   <lb ed="#B" n="6"/>cum eis a republica non fiat prouisio: quare negabis 
+   <lb ed="#B" n="7"/>eos sibi posse emere vitalitia vt consequenter
+   ad<lb ed="#B" n="8" break="no"/>huc reipublicae propriis laboribus inseruiant: more do 
+   <lb ed="#B" n="9"/>ctoris gentium nocte manibus laborantis &amp; interdiu 
+   <lb ed="#B" n="10"/>praedicantis: &amp; ab his quibus praedicabat sustentationem 
+   <lb ed="#B" n="11"/>non capientis ? Quarti sunt pauperes &amp; impotentes 
+   <lb ed="#B" n="12"/>quibus propria non sufficiunt bona, quibus habentes 
+   <lb ed="#B" n="13"/>bona possunt dare sicut &amp; ipsi accipere, vitalitia, 
+   <lb ed="#B" n="14"/>&amp; Christo in eorum personis dederint. Alii sunt
+   re<lb ed="#B" n="15" break="no"/>ctores reipublice in temporalibus: quibus e
+   repu<lb ed="#B" n="16" break="no"/>blica prouidendum est. 
+  </p>
+      <p xml:id="jMqv4a-d1e849-d1e433">
+       <lb ed="#B" n="17"/>⁋ Secundo arguitur. emens vitalitium 
+   <lb ed="#B" n="18"/>dat venditori occasionem peccandi: ergo vitalitium 
+   <lb ed="#B" n="19"/>emere est illicitum. consequentia patet: &amp; assumptum pro 
+   <lb ed="#B" n="20"/>batur: quia est causa quare saepe venditor optat enim ) 
+   <lb ed="#B" n="21"/>ptorem mortuu, &amp; gauderet de morte eius.
+  </p>
+      <p xml:id="jMqv4a-d1e849-d1e446">
+   ⁋
+   Re<lb ed="#B" n="22" break="no"/>spondetur. si ita sit, est occasio accepta &amp; no data. 
+   <lb ed="#B" n="23"/>sed potest vitalitii emptor emere vitalitium ab illo 
+   <lb ed="#B" n="24"/>vel illis qui de sua morte nullo pacto gaudebunt: 
+   <lb ed="#B" n="25"/>semper enim debet emere a melioribus: vtpote a
+   con<lb ed="#B" n="26" break="no"/>munitatibus: &amp; praesertim ab illa conitate in qua sunt 
+   <lb ed="#B" n="27"/>viri prudentes &amp; deu timentes: vt a bonis religiosis 
+   <lb ed="#B" n="28"/>vel aliis prudentibus saecularibus. et si vir valens sii 
+   <lb ed="#B" n="29"/>prudentia: inueniet qui pro modico aere dabunt sibi 
+   <lb ed="#B" n="30"/>vitalitium: immo gratis, vt gratis distinguitur contra 
+   <lb ed="#B" n="31"/>temporale bonum. In rebus namque ambiguis eis consu 
+   <lb ed="#B" n="32"/>let: cum in saeculari habitum non minus religiose viuat 
+   <lb ed="#B" n="33"/>quam alii in religioso habitum. Nec est dicendum quod
+   em<lb ed="#B" n="34" break="no"/>ptor vitalitii sit nimis sollicitus vt sibi prouideatur: 
+   <lb ed="#B" n="35"/>immo facit ista prudenter ne circa temporalia fiat 
+   <lb ed="#B" n="36"/>sollicitus: exemplo pauperis scholastici caponem
+   prae<lb ed="#B" n="37" break="no"/>sente Carolo magno in fine prandii capientis: qui cum 
+   <lb ed="#B" n="38"/>a prudentissimo &amp; magnanimo rege gratia ioci ar 
+   <lb ed="#B" n="39"/>gueretur quod fecisset contra verbum euangelicum vetans 
+   <lb ed="#B" n="40"/>virum esse sollicitum de crastino: prudenter respondit 
+   <lb ed="#B" n="41"/>scholasticus. Feci (inquit) inuictissime Imperator 
+   <lb ed="#B" n="42"/>mihi prouisionem in manica mediocrem: ne de crastino 
+   <lb ed="#B" n="43"/>essem nimis sollicitus. Stat tamen vnum auarum a quo 
+   <lb ed="#B" n="44"/>vitalitium emitur, si prudentiam vllam habeat dolere de 
+   <lb ed="#B" n="45"/>morte emptoris vitalitii, &amp; gaudere de liberatione 
+   <lb ed="#B" n="46"/>a vitalitio: licet vnum ad aliud consequatur. sicut secund 
+   <lb ed="#B" n="47"/>vulgatiorem theologorum positionem non stat quempiam 
+   <lb ed="#B" n="48"/>esse episcopum si non fuerit sacerdos. tamen potest velle 
+   <lb ed="#B" n="49"/>esse episcopus: nolendo esse sacerdos 
+  </p>
+      <p xml:id="jMqv4a-d1e849-d1e509">
+       <lb ed="#B" n="50"/>⁋ Tertio arguitur. emptio vitalitii 
+   <lb ed="#B" n="51"/>assimilatur ludo fortunae, qui est illicitus ergo etiam 
+   <lb ed="#B" n="52"/>vitalitium est illicitum: quia si vitalitium emens, vnum &amp; 
+   <lb ed="#B" n="53"/>nonaginta annos viuat more Platonis, multa s 
+   <lb ed="#B" n="54"/>dit venditor: &amp; per consequens bene lucratur emptor. 
+   <!--0351.xml-->
+   <cb ed="#B" n="b"/> 
+       <!-- 160-r b -->
+       <lb ed="#B" n="55"/>fin viuat annos Alexandri Macedonis, erit
+   econ<lb ed="#B" n="56" break="no"/>uerso. modo eius longa vita vel breuis est aeque 
+   <lb ed="#B" n="57"/>anceps ac aleae ludus.
+  </p>
+      <p xml:id="jMqv4a-d1e849-d1e535">
+   ⁋ Respondetur. aliquem ludum 
+   <lb ed="#B" n="58"/>fortunae inniti, hoc est casui fortuito: potest intel 
+   <lb ed="#B" n="59"/>ligi duobus modis. Vno modo quod homo faciat 
+   <lb ed="#B" n="60"/>actum cadentem super obiectum debitum sufficienter circum 
+   <lb ed="#B" n="61"/>stantionatum: in quo quidem actu est aequilibris appa 
+   <lb ed="#B" n="62"/>rentia damni &amp; lucri. &amp; hoc non est inconveniens. hoc 
+   <lb ed="#B" n="63"/>liquet in bello iusto, negociando per mare intetr Scyl 
+   <lb ed="#B" n="64"/>lam &amp; Charybdim: ventum &amp; procellam / &amp; medios 
+   <lb ed="#B" n="65"/>hostes. saepe periculum (vt aiunt) non vircitur 
+   <lb ed="#B" n="66"/>nisi periculo. Etiam patet in contractu eiptionis con 
+   <lb ed="#B" n="67"/>muniter. vbi tam emptor quam venditor sunt
+   circumspe<lb ed="#B" n="68" break="no"/>cti viri in arte negociandi: &amp; tam ipsi quam assistentes ne 
+   <lb ed="#B" n="69"/>gociatores dubirant quis lucraturus sit &amp; quis perdi 
+   <lb ed="#B" n="70"/>turus. quando enim est magna merx possunt
+   iudi<lb ed="#B" n="71" break="no"/>care vtrumque lucraturum. Alio modo aliquid inniti 
+   <lb ed="#B" n="72"/>tur foitunae quando innititur alicui obiecto
+   contra<lb ed="#B" n="73" break="no"/>hientibus inutili, quemadmodum est in taxillorum ludo:  
+   <lb ed="#B" n="74"/>vt in sua materia latius deduximus: sic in est in 
+   <lb ed="#B" n="75"/>proposito. 
+  </p>
+      <p xml:id="jMqv4a-d1e849-d1e578">
+       <lb ed="#B" n="76"/>⁋ Quarto arguitur. ponamus duos 
+   <lb ed="#B" n="77"/>sortem sexagenarium ementem vitalitium in capitulo 
+   <lb ed="#B" n="78"/>nostrae dominae Parisiensi: quia illud reputo ita
+   secu<lb ed="#B" n="79" break="no"/>rum vt emere ab vno conventu religiosorum quoruncum 
+   <lb ed="#B" n="80"/>quod: det Sortes ducentas libras parisienses pro iure
+   re<lb ed="#B" n="81" break="no"/>cipiendi quotannis quadraginta francos, quam non putatur 
+   <lb ed="#B" n="82"/>posse viuere vltra decem annos: sed propter periculum 
+   <lb ed="#B" n="83"/>stat quod non tantum viuat. Tunc Plato vigenarius a Car 
+   <lb ed="#B" n="84"/>thusia vitalitium emens, de quo est vero simile quod viuet 
+   <lb ed="#B" n="85"/>tot annos proportionabiliter quot Sortes, debet da 
+   <lb ed="#B" n="86"/>re quater amplius quam Sortes. patet: quia qualis est
+   pro<lb ed="#B" n="87" break="no"/>portio annorum Sortis &amp; Platonis inter se: talis
+   de<lb ed="#B" n="88" break="no"/>bet esse praecii ad praecium. consequens est falsum &amp; contra 
+   <lb ed="#B" n="89"/>eorum praxim qui viralitia emunt.
+  </p>
+      <p xml:id="jMqv4a-d1e849-d1e611">
+   ⁋ Respondetur, non se 
+   <lb ed="#B" n="90"/>quitur vt patet ex solutione ad quartum primae quaestionis 
+   <lb ed="#B" n="91"/>de emptione reddituum, nec est apparentia quod Plato 
+   <lb ed="#B" n="92"/>proportionabiliter tandiu viuet quam Sortes. Oppositum 
+   <lb ed="#B" n="93"/>enim est multo verosimilius: quia prius in magno anno 
+   <lb ed="#B" n="94"/>rum numero etiam iuuenis moritur quam in puo senex De 
+   <lb ed="#B" n="95"/>uerbio namque communi dicimus. pellis agnina fertur ad forum 
+   <lb ed="#B" n="96"/>sicut antiquam ouis pellis. Etiam magna pecunia simulul 
+   <lb ed="#B" n="97"/>collecta est melior habenti quam maior pecunia succes 
+   <lb ed="#B" n="98"/>siue acquisita. Propterea in solutione ad illd argumen 
+   <lb ed="#B" n="99"/>tum diximus: quod mercator minoris vendit quamlibet 
+   <lb ed="#B" n="100"/>vlnam panni venditi negociatori qui multa emit quam illi 
+   <lb ed="#B" n="101"/>qui pauca. Et cum ambiguum sit de vita iuuenis
+   quam<lb ed="#B" n="102" break="no"/>diu viuet: non oportet tantum in quantitate cape pro vita 
+   <lb ed="#B" n="103"/>litio a vigenario quantum a sexagenatio. sicut etiam 
+   <lb ed="#B" n="104"/>mercator vendit minoris ementi multa, quam multis tam 
+   <lb ed="#B" n="105"/>rundem ementibus sepatim. dico separatim: quia si vnus 
+   <lb ed="#B" n="106"/>conveniret pro omnibus, &amp; postea inter se merces
+   parti<lb ed="#B" n="107" break="no"/>rentur: aeque vili praecio haberent vt vnus emens. 
+  </p>
+      <p xml:id="jMqv4a-d1e849-d1e653">
+       <lb ed="#B" n="108"/>⁋ Ex his patet quod vitalitii emptio &amp; venditio ali- 
+   <!--0352.xml-->
+   <pb ed="#B" n="160-v"/>
+       <cb ed="#B" n="a"/>
+       <lb ed="#B" n="1"/>quibus est illicita: aliquibus honesta &amp; expediens: 
+   <lb ed="#B" n="2"/>aliquibus etiam non neganda. &amp; habendus est oculus 
+   <lb ed="#B" n="3"/>ad complexionem / temperantiam / vel intemperantiam / &amp; ad 
+   <lb ed="#B" n="4"/>passiones animae ipsius ementis. nam sanguineus &amp; 
+   <lb ed="#B" n="5"/>ab his qui diu viuunt procreatus, temperatus, &amp;
+   iucun<lb ed="#B" n="6" break="no"/>dus diutius viuit qui alius diuersus. Seruetur autem 
+   <lb ed="#B" n="7"/>latitudo iust i praecii: sic scilicet considerando quot annos 
+   <lb ed="#B" n="8"/>homo possit viuere. &amp; quia multa possunt occur 
+   <lb ed="#B" n="9"/>rere ne tandiu viuat: capiatur quoddam temperamentum: 
+   <lb ed="#B" n="10"/>vt homo potest pro. ccecc. aureis habere redditus per 
+   <lb ed="#B" n="11"/>petuos. xx. aureorum. &amp; iste redditus non est empto 
+   <lb ed="#B" n="12"/>ri sic onerosus ac si venditor vitalitii esset venditor 
+   <lb ed="#B" n="13"/>similis redditus: quia semper habebit probabilitatem 
+   <lb ed="#B" n="14"/>quod multis modis iste potest mori. Vlterius
+   sua<lb ed="#B" n="15" break="no"/>demus ne ab vno viro ematur vitalitium, vel por 
+   <lb ed="#B" n="16"/>tio a communiugato &amp; vxorem habente: quia bonam portio 
+   <lb ed="#B" n="17"/>nem in mala commutabit. a communitatibus autem potest 
+   <lb ed="#B" n="18"/>audacter emere scripto authentico super hoc
+   fabti<lb ed="#B" n="19" break="no"/>cato ne sit postea sollicitus.
+  </p>
+      <p xml:id="jMqv4a-d1e849-d1e705">
+   ⁋ Ex omnibus patet quid  
+   <lb ed="#B" n="20"/>sit redditus: tam fructuarius quam pecuniarius: &amp; quod 
+   <lb ed="#B" n="21"/>vterque potest esse redimibilis &amp; irredimibilis: ad nu 
+   <lb ed="#B" n="22"/>tum veditoris tamtenm: emptoris solum / &amp; ad vtriusque
+   ar<lb ed="#B" n="23" break="no"/>bitrium. Nec est inconveniens quod redditus sit securior 
+   <lb ed="#B" n="24"/>&amp; tutior ex parte ipsius quam fructus a praecio vel praecium 
+   <lb ed="#B" n="25"/>ipsum: sed sufficit quod a principio contractus iudicio 
+   <lb ed="#B" n="26"/>prudentum erat latitudo iusti pcii: quod semper
+   suppo<lb ed="#B" n="27" break="no"/>nimus, &amp; reliquas circumstatias oes: nullus enim con 
+   <lb ed="#B" n="28"/>tractus est vitae humanae ita propitius quin aliqua
+   ma<lb ed="#B" n="29" break="no"/>la circumstantia possit ipsum vitiare: vt est emptio pa 
+   <lb ed="#B" n="30"/>nis propter malum finem, non enim sufficit obiecti &amp; omnium 
+   <lb ed="#B" n="31"/>circumstantiarum ad bonitatem actus requisitarum positios 
+   <lb ed="#B" n="32"/>si ponatur aliqua circumstantia mala actum vitians. Ex 
+   <lb ed="#B" n="33"/>his patet quod haec consequentia est nulla. iste redditus est 
+   <lb ed="#B" n="34"/>fundatus in omnibus bonis istius domini: &amp; dominus emit 
+   <lb ed="#B" n="35"/>equos ad bellum praecio: ergo iniuste est fundatus. 
+   <lb ed="#B" n="36"/>quemadmodum ager aliquis iuste emitur in centro vnius 
+   <lb ed="#B" n="37"/>regni: licet pluris quam in circunferentia prope hostes. De 
+   <lb ed="#B" n="38"/>redditu qui potest fundari in persona, quia est rarus &amp;
+   in<lb ed="#B" n="39" break="no"/>utilis, parum loquor: licet redditus pecuniarius in perso 
+   <lb ed="#B" n="40"/>na constitui possit, quemadmodum capitur decima perso 
+   <lb ed="#B" n="41"/>nalis de lucro hominis vbi est consuetudo: &amp; aliqui serus 
+   <lb ed="#B" n="42"/>legales dant suis dominis quolibet die vnam certam 
+   <lb ed="#B" n="43"/>quotam: quam quis a domino emere potest. Et haec de
+   red<lb ed="#B" n="44" break="no"/>ditibus succincte dixisse sufficiat.
+  </p>
+    </div>
+   </body>
+  </text>
+</TEI>

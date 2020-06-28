@@ -1,0 +1,492 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 4</title>
+      <author ref="#JohnMair">John Mair</author>
+      <respStmt>
+       <name>Jeffrey C. Witt</name>
+       <resp>TEI Encoder</resp>
+      </respStmt>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 4</title>
+       <date when="2020-06-09">June 27, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="B" n="cod-Bda113">Badius 1516</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+     guidelines for a diplomatic edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-06-27" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+      <pb ed="#B" n="332-r"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="jMqv4a-d1e1775"> <!-- l4d43q4 -->
+      <head xml:id="jMqv4a-d1e1775-Hd1e104">Quaestio 4</head>
+      <head xml:id="jMqv4a-d1e1775-Hd1e107" type="question-title">An totum dicat tertiam entitatem a suis partibus realiter distinctam</head>
+      <p xml:id="jMqv4a-d1e1775-d1e110">
+       <lb ed="#B" n="52"/>⁋ Distinctionis Quadragesimaetertiae 
+   <lb ed="#B" n="53"/>Quaestio Quarta. 
+   <!--0695.xml-->
+   <cb ed="#B" n="b"/> 
+       <!-- 332-r b -->
+       <lb ed="#B" n="54"/>Varta quaestio erit 
+   <lb ed="#B" n="55"/>An totum dicat tertiam en 
+   <lb ed="#B" n="56"/>titatem a suis partibus
+   rea<lb ed="#B" n="57" break="no"/>liter distinctam.
+  </p>
+      <p xml:id="jMqv4a-d1e1775-d1e132">
+   ⁋ Pro solu 
+   <lb ed="#B" n="58"/>tione quaestionis ponitur haec 
+   <lb ed="#B" n="59"/>conclusio. Totum est suae per 
+   <lb ed="#B" n="60"/>ltes simul sumptae. &amp; per
+   co<lb ed="#B" n="61" break="no"/>sequens negatiua est responsio ad quaestionem. 
+   <lb ed="#B" n="62"/>Non immoremur istiusmodi anfractibus: totum 
+   <lb ed="#B" n="63"/>est entitas a partibus distincta: totum est entitas 
+   <lb ed="#B" n="64"/>distincta a partibus. quia prior est vera de
+   virtu<lb ed="#B" n="65" break="no"/>te sermonis. Probatur conclusio auctoritate Ari 
+   <lb ed="#B" n="66"/>stotelis primo Physicorum dicentis. Totum nihil est 
+   <lb ed="#B" n="67"/>praeter partes. Idem habet commentator textu
+   con<lb ed="#B" n="68" break="no"/>menti. xvii. Et secundo de anima dicit. Sicut
+   pu<lb ed="#B" n="69" break="no"/>pilla &amp; visus sunt vnus oculus: ita actus &amp; potem 
+   <lb ed="#B" n="70"/>tia sunt vnum simplex corpus &amp; anima. Ad hoc 
+   <lb ed="#B" n="71"/>potest adduci comparatio Apostoli primae ad 
+   <lb ed="#B" n="72"/>Corinth. xii. de corpore vero &amp; mystico, dicentis 
+   <lb ed="#B" n="73"/>multa membra esse vnum corpus. Praeterea
+   ratio<lb ed="#B" n="74" break="no"/>ne argumentor. nisi conclusio sit vera, sequitur quod 
+   <lb ed="#B" n="75"/>duae semilibrae tantum ponderarent quantum duae semi 
+   <lb ed="#B" n="76"/>librae &amp; vna libra ab eis distincta. hoc est inconue 
+   <lb ed="#B" n="77"/>niens, igitur, consequentia patet ponendo duas 
+   <lb ed="#B" n="78"/>semilibras separatas in vna lingua staterae, &amp; vnam 
+   <lb ed="#B" n="79"/>libram in alio extremo aequaliter distante. Dicis 
+   <lb ed="#B" n="80"/>hoc non inconuenire quando illa libra
+   compo<lb ed="#B" n="81" break="no"/>nitur ex illis partibus. Contra hoc argumentor. 
+   <lb ed="#B" n="82"/>duae semilibrae in toto tantum ponderant quantum 
+   <lb ed="#B" n="83"/>duae semilibrae separatae: &amp; libra aliquid ponderat. 
+   <lb ed="#B" n="84"/>&amp; sicut tertia entitas distinguitur a partibus
+   co<lb ed="#B" n="85" break="no"/>pulatim sumptis: ita pondus totius a ponderibus 
+   <lb ed="#B" n="86"/>partium.
+  </p>
+      <p xml:id="jMqv4a-d1e1775-d1e198">
+   ⁋ Secundo argumentor. totum per aggrega 
+   <lb ed="#B" n="87"/>tionem non distinguitur a partibus simul sumptis. 
+   <lb ed="#B" n="88"/>nec totum per accidens: ergo nec totum essentiale. 
+   <lb ed="#B" n="89"/>consequentia probatur: quia parilis est ratio. As 
+   <lb ed="#B" n="90"/>sumptum ostenditur demostrando totum aurum sancti 
+   <lb ed="#B" n="91"/>Marci Venetiis aggregatum ex variis ducatis, 
+   <lb ed="#B" n="92"/>scutis, &amp; eiusmodi: si tota illa congeries sit aliquid 
+   <lb ed="#B" n="93"/>vnum distinctum a partibus: quaero quod vnum, quae  
+   <lb ed="#B" n="94"/>substantia. &amp; ponatur in aerario aurum &amp;
+   argen<lb ed="#B" n="95" break="no"/>tum: non est aurum, nec argentum, nec aliquid  
+   <lb ed="#B" n="96"/>tale. De toto per accidens patet: quia Sortes &amp; eius 
+   <lb ed="#B" n="97"/>albedo si componant tertiam entitatem a seipsis 
+   <lb ed="#B" n="98"/>distinctam: illa non erit substantia neque accidens: quia 
+   <lb ed="#B" n="99"/>nec substantia potest accidens componere: nec 
+   <lb ed="#B" n="100"/>accidens substantiam. Dicis ad primum. licet to 
+   <lb ed="#B" n="101"/>tum distinguatur a partibus: tamen pondus
+   to<lb ed="#B" n="102" break="no"/>tius non distinguitur a pondere partium. Ad
+   se<lb ed="#B" n="103" break="no"/>cundum dicis non esse simile. vt patet inter arguen 
+   <lb ed="#B" n="104"/>dum. &amp; licet totum sit tertia entitas a partibus de 
+   <lb ed="#B" n="105"/>uersa: tamen ex partibus cum toto non resultat to 
+   <lb ed="#B" n="106"/>tum: cum totum non sit pars.
+  </p>
+      <p xml:id="jMqv4a-d1e1775-d1e244">
+   ⁋ Tertio
+   argumen<lb ed="#B" n="107" break="no"/>tor. Quandocumque sunt aliqua duo sic se habentia 
+   <!--0696.xml-->
+   <pb ed="#B" n="332-v"/>
+       <cb ed="#B" n="a"/>
+       <lb ed="#B" n="1"/>vt quicquid est pars vnius sit pars alterius &amp; econ 
+   <lb ed="#B" n="2"/>uerso: illa identificantur. sed sic est de toto &amp;
+   bina<lb ed="#B" n="3" break="no"/>rio partium. igitur. Dicis hoc concludere totum esse suam 
+   <lb ed="#B" n="4"/>partem. probatur. significet a. tantum quantum hoc com 
+   <lb ed="#B" n="5"/>plexum spars brunelli) iam quicquid est pars
+   bru<lb ed="#B" n="6" break="no"/>nelli est pars a. &amp; econverso. nam dato aliquo, quod est 
+   <lb ed="#B" n="7"/>pars brunelli, scilicet materia: illa est pars partis: 
+   <lb ed="#B" n="8"/>quia est pars medietatis formae &amp; materiae. Fodem 
+   <lb ed="#B" n="9"/>modo de forma, cum brunelli non detur maxima 
+   <lb ed="#B" n="10"/>pars. Deinde formetur argumentum. Quandocumque
+   ali<lb ed="#B" n="11" break="no"/>qua sic se habent, vt quicquid est pars vnius, sii 
+   <lb ed="#B" n="12"/>pars alterius &amp; econverso: illa sunt eadem realiter. 
+   <lb ed="#B" n="13"/>brunellus &amp; a. sunt huiusmodi. igitur.
+  </p>
+      <p xml:id="jMqv4a-d1e1775-d1e283">
+   ⁋ Quarto. 
+   <lb ed="#B" n="14"/>vel tota entitas brunelli est diuisibilis, vel
+   imparti<lb ed="#B" n="15" break="no"/>bilis. si primum, est aliqua. quaero quae sint illa. non ma 
+   <lb ed="#B" n="16"/>teria &amp; forma copulatim, per positionem: nec
+   copu<lb ed="#B" n="17" break="no"/>latiue vt constat. quaero igitur quae alia tertia. Si totum 
+   <lb ed="#B" n="18"/>est indiuisibile: tota sphaera terrae non est in proportio 
+   <lb ed="#B" n="19"/>ne dupla maior sua medietate: cum non sit magna:  
+   <lb ed="#B" n="20"/>nec in proportione quadrupla mator sua quarta, 
+   <lb ed="#B" n="21"/>contra omnes mathematicos. Respondetur. tertium argu 
+   <lb ed="#B" n="22"/>mentum assumptum non concludit partem esse rotum. nam 
+   <lb ed="#B" n="23"/>fubsumendo minor est falsa: vt patet per verita 
+   <lb ed="#B" n="24"/>tem eius contradictoriae. sed hanc concedo. quicquid 
+   <lb ed="#B" n="25"/>est pars brunelli est pars partis brunelli &amp; ecouer 
+   <lb ed="#B" n="26"/>fo. tamen aduersarii negabunt consequentiam quod
+   bru<lb ed="#B" n="27" break="no"/>nellus sit ille partes simul sumptae. Ad aliud scili 
+   <lb ed="#B" n="28"/>tet quartum dicitur quod brunellus est diuisibilis. quia 
+   <lb ed="#B" n="29"/>ex partibus conflatur: quod sufficit.
+  </p>
+      <p xml:id="jMqv4a-d1e1775-d1e320">
+   ⁋ Quinto argu 
+   <lb ed="#B" n="30"/>mentor. Duae medietates brunelli sunt tres tertiae 
+   <lb ed="#B" n="31"/>vel quatuor quartae eiusdem. ergo totum est suae
+   par<lb ed="#B" n="32" break="no"/>tes. consequentia patet. quia eadem est ratio ponendi 
+   <lb ed="#B" n="33"/>totum identificari cum omnibus partibus: &amp; duas me 
+   <lb ed="#B" n="34"/>clietates cum tribus tertiis vel quatuor quartis.
+   as<lb ed="#B" n="35" break="no"/>fumptum probo. alioquin nullae essent omnes partes 
+   <lb ed="#B" n="36"/>totius, quod inconvenit. Nam hae medietates non funt 
+   <lb ed="#B" n="37"/>omnes: quia pari ratione aliquae distinctae a duabus 
+   <lb ed="#B" n="38"/>medietatibus essent omnes, puta tres tertiae. eodem 
+   <lb ed="#B" n="39"/>modo quatuor quartae distinctae ab his &amp; illis
+   es<lb ed="#B" n="40" break="no"/>fent omnes. sed duae medietates no sunt tres tertiae: ei 
+   <lb ed="#B" n="41"/>go non sunt omnes. eodem modo tres tertiae non sunt 
+   <lb ed="#B" n="42"/>quatuor quartae. Nec valet dicere. aliquae includen 
+   <lb ed="#B" n="43"/>tes omnes sunt omnes. quia quaero quae sint illae: cum enim
+   ter<lb ed="#B" n="44" break="no"/>minus stet determinate: oportet dare vnam
+   singu<lb ed="#B" n="45" break="no"/>larem veram.
+  </p>
+      <p xml:id="jMqv4a-d1e1775-d1e357">
+   ⁋ Sexto. Si brunellus sit tertia entitas 
+   <lb ed="#B" n="46"/>distincta a partibus: eodem modo medietas
+   mate<lb ed="#B" n="47" break="no"/>tiae brunelli &amp; medietas formae reddent vnam tertiam 
+   <lb ed="#B" n="48"/>entitatem: &amp; sic currendo per omnes partes
+   proportiona<lb ed="#B" n="49" break="no"/>les brunelli. ac ita erunt infinitae tertiae entitates. Ad 
+   <lb ed="#B" n="50"/>quintum concederet contraria opinio quod nullae sunt 
+   <lb ed="#B" n="51"/>omnes partes totius, nec fequitur. omnes partes huius sunt 
+   <lb ed="#B" n="52"/>partes huius: ergo aliquae sunt omnes partes huius, 
+   <lb ed="#B" n="53"/>capiendo (omnes) distributiue in antecedente, &amp;
+   copu<lb ed="#B" n="54" break="no"/>latim in consequente. sed iuxta conclusionem quam
+   po<lb ed="#B" n="55" break="no"/>sui, aliquae partes sunt omnes partes huius, vt duae me- 
+   <!--0696.xml-->
+   <cb ed="#B" n="b"/> 
+       <!-- 332-v b -->
+       <lb ed="#B" n="56"/>dietates brunelli sunt omnes partes brunelli. Sed 
+   <lb ed="#B" n="57"/>obiicies: cum duae medietates no sint tres tertiae, nec 
+   <lb ed="#B" n="58"/>quatuor quartae: quaeritur quae illarum sint maiores. di 
+   <lb ed="#B" n="59"/>co esse aequales. Ad aliud argumentum conceditur 
+   <lb ed="#B" n="60"/>illatum.
+  </p>
+      <p xml:id="jMqv4a-d1e1775-d1e399">
+   ⁋ Septimo arguitur. Ex positione sequitur 
+   <lb ed="#B" n="61"/>quod idem corruptum potest reproduci naturaliter, quod 
+   <lb ed="#B" n="62"/>est reprobatum in quaestione prima huius distinct. 
+   <lb ed="#B" n="63"/>probatur consequentia: quia per ablationem vnius guttae a 
+   <lb ed="#B" n="64"/>mari corrumpitur tertia entitas. &amp; per appositionem eius 
+   <lb ed="#B" n="65"/>dem redit eadem entitas. igitur.
+  </p>
+      <p xml:id="jMqv4a-d1e1775-d1e413">
+   ⁋ Octauo potest esse 
+   <lb ed="#B" n="66"/>argumentum de scuto cuius vna dimidietas est
+   al<lb ed="#B" n="67" break="no"/>ba &amp; altera nigra: quod non est coloratum: non album &amp; 
+   <lb ed="#B" n="68"/>nigrum copulatim, nec copulatiue, nec alio colore 
+   <lb ed="#B" n="69"/>coloratum. Ad septimum. hoc argumentum est aeque 
+   <lb ed="#B" n="70"/>contra aduersarios: cum in corruptione improprie 
+   <lb ed="#B" n="71"/>dicta nullum sit difconveniens: &amp; per consequens male 
+   <lb ed="#B" n="72"/>soluitur illud in homogeneis. Ad octauum dico 
+   <lb ed="#B" n="73"/>posse concedi quod est colorata.
+  </p>
+      <p xml:id="jMqv4a-d1e1775-d1e433">
+   ⁋ Nono, non est po 
+   <lb ed="#B" n="74"/>nenda pluralitas sine necessitate. ergo si sint duae 
+   <lb ed="#B" n="75"/>positiones: quarum vna omnia saluat facilius cum
+   pau<lb ed="#B" n="76" break="no"/>citate &amp; rationabilius vel ita rationabiliter vt altera quae 
+   <lb ed="#B" n="77"/>res multiplicat: illa est praeferenda. sed maiores funt 
+   <lb ed="#B" n="78"/>difficultates contra partem illam quae ponit totum tertiam 
+   <lb ed="#B" n="79"/>entitatem distincta a partibus, quam contra alteram: &amp; 
+   <lb ed="#B" n="80"/>auctoritates consonant. rationibus: ergo illa pars 
+   <lb ed="#B" n="81"/>est praeeligenda. 
+  </p>
+      <p xml:id="jMqv4a-d1e1775-d1e453">
+       <lb ed="#B" n="82"/>⁋ lam contra conclusionem quam pu 
+   <lb ed="#B" n="83"/>tamus probabiliorem obiiciemus paucis
+   ratiun<lb ed="#B" n="84" break="no"/>culis. Primo sic. Hae partes componunt hoc totum: 
+   <lb ed="#B" n="85"/>hae partes sunt hoc totum: ergo hoc totum
+   compo<lb ed="#B" n="86" break="no"/>nit hoc totum: vtrobique idem demonstrando. maior 
+   <lb ed="#B" n="87"/>probatur: quia hoc totum componitur ex aliquibus 
+   <lb ed="#B" n="88"/>causis intrinfsecis &amp; adaequate integrantibus: ma 
+   <lb ed="#B" n="89"/>teria autem non integrat adaequate totum: nec forma: 
+   <lb ed="#B" n="90"/>ergo illae simul copulatae. igitur.
+  </p>
+      <p xml:id="jMqv4a-d1e1775-d1e475">
+   ⁋ Secundo
+   sequi<lb ed="#B" n="91" break="no"/>tur quod subiectum propositionis singularis sit
+   ter<lb ed="#B" n="92" break="no"/>minus communis secundum acceptionem in qua
+   ca<lb ed="#B" n="93" break="no"/>pitur. hoc est abfurdum. &amp; consequentia patet:  
+   <lb ed="#B" n="94"/>quia hoc complexum (istae partes) est terminus su 
+   <lb ed="#B" n="95"/>perior ad terminum Sortes: nam bene sequitur. 
+   <lb ed="#B" n="96"/>Sortes est: ergo istae partes sunt: &amp; non ecouerso. 
+  </p>
+      <p xml:id="jMqv4a-d1e1775-d1e491">
+       <lb ed="#B" n="97"/>⁋ Ad primum dicitur quod quaelibet pars componit 
+   <lb ed="#B" n="98"/>totum: quia componere est simul ponere: quaelibet au 
+   <lb ed="#B" n="99"/>tem pars partialiter ponit totum. Sed pro discursu con 
+   <lb ed="#B" n="100"/>sequentiae dico esse paralogismum maie concludentem. 
+   <lb ed="#B" n="101"/>oportet autem sic concludere: hoc totum est componen 
+   <lb ed="#B" n="102"/>tia totum. &amp; hoc est verum. cum sit hoc componens totum: 
+   <lb ed="#B" n="103"/>&amp; illud componens totum. Ad secundum nego
+   seque<lb ed="#B" n="104" break="no"/>lam. &amp; concedo quod Sortes est inferior illatiue ad
+   ter<lb ed="#B" n="105" break="no"/>minum (istae partes) sed hoc non probat terminum ac 
+   <lb ed="#B" n="106"/>cipi communiter.
+  </p>
+      <p xml:id="jMqv4a-d1e1775-d1e515">
+   ⁋ Tertio argumentor. Sequitur ex 
+   <lb ed="#B" n="107"/>hac positione quod Sortes &amp; Plato erunt post
+   mor<lb ed="#B" n="108" break="no"/>tem Sortis &amp; Platonis naturaliter. hoc est absonum: 
+   <lb ed="#B" n="109"/>gitur. patet sequela. hae partes erunt post mortem 
+   <!--0697.xml-->
+   <pb ed="#B" n="333-r"/>
+       <cb ed="#B" n="a"/>
+       <lb ed="#B" n="1"/>sortis &amp; platonis: hae partes sunt sortes &amp; plato: 
+   <lb ed="#B" n="2"/>igitur. Sed dicis sicut dicendum est. licet concedatur il 
+   <lb ed="#B" n="3"/>la conclusio: non sequitur quod sortes &amp; Plato erum 
+   <lb ed="#B" n="4"/>sortes &amp; plato post mortem sortis &amp; platonis na 
+   <lb ed="#B" n="5"/>uraliter. Contra, propo de inesse primae conclusio 
+   <lb ed="#B" n="6"/>nis secundam infert.
+  </p>
+      <p xml:id="jMqv4a-d1e1775-d1e545">
+   ⁋ Quarto. sequitur quod sortes 
+   <lb ed="#B" n="7"/>&amp; plato sint Cicero &amp; Petrus: &amp; quod currant quando pe 
+   <lb ed="#B" n="8"/>trus &amp; Cicero dormiunt. hoc est ridiculum. igitur 
+   <lb ed="#B" n="9"/>consequentia patet, si ex anima sortis &amp; materia pla 
+   <lb ed="#B" n="10"/>tonis in alio loco fiat cicero: &amp; sic proportionabi 
+   <lb ed="#B" n="11"/>liter Petrus. Ad tertium, nego quod propo de inesse pri 
+   <lb ed="#B" n="12"/>mae infert secundam. nam haec est propo de inesse 
+   <lb ed="#B" n="13"/>primae. haec sunt post mortem sortis &amp; platonis. 
+   <lb ed="#B" n="14"/>quae est vera propter ampliationem dictionis (post)  
+   <lb ed="#B" n="15"/>Ad quartum. admitto positum quod ex duobus hoi 
+   <lb ed="#B" n="16"/>bus fiant quatuor: &amp; quilibet illorum distinguitur 
+   <lb ed="#B" n="17"/>ab alio: &amp; cicero &amp; petrus currunt: sed petrus non 
+   <lb ed="#B" n="18"/>currit / nec mouetur, saltem non oportet. licet enim pars 
+   <lb ed="#B" n="19"/>eius moueatur: non tamen vt est ei vnita.
+  </p>
+      <p xml:id="jMqv4a-d1e1775-d1e576">
+   ⁋ Quinto 
+   <lb ed="#B" n="20"/>argumentor. Ex hac positione sequitur quod
+   huma<lb ed="#B" n="21" break="no"/>nitas Christi non fuit separata a verbo in triduo 
+   <lb ed="#B" n="22"/>sioc est falsum. probo cosequentiam: quia hae
+   par<lb ed="#B" n="23" break="no"/>tes non fuerunt separatae a verbo, demonstrado 
+   <lb ed="#B" n="24"/>materiam &amp; animam rationalem. hae partes sunt
+   huma<lb ed="#B" n="25" break="no"/>nitas. igitur. Ad quintum dico quod oportet
+   conclu<lb ed="#B" n="26" break="no"/>dere hanc, humanitas non erat partes seperatae a ver 
+   <lb ed="#B" n="27"/>bo: quae est vera: sed separata erat humanitas a ver 
+   <lb ed="#B" n="28"/>bo in triduo.
+  </p>
+      <p xml:id="jMqv4a-d1e1775-d1e598">
+   ⁋ Sexto arguitur. vii. Metaphysicae 
+   <lb ed="#B" n="29"/>ad finem. a. &amp; b. manent quando a. b non manet. erge 
+   <lb ed="#B" n="30"/>distinguitur. simiter iuxta philosophum bis tria non sut 
+   <lb ed="#B" n="31"/>sex.
+  </p>
+      <p xml:id="jMqv4a-d1e1775-d1e607">
+   ⁋ Septimo. Ex hac positione sequitur quod hae 
+   <lb ed="#B" n="32"/>quatuor partes rident, &amp; nulla illarum potest ride 
+   <lb ed="#B" n="33"/>re, quod videtur implicare. patet demonstrando per: 
+   <lb ed="#B" n="34"/>tes essentiales Aenophanis &amp; Toroastis. Ad
+   se<lb ed="#B" n="35" break="no"/>xtum dico quod argumentum non iuuat aduersarios 
+   <lb ed="#B" n="36"/>cum illic sit sermo de toto per aggregationem. sed 
+   <lb ed="#B" n="37"/>oportet dare solutionem vtrique part communem. Illud quod 
+   <lb ed="#B" n="38"/>dem argumentum probaret totum distingui a
+   seden<lb ed="#B" n="39" break="no"/>te. sed de hoc alias dictum est. Bis tria sut sex si
+   con<lb ed="#B" n="40" break="no"/>iunctio inclusa capiatur copulatim. si vero dicat 
+   <lb ed="#B" n="41"/>interruptionem, non oportet bis tria esse sex: cum 
+   <lb ed="#B" n="42"/>semel tria in indiuisibilibus non sint sex.
+  </p>
+      <p xml:id="jMqv4a-d1e1775-d1e633">
+   ⁋
+   Octa<lb ed="#B" n="43" break="no"/>uo arguitur. ex illa positione sequitur quod contrarie op 
+   <lb ed="#B" n="44"/>posita verificabuntur de eodem. consequens est 
+   <lb ed="#B" n="45"/>inconueniens naturaliter loquendo. &amp; quod sequatur 
+   <lb ed="#B" n="46"/>patet sic. haec est concedenda / alba sunt nigra, quod 
+   <lb ed="#B" n="47"/>probo sic. pono scutum cuius vna dimidietas est al 
+   <lb ed="#B" n="48"/>ba secundum se &amp; quidlibet sui: &amp; alia dimidietas ni 
+   <lb ed="#B" n="49"/>gra secundum se &amp; quidlibet sui. &amp; capio istam
+   diuisio<lb ed="#B" n="50" break="no"/>nem &amp; imaginationem. sit prima medietas alba. 
+   <lb ed="#B" n="51"/>pro secunda parte capio illam partem albam cum medieta 
+   <lb ed="#B" n="52"/>te partis nigrae. pro tertia parte capio illam
+   medie<lb ed="#B" n="53" break="no"/>tatem albam cum nigra: &amp; cum residuo medietatis n 
+   <lb ed="#B" n="54"/>grae: &amp; sic procedo capiendo partes nigras secundum 
+   <lb ed="#B" n="55"/>partes proportionales, semper capiendo partem alban 
+   <!--0697.xml-->
+   <cb ed="#B" n="b"/> 
+       <!-- 333-r b -->
+       <lb ed="#B" n="56"/>&amp; partes praecedentes. Tunc sic. istae partes sunt albaen 
+   <lb ed="#B" n="57"/>&amp; istae partes sunt hoc scutum: ergo hoc scutum 
+   <lb ed="#B" n="58"/>est partes albae. maior patet: quia patria pars est alba: 
+   <lb ed="#B" n="59"/>&amp; cuiussibet alterius partis maior pars est alba. secun 
+   <lb ed="#B" n="60"/>da pars scilicet aggregatum ex prima dimidietate al 
+   <lb ed="#B" n="61"/>ba &amp; dimidietate partis nigrae est pars alba: quia 
+   <lb ed="#B" n="62"/>maior pars illius secundae partis signatae est alba se 
+   <lb ed="#B" n="63"/>cundum se &amp; quidlibet sui: &amp; ita de qualibet alia parte. 
+   <lb ed="#B" n="64"/>ergo maior vera. &amp; minor ex positione. Quia hoc 
+   <lb ed="#B" n="65"/>scutum sit partes nigrae patet eodem modo diuidendo scu 
+   <lb ed="#B" n="66"/>tum. sit prima pars puta dimidietas nigra a. secunda 
+   <lb ed="#B" n="67"/>pars, aggregatum ex parte illa nigra &amp;
+   dimidie<lb ed="#B" n="68" break="no"/>tate partis albae sequentis. s. b. tertia pars erit
+   com<lb ed="#B" n="69" break="no"/>posita ex a. &amp; b. &amp; dimidietate sequentis adhuc 
+   <lb ed="#B" n="70"/>partis nigrae. &amp; sic consequenter, semper includen 
+   <lb ed="#B" n="71"/>do priores partes. Tunc sic. hae partes sunt nigrae se 
+   <lb ed="#B" n="72"/>cundum hanc diuisionem: quia earum qualibet pars est 
+   <lb ed="#B" n="73"/>nigra: cum maior pars illius sit nigra: &amp; hoc suffi 
+   <lb ed="#B" n="74"/>cit ad nigredinem prout supponitur. &amp; hae partes sunt 
+   <lb ed="#B" n="75"/>hoc scutum: ergo hoc scutum est partes nigrae. Et 
+   <lb ed="#B" n="76"/>eodem modo hoc scutum est partes albae: ergo par 
+   <lb ed="#B" n="77"/>tes albae sunt partes nigrae. igitur alba sunt nigra:  
+   <lb ed="#B" n="78"/>quod restabat probandum.
+  </p>
+      <p xml:id="jMqv4a-d1e1775-d1e720">
+   ⁋ Respondetur conceden 
+   <lb ed="#B" n="79"/>do quod albae &amp; nigrae verificantur in plurali nume 
+   <lb ed="#B" n="80"/>ro de eodem copulatiue. copulatim enim non est dubium 
+   <lb ed="#B" n="81"/>quia hoc scutum est duae dimidietates: quarum vna 
+   <lb ed="#B" n="82"/>est alba &amp; alia nigra. quo non obstante, hoc
+   scu<lb ed="#B" n="83" break="no"/>tum non est albu &amp; nigrum copulatiue. in
+   plura<lb ed="#B" n="84" break="no"/>li autem numero non sunt termini contrariit. Ex quo 
+   <lb ed="#B" n="85"/>patet hanc consequentiam esse nullam. alba sunt
+   ni<lb ed="#B" n="86" break="no"/>gra: ergo album est nigrum. 
+  </p>
+      <p xml:id="jMqv4a-d1e1775-d1e741">
+       <lb ed="#B" n="87"/>⁋ Et ne argumenta quae in artibus 
+   <lb ed="#B" n="88"/>tractare soleo multiplicem: aliquas adhuc proponnes 
+   <lb ed="#B" n="89"/>ponam. quas si intellexeris multa argumenta
+   sol<lb ed="#B" n="90" break="no"/>ues. Intelliges autem si naturas copulatorum &amp;
+   syllo<lb ed="#B" n="91" break="no"/>gismos expositorios intellexeris. Prima propo est 
+   <lb ed="#B" n="92"/>in casu facili, sequens ex dictis: Sortes &amp; Plato fu 
+   <lb ed="#B" n="93"/>erunt: &amp; tamen sortes non fuit, nec plato fuit. Patet 
+   <lb ed="#B" n="94"/>posito quod partes sortis &amp; platonis prius fuerint: &amp; 
+   <lb ed="#B" n="95"/>nunc primum vnitae. quo supposito arguitur sic. istae 
+   <lb ed="#B" n="96"/>partes prius fuerunt. istae partes sunt vel fuerunt sor 
+   <lb ed="#B" n="97"/>tes &amp; plato. igitur. &amp; per consequens sortes &amp; plato 
+   <lb ed="#B" n="98"/>fuerunt: &amp; tamen non fuerunt homines. Secunda propon. Sortes 
+   <lb ed="#B" n="99"/>incipit esse: plato incipit esse: &amp; tamen sortes &amp; plato 
+   <lb ed="#B" n="100"/>non incipiunt esse. Tertia propon. Aliqua non sunt eius 
+   <lb ed="#B" n="101"/>dem speciei specialissimae: &amp; tamen erunt eiusdem speciei 
+   <lb ed="#B" n="102"/>specialissimae. patet retento casu nostro quando partes 
+   <lb ed="#B" n="103"/>sunt separatae. hae duae partes non sunt eiusdem spe 
+   <lb ed="#B" n="104"/>ciei cum his duabus partibus: per (hae) demonstran 
+   <lb ed="#B" n="105"/>do duas materias: &amp; per (his) duas animas sepa 
+   <lb ed="#B" n="106"/>ratas. &amp; quando animae informabunt materias / erunt 
+   <lb ed="#B" n="107"/>eiusdem speciei specialissimae, probatur sic. Sortes 
+   <lb ed="#B" n="108"/>&amp; plato sunt eiusdem speciei specialissimae: Sor 
+   <lb ed="#B" n="109"/>tes &amp; plato sunt istae quatuor partes. igitur. Et ve 
+   <!--0698.xml-->
+   <pb ed="#B" n="333-v"/>
+       <cb ed="#B" n="a"/>
+       <lb ed="#B" n="1"/>rificatione maioris stante quod sortes &amp; plato sunt 
+   <lb ed="#B" n="2"/>eiusdem speciei, patet hanc esse falsam. sortes &amp; pla 
+   <lb ed="#B" n="3"/>to differunt specie. Quarta propoteo, non est possibile 
+   <lb ed="#B" n="4"/>quod aliquod ens sit vnius speciei specialissimae, &amp; post 
+   <lb ed="#B" n="5"/>ea migret in aliamispecien essentialem. Quinta propon 
+   <lb ed="#B" n="6"/>Possibile est duos fratres esse quatuor homines
+   to<lb ed="#B" n="7" break="no"/>tales: &amp; per consequens duo homines tunc erunt
+   qua<lb ed="#B" n="8" break="no"/>tuor homines. patet / captis sorte &amp; platone si anima sor 
+   <lb ed="#B" n="9"/>tis informaret materiam platonis &amp; anima platonis 
+   <lb ed="#B" n="10"/>materiam sortis: &amp; dicantur a. &amp; br. animabus illis sem 
+   <lb ed="#B" n="11"/>per informantibus materiam sortis &amp; platonis: 
+   <lb ed="#B" n="12"/>od deo puto possibile: quia quaelibet res mundi potest 
+   <lb ed="#B" n="13"/>esse in diuersis locis. Hoc supposito arguitur sic 
+   <lb ed="#B" n="14"/>istae duae partes sunt duo homines. per (istae) demen 
+   <lb ed="#B" n="15"/>strando materiam &amp; formam. &amp; istae duae partes 
+   <lb ed="#B" n="16"/>sunt quatuor homines totales / cum sint materiae &amp; 
+   <lb ed="#B" n="17"/>formae eorum. igitur. Et si sortes moriatur &amp; plato mori 
+   <lb ed="#B" n="18"/>atur: duo fratres manebunt quando non manebunt 
+   <lb ed="#B" n="19"/>fratres: quia a. &amp; b. manebunt quando non manebunt fra 
+   <lb ed="#B" n="20"/>tres, supposito quod non sint fratres. Sexta propon. baf 
+   <lb ed="#B" n="21"/>est terminus significatiuus. probatur sic. hic ternarius 
+   <lb ed="#B" n="22"/>fab est terminus significatiuus. Frat enim mihi con 
+   <lb ed="#B" n="23"/>socius dum artes in summulis audirem. hic
+   terna<lb ed="#B" n="24" break="no"/>rius fab est batu: ergo batur vel vaf est terminus 
+   <lb ed="#B" n="25"/>significatiuus cmunis. Septima propon. omnis homo est homo 
+   <lb ed="#B" n="26"/>est propoteso falsa. patet. si scribatur in circulo legendo 
+   <lb ed="#B" n="27"/>prdine recto &amp; retrogrado, hic quaternarius, homo est 
+   <lb ed="#B" n="28"/>homo omnis: est propoteso falsa: hic quaternarius, homo 
+   <lb ed="#B" n="29"/>est homo omnis, est hic quaternarius, omnis ho 
+   <lb ed="#B" n="30"/>mo est homo. ergo hic quaternarius, omnis
+   ho<lb ed="#B" n="31" break="no"/>mo est homo, est propositio falsa. consequentia est 
+   <lb ed="#B" n="32"/>syllogismus expositorius, &amp; praemissae sunt
+   ve<lb ed="#B" n="33" break="no"/>rae ex positione.
+  </p>
+      <p xml:id="jMqv4a-d1e1775-d1e871">
+   ⁋ Ex hac autem positione hae 
+   <lb ed="#B" n="34"/>propositiones sequuntur. duo sunt tria in
+   conti<lb ed="#B" n="35" break="no"/>nuis. duae medietates continui sunt tres tertiae, &amp; 
+   <lb ed="#B" n="36"/>centum centesimae / &amp; mille millesimae. &amp; numerus 
+   <lb ed="#B" n="37"/>par est numerus impar. Sufficit enim ad numerum 
+   <lb ed="#B" n="38"/>imparem secundum aliquam animi discretionem 
+   <lb ed="#B" n="39"/>habere imparitatem, nec sequitur. hic numerus est 
+   <lb ed="#B" n="40"/>impar: ergo non est numerus par. Fodem modo  
+   <lb ed="#B" n="41"/>partes cominunicantes sunt partes non
+   communi<lb ed="#B" n="42" break="no"/>cantes. pars superior &amp; inferior est pars dextera &amp; 
+   <lb ed="#B" n="43"/>sinistra. partes essentiales sunt partes integrales plu 
+   <lb ed="#B" n="44"/>raliter. sortes &amp; plato sunt hic non homo &amp; hic non 
+   <lb ed="#B" n="45"/>homo, quadruplicando demonstrationem: quia de 
+   <lb ed="#B" n="46"/>monstrando quatuor partes essentiales eorum, quaelibs 
+   <lb ed="#B" n="47"/>illarum partium est non homo. Non tamen sequitur quod
+   sor<lb ed="#B" n="48" break="no"/>tes &amp; plato sunt non homines. immo sortes &amp; plato 
+   <lb ed="#B" n="49"/>sunt homines. Multas similes propositiones
+   in<lb ed="#B" n="50" break="no"/>ferre potes ex positione: sed non amplius insisto- 
+  </p>
+      <p xml:id="jMqv4a-d1e1775-d1e910">
+       <lb ed="#B" n="51"/>⁋ Finem imponendo placet haec opinio. Nam primo, 
+   <lb ed="#B" n="52"/>argumenta aduersariorum peccant in solam logicam: 
+   <lb ed="#B" n="53"/>qua intelligenti nullus apparebit in eis color. Se 
+   <lb ed="#B" n="54"/>cundo, non est ponenda pluralitas sine necessita 
+   <lb ed="#B" n="55"/>te. Tertio. positio opposita negat aliqua apparen- 
+   <!--0698.xml-->
+   <cb ed="#B" n="b"/> 
+       <!-- 333-v b -->
+       <lb ed="#B" n="56"/>tia. vtpote, duo sunt pondera aequalia: &amp; additur 
+   <lb ed="#B" n="57"/>vnum pondus vni, realiter ab eo distinctum: &amp; 
+   <lb ed="#B" n="58"/>tamen aggregatum additi &amp; illius cui additur non plus 
+   <lb ed="#B" n="59"/>ad terram trahit quam pondus aliud. Simiter negare ha 
+   <lb ed="#B" n="60"/>bet hanc. omnes partes huius continui sunt,
+   ca<lb ed="#B" n="61" break="no"/>piendo (omnes) collectiue: quia si duae dimidie 
+   <lb ed="#B" n="62"/>tates essent omnes partes huius continui: eodem 
+   <lb ed="#B" n="63"/>modo tres tertiae essent omnes partes huius con 
+   <lb ed="#B" n="64"/>tinui: quae realiter distinguuntur ab illis duabus 
+   <lb ed="#B" n="65"/>dimidietatibus. quia sicut negatur quod duae dimidie 
+   <lb ed="#B" n="66"/>tates sunt totum: ita negandu est quod duae
+   dimidie<lb ed="#B" n="67" break="no"/>tates sunt tres tertiae. Similiter haec
+   consequen<lb ed="#B" n="68" break="no"/>tia videtur bona. quicquid est pars totius est pars 
+   <lb ed="#B" n="69"/>duarum dimidietatum eius: ergo duae dimidieta 
+   <lb ed="#B" n="70"/>tes sunt hoc continuum. Similiter negare habet 
+   <lb ed="#B" n="71"/>hanc consequentiam. impossibile est illas duas 
+   <lb ed="#B" n="72"/>partes essentiales sic se habere vt vna aliam
+   infor<lb ed="#B" n="73" break="no"/>met quin ponatur tertia entitas, &amp; econuerso: ergo  
+   <lb ed="#B" n="74"/>hoc est hoc. 
+  </p>
+    </div>
+   </body>
+  </text>
+</TEI>

@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 8</title>
+      <author ref="#JohnMair">John Mair</author>
+      <respStmt>
+       <name>Jeffrey C. Witt</name>
+       <resp>TEI Encoder</resp>
+      </respStmt>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 8</title>
+       <date when="2020-06-09">June 27, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="B" n="cod-Bda113">Badius 1516</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+     guidelines for a diplomatic edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-06-27" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+      <pb ed="#B" n="366-v"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="jMqv4a-d1e1964"> <!-- l4d49q8 -->
+      <head xml:id="jMqv4a-d1e1964-Hd1e104">Quaestio 8</head>
+      <head xml:id="jMqv4a-d1e1964-Hd1e107" type="question-title">An intellectus clare videns Deum possit non delectari, 
+  vel deum non diligere</head>
+      <p xml:id="jMqv4a-d1e1964-d1e110">
+       <lb ed="#B" n="54"/>⁋ Distinctionis Quadragesimaenonae 
+   <lb ed="#B" n="55"/>Quaestio Octaua. 
+   <lb ed="#B" n="56"/>Ctauo prosequendo eam 
+   <lb ed="#B" n="57"/>dem materiam quaeritur. An 
+   <lb ed="#B" n="58"/>intellectus clare videns deum 
+   <lb ed="#B" n="59"/>possit non delectari / vel deum 
+   <lb ed="#B" n="60"/>non diligere. Respondetur per 
+   <lb ed="#B" n="61"/>conclusiones. quarum Prima est 
+   <lb ed="#B" n="62"/>Aliquis est intellectus clare vi 
+   <lb ed="#B" n="63"/>dens deum qui non potest non diligere deum. vt intellectus in 
+   <lb ed="#B" n="64"/>creatus. deus enim ex necessitate est beatus.
+  </p>
+      <p xml:id="jMqv4a-d1e1964-d1e136">
+   ⁋ Secun 
+   <lb ed="#B" n="65"/>da conclusio. Possibile est intellectum creatum deum 
+   <lb ed="#B" n="66"/>videre clare, &amp; non gaudere, nec deum diligere. 
+   <lb ed="#B" n="67"/>probatio pendet ex superius dictis in hac
+   distin<lb ed="#B" n="68" break="no"/>ctione. nam cum illa distinguantur: deus potest 
+   <lb ed="#B" n="69"/>non concurrere ad vnum / concurrendo cum aliis. 
+  </p>
+      <p xml:id="jMqv4a-d1e1964-d1e150">
+       <lb ed="#B" n="70"/>⁋ Tertia conclusio. Non est naturaliter possibile 
+   <lb ed="#B" n="71"/>quod aliquis videat deum &amp; non gaudeat, vel deum non 
+   <lb ed="#B" n="72"/>diligat. multi tamen tenent contradictoriam istius 
+   <lb ed="#B" n="73"/>conclusionis. plures etiam ad hanc conclusionem 
+   <lb ed="#B" n="74"/>apponunt rationes parui momenti.
+  </p>
+      <p xml:id="jMqv4a-d1e1964-d1e163">
+   ⁋ Paludanus 
+   <lb ed="#B" n="75"/>enim ad eam ponit quinque rationes. quarum Prima 
+   <lb ed="#B" n="76"/>est. sicut principium in speculabilibus: ita finis i 
+   <lb ed="#B" n="77"/>agibilibus. sed intellectus non potest non
+   assenti<lb ed="#B" n="78" break="no"/>ri primo principio: ergo voluntas non potest non  
+   <lb ed="#B" n="79"/>ferri in finem vltimum. Ad quam respondeo, quod
+   ar<lb ed="#B" n="80" break="no"/>gumentum a simili crebro claudicat vno pede, nec 
+   <lb ed="#B" n="81"/>est omnino simile / quia notitia apprehensiua
+   termi<lb ed="#B" n="82" break="no"/>norum &amp; intellectus / mere naturaliter producunt 
+   <lb ed="#B" n="83"/>assensum propositionum per se notarum: non sic 
+   <lb ed="#B" n="84"/>autem obiectum voluntatis. sed in hoc est similitu 
+   <lb ed="#B" n="85"/>do: quod sicut assentimur conclusionibus propter princi 
+   <lb ed="#B" n="86"/>pia a quibus eliciuntur: sic finis est causa quare
+   opera<lb ed="#B" n="87" break="no"/>mut circa ea quae ad finem ordinantur.
+  </p>
+      <p xml:id="jMqv4a-d1e1964-d1e194">
+   ⁋ Secundo  
+   <lb ed="#B" n="88"/>arguit. obiectum quod adaequat vel superat totam 
+   <lb ed="#B" n="89"/>capacitatem potentiae mouet ipsam necessario. 
+   <lb ed="#B" n="90"/>huiusmodi autem est deus clare visus. Ad hoc dicitur quod 
+   <lb ed="#B" n="91"/>deus non mouet secundum extremum suae poten 
+   <lb ed="#B" n="92"/>tiae: quia potest parum mouere vel multum. vt
+   pa<lb ed="#B" n="93" break="no"/>tet de concursu eius cum causis secundis paruae acti 
+   <lb ed="#B" n="94"/>uitatis. licet enim deus sit infinitus: non tamen
+   concur<lb ed="#B" n="95" break="no"/>rit infinite, sed finite.
+  </p>
+      <p xml:id="jMqv4a-d1e1964-d1e214">
+   ⁋ Tertio arguit. sicut se habet 
+   <lb ed="#B" n="96"/>voluntas viatoris ad beatitudinem in communi: 
+   <lb ed="#B" n="97"/>sic voluntas comprehensoris ad beatitudinem es 
+   <lb ed="#B" n="98"/>est in deo. sed nullus potest non amare beatitudi 
+   <lb ed="#B" n="99"/>nem praesentatam in communi / in via. igitur. Ad 
+   <lb ed="#B" n="100"/>hoc superius respondimus. Ipse enim insequitur 
+   <lb ed="#B" n="101"/>Middiltonum: nec oportet aliud ei respondere. 
+  </p>
+      <p xml:id="jMqv4a-d1e1964-d1e230">
+       <lb ed="#B" n="102"/>⁋ Quarto. qua ratione beatus potest non amare deum: 
+   <lb ed="#B" n="103"/>damnatus potest non odio habere suam poenam. &amp; sic 
+   <lb ed="#B" n="104"/>potest minus puniri. Concederetur consequens si deus non 
+   <lb ed="#B" n="105"/>aliter necessitaret damnatum quam relinquendo eum liber 
+   <lb ed="#B" n="106"/>tati suae. Vlterius dico quod haec ratio sine pondere est ad  
+   <!--0765.xml-->
+   <pb ed="#B" n="367-r"/>
+       <cb ed="#B" n="a"/>
+       <lb ed="#B" n="1"/>ducta: quia damnatus non videt deum: &amp; oportet dare ali 
+   <lb ed="#B" n="2"/>quid in damuato, ratione cuius poena eius continuetur perpetuo. 
+  </p>
+      <p xml:id="jMqv4a-d1e1964-d1e254">
+       <lb ed="#B" n="3"/>⁋ Quinto. si non ferretur in deum dilectione vel delecta 
+   <lb ed="#B" n="4"/>tione, aut hoc esset per actum contrarium positiuum: quod est im 
+   <lb ed="#B" n="5"/>possibile / scilicet respuere bonum vbi nulla occurrerei 
+   <lb ed="#B" n="6"/>ratio mali. aut per actum praeuium quo vellet non ferri in
+   il<lb ed="#B" n="7" break="no"/>lud. &amp; hoc no est possibile: quia non potest iudicare esse 
+   <lb ed="#B" n="8"/>bonum / non ferri in illud. aut simpliciter suspendendo actum 
+   <lb ed="#B" n="9"/>elicitum vel eliciendum: &amp; hoc esset moueri contra
+   iudi<lb ed="#B" n="10" break="no"/>cium rationis. Respondetur. dicerent alii quod posset suspendere 
+   <lb ed="#B" n="11"/>omnem actum voluntatis ex libertate sua: nec vllum 
+   <lb ed="#B" n="12"/>inconueniens esse nullum actum habere ad iudi 
+   <lb ed="#B" n="13"/>cium rationis. 
+  </p>
+      <p xml:id="jMqv4a-d1e1964-d1e281">
+       <lb ed="#B" n="14"/>⁋ Suadetur tamen aliter conclusio, 
+   <lb ed="#B" n="15"/>Primo sic. Aliquod obiectum sic voluntatem mouet vt 
+   <lb ed="#B" n="16"/>non possit voluntas ipsum nolle / ex quaestione praeceder 
+   <lb ed="#B" n="17"/>te: &amp; aliquod obiectum magis allicit quam aliud in sui amo 
+   <lb ed="#B" n="18"/>rem: ex eadem quaestione. quia illud obiectum quod volunta: 
+   <lb ed="#B" n="19"/>non potest respuere, multum voluntatem ipsam allicit &amp; 
+   <lb ed="#B" n="20"/>trahit in sui amorem. Hinc non desunt eruditi vir 
+   <lb ed="#B" n="21"/>dicentes beatitudinem formalem necessitare voluntatem 
+   <lb ed="#B" n="22"/>in prosequutionem sui. vt patet tum in hac quaestione ex 
+   <lb ed="#B" n="23"/>Petro Paludano, &amp; Middiltono in quaestione
+   praeceden<lb ed="#B" n="24" break="no"/>ti: tum in aliquibus locis beati Thomae / quibus visus 
+   <lb ed="#B" n="25"/>est idem tenere,. quare dari potest obiectum aliquod quod 
+   <lb ed="#B" n="26"/>magis trahit voluntatem in sui amorem quam beatitu 
+   <lb ed="#B" n="27"/>do formalis: &amp; non potest dari obiectum quod magis 
+   <lb ed="#B" n="28"/>attrahat quam deus clare visus. ergo deus clare visus 
+   <lb ed="#B" n="29"/>voluntate necessitat ad prosecutionem sui.
+  </p>
+      <p xml:id="jMqv4a-d1e1964-d1e318">
+   ⁋ Se 
+   <lb ed="#B" n="30"/>cundo arguitur ad idem. Difficilius voluntas
+   euel<lb ed="#B" n="31" break="no"/>litur a suo obiecto quod est sibi conueniens quam ab i 
+   <lb ed="#B" n="32"/>lo quod est sibi disconueniens: sicut difficilius euelli 
+   <lb ed="#B" n="33"/>tur a sensualitate vel ab appetitu naturali quam ab alio 
+   <lb ed="#B" n="34"/>obiecto. ergo ascendendo in obiectis convenientibus 
+   <lb ed="#B" n="35"/>in ordine ad voluntatem creatam dabitur vnum obiectum 
+   <lb ed="#B" n="36"/>voluntatem necessitans si apprehendatur: &amp; non potest da 
+   <lb ed="#B" n="37"/>ri obiectum tam conveniens voluntati creatae quam est 
+   <lb ed="#B" n="38"/>deus: nec tantum ipsam mitigans: ergo deus est 
+   <lb ed="#B" n="39"/>tale obiectum siclare videatur, quod non potest non diligi 
+  </p>
+      <p xml:id="jMqv4a-d1e1964-d1e342">
+       <lb ed="#B" n="40"/>⁋ Tertio, hoc modo seruatur perpetuitas
+   beatitu<lb ed="#B" n="41" break="no"/>dinis, nec opus est fugere ad aliud: ergo haec
+   sen<lb ed="#B" n="42" break="no"/>tentia est rationabilis. sed illud non concludit: quia pro 
+   <lb ed="#B" n="43"/>damnatis aliquod dare oportet.
+  </p>
+      <p xml:id="jMqv4a-d1e1964-d1e353">
+   ⁋ Quarto arguitur. hoc 
+   <lb ed="#B" n="44"/>est honestius respectu dei quod est tale obiectum in se 
+   <lb ed="#B" n="45"/>vt si clare videatur / non possit non diligi. &amp; magis
+   qua<lb ed="#B" n="46" break="no"/>drat cum ratione &amp; experientia in rebus aliis. vt pae 
+   <lb ed="#B" n="47"/>in secundo argumento. Teneo itaque secundam conclu 
+   <lb ed="#B" n="48"/>sionem, quae est mihi multo verisimilior quam opposita. 
+  </p>
+      <p xml:id="jMqv4a-d1e1964-d1e366">
+       <lb ed="#B" n="49"/>⁋ Contra eam aliorum rationibus obii 
+   <lb ed="#B" n="50"/>citur. Primo. Vnius potentiae est solus vnus modus 
+   <lb ed="#B" n="51"/>agendi: ergo voluntas solu agit libere &amp; contingin 
+   <lb ed="#B" n="52"/>ter. Dico hoc argumentum esse contra ipsos arguentes 
+   <lb ed="#B" n="53"/>&amp; ratio est quia voluntas concurrit partialiter ad suam 
+   <!--0765.xml-->
+   <cb ed="#B" n="b"/> 
+       <!-- 367-r b -->
+       <lb ed="#B" n="54"/>beatitudinem secundum eos. &amp; si contingenter concurrat 
+   <lb ed="#B" n="55"/>potest se non beatificare, quod est falsum. ergo ex
+   neces<lb ed="#B" n="56" break="no"/>sitate concurrit. Necessitas enim non repugnat volun 
+   <lb ed="#B" n="57"/>tati respectu obiecti aliter praesentati. nunquid actus 
+   <lb ed="#B" n="58"/>producitur contingenter in vno instanti qui de
+   neces<lb ed="#B" n="59" break="no"/>sitate durat per tempus: sic enim dicere oportet.
+  </p>
+      <p xml:id="jMqv4a-d1e1964-d1e399">
+   ⁋ Secundo 
+   <lb ed="#B" n="60"/>arguitur. Clara apprehensio finis non videtur esse nisi 
+   <lb ed="#B" n="61"/>maior approximatio actiui: ergo non necessitat, sed 
+   <lb ed="#B" n="62"/>intendit actionem. Concedo antecedens quia idem est obie 
+   <lb ed="#B" n="63"/>ctum viae &amp; patriae / sed aliter apprehensum, nec est 
+   <lb ed="#B" n="64"/>maior approximatio entitatiue / &amp; localiter: sed ma 
+   <lb ed="#B" n="65"/>ior in cognoscendo &amp; clarior: &amp; per consequens 
+   <lb ed="#B" n="66"/>maior attractio. sicut pulchrum visibile vel audibi 
+   <lb ed="#B" n="67"/>le intuitiue cognitum plus mouet potentiam quam in no 
+   <lb ed="#B" n="68"/>titia abstractiua &amp; ficta apprehensiue cognitum. istae 
+   <lb ed="#B" n="69"/>autem dilectiones scilicet viae &amp; patriae, specie
+   distin<lb ed="#B" n="70" break="no"/>guuntur / vt postea dicemus.
+  </p>
+      <p xml:id="jMqv4a-d1e1964-d1e426">
+   ⁋ Tertio arguitur. Deus 
+   <lb ed="#B" n="71"/>non agit necessario ad hanc dilectionem: quia nihil 
+   <lb ed="#B" n="72"/>agit necessario ad extra, nec voluntas, quia est agens 
+   <lb ed="#B" n="73"/>contingens. Dico. si arguens huic argumento
+   inni<lb ed="#B" n="74" break="no"/>tatur: concludent contra seipm quod beatitudo cessabit 
+   <lb ed="#B" n="75"/>in patria. Volumus dicere. si deus concurrat: &amp;
+   crea<lb ed="#B" n="76" break="no"/>tura rationalis videat deum: de necessitate attrahetur ad 
+   <lb ed="#B" n="77"/>dilectionem dei.
+  </p>
+      <p xml:id="jMqv4a-d1e1964-d1e444">
+   ⁋ Quarto arguitur. Deus clare visus 
+   <lb ed="#B" n="78"/>potest concipi sub ratione displicentiae: ergo deus
+   cla<lb ed="#B" n="79" break="no"/>re visus potest non diligi. Respondetur negando antecedens se 
+   <lb ed="#B" n="80"/>cundum communem legem: &amp; etiam consequentiam: quia visio 
+   <lb ed="#B" n="81"/>dei &amp; deus ipse tam perfectus entitatiue sic volunta 
+   <lb ed="#B" n="82"/>tem ad se trahit / vt non possit non diligere. Adam prae 
+   <lb ed="#B" n="83"/>terea in prima dist. primi / vatia argumeta contra
+   co<lb ed="#B" n="84" break="no"/>clusionem hanc facit. sed quia non sunt magni
+   ponde<lb ed="#B" n="85" break="no"/>ris ipsa dimitto. Ego sic in proposito imaginor. Lon 
+   <lb ed="#B" n="86"/>ge incomparabiliter est maior attractio rei spiritualis pul 
+   <lb ed="#B" n="87"/>cherrimae entitatiue quam rei corporalis: &amp; in illa est
+   ma<lb ed="#B" n="88" break="no"/>ior complacentia. quomodo difficile esset viro castissimam 
+   <lb ed="#B" n="89"/>&amp; optimam ac pulcherrimam matronam habenti 
+   <lb ed="#B" n="90"/>eam non diligere apprehensam, in casu quo ope sui viri 
+   <lb ed="#B" n="91"/>egeret, cum angelus longe plus voluptatis spiritualis ha 
+   <lb ed="#B" n="92"/>beat si videatur ab anima seperata qui haec castissima 
+   <lb ed="#B" n="93"/>mulier in ordine ad suum virum. &amp; sic ascendendo per omnes 
+   <lb ed="#B" n="94"/>angelos semper erit maior attractio &amp; libera per crea 
+   <lb ed="#B" n="95"/>turas omnes. tandem deum videndo, primo erit naturalis vel 
+   <lb ed="#B" n="96"/>necessaria attractio voluntatis creatae ad eum. &amp; ita 
+   <lb ed="#B" n="97"/>Paulus in raptu ex necessitate deum dilexit. 
+  </p>
+    </div>
+   </body>
+  </text>
+</TEI>

@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 3</title>
+      <author ref="#JohnMair">John Mair</author>
+      <respStmt>
+       <name>Jeffrey C. Witt</name>
+       <resp>TEI Encoder</resp>
+      </respStmt>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 3</title>
+       <date when="2020-06-09">June 27, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="B" n="cod-Bda113">Badius 1516</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+     guidelines for a diplomatic edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-06-27" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+      <pb ed="#B" n="339-r"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="jMqv4a-d1e1813"> <!-- l4d44q3 -->
+      <head xml:id="jMqv4a-d1e1813-Hd1e104">Quaestio 3</head>
+      <head xml:id="jMqv4a-d1e1813-Hd1e107" type="question-title">An infernus sit sub terra</head>
+      <p xml:id="jMqv4a-d1e1813-d1e110">
+       <lb ed="#B" n="43"/>⁋ Distinctionis Quadragesimae quartae 
+   <lb ed="#B" n="44"/>Quaestio Tertia. 
+   <lb ed="#B" n="45"/>Ertio in eadem distin 
+   <lb ed="#B" n="46"/>ctione quaeritur: An infernus 
+   <lb ed="#B" n="47"/>sit sub terta, non loquimur di 
+   <lb ed="#B" n="48"/>infemo vt nominet cruciatum 
+   <lb ed="#B" n="49"/>sed vt locum cruciatus dicat. 
+  </p>
+      <p xml:id="jMqv4a-d1e1813-d1e128">
+       <lb ed="#B" n="50"/>⁋ Ponitur conclusio
+   affirma<lb ed="#B" n="51" break="no"/>tiua. quae probatur per glos 
+   <lb ed="#B" n="52"/>sam in illud Esaiae. xiiii. Infernus subter te cotur- 
+   <!--0709.xml-->
+   <cb ed="#B" n="b"/> 
+       <!-- 339-r b -->
+       <lb ed="#B" n="53"/>batus est. quae dicit quod infernus est sub terra. hoc iten 
+   <lb ed="#B" n="54"/>patet per aliam glossam super illud lonae. ii. Et pro 
+   <lb ed="#B" n="55"/>iecisti me in profundum in corde maris, quam dicit. Sicut 
+   <lb ed="#B" n="56"/>cor est in medio animalis: sic infernus in medio
+   ter<lb ed="#B" n="57" break="no"/>rae perhibetur. Insuper <name xml:id="jMqv4a-d1e1813-Nd1e153" ref="#Augustine">Augustinus</name> libro secundo  
+   <lb ed="#B" n="58"/>Retracta. ca. xxiiii. retractas illud quod de inferis di 
+   <lb ed="#B" n="59"/>xerat. xii. li. super Genesim / inquit. Magis mihi vi 
+   <lb ed="#B" n="60"/>deor dicere debuisse quod sub terris sint, quam rationem 
+   <lb ed="#B" n="61"/>reddere cur sub terra esse credantur. Et ad hoc est 
+   <lb ed="#B" n="62"/>ratio. nam sicut spiritus beati praemiantur in loco emi 
+   <lb ed="#B" n="63"/>nentissimo &amp; in circunferentia circuli: sic decens est 
+   <lb ed="#B" n="64"/>quod damnati puniantur in loco abiectissimo,
+   scili<lb ed="#B" n="65" break="no"/>cet in centro vel circa ipsum. Praeterea Chore, Da 
+   <lb ed="#B" n="66"/>than, &amp; Abiron terra absorpsit: descenderuntque 
+   <lb ed="#B" n="67"/>viui in infernum operti humo. Nume. xvi. Aristo 
+   <lb ed="#B" n="68"/>teles quoque secundo Meteororum ponens opinio 
+   <lb ed="#B" n="69"/>nes de generatione maris, allegat sextum modum 
+   <lb ed="#B" n="70"/>Platonis, quod circa medium mundi est copia
+   aqua<lb ed="#B" n="71" break="no"/>rum, &amp; vocatur tartarus. Et sexto Aeneidos dicit 
+   <lb ed="#B" n="72"/>Homerus Mantuanus. Bis patet in praeceps tantum 
+   <lb ed="#B" n="73"/>tenditque sub vmbras Quantus ad aethereum caeli 
+   <lb ed="#B" n="74"/>suspectus olympum. 
+  </p>
+      <p xml:id="jMqv4a-d1e1813-d1e195">
+       <lb ed="#B" n="75"/>⁋ Contra hanc conclusionem argumen 
+   <lb ed="#B" n="76"/>tor. plures sunt damnati quam saluati. iuxta illud Mat 
+   <lb ed="#B" n="77"/>thicorum. xxii. Multi sunt vocati: pauci vero electi. Et vi 
+   <lb ed="#B" n="78"/>gesimo de ciuitate ca. xxi. diuus <name xml:id="jMqv4a-d1e1813-Nd1e205" ref="#Augustine">Augustinus</name> ait 
+   <lb ed="#B" n="79"/>Plures homines erunt in poenis quam in gloria. Simile di 
+   <lb ed="#B" n="80"/>cit vndecimo eiusdem. Et vt dicit Christus, lata poi 
+   <lb ed="#B" n="81"/>ta &amp; spatiosa via est quae ducit ad perditionem: &amp; mult 
+   <lb ed="#B" n="82"/>sunt qui intrant per eam. Matth. vii. Cui suffragatur
+   Ma<lb ed="#B" n="83" break="no"/>ro. vi. Aeneidos. Facilis descensus auerni. Noctes 
+   <lb ed="#B" n="84"/>atque dies patet atri ianua ditis. Sed reuocare gradum, 
+   <lb ed="#B" n="85"/>superasque euadere ad auras, Hoc opus, hic labori 
+   <lb ed="#B" n="86"/>est. pauci quos aequus amauit luppiter, aut ardens 
+   <lb ed="#B" n="87"/>euexit ad aethera virtus Diis geniti potuere. Ad 
+   <lb ed="#B" n="88"/>hoc est ratio. nam plurimi fuerunt &amp; sunt infideles: 
+   <lb ed="#B" n="89"/>&amp; sunt haeretici &amp; male viuentes christiani: sed cum 
+   <lb ed="#B" n="90"/>corpora erunt assumpta post iudicium, non omia 
+   <lb ed="#B" n="91"/>illa corpora poterunt esse in terra. Etiam oportet 
+   <lb ed="#B" n="92"/>assignare vnam partem terrae pro limbo puerorum, 
+  </p>
+      <p xml:id="jMqv4a-d1e1813-d1e240">
+       <lb ed="#B" n="93"/>⁋ Respondetur admisso antecedente pro prima 
+   <lb ed="#B" n="94"/>parte, quia illa est rationabilis. sed negatur minor. 
+   <lb ed="#B" n="95"/>nam omnia corpora damnatorum poterunt esse 
+   <lb ed="#B" n="96"/>in terra per compressionem ad modum rotae. secun 
+   <lb ed="#B" n="97"/>dum illud psalmographi. psal. lxxxii. Deus me 
+   <lb ed="#B" n="98"/>pone illos vt rotam. Et illud. Sicut oues in inferno 
+   <lb ed="#B" n="99"/>positi sunt. psal. xlviii. Nam oues in aestate
+   compri<lb ed="#B" n="100" break="no"/>muntur propter ardorem solis / euntes agminatim 
+   <lb ed="#B" n="101"/>ad vmbram: in hyeme gregatim vt mutuo anhe 
+   <lb ed="#B" n="102"/>litu &amp; calore se muniant. Secundo deus potest con 
+   <lb ed="#B" n="103"/>uertere sphaeram aquae in parte vel in toto in ter 
+   <lb ed="#B" n="104"/>ram, &amp; rarefacere vel augere alias partes / aeris vel 
+   <lb ed="#B" n="105"/>ignis, ne sit vacuum, quousque sit locus sufficiens. 
+   <lb ed="#B" n="106"/>Tertio dico. potest deus ponere omnia corpora 
+   <!--0710.xml-->
+   <pb ed="#B" n="339-v"/>
+       <cb ed="#B" n="a"/>
+       <lb ed="#B" n="1"/>damnatorum sine condensatione in foramine acus. hoc 
+   <lb ed="#B" n="2"/>ostensum est in decima dist. huius. Quarto dico quod 
+   <lb ed="#B" n="3"/>terra his omnibus sufficit. nam si omnes homines esseni 
+   <lb ed="#B" n="4"/>in superficie terrae habitatae / parum occuparent. &amp; cum 
+   <lb ed="#B" n="5"/>hoc sunt modotes inuii. plana etiam terra difficulter in 
+   <lb ed="#B" n="6"/>habitatur in plerisque locis propter calorem / frigus / &amp; im 
+   <lb ed="#B" n="7"/>manes bestias. &amp; sunt insulae forte reperibiles.
+  </p>
+      <p xml:id="jMqv4a-d1e1813-d1e295">
+   ⁋ Si 
+   <lb ed="#B" n="8"/>vera sit opinio Theodosii, Ambrosii, Macrobii 
+   <lb ed="#B" n="9"/>&amp; Fratosthenis, quod cuilibet gradui in caelo
+   respon<lb ed="#B" n="10" break="no"/>dent septingenta stadia in terra: iam terrae circuitus du 
+   <lb ed="#B" n="11"/>centa quinquagintaduo milia stadiorum continebit 
+   <lb ed="#B" n="12"/>quod patet ducendo trecenta sexaginta in septingenta.
+   Cu<lb ed="#B" n="13" break="no"/>ius diameter facile reperitur supponendo ex
+   geo<lb ed="#B" n="14" break="no"/>metria practica regulam infallibilem, quod circumferentia 
+   <lb ed="#B" n="15"/>ad diametrum est proportio tripla sesquiseptima, sicut 
+   <lb ed="#B" n="16"/>vigintiduorum ad septem. partire igitur ambitum terrae 
+   <lb ed="#B" n="17"/>per. xxii. &amp; in numero quotiente exibut vndecim mi 
+   <lb ed="#B" n="18"/>lia / quadringenta / quinquagintaquatuor / vna secunda 
+   <lb ed="#B" n="19"/>&amp; vna vigesimasecunda: cuius vigesimaesecundae 
+   <lb ed="#B" n="20"/>partis numerum subtrahe a numero ambitus terrae, &amp; 
+   <lb ed="#B" n="21"/>relinquuntur ducenta quadraginta milia / quingentai 
+   <lb ed="#B" n="22"/>quadragintaquinque &amp; decem vigesimaesecundae.
+   hu<lb ed="#B" n="23" break="no"/>ius residui quaere tertiam partem / ipsum per tria di 
+   <lb ed="#B" n="24"/>uidendo: &amp; erunt octoginta milia / centum /
+   octo<lb ed="#B" n="25" break="no"/>ginta vnum / semis &amp; septem vigesimaesecundae: &amp; 
+   <lb ed="#B" n="26"/>habebis diametrum terrae. quae si in duas partes se 
+   <lb ed="#B" n="27"/>iungatur, habebitur terrae semidiameter / scilicet 
+   <lb ed="#B" n="28"/>quadraginta milia nonaginta &amp; viginti vigesimae 
+   <lb ed="#B" n="29"/>secundae / crassitudo a superficie terrae ad centrum vsque 
+   <lb ed="#B" n="30"/>Et si velis habere miliaria: partire hunc numerum 
+   <lb ed="#B" n="31"/>per octo: &amp; sic profunditatem immensam habebis in  
+   <lb ed="#B" n="32"/>terra: &amp; magnum erit interuallum. siquidem a superficie 
+   <lb ed="#B" n="33"/>ad eius centrum sunt. M. dixxxix. leucae cum miliari 
+   <lb ed="#B" n="34"/>cum paruis fragmentis. Vtendo autem modo Ptolemaei 
+   <lb ed="#B" n="35"/>potes similiter deducere. vnde hic imaginemur pe 
+   <lb ed="#B" n="36"/>dem circini immobilem in centro terrae: ducatur alius pes 
+   <lb ed="#B" n="37"/>trahendo circulum paruum: secundum illam petitionem 
+   <lb ed="#B" n="38"/>primi Euclidis, super centrum quidlibet / circulum quan 
+   <lb ed="#B" n="39"/>tumlibet occupando designare. dicatur iste circulus 
+   <lb ed="#B" n="40"/>a. rursus eodem pede in centro immobili expanda 
+   <lb ed="#B" n="41"/>tur alius vltra peripheriam circuli a. ad aliqualem distan 
+   <lb ed="#B" n="42"/>tiam ducatur circulus b. &amp; sic deinceps. Pessimus autem 
+   <lb ed="#B" n="43"/>est in centro diabolus tanquam in suo carcere perpetuo: 
+   <lb ed="#B" n="44"/>alii vero proximi ei in malitia accedunt in circulo b. vi 
+   <lb ed="#B" n="45"/>mali daemones: Mahumetus: Arrius: Nero: ludas: 
+   <lb ed="#B" n="46"/>&amp; similes: &amp; sic per ordinem. Sed dicis. ergo existen 
+   <lb ed="#B" n="47"/>tes in circulo b. habebunt pedes super capita existen 
+   <lb ed="#B" n="48"/>tium in circulo a. nam qui existunt in circulo a, non 
+   <lb ed="#B" n="49"/>tendunt vlterius cum sint ex omni parte centri. 
+   <lb ed="#B" n="50"/>Et licet nullum esset impedimentum non
+   progrede<lb ed="#B" n="51" break="no"/>rentur vlterius: cum ibi sit maximus descensus.
+   ex<lb ed="#B" n="52" break="no"/>istentes autem in circulo b appetunt descendere: sed
+   ha<lb ed="#B" n="53" break="no"/>bent resistentiam ab aliis. qui vero existunt in circulo 
+   <lb ed="#B" n="54"/>c. vtrosque deprimunt. quemadmodum equus fert
+   hi<lb ed="#B" n="55" break="no"/>bernicum &amp; pondus in suo collo ac si esset imme- 
+   <!--0710.xml-->
+   <cb ed="#B" n="b"/> 
+       <!-- 339-v b -->
+       <lb ed="#B" n="56"/>diatum equo: &amp; sic existentes prope centrum
+   deprimun<lb ed="#B" n="57" break="no"/>tur ab omnibus superioribus: &amp; ita tandem suffocabun 
+   <lb ed="#B" n="58"/>tur &amp; peribunt. Dicitur quod non suffocabuntur: quia 
+   <lb ed="#B" n="59"/>deus eos praeseruabit, nec morientur: sed quaerent 
+   <lb ed="#B" n="60"/>mortem &amp; fugiet ab eis. An purgatorium sit vici 
+   <lb ed="#B" n="61"/>nius infemo quam limbus puerorum / incertum est. lim 
+   <lb ed="#B" n="62"/>bus autem patrum pro tempore quo erat / fuit
+   su<lb ed="#B" n="63" break="no"/>praemus. hinc inter <name xml:id="jMqv4a-d1e1813-Nd1e425" ref="#Abraham">Abraham</name> &amp; diuitem epulonem fuis 
+   <lb ed="#B" n="64"/>se magnum chaos in euangelio refertur. Probabile est 
+   <lb ed="#B" n="65"/>quod purgatorium sit nunc in superficie inferni / &amp; lim 
+   <lb ed="#B" n="66"/>bus puerorum super ipsum. augebitur autem post 
+   <lb ed="#B" n="67"/>diem iudicii infernus imbibendo purgatorium: &amp; 
+   <lb ed="#B" n="68"/>imbus puerorum erit circa superficiem terrae in ter 
+   <lb ed="#B" n="69"/>ra vt opinor. 
+  </p>
+    </div>
+   </body>
+  </text>
+</TEI>

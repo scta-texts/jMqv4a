@@ -1,0 +1,417 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 1</title>
+      <author ref="#JohnMair">John Mair</author>
+      <respStmt>
+       <name>Jeffrey C. Witt</name>
+       <resp>TEI Encoder</resp>
+      </respStmt>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 1</title>
+       <date when="2020-06-09">June 27, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="B" n="cod-Bda113">Badius 1516</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+     guidelines for a diplomatic edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-06-27" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+      <pb ed="#B" n="1-r"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="jMqv4a-d1e301"> <!-- l4prolq1 -->
+      <head xml:id="jMqv4a-d1e301-Hd1e104">Quaestio 1</head>
+      <head xml:id="jMqv4a-d1e301-Hd1e107" type="question-title">An liceat aliqua non theologica in theologia tradere</head>
+      <p xml:id="jMqv4a-d1e301-d1e110">
+   <!--0033.xml-->
+       <pb ed="#B" n="1-r"/>
+       <cb ed="#B" n="a"/>
+       <lb ed="#B" n="1"/>M. Ioannis Maioris Scoti: Theo 
+   <lb ed="#B" n="2"/>logi Parisien. in Prologum Quarti 
+   <lb ed="#B" n="3"/>Sententiarum Quaestio Prima. 
+   <lb ed="#B" n="4"/>lRca huius 
+   <lb ed="#B" n="5"/>Quarti Prooemi 
+   <lb ed="#B" n="6"/>um triplicem Quae 
+   <lb ed="#B" n="7"/>stionem tractare pro 
+   <lb ed="#B" n="8"/>pono. Prima erit:  
+   <lb ed="#B" n="9"/>An liceat aliqua 
+   <lb ed="#B" n="10"/>non theologica in 
+   <lb ed="#B" n="11"/>theologia
+   trade<lb ed="#B" n="12" break="no"/>re. Secunda quaestio 
+   <lb ed="#B" n="13"/>erit quid opus sit 
+   <lb ed="#B" n="14"/>facto in contra: 
+   <lb ed="#B" n="15"/>rietate positionum. 
+   <lb ed="#B" n="16"/>Et tertia erit de 
+   <lb ed="#B" n="17"/>euacuando vno argumento circa foedam Mahu 
+   <lb ed="#B" n="18"/>meti sectam: &amp; de aliis delitamentis. Prima sub 
+   <lb ed="#B" n="19"/>hoc verborum contextu erit. 
+  </p>
+      <p xml:id="jMqv4a-d1e301-d1e160">
+       <lb ed="#B" n="20"/>⁋ An liceat theologo tractanti theo 
+   <lb ed="#B" n="21" break="no"/>logiam artes non theologicas tractare. Pro huius 
+   <lb ed="#B" n="22"/>quaestionis elucidatione vnam ponam notatiunculam: 
+   <lb ed="#B" n="23"/>postea conclusiue ad quaestionis titulum
+   responsu<lb ed="#B" n="24" break="no"/>tus. Notabile erit hoc. Stat doctorem theologum 
+   <lb ed="#B" n="25"/>philosophiam vel scientias peregrinas duobus mo 
+   <lb ed="#B" n="26" break="no"/>dis in theologia inserere. vno modo scientias necessa 
+   <lb ed="#B" n="27" break="no"/>rias ad intelligenda theologica: vt puta in hoc quar 
+   <lb ed="#B" n="28" break="no"/>to doctores passim petunt: an creatura possit 
+   <lb ed="#B" n="29" break="no"/>creare. Quomodo definiatur sactamentum: &amp; baptismus. 
+   <lb ed="#B" n="30"/>In sacramento Eucharistiae dubium est an albedo sa 
+   <lb ed="#B" n="31" break="no"/>por &amp; huiusmodi sint in quantitate continua tanquam 
+   <lb ed="#B" n="32"/>in subiecto, an non de actione accidentium
+   separato<lb ed="#B" n="33" break="no"/>rum. An attritio &amp; contritio specie differant: pro quo
+   il<lb ed="#B" n="34" break="no"/>li termini supponant. de beatitudine: an anima actiue 
+   <lb ed="#B" n="35"/>concurrat ad suam beatitudinem an non. An sit status 
+   <lb ed="#B" n="36"/>in maxima beatitudine quam anima potest habere: vel in 
+   <lb ed="#B" n="37"/>minima quam non potest habere. An sit aliqua poe 
+   <lb ed="#B" n="38" break="no"/>na insensibilis propter paruitatem seorsum. Quomen 
+   <lb ed="#B" n="39"/>corpora hominium possint esse cum caelo. Quomodo
+   cor<lb ed="#B" n="40" break="no"/>pus Christi poterat exire monumentum lapide de 
+   <lb ed="#B" n="41"/>super existente. &amp; ad hoc oportet videre
+   penetratio<lb ed="#B" n="42" break="no"/>nem corporum. Haec &amp; similia theologiae astipulantur 
+   <lb ed="#B" n="43"/>Aliqua sunt impertinentia cognitioni theologiae. in  
+   <lb ed="#B" n="44"/>terim contingit illa recensere prolixe vel succincte: &amp; in 
+   <lb ed="#B" n="45" break="no"/>pugnare prodige: vel recitare opiniones de lana ca 
+   <lb ed="#B" n="46" break="no"/>prina. vt an beatitudo sit in essentia animae an in eius 
+   <lb ed="#B" n="47"/>potentiis: &amp; caeteris id genus quaestionibus. 
+  </p>
+      <p xml:id="jMqv4a-d1e301-d1e224">
+       <lb ed="#B" n="48"/>⁋ Hac notatiuncula praemissa
+   po<lb ed="#B" n="49" break="no"/>no conclusiones. Prima. Non obscoenum est
+   intro<lb ed="#B" n="50" break="no"/>ducere philosophiam &amp; caeteras scientias sine quibus 
+   <lb ed="#B" n="51"/>theologia non potest bene capi. haec conclusio non eget 
+   <!--0033.xml-->
+   <cb ed="#B" n="b"/> 
+       <!-- 1-r b -->
+       <lb ed="#B" n="52"/>probatione. Si enim aliquid est necessarium: medium ad 
+   <lb ed="#B" n="53"/>llud est necessarium. Theologia doctori theologo  
+   <lb ed="#B" n="54"/>est necessaria. igitur. Et quamquam tanguntur talia in caeteris fa 
+   <lb ed="#B" n="55"/>cultatibus: non tamen fortassis sufficienter: hic autem bre 
+   <lb ed="#B" n="56"/>uiter tangenda sunt. Praeterea. aliqui gradum adepti me 
+   <lb ed="#B" n="57"/>diocriter instituti in artibus summo desiderio
+   theo<lb ed="#B" n="58" break="no"/>logiam desiderant: &amp; aliqua physica: quos pudet iam 
+   <lb ed="#B" n="59"/>audire sub regente quo sunt tam in annis quam in
+   ag<lb ed="#B" n="60" break="no"/>gregato disciplinae maiores. talibus igitur prodest cum 
+   <lb ed="#B" n="61"/>theologia philosophiae deducta commixtio. In super 
+   <lb ed="#B" n="62"/>hoc modo exercitati artistae &amp; ingeniosi ad studium 
+   <lb ed="#B" n="63"/>theologicum alliciuntur. ergo talis modus scribendi 
+   <lb ed="#B" n="64"/>est eis vtilis. Amplius, aliqua theologica aliam ar 
+   <lb ed="#B" n="65"/>tem supponunt pro sui intelligentia: quam paucis tan 
+   <lb ed="#B" n="66"/>gere est necessarium. 
+  </p>
+      <p xml:id="jMqv4a-d1e301-d1e274">
+       <lb ed="#B" n="67"/>⁋ Secunda conclusio, non illaudabile est 
+   <lb ed="#B" n="68"/>extraneas scientias ad theologiam nullo modo necessa 
+   <lb ed="#B" n="69" break="no"/>tias: sed ad decorem theologiae conducentes
+   introdu<lb ed="#B" n="70" break="no"/>cere. Probatur: facta venerabilium patrum &amp; basium in  
+   <lb ed="#B" n="71"/>doctrina theologica sunt imitanda: sed sic est quod 
+   <lb ed="#B" n="72"/>beatus Hieronymus, <name xml:id="jMqv4a-d1e301-Nd1e289" ref="#Augustine">Augustinus,</name> &amp; alii doctores 
+   <lb ed="#B" n="73"/>Platonis: Marci Tullii: Virgilii: &amp; aliorum
+   philoso<lb ed="#B" n="74" break="no"/>phorum: oratorum: &amp; poetarum introduxerunt scripta. 
+   <lb ed="#B" n="75"/>vt patet legenti. Vide beatum <name xml:id="jMqv4a-d1e301-Nd1e298" ref="#Augustine">Augustinum</name> super Gene 
+   <lb ed="#B" n="76" break="no"/>sim ad literam: &amp; in aliis eius scriptis. ergo illud no 
+   <lb ed="#B" n="77" break="no"/>bis licet. Item alia propter theologiam valent. vt patet 
+   <lb ed="#B" n="78"/>xxxvii. distin. de quibusdam: &amp; turbat.
+   Prouerbio<lb ed="#B" n="79" break="no"/>rum. ix. Sapientia aedificauit sibi domum: excidit colum 
+   <lb ed="#B" n="80"/>nas septem. &amp; sequitur. Misit ancillas suas vt voca 
+   <lb ed="#B" n="81"/>ent ad arcem &amp; ad moenia ciuitatis. Non ei refert 
+   <lb ed="#B" n="82"/>de quo campo colligatur rha barbarum dum bene pui 
+   <lb ed="#B" n="83"/>get patientem a choleta. Praeterea fortassis veritas 
+   <lb ed="#B" n="84"/>fidei posita ab infideli ea quae sunt fidei confirmat 
+   <lb ed="#B" n="85"/>nam vndecimo de ciuitate dei, &amp; secundo de doctri 
+   <lb ed="#B" n="86"/>na christiana dicitur. Si qua forte nostrae fidei accom 
+   <lb ed="#B" n="87"/>moda dixerint non solum formidanda non sunt: sed  
+   <lb ed="#B" n="88"/>ab eis tanquam iniustis possessoribus in vsum nostrum 
+   <lb ed="#B" n="89"/>vendicanda sunt. Ponit exemplum de iudaeis spolian 
+   <lb ed="#B" n="90"/>tibus Aegyptios. ad hoc introducit Cyprianum  
+   <lb ed="#B" n="91"/>Hilarium: &amp; alios qui ita fecerunt. Et Damascenus 
+   <lb ed="#B" n="92"/>libro. iiii. de orthodoxa fide. c. xviii. postquam locutus 
+   <lb ed="#B" n="93"/>est de laude sacrae scripturae: inquit ad propositum. 
+   <lb ed="#B" n="94"/>Si autem ab his qui foris sunt quippiam vtile
+   decer<lb ed="#B" n="95" break="no"/>pere valuerimus: non aspernabile est efficiamur pro 
+   <lb ed="#B" n="96"/>bati trapezitae. Secundum illud Horatii. Omne
+   tu<lb ed="#B" n="97" break="no"/>lit punctum qui miscuit vtile dulci. Vide beatum Hio 
+   <lb ed="#B" n="98"/>ronymum respondentem oratori vrbis Romae quae  
+   <lb ed="#B" n="99"/>renti Cur sanctus pater saeculares literas toties in  
+   <lb ed="#B" n="100"/>troduceret. Epistola est circa finem virorum illustrium: 
+   <lb ed="#B" n="101"/>&amp; in eius responsione locupletissimos, habebis te 
+   <lb ed="#B" n="102"/>stes quos ipse citat ad nostrum propositum. Et Deute 
+   <lb ed="#B" n="103"/>ronomii. xxi. Si videris in numero captiuorum mu 
+   <lb ed="#B" n="104"/>lierem pulchram &amp; adamaueris eam: introduces eam in  
+   <lb ed="#B" n="105"/>domum tuam: quae radet caesariem &amp; circunci- 
+   <!--0034.xml-->
+   <pb ed="#B" n="1-v" break="no"/>
+       <cb ed="#B" n="a" break="no"/>
+       <lb ed="#B" n="1" break="no"/>det vngues: &amp; deponet vestem in qua capta est. Haec 
+   <lb ed="#B" n="2"/>mulier est gentilium scientia cuius supuacanea
+   rescin<lb ed="#B" n="3" break="no"/>dere oportet: reliquum assumendo in societatem: vt ex 
+   <lb ed="#B" n="4"/>moabitide generetur Israelitis. Quomodo quis inermis
+   po<lb ed="#B" n="5" break="no"/>terit prodire in bellum cum infidelibus &amp; haereticis gen 
+   <lb ed="#B" n="6"/>tilium armatura stipatis? Licet de spinis colligere 
+   <lb ed="#B" n="7"/>vuas &amp; de petra mel sugere: oleumque de saxo du 
+   <lb ed="#B" n="8"/>tissimo: &amp; de thesauris aegyptiorum extruere taber 
+   <lb ed="#B" n="9"/>naculum domini. secundum illud Nasonis. Fas est vel ab 
+   <lb ed="#B" n="10"/>hoste doceri. Nonnunquam congruit academiam Parisien 
+   <lb ed="#B" n="11"/>sem colligere manipulos ex messe Atheniensi cui 
+   <lb ed="#B" n="12"/>successit. dicente Baptista libro. ii. vitae diui
+   Dio<lb ed="#B" n="13" break="no"/>nysii. Illa tuae quibus in caelum tolluntur Athenae Tot 
+   <lb ed="#B" n="14"/>sophiae foecunda bonis: tot lucida claris Scriptorum 
+   <lb ed="#B" n="15"/>ingeniis qui tanquam sydera lumen Aetemo splendore 
+   <lb ed="#B" n="16"/>ferunt: gymnasmata primus Transferet ad Gallos. 
+  </p>
+      <p xml:id="jMqv4a-d1e301-d1e408">
+       <lb ed="#B" n="17"/>⁋ Tertia conclusio. Necessarium est 
+   <lb ed="#B" n="18"/>theologo multotum qua in biblia non continentur: nec ex 
+   <lb ed="#B" n="19"/>contentis omnibus in biblia sequuntur: habere notitiam. Et 
+   <lb ed="#B" n="20"/>ex consequenti necessarium est aliarum disciplinarum ha 
+   <lb ed="#B" n="21"/>bere peritiam. Probatur haec conclusio. Sunt multi contra 
+   <lb ed="#B" n="22"/>ctus &amp; casus quorum resolutio ex sola biblia habe 
+   <lb ed="#B" n="23"/>ri nequit: in quibus ad moralem philosophiam, ius pontifi 
+   <lb ed="#B" n="24"/>cium, &amp; theologorum scripta est refugium: ergo ista ha 
+   <lb ed="#B" n="25"/>bere necessarium est: quia ad theologum spectat de fide, 
+   <lb ed="#B" n="26"/>spe, charitate, &amp; eorum quae salutem animae contingunt dare 
+   <lb ed="#B" n="27"/>rationem. Sicut enim causas forenses habentes patronos, &amp; 
+   <lb ed="#B" n="28"/>corpora infirma medicos consulunt: sic salutem animae procu 
+   <lb ed="#B" n="29"/>rantes theologos in foro interiori consulunt. haec sine 
+   <lb ed="#B" n="30"/>multa lectione extra bibliam sciri non possunt: igitur. 
+  </p>
+      <p xml:id="jMqv4a-d1e301-d1e441">
+       <lb ed="#B" n="31"/>⁋ Contra duas primas conclusiones 
+   <lb ed="#B" n="32"/>simul arguitur sic. Ex secunda conclusione &amp; eius
+   pro<lb ed="#B" n="33" break="no"/>batione habetur quod per facta patrum scientias peregrinas 
+   <lb ed="#B" n="34"/>in theologia inserere licet. verum ex isto sequitur quod iste 
+   <lb ed="#B" n="35"/>modus scribendi in theologia per arguitur sic: vt mo 
+   <lb ed="#B" n="36"/>re commui loquamur, per conclusiones / propositiones: &amp; 
+   <lb ed="#B" n="37"/>corollaria non valeret. cosequens est inconueniens &amp; con 
+   <lb ed="#B" n="38"/>tra omnium neotericorum processum. &amp; patet consequentia 
+   <lb ed="#B" n="39"/>quia significabamus oportere inniti modo procedendi 
+   <lb ed="#B" n="40"/>patrum. modo patres vtpote <name xml:id="jMqv4a-d1e301-Nd1e464" ref="#Augustine">Augustinus</name> Hierony. &amp; similes 
+   <lb ed="#B" n="41"/>non ita scripserunt: immo nec Aristo. Plato: &amp; alii phi 
+   <lb ed="#B" n="42"/>losophi. ergo inanis est ista recentiorum curiositas: 
+   <lb ed="#B" n="43"/>vel intricate scripserunt maiores. vnde Ioan. Gerson 
+   <lb ed="#B" n="44"/>cancellarius Parisiensis in secunda lectione super Marcum
+   cir<lb ed="#B" n="45" break="no"/>ca medium deflet: quia in arguendo logica physica vel 
+   <lb ed="#B" n="46"/>metaphysica inuoluatur. Et sequitur. Illud frequenter 
+   <lb ed="#B" n="47"/>contingit in Anglia: &amp; pro dolor nisi prouideatur
+   conva<lb ed="#B" n="48" break="no"/>lescet in Gallia. non ob aliud (inquit) theologi nostri 
+   <lb ed="#B" n="49"/>temporis sophistae &amp; verbosi: immo &amp; phantastici, nunc de 
+   <lb ed="#B" n="50"/>intensione formae / nunc de diuisione continui, nunc pro 
+   <lb ed="#B" n="51"/>prietates quasdam in diuinis / mensuras / durationes
+   instan<lb ed="#B" n="52" break="no"/>tia: signa naturae &amp; similia inserunt. Et in prima epistola ad 
+   <lb ed="#B" n="53"/>collegium Nauarrae ferme similem sententiam introdu-  
+   <!--0034.xml-->
+   <cb ed="#B" n="b"/> 
+       <!-- 1-v b -->
+       <lb ed="#B" n="54"/>cit. Et propterea verificatur illa Senecae sententia.
+   Ne<lb ed="#B" n="55" break="no"/>cessaria nesciunt quia supuacanea didicerunt. quia de 
+   <lb ed="#B" n="56"/>materia futili inutiliter contendunt: necessaria
+   negli<lb ed="#B" n="57" break="no"/>gunt. Contra illud Ecclesiasti. vii. Quid necesse est 
+   <lb ed="#B" n="58"/>homini maiora se quaerere: cum ignoret quid conducat sibi in 
+   <lb ed="#B" n="59"/>vita sua numero dierum peregrinationis suae?
+   Fran<lb ed="#B" n="60" break="no"/>ciscus Petrarcha lib. i epistolarum deflet Siciliam esse 
+   <lb ed="#B" n="61"/>Britanntae similem. In istis labyrinthis non solum in
+   an<lb ed="#B" n="62" break="no"/>gulari situ Trincariae nunquid stultum est tendere 
+   <lb ed="#B" n="63"/>artificiose retia pro capiendis muscis posthabita 
+   <lb ed="#B" n="64"/>optima praeda vitae humanae propitia? 
+  </p>
+      <p xml:id="jMqv4a-d1e301-d1e527">
+       <lb ed="#B" n="65"/>⁋ Ad primum respondetur quod non nocet 
+   <lb ed="#B" n="66"/>idem scribi differenti via. Quod enim vni difficile captu 
+   <lb ed="#B" n="67"/>apparet: alteri paruium apparebit. primo de triniitate. ca. iii 
+   <lb ed="#B" n="68"/>Quisquis ergo cum legit dicit non bene dictum est: quoniam 
+   <lb ed="#B" n="69"/>non intelligo. Et paulopost sequitur. Non tamen propterea 
+   <lb ed="#B" n="70"/>putet me tacere debuisse: quia non tam expedite, aut  
+   <lb ed="#B" n="71"/>dilucide quam illi quos intelligit eloqui potui: neque enim 
+   <lb ed="#B" n="72"/>omnia qua ab omnibus conscribuntur in omnium manus veniunt: &amp; 
+   <lb ed="#B" n="73"/>fieri potest: vt nonnulli qui etiam haec nostra intelligere va 
+   <lb ed="#B" n="74"/>lent illos planiores non inueniant libros: &amp; in istos 
+   <lb ed="#B" n="75"/>saltem incidant. Et sequitur ad propositum. ldeoque vtile est 
+   <lb ed="#B" n="76"/>plures a pluribus fieri diuerso stylo non diuersa fide 
+   <lb ed="#B" n="77"/>etiam de quaestionibus eisdem: vt ad plurimos res ipsa
+   per<lb ed="#B" n="78" break="no"/>ueniat: ad illos sic: ad alios autem sic. Et iudicio 
+   <lb ed="#B" n="79"/>meo scribentes in forma arguendi vti posteriores fe 
+   <lb ed="#B" n="80"/>cere: ita clare: immo enucleatiuus quam antiqui scripse 
+   <lb ed="#B" n="81"/>runt, more naturae quae ab imperfecto ad perfectum vel a per 
+   <lb ed="#B" n="82"/>fecto ad magis perfectum procedit: sic scientiae incremen 
+   <lb ed="#B" n="83"/>tum successu temporis acceperunt secundi Elenchorum vltimo. &amp; 
+   <lb ed="#B" n="84"/>primi Ethicorum. vii. Non patrum auctoritates denigrat si 
+   <lb ed="#B" n="85"/>quis lucidius dicat quae ipsi: &amp; multa alia tanguntur quae 
+   <lb ed="#B" n="86"/>ipsis non occurrebant. Quemadmodum nobis sepultis 
+   <lb ed="#B" n="87"/>multa posterioribus occurrent. Numquid in hac
+   tempesta<lb ed="#B" n="88" break="no"/>te Americus Vespusius terras repperit Ptolemaeo Pli 
+   <lb ed="#B" n="89"/>nio &amp; reliquis cosmographis ante haec saecula
+   inco<lb ed="#B" n="90" break="no"/>gnitas: quare non potest ita contingere in aliis? Si nullus 
+   <lb ed="#B" n="91"/>sciuerit scribere lucidius antiquis: quomodo adiecta sunt tot 
+   <lb ed="#B" n="92"/>commentaria in libros <name xml:id="jMqv4a-d1e301-Nd1e589" ref="#Aristotle">Aristoteles:</name> beati <name xml:id="jMqv4a-d1e301-Nd1e593" ref="#Augustine">Augustini</name> de ciui. 
+   <lb ed="#B" n="93"/>dei, &amp; multos alios? <name xml:id="jMqv4a-d1e301-Nd1e598">Origenes</name>: <name xml:id="jMqv4a-d1e301-Nd1e601">Gregorius</name>: <name xml:id="jMqv4a-d1e301-Nd1e604">Augusti 
+   <lb ed="#B" n="94"/>nus</name> &amp; maiores concionando vsi sunt homiliis: poste 
+   <lb ed="#B" n="95"/>riores tamen modum alium non minus vtilem acceperunt. Ad 
+   <lb ed="#B" n="96"/>aliud de modo subtili Parisiensi non facile est respondere.  
+   <lb ed="#B" n="97"/>in primis non approbo horum sententiam qui dicunt theo 
+   <lb ed="#B" n="98"/>logos auctoritatibus solum vti debere bibliae vel
+   iu<lb ed="#B" n="99" break="no"/>ris: quia sic existens extra vniuersitatem esset facile 
+   <lb ed="#B" n="100"/>theologus: hac via Parisiense studium non
+   na<lb ed="#B" n="101" break="no"/>ctum est celebrem famam sepulta acrimonia ra 
+   <lb ed="#B" n="102"/>tionum in disputando: solis enim auctoritatibus 
+   <lb ed="#B" n="103"/>inhiando idem studium aliis cedere necesse est. 
+   <lb ed="#B" n="104"/>Et licet. <ref xml:id="jMqv4a-d1e301-Rd1e631">xxiiii. distin. tertii</ref>, altera ex parte conterra 
+   <lb ed="#B" n="105"/>neus illum modum inserendi ad quem posterio 
+   <lb ed="#B" n="106"/>res deuenerunt &amp; potissimum metaphysicam, grandem fa 
+   <lb ed="#B" n="107"/>ciat: hos tamen non approbo qui prolixe in theologia quaestio 
+   <!--0035.xml-->
+   <pb ed="#B" n="2-r"/>
+       <cb ed="#B" n="a"/>
+       <lb ed="#B" n="1"/>nes inutiles ex artibus inserunt ad logum: opiniones 
+   <lb ed="#B" n="2"/>friuolas verborum prodigalitate impugnant: &amp; tantum 
+   <lb ed="#B" n="3"/>aquae in vinum infundunt vt totum aqueum atque insipi 
+   <lb ed="#B" n="4"/>du gustui videatur: secundum prouerbium Varronis.
+   Veri<lb ed="#B" n="5" break="no"/>tas nimis altercando amittitur. Et Damascenus vbi 
+   <lb ed="#B" n="6"/>supra. Legitimum (inquit) &amp; purum aurum aceruantes: adul 
+   <lb ed="#B" n="7"/>teratum autem refutantes. Sumamus autem sermones opti 
+   <lb ed="#B" n="8"/>mos: deos autem ridiculos &amp; fabulas alienas canibus 
+   <lb ed="#B" n="9"/>proiiciamus. Contra quos bene dicit <name xml:id="jMqv4a-d1e301-Nd1e667" ref="#JeanGerson">Gerson</name>. Illa prolixi 
+   <lb ed="#B" n="10"/>tas inutilium multa facit volumina: in quibus bona in 
+   <lb ed="#B" n="11"/>seruntur non legi in scholis: &amp; plura adhuc faceret si 
+   <lb ed="#B" n="12"/>affectio sectarum non accederet. In aliquibus aliis
+   vni<lb ed="#B" n="13" break="no"/>uersitatibus circa hec inutilia magis quam Parisiis labo 
+   <lb ed="#B" n="14"/>rant: puer nugas afferens in Sorbona reputaretur qui
+   se<lb ed="#B" n="15" break="no"/>riose de anima &amp; eius potentiis: de distinctione formali ad 
+   <lb ed="#B" n="16"/>aliquorum mentem afferret in medium. &amp; fructuosius nunc 
+   <lb ed="#B" n="17"/>a centum annis Parisiis insistunt: quam aliquot annis ante 
+   <lb ed="#B" n="18"/>centenarium in quo nos sumus. Si ingenium acuere
+   vo<lb ed="#B" n="19" break="no"/>lueris / abyssum inuenies in ipsa theologia quae maeam 
+   <lb ed="#B" n="20"/>dros daedaleos continet. Matth. xiiii. vix spicas a 
+   <lb ed="#B" n="21"/>panibus hordeaceis euangelicis toto aeuo euelles. 
+   <lb ed="#B" n="22"/>hoc est. vix cortice fracto adipem eius attinges. ita 
+   <lb ed="#B" n="23"/>quod discumbebant viri quasi quinque milia: &amp; adhuc man 
+   <lb ed="#B" n="24"/>serunt fragmenta pro apostolis: hoc est grossa rudibus fran 
+   <lb ed="#B" n="25"/>guntur: secundum illud primae ad Corinthios. iii non po 
+   <lb ed="#B" n="26"/>tui vobis loqui tanquam spiritualibus sed quasi carnalibus: 
+   <lb ed="#B" n="27"/>tanquam paruulis in Christo Iac vobis potum dedi &amp; non 
+   <lb ed="#B" n="28"/>escam. fragmenta autem in cophinos ab apostolis
+   collige<lb ed="#B" n="29" break="no"/>bantur. hoc est subtiliora quae adhuc in infinitum sunt parti 
+   <lb ed="#B" n="30"/>bilia, a doctoribus seruantur: &amp; in libris colliguntur. Si 
+   <lb ed="#B" n="31"/>enim res sit omnino lucida &amp; primo obtutu cuilibet
+   per<lb ed="#B" n="32" break="no"/>uia: contemnitur: eijcitur: &amp; denique a theologiae tyrunculis 
+   <lb ed="#B" n="33"/>exploditur. Quocirca statui pro virili materias
+   theo<lb ed="#B" n="34" break="no"/>logicas ferme totaliter in hoc quarto nunc positiue 
+   <lb ed="#B" n="35"/>nunc scholastice prosequi. In eodem enim prato bos
+   gra<lb ed="#B" n="36" break="no"/>men: ciconia lacertum: canis leporem quaerit. Sed dicit apo 
+   <lb ed="#B" n="37"/>stolus secundae ad Timotheum. ii. Noli verbis contendere 
+   <lb ed="#B" n="38"/>Ad nihil enim vtile contenditur nisi ad subuersionem au 
+   <lb ed="#B" n="39"/>dientium. &amp;. ii. ad Timo. iii. de scriptura loquens dicit. 
+   <lb ed="#B" n="40"/>Tu vero permane in his quae didicisti &amp; credita sunt tibi 
+   <lb ed="#B" n="41"/>sciens a quo didiceris: &amp; quia ab infantia sacras litteras 
+   <lb ed="#B" n="42"/>nosti: quae te possunt instruere ad salutem. Et sequitur. omnis ei 
+   <lb ed="#B" n="43"/>scriptura diuinitus inspirata vtilis est ad docendum: ad  
+   <lb ed="#B" n="44"/>arguendum: ad corripiendum: ad erudiendum in iustitia. Et 
+   <lb ed="#B" n="45"/>Ecclesiastici. xxiiii. Qui edunt me adhuc esurient: &amp; 
+   <lb ed="#B" n="46"/>qui bibunt me adhuc sitient. Nonnunquam tamen gratia releuan 
+   <lb ed="#B" n="47"/>di spiritus obiter occurrentia physica paucis transcur 
+   <lb ed="#B" n="48"/>rere non pigebit: quatenus post recreationem ad seria 
+   <lb ed="#B" n="49"/>theologiae sit reditus: instar agricolae sulcum vertentis &amp; 
+   <lb ed="#B" n="50"/>mute fortuito reperto illum ocyssime insequentis &amp; proti 
+   <lb ed="#B" n="51"/>nus ad aratrum manum mittentis: nec mures extra 
+   <lb ed="#B" n="52"/>agros quos vertere proponimus inquirere satagemus. 
+  </p>
+      <p xml:id="jMqv4a-d1e301-d1e764">
+       <lb ed="#B" n="53"/>⁋ Contra tertiam conclusionem arguitur. 
+   <lb ed="#B" n="54"/>Ex ea sequitur quod theologia non docet sufficienter de 
+   <!--0035.xml-->
+   <cb ed="#B" n="b"/> 
+       <!-- 2-r b -->
+       <lb ed="#B" n="55"/>omnibus necessariis ad salutem: cum theologum multa alia 
+   <lb ed="#B" n="56"/>habere oporteat, quod est inconveniens. Respondetur deus
+   de<lb ed="#B" n="57" break="no"/>dit multitudini hominium igenia bona ad intelligendum: &amp; 
+   <lb ed="#B" n="58"/>theologiam ad eos iuuandos: &amp; sic licet non sola
+   Bi<lb ed="#B" n="59" break="no"/>blia tradat omnia necessaria ad salutem: cum hominem tamen la 
+   <lb ed="#B" n="60"/>bore omnia ad salutem necessaria possunt haberi. Melius 
+   <lb ed="#B" n="61"/>autem est habere aliquam pauca fundamenta ad quae homines pos 
+   <lb ed="#B" n="62"/>sunt mediate vel immediate in rebus dubiis habere re 
+   <lb ed="#B" n="63"/>cursum: quam immensa opera. fundamenta inquam praegnantia 
+   <lb ed="#B" n="64"/>quae sine improbo labore capi nequunt: vt homines merean 
+   <lb ed="#B" n="65"/>tur ea exponendo. secundum illud Ecclesiastici. xxiiii. 
+   <lb ed="#B" n="66"/>Qui me elucidant vitam aeternam habebunt. Et si ex bi 
+   <lb ed="#B" n="67"/>bilia casuum occurrentium non possunt habere resolu 
+   <lb ed="#B" n="68"/>tionem: ad lumen naturale &amp; ad alia bona volumina 
+   <lb ed="#B" n="69"/>vel doctores recursum habeant. hoc enim ne
+   veter<lb ed="#B" n="70" break="no"/>no torpeant homines voluit deus: sed laborent in vinea 
+   <lb ed="#B" n="71"/>domini sabaoth. Homo enim nascitur ad laborem sicut auis ad 
+   <lb ed="#B" n="72"/>volandum. Iob. v. &amp; qui non laborat non manducet.
+   Da<lb ed="#B" n="73" break="no"/>uid in labore non incidit in luxum: sed tempore quietis. Sic 
+   <lb ed="#B" n="74"/>nec Salomodo circa templum domini &amp; aedificationem
+   occu<lb ed="#B" n="75" break="no"/>patus: sed omnibus finitis in ocio corruit.
+  </p>
+      <p xml:id="jMqv4a-d1e301-d1e824">
+   ⁋ Haec pauca 
+   <lb ed="#B" n="76"/>epilogando &amp; obiter occurrentia adiugendo ob memo 
+   <lb ed="#B" n="77"/>riam iuuandam sicut plurimum in toto hoc libro facere 
+   <lb ed="#B" n="78"/>propono: haec colligo. Irrationabile est in theologia 
+   <lb ed="#B" n="79"/>potissimum in sententiarum. iiii. in quo materia conscien 
+   <lb ed="#B" n="80"/>tiarum tangi solet / friuolas opiniones peregrinatum
+   ar<lb ed="#B" n="81" break="no"/>tium prosequi: &amp; a fortiori eas prodige impugnare. Illa tamen 
+   <lb ed="#B" n="82"/>quae theologiam &amp; casus conscientiae ornant &amp; elucidant, vnde 
+   <lb ed="#B" n="83"/>cumque sumantur sunt accipienda. talia enim non sunt
+   extra<lb ed="#B" n="84" break="no"/>nea: sed theologica: sine quibus aegre casus obscurus 
+   <lb ed="#B" n="85"/>capitur. vt in decima distinctione quaerimus: An duo corpora 
+   <lb ed="#B" n="86"/>possint esse circumscriptiue in eodem loco. &amp; mobile po 
+   <lb ed="#B" n="87"/>situm in vacuo moueatur in instanti: &amp; an paruum corpus
+   con<lb ed="#B" n="88" break="no"/>mensuratiue cum magno corpore capiat applicationem 
+   <lb ed="#B" n="89"/>quae valent ad hoc quod corpus Christi simul pot esse in variis 
+   <lb ed="#B" n="90"/>locis: &amp; quod totum corpus potest simul esse cum tota hostia &amp; qua 
+   <lb ed="#B" n="91"/>libet eius parte. talia ergo tractare non solum licet: sed de 
+   <lb ed="#B" n="92"/>cet &amp; expedit. Tertia sunt scholastica clara: ingenio 
+   <lb ed="#B" n="93"/>sis viris necessaria pro schola ad purganda hominium in  
+   <lb ed="#B" n="94"/>genia: nec illa sunt relinquenda. Contra eandem enim con 
+   <lb ed="#B" n="95"/>clusionem mediocri igenio praeditus armatura leuiori 
+   <lb ed="#B" n="96"/>vtitur: quam acer oppugnator. propterea opus est ei aliis 
+   <lb ed="#B" n="97"/>armis. Non omnes arbusta iuuant: humilesque myricae, non 
+   <lb ed="#B" n="98"/>me fugit quin illa quae non capit rudis reputat inania: &amp; 
+   <lb ed="#B" n="99"/>sophismata. Hinc vnus nimis positiue insistit non suf 
+   <lb ed="#B" n="100"/>ficientem speculationem quaerendo: alius vero excessiuam &amp; 
+   <lb ed="#B" n="101"/>inutilem venatur: iudex sit doctor theologus: quam per 
+   <lb ed="#B" n="102"/>octo annos &amp; supra post gradum adeptum taqui
+   am<lb ed="#B" n="103" break="no"/>bidexter Aioth circa vtrumque versatus est. Et propter 
+   <lb ed="#B" n="104"/>ea iuuenis tibi labruscas &amp; vepres consulet coacer 
+   <lb ed="#B" n="105"/>uare: casuum enim difficilium conscientiae dulcedinem
+   non<lb ed="#B" n="106" break="no"/>dum gustauit. Positiuus autem vel senio confectus nodo  
+   <lb ed="#B" n="107"/>sos casus &amp; pulchros in materia vtili aspernatur. Sola 
+   <lb ed="#B" n="108"/>quae senem decent laudat. secundum illud Flacci. Quod medi 
+   <lb ed="#B" n="109"/>corum est: Promittunt medici: tractant fabtilia fabri.
+  </p>
+    </div>
+   </body>
+  </text>
+</TEI>

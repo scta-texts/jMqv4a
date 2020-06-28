@@ -1,0 +1,558 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 5</title>
+      <author ref="#JohnMair">John Mair</author>
+      <respStmt>
+       <name>Jeffrey C. Witt</name>
+       <resp>TEI Encoder</resp>
+      </respStmt>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 5</title>
+       <date when="2020-06-09">June 27, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="B" n="cod-Bda113">Badius 1516</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+     guidelines for a diplomatic edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-06-27" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+      <pb ed="#B" n="53-r"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="jMqv4a-d1e281"> <!-- l4d10q5 -->
+      <head xml:id="jMqv4a-d1e281-Hd1e104">Quaestio 5</head>
+      <head xml:id="jMqv4a-d1e281-Hd1e107" type="question-title">An corpori Christi eaedem proprietates insint 
+  in eucharistia quae in caelo</head>
+      <p xml:id="jMqv4a-d1e281-d1e110">
+       <lb ed="#B" n="34"/>QVaeritur quinto 
+   <lb ed="#B" n="35"/>circa eandem distinctio 
+   <lb ed="#B" n="36"/>nem. An corpori
+   Chri<lb ed="#B" n="37" break="no"/>sti eaedem proprietates
+   in<lb ed="#B" n="38" break="no"/>sint in eucharistia quae in 
+   <lb ed="#B" n="39"/>caelo. Duo pro solutione 
+   <lb ed="#B" n="40"/>quaestionis declarabuntur 
+   <lb ed="#B" n="41"/>utermini in titulo quaestio 
+   <lb ed="#B" n="42"/>nis positi: postea ponen 
+   <lb ed="#B" n="43"/>tur conclusiones: quae impugnabuntur &amp; soluentur. 
+  </p>
+      <p xml:id="jMqv4a-d1e281-d1e134">
+       <lb ed="#B" n="44"/>⁋ Corpus capitur tripliciter. vno modo quamlibet 
+   <lb ed="#B" n="45"/>rem extensam significat: &amp; sic vocatur corpus de 
+   <lb ed="#B" n="46"/>praedicamento quatitatis: hoc est iste terminus corpus 
+   <lb ed="#B" n="47"/>supponit pro aliquo, connotando quod tres dimensiones 
+   <lb ed="#B" n="48"/>habeat: &amp; sic definitur. Corpus est longitudo / latitu 
+   <lb ed="#B" n="49"/>do / cum profunditate, quae definitio potest exponi logices 
+   <lb ed="#B" n="50"/>ita vt propositio de actu exercito capiatur loco vni 
+   <lb ed="#B" n="51"/>de actu signato. id est connotat. &amp; sic <name xml:id="jMqv4a-d1e281-Nd1e153" ref="#Aristotle">Aristoteles</name> 
+       <!--0137.xml-->
+       <cb ed="#B" n="b"/> 
+       <!-- 53-r b -->
+       <lb ed="#B" n="52"/>capit in praedicamento quantitatis: hoc modo
+   albe<lb ed="#B" n="53" break="no"/>do est corpus.
+  </p>
+      <p xml:id="jMqv4a-d1e281-d1e169">
+   ⁋ Secundo modo capitur pro altera
+   par<lb ed="#B" n="54" break="no"/>te essentiali scilicet pro materia. nam dicimus quod homo
+   con<lb ed="#B" n="55" break="no"/>ponitur ex corpore &amp; anima copulatiue. &amp; sic capitur quando 
+   <lb ed="#B" n="56"/>dicimus: hoc est corpus meum: ita quod terminus
+   for<lb ed="#B" n="57" break="no"/>malis consecrationis panis est corpus pro altera
+   par<lb ed="#B" n="58" break="no"/>te compositi. &amp; non accipitur pro aggregato ex
+   mate<lb ed="#B" n="59" break="no"/>ria &amp; forma corporeitatis: siue forma mixti. &amp;
+   quam<lb ed="#B" n="60" break="no"/>diu corpus Christi iacuit in sepulcro puta trigita 
+   <lb ed="#B" n="61"/>nouem horis, sic erat corpus: quia materia sine
+   for<lb ed="#B" n="62" break="no"/>ma substantiali. Inconuenit enim dicere illic fuisse 
+   <lb ed="#B" n="63"/>formam cadaueris. Similiter corpus sancti Andreae 
+   <lb ed="#B" n="64"/>veneramur in Apulia capiendo aggregatum mate 
+   <lb ed="#B" n="65"/>triae &amp; formae ratione partis. &amp; istud melius
+   con<lb ed="#B" n="66" break="no"/>gruit sanctorum honori quam oppositum, quia istud
+   ca<lb ed="#B" n="67" break="no"/>dauer nunquam fuit pars sancti Andreae.
+  </p>
+      <p xml:id="jMqv4a-d1e281-d1e202">
+   ⁋ Tertio 
+   <lb ed="#B" n="68"/>modo capitur corpus vt est superius ad homo: 
+   <lb ed="#B" n="69"/>animal. &amp; sic significat rem compositam ex
+   mate<lb ed="#B" n="70" break="no"/>ria &amp; forma absolute: hoc est corpus de praedica 
+   <lb ed="#B" n="71"/>mento substantiae: &amp; sic omne animal est corpus: 
+   <lb ed="#B" n="72"/>sic si sortes esset definitiue in loco, esset corpus de 
+   <lb ed="#B" n="73"/>praedicamento substantiae: &amp; eius materia corpus 
+   <lb ed="#B" n="74"/>secundo modo: sed non primo modo: &amp; sic talis 
+   <lb ed="#B" n="75"/>propositio est distinguenda: plato est corpus. vel enim 
+   <lb ed="#B" n="76"/>corpus est de praedicamento substantiae: &amp; sic est praedi 
+   <lb ed="#B" n="77"/>catio quiditatiua &amp; essentialis. si de praedicamento 
+   <lb ed="#B" n="78"/>quantitatis, accidentalis &amp; accidentis: quia
+   praedica<lb ed="#B" n="79" break="no"/>tum potest negari de subiecto ipso supponente 
+   <lb ed="#B" n="80"/>quando esset definitiue in loco. si tantum valeat
+   quan<lb ed="#B" n="81" break="no"/>tum materia: est praedicatio disparata: &amp; per
+   conse<lb ed="#B" n="82" break="no"/>quens nullius praedicabilis praedicatio.
+  </p>
+      <p xml:id="jMqv4a-d1e281-d1e237">
+   ⁋ Secundus 
+   <lb ed="#B" n="83"/>terminus est proprietas: &amp; duobus modis capitur: 
+   <lb ed="#B" n="84"/>prime intentionaliter: &amp; secunde. in prima significan 
+   <lb ed="#B" n="85"/>tia tantum valet quantum accidens: vt accidens capitur 
+   <lb ed="#B" n="86"/>prime intentionaliter. Secunde intentionaliter tantum 
+   <lb ed="#B" n="87"/>valet quantum terminus qui accidentaliter praedicatur de 
+   <lb ed="#B" n="88"/>pronomine demonstrante corpus. multi enim termi 
+   <lb ed="#B" n="89"/>ni accidentaliter praedicantur de sorte, quam nullum accidens 
+   <lb ed="#B" n="90"/>important: vt crispitudo: curuitas: fessio: statio.
+   cri<lb ed="#B" n="91" break="no"/>spitudo namque &amp; crispus sunt termini synonymi. 
+   <lb ed="#B" n="92"/>crispitudo enim crines significat &amp; ex cosequenti to 
+   <lb ed="#B" n="93"/>tum compositum connotando quod crines taliter se habeant: 
+   <lb ed="#B" n="94"/>puta sursum reflectantur more Libycorum. sed quia hoc 
+   <lb ed="#B" n="95"/>est accidentale crinibus vel sorti: &amp; non de essentia 
+   <lb ed="#B" n="96"/>crinium, vocatur accidens. &amp; sic haec est distinguenda: 
+   <lb ed="#B" n="97"/>crispitudo est accidens. vel accidens capitur prime 
+   <lb ed="#B" n="98"/>intentionaliter: &amp; sic est falsa: immo est substantia 
+   <lb ed="#B" n="99"/>prime intentionaliter: vel secunde intentionaliter: &amp; tunc 
+   <lb ed="#B" n="100"/>est vera. Primo modo subiectum stat significatiue 
+   <lb ed="#B" n="101"/>&amp; personaliter. secundo modo materialiter.
+  </p>
+      <p xml:id="jMqv4a-d1e281-d1e281">
+   ⁋ Ex his 
+   <lb ed="#B" n="102"/>patet quod titulus quaestionis duobus modis capitur: 
+   <lb ed="#B" n="103"/>&amp; est aequiuocus. In vno sensu est idem quaerere: 
+   <lb ed="#B" n="104"/>vtrum omnia accidentia, quae insunt corpori
+   Chri<lb ed="#B" n="105" break="no"/>sti in caelo, insint eidem corpori in eucharistia.
+   Se<lb ed="#B" n="106" break="no"/>cundo modo sensus est: an omnia praedicata accidenta 
+   <!--0138.xml-->
+   <pb ed="#B" n="53-v"/>
+       <cb ed="#B" n="a"/>
+       <lb ed="#B" n="1"/>lia quae verificantur de pronomine demonstrante cor 
+   <lb ed="#B" n="2"/>pus in caelo, verificentur de pronomine demonstrar 
+   <lb ed="#B" n="3"/>te idem corpus in eucharistia: &amp; illae possunt rursus 
+   <lb ed="#B" n="4"/>distingui: vt patebit per conclusiones 
+  </p>
+      <p xml:id="jMqv4a-d1e281-d1e309">
+       <lb ed="#B" n="5"/>⁋ lstis notatis pono conclusiones. Pri 
+   <lb ed="#B" n="6"/>ma conclusio. Non oportet omne accidens inhaereni 
+   <lb ed="#B" n="7"/>corpori Christi in caelo, ei inhaerere in eucharistia 
+   <lb ed="#B" n="8"/>nec econuerso. hoc patet ex quaestione praecedenti. 
+  </p>
+      <p xml:id="jMqv4a-d1e281-d1e320">
+       <lb ed="#B" n="9"/>⁋ Secunda conclusio. an omne accidens quod ines 
+   <lb ed="#B" n="10"/>corpori Christi in caelo insit ei in eucharistia: &amp; econ 
+   <lb ed="#B" n="11"/>uerso: dubium est: sed negatiuam partem opinor ve 
+   <lb ed="#B" n="12"/>ram. Hoc patet. quia licet in quaestione praecedenti 
+   <lb ed="#B" n="13"/>dictum sit: quod si sortes esset Romae &amp; Parisiis: stat 
+   <lb ed="#B" n="14"/>quod sit calidus &amp; combustus Romae, &amp; non
+   combu<lb ed="#B" n="15" break="no"/>stus Parisiis: si deus non impediret agentia natura 
+   <lb ed="#B" n="16"/>lia: deus tamen potest impedire quando vult: sicut 
+   <lb ed="#B" n="17"/>impediuit calorem ignis in camino. Danieles. iii. &amp;
+   lu<lb ed="#B" n="18" break="no"/>men solis tempore passionis. Et licet detur quod corpor 
+   <lb ed="#B" n="19"/>Christi esset susceptiuum caloris sub eucharistia vel 
+   <lb ed="#B" n="20"/>aliorum accidentium quantum est ex parte corporis: &amp; 
+   <lb ed="#B" n="21"/>ignis ageret quantum est ex parte sua: tamen id mo 
+   <lb ed="#B" n="22"/>do non opinor: sed credo quod deus omne agens cor 
+   <lb ed="#B" n="23"/>ruptiuum bonae harmoniae sui corporis impediret: &amp; 
+   <lb ed="#B" n="24"/>accidentia, quae ad corporis consonantia conducum 
+   <lb ed="#B" n="25"/>conseruaret in vno loco &amp; in altero: quia nunc dotem 
+   <lb ed="#B" n="26"/>impassibilitatis habet. Sed probatur quod sit dubium: quia 
+   <lb ed="#B" n="27"/>dubium est an quantitas sit accidens substantiae inhae 
+   <lb ed="#B" n="28"/>rens: &amp; vniuersaliter de quantitate continua
+   intelli<lb ed="#B" n="29" break="no"/>go. &amp; si sit accidens, non est penitus improbabile qui 
+   <lb ed="#B" n="30"/>inhaereat corpori Christi in caelo &amp; no in euchari-: 
+   <lb ed="#B" n="31"/>stia. Insuper oculus Christi in caelo habet visionem 
+   <lb ed="#B" n="32"/>vnius partis caeli: &amp; non oportet quod illa visio sit in  
+   <lb ed="#B" n="33"/>eucharistia: immo apparet quod non sit &amp; sic opinor. li 
+   <lb ed="#B" n="34"/>cet, n necesse sit oculum Christi in eucharistia videre 
+   <lb ed="#B" n="35"/>partem caeli: si oculus Christi videat illam in caelo: sui 
+   <lb ed="#B" n="36"/>posita constantia: non tamen oportet quod visio illa inhaerea 
+   <lb ed="#B" n="37"/>corpori Christi in eucharistia. istae enim propositiones 
+   <lb ed="#B" n="38"/>stant simul: oculus Christi in eucharistia videt hanc 
+   <lb ed="#B" n="39"/>partem caeli: &amp; nulla est visio in eucharistia: loquendei 
+   <lb ed="#B" n="40"/>de visione oculari. sicut stat a. ferrum in hispania ei 
+   <lb ed="#B" n="41"/>calidissimum: &amp; nullum calorem esse in Hispania. Simi 
+   <lb ed="#B" n="42"/>liter oculus Christi habet notitiam sensitiuam in eucha 
+   <lb ed="#B" n="43"/>ristia quam non habet in caelo: &amp; intellectus habet
+   ali<lb ed="#B" n="44" break="no"/>quam intellectionem in eucharistia quam non habet in 
+   <lb ed="#B" n="45"/>caelo: &amp; licet omnia anima Christi in verbo cognoscat: ali 
+   <lb ed="#B" n="46"/>quam tamen notitiam habet in eucharistia qua non habe 
+   <lb ed="#B" n="47"/>taliter alibi: &amp; sic est ad perfectionem accidentalem cor 
+   <lb ed="#B" n="48"/>poris Christi, esse in eucharistia. Si dicas. imme 
+   <lb ed="#B" n="49"/>diatus terminus consecrationis panis est corpus 
+   <lb ed="#B" n="50"/>christi: sed concomitans est quidlibet ei coniunctum: 
+   <lb ed="#B" n="51"/>vt sanguis: &amp; huiusmodi. ergo si aliqua notitia sit 
+   <lb ed="#B" n="52"/>in anima Christi in eucharistia: illa ei inhaeret in caelo 
+   <lb ed="#B" n="53"/>concomitanter. Respondeo non esse idem: corpus 
+   <lb ed="#B" n="54"/>enim non separatur ab anima &amp; sanguine: accidens au 
+   <!--0138.xml-->
+   <cb ed="#B" n="b"/> 
+       <!-- 53-v b -->
+       <lb ed="#B" n="55"/>tem separatur: quod est in vno loco &amp; non in alio: vt 
+   <lb ed="#B" n="56"/>quantitas secundum aliquos: &amp; respectus
+   extrinse<lb ed="#B" n="57" break="no"/>cus adueniens secundum alios.
+  </p>
+      <p xml:id="jMqv4a-d1e281-d1e436">
+   ⁋ Tertia conclusio 
+   <lb ed="#B" n="58"/>quilibet terminus accidentalis: quinimo quilibet
+   ter<lb ed="#B" n="59" break="no"/>minus qui de corpore Christi in caelo verificatur: 
+   <lb ed="#B" n="60"/>de corpore Christi in eucharistia verificatur: etiam
+   te<lb ed="#B" n="61" break="no"/>nendo penetrationem corporum. secundum modum 
+   <lb ed="#B" n="62"/>enim quem magis insequor: non est dubium. hoc patet per 
+   <lb ed="#B" n="63"/>ascensum: si esset aliqua singularis falsa, maxime 
+   <lb ed="#B" n="64"/>esset propter tales terminos extensum: dimensiue in  
+   <lb ed="#B" n="65"/>loco: qui verificantur de corpore Christi in caelo: &amp; 
+   <lb ed="#B" n="66"/>non in eucharistia. Contra, quemadmodum ista est vera: 
+   <lb ed="#B" n="67"/>corpus Christi est in caelo extensum: corpus Chri 
+   <lb ed="#B" n="68"/>sti in caelo est dimensiue in loco: ita istae sunt
+   conce<lb ed="#B" n="69" break="no"/>dendae: corpus Christi in eucharistia est extensum 
+   <lb ed="#B" n="70"/>corpus Christi in eucharistia est dimensiue in loco. 
+   <lb ed="#B" n="71"/>Quas probo. hoc corpus Christi in caelo est extensum 
+   <lb ed="#B" n="72"/>hoc corpus Christi in caelo est corpus Christi in
+   eu<lb ed="#B" n="73" break="no"/>charistia: ergo corpus Christi in eucharistia est
+   ex<lb ed="#B" n="74" break="no"/>tensum. expositorie in tertia figura. minor est tibsi 
+   <lb ed="#B" n="75"/>nota: &amp; maiorem concedis: ergo debes concedere conclu 
+   <lb ed="#B" n="76"/>sionem. Fodem modo probabo tibi secundam: &amp; sic de 
+   <lb ed="#B" n="77"/>quocumque alio termio.
+  </p>
+      <p xml:id="jMqv4a-d1e281-d1e482">
+   ⁋ Quarta conclusio. aliquis 
+   <lb ed="#B" n="78"/>est terminus quam praedicatur de corpore Christi in
+   cae<lb ed="#B" n="79" break="no"/>lo: &amp; tamen ille non verificatur de corpore Christi in
+   eu<lb ed="#B" n="80" break="no"/>charistia. Haec conclusio priori non repugnat: sed in  
+   <lb ed="#B" n="81"/>appellatione sto. volo dicere quod aliquis terminus ponitur 
+   <lb ed="#B" n="82"/>a parte praedicati cum illo termio (in caelo) de corpo 
+   <lb ed="#B" n="83"/>re Christi, quae non ponitur cum illo termio (in eucharistia) 
+   <lb ed="#B" n="84"/>de corpore Christi: vt istae sunt concedendae: corpus 
+   <lb ed="#B" n="85"/>Christi est in caelo extensum: corpus Christi est in  
+   <lb ed="#B" n="86"/>caelo dimensiue in loco. Istae tamen sunt negandae 
+   <lb ed="#B" n="87"/>corpus Christi est in eucharistia extensum: corpus 
+   <lb ed="#B" n="88"/>Christi est in eucharistia dimensiue in loco: quia di 
+   <lb ed="#B" n="89"/>mensio loci non prouenit ab eucharistia: quod tamen per illam 
+   <lb ed="#B" n="90"/>denotatur: &amp; hoc secundum dicta in tertia quaestione 
+   <lb ed="#B" n="91"/>praecedenti. Applica applicanda tuipse 
+  </p>
+      <p xml:id="jMqv4a-d1e281-d1e515">
+       <lb ed="#B" n="92"/>⁋ Contra primam conclusionem argui 
+   <lb ed="#B" n="93"/>tur argumentis quibus aliqui nituntur frequenter 
+   <lb ed="#B" n="94"/>deducere oppositum. nullum absolutum desinit esse 
+   <lb ed="#B" n="95"/>in aliquo propter nouum respectum extrinsecus ad 
+   <lb ed="#B" n="96"/>uenientem acquisitum: sed propter hoc quod corpus 
+   <lb ed="#B" n="97"/>Christi acquirit hic nouum vbi, eo modo quo ha 
+   <lb ed="#B" n="98"/>bet nouum vbi: nihil acquirit nisi nouum
+   respe<lb ed="#B" n="99" break="no"/>ctum. ergo.
+  </p>
+      <p xml:id="jMqv4a-d1e281-d1e535">
+   ⁋ Item contradictoria verificarentur de 
+   <lb ed="#B" n="100"/>eodem. quia si aliquod corpus est in duobus locis: 
+   <lb ed="#B" n="101"/>&amp; in vno loco habet albedinem: &amp; non habet
+   albe<lb ed="#B" n="102" break="no"/>dinem in alio loco: iam est album &amp; non album 
+  </p>
+      <p xml:id="jMqv4a-d1e281-d1e544">
+       <lb ed="#B" n="103"/>⁋ Haec argumenta facile diluuntur. ad maiorem 
+   <lb ed="#B" n="104"/>dico quod falsum supponit de desitione cuiuscumque 
+   <lb ed="#B" n="105"/>absoluti: sed non stando in terminis aliquod
+   abso<lb ed="#B" n="106" break="no"/>lutum inhaeret corpori in vno loco vt visio: vel 
+   <lb ed="#B" n="107"/>aliud accidens: quod non inhaeret illi corpori in alio lo 
+   <lb ed="#B" n="108"/>co.
+  </p>
+      <p xml:id="jMqv4a-d1e281-d1e560">
+   ⁋ Ad secundum argumentum, nego quod contradi- 
+   <!--0139.xml-->
+   <pb ed="#B" n="54-r"/>
+       <cb ed="#B" n="a"/>
+       <lb ed="#B" n="1"/>ctoria verificarentur de eodem: quia si esset album 
+   <lb ed="#B" n="2"/>in vno loco &amp; non in alio: iam esset album: &amp; nullo 
+   <lb ed="#B" n="3"/>pacto non album, non enim sequitur: hoc corpus est 
+   <lb ed="#B" n="4"/>non album in hoc loco: ergo hoc corpus est non
+   al<lb ed="#B" n="5" break="no"/>bum: vt ex logica &amp; iam dictis elucescit. Et
+   eo<lb ed="#B" n="6" break="no"/>dem modo de respectu extrinsecus adueniente se 
+   <lb ed="#B" n="7"/>quitur contradictio: quod arguens admittit: quia si 
+   <lb ed="#B" n="8"/>talis respectus sit in hoc loco: &amp; non in illo:
+   sequi<lb ed="#B" n="9" break="no"/>tur contradictio: quod hoc subiectum hoc accidens
+   re<lb ed="#B" n="10" break="no"/>ciperet &amp; non reciperet: &amp; si illic a contradictione 
+   <lb ed="#B" n="11"/>euadere coneris: in absolutis pariter facile
+   euade<lb ed="#B" n="12" break="no"/>re potes. Sed his relictis redeundo ad propositum
+   te<lb ed="#B" n="13" break="no"/>nendo extensionem partium in ordine ad totum: &amp; 
+   <lb ed="#B" n="14"/>non ad locum, ad quem modum magis declino: si 
+   <lb ed="#B" n="15"/>cut ista conceditur, corpus Christi in eucharistia est 
+   <lb ed="#B" n="16"/>longum septem pedibus: ita &amp; ista: corpus Christi est 
+   <lb ed="#B" n="17"/>longum septem pedibus in eucharistia: sed non extem 
+   <lb ed="#B" n="18"/>ditur sextupedaliter in ordine ad locum
+   euchari<lb ed="#B" n="19" break="no"/>stiae: sed est vero simile quod quando corpus Christi in  
+   <lb ed="#B" n="20"/>cipit esse hic in eucharistia: non amittit albedinem 
+   <lb ed="#B" n="21"/>nec aliud accidens quod habet in caelo: quia in
+   in<lb ed="#B" n="22" break="no"/>stanti incipit esse hic: &amp; non pertransit medium: &amp; nu 
+   <lb ed="#B" n="23"/>lum agens extrinsecum corrumpit aliquod
+   acci<lb ed="#B" n="24" break="no"/>dens, sed nouum accidens hic acquirit, quod non
+   ha<lb ed="#B" n="25" break="no"/>bet in caelo. 
+  </p>
+      <p xml:id="jMqv4a-d1e281-d1e624">
+       <lb ed="#B" n="26"/>⁋ Contra secundam conclusionem 
+   <lb ed="#B" n="27"/>arguitur quod non sit dubium an omne accidens quod 
+   <lb ed="#B" n="28"/>est in corpore Christi in caelo, sit in corpore
+   Chri<lb ed="#B" n="29" break="no"/>sti in sacramento &amp; econuerso. oculus Christi
+   vi<lb ed="#B" n="30" break="no"/>det presbyterum leuantem corpus Christi in sacramen 
+   <lb ed="#B" n="31"/>to: audit loquentes: habet organum bene dispositum, 
+   <lb ed="#B" n="32"/>&amp; nullum est impedimentum: igitur habet visionem 
+   <lb ed="#B" n="33"/>presbyteri ad presbyterum terminatam: &amp; auditionem: 
+   <lb ed="#B" n="34"/>&amp; hanc non habet in caelo. igitur.
+  </p>
+      <p xml:id="jMqv4a-d1e281-d1e646">
+   ⁋ Respondetur quod 
+   <lb ed="#B" n="35"/>argumentum assumit dubium: de quo doctores 
+   <lb ed="#B" n="36"/>digladiantur: multis dicentibus: quod requiratur situs 
+   <lb ed="#B" n="37"/>ad hoc vt audiat vel videat: &amp; ille modus est
+   faci<lb ed="#B" n="38" break="no"/>lior. oppositum tamen opinor verius: quia enim
+   orga<lb ed="#B" n="39" break="no"/>na illa sunt disposita intrinsece: &amp; sermo audibilis 
+   <lb ed="#B" n="40"/>in aere in bona propinquitate: non video quare non 
+   <lb ed="#B" n="41"/>poterit audire. Item si deus faceret hominem
+   in<lb ed="#B" n="42" break="no"/>stantanee descendere ab alto ad imum: quare non 
+   <lb ed="#B" n="43"/>poterit audire: vel videre? Corpus maius esse cum 
+   <lb ed="#B" n="44"/>ninore non impedit visionem vel auditionem: &amp; 
+   <lb ed="#B" n="45"/>sic de aliis. Item anima intellectiua multas causat 
+   <lb ed="#B" n="46"/>ransmutationes in corpore. patet. ix. de trinitate 
+   <lb ed="#B" n="47"/>per <name xml:id="jMqv4a-d1e281-Nd1e676" ref="#Augustine">Augustini</name> &amp; in nobis experimur cogitando de 
+   <lb ed="#B" n="48"/>nonnullis obiectis: anima enim non habet modum 
+   <lb ed="#B" n="49"/>quantitatiuum: &amp; tamen mutat corpus: quare
+   eo<lb ed="#B" n="50" break="no"/>dem modo non faciet corpus Christi? si clericus 
+   <lb ed="#B" n="51"/>prope altare poterit audire presbyterum legentem 
+   <lb ed="#B" n="52"/>quare non poterit auris Christi eum audire &amp;
+   vide<lb ed="#B" n="53" break="no"/>re? immo illud est probabile si poneretur penetra: 
+   <lb ed="#B" n="54"/>tio partium, sicut multi doctores imaginati sunt: 
+   <!--0139.xml-->
+   <cb ed="#B" n="b"/> 
+       <!-- 54-r b -->
+       <lb ed="#B" n="55"/>ergo a fortiore secundum hunc modum de
+   ordi<lb ed="#B" n="56" break="no"/>ne partium in toto debemus illud cocedere.
+  </p>
+      <p xml:id="jMqv4a-d1e281-d1e706">
+   ⁋
+   Pro<lb ed="#B" n="57" break="no"/>pterea concedo quod oculus Christi videt suum pedem 
+   <lb ed="#B" n="58"/>in eucharistia: &amp; calor cordis calefaceret subiecta 
+   <lb ed="#B" n="59"/>vicina si deus actiue ad hoc concurreret: &amp; si esset 
+   <lb ed="#B" n="60"/>penetratio partium calor magis calefaceret. virtus 
+   <lb ed="#B" n="61"/>enim vnita (vt vulgo dicitur, est fortior seipa disprsa 
+   <lb ed="#B" n="62"/>vt si totus calor a / corporis calidi poneretur in eius 
+   <lb ed="#B" n="63"/>medietate, esset actiuior quam in toto. ergo si sit
+   defi<lb ed="#B" n="64" break="no"/>nitiue in loco, erit actiuior: saltem non minus actiuus 
+   <lb ed="#B" n="65"/>est: eadem enim est latitudo formae: &amp; etiam actualiter 
+   <lb ed="#B" n="66"/>ageret si deus cum eo concurreret: &amp; esset vnum pas 
+   <lb ed="#B" n="67"/>sum in sua sphaera applicitum non impeditum. Non  
+   <lb ed="#B" n="68"/>est tamen certum quod tales sensationes sunt in caelo: 
+   <lb ed="#B" n="69"/>sed corpus Christi in caelo audit presbyterum legen 
+   <lb ed="#B" n="70"/>tem in altari. Beati insuper &amp; angeli possunt vide 
+   <lb ed="#B" n="71"/>re corpus Christi in eucharistia. patet. possunt
+   vi<lb ed="#B" n="72" break="no"/>dere angelos &amp; nostras notitias: si ipsis relinquan 
+   <lb ed="#B" n="73"/>tur: ergo &amp; corpus extensum. Dicere quod
+   requira<lb ed="#B" n="74" break="no"/>tur extensio in ordine ad locum: est dictum non pro 
+   <lb ed="#B" n="75"/>batum: &amp; cum angelus motum localem in mobile 
+   <lb ed="#B" n="76"/>producat: qui non est sub modo quantitatiuo: quarae ca 
+   <lb ed="#B" n="77"/>ior corporis non aget dato quod no sit sub modo quanti 
+   <lb ed="#B" n="78"/>tatiuo? vtrobique enim quando sunt duo actiua quorum 
+   <lb ed="#B" n="79"/>vtrum quod est ex se actiuum: &amp; habent consimilem mo 
+   <lb ed="#B" n="80"/>dum existendi: si vnum possit agere in passum &amp;
+   reli<lb ed="#B" n="81" break="no"/>quum.
+  </p>
+      <p xml:id="jMqv4a-d1e281-d1e763">
+   ⁋ Sed an possimus videre corpus Christi 
+   <lb ed="#B" n="82"/>in eucharistia cum influentia dei generali: nondum
+   ex<lb ed="#B" n="83" break="no"/>ploratum est. opinor quod sic: si deus concurreret: quia
+   cor<lb ed="#B" n="84" break="no"/>pus eius est coloratum: modo color est obiectum
+   vi<lb ed="#B" n="85" break="no"/>sus: nec videtur necessarium quod sit extensum cum parti 
+   <lb ed="#B" n="86"/>bus loci: sed sufficit quod sit extensio partium in ordi 
+   <lb ed="#B" n="87"/>ne ad totum: vel talis ordo: vel etiam partium penetra: 
+   <lb ed="#B" n="88"/>tio, non minus enim videretur albedo pedalis si
+   quaeli<lb ed="#B" n="89" break="no"/>bet pars poneretur penetratiue cum qualibet per vnum 
+   <lb ed="#B" n="90"/>pedem, quam nunc videatur. Et sic est probabile quod oculus 
+   <lb ed="#B" n="91"/>Christi potest videre in eucharistia praesentes: &amp; de
+   fa<lb ed="#B" n="92" break="no"/>cto videt: &amp; nos etiam ipsum corpus videremus si 
+   <lb ed="#B" n="93"/>cum hoc concurreret deus: sed ob meritum fidei non con 
+   <lb ed="#B" n="94"/>currit: quia pro regula obseruandum est: vt superius in  
+   <lb ed="#B" n="95"/>materia de creatione diximus, quod omnia quae
+   ap<lb ed="#B" n="96" break="no"/>parent circa eucharistiam, apparent ac si panis esset 
+   <lb ed="#B" n="97"/>praesens: &amp; quando creaturae actionem talem habere non 
+   <lb ed="#B" n="98"/>possunt: deus supplet: &amp; hoc per legem communem. 
+   <lb ed="#B" n="99"/>Nec est magna apparentia dicere quod angelus vel 
+   <lb ed="#B" n="100"/>beatus non possit illud corpus sic videre, quod enim ra 
+   <lb ed="#B" n="101"/>tionabilius est, corpori Christi est dandum: &amp; cum nec 
+   <lb ed="#B" n="102"/>fides nec ratio sit in oppositum quod non audiat: quare 
+   <lb ed="#B" n="103"/>est illud negandum, cum habeat organa optime dis 
+   <lb ed="#B" n="104"/>posita?
+  </p>
+      <p xml:id="jMqv4a-d1e281-d1e815">
+   ⁋ Sed contra illud idem arguitur de
+   visio<lb ed="#B" n="105" break="no"/>ne ponendo penetrationem partium, non habet oculum 
+   <lb ed="#B" n="106"/>dispositum ad videndum: nec aurem ad
+   audien<lb ed="#B" n="107" break="no"/>dum: &amp; intelligo semper in tali modo se habendi. vel 
+   <lb ed="#B" n="108"/>imaginemur sortem esse in vno loco
+   sacramentali<lb ed="#B" n="109" break="no"/>ter, &amp; non loquaemur de visione in verbo. Praeterea non 
+   <!--0140.xml-->
+   <pb ed="#B" n="54-v"/>
+       <cb ed="#B" n="a"/>
+       <lb ed="#B" n="1"/>videt seipsum: ergo a fortiori neque aliud. consequen 
+   <lb ed="#B" n="2"/>tia apparet: quia est aequaliter sibi praesens obiectiue sicut 
+   <lb ed="#B" n="3"/>aliquod aliud vel magis. antecedens probo. oculus 
+   <lb ed="#B" n="4"/>sortis si sic esset non videret aliquam partem suam, quod probo 
+   <lb ed="#B" n="5"/>nunc oculus platonis non videt se: ergo neque oculus 
+   <lb ed="#B" n="6"/>sortis videbit se eadem ratione: quia est peius dispositus. 
+   <lb ed="#B" n="7"/>antecedens patet ad experientiam: saltem per lineam 
+   <lb ed="#B" n="8"/>rectam. &amp; quaelibet alia pars corporis est ita praesens 
+   <lb ed="#B" n="9"/>sicut oculus: cum sit partium penetratio: ergo nullam 
+   <lb ed="#B" n="10"/>partem sui corporis potest videre.
+  </p>
+      <p xml:id="jMqv4a-d1e281-d1e856">
+   ⁋ Item sensibile positum 
+   <lb ed="#B" n="11"/>supra sensum no causat sensationem. ii. de Anima 
+  </p>
+      <p xml:id="jMqv4a-d1e281-d1e862">
+       <lb ed="#B" n="12"/>⁋ Respondetur negando quod non habeat oculum dispo 
+   <lb ed="#B" n="13"/>titum ad videndum: &amp; eodem modo de aure: quia non 
+   <lb ed="#B" n="14"/>requiritur quod partes oculi vel auris situaliter distent. 
+   <lb ed="#B" n="15"/>Ad aliuc quando arguis. corpus Christi non videt 
+   <lb ed="#B" n="16"/>seipsum: nego. nam corpus Christi in vnam parte hostie 
+   <lb ed="#B" n="17"/>videt se in aliis partibus hostiae: immo in infinitis pat 
+   <lb ed="#B" n="18"/>tibus hostiae: &amp; idem oculus in duobus locis videt
+   se<lb ed="#B" n="19" break="no"/>vt si sortes esset circumscriptiue in duobus angulis 
+   <lb ed="#B" n="20"/>huius conclauis in vno loco videret se in alio.
+  </p>
+      <p xml:id="jMqv4a-d1e281-d1e884">
+   ⁋ Ad 
+   <lb ed="#B" n="21"/>aliud: sensibile positum supra sensum non causat sen 
+   <lb ed="#B" n="22"/>sationem. Respondetur quod argumentum non concludit:  
+   <lb ed="#B" n="23"/>quia &amp; si sensationem no causet vbi est respectu illius 
+   <lb ed="#B" n="24"/>partis oculi: potest tamen causare in alio: vt digitus
+   Chri<lb ed="#B" n="25" break="no"/>sti est simul cum oculo eius in vna centesima parte 
+   <lb ed="#B" n="26"/>hostiae. digitus ille potest sensationem causare in oculum 
+   <lb ed="#B" n="27"/>existentem in alia parte hostiae: &amp; sic naturaliter
+   sen<lb ed="#B" n="28" break="no"/>sibile positum supra sensum causat sensationem. Ao 
+   <lb ed="#B" n="29"/>cipe analogiam. si sortes esset Romae &amp; Parisiis: &amp; 
+   <lb ed="#B" n="30"/>vnum lignum Parisiis esset applicatum pedaliter ibi
+   di<lb ed="#B" n="31" break="no"/>stans: &amp; idem lignum Romae super oculum sortis: iam 
+   <lb ed="#B" n="32"/>est sensibile supra sensum: &amp; tamen causat sensatio 
+   <lb ed="#B" n="33"/>nem: quia bene sequitur: causat sensationem
+   Pari<lb ed="#B" n="34" break="no"/>siis: ergo causat sensationem. Philosophi autem propo 
+   <lb ed="#B" n="35"/>sitio sic est intelligenda. nullo praesupposito
+   mira<lb ed="#B" n="36" break="no"/>culo non causat sensationem vbi est adaequate. volo 
+   <lb ed="#B" n="37"/>dicerem: si corpus Sortis esset in loco punctali ad  
+   <lb ed="#B" n="38"/>imaginationem: ibi non videret se naturaliter. Contra. 
+   <lb ed="#B" n="39"/>Oculus Christi habet obstaculum super oculum 
+   <lb ed="#B" n="40"/>scilicet pedem: ergo non potest videre. secundum na 
+   <lb ed="#B" n="41"/>turales enim talpa non potest videne quia habet pelliculam 
+   <lb ed="#B" n="42"/>super oculum perpetuo. Praeterea omne quod videtur, sub pyra 
+   <lb ed="#B" n="43"/>mide videtur. cuius basis est in re visa &amp; conus in oculo 
+   <lb ed="#B" n="44"/>secundum perspectiuos. sed sic non est ibi: ergo
+   ibi<lb ed="#B" n="45" break="no"/>dem corpus Christi non potest videri a nobis. Ad 
+   <lb ed="#B" n="46"/>primum respondetur negando quod habeat obstaculum 
+   <lb ed="#B" n="47"/>super oculum, hoc est impedimentum: quia nulla pars 
+   <lb ed="#B" n="48"/>corporis Christi penetratiue cum oculo eius
+   har<lb ed="#B" n="49" break="no"/>moniam rumpit nec impedit: quemadmodum in cor 
+   <lb ed="#B" n="50"/>poribus aliis hoc notissimum est: iuxta dicta in
+   quae<lb ed="#B" n="51" break="no"/>stione tertia. Ad aliud perspectiuorum: negant
+   vul<lb ed="#B" n="52" break="no"/>po loquentes illam propositionem vniuersaliter dictam: 
+   <lb ed="#B" n="53"/>dicentes quod non tenet impraesentiarum quando visibi 
+   <lb ed="#B" n="54"/>le est sacramentaliter in loco. sed non est opus sic 
+   <lb ed="#B" n="55"/>dicere. basis est in re visa &amp;c. hoc est radius visua- 
+   <!--0140.xml-->
+   <cb ed="#B" n="b"/> 
+       <!-- 54-v b -->
+       <lb ed="#B" n="56"/>lis est maior prope visibile: &amp; acuitur in oculo: quia 
+   <lb ed="#B" n="57"/>igens naturale est vigorosius prope se quam remote 
+   <lb ed="#B" n="58"/>a se. si enim deus influentia generali concurreret cum sor 
+   <lb ed="#B" n="59"/>te ad videndum corpus Christi, Sortes illud vide 
+   <lb ed="#B" n="60"/>ret. Et dato quod illic sint multi colores mutuo: non  
+   <lb ed="#B" n="61"/>est difficultas. quia eadem est ponendo plura cor 
+   <lb ed="#B" n="62"/>pora extensiue penetratiue simul. vbi certu est non 
+   <lb ed="#B" n="63"/>esse difficultatem ex parte coloris praedominantis. 
+   <lb ed="#B" n="64"/>Non valet dicere quod species eucharistiae impediunt 
+   <lb ed="#B" n="65"/>visionem corporis Christi: &amp; ipsum occultant: 
+   <lb ed="#B" n="66"/>quia non includitur in speciebus ad illam
+   imagi<lb ed="#B" n="67" break="no"/>nationem: vt superius dictum est: sed sicut panis 
+   <lb ed="#B" n="68"/>penetratiue se habebat cum illa albedine ante con 
+   <lb ed="#B" n="69"/>secrationem: sic corpus Churisti est in partibus superfi 
+   <lb ed="#B" n="70"/>cialibus &amp; centralibus vbi erat ante panis. Sed tuc 
+   <lb ed="#B" n="71"/>dicis. siccitas quae erat panis &amp; humiditas
+   sangui<lb ed="#B" n="72" break="no"/>nis Christi sunt in eodem loco. Respondetur. licet 
+   <lb ed="#B" n="73"/>qualitates contrariae sint in eodem loco: non tamen 
+   <lb ed="#B" n="74"/>in eodem subiecto. 
+  </p>
+      <p xml:id="jMqv4a-d1e281-d1e1010">
+       <lb ed="#B" n="75"/>⁋ Dubitas. quomodo non diuiditur 
+   <lb ed="#B" n="76"/>corpus Christi ad diuisionem hostiae: &amp; augetur 
+   <lb ed="#B" n="77"/>dubitatio per Berengarium in illo capitulo. Ego
+   Be<lb ed="#B" n="78" break="no"/>rengarius. circa cuius medium dicitur quod corpus 
+   <lb ed="#B" n="79"/>Christi frangitur: dentibus atteritur.
+  </p>
+      <p xml:id="jMqv4a-d1e281-d1e1023">
+   ⁋ Respondetur 
+   <lb ed="#B" n="80"/>quod presbyter ex transuerso tripartiens hostiam: cor 
+   <lb ed="#B" n="81"/>pus Christi non frangit: quemadmodum frangens
+   spe<lb ed="#B" n="82" break="no"/>culum, imaginem in eo contentam non frangit: sed  
+   <lb ed="#B" n="83"/>si diuidatur in. viii. partes bonae magnitudinis: in 
+   <lb ed="#B" n="84"/>earum qualibet manet simulacrum integrum: sic 
+   <lb ed="#B" n="85"/>de corpore Christi est. Siue autem effigies illa realiter 
+   <lb ed="#B" n="86"/>sit in speculo siue non: sufficit ad manuductionem 
+   <lb ed="#B" n="87"/>intellectionis nostri propositi. Crassius dicam vt 
+   <lb ed="#B" n="88"/>possis materiam melius capere. ponantur tres super: 
+   <lb ed="#B" n="89"/>ficies super seinuicem a. b. &amp;.c. stat quod quis ex transi 
+   <lb ed="#B" n="90"/>uerso diuidat a. &amp; c. cum gladio: qui gladius transit 
+   <lb ed="#B" n="91"/>per b. medium, ipsum non diuidendo: sicut duo cor 
+   <lb ed="#B" n="92"/>pora in caelo se penetrant: non gloriosum cum glo 
+   <lb ed="#B" n="93"/>rioso. Corpus enim Christi in eucharistia habet 
+   <lb ed="#B" n="94"/>iiii. dotes. &amp; sic ad bonum sensum frangitur. Ad 
+   <lb ed="#B" n="95"/>confessionem Berenga. dicit Apparatus. Caue 
+   <lb ed="#B" n="96"/>hic: ne incidas in peiorem errorem quam Berengarius. 
+   <lb ed="#B" n="97"/>est sermo de fractione specierum quae dentibus
+   at<lb ed="#B" n="98" break="no"/>teruntur. vel sic. Corpus Christi est in dentibus &amp; 
+   <lb ed="#B" n="99"/>realiter in ore: &amp; hostia fracta in variis partibus, 
+   <lb ed="#B" n="100"/>sub qualibet est corpus Christi. hoc sufficiebat con 
+   <lb ed="#B" n="101"/>tra Berengarium: qui realiter praesentiam corporis Chri 
+   <lb ed="#B" n="102"/>sti negabat in hoc sacramento.
+  </p>
+      <p xml:id="jMqv4a-d1e281-d1e1075">
+   ⁋ Epilogando opi 
+   <lb ed="#B" n="103"/>nor ista probabiliora, &amp; in hac materia conceden 
+   <lb ed="#B" n="104"/>da. auris Christi audit in eucharistia: &amp; vt in
+   eu<lb ed="#B" n="105" break="no"/>charistia, loquentem prope eucharistiam: illa tamen 
+   <lb ed="#B" n="106"/>auditio non est concomitanter in caelo: sed
+   Chri<lb ed="#B" n="107" break="no"/>stus concomitanter audit in caelo. Et sicut alii po 
+   <lb ed="#B" n="108"/>sitionem respectum in eucharistia ponunt qui non est in 
+   <lb ed="#B" n="109"/>corpore Christi in caelo: sic ego pono de accidente 
+   <!--0141.xml-->
+   <pb ed="#B" n="55-r"/>
+       <cb ed="#B" n="a"/>
+       <lb ed="#B" n="1"/>absoluto: scilicet qualitate. credunt enim alii illa non 
+   <lb ed="#B" n="2"/>posse simul stare. Christus in caelo videt sortem in 
+   <lb ed="#B" n="3"/>collegio modotis: &amp; nulla est visio sortis in caelo: quae di 
+   <lb ed="#B" n="4"/>co compossibilia, quemadmodum calor corporis Christ 
+   <lb ed="#B" n="5"/>calefaceret vt in eucharistia si deus concurreret: &amp;
+   al<lb ed="#B" n="6" break="no"/>bedo vel color corporis eius ad visionem eiusdem. &amp; ocu 
+   <lb ed="#B" n="7"/>lus meus si deus concurreret posset corpus Christi vt in 
+   <lb ed="#B" n="8"/>eucharistia videre: &amp; intellectus meus ipsum
+   intui<lb ed="#B" n="9" break="no"/>tiue intelligere de per accidens ratione coloris.
+  </p>
+    </div>
+   </body>
+  </text>
+</TEI>

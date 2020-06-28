@@ -1,0 +1,499 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 16</title>
+      <author ref="#JohnMair">John Mair</author>
+      <respStmt>
+       <name>Jeffrey C. Witt</name>
+       <resp>TEI Encoder</resp>
+      </respStmt>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 16</title>
+       <date when="2020-06-09">June 27, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="B" n="cod-Bda113">Badius 1516</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+     guidelines for a diplomatic edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-06-27" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+      <pb ed="#B" n="373-v"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="jMqv4a-d1e2002"> <!-- l4d49q16 -->
+      <head xml:id="jMqv4a-d1e2002-Hd1e104">Quaestio 16</head>
+      <head xml:id="jMqv4a-d1e2002-Hd1e107" type="question-title">Quid sit videre in verbo, et an videns verbum 
+  omnia quae in verbo relucent videat</head>
+      <p xml:id="jMqv4a-d1e2002-d1e110">
+       <lb ed="#B" n="55"/>⁋ Distinctionis Quadragesimaenonae 
+   <lb ed="#B" n="56"/>Quaestio Decimasexta. 
+   <lb ed="#B" n="57"/>Estat quaestio pro 
+   <lb ed="#B" n="58"/>xime iam proposita: quid  
+   <lb ed="#B" n="59"/>sit videre in verbo: &amp; An 
+   <lb ed="#B" n="60"/>videns verbum omnia quae in  
+   <lb ed="#B" n="61"/>verbo relucent / videat. 
+   <lb ed="#B" n="62"/>Pro cuius solutione scito 
+   <lb ed="#B" n="63"/>quod non facio hic difficulta 
+   <lb ed="#B" n="64"/>u te de visione in proprio
+   ge<lb ed="#B" n="65" break="no"/>nere, notum est enim quod btuns acquirere potest alias
+   noti<lb ed="#B" n="66" break="no"/>tias tam abstractiuas quam intuitiuas ex seipso. Sic 
+   <lb ed="#B" n="67"/>ergo intellectu questionis restricto / aliqua praemita 
+   <lb ed="#B" n="68"/>tam, postea conclusiue responsurus.
+  </p>
+      <p xml:id="jMqv4a-d1e2002-d1e143">
+   ⁋ De visione 
+   <lb ed="#B" n="69"/>in verbo recentiores ab antiquis discesserunt.
+   Anti<lb ed="#B" n="70" break="no"/>qui enim dicebant quod beati vident res in verbo tamqua 
+   <lb ed="#B" n="71"/>in speculo in quo creaturae relucent. sed quia hoc indi 
+   <lb ed="#B" n="72"/>gestum posterioribus visum est: aliam viam imaginati 
+   <lb ed="#B" n="73"/>sunt. Antiquorum autem modus dicendi erat iste. Bea 
+   <lb ed="#B" n="74"/>ti vident in verbo tanquam in speculo res in eo relucen 
+   <lb ed="#B" n="75"/>tes. &amp; qualitercumque antiqui intellexerint, non refert: 
+   <lb ed="#B" n="76"/>modum illum explicabo: supponendo pro funda 
+   <lb ed="#B" n="77"/>mento: quod angelus sibi relictus &amp; quilibet beatus vel 
+   <lb ed="#B" n="78"/>anima beata potest intueri secreta cuiussibet
+   crea<lb ed="#B" n="79" break="no"/>turae: &amp; cogitationes eius contemplari, pariter &amp;
+   vo<lb ed="#B" n="80" break="no"/>litiones, sicut eius essentiam. hoc ex. ix. distinctione 
+   <lb ed="#B" n="81"/>Secundi suppono. licet autem varii hoc non admitte 
+   <lb ed="#B" n="82"/>rent: credo illud rationabilius. lsto supposito
+   de<lb ed="#B" n="83" break="no"/>duco materiam sic. beatus Linus potest intueri
+   secre<lb ed="#B" n="84" break="no"/>ta beati Michaelis: &amp; omnes cogitationes eius legere 
+   <lb ed="#B" n="85"/>in libro, si sufficienter sibi applicentur. ergo si ad 
+   <lb ed="#B" n="86"/>imaginationem illae qualitates essent extra subiectum 
+   <lb ed="#B" n="87"/>&amp; per se existerent: non minus illas videret: &amp; res signi 
+   <lb ed="#B" n="88"/>ficatas per eas apprehenderet.
+  </p>
+      <p xml:id="jMqv4a-d1e2002-d1e190">
+   ⁋ His dictis addo
+   pro<lb ed="#B" n="89" break="no"/>positiones. quarum Prima est. Deus repraesentat sibi 
+   <lb ed="#B" n="90"/>rem omnem possibilem. hoc est, eius essentia est omnium 
+   <lb ed="#B" n="91"/>rerum intellectui suo repraesentatiua, tam complexe qua 
+   <lb ed="#B" n="92"/>incomplexe. Secunda propositio. Notitia reflexa reprae 
+   <lb ed="#B" n="93"/>sentat omne illud quod per notitiam directam significa 
+   <lb ed="#B" n="94"/>tur. Tertia propositio. Visio beatifica est notitia
+   re<lb ed="#B" n="95" break="no"/>flexa. probatur sic. est notitia dei: &amp; deus est notitia 
+   <lb ed="#B" n="96"/>directa: quia sibiipsi omnem rem repraesentat: ergo  
+   <lb ed="#B" n="97"/>eius notitia: scilicet visio, est notitia reflexa. igitur 
+   <lb ed="#B" n="98"/>non est inconveniens quod illa visio quamlibet rem reprae 
+   <lb ed="#B" n="99"/>sentet. Hanc veterum viam soleo sic probabiliter 
+   <lb ed="#B" n="100"/>ostendere per has propositiones probabiles: &amp; id  
+   <lb ed="#B" n="101"/>propterea, quia nominalium schola in logica
+   profun<lb ed="#B" n="102" break="no"/>da pro inconveniente contra antiquos habet quod vna 
+   <lb ed="#B" n="103"/>notitia nunc repraesentet a, nunc illa eadem
+   reprae<lb ed="#B" n="104" break="no"/>sentet b. actualiter: &amp; non a, nunc vero a. b &amp; c. Sed  
+   <lb ed="#B" n="105"/>ex his propositionibus probabilibus, in nominalium 
+   <lb ed="#B" n="106"/>schola non debet hoc inconveniens ( vt videtur)
+   ha<lb ed="#B" n="107" break="no"/>beri. nam quaelibet istarum propositionum trium addi- 
+   <!--0779.xml-->
+   <pb ed="#B" n="374-r"/>
+       <cb ed="#B" n="a"/>
+       <lb ed="#B" n="1"/>tarum / dempta secunda / est sic probabilis / vt
+   oppo<lb ed="#B" n="2" break="no"/>sita in logica &amp; theologia sit multo probabilior.
+   se<lb ed="#B" n="3" break="no"/>cunda etiam non est improbabilis.
+  </p>
+      <p xml:id="jMqv4a-d1e2002-d1e247">
+   ⁋ Secunda opi 
+   <lb ed="#B" n="4"/>nio erit haec. Deus causat partialiter notitiam
+   crea<lb ed="#B" n="5" break="no"/>turae in beato siue incomplexam siue complexam. 
+   <lb ed="#B" n="6"/>Hoc sic declaro. notum est licet angelus in caelo 
+   <lb ed="#B" n="7"/>non possit naturaliter videre Tigrim ssumen: si
+   ta<lb ed="#B" n="8" break="no"/>men esset tigri praesens / haberet notitiam intuitiuam 
+   <lb ed="#B" n="9"/>illius fiuminis. deus autem potest supplere causa 
+   <lb ed="#B" n="10"/>litatem obiectiuam illius fiuminis concausando 
+   <lb ed="#B" n="11"/>similem notitiam cum intellectu qualem causaret 
+   <lb ed="#B" n="12"/>obiectum praesens: cum possit supplere omnem causa 
+   <lb ed="#B" n="13"/>litatem causae secundae. destructo etiam fliumine /
+   noti<lb ed="#B" n="14" break="no"/>tia intuitiua eius causabit iudicia varia complexa 
+   <lb ed="#B" n="15"/>illius fluminis: quae deus potest concausare. Breu 
+   <lb ed="#B" n="16"/>ter assensus quilibet verus potest causari a suis
+   cau<lb ed="#B" n="17" break="no"/>sis secundis: &amp; deus potest illam causalitatem super 
+   <lb ed="#B" n="18"/>plere causando assensus quos vult. eodem
+   mo<lb ed="#B" n="19" break="no"/>do de notitiis incomplexis intuitiuis &amp;
+   abstracti<lb ed="#B" n="20" break="no"/>uis. Et hoc est videre in verbo / scilicet aliquem vi 
+   <lb ed="#B" n="21"/>dere verbum: &amp; verbum concausare notitiam cum 
+   <lb ed="#B" n="22"/>intellectu beati / supplendo causalitatem causarum 
+   <lb ed="#B" n="23"/>secundarum.
+  </p>
+      <p xml:id="jMqv4a-d1e2002-d1e293">
+   ⁋ Vel potest tertio causare notitiam 
+   <lb ed="#B" n="24"/>se solo actiue: anima passiue se habente. quo
+   mo<lb ed="#B" n="25" break="no"/>do angelus beatus reuelationem alicuius a deo ca 
+   <lb ed="#B" n="26"/>piens: dicitur hoc videre in verbo: non autem iuxta 
+   <lb ed="#B" n="27"/>primam viam. &amp; hoc est videre in verbo.
+  </p>
+      <p xml:id="jMqv4a-d1e2002-d1e304">
+   ⁋
+   Quar<lb ed="#B" n="28" break="no"/>ta. potest dari imaginatio ista. sicut species
+   visibi<lb ed="#B" n="29" break="no"/>lis a tergo sortis videtur in speculo etiam intuiti 
+   <lb ed="#B" n="30"/>ue / sed hoc non refert: &amp; forte illa species non est
+   rea<lb ed="#B" n="31" break="no"/>liter in speculo, sed est reuerberatio specierum a 
+   <lb ed="#B" n="32"/>speculo ad organum sortis: &amp; tamen procul vide 
+   <lb ed="#B" n="33"/>tur: capiatur imaginatio Ocltam &amp; Durandi qui 
+   <lb ed="#B" n="34"/>non est ponenda talis species: quam licet falsam 
+   <lb ed="#B" n="35"/>putem: tamen erit manuductio proposito nostro 
+   <lb ed="#B" n="36"/>sufficiens: sic deus siue essentia diuina est speciale 
+   <lb ed="#B" n="37"/>speculum in quo quaelibet res creata videtur, non  
+   <lb ed="#B" n="38"/>quod species sit in deo, sicut aliqui de specie in specu 
+   <lb ed="#B" n="39"/>lo impressa putant: vel ab eo reuerberetur aliorum 
+   <lb ed="#B" n="40"/>more: sed quia eius beatitudo causat cum existen 
+   <lb ed="#B" n="41"/>tia creaturae notitiam illius creaturae scilicet a. &amp; deus 
+   <lb ed="#B" n="42"/>cum existentia b creaturae causat aliam notitiam 
+   <lb ed="#B" n="43"/>&amp; si creatura multum distet: illam distantiam deus 
+   <lb ed="#B" n="44"/>supplet. &amp; si non existat: totum supplet deus.
+   Dif<lb ed="#B" n="45" break="no"/>fert autem hic modus a primo: quia poneret mul 
+   <lb ed="#B" n="46"/>tarum creaturarum multas distinctas notitias: pri 
+   <lb ed="#B" n="47"/>mus duntaxat vnam. 
+  </p>
+      <p xml:id="jMqv4a-d1e2002-d1e350">
+       <lb ed="#B" n="48"/>⁋ His notatis pono aliquas conclu 
+   <lb ed="#B" n="49"/>siones ad primam viam responsiuas: postea alias 
+   <lb ed="#B" n="50"/>attingam. Prima est. Nulla notitia creata non
+   refle<lb ed="#B" n="51" break="no"/>xa vnam rem singulariter &amp; distincte
+   repraesen<lb ed="#B" n="52" break="no"/>tans / potest aliam rem vel res alias repraesentare 
+  </p>
+      <p xml:id="jMqv4a-d1e2002-d1e363">
+       <lb ed="#B" n="53"/>⁋ Secunda conclusio. Probabile est / vel non est mu 
+   <lb ed="#B" n="54"/>tum improbabile quod notitia reflexa repraesente 
+   <!--0779.xml-->
+   <cb ed="#B" n="b"/> 
+       <!-- 374-r b -->
+       <lb ed="#B" n="55"/>omne illud quod per notitiam directam repraesen 
+   <lb ed="#B" n="56"/>tatur.
+  </p>
+      <p xml:id="jMqv4a-d1e2002-d1e382">
+   ⁋ Ex qua conclusione sequitur quod primus 
+   <lb ed="#B" n="57"/>modus visionis in verbo non est omnino impro 
+   <lb ed="#B" n="58"/>babilis.
+  </p>
+      <p xml:id="jMqv4a-d1e2002-d1e389">
+   ⁋ Prima conclusio probatur sic, notitia sin 
+   <lb ed="#B" n="59"/>gularis a. albedinis non potest repraesentare b.
+   ni<lb ed="#B" n="60" break="no"/>gredinem: nec c. albedinem: ergo conclusio
+   vera<lb ed="#B" n="61" break="no"/>antecedens probo: quia dato opposito cum sit 
+   <lb ed="#B" n="62"/>notitia singularis repraesentabit b. &amp; c. discrete. er 
+   <lb ed="#B" n="63"/>go erit notitia infinite perfecta. capio insimum colo 
+   <lb ed="#B" n="64"/>rem, gratia exempli nigredinem. repraesentare discre 
+   <lb ed="#B" n="65"/>te nigredinem est aliquantae perfectionis: repraesen 
+   <lb ed="#B" n="66"/>tare rubedinem distincte est tantae perfectionis. &amp; 
+   <lb ed="#B" n="67"/>sic procedam per res infinitas. ergo omnes res re 
+   <lb ed="#B" n="68"/>praesentare distincte est infinitae perfectionis.
+   pro<lb ed="#B" n="69" break="no"/>batur consequentia: quia si repraesentare finita 
+   <lb ed="#B" n="70"/>distincte arguit maiorem perfectionem quam reprae 
+   <lb ed="#B" n="71"/>sentare vnum: repraesentare infinita distincte ar 
+   <lb ed="#B" n="72"/>guit infinitam perfectionem. Secundo arguitur 
+   <lb ed="#B" n="73"/>ad idem. calor non potest producere frigus sine an 
+   <lb ed="#B" n="74"/>tiparistasi: ergo nec notitia singularis a. albedinis 
+   <lb ed="#B" n="75"/>repraesentare b. nigredinem. antecedens patet: quia 
+   <lb ed="#B" n="76"/>eius opposito dato perit omnis causalitas natura 
+   <lb ed="#B" n="77"/>lis creaturarum.
+  </p>
+      <p xml:id="jMqv4a-d1e2002-d1e433">
+   ⁋ Secunda conclusio probatur:  
+   <lb ed="#B" n="78"/>quia conceptus non vltimatus voluntatis sortis 
+   <lb ed="#B" n="79"/>sortem repraesentat iuxta dialecticos omnes. ergo 
+   <lb ed="#B" n="80"/>notitia reflexa notitiae directae albedinem repraesen 
+   <lb ed="#B" n="81"/>tantis / albedinem repraesentatur. Sed hic dicis nor 
+   <lb ed="#B" n="82"/>esse simile: quia conceptus non vltimatus qui est 
+   <lb ed="#B" n="83"/>vocis aut scripturae similitudo / significat ad placi 
+   <lb ed="#B" n="84"/>tum quod per terminum vocalem significatur. se 
+   <lb ed="#B" n="85"/>cus est de conceptu reflexo potissimum conceptus 
+   <lb ed="#B" n="86"/>vltimati. Secundo arguitur. quod repraesentat exem 
+   <lb ed="#B" n="87"/>plar / repraesentat exemplatum. vt notitia imaginis 
+   <lb ed="#B" n="88"/>Herculis herculem repraesentat. sed hic negas assum  
+   <lb ed="#B" n="89"/>ptum. Tertio arguitur. si notitia reflexa non reprae 
+   <lb ed="#B" n="90"/>sentet rem significatam per notitiam directam: 
+   <lb ed="#B" n="91"/>sequitur quod habens notitiam notitiae singularis sor 
+   <lb ed="#B" n="92"/>tis / nullo modo cognosceret sortem: sed solum
+   il<lb ed="#B" n="93" break="no"/>lud accidens: singulariter illic sistendo. Verum hoc 
+   <lb ed="#B" n="94"/>concedis: nulla probatione efficaci ad conclusionem 
+   <lb ed="#B" n="95"/>adducta, sed solum topica. Ponitur tamen non im 
+   <lb ed="#B" n="96"/>probabiliter secunda conclusio. Tertia autem corolla 
+   <lb ed="#B" n="97"/>rie sequitur ex secunda. 
+  </p>
+      <p xml:id="jMqv4a-d1e2002-d1e479">
+       <lb ed="#B" n="98"/>⁋ Contra primam conclusionem
+   ar<lb ed="#B" n="99" break="no"/>gumentor sic. Notitia eadem singularis repraesen 
+   <lb ed="#B" n="100"/>tat sortem &amp; albedinem eius: ergo conclusio
+   fal<lb ed="#B" n="101" break="no"/>sa. Respondetur concedendo: quia albedinem re 
+   <lb ed="#B" n="102"/>praesentat tanquam rem significatam per se: sortem autem re 
+   <lb ed="#B" n="103"/>praesentat per accidens, tanquam subiectum illius rei signi 
+   <lb ed="#B" n="104"/>ficatae per se. &amp; intelligo conclusionem de obiecto 
+   <lb ed="#B" n="105"/>per se ipsius notitiae ad quod immediate termina 
+   <lb ed="#B" n="106"/>tur illa notitia. nam licet illa substantia destruere 
+   <lb ed="#B" n="107"/>tur: maneret obiectum per se. 
+  </p>
+      <p xml:id="jMqv4a-d1e2002-d1e503">
+       <lb ed="#B" n="108"/>⁋ Contra secundam conclusionem 
+   <!--0780.xml-->
+   <pb ed="#B" n="374-v"/>
+       <cb ed="#B" n="a"/>
+       <lb ed="#B" n="1"/>arguitur. Ex ea sequitur quod singularis notitia
+   acci<lb ed="#B" n="2" break="no"/>dentis natufaliter repraesentet substantiam: nec pos 
+   <lb ed="#B" n="3"/>sit non repraesentare substantiam naturaliter. quod 
+   <lb ed="#B" n="4"/>non videtur concedendum. Secundo sequitur quoi 
+   <lb ed="#B" n="5"/>anima separata cognoscat aliquid intuitiue extra 
+   <lb ed="#B" n="6"/>totam distantiam in qua potest videre. Nam si videa 
+   <lb ed="#B" n="7"/>a, notitiam in b. anima prope limitem illius distan 
+   <lb ed="#B" n="8"/>tiae: a. est notitia c. obiecti extra totam illam
+   distan<lb ed="#B" n="9" break="no"/>tiam. Tertio sequitur quod de re absente erit notitia 
+   <lb ed="#B" n="10"/>intuitiua naturaliter: vel quod eadem notitia sit intui 
+   <lb ed="#B" n="11"/>tiua respectu vnius obiecti: &amp; abstractiua respectu 
+   <lb ed="#B" n="12"/>alterius. probatur. quia angelus videt notitiam in  
+   <lb ed="#B" n="13"/>alio angelo de non existente obiecto: cum ange 
+   <lb ed="#B" n="14"/>lus habeat nontitiam intuitiuam de notitia in alio an 
+   <lb ed="#B" n="15"/>gelo. lam sic. vel illa notitia intuitiue repraesentat be 
+   <lb ed="#B" n="16"/>non existens. &amp; sic habetur prior pars disiunctiuae illa 
+   <lb ed="#B" n="17"/>tae. vel erit abstractiua respectu non existentis: &amp; se 
+   <lb ed="#B" n="18"/>quitur secunda pars illati. Quarto sequitur quod in  
+   <lb ed="#B" n="19"/>proposito visio beatifica in creatura erit infinitae
+   per<lb ed="#B" n="20" break="no"/>fectionis: quia distincte representat infinita. patet per fun 
+   <lb ed="#B" n="21"/>damentum. vel enim notitia reflexa representat omni 
+   <lb ed="#B" n="22"/>taliter qualiter per notitiam directam repraesentar 
+   <lb ed="#B" n="23"/>tur: vel non. si secundum: fundamentum est
+   de<lb ed="#B" n="24" break="no"/>structum. si primum: cum deus infinita distincte 
+   <lb ed="#B" n="25"/>repraesentet: &amp; propterea concludatur infinitus:
+   sal<lb ed="#B" n="26" break="no"/>tem haec ratio secundum omnes concludit deum 
+   <lb ed="#B" n="27"/>infinitae perfectionis. licet alia via probari possit 
+   <lb ed="#B" n="28"/>infinitus: sed sic est de visione beatifica quae est eis 
+   <lb ed="#B" n="29"/>notitia per te. Fortasse dicis notitiam habere obiectum 
+   <lb ed="#B" n="30"/>primatium vnum: &amp; obiecta secundaria plura: &amp; re 
+   <lb ed="#B" n="31"/>praesentare obiecta secundaria infinita distincte, non 
+   <lb ed="#B" n="32"/>arguit infinitam perfectionem. Contra hoc
+   argu<lb ed="#B" n="33" break="no"/>mentor, notitia dei sibi repraesentat creaturas: tanqua 
+   <lb ed="#B" n="34"/>obiecta secundaria: &amp; essentiam diuinam solum 
+   <lb ed="#B" n="35"/>tanquam obiectum primarium. &amp; tamen ex hoc con 
+   <lb ed="#B" n="36"/>eluditur esse infinite perfectus. Confirmatur
+   as<lb ed="#B" n="37" break="no"/>sumptum alia via. repraesentare vnam creaturam 
+   <lb ed="#B" n="38"/>distincte tanquam obiectum secundarium arguit
+   ali<lb ed="#B" n="39" break="no"/>quantam perfectionem. et repraesentare aliam 
+   <lb ed="#B" n="40"/>creaturam distincte tanquam obiectum secundarium, 
+   <lb ed="#B" n="41"/>arguit duplicem perfectionem in notitia: &amp; si 
+   <lb ed="#B" n="42"/>ascendendo: ergo repraesentare infinitas creaturas 
+   <lb ed="#B" n="43"/>tanquam obiecta secunoaria / arguit infinitam perfectio 
+   <lb ed="#B" n="44"/>nem. Fortasse dices mihi quod nullus intellectus
+   po<lb ed="#B" n="45" break="no"/>test distincte cognoscere omnes creaturas tanquam obii 
+   <lb ed="#B" n="46"/>cta secundaria. Insto de anima Christi. sed de hoc 
+   <lb ed="#B" n="47"/>in. xiiii. distinctione Tertii dico. Rursus obiicio. per 
+   <lb ed="#B" n="48"/>te notitia reflexa naturaliter repraesentat quicquid 
+   <lb ed="#B" n="49"/>per directam significatur. sed notitia directa illa 
+   <lb ed="#B" n="50"/>omnia distinctissime repraesentat: ergo notitia ill 
+   <lb ed="#B" n="51"/>reflexa omnia illa representat quantum est de sua na 
+   <lb ed="#B" n="52"/>tura: siue intellectus creatus possit apprehendere 
+   <lb ed="#B" n="53"/>omnia distincte per illam / siue non. Exemplum. s 
+   <lb ed="#B" n="54"/>esset ad imaginationem a. notitia infinite
+   perfe<lb ed="#B" n="55" break="no"/>cta / visio verbi omnia repraesentaret quantum est 
+   <!--0780.xml-->
+   <cb ed="#B" n="b"/> 
+       <!-- 374-v b -->
+       <lb ed="#B" n="56"/>ex parte sua. sed intellectus humanus illa notitia 
+   <lb ed="#B" n="57"/>informatus potest solum intelligere duo obiecta 
+   <lb ed="#B" n="58"/>distincte: infimus angelus mediante eadem notitia 
+   <lb ed="#B" n="59"/>potest solum intelligere tria obiecta distincte:
+   su<lb ed="#B" n="60" break="no"/>perior angelus quatuor: &amp; sic ascendendo in infini 
+   <lb ed="#B" n="61"/>tum / per plura actualiter intelligere in creatura
+   no<lb ed="#B" n="62" break="no"/>titia non est maioris perfectionis. Item secundum 
+   <lb ed="#B" n="63"/>hanc viam / notitia reflexa distincte repraesentat se 
+   <lb ed="#B" n="64"/>vt patet de visione in verbo. sed cum illa notitia 
+   <lb ed="#B" n="65"/>non sit causata ab ipsamet tanquam ab obiecto: non se 
+   <lb ed="#B" n="66"/>quitur quod idem causet se. Insuper maior pars
+   opi<lb ed="#B" n="67" break="no"/>nantium forte non admitteret notitiam reflexam 
+   <lb ed="#B" n="68"/>repraesentare id quod per directam repraesentatur. 
+   <lb ed="#B" n="69"/>fundamentum igitur est suspectum. Rursus non  
+   <lb ed="#B" n="70"/>admitterent quod notitia dei esset notitia reflexa: cum 
+   <lb ed="#B" n="71"/>sit substantiae notitia. sed illud vltimum vix
+   suffi<lb ed="#B" n="72" break="no"/>cit: nisi stes in termino.
+  </p>
+      <p xml:id="jMqv4a-d1e2002-d1e677">
+   ⁋ Praeterea arguitur.
+   quili<lb ed="#B" n="73" break="no"/>bet beatus secundum hanc viam cognoscit oma 
+   <lb ed="#B" n="74"/>nia. probatur. nam quilibet habet notitiam omnia 
+   <lb ed="#B" n="75"/>suapte natura repraesentantem: ergo quilibet
+   co<lb ed="#B" n="76" break="no"/>gnoscit omnia. patet consequentia: quia ego
+   co<lb ed="#B" n="77" break="no"/>gnosco tot obiecta quot notitias habeo in forma 
+   <lb ed="#B" n="78"/>vel in valore. vt si notitia Sortis mihi mille
+   crea<lb ed="#B" n="79" break="no"/>turas distincte representaret: hanc habens, eas on 
+   <lb ed="#B" n="80"/>nes cognoscerem. Fortasse dicis. videns intuitiue 
+   <lb ed="#B" n="81"/>vrinam non cognoscit omnia repraesentata in
+   ea<lb ed="#B" n="82" break="no"/>Dico non esse simile: quia visio beatifica est natu 
+   <lb ed="#B" n="83"/>ralis similitudo cuiuslibet rei per te: licet vnius pri 
+   <lb ed="#B" n="84"/>matia: &amp; aliarum rerum secundaria. ergo qua
+   rati<lb ed="#B" n="85" break="no"/>one vnam repraesentat / aliam repraesentabit. in
+   vri<lb ed="#B" n="86" break="no"/>na autem vna repraesentatio est latens, &amp; alia pae 
+   <lb ed="#B" n="87"/>tentior. in cuius argumentum nunc physicus mor 
+   <lb ed="#B" n="88"/>bum vrina visa apprehendit: licet non causam mor 
+   <lb ed="#B" n="89"/>bi: nec multa alia morbum concernentia: &amp; tamen 
+   <lb ed="#B" n="90"/>notitia actualis repraesentat actualiter omne illud  
+   <lb ed="#B" n="91"/>cuius est notitia. Forte dicis cum Durando quod res 
+   <lb ed="#B" n="92"/>non repraesentantur in essentia diuina necessario 
+   <lb ed="#B" n="93"/>quantum ad suam actualem existentiam: sed solum 
+   <lb ed="#B" n="94"/>quitum ad suam essentiam. &amp; ideo non oportet quod 
+   <lb ed="#B" n="95"/>per eam cognoscatur quantum ad suum existere: 
+   <lb ed="#B" n="96"/>sed solum quantum ad suas quiditates. Hoc non valet 
+   <lb ed="#B" n="97"/>quia essentia diuina est speculum voluntarium. 
+   <lb ed="#B" n="98"/>iuxta <name xml:id="jMqv4a-d1e2002-Nd1e735" ref="#Augustine">Augustinum</name> de videndo deum. Propterea 
+   <lb ed="#B" n="99"/>minus valet aliorum sententia dicentium quod
+   vi<lb ed="#B" n="100" break="no"/>dens essentiam diuinam / de necessitate videt omnia 
+   <lb ed="#B" n="101"/>quae deus videt. Cuius falsitas patet: quia sic non 
+   <lb ed="#B" n="102"/>esset reuelatio vlla: nec angelus superior aliquid  
+   <lb ed="#B" n="103"/>inferiori reuelaret. Et Matthaei. xxiiii. dicit
+   Chri<lb ed="#B" n="104" break="no"/>stus. De die autem illa &amp; hora nemo scit / neque
+   an<lb ed="#B" n="105" break="no"/>geli caelorum, nisi solus pater. Idem habetur
+   Mar<lb ed="#B" n="106" break="no"/>ci. xiii.
+  </p>
+      <p xml:id="jMqv4a-d1e2002-d1e757">
+   ⁋ Restat ergo aliter respondere ad
+   argumen<lb ed="#B" n="107" break="no"/>tum factum tenendo alium antiquorum modum. Ad  
+   <lb ed="#B" n="108"/>vltimum autem argumentum quicquid sit de aliis, conse 
+   <lb ed="#B" n="109"/>quenter dicerem sic. Nego quod quilibet beatus
+   cogno<lb ed="#B" n="110" break="no"/>scat omnia. &amp; ad probationem: quilibet beatus habet notitiam 
+   <!--0781.xml-->
+   <pb ed="#B" n="375-r"/>
+       <cb ed="#B" n="a"/>
+       <lb ed="#B" n="1"/>actualem omnia repraesentantem: ergo quilibet 
+   <lb ed="#B" n="2"/>beatus cognoscit omnia, nego consequentiam 
+   <lb ed="#B" n="3"/>Vnde dico possibile esse quod ego habeam notitiam 
+   <lb ed="#B" n="4"/>actualem a. albedinis: &amp; non cognoscam vel appre 
+   <lb ed="#B" n="5"/>hendam a. albedinem: siue notitia illa producatur 
+   <lb ed="#B" n="6"/>effectiue ab intellectu meo, siue totaliter a deo. nam 
+   <lb ed="#B" n="7"/>potentia mea est operatiua mediante illa notitia: 
+   <lb ed="#B" n="8"/>hoc est, tendit actualiter in obiectum mediante
+   il<lb ed="#B" n="9" break="no"/>la: sed deus potest non concurrere ad illam actua 
+   <lb ed="#B" n="10"/>lem tendentiam, scilicet cognoscendi obiectum 
+   <lb ed="#B" n="11"/>&amp; si non concurrat ad hoc: nihil cognoscam. &amp; si 
+   <lb ed="#B" n="12"/>deus possit illud facere respectu notitiae a.
+   albedi<lb ed="#B" n="13" break="no"/>nis, vt opinor: idem potest facere respectu cuiusi 
+   <lb ed="#B" n="14"/>cunque alterius obiecti. Ex quo sequitur quod stat
+   bea<lb ed="#B" n="15" break="no"/>tum clare videre deum / nullam creaturam cogno 
+   <lb ed="#B" n="16"/>scendo. quod patet: quia deus potest non concurre 
+   <lb ed="#B" n="17"/>re ad illam tendentiam cum illa creatura /
+   concur<lb ed="#B" n="18" break="no"/>rendo ad visionem eius. sed quod aliquis possit habe 
+   <lb ed="#B" n="19"/>re visionem dei / &amp; non cognoscere deum actualiter: 
+   <lb ed="#B" n="20"/>non sequitur. Vlterius infero quod notitia actualis non 
+   <lb ed="#B" n="21"/>distinguitur a notitia habituali / per hoc quod
+   actua<lb ed="#B" n="22" break="no"/>lem habens actualiter tendit in oblectum / ipsum 
+   <lb ed="#B" n="23"/>cognoscendo: sed per hoc quod illud faceret nisi deus 
+   <lb ed="#B" n="24"/>non concurreret. Sed contra hoc arguitur. Ex ista 
+   <lb ed="#B" n="25"/>positione sequitur: quod quilibet beatus
+   cognosce<lb ed="#B" n="26" break="no"/>ret omnia si deus secum concurreret. Nam
+   quili<lb ed="#B" n="27" break="no"/>bet beatus habet notitiam actualem omnia reprae 
+   <lb ed="#B" n="28"/>sentantem: &amp; potest ad hoc concurrere deus si vo 
+   <lb ed="#B" n="29"/>luerit: ergo quilibet beatus potest comprehende, 
+   <lb ed="#B" n="30"/>re deum. Respondetur. dato toto antecedente: ne 
+   <lb ed="#B" n="31"/>go quod beatus propterea deum comprehendat. nam 
+   <lb ed="#B" n="32"/>sicut ad intelligendum intuitiue deum / non
+   sequi<lb ed="#B" n="33" break="no"/>tur quod deus comprehendatur: sic nec ad quamlibet 
+   <lb ed="#B" n="34"/>creaturam cognoscendam etiam distincte sequitur 
+   <lb ed="#B" n="35"/>quod deus comprehendatur. Deus tamen de poten 
+   <lb ed="#B" n="36"/>tia absoluta, vt opinor, potest facere quod vna crea 
+   <lb ed="#B" n="37"/>tura cum ope sua omnia distincte cognoscat:
+   si<lb ed="#B" n="38" break="no"/>cut potest facere infinitum intensiue &amp; extensiue. 
+   <lb ed="#B" n="39"/>non tamen propterea sequitur quod deus compre 
+   <lb ed="#B" n="40"/>hendatur. Dico sane nonnulla quae antiqui non 
+   <lb ed="#B" n="41"/>concederent. sed mea non interest: quia in parte 
+   <lb ed="#B" n="42"/>capio fundamentum quo communiter vsi sunt: 
+   <lb ed="#B" n="43"/>&amp; dico consequenter / non respiciendo quid ipsi 
+   <lb ed="#B" n="44"/>dicturi essent. Insuper dico, mihi eorum
+   funda<lb ed="#B" n="45" break="no"/>mentum non placere. 
+  </p>
+      <p xml:id="jMqv4a-d1e2002-d1e872">
+       <lb ed="#B" n="46"/>⁋ Teneo igitur solum secundam viam: 
+   <lb ed="#B" n="47"/>quod creatura non videtur in verbo per visionem 
+   <lb ed="#B" n="48"/>beatificam: sed per alias notitias a deo
+   produ<lb ed="#B" n="49" break="no"/>ctas / siue a beato productas partialiter, siue a deo 
+   <lb ed="#B" n="50"/>totaliter. Hanc autem materiam in. xiiii. distinctio. 
+   <lb ed="#B" n="51"/>Tertii latius deduco: quapropter transeo. Sed ad 
+   <lb ed="#B" n="52"/>visionem dei requiri opinor quod quilibet beatus 
+   <lb ed="#B" n="53"/>videat illa quae ad se pertinent. haec enim deus ipsi ex 
+   <lb ed="#B" n="54"/>suo beneplacito reuelat. 
+   <!--0781.xml-->
+   <cb ed="#B" n="b"/> 
+       <!-- 375-r b -->
+      </p>
+      <p xml:id="jMqv4a-d1e2002-d1e900">
+       <lb ed="#B" n="55"/>⁋ Contra hoc arguitur per beatum 
+   <lb ed="#B" n="56"/>Gregorium. iiii. Dialogorum dicentem. Quid est 
+   <lb ed="#B" n="57"/>quod non videant, qui videntem omnia vident? 
+   <lb ed="#B" n="58"/>sed deus videt omnia: ergo qui deum videt / omnia 
+   <lb ed="#B" n="59"/>videt.
+  </p>
+      <p xml:id="jMqv4a-d1e2002-d1e913">
+   ⁋ Secundo arguitur. qui intelligit maius, 
+   <lb ed="#B" n="60"/>intelligit illud quod minus est. vt dicit
+   Aristote<lb ed="#B" n="61" break="no"/>les. iii. de anima. sed omnes creaturae possibiles sunt 
+   <lb ed="#B" n="62"/>minores deo: ergo facilius est omnes creaturas 
+   <lb ed="#B" n="63"/>possibiles videre quam deum.
+  </p>
+      <p xml:id="jMqv4a-d1e2002-d1e924">
+   ⁋ Respondetur ad primum: quod 
+   <lb ed="#B" n="64"/>
+       <name xml:id="jMqv4a-d1e2002-Nd1e928">beatus Gregorius</name> loquitur quo ad sufficientiam. Ad 
+   <lb ed="#B" n="65"/>secundum dico quod videns quod difficilius est
+   vi<lb ed="#B" n="66" break="no"/>su / potest videre illud quod est sibi facilius visu: 
+   <lb ed="#B" n="67"/>sed an ita sit inter deum &amp; creaturas, non probatur. 
+   <lb ed="#B" n="68"/>Secundo dico quod sicut vt communiter dicitur, ad 
+   <lb ed="#B" n="69"/>visionem dei non sufficit eius influentia
+   genera<lb ed="#B" n="70" break="no"/>lis: sed requiritur alius concursus: ita deus potest 
+   <lb ed="#B" n="71"/>facere de potentia sua absoluta quod creatura distin 
+   <lb ed="#B" n="72"/>cte videat quamlibet creaturam. sed an ita de facto 
+   <lb ed="#B" n="73"/>sit de anima Christi, in. xiiii. distin. Tertii discutitur. 
+  </p>
+      <p xml:id="jMqv4a-d1e2002-d1e951">
+       <lb ed="#B" n="74"/>⁋ Tertio arguitur. Ex his sequitur quod beatus
+   in<lb ed="#B" n="75" break="no"/>telligeret nunc pauciores res: nunc plures. quod 
+   <lb ed="#B" n="76"/>est contra <ref xml:id="jMqv4a-d1e2002-Rd1e959">
+        <name xml:id="jMqv4a-d1e2002-Nd1e961" ref="#Augustine">beatum Augustini</name> vltimo de Trinitate</ref>, de 
+   <lb ed="#B" n="77"/>centem. Non erunt volubiles nostrae
+   cogitatio<lb ed="#B" n="78" break="no"/>nes ab aliis in alia euntes atque redeuntes. Ad
+   ter<lb ed="#B" n="79" break="no"/>tium dico nihil sequi ex dictis meis super
+   diffi<lb ed="#B" n="80" break="no"/>cultate proposita. Licet enim putem possibile quod 
+   <lb ed="#B" n="81"/>deus beato reuelet in primo instanti quo est bea 
+   <lb ed="#B" n="82"/>tus omnia quae ad ipsum pertinent perpetuo:
+   ta<lb ed="#B" n="83" break="no"/>men illud non est verosimile. sed rationabilior est 
+   <lb ed="#B" n="84"/>illa sententia, quod reuelat de integro seu de nouo 
+   <lb ed="#B" n="85"/>aliquid beato ante incognitum. Porro Beatus 
+   <lb ed="#B" n="86"/>Augustinus apponit (fortasse) in illa auctoritate 
+   <lb ed="#B" n="87"/>dicens. Fortasse nunc beatus pauciores notitias 
+   <lb ed="#B" n="88"/>respectu creaturarum habet: nunc vero plures. 
+   <lb ed="#B" n="89"/>In notitia autem creaturarum non est beatitudo:  
+   <lb ed="#B" n="90"/>sed in sola visione dei. vt dicit idem
+   <ref xml:id="jMqv4a-d1e2002-Rd1e996">
+        <name xml:id="jMqv4a-d1e2002-Nd1e998" ref="#Augustine">Augusti<lb ed="#B" n="91" break="no"/>nus</name>. v. Confessionum</ref>, sic inquiens. Infelix.
+   ho<lb ed="#B" n="92" break="no"/>mo qui scit omnia: te autem nescit. Beatus autem 
+   <lb ed="#B" n="93"/>qui te scit / etiam si illa nesciat. Qui vero &amp; te &amp; 
+   <lb ed="#B" n="94"/>illa nouit: non propter illa beatior: sed propter te 
+   <lb ed="#B" n="95"/>solum beatus est. 
+  </p>
+    </div>
+   </body>
+  </text>
+</TEI>

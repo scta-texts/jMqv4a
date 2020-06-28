@@ -1,0 +1,279 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 19</title>
+      <author ref="#JohnMair">John Mair</author>
+      <respStmt>
+       <name>Jeffrey C. Witt</name>
+       <resp>TEI Encoder</resp>
+      </respStmt>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 19</title>
+       <date when="2020-06-09">June 27, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="B" n="cod-Bda113">Badius 1516</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+     guidelines for a diplomatic edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-06-27" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+      <pb ed="#B" n="376-v"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="jMqv4a-d1e2019"> <!-- l4d49q19 -->
+      <head xml:id="jMqv4a-d1e2019-Hd1e104">Quaestio 19</head>
+      <head xml:id="jMqv4a-d1e2019-Hd1e107" type="question-title">Utrum dotem claritatis habeant beati</head>
+  <p xml:id="jMqv4a-d1e2019-d1e109">
+       <lb ed="#B" n="62"/>⁋ Distinctionis Quadragesimaenonae 
+   <lb ed="#B" n="63"/>Quaestio Decimanona. 
+   <lb ed="#B" n="64"/>xEcimonono quaeritur. 
+   <lb ed="#B" n="65"/>Vtrum dotem claritatis
+   ha<lb ed="#B" n="66" break="no"/>beant beati. Respondetur afi 
+   <lb ed="#B" n="67"/>firmatiue. probatur haec
+   re<lb ed="#B" n="68" break="no"/>esponsio affirmatiua, per
+   il<lb ed="#B" n="69" break="no"/>vilud quod scribitur Matth. 
+   <lb ed="#B" n="70"/>te quaxiii. Tunc fulgebunt iusti si 
+   <lb ed="#B" n="71"/>ecut sol in regno patris eorum. 
+   <lb ed="#B" n="72"/>&amp; Apostolus ad Philip. iii. ait. Saluatorem expectamus 
+   <lb ed="#B" n="73"/>dominum nostrum Iesum Christum: qui reformabit 
+   <lb ed="#B" n="74"/>corpus humilitatis nostrae configuratum corpon 
+   <lb ed="#B" n="75"/>claritatis suae. Idem patet primae ad Corinth. xv. 
+   <lb ed="#B" n="76"/>vbi comparat beatos stellis in claritate differentibus. 
+   <lb ed="#B" n="77"/>&amp; Greg. xviii. Moralium super illud Iob. xxviii. Non 
+   <lb ed="#B" n="78"/>adaequabitur ei aurum. dicit: quod patebit oculis corpora 
+   <lb ed="#B" n="79"/>libus beatorum harmonia. 
+  </p>
+      <p xml:id="jMqv4a-d1e2019-d1e151">
+       <lb ed="#B" n="80"/>⁋ Contra hanc conclusionem
+   argui<lb ed="#B" n="81" break="no"/>tur. iuxta Auicennam. vi. Naturalium, lumen /
+   lux<lb ed="#B" n="82" break="no"/>&amp; color diuersa habent receptiua. nam susceptiuum 
+   <lb ed="#B" n="83"/>lucis est opacum. &amp; propterea stella quae est densior 
+   <lb ed="#B" n="84"/>pars orbis / est lucida. subiectum autem luminis est 
+   <lb ed="#B" n="85"/>corpus diaphanum siue transparens. &amp; idcirco
+   co<lb ed="#B" n="86" break="no"/>lor &amp; lux non inhaerent eidem subiecto: iuxta
+   Ari<lb ed="#B" n="87" break="no"/>stotelem in de sensu &amp; sensato. nam color est
+   ex<lb ed="#B" n="88" break="no"/>tremitas perspicui in corpore terminato. hoc est: 
+   <lb ed="#B" n="89"/>color terminat visum: &amp; est in corpore opaco 
+   <lb ed="#B" n="90"/>&amp; in extremitate perspicui coniunctus ad hoc vt 
+   <lb ed="#B" n="91"/>percipiatur. modo hoc non est subiectum
+   lumi<lb ed="#B" n="92" break="no"/>nis. ergo corpora beatorum non sunt
+   transparen<lb ed="#B" n="93" break="no"/>tia: &amp; per consequens non luminosa. Nec est
+   dicen<lb ed="#B" n="94" break="no"/>dum quod in eis no sit color: cum dicat <name xml:id="jMqv4a-d1e2019-Nd1e185" ref="#Augustine">Augustinus</name> 
+       <lb ed="#B" n="95"/>xxii. de ciuita. dei. cap. xviii. In corporibus
+   beato<lb ed="#B" n="96" break="no"/>rum erit coloris suauitas.
+  </p>
+      <p xml:id="jMqv4a-d1e2019-d1e195">
+   ⁋ Pro solutione istorum 
+   <lb ed="#B" n="97"/>argumentorum supponatur quod corpus opacum est 
+   <lb ed="#B" n="98"/>corpus non lucidum visus terminatiuum: siue opaci 
+   <lb ed="#B" n="99"/>tas sit qualitas disponens subiectum ad susceptio 
+   <lb ed="#B" n="100"/>nem coloris prout aliquibus placet: siue non sit aliud 
+   <lb ed="#B" n="101"/>quam color: parum refert. sed melius est dicere
+   secun<lb ed="#B" n="102" break="no"/>dum: dummodo color ille terminet visum. hoc enim 
+   <lb ed="#B" n="103"/>connotat terminus opacitas. Vlterius experientia 
+   <lb ed="#B" n="104"/>cognoscimus quod lux vel fiamma terminat vi sum. 
+   <lb ed="#B" n="105"/>Terminare autem visum in proposito est non posse 
+   <lb ed="#B" n="106"/>videre per tale corpus: vt cum fumus eleuatur a
+   li<lb ed="#B" n="107" break="no"/>gnis incensis: per fumum partem camini oppositam 
+   <!--0785.xml-->
+   <pb ed="#B" n="377-r"/>
+       <cb ed="#B" n="a"/>
+       <lb ed="#B" n="1"/>videmus. sed si inflammetur, non amplius per fiammam videbus 
+   <lb ed="#B" n="2"/>mus. ergo lux &amp; corpus lucidum terminant visum sicut 
+   <lb ed="#B" n="3"/>ferrum vel lapis quod est corpus opacum, quaere si beatorum cor 
+   <lb ed="#B" n="4"/>pora sint lucida / apperet quod non possimus per ea
+   vide<lb ed="#B" n="5" break="no"/>re. secus esset si essent luminosa: quia corpus
+   diapha<lb ed="#B" n="6" break="no"/>num non coloratum vel non multum coloratum, quemadmo 
+   <lb ed="#B" n="7"/>dum sunt aer &amp; vitrum, recipiunt lumen quod est species 
+   <lb ed="#B" n="8"/>coloris / &amp; eius representatiuum: sicut species
+   visi<lb ed="#B" n="9" break="no"/>bilis in medio repraesentat visibile.
+  </p>
+      <p xml:id="jMqv4a-d1e2019-d1e247">
+   ⁋ Ad ista tamen 
+   <lb ed="#B" n="10"/>pono hanc conclusionem. Naturaliter lux / lumen 
+   <lb ed="#B" n="11"/>&amp; color nullam habent inter se repugnantiam: &amp; pamen 
+   <lb ed="#B" n="12"/>eidem subiecto primo inhaerere. lstud probo. nam
+   vi<lb ed="#B" n="13" break="no"/>trum / aqua / &amp; vinum recipiunt colorem &amp; lumen. simiter cato 
+   <lb ed="#B" n="14"/>rum oculi: &amp; squammae piscium sunt coloratae &amp; lucida 
+   <lb ed="#B" n="15"/>quod sint colorata / notu est, cum sint corpora mixta. 
+   <lb ed="#B" n="16"/>quod sint luminosa / patet: quia illuminant medium trans 
+   <lb ed="#B" n="17"/>parens. &amp; licet hoc interdium non percipiamus propte 
+   <lb ed="#B" n="18"/>maius lumen scilicet solis, offuscans illa lumina: tamen no 
+   <lb ed="#B" n="19"/>ctu hoc deprehendimus. Aliquae item quaercus putrida 
+   <lb ed="#B" n="20"/>&amp; vermes illuminant mediu prope se: ergo in se lucen 
+   <lb ed="#B" n="21"/>habent. In super plurima corpora alba lucem participant 
+   <lb ed="#B" n="22"/>vt liquat de carbunculo &amp; lapidibus praeciosis, lumen no 
+   <lb ed="#B" n="23"/>ctu ministrantibus. hoc autem experimento cognoscimus. 
+   <lb ed="#B" n="24"/>nam si fuerit tenebrae: &amp; in clausu conclaue noctu in hye 
+   <lb ed="#B" n="25"/>me inferatur congenes niuis: totum conclaue illumi 
+   <lb ed="#B" n="26"/>nabit: &amp; tamen nix est alba. ergo suscipit lucem cum
+   colo<lb ed="#B" n="27" break="no"/>re. &amp; per carbunculum videre potes. quare idem corpus 
+   <lb ed="#B" n="28"/>suscipit lumen / lucem / &amp; colorem.
+  </p>
+      <p xml:id="jMqv4a-d1e2019-d1e291">
+   ⁋ Secundo arguitur ad 
+   <lb ed="#B" n="29"/>idem probabile est quod materia ptrima sit subiectum acciden 
+   <lb ed="#B" n="30"/>tium corporalium non vitalium: hoc est / non notitiarum ve 
+   <lb ed="#B" n="31"/>appetitionum. sed omnium inferiorum est eadem materia in spi 
+   <lb ed="#B" n="32"/>cie. igitur. Quare bene stat per manuductiones natu 
+   <lb ed="#B" n="33"/>rales quod beatorum corpora sint colorata, lucida, &amp; lu 
+   <lb ed="#B" n="34"/>minosa, vel transparetia, per quae possimus videre.
+   Vi<lb ed="#B" n="35" break="no"/>demus autem aliquam lucem vel corpus lucidum visum
+   te<lb ed="#B" n="36" break="no"/>minare / &amp; non esse transparens. Aliud enim est diapha 
+   <lb ed="#B" n="37"/>num &amp; perspicuum. ergo male concluditur dato quod luna in 
+   <lb ed="#B" n="38"/>coniunctione solem eclipset sicut fiamma partem
+   opposi<lb ed="#B" n="39" break="no"/>tam camini: quod ita erit vtrobique. Praeterea antiqua est 
+   <lb ed="#B" n="40"/>quaestio inter philosophos, an lumen caeli sit eiusdem spi 
+   <lb ed="#B" n="41"/>ciei cum lumine in inferioribus. ergo dato quod lumen
+   cor<lb ed="#B" n="42" break="no"/>porum inferiorum non ihaereat corpori lucido, hoc non suf 
+   <lb ed="#B" n="43"/>ficienter improbat in corporibus btorum qui sunt superiores. 
+   <lb ed="#B" n="44"/>Et verosimile est quod lux &amp; lumen in btis sint alterius
+   spe<lb ed="#B" n="45" break="no"/>ciei a talibus quaelitatibus naturalibus quas philosophi 
+   <lb ed="#B" n="46"/>ponunt: le quadam similitudinem cum eis habeant. Ex his 
+   <lb ed="#B" n="47"/>soluere potes rationes in oppositum factas. 
+  </p>
+      <p xml:id="jMqv4a-d1e2019-d1e335">
+       <lb ed="#B" n="48"/>⁋ Secunda conclusio. Dos claritatis 
+   <lb ed="#B" n="49"/>supponit in recto pro colore decente secundum 
+   <lb ed="#B" n="50"/>complexionem bti / luce / &amp; lumine, insinuandotalia 
+   <lb ed="#B" n="51"/>ratione meritorum in quibus quis decessit, quod in communi 
+   <lb ed="#B" n="52"/>modo loquendi in artibus conotare vel appellare d 
+   <lb ed="#B" n="53"/>cimus. nam hoc ad dotem claritatis requiritur &amp; sus 
+   <lb ed="#B" n="54"/>ficit. igitur. 
+   <!--0785.xml-->
+   <cb ed="#B" n="b"/> 
+       <!-- 377-r b -->
+      </p>
+      <p xml:id="jMqv4a-d1e2019-d1e359">
+       <lb ed="#B" n="55"/>⁋ Contra hanc conclusionem &amp; etiam 
+   <lb ed="#B" n="56"/>contra praecedentem arguitur. vel haec dos causatur in corpore 
+   <lb ed="#B" n="57"/>beati a beatitudine, vel ab alio, non primum: quia non 
+   <lb ed="#B" n="58"/>videtur quod accidentia animae tales qualitates in corpore 
+   <lb ed="#B" n="59"/>causare possint. Nec secundum: quia aliter ratio dari non 
+   <lb ed="#B" n="60"/>potest vnde haec dos ortum habeat. Respondetur. l 
+   <lb ed="#B" n="61"/>cet passiones animae aliquam transmutationem in cor 
+   <lb ed="#B" n="62"/>pore faciant, interdum dyscrasiam ad mortem inclu 
+   <lb ed="#B" n="63"/>siue: vel ad sanitatem: sicut gallinae gallum vincenti 
+   <lb ed="#B" n="64"/>crescit calcar in pede, vt dicit Auicenna: &amp; ad mui 
+   <lb ed="#B" n="65"/>ta alia: non video in proposito quod qualitates cor 
+   <lb ed="#B" n="66"/>poris sic causentur: sed deus has qualitates se solo cau 
+   <lb ed="#B" n="67"/>sat effectiue. verum quia causat mediantibus meritis 
+   <lb ed="#B" n="68"/>&amp; beatitudinei btintudo potest dici quodammodo causa 
+   <lb ed="#B" n="69"/>cum sit causa sine qua non dotum. Deus enim lucem &amp; lu 
+   <lb ed="#B" n="70"/>men in corpore beati producit / &amp; colorem vegetum &amp; pul 
+   <lb ed="#B" n="71"/>cherrimum in sua specie: quae semper manent sine remissi 
+   <lb ed="#B" n="72"/>one vel alteratione: licet non sint omnes hae qualita 
+   <lb ed="#B" n="73"/>tes aequaliter intensae. nam qui plus gratiae habet: 
+   <lb ed="#B" n="74"/>intensiorem claritatem habet: vt apostolus innuit 
+   <lb ed="#B" n="75"/>primae ad Corinth. xv.
+  </p>
+      <p xml:id="jMqv4a-d1e2019-d1e407">
+   ⁋ Secundo arguitur. Chri 
+   <lb ed="#B" n="76"/>stus habuit dotes corporis post resurrectionem: &amp; 
+   <lb ed="#B" n="77"/>tunc non habuit hanc claritatem: ergo nec alii bea 
+   <lb ed="#B" n="78"/>ti hanc dotem habent. ostenditur consequentia per regulam 
+   <lb ed="#B" n="79"/>topicam. Si illud quod magis videt inesse, non inest. 
+   <lb ed="#B" n="80"/>nec illud quod minus videtur inesse, inerit. Andes 
+   <lb ed="#B" n="81"/>probatur: quia appuit apostolis in specie peregrini. si autem 
+   <lb ed="#B" n="82"/>claritate in corpore habuisset: verosimile est quod illam cla 
+   <lb ed="#B" n="83"/>ritatem eis ostendisset, in argumentum gloriosae resurre 
+   <lb ed="#B" n="84"/>ctionis. sicut agilitatem ascendendo ad caelum: &amp; subti 
+   <lb ed="#B" n="85"/>litatem intrando ad eos ianuis clausis.
+  </p>
+      <p xml:id="jMqv4a-d1e2019-d1e432">
+   ⁋ Respondetur 
+   <lb ed="#B" n="86"/>negando quod tion habuerit claritatem in suo corpe 
+   <lb ed="#B" n="87"/>sed apostoli in corpore mortali illam deprehendere 
+   <lb ed="#B" n="88"/>non poterant: quapropter illam adhuc ab eis
+   occul<lb ed="#B" n="89" break="no"/>tabat. Oculus enim sanus potest intueri quod non potest 
+   <lb ed="#B" n="90"/>oculus infirmus. quomodo aquila intuetur solem 
+   <lb ed="#B" n="91"/>non autem homoi&amp; lynceus videt quod non videt 
+   <lb ed="#B" n="92"/>caecutiens. Hinc dicebat Christus apostolis. Mui 
+   <lb ed="#B" n="93"/>ta habeo vobis dicere, sed non potestis portare mo 
+   <lb ed="#B" n="94"/>do. Ioannis. xvi. sic in proposito. Sed dicis. si clari 
+   <lb ed="#B" n="95"/>tatis dotem Christus habuit post resurrectionem 
+   <lb ed="#B" n="96"/>&amp; alium se ostendit / eos fefellit. Respondetur. iudico 
+   <lb ed="#B" n="97"/>nefas concedere quod Christus fefellerit. Sed dico 
+   <lb ed="#B" n="98"/>quod occultabat rem veram quam non expediebat
+   apo<lb ed="#B" n="99" break="no"/>stolis manifestare: tum quod eum cum claritate minus co 
+   <lb ed="#B" n="100"/>gnouissent: tum quod non erant digni eum sic cogno 
+   <lb ed="#B" n="101"/>scere: quia in fide erant vacillantes. Nam vt Luce. xxiiii. 
+   <lb ed="#B" n="102"/>scribitur, cum mulieres nunciarent Apostolis Christum resur 
+   <lb ed="#B" n="103"/>rexisse: visa sunt illis sicut delitamentum verba ista: 
+   <lb ed="#B" n="104"/>&amp; non crediderunt illis. Quia autem crederent eum peregri 
+   <lb ed="#B" n="105"/>num / non erat eos fallere: quia habebat vestes &amp;
+   cae<lb ed="#B" n="106" break="no"/>tera quae peregrini deferre solent: &amp; peregrinum assensum 
+   <lb ed="#B" n="107"/>habebant de resuffectione eius: propterea illa quae ipse 
+   <lb ed="#B" n="108"/>faciebat extrinsecus / produxerunt notitias quibus 
+   <!--0786.xml-->
+   <pb ed="#B" n="377-v"/>
+       <!--<cb ed="#B" n="a"/>-->    <!-- TODO extra text region in coordinate file that needs to be removed -->
+       <!--0786.xml-->
+       <cb ed="#B" n="a"/> 
+       <lb ed="#B" n="1"/>iudicabant eum fuisse peregrinum. Exemplum 
+   <lb ed="#B" n="2"/>in simili. si pro rationabili causa homo ferat
+   ha<lb ed="#B" n="3" break="no"/>bitum fratris nnoris vt euadat ab hoste iniquo: li 
+   <lb ed="#B" n="4"/>cet videntes iudicent eum esse fratrem minorem: ipse ob 
+   <lb ed="#B" n="5"/>hoc non fallit. Nec igitur produxit se solo notitiam vel 
+   <lb ed="#B" n="6"/>assensum in mentibus apostolorum quod ipse esset
+   pe<lb ed="#B" n="7" break="no"/>grinus: licet putem deu posse producere se solo quid 
+   <lb ed="#B" n="8"/>quid potest producere cum causa secunda, non tamen semper ta 
+   <lb ed="#B" n="9"/>liter: quia ad deceptionem deus concurrit cum causa 
+   <lb ed="#B" n="10"/>secunda: sed talem qualitatem in esse deceptionis non  
+   <lb ed="#B" n="11"/>potest producere se solo. Nihil enim apud me absurdius 
+   <lb ed="#B" n="12"/>est admittere quam deum posse fallere. sed de hoc alias, 
+  </p>
+      <p xml:id="jMqv4a-d1e2019-d1e523">
+       <lb ed="#B" n="13"/>⁋ Habes ergo quid sit dos claritatis: ves qualitas 
+   <lb ed="#B" n="14"/>collectiue vel diuisiue in corpore beati a deo distin  
+   <lb ed="#B" n="15"/>cta, quae est inaequalis in beatis. Maiorem enim claritatem 
+   <lb ed="#B" n="16"/>habens semper est magis beatus: sicut stella differt 
+   <lb ed="#B" n="17"/>a. stella, vel sol a stella. vt Apostolus dicit. i. ad 
+   <lb ed="#B" n="18"/>Corin. xv. Licet autem dos impassibilitatis, vel
+   agili<lb ed="#B" n="19" break="no"/>tatis / vel subtilitatis (vt postea dicemus) nullam qua 
+   <lb ed="#B" n="20"/>litatem accidentalem in beato importet: dos tamen claritatis ad 
+   <lb ed="#B" n="21"/>cidens vel accidentia dicit: quae quidem accidentia harmo 
+   <lb ed="#B" n="22"/>niam inter se habent: ita vt colori corporis pulcherrimo 
+   <lb ed="#B" n="23"/>secundum complexionem beati decentissima lux &amp; 
+   <lb ed="#B" n="24"/>lumen addatur. &amp; cum btuns habiturus sit corpus
+   trans<lb ed="#B" n="25" break="no"/>parens: quid mirum si oculis beatorum pateat? vt
+   di<lb ed="#B" n="26" break="no"/>cit <ref xml:id="jMqv4a-d1e2019-Rd1e555">
+        <name xml:id="jMqv4a-d1e2019-Nd1e557">Gregorius.</name> xviii. Moralium</ref>. sed etsi tale
+   cor<lb ed="#B" n="27" break="no"/>us non haberet: cum lynx per parietem (vt
+   perhi<lb ed="#B" n="28" break="no"/>bent) videat: quare btuns oculos lynceos habens 
+   <lb ed="#B" n="29"/>per hominem videre, non poterit?
+  </p>
+    </div>
+   </body>
+  </text>
+</TEI>

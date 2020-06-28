@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 2</title>
+      <author ref="#JohnMair">John Mair</author>
+      <respStmt>
+       <name>Jeffrey C. Witt</name>
+       <resp>TEI Encoder</resp>
+      </respStmt>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 2</title>
+       <date when="2020-06-09">June 27, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="B" n="cod-Bda113">Badius 1516</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+     guidelines for a diplomatic edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-06-27" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+      <pb ed="#B" n="357-r"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="jMqv4a-d1e1913"> <!-- l4d47q2 -->
+      <head xml:id="jMqv4a-d1e1913-Hd1e104">Quaestio 2</head>
+      <head xml:id="jMqv4a-d1e1913-Hd1e107" type="question-title">An ignis conflagrationis erit eiusdem speciei cum igne praesenti</head>
+      <p xml:id="jMqv4a-d1e1913-d1e110">
+       <lb ed="#B" n="95"/>⁋ Distinct. Quadragesimaeseptimae 
+   <lb ed="#B" n="96"/>Quaestio Secunda. 
+   <lb ed="#B" n="97"/>Ecudo in hac
+   distin<lb ed="#B" n="98" break="no"/>ctione quaero. An ignis con 
+   <lb ed="#B" n="99"/>flagrationis erit eiusdem spe 
+   <lb ed="#B" n="100"/>ciei cum igne praesenti. Sicut 
+   <lb ed="#B" n="101"/>in quaestione praecedente quo 
+   <lb ed="#B" n="102"/>ad suppositum &amp; quo ad 
+   <lb ed="#B" n="103"/>dl quaesitum conclusiue respon 
+   <lb ed="#B" n="104"/>debitur.
+  </p>
+      <p xml:id="jMqv4a-d1e1913-d1e134">
+   ⁋ Prior conclusio. Mundus purgabitur 
+   <lb ed="#B" n="105"/>per ignem conflagrationis.
+  </p>
+      <p xml:id="jMqv4a-d1e1913-d1e140">
+   ⁋ Posterior conclusio, 
+   <lb ed="#B" n="106"/>Ille ignis erit eiusdem speciei specialissimae cum hoc 
+   <!--0746.xml-->
+   <pb ed="#B" n="357-v"/>
+       <cb ed="#B" n="a"/>
+       <lb ed="#B" n="1"/>igne quem habemus.
+  </p>
+      <p xml:id="jMqv4a-d1e1913-d1e153">
+   ⁋ Prior conclusio ostenditur 
+   <lb ed="#B" n="2"/>ex verbo Apostoli primae ad Corinth. vi. Praeterii 
+   <lb ed="#B" n="3"/>figura huius mundi. vbi glossa. Pulchritudo huis 
+   <lb ed="#B" n="4"/>mundi mundanorum ignium conflagratione per 
+   <lb ed="#B" n="5"/>ibit. Idem dicit beatus <name xml:id="jMqv4a-d1e1913-Nd1e163" ref="#Augustine">Augustinus</name> vigesimo 
+   <lb ed="#B" n="6"/>de ciuitate dei capitu. xvi. &amp; glossa super illud
+   se<lb ed="#B" n="7" break="no"/>cundae Petri tertio, seu vlti. Et elementa ignis vt 
+   <lb ed="#B" n="8"/>ardore tabescent. Et congruitas est ad hoc. Nam 
+   <lb ed="#B" n="9"/>dicitur secundo Physicorum. Nos sumus
+   quo<lb ed="#B" n="10" break="no"/>dammodo finis omnium. ergo homine innouato post 
+   <lb ed="#B" n="11"/>generalem resurrectionem congruit mundum in 
+   <lb ed="#B" n="12"/>nouari &amp; purgari. quod maxime fit per ignem. Hinc
+   di<lb ed="#B" n="13" break="no"/>xit Ioannes Apocalypsis. xxi. Vidi caelum nouum 
+   <lb ed="#B" n="14"/>&amp; terram nouam. Videmus insuper nunc locum
+   pec<lb ed="#B" n="15" break="no"/>catis infectum ante consecrationem esse vetitum 
+   <lb ed="#B" n="16"/>quousque purgetur. sic decens est quod locus peccato 
+   <lb ed="#B" n="17"/>rum faece infectus purgetur.
+  </p>
+      <p xml:id="jMqv4a-d1e1913-d1e193">
+   ⁋ Altera conclusio
+   pro<lb ed="#B" n="18" break="no"/>batur ex illo verbo Genesis primo. Requieuit de 
+   <lb ed="#B" n="19"/>us die septimo ab omni opere quod patrarat, quod 
+   <lb ed="#B" n="20"/>secundum multos sic exponitur. cessauit a
+   creati<lb ed="#B" n="21" break="no"/>one nouarum specierum in rebus. Secundo
+   argui<lb ed="#B" n="22" break="no"/>tur ad idem. Aqua quae purgauit mundum erat
+   eius<lb ed="#B" n="23" break="no"/>dem speciei cum vera aqua: ergo ignis cum igne. 
+   <lb ed="#B" n="24"/>Insuper vanum est multiplicare ignem alterius spi 
+   <lb ed="#B" n="25"/>ciei, vel aliud calefactiuum ab igne. 
+  </p>
+      <p xml:id="jMqv4a-d1e1913-d1e213">
+       <lb ed="#B" n="26"/>⁋ Contra primorem conclusionem argu 
+   <lb ed="#B" n="27"/>mentor. Vel ignis praecedet iudicium: vel erit tem 
+   <lb ed="#B" n="28"/>pore iudicii: vel sequetur iudicium, non vltimum 
+   <lb ed="#B" n="29"/>iuxta illud Psalmographi. lgnis ante eum praece 
+   <lb ed="#B" n="30"/>det: &amp; inflammabit in circuitu inimicos eius. psal 
+   <lb ed="#B" n="31"/>xcvi. Nec duo prima: quia combureret viuentes. 
+  </p>
+      <p xml:id="jMqv4a-d1e1913-d1e229">
+       <lb ed="#B" n="32"/>⁋ Respondetur. praecedet iuxta illud allegatum, 
+   <lb ed="#B" n="33"/>&amp; stabit tempore iudicii: nec laedentur electi qui
+   sta<lb ed="#B" n="34" break="no"/>bunt in parte aeris supra ignem, vt dicit beatus Au 
+   <lb ed="#B" n="35"/>gustinus secundo de ciuitate dei cap. xviii. Possu 
+   <lb ed="#B" n="36"/>mus, inquit, dicere electos futuros esse in superio 
+   <lb ed="#B" n="37"/>ribus partibus: quo ita non ascendet fiamma illius 
+   <lb ed="#B" n="38"/>incendii, quemadmodum nec vnda diluuii. Et hoc 
+   <lb ed="#B" n="39"/>de eis intelligitur qui mortui sunt, &amp; nihil purgabile 
+   <lb ed="#B" n="40"/>habent. viuentes autem possunt mori, &amp; comburi ab 
+   <lb ed="#B" n="41"/>igne pro sua poena purgatorii, si debitores poenae 
+   <lb ed="#B" n="42"/>sint: &amp; magis vel minus puniri iuxta sua demen 
+   <lb ed="#B" n="43"/>ta: quia ignis ille est instrumentum diuinae iustitiae, qui 
+   <lb ed="#B" n="44"/>vero nihil purgandum habebunt, possunt mori in  
+   <lb ed="#B" n="45"/>illo igne sine dolore magno. sicut deus conserua 
+   <lb ed="#B" n="46"/>re pot hominem in igne perpetuo absque hoc quod ignis 
+   <lb ed="#B" n="47"/>in eum agat. sed videtur quod mali cruciabuntur in
+   il<lb ed="#B" n="48" break="no"/>lo igne: &amp; tandem eos inuoluet in fauces inferni 
+  </p>
+      <p xml:id="jMqv4a-d1e1913-d1e268">
+       <lb ed="#B" n="49"/>⁋ Secundo arguitur. Vel deus creabit nouum ignem 
+   <lb ed="#B" n="50"/>&amp; sic necesse erit alia corpora condensari extra su 
+   <lb ed="#B" n="51"/>um naturalem ordinem: vel plura corpora esse in  
+   <lb ed="#B" n="52"/>eodem loco: quod natura abhorret. Aut si corrumpat 
+   <lb ed="#B" n="53"/>partem aeris in ignem: idem sequitur inconvenieus: cum ex 
+   <lb ed="#B" n="54"/>vno pugillo aeris fiant decem ignis. Respondetur. di 
+   <!--0746.xml-->
+   <cb ed="#B" n="b"/> 
+       <!-- 357-v b -->
+       <lb ed="#B" n="55"/>condensatione &amp; rarefactione, necesse est si aliquid con 
+   <lb ed="#B" n="56"/>densetur aliquid rarefieri &amp; econverso nunc, naturalsiter
+   lo<lb ed="#B" n="57" break="no"/>quendo. tamen deus potest facere oppositum: quia potest 
+   <lb ed="#B" n="58"/>corrumpere magnam partem aeris vel terrae
+   propor<lb ed="#B" n="59" break="no"/>tionabiliter ad magnitudinem ignis creati. 
+  </p>
+    </div>
+   </body>
+  </text>
+</TEI>

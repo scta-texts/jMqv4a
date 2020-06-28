@@ -1,0 +1,411 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 1</title>
+      <author ref="#JohnMair">John Mair</author>
+      <respStmt>
+       <name>Jeffrey C. Witt</name>
+       <resp>TEI Encoder</resp>
+      </respStmt>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 1</title>
+       <date when="2020-06-09">June 27, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="B" n="cod-Bda113">Badius 1516</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+     guidelines for a diplomatic edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-06-27" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+      <pb ed="#B" n="387-v"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="jMqv4a-d1e2080"> <!-- l4d50q1 -->
+      <head xml:id="jMqv4a-d1e2080-Hd1e104">Quaestio 1</head>
+      <head xml:id="jMqv4a-d1e2080-Hd1e107" type="question-title">An damnati in inferno continuo peccabunt</head>
+      <p xml:id="jMqv4a-d1e2080-d1e110">
+       <lb ed="#B" n="81"/>⁋ Distinctionis Quinquagesimae 
+   <lb ed="#B" n="82"/>&amp; Vltimae Quaestio Prima. 
+   <lb ed="#B" n="83"/>lstinctionem quaen 
+   <lb ed="#B" n="84"/>quagesimam &amp; hu 
+   <lb ed="#B" n="85"/>us Quarti Libri 
+   <lb ed="#B" n="86"/>nouissimam dua 
+   <lb ed="#B" n="87"/>us dumtaxat quae 
+   <lb ed="#B" n="88"/>stionibus a
+   bsolue<lb ed="#B" n="89" break="no"/>mus. Prior est: an 
+   <lb ed="#B" n="90"/>damnati in
+   infer<lb ed="#B" n="91" break="no"/>no continuo pec 
+   <lb ed="#B" n="92"/>cabunt.
+  </p>
+      <p xml:id="jMqv4a-d1e2080-d1e139">
+   ⁋ Pro
+   so<lb ed="#B" n="93" break="no"/>lutione quaestionis 
+   <lb ed="#B" n="94"/>pono conclusiones. 
+   <lb ed="#B" n="95"/>Quarum Prima est. damnati habent multos malos actus 
+   <lb ed="#B" n="96"/>in infemo libere. quae patet: quia eliciunt ex impatien 
+   <lb ed="#B" n="97"/>tia &amp; consummata malitia aliquos actus non
+   spectan<lb ed="#B" n="98" break="no"/>tes ad suam essentialem poenam. sed secundum communem viam non 
+   <lb ed="#B" n="99"/>possunt elicere actus bonos nec indifferentes: ergo
+   il<lb ed="#B" n="100" break="no"/>li sunt mali. Dixi( secundum communem viam propter illa qua in  
+   <lb ed="#B" n="101"/>vii. distinctione Secundi dissero. In super non est vero 
+   <lb ed="#B" n="102"/>simile, esto actus non malos elicere possint: quin mul 
+   <lb ed="#B" n="103"/>tos malos libere eliciant: ergo conclusio vera.
+  </p>
+      <p xml:id="jMqv4a-d1e2080-d1e166">
+   ⁋ Se 
+   <lb ed="#B" n="104"/>cunda conclusio. Aliqui sunt actus quos de necessitate 
+   <lb ed="#B" n="105"/>habent damnati in voluntate ex malitia procedentes probatur: 
+   <lb ed="#B" n="106"/>quia non possunt remouere omnem poenam a se: ergo nec 
+   <lb ed="#B" n="107"/>actus illius poenae productiuos. Hoc autem ex. vii. distin. 
+   <lb ed="#B" n="108"/>Secundi suppono cu causa quare ita sit. nam ad boni- 
+   <!--0807.xml-->
+   <pb ed="#B" n="388-r"/>
+       <cb ed="#B" n="a"/>
+       <lb ed="#B" n="1"/>tatem &amp; malitiam proprie dicta (vt coniter dicimus) requiri 
+   <lb ed="#B" n="2"/>tur libertas. ergo actus beatificus beati de necessi 
+   <lb ed="#B" n="3"/>tate elicitus, &amp; damnatorius similiter / non esset
+   ma<lb ed="#B" n="4" break="no"/>lus culpabiliter. Et licet aliqui dicerent facta a demen 
+   <lb ed="#B" n="5"/>te &amp; ebrio omni ratione orbato ex culpa praeuia esse im 
+   <lb ed="#B" n="6"/>putabilia: difficilius est tamen eis dare analogiam de sen 
+   <lb ed="#B" n="7"/>su orbato ex causa meritoria in aliquo qui diceretur 
+   <lb ed="#B" n="8"/>mereri opposito modo.
+  </p>
+      <p xml:id="jMqv4a-d1e2080-d1e203">
+   ⁋ Quicquid sit de nomine: 
+   <lb ed="#B" n="9"/>ponitur Tertia conclusio. siue actus damnatorum dicantur 
+   <lb ed="#B" n="10"/>maliiculpae / vel peccata, non patientur aliquam poenam 
+   <lb ed="#B" n="11"/>inflictam ratione illorum actuum probatur: quia non sunt in statu 
+   <lb ed="#B" n="12"/>merendi &amp; demerendi: ergo non infligetur poena ra 
+   <lb ed="#B" n="13"/>tione quoruncumque actuum quos eliciunt. signanter de poe 
+   <lb ed="#B" n="14"/>na inflicta loquor: quae a culpa distinguitur: &amp; eius est re 
+   <lb ed="#B" n="15"/>ordinatiua per cruciatum. De poena enim acta non est pos 
+   <lb ed="#B" n="16"/>sibile dare culpam quin suam poenam habeat annexan, 
+   <lb ed="#B" n="17"/>eo modo quo idem potest habere se. iuxta illud Augu 
+   <lb ed="#B" n="18"/>stini. v. Confessionum. lussisti domine &amp; ita est. &amp; quae 
+   <lb ed="#B" n="19"/>sequuntur. Secundo arguitur ad idem. beati non continuo 
+   <lb ed="#B" n="20"/>merentur nouun praemium distinctum a praemio quod primo 
+   <lb ed="#B" n="21"/>die beatitudinis habent: ergo nec damnati
+   demeren<lb ed="#B" n="22" break="no"/>tur nouam poenam infligi. Tertio, dato opposito sequ 
+   <lb ed="#B" n="23"/>tur haec conclusio quo ad damnatos: infinitam poena 
+   <lb ed="#B" n="24"/>quilibet. damnatus habebit. &amp; alia conclusio quo ad 
+   <lb ed="#B" n="25"/>beatos: infinitum praemium quilibet beatus habebit: 
+   <lb ed="#B" n="26"/>capiendo infinitum syncategorematice.
+  </p>
+      <p xml:id="jMqv4a-d1e2080-d1e245">
+   ⁋ Quar 
+   <lb ed="#B" n="27"/>ta conclusio. Deus potest iuste infligere poenam ratione 
+   <lb ed="#B" n="28"/>actuum quos faciunt. Probatur. nam omnis male agens 
+   <lb ed="#B" n="29"/>a iusto iudice &amp; misericorde potest puniri. sed danati 
+   <lb ed="#B" n="30"/>male agunt. igitur. Secundo probatur idem. Deus potest face 
+   <lb ed="#B" n="31"/>re omne quod non implicat contradictionem: quia 
+   <lb ed="#B" n="32"/>non est apud eum impossibile omne verbum. &amp; semper 
+   <lb ed="#B" n="33"/>iuste agit: quia non potest flecti cum regula Lesbia 
+   <lb ed="#B" n="34"/>ad sinistrum.
+  </p>
+      <p xml:id="jMqv4a-d1e2080-d1e265">
+   ⁋ Quinta conclusio. Deus magnam 
+   <lb ed="#B" n="35"/>misericordiam exhibet damnatis. probatur. iuste &amp; cum 
+   <lb ed="#B" n="36"/>misericordia sicut dixit vna probatio conclusionis 
+   <lb ed="#B" n="37"/>praecedentis / potest deus punire male acta damnato 
+   <lb ed="#B" n="38"/>rum: &amp; tamen hoc non facit: ergo in misericordia eos 
+   <lb ed="#B" n="39"/>punit, non tamen in tali misericordia quali in hoc mundo.  
+  </p>
+      <p xml:id="jMqv4a-d1e2080-d1e278">
+       <lb ed="#B" n="40"/>⁋ Contra primam conclusionem cum 
+   <lb ed="#B" n="41"/>tertia simul arguitur. Ex eis sequitur quod
+   inaequali<lb ed="#B" n="42" break="no"/>ter peccantes aequaliter punientur, contra dicta in  
+   <lb ed="#B" n="43"/>distinctione. xlvi. Distinguo. vel in viatore: &amp; sic 
+   <lb ed="#B" n="44"/>negatur. vel in illis qui sunt extra viam: &amp; sic con 
+   <lb ed="#B" n="45"/>tedo / loquendo de poena inflicta. secus est de poe 
+   <lb ed="#B" n="46"/>na acta quae cum peccato coincidit. Obiicies. ex
+   il<lb ed="#B" n="47" break="no"/>lo sequitur quod aliquod erit malum impunitum. solu 
+   <lb ed="#B" n="48"/>tionem habes ex dictis quod non in viatore: de sepa 
+   <lb ed="#B" n="49"/>rato autem a via &amp; de poena acta non sequitur. Contra 
+   <lb ed="#B" n="50"/>hoc arguitur. Damnatus punitur poena vermis: 
+   <lb ed="#B" n="51"/>hoc est, habet stimulum conscientiae de malo per 
+   <lb ed="#B" n="52"/>petrato, eo quod ratione illius torquetur. sed stimulus 
+   <lb ed="#B" n="53"/>ille non extinguitur in damnato. igitur.
+  </p>
+      <p xml:id="jMqv4a-d1e2080-d1e311">
+   ⁋ Responde 
+   <lb ed="#B" n="54"/>bitur primo ad materiam argumenti: deinde ad for 
+   <!--0807.xml-->
+   <cb ed="#B" n="b"/> 
+       <!-- 388-r b -->
+       <lb ed="#B" n="55"/>mam. Quo ad materiam beatus <name xml:id="jMqv4a-d1e2080-Nd1e324" ref="#Augustine">Augustinus</name>. xxi. de 
+   <lb ed="#B" n="56"/>ciuitate dei, ca. ix. relinquit sub dubio: an in
+   infer<lb ed="#B" n="57" break="no"/>no erunt vermes materiales. rationabilior tamen est
+   il<lb ed="#B" n="58" break="no"/>la sententia quod non. quia nulla erunt animalia praeter 
+   <lb ed="#B" n="59"/>homines post diem iudicii: nec generatio nec
+   cor<lb ed="#B" n="60" break="no"/>ruptio. frustra enim talia fierent: cum amplius non 
+   <lb ed="#B" n="61"/>sint futuri homines, propter quos reliqua creata sunt:  
+   <lb ed="#B" n="62"/>iuxta illud psalmographi. Omnia subiecisti sub 
+   <lb ed="#B" n="63"/>pedibus eius: oues &amp; boues &amp;c. psal. viii. &amp; illud  
+   <lb ed="#B" n="64"/>secundi physicorum. Nos sumus quodammodo finis 
+   <lb ed="#B" n="65"/>omnium. ergo nec erunt vermes. sermo est igitur de 
+   <lb ed="#B" n="66"/>verme spirituali: qui nihil aliquod est quam remorsus
+   coscien<lb ed="#B" n="67" break="no"/>tiae, tristitiam generans de malo perpetrato: non
+   ra<lb ed="#B" n="68" break="no"/>tione honesti / sed quia est causa afflictionis. Dicitur 
+   <lb ed="#B" n="69"/>iunt vermis metaphorice. nam sicut ex putrefactione 
+   <lb ed="#B" n="70"/>mixti generatur vermis vt in animalium cadaue 
+   <lb ed="#B" n="71"/>ribus: sic ex putredine peccati inest displicentia ho 
+   <lb ed="#B" n="72"/>minem spiritualiter corrodens / more corporalis ver 
+   <lb ed="#B" n="73"/>mis ingratissimi / suam matrem corrodentis.
+   Ma<lb ed="#B" n="74" break="no"/>gnitudo autem istius tristitiae ex hoc ostenditur: si quis 
+   <lb ed="#B" n="75"/>socium probro &amp; contumelia iniuste affecerit: in  
+   <lb ed="#B" n="76"/>se postea reuersus dolet. hoc quemlibet in se
+   experi<lb ed="#B" n="77" break="no"/>mento cognoscere arbitror, nec damnatus si vellet 
+   <lb ed="#B" n="78"/>posset se ab hac tristitia exuere. nam Vermis
+   eo<lb ed="#B" n="79" break="no"/>rum non morietur: &amp; ignis eorum non extingue 
+   <lb ed="#B" n="80"/>tur. Esaiae vltimo.
+  </p>
+      <p xml:id="jMqv4a-d1e2080-d1e383">
+   ⁋ Hoc supposito in
+   viatori<lb ed="#B" n="81" break="no"/>bus aliquid rationis habentibus: deuenio ad formam 
+   <lb ed="#B" n="82"/>argumenti de damnatis: &amp; dico quod multos &amp; vari 
+   <lb ed="#B" n="83"/>os malos actus eliciunt malorum habituum genera 
+   <lb ed="#B" n="84"/>tiuos: &amp; fortasse isti actus eis placent: &amp; placet eis 
+   <lb ed="#B" n="85"/>hos actus elicuisse. quare non est in eis tristitia
+   se<lb ed="#B" n="86" break="no"/>quens ad illos actus, quemadmodum si peruersus in 
+   <lb ed="#B" n="87"/>via iniuste dicat alicui iniurias: is non dolet: sed po 
+   <lb ed="#B" n="88"/>tius gaudet &amp; exultat in rebus pessimis. sed non potest 
+   <lb ed="#B" n="89"/>daemon etsi vellet / poenam vermis secludere: quae sequi 
+   <lb ed="#B" n="90"/>tur ex actibus in via a se elicitis: quia detinetur in 
+   <lb ed="#B" n="91"/>sua poena ratione demeritorum in quibus decessit. 
+  </p>
+      <p xml:id="jMqv4a-d1e2080-d1e409">
+       <lb ed="#B" n="92"/>⁋ Contra quartam conclusionem ar 
+   <lb ed="#B" n="93"/>guitur. Ex ea sequitur quod diues epulo habebit tan 
+   <lb ed="#B" n="94"/>tam poenam quantam Lucifer vel Mahumetus. 
+   <lb ed="#B" n="95"/>consequens est falsum: &amp; consequentia patet: quia 
+   <lb ed="#B" n="96"/>infinitam poenam vterque habebit: si ponatur inesse 
+   <lb ed="#B" n="97"/>quod quarta conclusio denotat.
+  </p>
+      <p xml:id="jMqv4a-d1e2080-d1e425">
+   ⁋ Respondetur per 
+   <lb ed="#B" n="98"/>propositiones: quarum Prima est. infinitam
+   poe<lb ed="#B" n="99" break="no"/>nam quilibet damnatus habebit. quae probatur sic. 
+   <lb ed="#B" n="100"/>infinita peccata quilibet damnatus habebit: &amp; poe 
+   <lb ed="#B" n="101"/>na respondebit peccato ex hypothesi: ergo infini 
+   <lb ed="#B" n="102"/>tam poenam quilibet damnatus habebit. maior
+   pro<lb ed="#B" n="103" break="no"/>patur: quia duo peccata quilibet damnatus
+   habe<lb ed="#B" n="104" break="no"/>bit / tria / quatuor / &amp; sic in abyssum. igitur.
+  </p>
+      <p xml:id="jMqv4a-d1e2080-d1e443">
+   ⁋ Secun 
+   <lb ed="#B" n="105"/>da propositio. maiorem poenam habebit diues epu 
+   <lb ed="#B" n="106"/>lo quam habeat Mahumetus / immo infinite maiorem. 
+   <lb ed="#B" n="107"/>patet per crementum peccatorum.
+  </p>
+      <p xml:id="jMqv4a-d1e2080-d1e452">
+   ⁋ Tertia proposi 
+   <lb ed="#B" n="108"/>io. sper Mahumetus erit in maiore poena quam diues epu 
+   <!--0808.xml-->
+   <pb ed="#B" n="388-v"/>
+       <cb ed="#B" n="a"/>
+       <lb ed="#B" n="1"/>lo: &amp; tamen infinitam habebit epulo: &amp; nunquam
+   Mahume<lb ed="#B" n="2" break="no"/>tus erit in poena infinita. Haec propotes est lucida:
+   mo<lb ed="#B" n="3" break="no"/>do ponamuseos proportionabiliter procedere in p ec 
+   <lb ed="#B" n="4"/>catit prout decesserunt.
+  </p>
+      <p xml:id="jMqv4a-d1e2080-d1e472">
+   ⁋ Quarta propositio. infini 
+   <lb ed="#B" n="5"/>tam poenam quilibet damnatus habebit: &amp; tamen in nul 
+   <lb ed="#B" n="6"/>lo tempore finito verum erit dicere: haec poena est
+   infi<lb ed="#B" n="7" break="no"/>nita: cuiuscumque damnati poenam demonstrando.
+  </p>
+      <p xml:id="jMqv4a-d1e2080-d1e482">
+   ⁋ Qui 
+   <lb ed="#B" n="8"/>ta propositio. infinitam poenam in aliquo die sequente 
+   <lb ed="#B" n="9"/>damnatus habebit, quae patet per ascensum. &amp; mensu 
+   <lb ed="#B" n="10"/>remus diem naturalem vel artificialem per aliud quam
+   mo<lb ed="#B" n="11" break="no"/>tum solis, vt per circuitionem sortis beati circa terram 
+   <lb ed="#B" n="12"/>semel in. xxiiii. horis: vel per motum solis si libet 
+  </p>
+      <p xml:id="jMqv4a-d1e2080-d1e495">
+       <lb ed="#B" n="13"/>⁋ Cum hac stat haec sexta propositio. in quolibet 
+   <lb ed="#B" n="14"/>die sequente damnatus finitam poenam habebit. 
+  </p>
+      <p xml:id="jMqv4a-d1e2080-d1e502">
+       <lb ed="#B" n="15"/>⁋ Septima propositio. in toto isto tempore cuius qui 
+   <lb ed="#B" n="16"/>libet dies est futurus / non maiorem poenam habe 
+   <lb ed="#B" n="17"/>bit Mahumetus quam diues epulo. 
+   <lb ed="#B" n="18"/>Vbitatur hic: an damnatus ma 
+   <lb ed="#B" n="19"/>lit non esse quam perpetuo cruciari. &amp; quae 
+   <lb ed="#B" n="20"/>ritur vtrum eorum sit eligibilius: non esse / 
+   <lb ed="#B" n="21"/>an esse &amp; damnari.
+  </p>
+      <p xml:id="jMqv4a-d1e2080-d1e520">
+   ⁋ Secundo dubitatur: an beati con 
+   <lb ed="#B" n="22"/>patiantur poenis damnatorum. an in eis
+   compla<lb ed="#B" n="23" break="no"/>ceant.
+  </p>
+      <p xml:id="jMqv4a-d1e2080-d1e527">
+   ⁋ Ad primum respondetur quod puniri &amp;
+   crucia<lb ed="#B" n="24" break="no"/>ri est praeeligendum annihilationi secundum rationem 
+   <lb ed="#B" n="25"/>rectam. ratio est: quia iustum est puniri &amp; cruciari 
+   <lb ed="#B" n="26"/>pro culpa secundum ordinationem diuinam. velle autem 
+   <lb ed="#B" n="27"/>non esse est peccatum. Si vero compares non esse ad
+   cul<lb ed="#B" n="28" break="no"/>pam in qua perpetuo manet damnatus: dico
+   neu<lb ed="#B" n="29" break="no"/>trum esse eligendum, sed fugiendum tanquam culpam. &amp; 
+   <lb ed="#B" n="30"/>semper maius malum est magis fugiendum. Potest es 
+   <lb ed="#B" n="31"/>se sermo de aliquo peccato quod minus sit fugiendum 
+   <lb ed="#B" n="32"/>quae non esse: &amp; de aliquo quod sit magis fugiendum. sed 
+   <lb ed="#B" n="33"/>si daretur optio damnato: de non esse: vel esse
+   perpe<lb ed="#B" n="34" break="no"/>tuo in flamma vt est: ita vt deus daret ei optionem 
+   <lb ed="#B" n="35"/>licite eligendi alterum istorum: scilicet non esse: vl 
+   <lb ed="#B" n="36"/>esse in perpetua poena: opinor quod eligeret non esse. 
+   <lb ed="#B" n="37"/>&amp; quilibet viator eligeret illd vbi daretur ei optio: 
+   <lb ed="#B" n="38"/>sic scilicet si alterutrum licite posset eligere. &amp; hoc lo 
+   <lb ed="#B" n="39"/>quendo de electione libera. Hinc <name xml:id="jMqv4a-d1e2080-Nd1e563" ref="#JeanBuridan">Ioannes Burida 
+   <lb ed="#B" n="40"/>nus</name>. qui. quarta decimi Ethicorum refert aliquos theo 
+   <lb ed="#B" n="41"/>logos dicere, quod cum clara dei visione potest stare tri 
+   <lb ed="#B" n="42"/>stitia. &amp; addit. constat mihi quod ego non vellem
+   ta<lb ed="#B" n="43" break="no"/>lem felicitatem. In super arguitur ratione. homo decre 
+   <lb ed="#B" n="44"/>pitus egestate praessus &amp; morborum pondere / appetit 
+   <lb ed="#B" n="45"/>mori: licet sit infidelis nihil de vita aeterna credens 
+   <lb ed="#B" n="46"/>ergo cum ad fugiendam poenam huius mundi qua 
+   <lb ed="#B" n="47"/>nihil est ad poena inferni comparata / homini
+   dul<lb ed="#B" n="48" break="no"/>cis sit mors: a fortiore ad fugiendam poenam infer 
+   <lb ed="#B" n="49"/>ni mors est dulcis. Confirmatur haec ratio per illud quod 
+   <lb ed="#B" n="50"/>scribitur Ecclesia. xli. O mors bonum est iudicium tuum 
+   <lb ed="#B" n="51"/>homini indigenti: &amp; qui minoratur viribus: defecto 
+   <lb ed="#B" n="52"/>aetate: &amp; cui de omnibus cura est / &amp; incredibili: qui perdit 
+   <lb ed="#B" n="53"/>sapientiam. Praeterea super illud Hieremiae. xx. Male 
+   <lb ed="#B" n="54"/>dicta dies in qua natus sum. glossa dicit quod melius 
+   <!--0808.xml-->
+   <cb ed="#B" n="b"/> 
+       <!-- 388-v b -->
+       <lb ed="#B" n="55"/>est non esse quam male esse. Insuper. i. Rhetoricorum ca. 
+   <lb ed="#B" n="56"/>vi. dicit philosophus quod non habere malum est dele 
+   <lb ed="#B" n="57"/>ctabile. &amp; non esse importat carentiam omnis ma 
+   <lb ed="#B" n="58"/>li. ergo aliqua voluntas saltem per accidens potest vel 
+   <lb ed="#B" n="59"/>le non esse / inquantum scilicet ad non esse sequitur carem 
+   <lb ed="#B" n="60"/>tia mali: quod est per se volitum. Cui alludit illd Apo 
+   <lb ed="#B" n="61"/>calypsis. ix. In diebus illis quaerent homines mortem &amp; non 
+   <lb ed="#B" n="62"/>inuenient eam: &amp; desiderabunt mori / &amp; fugiet mors 
+   <lb ed="#B" n="63"/>ab eis. Item Matthaei. xxvi. de luda loquens Salua 
+   <lb ed="#B" n="64"/>tor ait. Bonum erat ei si natus non fuisset ho ille. Idem 
+   <lb ed="#B" n="65"/>sentit <name xml:id="jMqv4a-d1e2080-Nd1e629" ref="#Jerome">Hieronymus</name> super simili verbo Marci. x.
+   di<lb ed="#B" n="66" break="no"/>cens. Melius est enim non esse quam ad tormenta esse. 
+   <lb ed="#B" n="67"/>Dicis. melius est illi si non fuisset natus extra vte 
+   <lb ed="#B" n="68"/>rum: vel si non fuisset natus &amp; vocatus ad
+   aposto<lb ed="#B" n="69" break="no"/>latum. sicut glo. marginalis Matth. xxvi. sonare
+   vi<lb ed="#B" n="70" break="no"/>detur, quamuis hoc sit verum: opinor sicut litera sonat: 
+   <lb ed="#B" n="71"/>&amp; id idem quemlibet in se experiti opinor: quod plerique 
+   <lb ed="#B" n="72"/>credentes se non fore post hanc vitam sese interemerunt. 
+   <lb ed="#B" n="73"/>Si dicas hoc esse contra beatum <name xml:id="jMqv4a-d1e2080-Nd1e650" ref="#Augustine">Augustinum</name>. iii. de
+   li<lb ed="#B" n="74" break="no"/>bero arbitrio: negatur: quia disputatiue ibi procedit 
+   <lb ed="#B" n="75"/>in principio: sed concludere videtur quod non ee non est eli 
+   <lb ed="#B" n="76"/>gibile simpliciter &amp; secundum se: bene tamen ad
+   fugien<lb ed="#B" n="77" break="no"/>dum aliud. sicut nemo eligit ferre graues petras 
+   <lb ed="#B" n="78"/>toto die simpliciter: sed bene vt capiat quimque
+   duo<lb ed="#B" n="79" break="no"/>denos. Hinc dicit <name xml:id="jMqv4a-d1e2080-Nd1e666" ref="#Aristotle">Aristoteles</name> noni Ethicorum
+   no<lb ed="#B" n="80" break="no"/>no cap. quod esse &amp; viuere &amp; huiusmodi secundum 
+   <lb ed="#B" n="81"/>se sunt diligibilia. habet illic antiqua transsatio. Vi 
+   <lb ed="#B" n="82"/>uere autem eorum quae secundum seipsum bono 
+   <lb ed="#B" n="83"/>rum &amp; delectabilium. determinatum enim.
+   deter<lb ed="#B" n="84" break="no"/>minatum autem eius quae boni natura. Natura 
+   <lb ed="#B" n="85"/>autem bonum: &amp; epiicei. propter quod videtur omni 
+   <lb ed="#B" n="86"/>bus delectabile esse. Sed subiungens se non intel 
+   <lb ed="#B" n="87"/>ligere de iis qui vitam calamitosam in erumnis 
+   <lb ed="#B" n="88"/>constitutam degunt: inquit. Non oportet autem
+   ac<lb ed="#B" n="89" break="no"/>cipere malam vitam &amp; corruptam: neque in tristitiis. 
+   <lb ed="#B" n="90"/>&amp; Argyropylus. Non oportet autem vitam sume 
+   <lb ed="#B" n="91"/>re prauam atque corruptam neque in doloribus
+   con<lb ed="#B" n="92" break="no"/>stitutam. indefinita namque est talis: quemadmodum ea 
+   <lb ed="#B" n="93"/>quae insunt ipsi. Si ponas aliquem corrumpi per 
+   <lb ed="#B" n="94"/>partes proportionales successiue: ita vt quolibet 
+   <lb ed="#B" n="95"/>die auferatur vna pars proportionalis: &amp; deus
+   vi<lb ed="#B" n="96" break="no"/>tam conseruet in reliquis: iam is nunquam desinit esse. 
+   <lb ed="#B" n="97"/>nec est ad propositum dubii.
+  </p>
+      <p xml:id="jMqv4a-d1e2080-d1e709">
+   ⁋ Propter haec itaque 
+   <lb ed="#B" n="98"/>teneo: si daretur homini optio vel non esse / vel ee 
+   <lb ed="#B" n="99"/>n perpetua fiamma: quod licite posset velle alterutrum. 
+   <lb ed="#B" n="100"/>eligendum autem est non esse. nam minus malum 
+   <lb ed="#B" n="101"/>habet rationem boni. quinto Ethicorum. 
+  </p>
+      <p xml:id="jMqv4a-d1e2080-d1e721">
+       <lb ed="#B" n="102"/>⁋ Ad secundam dubitationem: an 
+   <lb ed="#B" n="103"/>beati condoleant poenis damnatorum: Responde 
+   <lb ed="#B" n="104"/>tur explicando vnum quod supponitur: scilicet quod 
+   <lb ed="#B" n="105"/>beati cognoscant poenas damnatorum: quod potest esse mul 
+   <lb ed="#B" n="106"/>tifariam. In primis eos quos nouerunt, &amp; quos non 
+   <lb ed="#B" n="107"/>vident in caelis / nouerunt esse damnatos. Secundo potest eis 
+   <lb ed="#B" n="108"/>esse relatum. Tertio possunt hoc videre. nam ocuios 
+   <!--0809.xml-->
+   <pb ed="#B" n="389-r"/>
+       <cb ed="#B" n="a"/>
+       <lb ed="#B" n="1"/>eorporis &amp; mentis habent optine dispositos: &amp; possunt 
+   <lb ed="#B" n="2"/>mouere vel mutare se quolibet successiue vel instan 
+   <lb ed="#B" n="3"/>tanee. vt in distinctione praecedente dictum est. quid 
+   <lb ed="#B" n="4"/>vero obstet quo minus poenas damnatorum in 
+   <lb ed="#B" n="5"/>tueantur: nihil perfectionis subtrahendum est a beatis 
+   <lb ed="#B" n="6"/>quod conducat ad laudem dei. sed beatis non no 
+   <lb ed="#B" n="7"/>cet cognoscere perfecte poenas damnatorum: in  
+   <lb ed="#B" n="8"/>mo ex hoc magis suam beatitudinem diligunt / &amp; 
+   <lb ed="#B" n="9"/>deum glorificant qui se a poenis tam acerbis praeser 
+   <lb ed="#B" n="10"/>uauit: iuxta illud Apocalypsis. xxii. Qusiustus est iu 
+   <lb ed="#B" n="11"/>stificetur adhuc.
+  </p>
+      <p xml:id="jMqv4a-d1e2080-d1e769">
+   ⁋ lsto praelibato dicitur quod beati non 
+   <lb ed="#B" n="12"/>compatiuntur poenis damnatorum, quod probatur: quia vel est 
+   <lb ed="#B" n="13"/>compassio dicta secundum passionem quae est motus apu 
+   <lb ed="#B" n="14"/>petitus sensitiui praeueniens rationem / pet quam quis 
+   <lb ed="#B" n="15"/>condolet alteri: quasi simul dolens cum illo. aut pat 
+   <lb ed="#B" n="16"/>sio secundum electionem dicta quae est actus vo 
+   <lb ed="#B" n="17"/>luntatis rationem sequens per quem quis vult alterius 
+   <lb ed="#B" n="18"/>miseriae succurrere / tollendo illud quod miseriam in  
+   <lb ed="#B" n="19"/>ferti sed neutra istarum compassionum est in beatis, 
+   <lb ed="#B" n="20"/>Nam appetitus sensitiuus est plene subiectus ra 
+   <lb ed="#B" n="21"/>tioni. si enim ita erat in statu innocentiae: a fortiori 
+   <lb ed="#B" n="22"/>ita erit in statu gloriae. Nec compatiuntur compas 
+   <lb ed="#B" n="23"/>sione secundum electionem: quia hoc modo solu 
+   <lb ed="#B" n="24"/>compatimur illis quorum malum repellere volumus. 
+   <lb ed="#B" n="25"/>modo beati nolunt repellere cruciatus damnatorum. 
+   <lb ed="#B" n="26"/>immo placent beatis poenae damnatorum: non quoi 
+   <lb ed="#B" n="27"/>dem ratione vidictae: sed diuinae iustitiae quam
+   viden<lb ed="#B" n="28" break="no"/>in eis exerceri. iuxta illud prsalmographi. Laetabil 
+   <lb ed="#B" n="29"/>iustus cum viderit vindictam: manus suas lauabis 
+   <lb ed="#B" n="30"/>in sanguine peccatoris. psalmo. lvii. Damnati au 
+   <lb ed="#B" n="31"/>tem suis cruciatibus intenti parum de statu beato 
+   <lb ed="#B" n="32"/>rum vel quorumctur quod aliorum / ad suas poenas non 
+   <lb ed="#B" n="33"/>pertinente considerabunt. 
+  </p>
+    </div>
+   </body>
+  </text>
+</TEI>

@@ -1,0 +1,335 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 6</title>
+      <author ref="#JohnMair">John Mair</author>
+      <respStmt>
+       <name>Jeffrey C. Witt</name>
+       <resp>TEI Encoder</resp>
+      </respStmt>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 6</title>
+       <date when="2020-06-09">June 27, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="B" n="cod-Bda113">Badius 1516</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+     guidelines for a diplomatic edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-06-27" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+      <pb ed="#B" n="55-r"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="jMqv4a-d1e292"> <!-- l4d10q6 -->
+      <head xml:id="jMqv4a-d1e292-Hd1e104">Quaestio 6</head>
+      <head xml:id="jMqv4a-d1e292-Hd1e107" type="question-title">Utrum aliqua creatura possit movere corpus 
+  Christi prout existit in sacramento</head>
+      <p xml:id="jMqv4a-d1e292-d1e110">
+       <lb ed="#B" n="10"/>VTrum aliqua
+   crea<lb ed="#B" n="11" break="no"/>tura possit mouere
+   cor<lb ed="#B" n="12" break="no"/>pus Christi prout existit 
+   <lb ed="#B" n="13"/>n sacramento. Pro
+   solu<lb ed="#B" n="14" break="no"/>ione quaestionis ponun 
+   <lb ed="#B" n="15"/>tur aliquae propositiones 
+   <lb ed="#B" n="16"/>Prima est apud aliquos 
+   <lb ed="#B" n="17"/>communis. sacerdos vel laicus 
+   <lb ed="#B" n="18"/>leuans hostiam non mouet 
+   <lb ed="#B" n="19"/>corpus Christi. Probatur ab eis sic. quando aliqua 
+   <lb ed="#B" n="20"/>duo mobilia sic se habent quod motor non potest le 
+   <lb ed="#B" n="21"/>uare alterum diuisim in parte vel in toto, nec conium 
+   <lb ed="#B" n="22"/>ctim leuare potest. sed sic est quod si corpus Christi 
+   <lb ed="#B" n="23"/>maneret in aere sicut manet in hostia vel in vacuo: 
+   <lb ed="#B" n="24"/>presbyter non posset mouere corpus Christi. igitur. 
+   <lb ed="#B" n="25"/>Forte dicis. hoc magnum pondus non potest
+   trahe<lb ed="#B" n="26" break="no"/>re sortes sine currum: tamen pondus potest trahere 
+   <lb ed="#B" n="27"/>in curru vel in naui onusta: vt artificiose Venetiis 
+   <lb ed="#B" n="28"/>fit in extremitate Fridani. Lc non valet: cum exclu 
+   <lb ed="#B" n="29"/>datur in maiore per hoc quod dicitur (in parte vel in  
+   <lb ed="#B" n="30"/>toto) &amp; caetera. Dicis. sortes non potest mouere
+   du<lb ed="#B" n="31" break="no"/>as animas intellectiuas separatim in parte vel in toto: 
+   <lb ed="#B" n="32"/>&amp; tamen potest eas mouere coniunctim quando  
+   <lb ed="#B" n="33"/>informant materias. nam trahendo sortem &amp; plato 
+   <lb ed="#B" n="34"/>nem: mouet eorum animas. Adde ergo in maiore. 
+   <lb ed="#B" n="35"/>non se habent sicut actus &amp; potentia: vel sicut sub 
+   <lb ed="#B" n="36"/>iectum &amp; accidens: vel naturalem colligantiam qua 
+   <lb ed="#B" n="37"/>mouet vnum mobilium contingenter &amp; voluntarie com 
+   <lb ed="#B" n="38"/>iunctorum, &amp; non naturali colligatione propterea
+   mo<lb ed="#B" n="39" break="no"/>uet reliquum. sic est de eucharistia &amp; corpore
+   Chri<lb ed="#B" n="40" break="no"/>sti. igitur. Et est simile. si angelus determinat se
+   vo<lb ed="#B" n="41" break="no"/>luntarie esse cum lapide: amouens lapidem non mouet 
+   <lb ed="#B" n="42"/>angelum: sed ipsemet angelus mouet se. Quicquid 
+   <lb ed="#B" n="43"/>sit, haec probatio est inefficax: &amp; minor negaretur.
+   Ni<lb ed="#B" n="44" break="no"/>hil autem obstat quin presbyter quantuncum quod
+   debi<lb ed="#B" n="45" break="no"/>lis possit mouere corpus Christi diuisim: &amp; causa 
+   <lb ed="#B" n="46"/>est: cum sit donatum dote agilitatis, si corpus glo 
+   <lb ed="#B" n="47"/>rificatum relinquatur suae naturae: nihil obstat quin 
+   <lb ed="#B" n="48"/>leuetur a presbytero vel alio. Item angelus potest: 
+   <lb ed="#B" n="49"/>mouere angelum: &amp; angelus animam mouet in
+   si<lb ed="#B" n="50" break="no"/>num Abrahae. Lucae. xvi. ergo angelus vel
+   ani<lb ed="#B" n="51" break="no"/>ma vel presbyter potest mouere corpus Christi 
+   <!--0141.xml-->
+   <cb ed="#B" n="b"/> 
+       <!-- 55-r b -->
+       <lb ed="#B" n="52"/>prout est in eucharistia. 
+  </p>
+      <p xml:id="jMqv4a-d1e292-d1e212">
+       <lb ed="#B" n="53"/>⁋ Propter haec &amp; alia quae adduci 
+   <lb ed="#B" n="54"/>possunt, teneo pro prima conclusione contradicto 
+   <lb ed="#B" n="55"/>rium conclusionis praefatae positae ab aliis.
+  </p>
+      <p xml:id="jMqv4a-d1e292-d1e222">
+   ⁋
+   Se<lb ed="#B" n="56" break="no"/>cunda conclusio. aliqua creatura potest mouere cor 
+   <lb ed="#B" n="57"/>pus Christi vt est in eucharistia. patet. anima Chri 
+   <lb ed="#B" n="58"/>sti est sufficiens motrix sicut quaecunque anima: &amp;
+   cor<lb ed="#B" n="59" break="no"/>pus Christi mobile: &amp; dote agilitatis donatum: er 
+   <lb ed="#B" n="60"/>go aptissimum ad mouendum. ergo potest anima ipsum 
+   <lb ed="#B" n="61"/>corpus mouere organice, hoc est partes aeque
+   pri<lb ed="#B" n="62" break="no"/>mo: &amp; subito potest suum corpus mutare. etiam non orga 
+   <lb ed="#B" n="63"/>nice potest mouere ipsum: hoc est primo vnam 
+   <lb ed="#B" n="64"/>parte, &amp; postea reliquas: vtpote primo cor: posstea 
+   <lb ed="#B" n="65"/>reliquas partes secundum quod plus ad ipsum accedunt. nam 
+   <lb ed="#B" n="66"/>anima Christi realiter est potentia organica &amp; non
+   or<lb ed="#B" n="67" break="no"/>ganica, nec sequitur: haec anima est potentia non organica: 
+   <lb ed="#B" n="68"/>ergo non est potentia organica: quia non infinitabatur 
+   <lb ed="#B" n="69"/>totale praedicatum a negatione infinitante: &amp; propterea 
+   <lb ed="#B" n="70"/>non arguit per regulam secundi peri hermenias.
+  </p>
+      <p xml:id="jMqv4a-d1e292-d1e257">
+   ⁋
+   Ter<lb ed="#B" n="71" break="no"/>tia conclusio. anima Christi concurrit semper actiue 
+   <lb ed="#B" n="72"/>ad motum sui corporis dum mouetur in eucharistia. 
+   <lb ed="#B" n="73"/>probatur. semper est determinatio dei quod maneat cum eu 
+   <lb ed="#B" n="74"/>charistia: sed deus partialiter concurrit ad illum motum 
+   <lb ed="#B" n="75"/>sicut causa prima: &amp; voluntas creata Christi hoc 
+   <lb ed="#B" n="76"/>vult: &amp; se coformat voluntati diuinae: nec patet ratio 
+   <lb ed="#B" n="77"/>quare non debeat coagere. licet ei deus non egeat ope 
+   <lb ed="#B" n="78"/>causarum secundarum in causando: tamen non impedit eas 
+   <lb ed="#B" n="79"/>vt proprios motus agant: dans nobis exemplu mutuo 
+   <lb ed="#B" n="80"/>debere suffragari.
+  </p>
+      <p xml:id="jMqv4a-d1e292-d1e281">
+   ⁋ Quarta conclusio apud omnes. le 
+   <lb ed="#B" n="81"/>uans hostiam ab altari vel aliunde est causa sine qua 
+   <lb ed="#B" n="82"/>non mouetur corpus Christi. &amp; hoc extendendo
+   cau<lb ed="#B" n="83" break="no"/>sam sine qua non: vt causam proprie dictam includat. 
+   <lb ed="#B" n="84"/>patet. illa causa posita mouetur corpus Chisti. si enim 
+   <lb ed="#B" n="85"/>non poneretur quiesceret eucharistia. igitur.
+  </p>
+      <p xml:id="jMqv4a-d1e292-d1e294">
+   ⁋ Quinta 
+   <lb ed="#B" n="86"/>conclusio, corpus Christi mouetur in eucharistia proba 
+   <lb ed="#B" n="87"/>tur. praesbytero leuante corpus Christi ab altari ad ver 
+   <lb ed="#B" n="88"/>ticem capitis: corpus Christi incipit esse in loco vbi 
+   <lb ed="#B" n="89"/>rius non fuit: puta in aere super caput presbyteri: &amp; 
+   <lb ed="#B" n="90"/>licet esset idem aer qui erat super altare immediate:  
+   <lb ed="#B" n="91"/>tamen est alius locus per aequiualentiam: quia deserit 
+   <lb ed="#B" n="92"/>terminum a quo: ergo mouetur localiter. etiam
+   suc<lb ed="#B" n="93" break="no"/>cessiue ducitur ad caput presbyteri: alioquin
+   da<lb ed="#B" n="94" break="no"/>bis separationem inter corpus Christi &amp; eucharistiam. 
+   <lb ed="#B" n="95"/>Rationes cuiusdam contra hanc conclusionem
+   ap<lb ed="#B" n="96" break="no"/>parentiam nullam habent. Vna est. quando corpus 
+   <lb ed="#B" n="97"/>Christi incipit esse in eucharistia non mouetur: ergo  
+   <lb ed="#B" n="98"/>nec in eleuatione, consequentia est nulla: cum
+   il<lb ed="#B" n="99" break="no"/>lic non relinquatur terminus a quo: vt dicit. beatus 
+   <lb ed="#B" n="100"/>Augustini. Secundo arguit, non frangitur corpus 
+   <lb ed="#B" n="101"/>Christi fracta hostia: ergo nec mouetur mota
+   ho<lb ed="#B" n="102" break="no"/>tia, nego consequentia, consequens enim est osten 
+   <lb ed="#B" n="103"/>sum falsum: &amp; antecedens verum. sicut dicitur in prosa 
+   <lb ed="#B" n="104"/>huius corporis. Sumit vnus sumunt mille:
+   tan<lb ed="#B" n="105" break="no"/>tum iste quantum ille: nec sumptus consumitur. 
+   <!--0142.xml-->
+   <pb ed="#B" n="55-v"/>
+       <cb ed="#B" n="a"/>
+      </p>
+      <p xml:id="jMqv4a-d1e292-d1e346">
+       <lb ed="#B" n="1"/>⁋ Sexta conclusio, corpus Christi naturaliter
+   mo<lb ed="#B" n="2" break="no"/>uetur motibus contrariis probatur. hostia ascendit Edim 
+   <lb ed="#B" n="3"/>burgi. &amp; alia eodem tempore adaequato descendit
+   Hading<lb ed="#B" n="4" break="no"/>tonae: &amp; idem corpus Christi est in illis duabus hostiis 
+   <lb ed="#B" n="5"/>gitur. quod hoc sit naturaliter &amp; non miraculose, patet. 
+   <lb ed="#B" n="6"/>si sortes ponatur in duobus locis, in Niniue &amp; Babi 
+   <lb ed="#B" n="7"/>lonia Chaldaeorum: potest vtramque vrbem relinquanre sibi ob 
+   <lb ed="#B" n="8"/>uiando in medio: &amp; hoc naturaliter motu progressiuo 
+   <lb ed="#B" n="9"/>a motore intrinsecosc se. anima. sicut ignis de nouo creatu 
+   <lb ed="#B" n="10"/>&amp; miraculose, naturaliter calefacit: &amp; caecus miraculose 
+   <lb ed="#B" n="11"/>curatus naturaliter videt. Non valet dicere, per accidens 
+   <lb ed="#B" n="12"/>ad motum alterius: quia seclusa hostia &amp; corpore exi 
+   <lb ed="#B" n="13"/>stente in duobus locis, illud sequitur. Petis an
+   praesup<lb ed="#B" n="14" break="no"/>ponat miraculum. Dico quod nominia significant ad
+   placi<lb ed="#B" n="15" break="no"/>tum: in quid nominis miraculi solet addi insolitum: &amp; sic 
+   <lb ed="#B" n="16"/>non est miraculum.
+  </p>
+      <p xml:id="jMqv4a-d1e292-d1e383">
+   ⁋ Septima conclusio. dum hostia ro 
+   <lb ed="#B" n="17"/>tunda vel circularis gyratur super suo centro: corpus 
+   <lb ed="#B" n="18"/>Christi non mouetur. patet: quia manet semper in eodem 
+   <lb ed="#B" n="19"/>loco: &amp; quaelibet pars eius. igitur. Si hostia fuerit trigo  
+   <lb ed="#B" n="20"/>na: tetragona: petagona: heptagona: vel
+   qualiter<lb ed="#B" n="21" break="no"/>cumque polygona: in partibus remotis a centro signabi 
+   <lb ed="#B" n="22"/>li mouetur: &amp; non prope centrum.
+  </p>
+      <p xml:id="jMqv4a-d1e292-d1e400">
+   ⁋ Octaua conclusio,
+   in<lb ed="#B" n="23" break="no"/>terdum hostia mouetur: &amp; corpus Christi contentum in  
+   <lb ed="#B" n="24"/>hostia non mouetur. patet: si circulariter moueatur
+   ho<lb ed="#B" n="25" break="no"/>stia super suo centro: tunc corpus Christi non mouetur per 
+   <lb ed="#B" n="26"/>praecedentem conclusionem: &amp; tamen hostia mouetur, quod
+   pa<lb ed="#B" n="27" break="no"/>tet, quaelibet pars hostiae est in alio &amp; alio loco.
+   er<lb ed="#B" n="28" break="no"/>go mouetur: licet tota maneat in eodem loco: non ali 
+   <lb ed="#B" n="29"/>ter enim caelum solis mouetur: cum totum caelum sit semper 
+   <lb ed="#B" n="30"/>in sphaera Martis. Idem patet de mola fabri. Si 
+   <lb ed="#B" n="31"/>forte dicas: quaelibet pars hostiae est in alio &amp; alio 
+   <lb ed="#B" n="32"/>loco: ergo tota hostia. Praeterea si quaelibet pars 
+   <lb ed="#B" n="33"/>acquirit nouum locum: ergo omnes partes
+   acqui<lb ed="#B" n="34" break="no"/>runt nouum locum. item omnes partes sunt haec ho 
+   <lb ed="#B" n="35"/>stia. ergo hostia acquirit nouum locum. Item duae 
+   <lb ed="#B" n="36"/>primae partes proportionales acquirunt nouum 
+   <lb ed="#B" n="37"/>locum: tres primae, quatuor: quirque, &amp; sic de
+   qui<lb ed="#B" n="38" break="no"/>bu scumque finitis. ergo totum acquirit nouum locum 
+   <lb ed="#B" n="39"/>Amplius. signemus totam hostiam dempta parte di 
+   <lb ed="#B" n="40"/>gitali: vel minori / quae dicatur a. reliqua pars b. to 
+   <lb ed="#B" n="41"/>tum b acquirit alium &amp; alium locum. ergo totum.
+   alio<lb ed="#B" n="42" break="no"/>puin parua pars hoc impediet: cum semper a maiore 
+   <lb ed="#B" n="43"/>uebeat esse denominatio. &amp; separetur a. a b tuc habebitur 
+   <lb ed="#B" n="44"/>quod tota hostia mutabit locum. Ad primum nego
+   ar<lb ed="#B" n="45" break="no"/>gumentum. dato etiam quod hae partes acquirant nouum locum: &amp; 
+   <lb ed="#B" n="46"/>hae partes sint hostia: non sequitur quod hostia acquirat nouum 
+   <lb ed="#B" n="47"/>locum: sed solum hostia est acquirentia nouum locum vel 
+   <lb ed="#B" n="48"/>partes acquirentes nouum locum. alioquin maior 
+   <lb ed="#B" n="49"/>extremitas non praedicabitur in conclusione. &amp; sic 
+   <lb ed="#B" n="50"/>arguitur ex quatuor terminis, quod est contra artem 
+   <lb ed="#B" n="51"/>syllogisticam. Secundum argumentum est solutum 
+   <lb ed="#B" n="52"/>Ad tertium, non semper a maiore parte est denomina 
+   <lb ed="#B" n="53"/>tio, nec argumentum habet apparentiam de separatio 
+   <lb ed="#B" n="54"/>ne: quia pars erit totum.
+  </p>
+      <p xml:id="jMqv4a-d1e292-d1e472">
+   ⁋ Ex tota quaestione patet qui 
+   <lb ed="#B" n="55"/>corpus Christi mouetur motu locali proprie dicto 
+   <!--0142.xml-->
+   <cb ed="#B" n="b"/> 
+       <!-- 55-v b -->
+       <lb ed="#B" n="56"/>in eucharistia. patet: quia deserit terminum a quo: acqui 
+   <lb ed="#B" n="57"/>rit terminum ad quem: &amp; transit per medium. quod ad motum 
+   <lb ed="#B" n="58"/>localem proprie dictum sufficit. Secundo patet quod mo 
+   <lb ed="#B" n="59"/>uetur a sua anima &amp; sacerdote vel alio hosuam le 
+   <lb ed="#B" n="60"/>uante: &amp; per consequens a creatura. Tertio patet quod 
+   <lb ed="#B" n="61"/>interdum hostia mouetur: &amp; tamen corpus Christi nui 
+   <lb ed="#B" n="62"/>lo modo mouetur. patet quando eucharistia mouetur 
+   <lb ed="#B" n="63"/>super suo centro: corpore Christi manente semper in 
+   <lb ed="#B" n="64"/>eodem loco secundum se totum &amp; partes. 
+   <lb ed="#B" n="65"/>Vbitatur: vtrum corpus Chri 
+   <lb ed="#B" n="66"/>usti moueatur localiter quando incipit esse su b 
+   <lb ed="#B" n="67"/>eucharistia. Pro dubitationis solutione 
+   <lb ed="#B" n="68"/>respondetur. supponendo quod triplex est 
+   <lb ed="#B" n="69"/>motus. Quidam acquisitiuus tamtum: vt quando mo 
+   <lb ed="#B" n="70"/>bile acquirit nouum locum: priorem non
+   perden<lb ed="#B" n="71" break="no"/>do: vt quando limax se dilatat secundum vnam 
+   <lb ed="#B" n="72"/>partem: alia parte remanente in eodem loco.
+   Ali<lb ed="#B" n="73" break="no"/>quis est motus deperditiuus intum: vt quando limax 
+   <lb ed="#B" n="74"/>iterum restringitur &amp; retrahit se. Exemplum
+   pri<lb ed="#B" n="75" break="no"/>mi melius: est quando corpus Christi incipit esse 
+   <lb ed="#B" n="76"/>in hoc loco demonstrando sacramentum
+   euchari<lb ed="#B" n="77" break="no"/>stiae: &amp; non dimittit locum in quo prius erat.
+   Exen<lb ed="#B" n="78" break="no"/>plum secundi, quando corpus Christi de sinit esse 
+   <lb ed="#B" n="79"/>sub speciebus panis vel vini. Acquisitiuus &amp;
+   de<lb ed="#B" n="80" break="no"/>perditiuus simul: vt quando mobile dimittit vnam 
+   <lb ed="#B" n="81"/>partem loci in qua prius erat, &amp; acquirit nouam 
+   <lb ed="#B" n="82"/>partem.
+  </p>
+      <p xml:id="jMqv4a-d1e292-d1e542">
+   ⁋ Praeterea notandum est quod proprie
+   lo<lb ed="#B" n="83" break="no"/>quendo sicut philosophi loquuntur de motu, ad  
+   <lb ed="#B" n="84"/>hoc vt mobile moueatur localiter: oportet quod
+   re<lb ed="#B" n="85" break="no"/>linquat terminum a quo: &amp; transeat per medium: 
+   <lb ed="#B" n="86"/>secundum se vel partes suas. Hoc dico propter mo 
+   <lb ed="#B" n="87"/>tum circularem: quod hic non contingit. quia per 
+   <lb ed="#B" n="88"/>oppositum oporteret corpus Christi transire per 
+   <lb ed="#B" n="89"/>caelos: &amp; moueri ad varias differentias
+   positio<lb ed="#B" n="90" break="no"/>num: &amp; esse in continuo motu, mouendo per
+   sa<lb ed="#B" n="91" break="no"/>cerdotum consecrationem, quod non est dicendum. 
+   <lb ed="#B" n="92"/>vnde sicut quando aliquid producitur de nouo, 
+   <lb ed="#B" n="93"/>vel creatur: fit in loco in quo prius non erat: nec 
+   <lb ed="#B" n="94"/>transit per medium. ad Romanos. iiii. Deus
+   vo<lb ed="#B" n="95" break="no"/>cat quae non sunt: sicut ea quae sunt. sic potest
+   de<lb ed="#B" n="96" break="no"/>us me facere esse Romae non transeundo per
+   me<lb ed="#B" n="97" break="no"/>dium: me inquam Parisiis manente. Sic corpus 
+   <lb ed="#B" n="98"/>Christi in instanti terminante prolationem verbo 
+   <lb ed="#B" n="99"/>rum (hoc est corpus meum) incipit esse in hoc
+   sa<lb ed="#B" n="100" break="no"/>cramento eucharistiae: &amp; non transit per medium: 
+   <lb ed="#B" n="101"/>nec relinquit caelum. Non tamen implicat quod
+   relin<lb ed="#B" n="102" break="no"/>quat caelum si deus voluerit: &amp; non transeat per
+   me<lb ed="#B" n="103" break="no"/>dium. eodem modo potest ire per medium non relin 
+   <lb ed="#B" n="104"/>quendo terminum a quo. hoc modo poterat corpus 
+   <lb ed="#B" n="105"/>ancti Ambrosii esse Turonis no transeundo per 
+   <lb ed="#B" n="106"/>alpes inter Mediolanum &amp; Turonos. Alio modo 
+   <lb ed="#B" n="107"/>aliquid extenso termino dicitur moueri localiter: 
+   <lb ed="#B" n="108"/>&amp; hoc est quando est in vno loco in quo prius non 
+   <lb ed="#B" n="109"/>erat: &amp; tamen non mouetur localiter- 
+   <!--0143.xml-->
+   <pb ed="#B" n="56-r"/>
+       <cb ed="#B" n="a"/>
+      </p>
+      <p xml:id="jMqv4a-d1e292-d1e610">
+       <lb ed="#B" n="1"/>⁋ Ex his patet solutio dubiin quod licet 
+   <lb ed="#B" n="2"/>corpus Christi non moueatur proprie localiter: moue 
+   <lb ed="#B" n="3"/>tur tamen localiter laxato vocabulo.
+  </p>
+      <p xml:id="jMqv4a-d1e292-d1e619">
+   ⁋ Et si dicas 
+   <lb ed="#B" n="4"/>Greg. dialo. c. v. dicit, &amp; auctoritas est canonizata 
+   <lb ed="#B" n="5"/>de cosecra. dis. ii. Quid sit sanguis. Quis (inquit)
+   fi<lb ed="#B" n="6" break="no"/>delium habere dubium possit in ipa immolationis hora 
+   <lb ed="#B" n="7"/>ad sacerdotis vocem caelos aperiti: in illo Iesu Christi 
+   <lb ed="#B" n="8"/>mysterio angelorum choros adesse: summa &amp; ima 
+   <lb ed="#B" n="9"/>sociari? vnumque ex inuisibilibus atque visibilibus fieris 
+   <lb ed="#B" n="10"/>ergo videtur dicere quod caeli rumpuntur: &amp; corpus Chri 
+   <lb ed="#B" n="11"/>sti transit per medium.
+  </p>
+      <p xml:id="jMqv4a-d1e292-d1e639">
+   ⁋ Respondetur. illic est sermo 
+   <lb ed="#B" n="12"/>de apparitione spirituali: quid est in eucharistia. ac si ita fie 
+   <lb ed="#B" n="13"/>ret: quia vulgus aliter intelligere nequit. secundum illud 
+   <lb ed="#B" n="14"/>Psal. Vtina disrumperes caelos &amp; descenderes. &amp; ludi 
+   <lb ed="#B" n="15"/>cum. xvi. Dalila de Sansone dicit. Nunc aperuit mihi 
+   <lb ed="#B" n="16"/>cor suum. est enim vulgaris hominium loquendi modus. &amp; tamen 
+   <lb ed="#B" n="17"/>cor non diuiditur sed secreta eius aperiuntur. Sic secreta 
+   <lb ed="#B" n="18"/>caeli aperiuntur. Concludendo patet quod corpus Christi 
+   <lb ed="#B" n="19"/>no erat sub hac hostia: sed sub ea efficitur: &amp; nec caelum 
+   <lb ed="#B" n="20"/>nec alias hostias consecratas propterea derelinquit
+  </p>
+    </div>
+   </body>
+  </text>
+</TEI>

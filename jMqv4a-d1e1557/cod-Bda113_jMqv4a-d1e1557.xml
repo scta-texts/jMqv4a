@@ -1,0 +1,312 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 2</title>
+      <author ref="#JohnMair">John Mair</author>
+      <respStmt>
+       <name>Jeffrey C. Witt</name>
+       <resp>TEI Encoder</resp>
+      </respStmt>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 2</title>
+       <date when="2020-06-09">June 27, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="B" n="cod-Bda113">Badius 1516</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+     guidelines for a diplomatic edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-06-27" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+      <pb ed="#B" n="291-v"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="jMqv4a-d1e1557"> <!-- l4d38q2 -->
+      <head xml:id="jMqv4a-d1e1557-Hd1e104">Quaestio 2</head>
+      <head xml:id="jMqv4a-d1e1557-Hd1e107" type="question-title">An promissio obliget promittentem absque hoc quod 
+  promittens intendat se obligare ad servandum illud quod promissit</head>
+      <p xml:id="jMqv4a-d1e1557-d1e110">
+       <lb ed="#B" n="91"/>⁋ Distinctionis Trigesimae octauae 
+   <lb ed="#B" n="92"/>Quaestio Secunda. 
+   <lb ed="#B" n="93"/>Ecundo circa hanc vo 
+   <lb ed="#B" n="94"/>torum materiam quaeritur: An
+   pro<lb ed="#B" n="95" break="no"/>missio obliget promittentem 
+   <lb ed="#B" n="96"/>absque hoc quod promittens in 
+   <lb ed="#B" n="97"/>tendat se obligare ad
+   seruan<lb ed="#B" n="98" break="no"/>dum illud quod promisit.
+   In<lb ed="#B" n="99" break="no"/>tendimus quaerere de illo qui
+   pro<lb ed="#B" n="100" break="no"/>mittit se facturum a. sine intentione formali se
+   ob<lb ed="#B" n="101" break="no"/>ligandi, hoc est non cogitando de obligatione: an 
+   <lb ed="#B" n="102"/>dicatur obligatus sub poena peccati ad illud facien 
+   <lb ed="#B" n="103"/>dum: &amp; an hoc ad votum sufficiat. Et hincinde 
+   <lb ed="#B" n="104"/>est difficultas, quam Ricardus Middiltonus tenet 
+   <lb ed="#B" n="105"/>problematicam: sed mihi non placet.
+  </p>
+      <p xml:id="jMqv4a-d1e1557-d1e145">
+   ⁋ Propter 
+   <lb ed="#B" n="106"/>ea pro quaestione soluenda ponitur haec con- 
+   <!--0615.xml-->
+   <pb ed="#B" n="292-r"/>
+       <cb ed="#B" n="a"/>
+       <lb ed="#B" n="1"/>clusio. Homo tenetur nudum pactum licitum &amp; hone 
+   <lb ed="#B" n="2"/>stum seruare sub poena peccati. Nudum pactum 
+   <lb ed="#B" n="3"/>voco quod nec fide nec iureiurando est vallatum: sed 
+   <lb ed="#B" n="4"/>simplici pollicitatione. Probatur conclusio. Pacta 
+   <lb ed="#B" n="5"/>enim legitima quae neque dolo malo / neque aduersus 
+   <lb ed="#B" n="6"/>leges / neque quibus fraus alicui fiat, facta sunt /
+   ser<lb ed="#B" n="7" break="no"/>uabo: ait praetor. litur. de pactis. l. Iuris gentium. s. Ait 
+   <lb ed="#B" n="8"/>praetor. &amp; nollet praetor haec seruare nisi contraueniendo 
+   <lb ed="#B" n="9"/>esset turpe &amp; vitium. igitur. Insuper per dictum vulgare 
+   <lb ed="#B" n="10"/>Omne promissum licitum &amp; honestum ex ore fide 
+   <lb ed="#B" n="11"/>lis cadit in debitum. Vulgo quoque dicitur. Verba ligant 
+   <lb ed="#B" n="12"/>homines: taurorum cornua funes. Tertio, si homo 
+   <lb ed="#B" n="13"/>non teneretur seruare promissum: laberetur in extremum 
+   <lb ed="#B" n="14"/>veritatis, scilicet mendacium: quod <name xml:id="jMqv4a-d1e1557-Nd1e186" ref="#Aristotle">Aristoteles</name> quarto 
+   <lb ed="#B" n="15"/>Ethicorum vitium asserit. Praeterea non poterit
+   ali<lb ed="#B" n="16" break="no"/>ter constare de intentione hominum: si liceat sine pec 
+   <lb ed="#B" n="17"/>cato resilire ab honesto promisso ad nutum.
+  </p>
+      <p xml:id="jMqv4a-d1e1557-d1e197">
+   ⁋
+   Se<lb ed="#B" n="18" break="no"/>cunda conclusio. aliqua potest esse transgressio nu 
+   <lb ed="#B" n="19"/>di promissi, quam homo praeteriens / mortaliter pec 
+   <lb ed="#B" n="20"/>cat. Probatur conclusio, nemo est excommunican 
+   <lb ed="#B" n="21"/>dus nisi pro mortali. xi. q. iii. cap. Nemo episcopo 
+   <lb ed="#B" n="22"/>rum. sed pro transgressione nudi pacti aliquis pon 
+   <lb ed="#B" n="23"/>excommunicari. capitu. Antigonus. de pactis. 
+   <lb ed="#B" n="24"/>vbi dicitur. Aut inita pacta suam obtineant
+   firmi<lb ed="#B" n="25" break="no"/>tatem: aut conuentus si se non cohibuerit ecclesia 
+   <lb ed="#B" n="26"/>sticam sentiat disciplinam. Praeterea arguitur ad idem. 
+   <lb ed="#B" n="27"/>Aliqua potest esse promissio boni notabilis: a qua 
+   <lb ed="#B" n="28"/>si quis sine causa labatur, mortaliter peccabit. Nam 
+   <lb ed="#B" n="29"/>praeterire promissum sine rationabili causa est pec 
+   <lb ed="#B" n="30"/>catum: in re modica veniale: in magna mortale. si 
+   <lb ed="#B" n="31"/>cut in furto magno &amp; paruo. si enim homo
+   inten<lb ed="#B" n="32" break="no"/>dat non seruare promissum: sed fallere promittendo 
+   <lb ed="#B" n="33"/>peccat. sed non tenetur seruare promissum: sicut in  
+   <lb ed="#B" n="34"/>voto vel iuramento: nisi alter aliquam iacturam
+   ra<lb ed="#B" n="35" break="no"/>tione illius promissionis incurrat: puta quia confi 
+   <lb ed="#B" n="36"/>debat in te promittente: nec prouidit sibi de libris, 
+   <lb ed="#B" n="37"/>lignis, equo, vel huiuscemodi: vnde patitur
+   iacturan<lb ed="#B" n="38" break="no"/>quare teneris ei succurrere: cum ei occasionem damni 
+   <lb ed="#B" n="39"/>dederis.
+  </p>
+      <p xml:id="jMqv4a-d1e1557-d1e247">
+   ⁋ Insuper arguitur ad vtramque conclusio 
+   <lb ed="#B" n="40"/>nem simul, probando quod transgressio promissi sit 
+   <lb ed="#B" n="41"/>peccatum, non curando de mortali vel veniali.
+   suf<lb ed="#B" n="42" break="no"/>ficit enim quod sit peccatum in genere. patet hoc. xii. 
+   <lb ed="#B" n="43"/>q. ii. cap. Quicumque suffragio. &amp; quaest. v. cap. Quia 
+   <lb ed="#B" n="44"/>Ioannes. &amp; expressius ex loanne Chrysostomo, vt 
+   <lb ed="#B" n="45"/>citatur. xxii. qui. v. ca. luramenti. vbi sic habetur. Et ideo 
+   <lb ed="#B" n="46"/>dominus inter iuramentum &amp; loquelam nostram 
+   <lb ed="#B" n="47"/>nullam vult esse distantiam. quia sicut in iuramen 
+   <lb ed="#B" n="48"/>to nullam conuenit esse perfidiam: ita quoque in ver 
+   <lb ed="#B" n="49"/>bis nostris nullum debet esse mendacium. Sed di 
+   <lb ed="#B" n="50"/>cis. illud non concludit. quia illic loquitur de men 
+   <lb ed="#B" n="51"/>dacio &amp; periurio. &amp; notum est vtrumque illorum es 
+   <lb ed="#B" n="52"/>se peccatum. modo promittens aliquid de futuro, 
+   <lb ed="#B" n="53"/>intendens facere quod promittit: non facit menda 
+   <lb ed="#B" n="54"/>cium. Ex his nudum pactum siue nudam
+   promis<lb ed="#B" n="55" break="no"/>sionem reor esse obligatoriam sub poena peccati 
+   <!--0615.xml-->
+   <cb ed="#B" n="b"/> 
+       <!-- 292-r b -->
+       <lb ed="#B" n="56"/>mortalis vel venialis, nisi rationabilis causa non in 
+   <lb ed="#B" n="57"/>plendi promissi occurrat. Prudentis autem est mu 
+   <lb ed="#B" n="58"/>tare consilium in causa rationabili. vt prolixe
+   de<lb ed="#B" n="59" break="no"/>clarat Ioannes Cassianus in collatione abbatis 
+   <lb ed="#B" n="60"/>loseph. 
+  </p>
+      <p xml:id="jMqv4a-d1e1557-d1e302">
+       <lb ed="#B" n="61"/>⁋ Contra hanc conclusionem argu 
+   <lb ed="#B" n="62"/>mentor. promittens se professurum religionem: &amp; 
+   <lb ed="#B" n="63"/>non intendens se ad hoc obligare, non vouet. igi 
+   <lb ed="#B" n="64"/>tur conclusio falsa. assumptum ostenditur per
+   ca<lb ed="#B" n="65" break="no"/>pi. Literaturam. de voto. vbi est casus de
+   perter<lb ed="#B" n="66" break="no"/>rito mortis pauore / proponente animo quod aliquam 
+   <lb ed="#B" n="67"/>do religionis habitum esset suscepturus. illic pon 
+   <lb ed="#B" n="68"/>tifex conclusit quod si non sit amplius processum in 
+   <lb ed="#B" n="69"/>voto non tenebatur profiteri religionem. Vbi
+   di<lb ed="#B" n="70" break="no"/>cit glos. in verbo (proponens in animo) Non ta 
+   <lb ed="#B" n="71"/>men animo obligandi: nec firmiter hoc
+   proponen<lb ed="#B" n="72" break="no"/>do seu eligendo. &amp; nemo se obligat nisi qui
+   ani<lb ed="#B" n="73" break="no"/>mum habet obligandi.
+  </p>
+      <p xml:id="jMqv4a-d1e1557-d1e333">
+   ⁋ Respondetur neglecta 
+   <lb ed="#B" n="74"/>glossa &amp; canonistis, quia ca. aliquid ex artibus praesuper 
+   <lb ed="#B" n="75"/>ponit ad hoc vt explicetur: dicam quam facillime pos 
+   <lb ed="#B" n="76"/>sim. Ex textu Literaturam. nihil aliud
+   concludi<lb ed="#B" n="77" break="no"/>tur nisi quod ille timore perculsus dicebat, non diu 
+   <lb ed="#B" n="78"/>hic morabor. proponens in animo quod aliquando  
+   <lb ed="#B" n="79"/>religionis habitum esset suscepturus. quae verba 
+   <lb ed="#B" n="80"/>expositione indigent. Propterea sic dico. cum vo 
+   <lb ed="#B" n="81"/>tum sit actus voluntatis: &amp; voluntas non feratur 
+   <lb ed="#B" n="82"/>in incognitum: praesupponit vnum actum
+   intel<lb ed="#B" n="83" break="no"/>lectus vel plures. hoc est, tam notitias apprehensi 
+   <lb ed="#B" n="84"/>uas quam iudicatiuas, &amp; discursum. syllogisat nanque 
+   <lb ed="#B" n="85"/>prudens antequam votum emittat: pericula mundi &amp; 
+   <lb ed="#B" n="86"/>eius instabilitatem apprehendit: &amp; ita iudicat. quan 
+   <lb ed="#B" n="87"/>obrem proponit deo seruire: &amp; putat se posse
+   me<lb ed="#B" n="88" break="no"/>lius hoc facere in religione quam extra religionem. 
+   <lb ed="#B" n="89"/>tunc cogitat de religione: &amp; iudicat sibi vtilius fo 
+   <lb ed="#B" n="90"/>re profiteri religionem quam manere in saeculo: sed  
+   <lb ed="#B" n="91"/>adhuc non vouet: quia nullum actum voluntatis 
+   <lb ed="#B" n="92"/>habet: &amp; voluntas est libera tam contrarie quam
+   con<lb ed="#B" n="93" break="no"/>tradictorie, stante quocumque intellectus iudicio: nul 
+   <lb ed="#B" n="94"/>lum enim imperium in intellectu cum aliis pono. 
+   <lb ed="#B" n="95"/>Secundo vbi voluntas habet suum actum,
+   scili<lb ed="#B" n="96" break="no"/>cet proponit profiteri religionem: hoc est, habet ho 
+   <lb ed="#B" n="97"/>mo intentionem profitendi religionem: vult
+   ta<lb ed="#B" n="98" break="no"/>men seruare se liberum ab obligatione, &amp; tenere se 
+   <lb ed="#B" n="99"/>non obligatum adhuc quousque amplius excogit 
+   <lb ed="#B" n="100"/>tet: adhuc nullo modo votum emittit. &amp; illud est 
+   <lb ed="#B" n="101"/>proponere de quo est sermo in capitu.
+   Literatu<lb ed="#B" n="102" break="no"/>ram. pro cuius intelligentia haec dicimus.
+   Decla<lb ed="#B" n="103" break="no"/>rto quod illud proponere non obligat proponentem. 
+   <lb ed="#B" n="104"/>Nonne vides quod homo proponit surgere tota 
+   <lb ed="#B" n="105"/>aestate hora quarta vel tertia: &amp; aliis dicit se
+   in<lb ed="#B" n="106" break="no"/>tendere hoc facere: quo non obstante si non
+   sur<lb ed="#B" n="107" break="no"/>gat hora quarta, quando etiam bene potest: ne 
+   <lb ed="#B" n="108"/>mo iudicat eum male agere? Breuiter( proponere)  
+   <lb ed="#B" n="109"/>nescio melius explicare quam sic. homo intendit 
+   <!--0616.xml-->
+   <pb ed="#B" n="292-v"/>
+       <cb ed="#B" n="a"/>
+       <lb ed="#B" n="1"/>aliquid facere, vel habet velle aliquid faciendi: sed in 
+   <lb ed="#B" n="2"/>tendit explicite vel implicite se ad hoc non obliga 
+   <lb ed="#B" n="3"/>re. hoc est, vult tenere libertatem obligationis
+   pe<lb ed="#B" n="4" break="no"/>nes se: cum hoc sit in facultate sua. Huic ergo proposi 
+   <lb ed="#B" n="5"/>to homo contrauenit sine peccato. &amp; iste est casus
+   ca<lb ed="#B" n="6" break="no"/>pituli Literaturam. Canonistae autem secundum hoc de 
+   <lb ed="#B" n="7"/>bent explicare seu, vt dicunt / figurare suum casum: 
+   <lb ed="#B" n="8"/>&amp; sic totum in recitatione elucidabunt. Tertio, homo in  
+   <lb ed="#B" n="9"/>endit se ad hoc obligare formaliter vel effectuali 
+   <lb ed="#B" n="10"/>ter: siue verba exprimat siue non. &amp; hoc est vouere. 
+   <lb ed="#B" n="11"/>&amp; si nullum signum exterius super hoc faciat, est pro 
+   <lb ed="#B" n="12"/>missio interior deo nota: &amp; homo obligatur suum votum in 
+   <lb ed="#B" n="13"/>plere: nisi voluntas imperet aliquod signum exteri 
+   <lb ed="#B" n="14"/>vt vocem, scriptum, vel nutum, quod signum sensibile est 
+   <lb ed="#B" n="15"/>nota promissionis interioris: vel promissio exterior, 
+   <lb ed="#B" n="16"/>non refert. Declaro illd quod dixi (formaliter vel ef 
+   <lb ed="#B" n="17"/>fectualiter) quia expressione vlteriore eget.
+   Forma<lb ed="#B" n="18" break="no"/>liter / quando homo intendit actualiter se ad hoc obli 
+   <lb ed="#B" n="19"/>gare, vel actu vouet. Virtualiter autem vel
+   effectuali<lb ed="#B" n="20" break="no"/>ter, quando homo taliter iudicat, &amp; vult promittere 
+   <lb ed="#B" n="21"/>sicut alii qui ad vota se obligant. vt diximus de 
+   <lb ed="#B" n="22"/>matrimonii contractu.
+  </p>
+      <p xml:id="jMqv4a-d1e1557-d1e468">
+   ⁋ Ecce votum ad quod per 
+   <lb ed="#B" n="23"/>duos vel tres gradus fit consensus. primo per ap 
+   <lb ed="#B" n="24"/>prehensiones &amp; iudicia intellectus / quod bonum sit
+   reli<lb ed="#B" n="25" break="no"/>gionem profiteri: ita vt omnes operationes
+   intel<lb ed="#B" n="26" break="no"/>lectus vnum gradum faciant. propositum voti 
+   <lb ed="#B" n="27"/>est secundus gradus: &amp; deliberata promissio est votum 
+   <lb ed="#B" n="28"/>psum. potest enim esse actus indeliberatus circa 
+   <lb ed="#B" n="29"/>materiam voti. 
+   <lb ed="#B" n="30"/>Vbitatur. An vouens profiteri 
+   <lb ed="#B" n="31"/>religionem debeat statim suum votum 
+   <lb ed="#B" n="32"/>adimplere: &amp; non super hoc mature de 
+   <lb ed="#B" n="33"/>liberare.
+  </p>
+      <p xml:id="jMqv4a-d1e1557-d1e494">
+   ⁋ Secundo dubitatur: an vouens assume 
+   <lb ed="#B" n="34"/>re religionem, statim exiens satisfaciat suo voto. 
+   <lb ed="#B" n="35"/>Respondetur ad Primum. vel homo idoneus religio 
+   <lb ed="#B" n="36"/>ni promittit in certo tempore profiteri religionem 
+   <lb ed="#B" n="37"/>&amp; tunc debet adimplere ante finem temporis prae 
+   <lb ed="#B" n="38"/>fixi. si enim tempus illud labatur sua negligentia / 
+   <lb ed="#B" n="39"/>peccat: quia non debet tardare reddere domino deo 
+   <lb ed="#B" n="40"/>promissa. Vel non ponit terminum sed moratur i 
+   <lb ed="#B" n="41"/>saeculo, vt magis postea in religione vel in vinea 
+   <lb ed="#B" n="42"/>domini proficiat: quia fortasse non potest in
+   reli<lb ed="#B" n="43" break="no"/>gione bonas artes addiscere, intendens cum religio 
+   <lb ed="#B" n="44"/>sus erit alios docere: &amp; vt prosit: dummodo mane 
+   <lb ed="#B" n="45"/>at cum statu salutis extra religionem, non peccat 
+   <lb ed="#B" n="46"/>Et licet peccet votum differendo quousque in
+   ido<lb ed="#B" n="47" break="no"/>neus religioni reddatur / peccando per omissionem 
+   <lb ed="#B" n="48"/>sufficit ei poenitere quod suum votum distulerit: sed 
+   <lb ed="#B" n="49"/>tunc non obligatur: quia si haec conditio quae nunc 
+   <lb ed="#B" n="50"/>est praesens, affuisset ab initio quando vouebat: nem 
+   <lb ed="#B" n="51"/>fuisset proprie votum. Quia autem aliquis successu 
+   <lb ed="#B" n="52"/>temporis reddatur inidoneus religioni qui in
+   iuuen<lb ed="#B" n="53" break="no"/>ta erat idoneus: ostendo sic. contingit quod in morbum 
+   <lb ed="#B" n="54"/>chronicum incidat: in debilitatem stomachi: verti 
+   <!--0616.xml-->
+   <cb ed="#B" n="b"/> 
+       <!-- 292-v b -->
+       <lb ed="#B" n="55"/>ginem, vel senium. &amp; tunc erit religioni in
+   grauamen<lb ed="#B" n="56" break="no"/>uon potens cum aliis ieiunare / surgere ucctu: &amp; si 
+   <lb ed="#B" n="57"/>milia agere. &amp; per consequens erit occasio caeteris 
+   <lb ed="#B" n="58"/>non seruandi rigoris monastici: &amp; vita eius
+   nota<lb ed="#B" n="59" break="no"/>pilissime praeripietur seu breuiabitur. in saeculari
+   au<lb ed="#B" n="60" break="no"/>tem vita bene viuent, quare tali sufficit habere dispen 
+   <lb ed="#B" n="61"/>sationem sui voti. Non est idem immo longe dif 
+   <lb ed="#B" n="62"/>fert / si fuisset religiosus. talem nanque oportet in coe 
+   <lb ed="#B" n="63"/>nobio permanere, &amp; facere quod possit. ac ei
+   con<lb ed="#B" n="64" break="no"/>descendetur in ieiunio, matutinis nocturnis, &amp;
+   si<lb ed="#B" n="65" break="no"/>milibus. mala enim induceretur sequela &amp; religio 
+   <lb ed="#B" n="66"/>nis eneruatio: si permitteretur egredi. nam tantum 
+   <lb ed="#B" n="67"/>humanitatis ei impendetur in religione quantum 
+   <lb ed="#B" n="68"/>extra eam. &amp; cum actualiter sit mortuu sciuiliter: 
+   <lb ed="#B" n="69"/>nontredibit amplius ad saeculum. Etiam ingrediens 
+   <lb ed="#B" n="70"/>coenobium in iuuentute acquirit habitum rigide 
+   <lb ed="#B" n="71"/>&amp; strenue viuendi in religione: ita vt nunquam futurus 
+   <lb ed="#B" n="72"/>sit tam inidoneus quin regulam seruare poterit: non 
+   <lb ed="#B" n="73"/>autem senex ingrediens. sicut arbor tenera etiam 
+   <lb ed="#B" n="74"/>curua suapte natura / potest sic flecti vt erecta sem 
+   <lb ed="#B" n="75"/>per maneat: non autem iam indurata. sic est in
+   pro<lb ed="#B" n="76" break="no"/>posito.
+  </p>
+      <p xml:id="jMqv4a-d1e1557-d1e597">
+   ⁋ Ad secundam dubitationem responde 
+   <lb ed="#B" n="77"/>tur quod talis coenobium ingrediens potest multifa 
+   <lb ed="#B" n="78"/>tiam se habere. vel vouet ingredi vt exeat: &amp; haec 
+   <lb ed="#B" n="79"/>est illicita materia voti. vel vouet ingredi, de egres 
+   <lb ed="#B" n="80"/>su nihil cogitando: vel si cogitet, nullum actum vo 
+   <lb ed="#B" n="81"/>luntatis super egressu habet: &amp; sic tenetur ingredi. 
+   <lb ed="#B" n="82"/>sed si religionem suis humeris imparem inueniat, 
+   <lb ed="#B" n="83"/>potest exire: nec erit vllo modo apostata vel pec 
+   <lb ed="#B" n="84"/>cator: quia secundum legem communem datur
+   vni<lb ed="#B" n="85" break="no"/>cuique tempus probationis vt experiatur an velit 
+   <lb ed="#B" n="86"/>in religione persistere, nisi accideret casus quo esset 
+   <lb ed="#B" n="87"/>aliis occasio scandali in bona religione. Vel est in  
+   <lb ed="#B" n="88"/>tentio eius manere perpetuo in religione: vel dun 
+   <lb ed="#B" n="89"/>taxat ad tempus pro sumenda probatione. &amp; faci 
+   <lb ed="#B" n="90"/>le est consequenter dicere.- 
+  </p>
+    </div>
+   </body>
+  </text>
+</TEI>

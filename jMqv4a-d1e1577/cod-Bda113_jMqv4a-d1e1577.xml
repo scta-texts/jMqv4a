@@ -1,0 +1,380 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 5</title>
+      <author ref="#JohnMair">John Mair</author>
+      <respStmt>
+       <name>Jeffrey C. Witt</name>
+       <resp>TEI Encoder</resp>
+      </respStmt>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 5</title>
+       <date when="2020-06-09">June 27, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="B" n="cod-Bda113">Badius 1516</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+     guidelines for a diplomatic edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-06-27" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+      <pb ed="#B" n="295-v"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="jMqv4a-d1e1577"> <!-- l4d38q5 -->
+      <head xml:id="jMqv4a-d1e1577-Hd1e104">Quaestio 5</head>
+      <head xml:id="jMqv4a-d1e1577-Hd1e107" type="question-title">An status religionis sit vitae saeculari quo ad 
+  meritum, et ex consequente quo ad praemium praeferendus</head>
+      <p xml:id="jMqv4a-d1e1577-d1e110">
+       <lb ed="#B" n="10"/>⁋ Distinctionis Trigesimaeoctauae 
+   <lb ed="#B" n="11"/>Quaestio Quinta. 
+   <lb ed="#B" n="12"/>Liqua inam de voto 
+   <lb ed="#B" n="13"/>in generali tetigimus, &amp;
+   obi<lb ed="#B" n="14" break="no"/>ter aliqua de religiosis.
+   dein<lb ed="#B" n="15" break="no"/>ceps tria inuestigabo. &amp;
+   pri<lb ed="#B" n="16" break="no"/>mo, An status religionis sit 
+   <lb ed="#B" n="17"/>vitae saeculari quo ad meritum 
+   <lb ed="#B" n="18"/>uaml&amp; ex consequente quo ad prae 
+   <lb ed="#B" n="19"/>imium praeferendus. In primis
+   vi<lb ed="#B" n="20" break="no"/>deamus quid sit religio: &amp; status saecularis: ne
+   vi<lb ed="#B" n="21" break="no"/>deamur vmbratice in aequiuoco laborare.
+   Termi<lb ed="#B" n="22" break="no"/>nus religio interdum pro metu capitur. vt apud
+   Vir<lb ed="#B" n="23" break="no"/>gilium. lam tum relligio pauidos terrebat agrestes 
+   <lb ed="#B" n="24"/>Dira loci. vbi Seruius. Religio, inqut. i. metus ve 
+   <lb ed="#B" n="25"/>sollicitudo, ab eo quod mentem religet. inde dies
+   reli<lb ed="#B" n="26" break="no"/>giosi infames vel infausti dicti sunt. Aliquando  
+   <lb ed="#B" n="27"/>sumitur pro superstitione. quo modo religiosus dicitur 
+   <lb ed="#B" n="28"/>qui nimia &amp; superstitiosa religione se alligat. Teren 
+   <lb ed="#B" n="29"/>tius. Vt stultae &amp; miserae omnes sumus religiosae. 
+   <lb ed="#B" n="30"/>Alio autem modo religiosum vocatur illud quod ob 
+   <lb ed="#B" n="31"/>sanctitatem aliquam remotum ac sepositum est a nobis, a 
+   <lb ed="#B" n="32"/>relinquendo dictum. vnde Virgilius in. viii. Est
+   in<lb ed="#B" n="33" break="no"/>gens gelidum lucus prope Ceretis amnem
+   Relligio<lb ed="#B" n="34" break="no"/>ne patrum late sacer: vndique colles Inclusere caui 
+   <lb ed="#B" n="35"/>&amp; nigra nemus abiete cingunt. Lactantius lib. iiii. 
+   <lb ed="#B" n="36"/>religionem a religando dictam asserit. <name xml:id="jMqv4a-d1e1577-Nd1e170" ref="#Augustine">Augustinus</name> 
+       <lb ed="#B" n="37"/>vero lib. x. de ciuitate dei a reeligendo religionem 
+   <lb ed="#B" n="38"/>deducit. Prima acceptio est nobis aliena cum secun 
+   <lb ed="#B" n="39"/>da: sed tertia peculiaris.
+  </p>
+      <p xml:id="jMqv4a-d1e1577-d1e181">
+   ⁋ ltaque tertio modo capien 
+   <lb ed="#B" n="40"/>do religionem vel religiosum a religando, trifariam 
+   <lb ed="#B" n="41"/>accipitur. Vno modo latissime vt omnem
+   christia<lb ed="#B" n="42" break="no"/>num includat. &amp; vocatur christiana religio apud 
+   <lb ed="#B" n="43"/>loquentes. vt in cap. Pro humani. de homi. lib. vi. si 
+   <lb ed="#B" n="44"/>cut in lege Mosaica de comedendo agno paschali 
+   <lb ed="#B" n="45"/>dicitur Exodi. xii. Haec est religio phase. &amp; Numer 
+   <lb ed="#B" n="46"/>xix. Haec est religio victimae quam statuit dominus.
+  </p>
+      <p xml:id="jMqv4a-d1e1577-d1e200">
+   ⁋ Se 
+   <lb ed="#B" n="47"/>cundo modo capitur religio pro eis qui realiter honeste 
+   <lb ed="#B" n="48"/>viuunt, siue sint saeculares / siue clerici / siue quicumque 
+   <lb ed="#B" n="49"/>alii. &amp; sic apostolis vocabat se pharisaeum secundum certissi 
+   <lb ed="#B" n="50"/>mam sectam religionis Hebraeorum. Actuum. xxvi. &amp;
+   la<lb ed="#B" n="51" break="no"/>cobi. i. scribitur. Religio munda &amp; immaculata apud 
+   <lb ed="#B" n="52"/>deum &amp; patrem, haec est: visitare pupillos &amp; viduas 
+   <!--0622.xml-->
+   <cb ed="#B" n="b"/> 
+       <!-- 295-v b -->
+       <lb ed="#B" n="53"/>&amp;c. Et Actuum. ii. Frant autem inHierusalem habitam 
+   <lb ed="#B" n="54"/>tes ludaei / viri religiosi / ex omni natione quae sub 
+   <lb ed="#B" n="55"/>caelo est. qui tamen omnes erant saeculares. &amp; sic 
+   <lb ed="#B" n="56"/>vocamus sanctum Ludouicum Regem: &amp;
+   magi<lb ed="#B" n="57" break="no"/>strum nostrum Standoncle Mechlinianum,
+   religio<lb ed="#B" n="58" break="no"/>sissimos viros.
+  </p>
+      <p xml:id="jMqv4a-d1e1577-d1e235">
+   ⁋ Tertio modo capitur religiosus 
+   <lb ed="#B" n="59"/>pro illo qui aliquam e religionibus approbatis ab
+   ec<lb ed="#B" n="60" break="no"/>clesia profitetur: &amp; vestes a saecularibus distinctas 
+   <lb ed="#B" n="61"/>habet. Ex quo patet quod religio secundo modo est 
+   <lb ed="#B" n="62"/>optima inter has acceptiones: quia in se bonitatem 
+   <lb ed="#B" n="63"/>includit: &amp; malitiam excludit. Tertio autem modo di 
+   <lb ed="#B" n="64"/>cta religio bonitatem &amp; malitiam non recusat. Saecula 
+   <lb ed="#B" n="65"/>rem tot modis oppositis possumus accipere per re 
+   <lb ed="#B" n="66"/>gulam topicam. Quot modis dicitur vnum
+   opposi<lb ed="#B" n="67" break="no"/>torum: tot modis dicitur &amp; reliquum. sed capimus op 
+   <lb ed="#B" n="68"/>posito modo ad tertiam acceptionem: ita vt quemlibet 
+   <lb ed="#B" n="69"/>non religiosum religione vulgari saecularem
+   appelle<lb ed="#B" n="70" break="no"/>mus. Videmus enim aliquos immo plurimos
+   reli<lb ed="#B" n="71" break="no"/>giosos suarum professionum praeuaricatores: qui
+   putan<lb ed="#B" n="72" break="no"/>tur a sapientibus esse in periculosissima sorte
+   vi<lb ed="#B" n="73" break="no"/>uendi: nec putantur consequi salutem viuendo vt 
+   <lb ed="#B" n="74"/>viuunt. alii autem bene viuunt. 
+  </p>
+      <p xml:id="jMqv4a-d1e1577-d1e272">
+       <lb ed="#B" n="75"/>⁋ His praemissis pono conclusiones 
+   <lb ed="#B" n="76"/>sequentes: quarum Prima est. Status religionis siue 
+   <lb ed="#B" n="77"/>conuentus religiosorum in quo fratres religiose
+   vi<lb ed="#B" n="78" break="no"/>uunt / est securior ad merendum &amp; peccata
+   vitan<lb ed="#B" n="79" break="no"/>da: quam status saecularis &amp; mundanus. Probatur
+   con<lb ed="#B" n="80" break="no"/>clusio. Nam in saeculo plurimum in auaritia
+   pecca<lb ed="#B" n="81" break="no"/>tur / vendendo / emendo / &amp; in multis aliis contracti 
+   <lb ed="#B" n="82"/>bus: &amp; crebro non est alieni restitutio. ergo ille status 
+   <lb ed="#B" n="83"/>in quo homines se talibus accommodant est per 
+   <lb ed="#B" n="84"/>iculosus. peccatur item in luxu &amp; in superbia
+   vi<lb ed="#B" n="85" break="no"/>tae, secundum illud primae Ioannis. ii. Omne quod 
+   <lb ed="#B" n="86"/>est in mundo: est concupiscentia carnis, &amp; concupi 
+   <lb ed="#B" n="87"/>scentia oculorum, &amp; superbia vitae. Qua de re
+   Bapti<lb ed="#B" n="88" break="no"/>sta in vita Ludouici Morbioli ita cecinit.
+   Ambi<lb ed="#B" n="89" break="no"/>tiosus honos: &amp; opes: &amp; foeda voluptas Haec tria 
+   <lb ed="#B" n="90"/>pro trino numine mundus habet. Hae sunt
+   praecipi<lb ed="#B" n="91" break="no"/>tes furiae quibus vritur ardens Orcus: &amp; in terram
+   se<lb ed="#B" n="92" break="no"/>minat omne scelus. Ab his autem tribus in bona religio 
+   <lb ed="#B" n="93"/>ne cauetur: &amp; contra ea vouentur tria contraria: cum 
+   <lb ed="#B" n="94"/>contraria contrariis curentur. Contra superbiam: 
+   <lb ed="#B" n="95"/>propriae voluntatis in manus alterius renunciatio. 
+   <lb ed="#B" n="96"/>Contra concupiscentiam oculorum, hoc est auaritiam: 
+   <lb ed="#B" n="97"/>paupertas. Contra carnis concupiscentiam vouetur 
+   <lb ed="#B" n="98"/>castitas.
+  </p>
+      <p xml:id="jMqv4a-d1e1577-d1e327">
+   ⁋ His suppositis arguitur sic. Datis duc 
+   <lb ed="#B" n="99"/>bus statibus vel viis / de caeteris non curemus: status 
+   <lb ed="#B" n="100"/>ille est securior &amp; melior qui relinquit omnia illa 
+   <lb ed="#B" n="101"/>penitus in quibus passim peccatur: quam status ille 
+   <lb ed="#B" n="102"/>qui haec non relinquit: sed permittit: sed sic est de 
+   <lb ed="#B" n="103"/>statu religionis respectu status saecularis: vt ad 
+   <lb ed="#B" n="104"/>oculum videmus. igitur. Insuper si status religio 
+   <lb ed="#B" n="105"/>nis non esset melior statu saeculari: imprudentes 
+   <lb ed="#B" n="106"/>essent viri deserentes saeculum &amp; manentes in reli- 
+   <!--0623.xml-->
+   <pb ed="#B" n="296-r"/>
+       <cb ed="#B" n="a"/>
+       <lb ed="#B" n="1"/>gione. hoc autem ab omnibus habetur falsum. &amp; consequen 
+   <lb ed="#B" n="2"/>tia patet: quia non deberent homines sic mundum deserere 
+   <lb ed="#B" n="3"/>&amp; ad religionem volare si status saecularis esse
+   potior<lb ed="#B" n="4" break="no"/>Tertio oculatissimi patres has religionum cisternas 
+   <lb ed="#B" n="5"/>foderunt vt homines prudenter &amp; caute ad patriam du 
+   <lb ed="#B" n="6"/>cerent. ergo status religionis statu saeculi est perfectior. 
+   <lb ed="#B" n="7"/>Quarto arguitur sic. beneficiatos saeculares in simo 
+   <lb ed="#B" n="8"/>nia: beneficiorum pluralitate: prodiga fructuum ecclesia 
+   <lb ed="#B" n="9"/>sticorum dissipatione: &amp; male suis officiis incumbendo 
+   <lb ed="#B" n="10"/>peccare videmus. milites / mercatores / agricolas / &amp; 
+   <lb ed="#B" n="11"/>omnis sortis homines videmus pro terris aut possessioni 
+   <lb ed="#B" n="12"/>bus litigantes / fraudulenter crebro &amp; non fraternali 
+   <lb ed="#B" n="13"/>ter: incidentes in adulteria: nam luxus plurimi sunt 
+   <lb ed="#B" n="14"/>cogniti. &amp; ab his omnibus in bona religione cauetur. 
+   <lb ed="#B" n="15"/>Praeterea dicit Petrus Blesensis. Si paradisus est in  
+   <lb ed="#B" n="16"/>terris, est in religione aut in studio. in religione vtrumque 
+   <lb ed="#B" n="17"/>habebis. cui enim plus ocii datur studendi quam religio 
+   <lb ed="#B" n="18"/>so a tumultu saeculi segregato? Literas autem Maro 
+   <lb ed="#B" n="19"/>in primis elegit cum in secundo Georgicorum inquit. 
+   <lb ed="#B" n="20"/>Me vero primum dulces ante omnia musae, Quarum
+   sa<lb ed="#B" n="21" break="no"/>cra fero ingenti perculsus amore, Accipiant. Religio 
+   <lb ed="#B" n="22"/>sus itaque sacrae scripturae intendit quae eum mores &amp; sa 
+   <lb ed="#B" n="23"/>pientiam docet. dicit namque Apostolus ad Romanos 
+   <lb ed="#B" n="24"/>xv. Quaecumque scripta sunt / ad nostram doctrinam
+   scri<lb ed="#B" n="25" break="no"/>pta sunt: vt per patientiam &amp; consolationem scripturarum 
+   <lb ed="#B" n="26"/>spem habeamus. Et Esaiae. xlviii. Ego dominus deus 
+   <lb ed="#B" n="27"/>tuus docens te vtilia. &amp; ad Hebraeos. iiii. Viuus est 
+   <lb ed="#B" n="28"/>enim sermo dei / &amp; efficax / &amp; penetrabilior omni gladio 
+   <lb ed="#B" n="29"/>ancipiti. &amp; Psalmographus. Quam dulcia faucibus 
+   <lb ed="#B" n="30"/>meis eloquia tua super mel ori meo. psal. cxviii. Et 
+   <lb ed="#B" n="31"/>psal. xviii. Desiderabilia super aurum &amp; lapidem
+   praecio<lb ed="#B" n="32" break="no"/>sum multum: &amp; dulciora super mel &amp; fauum.
+   Apec<lb ed="#B" n="33" break="no"/>cato siquidem sacrae scripturae lectio praeseruat. vnde 
+   <lb ed="#B" n="34"/>rex &amp; vates dicebat. Me expectauerunt peccatores 
+   <lb ed="#B" n="35"/>vt perderent me: sed non praeualuerunt, quia
+   testimo<lb ed="#B" n="36" break="no"/>nia tua intellexi. &amp; psal. xxii. Posui in conspectu 
+   <lb ed="#B" n="37"/>meo mensam aduersus eos qui tribulant me. sacrae 
+   <lb ed="#B" n="38"/>scripturae lectioni intendens. Nunc vitas patrum
+   re<lb ed="#B" n="39" break="no"/>ligiosus reuoluit vt eos imitari conetur: nunc
+   ca<lb ed="#B" n="40" break="no"/>sus conscientiae sapientum perlegit: vt mentem suam &amp; 
+   <lb ed="#B" n="41"/>aliorum purget: horis statutis hymnos &amp; dei
+   lau<lb ed="#B" n="42" break="no"/>des hilariter depromit: &amp; mente in caelum rapitur: 
+   <lb ed="#B" n="43"/>nunc in cellula orando cum deo mussitat. sic sancte 
+   <lb ed="#B" n="44"/>occupatus / a fluctibus saeculi prorsus est semotus. 
+   <lb ed="#B" n="45"/>parce in refectorio comedit &amp; bibit: modico quoque 
+   <lb ed="#B" n="46"/>somno indulget. Ecce boni religiosi vitam: vel pau 
+   <lb ed="#B" n="47"/>ca exercitia quibus sese in vita occupat. Longe 
+   <lb ed="#B" n="48"/>autem ab his diuersa in saeculo eueniunt. quare
+   con<lb ed="#B" n="49" break="no"/>clusio vera, scilicet quod status religionis in qua
+   regu<lb ed="#B" n="50" break="no"/>la a fratribus seruatur, est statu saeculari securior &amp; 
+   <lb ed="#B" n="51"/>longe praestantior.
+  </p>
+      <p xml:id="jMqv4a-d1e1577-d1e464">
+   ⁋ Secunda conclusio. Multi in sae 
+   <lb ed="#B" n="52"/>culo saluantur. patet. nam aliqui sunt boni laici &amp;
+   plu<lb ed="#B" n="53" break="no"/>res comparatiue: sacerdotes quoque paucis contenti, ver 
+   <lb ed="#B" n="54"/>bo &amp; exemplo vitae alios instituentes &amp; aedificantes:
+   ca<lb ed="#B" n="55" break="no"/>sti, non auari: nec aliis vitiis irretiti. qui existentes in  
+   <!--0623.xml-->
+   <cb ed="#B" n="b"/> 
+       <!-- 296-r b -->
+       <lb ed="#B" n="56"/>mundo, mundum non curant: sed legem dei quaerunt &amp; 
+   <lb ed="#B" n="57"/>quaesitam obseruant.
+  </p>
+      <p xml:id="jMqv4a-d1e1577-d1e486">
+   ⁋ Tertia conclusio. Multi sunt 
+   <lb ed="#B" n="58"/>religiosi vulgares in periculoso statu ex sua culpa 
+   <lb ed="#B" n="59"/>viuentes probatur sic. multi illorum non obseruant regu 
+   <lb ed="#B" n="60"/>las quas vouerunt: sed sunt religiosi mathematici 
+   <lb ed="#B" n="61"/>&amp; habitu. malitia autem non prouenit a regulis: sed ex 
+   <lb ed="#B" n="62"/>eorum culpis. Hinc beatus <name xml:id="jMqv4a-d1e1577-Nd1e499" ref="#Augustine">Augustinus</name> scribens ad  
+   <lb ed="#B" n="63"/>Vincentium Donatistam dicit. Sicut difficile sum
+   ex<lb ed="#B" n="64" break="no"/>pertus meliores quam qui in monasterio profecerunt: ita 
+   <lb ed="#B" n="65"/>non sum deteriores expertus quam qui in monasterio 
+   <lb ed="#B" n="66"/>defecerunt. &amp; citatur. xlvii. dist. c. Quantum libet. Hi 
+   <lb ed="#B" n="67"/>cum vouerint paupertatem, obedientiam cum castitate, sae 
+   <lb ed="#B" n="68"/>culum deserentes: iterato more canum ad vomitum
+   re<lb ed="#B" n="69" break="no"/>deunt &amp; ad saeculum. Sed vt dicit Eugenius papa, 
+   <lb ed="#B" n="70"/>&amp; recitatur. xvi. q. i. c. Placuit. Sicut piscis sine aqua  
+   <lb ed="#B" n="71"/>caret vita: ita sine monasterio monachus. Porro 
+   <lb ed="#B" n="72"/>coenobio relicto saeculo sese ingerentes non
+   relin<lb ed="#B" n="73" break="no"/>quunt sindonem cum illo qui Christum instante passio 
+   <lb ed="#B" n="74"/>ne sequebatur: non hydriam cum Samaritana: non rete 
+   <lb ed="#B" n="75"/>cum petro: non telonium cum Matthaeo: non pallium cum 
+   <lb ed="#B" n="76"/>Ioseph aegyptiacae mulieri: sed conantur ab itinere 
+   <lb ed="#B" n="77"/>ad terram promissionis redire ad aegyptum, &amp;
+   comede<lb ed="#B" n="78" break="no"/>re carnes more recalcitrantium Hebraeorum: qui vt
+   scri<lb ed="#B" n="79" break="no"/>bitur Numeri. xi. dicebant. Quis dabit nobis ad
+   ve<lb ed="#B" n="80" break="no"/>scendum carnes? recordamur piscium quos
+   comede<lb ed="#B" n="81" break="no"/>bamus in aegypto gratis: in mentem nobis veniunt 
+   <lb ed="#B" n="82"/>cucumeres, &amp; pepones, porrique, &amp; cepe, &amp; allia. 
+   <lb ed="#B" n="83"/>Anima nostra arida est. nihil aliud respiciunt oculi 
+   <lb ed="#B" n="84"/>nostri nisi man. Isti moraliter sunt religiosi Aegy 
+   <lb ed="#B" n="85"/>ptum. i. mundum relinquentes: ad religionem locum
+   poe<lb ed="#B" n="86" break="no"/>nitentiae &amp; arctitudinis pergentes vt ad terram
+   promis<lb ed="#B" n="87" break="no"/>sionis: hoc est ad paradisum caelestem perueniant. in  
+   <lb ed="#B" n="88"/>qua religione manna manducant, hoc est deuotionem 
+   <lb ed="#B" n="89"/>sacrae scripturae: &amp; ea quae in conclusione praecedente 
+   <lb ed="#B" n="90"/>citauimus. sed hoc isti contemnunt: carnes desiderant, 
+   <lb ed="#B" n="91"/>hoc est carnales delicias in mundo. Haerbae autem
+   fri<lb ed="#B" n="92" break="no"/>gidae quae tanquam salsamenta eis dabantur, frigiditatem 
+   <lb ed="#B" n="93"/>deuotionis, &amp; spiritualis laetitiae significant: quae cum 
+   <lb ed="#B" n="94"/>illis carnalibus voluptatibus miscetur. potri, cepe, 
+   <lb ed="#B" n="95"/>&amp; allia suapte natura calida appetuntur, quae
+   chole<lb ed="#B" n="96" break="no"/>ram &amp; auaritiae ardorem generant. Anima est arida cha 
+   <lb ed="#B" n="97"/>ritate &amp; deuotione: nec sapit ei dulcedo sacrarum
+   li<lb ed="#B" n="98" break="no"/>terarum. sicut palato non sano cibus optimus est
+   poe<lb ed="#B" n="99" break="no"/>na quam sano est suauis. hinc dicitur Prouerb. xxvii. 
+   <lb ed="#B" n="100"/>Anima saturata calcabit fauum. more febricitantis 
+   <lb ed="#B" n="101"/>contraria sanitati affectantis. Isti namque febribus calidis 
+   <lb ed="#B" n="102"/>simis laborant: &amp; contraria suae saluti petunt. Postquam 
+   <lb ed="#B" n="103"/>autem dominus dedit eis carnes coturnicum, quid secutum sit 
+   <lb ed="#B" n="104"/>litera sequens in fine cap. natrat dicens. Adhuc carnes 
+   <lb ed="#B" n="105"/>erant in dentibus eorum: nec defecerat huiuscemodi ci 
+   <lb ed="#B" n="106"/>bus: &amp; ecce furor domini concitatus in populum percussit 
+   <lb ed="#B" n="107"/>eum plaga magna nimis. vocatusque est ille locus 
+   <lb ed="#B" n="108"/>sepulchra concupiscentiae, ibi enim sepelierunt popu 
+   <lb ed="#B" n="109"/>lum qui desiderauerat carnes. Sic isti religiosi in
+   con<lb ed="#B" n="110" break="no"/>cupiscentiis carnalibus &amp; ardoribus crebro in saeculo 
+   <!--0624.xml-->
+   <pb ed="#B" n="296-v"/>
+       <cb ed="#B" n="a"/>
+       <lb ed="#B" n="1"/>moriuntur: &amp; in statu horrendo egrediuntur: &amp;
+   po<lb ed="#B" n="2" break="no"/>tissimum qui aliis praesunt: vestiti tanquam sponsi de
+   tha<lb ed="#B" n="3" break="no"/>lamo progredientes cum mutatoriis vestium, more
+   Na<lb ed="#B" n="4" break="no"/>man Syri: magna clientum multitudine stipati. vt 
+   <lb ed="#B" n="5"/>non patres monasteriorum: sed domini castrorum videri 
+   <lb ed="#B" n="6"/>possint: non rectores animarum: sed principes
+   prouin<lb ed="#B" n="7" break="no"/>ciarum: tumultus aulicos sub vmbra defensionis 
+   <lb ed="#B" n="8"/>bonorum coenobii sectantes: &amp; ad regia consilia non 
+   <lb ed="#B" n="9"/>vocati properantes: cum tamen deberent saluti 
+   <lb ed="#B" n="10"/>suae &amp; suorum consulere. sed religionem facto do 
+   <lb ed="#B" n="11"/>cent esse saeculo postponendam: &amp; in suum miseran 
+   <lb ed="#B" n="12"/>dum exitium / praecipites ruunt. 
+  </p>
+      <p xml:id="jMqv4a-d1e1577-d1e640">
+       <lb ed="#B" n="13"/>⁋ Contra primam conclusionem argui 
+   <lb ed="#B" n="14"/>tur. Religio christiana est necessaria ad salutem.
+   sta<lb ed="#B" n="15" break="no"/>tus religionis non est necessarius ad salutem: ergo sta 
+   <lb ed="#B" n="16"/>tus saeculi non est religioni postponendus.
+   Respon<lb ed="#B" n="17" break="no"/>detur si status religionis christianismum excluderet /- 
+   <lb ed="#B" n="18"/>argumentum concluderet: sed ipsum includit cum
+   ali<lb ed="#B" n="19" break="no"/>quibus adminiculis quae ad finem intentum in
+   christia<lb ed="#B" n="20" break="no"/>na religione maxime conducunt: ad quae noluit dominus 
+   <lb ed="#B" n="21"/>obligare omnes: sed consilium dedit. Religio autem chri 
+   <lb ed="#B" n="22"/>stiana est cuilibet necessaria ad salutem: &amp; illam
+   ser<lb ed="#B" n="23" break="no"/>uare sufficit. alia autem factitia / non est necessaria ad 
+   <lb ed="#B" n="24"/>salutem.
+  </p>
+      <p xml:id="jMqv4a-d1e1577-d1e669">
+   ⁋ Secundo arguitur. status religionis est vna 
+   <lb ed="#B" n="25"/>methodus in religione christiana inclusa. sed diffici 
+   <lb ed="#B" n="26"/>lius est per illam methodum incedere quam per totam religio 
+   <lb ed="#B" n="27"/>nem christianam, quod ostenditur ad oculum in via materiali 
+   <lb ed="#B" n="28"/>nam facilius est multo incedere sine errore in via re 
+   <lb ed="#B" n="29"/>gia inter Parisios &amp; Lugdunum, quam capere methodum 
+   <lb ed="#B" n="30"/>licet paulo breuiorem. Et patet a signo. nam multi da 
+   <lb ed="#B" n="31"/>mnantur in religione qui fuissent in saeculo saluati.
+   Re<lb ed="#B" n="32" break="no"/>spondetur. Religio non est exclusa a religione
+   chri<lb ed="#B" n="33" break="no"/>stiana / sed consuita: &amp; est methodus breuis ad termi 
+   <lb ed="#B" n="34"/>num ad quem / scilicet patriam ducens. Et licet difficilis &amp; 
+   <lb ed="#B" n="35"/>angusta sit in principio: tamen lata est via &amp;
+   tranquil<lb ed="#B" n="36" break="no"/>la in fine: muros habet &amp; septa: arcens incolam ne 
+   <lb ed="#B" n="37"/>ad dexteram vel ad sinistram cadat: nisi quis ex
+   stulti<lb ed="#B" n="38" break="no"/>tia sua muros frangat. In via autem regia ob diuites 
+   <lb ed="#B" n="39"/>transeuntes sunt fures / latrones / &amp; sicarii viri belial: 
+   <lb ed="#B" n="40"/>bona fortunae, vt aurum / argentum: pulchra supellex: 
+   <lb ed="#B" n="41"/>mulieres pulchrae: daemones &amp; caetera id genus modo 
+   <lb ed="#B" n="42"/>stra ad vitium allectiua. Licet vero sint verbi diuini 
+   <lb ed="#B" n="43"/>declamatores, populum ad bonum inuitantes sic vt 
+   <lb ed="#B" n="44"/>prudens mercator securus incedere possit: tamen mul 
+   <lb ed="#B" n="45"/>ti sunt imprudentes qui illaqueantur: &amp; terminum 
+   <lb ed="#B" n="46"/>non attingunt. Et conceditur illud quod in
+   argumen<lb ed="#B" n="47" break="no"/>to tangitur, quod aliqui religiosi sunt damnati / qui in  
+   <lb ed="#B" n="48"/>saeculo fuissent saluati. sicut enim auis inclusa in bo 
+   <lb ed="#B" n="49"/>na cauea non exponitur praedae auibus rapacibus, 
+   <lb ed="#B" n="50"/>vt auis vaga in aere: sic est de religione &amp; saeculo.- 
+  </p>
+      <p xml:id="jMqv4a-d1e1577-d1e728">
+       <lb ed="#B" n="51"/>⁋ Tertio arguitur. Aliqui in saeculo saluantur ex 
+   <lb ed="#B" n="52"/>omni hominum genere, vt dictum est in secunda
+   con<lb ed="#B" n="53" break="no"/>clusione: sed difficilius est illis bene viuere
+   ex<lb ed="#B" n="54" break="no"/>tra religionem qui in religione: ergo plus merentur. 
+   <!--0624.xml-->
+   <cb ed="#B" n="b"/> 
+       <!-- 296-v b -->
+       <lb ed="#B" n="55"/>ergo melius est manere in saeculo quam in religione. 
+   <lb ed="#B" n="56"/>Respondetur concedendo totum argumentum caeteris 
+   <lb ed="#B" n="57"/>paribus. sed status ille est periculosior: &amp; per conse 
+   <lb ed="#B" n="58"/>quens alius praeferendus est a prudente.
+  </p>
+      <p xml:id="jMqv4a-d1e1577-d1e754">
+   ⁋ lam vi 
+   <lb ed="#B" n="59"/>dimus quonam pacto possit quis viuere tam in
+   te<lb ed="#B" n="60" break="no"/>ligione qui in saeculo: securius tamen in religione / in  
+   <lb ed="#B" n="61"/>qua bene viuitur secundum institutum coenobii. 
+   <lb ed="#B" n="62"/>&amp; sic non est idem de religione &amp; saeculo: quod di 
+   <lb ed="#B" n="63"/>parua methodo &amp; via regia. multi tamen sunt reli 
+   <lb ed="#B" n="64"/>giosi male viuentes / proprietarii / inobedientes, &amp; 
+   <lb ed="#B" n="65"/>regulas quas professi sunt non seruantes: vt ex
+   di<lb ed="#B" n="66" break="no"/>cendis latius patebit. 
+  </p>
+    </div>
+   </body>
+  </text>
+</TEI>

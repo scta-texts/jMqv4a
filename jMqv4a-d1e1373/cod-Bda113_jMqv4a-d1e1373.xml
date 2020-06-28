@@ -1,0 +1,322 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 3</title>
+      <author ref="#JohnMair">John Mair</author>
+      <respStmt>
+       <name>Jeffrey C. Witt</name>
+       <resp>TEI Encoder</resp>
+      </respStmt>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 3</title>
+       <date when="2020-06-09">June 27, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="B" n="cod-Bda113">Badius 1516</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+     guidelines for a diplomatic edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-06-27" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+      <pb ed="#B" n="258-r"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="jMqv4a-d1e1373"> <!-- l4d26q3 -->
+      <head xml:id="jMqv4a-d1e1373-Hd1e104">Quaestio 3</head>
+      <head xml:id="jMqv4a-d1e1373-Hd1e107" type="question-title">An matrimonium sit sacramentum univoce cum aliis sacramentis</head>
+      <p xml:id="jMqv4a-d1e1373-d1e110">
+       <lb ed="#B" n="5"/>⁋ Distinctionis Vigesimae sextae 
+   <lb ed="#B" n="6"/>Quaestio Tertia. 
+   <lb ed="#B" n="7"/>TErtio circa eandem disti 
+   <lb ed="#B" n="8"/>ctionem quaeritur: An matri 
+   <lb ed="#B" n="9"/>monium sit sacramentum vni 
+   <lb ed="#B" n="10"/>uoce cum aliis sacramentis. Pro 
+   <lb ed="#B" n="11"/>posita est haec quaestio propte 
+   <lb ed="#B" n="12"/>Durandum in suo primo scri 
+   <lb ed="#B" n="13"/>pto quarti dicentem quod
+   matri<lb ed="#B" n="14" break="no"/>monium non est sacramentum. 
+   <lb ed="#B" n="15"/>sed in secunda editione moderatius loquutus est 
+   <lb ed="#B" n="16"/>quod non sit sacramentum vniuoce cum aliis. Pro quae 
+   <lb ed="#B" n="17"/>pono hanc conclusionem. Matrimonium est vniuo 
+   <lb ed="#B" n="18"/>ce sacramentum cum aliis sex. hoc est iste terminus sa 
+   <lb ed="#B" n="19"/>cramentum / vniuoce dicitur de matrimonio,
+   ba<lb ed="#B" n="20" break="no"/>ptismo &amp; aliis. probatur. omnia illa quae habent no 
+   <lb ed="#B" n="21"/>men commune &amp; rationem substantiae eandemi 
+   <lb ed="#B" n="22"/>sunt vniuoca vniuocata: &amp; nomen illa vniuoce si 
+   <lb ed="#B" n="23"/>gnificat. vt patet in antepraedicamentis. sed ratio 
+   <lb ed="#B" n="24"/>substantiae termini sacramentum est vna in onm 
+   <lb ed="#B" n="25"/>bus sacramentis: quia matrimonium est sensibile si 
+   <lb ed="#B" n="26"/>gnum / in quo confertur gratia virtute operis ope 
+   <lb ed="#B" n="27"/>rati. &amp; illa est ratio sacramenti in communi. Nec 
+   <lb ed="#B" n="28"/>obstat quod baptismus vel eucharistia sit perfectior 
+   <lb ed="#B" n="29"/>matrimonio. nam sic homo est asino perfectior. sed  
+   <lb ed="#B" n="30"/>quia asinus aeque participat rationem animalis 
+   <lb ed="#B" n="31"/>vt homo, cum sit substantia sensitiua: animal haec 
+   <lb ed="#B" n="32"/>omnia vniuoce significat. sic est in proposito. igitur 
+  </p>
+      <p xml:id="jMqv4a-d1e1373-d1e173">
+       <lb ed="#B" n="33"/>⁋ Contra hanc conclusionem arguitur. 
+   <lb ed="#B" n="34"/>matrimonium non confert gratiam: ergo non est 
+   <lb ed="#B" n="35"/>sacramentum. Ad hoc argumentum responsum 
+   <lb ed="#B" n="36"/>est quaest. prima huius dist. sed restat ostendere quan 
+   <lb ed="#B" n="37"/>do confertur gratia matrimonialis, prout in prima 
+   <lb ed="#B" n="38"/>quaestione huius materiae pollicitus sum. Et dicitur 
+   <lb ed="#B" n="39"/>quod in fine terminante prolationem verborum foe 
+   <lb ed="#B" n="40"/>minae / si secundo loco proferat: vel viri si secundo 
+   <lb ed="#B" n="41"/>loco proferat: quia hic non est ordo de necessitate: li 
+   <lb ed="#B" n="42"/>cet a viro tanquam a capite inchoandum sit de
+   con<lb ed="#B" n="43" break="no"/>gruitate vel corisuetudine. probatur. in instanti
+   ter<lb ed="#B" n="44" break="no"/>minante formam verborum in baptismo vel eu 
+   <lb ed="#B" n="45"/>charistia / datur gratia baptismalis, &amp; consecratur
+   cor<lb ed="#B" n="46" break="no"/>pus Christi. ergo in fine signi sensibilis consensum 
+   <lb ed="#B" n="47"/>explicantis datur gratia matrimonialis: vel in
+   ten<lb ed="#B" n="48" break="no"/>pore ad illud instans terminato, vt pluries ante de 
+   <lb ed="#B" n="49"/>ximus. sed hac difficultate praetermissa sufficit di 
+   <lb ed="#B" n="50"/>cere, in fine. Praeterea in primo instanti quo verum 
+   <lb ed="#B" n="51"/>est dicere: nunc est matrimonium: primo confertur 
+   <lb ed="#B" n="52"/>gratia matrimonialis. nam si matrimonium per
+   vl<lb ed="#B" n="53" break="no"/>timum non esse habeat originem: similiter gratia 
+   <!--0547.xml-->
+   <cb ed="#B" n="b"/> 
+       <!-- 258-r b -->
+       <lb ed="#B" n="54"/>inceptionem habebit.
+  </p>
+      <p xml:id="jMqv4a-d1e1373-d1e231">
+   ⁋ Ex hac solutione aliquas
+   pro<lb ed="#B" n="55" break="no"/>positiones inferam corollarias: quarum Prima est. 
+   <lb ed="#B" n="56"/>Si duo putent se contrahere / &amp; de facto non con 
+   <lb ed="#B" n="57"/>trahant: quia est aliquod impedimentum: non acqui 
+   <lb ed="#B" n="58"/>runt gratia matrimonialem. Secundo sequitur. Si duo fuerit 
+   <lb ed="#B" n="59"/>in gratia ante instans consensus per signum
+   sensi<lb ed="#B" n="60" break="no"/>pile explicati / &amp; in illo instanti in mortali peccato 
+   <lb ed="#B" n="61"/>&amp; postea mox in gratia: nunquam habebunt gratiam 
+   <lb ed="#B" n="62"/>matrimonialem. lstud corollarium dependet ex vno 
+   <lb ed="#B" n="63"/>prius dicto in de baptismo: quod in sacramentis
+   ite<lb ed="#B" n="64" break="no"/>rabilibus si non fuerit aliquis dispositus ad gratia 
+   <lb ed="#B" n="65"/>susceptionem: non dabitur ei protunc gratia: nec 
+   <lb ed="#B" n="66"/>vnquam post. Tertio sequitur quod interdum datur gra 
+   <lb ed="#B" n="67"/>tia matrimonialis vni parti &amp; non alteri, quia est 
+   <lb ed="#B" n="68"/>in mortali: actus autem actiuorum sunt in patiente prae 
+   <lb ed="#B" n="69"/>disposito. secundo de anima. Quarto sequitur quod 
+   <lb ed="#B" n="70"/>contingit Bertam habere gratia matrimonialem in  
+   <lb ed="#B" n="71"/>fine septennii, quod patet. consentiat Berta ab initio: &amp; 
+   <lb ed="#B" n="72"/>sortes ficte pronunciet: in fine septennii consentiat in  
+   <lb ed="#B" n="73"/>Bertam: iam est matrimonium de nouo: quia consensus 
+   <lb ed="#B" n="74"/>mutuus: &amp; tunc vterque habebit gratiam matrimonia 
+   <lb ed="#B" n="75"/>lem. Quinto sequitur quod stat sortem dormientem ha 
+   <lb ed="#B" n="76"/>bere gratiam matrimonialem. nam stat / quando ipse 
+   <lb ed="#B" n="77"/>consensit Bertam nondum consensisse: sed sorte 
+   <lb ed="#B" n="78"/>dormiente ipsam primo consentire, quemadmodum 
+   <lb ed="#B" n="79"/>si paruulus dormiens baptizaretur. illud autem con 
+   <lb ed="#B" n="80"/>tingit de gratia sacramentali &amp; non de gratia actus 
+   <lb ed="#B" n="81"/>operantis.
+  </p>
+      <p xml:id="jMqv4a-d1e1373-d1e292">
+   ⁋ Secundo arguitur. Sacramenta nouae 
+   <lb ed="#B" n="82"/>legis transcendunt rationem lumiuis naturalis: cum 
+   <lb ed="#B" n="83"/>sint quaedam signa fidem protestantia, quae est de
+   hi<lb ed="#B" n="84" break="no"/>quae non apparent. ad Hebraeos. xi. sed in matrimo 
+   <lb ed="#B" n="85"/>nio nihil est quod rationem naturalem transcendat. igi 
+   <lb ed="#B" n="86"/>tur.
+  </p>
+      <p xml:id="jMqv4a-d1e1373-d1e305">
+   ⁋ Respondetur: si minor sit vera: maior
+   vni<lb ed="#B" n="87" break="no"/>uersaliter intellecta est falsa: &amp; propterea neganda. 
+   <lb ed="#B" n="88"/>Aliqua enim sunt in lumine naturali nota: vt vnitas 
+   <lb ed="#B" n="89"/>dei a philosophis probata: videlicet. viii.
+   physico<lb ed="#B" n="90" break="no"/>rum. &amp;. xii. metaphysicae ab <name xml:id="jMqv4a-d1e1373-Nd1e315" ref="#Aristotle">Aristote.</name> de fide etiam mi 
+   <lb ed="#B" n="91"/>nor est falsa quod gratia virtute operis operati
+   confe<lb ed="#B" n="92" break="no"/>ratur: quia lumen naturalis rationis transcendit 
+  </p>
+      <p xml:id="jMqv4a-d1e1373-d1e324">
+       <lb ed="#B" n="93"/>⁋ Tertio arguitur. baptismus est ianua omnium 
+   <lb ed="#B" n="94"/>sacramentorum. sed non est ianua matrimonii: er 
+   <lb ed="#B" n="95"/>go matrimonium non est sacramentum. minor pa 
+   <lb ed="#B" n="96"/>tet, nam infideles matrimonium contrahunt: quia 
+   <lb ed="#B" n="97"/>non oportet quod in omnibus actibus carnis peccent 
+  </p>
+      <p xml:id="jMqv4a-d1e1373-d1e337">
+       <lb ed="#B" n="98"/>⁋ Respondetur distinguendo maiorem. si (omnim) 
+   <lb ed="#B" n="99"/>capiatur collectiue, est ianua omnium: hoc est,
+   ne<lb ed="#B" n="100" break="no"/>mo potest capere omnia sine baptismo, etiam
+   lo<lb ed="#B" n="101" break="no"/>quenumo de aliis: vt patet de ordinibus / confirmatio 
+   <lb ed="#B" n="102"/>ne / &amp; de matrimonio perpetuo. &amp; sic concedo. distri 
+   <lb ed="#B" n="103"/>butiue autem vt sit distributio accommoda, non est 
+   <lb ed="#B" n="104"/>vera. nam realiter quis sumit eucharistiam sine
+   ba<lb ed="#B" n="105" break="no"/>ptismo: quia brutum acciperet. &amp; ex errore
+   inuin<lb ed="#B" n="106" break="no"/>cibili putans se baptizatum susciperet fructum poeni 
+   <lb ed="#B" n="107"/>tentiae. Et fateor quod infidelis non peccat in
+   quoli<lb ed="#B" n="108" break="no"/>bet actu cognoscendo suam vxorem nisi actus ii 
+   <!--0548.xml-->
+   <pb ed="#B" n="258-v"/>
+       <cb ed="#B" n="a"/>
+       <lb ed="#B" n="1"/>le ab infidelitate procedat: vel vt habeat prolem gratia 
+   <lb ed="#B" n="2"/>sui erroris continuandi. &amp; hic est sermo de baptismo 
+   <lb ed="#B" n="3"/>fluminis, &amp; non sanguinis / vel fiaminis.
+  </p>
+      <p xml:id="jMqv4a-d1e1373-d1e376">
+   ⁋ Quarto 
+   <lb ed="#B" n="4"/>arguitur. matrimonium inter absentes contrahitur: non 
+   <lb ed="#B" n="5"/>sic alia dantur sacramenta: ergo non est
+   sacramen<lb ed="#B" n="6" break="no"/>tum eiusdem rationis cum aliis. Similiter in aliis sa 
+   <lb ed="#B" n="7"/>cramentis sunt verba / &amp; debitus minister: hic autem 
+   <lb ed="#B" n="8"/>non requiritur minister alius a coniugandis.
+  </p>
+      <p xml:id="jMqv4a-d1e1373-d1e390">
+   ⁋
+   Respon<lb ed="#B" n="9" break="no"/>detur: non est opus respicere formam argumenti. nam 
+   <lb ed="#B" n="10"/>sacramenta habent aliqua per quae argumentatiue in 
+   <lb ed="#B" n="11"/>ter se habent discrimen: sed omnia conueniunt in rationi 
+   <lb ed="#B" n="12"/>communi sacramentorum. sicut animalia in particulari 
+   <lb ed="#B" n="13"/>inter se habent aliqua propria per quae seiunguntur: con 
+   <lb ed="#B" n="14"/>ueniunt tamen in ratione animalis, quemadmodum qua 
+   <lb ed="#B" n="15"/>bare quod homo solus rideat: &amp; hoc nulli alteri animat 
+   <lb ed="#B" n="16"/>conueniat / non est probare quod animal aequiuoce de ha 
+   <lb ed="#B" n="17"/>mine &amp; aliis animalibus praedicetur.
+  </p>
+      <p xml:id="jMqv4a-d1e1373-d1e412">
+   ⁋ Ex his liquet
+   ma<lb ed="#B" n="18" break="no"/>trimonium esse sacramentum / &amp; vniuoce cum sex aliis 
+   <lb ed="#B" n="19"/>hoc est: istd vocabulum sacramentum vniuoce de ma 
+   <lb ed="#B" n="20"/>trimonio vel pronomine ipsum demonstrante prae 
+   <lb ed="#B" n="21"/>dicatur, vt de aliis. Vlterius dictum est in quo tempori 
+   <lb ed="#B" n="22"/>vel instanti gratia matrimonialis conferatur. Et quo 
+   <lb ed="#B" n="23"/>modo haec propositio intelligenda sit. Baptism 
+   <lb ed="#B" n="24"/>est ianua omnium sacramentorum. &amp; quod baptismus 
+   <lb ed="#B" n="25"/>sluminis est ianua ad hoc vt quis caetera sacrami 
+   <lb ed="#B" n="26"/>ta suscipiat. 
+   <lb ed="#B" n="27"/>Nhac matrimonii materia 
+   <lb ed="#B" n="28"/>in dubitatur: an mulier in matrimonio
+   de<lb ed="#B" n="29" break="no"/>beat viro suo esse subiecta. Responde 
+   <lb ed="#B" n="30"/>quecs. Aia tur affirmatiue. Nam Genesis. iii. dixi 
+   <lb ed="#B" n="31"/>deus mulieri. In dolore paries filios: &amp; sub viri
+   po<lb ed="#B" n="32" break="no"/>testate eris: &amp; ipse dominabitur tui. Et Apostolus ad
+   Ephe<lb ed="#B" n="33" break="no"/>sios. v. Mulieres viris suis subditae sint sicut domino-s 
+   <lb ed="#B" n="34"/>quoniam vir caput est mulieris. sicut Christus ca 
+   <lb ed="#B" n="35"/>put est ecclesiae. Et primae ad Corinth. xi. Volo au 
+   <lb ed="#B" n="36"/>tem vos scire quod omnis viri caput Christus est: ca 
+   <lb ed="#B" n="37"/>put autem mulieris vir. Item ad Titum scribens praecipit 
+   <lb ed="#B" n="38"/>adolescentulas esse subditas viris suis. Mulier enim 
+   <lb ed="#B" n="39"/>debet esse quasi famula viri: vt <name xml:id="jMqv4a-d1e1373-Nd1e461" ref="#Augustine">Augustinus</name> in 
+   <lb ed="#B" n="40"/>quaestionibus veteris &amp; noui testamenti asserit. &amp; Gra 
+   <lb ed="#B" n="41"/>tianus. xxxii. qui. v. in ca. Satis. allegat. sic inquiens 
+   <lb ed="#B" n="42"/>Satis hic apparet quemadmodum viris foeminas 
+   <lb ed="#B" n="43"/>subditas &amp; pene famulas lex esse voluit vxores 
+   <lb ed="#B" n="44"/>&amp;c. Idem patet in ca. Est ordo. &amp; in ca. Haec imago 
+   <lb ed="#B" n="45"/>quae sunt auctoritates ex <name xml:id="jMqv4a-d1e1373-Nd1e478" ref="#Augustine">Augustino</name> in quaestionibus 
+   <lb ed="#B" n="46"/>veteris &amp; noui testamenti depromptae. Idem habe 
+   <lb ed="#B" n="47"/>Hieronymus in epistolam ad Titum. &amp; Ambre 
+   <lb ed="#B" n="48"/>sius in hexameto tractatu diei quartae. cuius proba 
+   <lb ed="#B" n="49"/>tio est. quia Adam per Euam deceptus est: non autem 
+   <lb ed="#B" n="50"/>econverso: ideo in poenam peccati ipsa est viro
+   sub<lb ed="#B" n="51" break="no"/>iecta. Et idem dicit super primam epistolam ad Corithi 
+   <lb ed="#B" n="52"/>sic scribens. Mulier debet velare caput quia non est 
+   <lb ed="#B" n="53"/>imago dei (more viri: sed vt viro oenspedatur subiecta: 
+   <lb ed="#B" n="54"/>&amp; quia paeuaricatio per illam inchoata est. Sic Sara voca 
+   <!--0548.xml-->
+   <cb ed="#B" n="b"/> 
+       <!-- 258-v b -->
+       <lb ed="#B" n="55"/>uit Abraam dominum suum. Et vt dicit Ioannes Andreat 
+   <lb ed="#B" n="56"/>vir matrimonio iunctus / prout recitat Panor. in
+   ca<lb ed="#B" n="57" break="no"/>Literas. de restitu. spolia. debet mulier lauare viri 
+   <lb ed="#B" n="58"/>pedes, caput: &amp; huiusmodi obsequia facere, quod 
+   <lb ed="#B" n="59"/>oportet intelligere nisi fuerit mulier nobilis quam 
+   <lb ed="#B" n="60"/>ex consuetudine huiusmodi opera dedecet. Et
+   se<lb ed="#B" n="61" break="no"/>cundi Oeconomicorum. ii. dicit philosophus.
+   Existi<lb ed="#B" n="62" break="no"/>mare enim debet mulier vere composita mores viri 
+   <lb ed="#B" n="63"/>esse legem suae vitae impositam sibi a deo / per coniun 
+   <lb ed="#B" n="64"/>ctionem matrimonii atque consortii. Non est tamen 
+   <lb ed="#B" n="65"/>omnino serua: sed aliquo modo possidet virum. Hinc 
+   <lb ed="#B" n="66"/>Aristoteles in postpraedicamentis recitans
+   acceptio<lb ed="#B" n="67" break="no"/>nes ( habere assignat modum quo vir habet vxorem 
+   <lb ed="#B" n="68"/>sed ille inquit, est alienissimus modus habendi: cum 
+   <lb ed="#B" n="69"/>vir ab eadem aliquo modo habeatur. Quod bene oespedis 
+   <lb ed="#B" n="70"/>Apostolus primae ad Corinth. vii. dicens. Vit sui corpo 
+   <lb ed="#B" n="71"/>ris ptantem non habet sed mulier. hoc est: aliquibus le 
+   <lb ed="#B" n="72"/>gibus honestis astringitur vt eam secundum suum
+   sta<lb ed="#B" n="73" break="no"/>tum multo honorificentius &amp; humanius quam famu 
+   <lb ed="#B" n="74"/>lam tractet. Illa autem quam ad rem familiarem attinent / cu 
+   <lb ed="#B" n="75"/>rae eius relinquat. si secus faciat, turpe est vt dicit 
+   <lb ed="#B" n="76"/>philosophus secundi oeconomicorum primo. Nec ei 
+   <lb ed="#B" n="77"/>convicia dicat: vt idem praecipit primi oeconomicorum 
+   <lb ed="#B" n="78"/>iiii. sic nec ipse iniuriam patietur. hoc enim &amp; com 
+   <lb ed="#B" n="79"/>munis lex indicit: vt Pythagorici dicunt. Quemad 
+   <lb ed="#B" n="80"/>modum seruam ab lare ductam quam minime
+   de<lb ed="#B" n="81" break="no"/>cet videri / afficere iniuria apud maiores religio erat. 
+   <lb ed="#B" n="82"/>Et si hostis vel serua ad larem confugisset, fuit a 
+   <lb ed="#B" n="83"/>poenam praeseruata. quanto magis vxor quae est ceoni 
+   <lb ed="#B" n="84"/>tinuo prope larem? Aliam legem subiectionis vxoris 
+   <lb ed="#B" n="85"/>ponit <name xml:id="jMqv4a-d1e1373-Nd1e574" ref="#Aristotle">Aristoteles:</name> quod non debet esse nimis in
+   vesti<lb ed="#B" n="86" break="no"/>bus sumptuosa, dicens. De ornatu vero quemae 
+   <lb ed="#B" n="87"/>modum neque mores superbos esse decet / si simul 
+   <lb ed="#B" n="88"/>appropiquare debeant: sic etiam nec corpora: Nam 
+   <lb ed="#B" n="89"/>illa quae per ornatum fiunt / nihil differunt ab histrie 
+   <lb ed="#B" n="90"/>num vsum / tragoedias in scena agentium. Et secundu 
+   <lb ed="#B" n="91"/>oeconomicorum dicit. Sumptu autem &amp; vestitu &amp; 
+   <lb ed="#B" n="92"/>apparatu minore etiam vtatur quam leges permiserint c 
+   <lb ed="#B" n="93"/>uitatis: considerans quod nec veltimentorum
+   nitor<lb ed="#B" n="94" break="no"/>nec excellentia formae, nec auri magnitudo tantu 
+   <lb ed="#B" n="95"/>valet ad mulieris laudem quantum modestia in re 
+   <lb ed="#B" n="96"/>bus, ac studium honeste decoreque viuendi.
+  </p>
+      <p xml:id="jMqv4a-d1e1373-d1e602">
+   ⁋ Ex di 
+   <lb ed="#B" n="97"/>ctis igitur habes quod si viro in domo dominetur vxor 
+   <lb ed="#B" n="98"/>peruertitur ordo naturae: quia vir est caput mulieris: 
+   <lb ed="#B" n="99"/>vt ex sacris eloquiis pariter &amp; gentilium scriptis / pau 
+   <lb ed="#B" n="100"/>cis ostendimus. Et licet in iudicio mulieres sint
+   prae<lb ed="#B" n="101" break="no"/>cipites, vt dicitur primo Politicorum: male in iudicioi 
+   <lb ed="#B" n="102"/>syllogizando persistunt. inconstantes namque sunt &amp; pas 
+   <lb ed="#B" n="103"/>sionibus agitatae: quare earum iudicium est inualidum 
+   <lb ed="#B" n="104"/>&amp; hoc nisi interdum vir esset multum hebes / &amp; mu 
+   <lb ed="#B" n="105"/>lier multum sensata. &amp; adhuc fortasse magis ei pro 
+   <lb ed="#B" n="106"/>desse: / si opulentus fuerit: consilio prudentum vti 
+   <lb ed="#B" n="107"/>virorum. si inops: solam vxorem habens / eius cao 
+   <lb ed="#B" n="108"/>silio vti necesse habet. Vlterius patet quod volens cum 
+   <lb ed="#B" n="109"/>vxore pancifice viuere non debet cam iniuriis la- 
+   <!--0549.xml-->
+   <pb ed="#B" n="259-r"/>
+       <cb ed="#B" n="a"/>
+       <lb ed="#B" n="1"/>cessere / ne iterato probro afficiatur. memor sit mu 
+   <lb ed="#B" n="2"/>lierem primam ex osse &amp; quidem curuo fabricatam. 
+   <lb ed="#B" n="3"/>Saccus autem ossibus refertus in solum proiectus 
+   <lb ed="#B" n="4"/>magnum dat sonum. saccus vero terra (ex quan 
+   <lb ed="#B" n="5"/>Adam plasmatus est / plenus: sonum exilem reddit. 
+   <lb ed="#B" n="6"/>Mulierem ad vestium mediocritatem reducat: &amp; po 
+   <lb ed="#B" n="7"/>tius ad defectum quam ad abundantiam: ostendendo 
+   <lb ed="#B" n="8"/>ei quomodo hoc ad decorem virtutis cedat viri 
+   <lb ed="#B" n="9"/>&amp; vxoris legitimae. 
+  </p>
+    </div>
+   </body>
+  </text>
+</TEI>

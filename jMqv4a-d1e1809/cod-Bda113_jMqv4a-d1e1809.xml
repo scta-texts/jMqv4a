@@ -1,0 +1,300 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 2</title>
+      <author ref="#JohnMair">John Mair</author>
+      <respStmt>
+       <name>Jeffrey C. Witt</name>
+       <resp>TEI Encoder</resp>
+      </respStmt>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 2</title>
+       <date when="2020-06-09">June 27, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="B" n="cod-Bda113">Badius 1516</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+     guidelines for a diplomatic edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-06-27" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+      <pb ed="#B" n="338-r"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="jMqv4a-d1e1809"> <!-- l4d44q2 -->
+      <head xml:id="jMqv4a-d1e1809-Hd1e104">Quaestio 2</head>
+      <head xml:id="jMqv4a-d1e1809-Hd1e107" type="question-title">Quoto die Christus resurrexerit a mortuis</head>
+      <p xml:id="jMqv4a-d1e1809-d1e110">
+       <lb ed="#B" n="73"/>⁋ Distinctionis Quadragesimae quartae 
+   <lb ed="#B" n="74"/>Quaestio Secunda. 
+   <lb ed="#B" n="75"/>Ecundo in hac quaedra 
+   <lb ed="#B" n="76"/>gesimaquarta dist, quaeritur
+   quo<lb ed="#B" n="77" break="no"/>to die Christus resurrexerit 
+   <lb ed="#B" n="78"/>&amp; a mortuis.
+  </p>
+      <p xml:id="jMqv4a-d1e1809-d1e126">
+   ⁋ Respondeo. tertio 
+   <lb ed="#B" n="79"/>rdie. Christus namque passus est 
+   <lb ed="#B" n="80"/>die parasceues: vt patet
+   Lu<lb ed="#B" n="81" break="no"/>llcae. xxiii. &amp; Ioannis. xi. Dies 
+   <lb ed="#B" n="82"/>autem parasceue est feria sexta. &amp; surrexit vna
+   sab<lb ed="#B" n="83" break="no"/>batorum / hoc est prima, scilicet die dominico. vt li 
+   <lb ed="#B" n="84"/>quet ex illo Matth. xxviii. Vespere autem sabbati quae 
+   <lb ed="#B" n="85"/>lucescit in prima sabbati, venit Maria Magdalena 
+   <lb ed="#B" n="86"/>&amp; altera Maria videre sepulchrum. Et noster
+   Sedu<lb ed="#B" n="87" break="no"/>lius ita canit. Coeperat interea post tristia sabbata 
+   <lb ed="#B" n="88"/>felix lrradiare dies, culmen qui nominis alti Adnino 
+   <lb ed="#B" n="89"/>dominante trahit: primusque videre Promeruit na 
+   <lb ed="#B" n="90"/>sci mundum atque resurgere Christum. Et promisit 
+   <lb ed="#B" n="91"/>dominus se die tertio resurrecturum Matth. xvi. &amp;. xx. 
+   <lb ed="#B" n="92"/>quod Cleophas in die resurrectionis attestatus est 
+   <lb ed="#B" n="93"/>dicens Lucae. xxiiii. Tertia dies est hodie quod haec fa 
+   <lb ed="#B" n="94"/>cta sunt quod scilicet summi sacerdotes eum tradide 
+   <lb ed="#B" n="95"/>runt &amp; crucifixerunt. Hoc losephus. xviii. antiquia 
+   <lb ed="#B" n="96"/>tatum, licet hebraeus, confitetur dicens. Apparuit 
+   <lb ed="#B" n="97"/>iterum suis tertio die viuus. 
+  </p>
+      <p xml:id="jMqv4a-d1e1809-d1e171">
+       <lb ed="#B" n="98"/>⁋ Sed contra istam conclusionem argui 
+   <lb ed="#B" n="99"/>tur probando quod non resurrexit tertio die. &amp; hoc 
+   <lb ed="#B" n="100"/>sic. Christus non est mortuus nisi vno die. ergo  
+   <lb ed="#B" n="101"/>non surrexit tertio die, immo secundo.
+  </p>
+      <p xml:id="jMqv4a-d1e1809-d1e182">
+   ⁋ Praeterea 
+   <lb ed="#B" n="102"/>Christus tribus diebus integris est mortuus.
+   er<lb ed="#B" n="103" break="no"/>go non surrexit tertio die. consequentia est clara. &amp; 
+   <lb ed="#B" n="104"/>antecedens ostenditur ex verbis Christi. Matth. xii. 
+   <lb ed="#B" n="105"/>Sicut fuit lonas in ventre ceti tribus diebus &amp; tri 
+   <lb ed="#B" n="106"/>bus noctibus: sic erit filius hominis in corde terrae 
+   <lb ed="#B" n="107"/>tribus diebus &amp; tribus noctibus.
+  </p>
+      <p xml:id="jMqv4a-d1e1809-d1e198">
+   ⁋ Ad primum 
+   <!--0708.xml-->
+   <pb ed="#B" n="338-v"/>
+       <cb ed="#B" n="a"/>
+       <lb ed="#B" n="1"/>concedo quod Christus non est mortuus nisi vno die na 
+   <lb ed="#B" n="2"/>turali per totum. sed consequentia est nulla. nam mortem 
+   <lb ed="#B" n="3"/>passus est sexta feria: &amp; sic illo die mortuus est: mo 
+   <lb ed="#B" n="4"/>tuus est in sabbato: &amp; prima sabbati surrexit. ergi 
+   <lb ed="#B" n="5"/>tertio die. is namque est modus communis supputandi, quem 
+   <lb ed="#B" n="6"/>admodum si Sortes laborauerit febre tertiana, &amp; hom 
+   <lb ed="#B" n="7"/>die paroxysmum patiatur sciliet. die veneris: prognosticando 
+   <lb ed="#B" n="8"/>medicus dicit eum postea passurum in die dominico: com 
+   <lb ed="#B" n="9"/>putans diem in quo est pro vno: &amp; diem in quo languer 
+   <lb ed="#B" n="10"/>pro alio. hoc etiam videre licet de quartanis febtibus, 
+   <lb ed="#B" n="11"/>in quibus solum duo dies mediant.
+  </p>
+      <p xml:id="jMqv4a-d1e1809-d1e231">
+   ⁋ Ad secundum 
+   <lb ed="#B" n="12"/>nego antecedens. &amp; ad probationem ex verbis
+   Chri<lb ed="#B" n="13" break="no"/>sti de lona. in primis nescis probare quod tribus diebus 
+   <lb ed="#B" n="14"/>integris fuit in ventre ceti: &amp; dato quod hoc probaueri 
+   <lb ed="#B" n="15"/>consequentia est nulla: quia (sicut) non semper dicit aequa 
+   <lb ed="#B" n="16"/>litate: sed aliqualem similitudinem: vt artistae
+   communi<lb ed="#B" n="17" break="no"/>ter dicere solent. &amp; est modus peculiaris scripturae. v 
+   <lb ed="#B" n="18"/>Ioannis. xv. Sicut dilexit me pater, &amp; ego dilexi 
+   <lb ed="#B" n="19"/>vos. &amp; tamen non aequaliter vt notum est.
+  </p>
+      <p xml:id="jMqv4a-d1e1809-d1e251">
+   ⁋ Sed contra ista 
+   <lb ed="#B" n="20"/>sic arguitur. Christus tribus diebus &amp; tribus noctibus ia 
+   <lb ed="#B" n="21"/>cuit in corde terrae: hoc est in sepulchro. vt dicitur 
+   <lb ed="#B" n="22"/>Matth. xii. Sed tres dies &amp; tres noctes faciunt tres 
+   <lb ed="#B" n="23"/>dies integros. igitur.
+  </p>
+      <p xml:id="jMqv4a-d1e1809-d1e262">
+   ⁋ Ad hoc respondetur distinguendo 
+   <lb ed="#B" n="24"/>vel in sensu composito: &amp; sic concedo vt sit categor 
+   <lb ed="#B" n="25"/>ca de copulato extremo. vel in sensu diuiso &amp; hi 
+   <lb ed="#B" n="26"/>pothetico. &amp; sic nego. Illa autem propositio Christi ha 
+   <lb ed="#B" n="27"/>betur in sensu composito. filius hominis erit in corde terrae 
+   <lb ed="#B" n="28"/>tribus diebus &amp; tribus noctibus. hoc est triduo. par 
+   <lb ed="#B" n="29"/>tes enim ex quibus integratur triduum sunt tres
+   die<lb ed="#B" n="30" break="no"/>artificiales &amp; tres noctes. hoc ostendit <name xml:id="jMqv4a-d1e1809-Nd1e279" ref="#Augustine">Augustin</name> 
+       <lb ed="#B" n="31"/>quarto de triniitate. ca. v. &amp; lib. iii. de consensu euange 
+   <lb ed="#B" n="32"/>listarum ca. xxiiii. vbi per tres dies &amp; noctes nihil 
+   <lb ed="#B" n="33"/>aliud intelligit nisi triduum. Et pro isto supponatur quod 
+   <lb ed="#B" n="34"/>dicit Beda in libro de temporibus ca. v. quod Hebraei 
+   <lb ed="#B" n="35"/>Caldaei, &amp; Persae diem naturalem inchoant a die
+   arti<lb ed="#B" n="36" break="no"/>ficiali &amp; ab ortu solis. &amp; ille erat modus supputand 
+   <lb ed="#B" n="37"/>Moysi. Genesis. i. Factum est vespore &amp; mane dies vnus 
+   <lb ed="#B" n="38"/>Aegyptii vero diem naturalem a vespere inchoant. 
+   <lb ed="#B" n="39"/>hoc est ab occasu ad occasum: quos ludaei
+   imita<lb ed="#B" n="40" break="no"/>ti sunt in festis legalibus post exitum ab Aegypto 
+   <lb ed="#B" n="41"/>Romani autem a media nocte ad mediam nocten 
+   <lb ed="#B" n="42"/>dies naturales supputant. Vmbri &amp; Athenienses a 
+   <lb ed="#B" n="43"/>meridie ad meridiem: &amp; hoc passim imitantur
+   astro<lb ed="#B" n="44" break="no"/>nomi. ltaque incipiendo diem veneris scilicet sextam 
+   <lb ed="#B" n="45"/>feriam qua Christus passus est / more
+   Aegyptio<lb ed="#B" n="46" break="no"/>rum, habuit initium die iouis in occasu solis. sed 
+   <lb ed="#B" n="47"/>hora nona diei veneris passus est. quare illo die est 
+   <lb ed="#B" n="48"/>mortuus: quia in parte illius diei. &amp; idem patet
+   in<lb ed="#B" n="49" break="no"/>cipiendo diem more Hebraeorum antiquo quem 
+   <lb ed="#B" n="50"/>etiam seruabant: nisi in festis legalibus: passus est 
+   <lb ed="#B" n="51"/>mortem illo die. &amp; toto die sabbati naturali mortu 
+   <lb ed="#B" n="52"/>est: qui habuit initium in occasu solis diei veneris 
+   <lb ed="#B" n="53"/>Aegyptiorum more: &amp; terminabatur in occasu
+   so<lb ed="#B" n="54" break="no"/>lis diei sabbati: nec resurrexit nisi mane die domi 
+   <lb ed="#B" n="55"/>nico. ergo mortuus est in parte diei tertii.
+  </p>
+      <p xml:id="jMqv4a-d1e1809-d1e338">
+   ⁋ Ex 
+   <!--0708.xml-->
+   <cb ed="#B" n="b"/> 
+       <!-- 338-v b -->
+       <lb ed="#B" n="56"/>omnibus his patet quod oportet capere diem sabba 
+   <lb ed="#B" n="57"/>ti integrum &amp; alios dies per synecdochen. de die 
+   <lb ed="#B" n="58"/>veneris nulla est difficultas antiquo more Hebraeo 
+   <lb ed="#B" n="59"/>rum, Aegyptiorum, vel Romanorum. de
+   sabba<lb ed="#B" n="60" break="no"/>to autem omnia sunt perspicua. similiter de tertio 
+   <lb ed="#B" n="61"/>die more Romanorum &amp; Aegyptiorum omnia 
+   <lb ed="#B" n="62"/>sunt clara: &amp; more antiquo Hebraeorum adhuc erat 
+   <lb ed="#B" n="63"/>dies vulgaris. iuxta illud Matthaei. xxviii.
+   Vespe<lb ed="#B" n="64" break="no"/>re autem sabbati quae lucescit. &amp; Lucae. xxiiii. Val 
+   <lb ed="#B" n="65"/>de diluculo. licet in primo solis ortu sint aliquae
+   te<lb ed="#B" n="66" break="no"/>nebrae, nam Maria Magdalene venit mane cum ad 
+   <lb ed="#B" n="67"/>huc essent tenebrae ad monumentum. ergo erat dies 
+   <lb ed="#B" n="68"/>vulgaris, siue sol erat super horizontem siue non. 
+   <lb ed="#B" n="69"/>hoc est, erat vesper qui lucescebat. extrema enim 
+   <lb ed="#B" n="70"/>pars diei vocatur vesper ab hespero stella, id est ve 
+   <lb ed="#B" n="71"/>nere: qui nonnunquai praecedit solem: &amp; vocatur stella 
+   <lb ed="#B" n="72"/>matutina, nonnunquam sequitur. &amp; ad significandum 
+   <lb ed="#B" n="73"/>extremam partem noctis ponitur, quae lucescit: cau 
+   <lb ed="#B" n="74"/>sa discriminis.
+  </p>
+      <p xml:id="jMqv4a-d1e1809-d1e388">
+   ⁋ Sed obiicies. Christus hora
+   no<lb ed="#B" n="75" break="no"/>na mortuus est vt dicunt Euangelistae. Nam
+   Mat<lb ed="#B" n="76" break="no"/>thaei. xxvii. dicitur. Asexta autem hora factae sunt te 
+   <lb ed="#B" n="77"/>nebrae super vniuersam terram vsque ad horam no 
+   <lb ed="#B" n="78"/>nam. &amp; paulopost. Iesus autem iterum clamans vo 
+   <lb ed="#B" n="79"/>ce magna emisit spiritum. sed computando ab oc 
+   <lb ed="#B" n="80"/>casu solis / hora nona respondet horae tertiae nostrae 
+   <lb ed="#B" n="81"/>Romanae. Respondeo. pro istis horis cognoscen 
+   <lb ed="#B" n="82"/>dis oportet eas supputare ab ortu solis. quia
+   ma<lb ed="#B" n="83" break="no"/>ne / hoc est hora prima, vinctum adduxerunt ludaei 
+   <lb ed="#B" n="84"/>Iesum ad Pontium Pilatum. Matth. xxvii. hora 
+   <lb ed="#B" n="85"/>sexta erat meridies: &amp; hora nona hora tertia pome 
+   <lb ed="#B" n="86"/>ridiana vel circiter, non enim oportet horas illas a 
+   <lb ed="#B" n="87"/>vespera praecedente: nec a media nocte
+   supputa<lb ed="#B" n="88" break="no"/>re. Ex quo sequitur quod Christus mansit mortuus 
+   <lb ed="#B" n="89"/>xxxix. horis. probatur sic. tunc erat aequinoctium 
+   <lb ed="#B" n="90"/>vel paulopost: &amp; per consequens dies artificialis erat 
+   <lb ed="#B" n="91"/>aequalis nocti: &amp; oportet supputare ab ortu solis 
+   <lb ed="#B" n="92"/>super horizontem. &amp; expirauit hora nona diei ve 
+   <lb ed="#B" n="93"/>neris. restabant ergo tres horae illius diei ad
+   occa<lb ed="#B" n="94" break="no"/>sum solis. deinde computando integrum diem sab 
+   <lb ed="#B" n="95"/>bati ab occasu ad occasum sunt. xxiiii. horae. ergo  
+   <lb ed="#B" n="96"/>habentur. xxvii. &amp; cum resurrexerit oriente sole in 
+   <lb ed="#B" n="97"/>die dominico: oportet illic deprehendere. xii.
+   ho<lb ed="#B" n="98" break="no"/>ras. quae aliis additae reddunt. xxxix. etiam cum
+   ali<lb ed="#B" n="99" break="no"/>quibus fractionibus proportionabiliter ad
+   interca<lb ed="#B" n="100" break="no"/>pedinem aequinoctii ad resurrectionem Christi 
+  </p>
+      <p xml:id="jMqv4a-d1e1809-d1e447">
+       <lb ed="#B" n="101"/>⁋ Tertio arguitur, nemo est trigenarius nisi trige 
+   <lb ed="#B" n="102"/>simum annum compleuerit: vt quaestione
+   praece<lb ed="#B" n="103" break="no"/>dente diximus. ergo non surrexit tertio die nisi fue 
+   <lb ed="#B" n="104"/>rit completus.
+  </p>
+      <p xml:id="jMqv4a-d1e1809-d1e458">
+   ⁋ Quarto arguitur. Marci. viii.
+   di<lb ed="#B" n="105" break="no"/>cit Christus. Et coepit docere eos quoniam
+   opor<lb ed="#B" n="106" break="no"/>tet filium hominis pati multa &amp; reprobari a
+   sum<lb ed="#B" n="107" break="no"/>mis sacerdotibus &amp; scribis, &amp; occidi, &amp; post tres di 
+   <lb ed="#B" n="108"/>es resurgere. ergo erant tres dies completi antequam
+   re<lb ed="#B" n="109" break="no"/>surrexit.
+  </p>
+      <p xml:id="jMqv4a-d1e1809-d1e471">
+   ⁋ Ad tertium consequentia est nulla: quia 
+   <lb ed="#B" n="110"/>euangelium dicit quod Christus tertio die resurrexit 
+   <!--0709.xml-->
+   <pb ed="#B" n="339-r"/>
+       <cb ed="#B" n="a"/>
+       <lb ed="#B" n="1"/>ad cuius verificationem oportet quod tertio die
+   resur<lb ed="#B" n="2" break="no"/>rexerit, non autem dicit quod Christus die tertio comple 
+   <lb ed="#B" n="3"/>to resurrexerit. modo in quacunque hora diei tertii 
+   <lb ed="#B" n="4"/>tertius dies est: quia successiua quo ad esse &amp; quo 
+   <lb ed="#B" n="5"/>ad fieri quando fiunt, sunt. secus est de permanentibus 
+   <lb ed="#B" n="6"/>quo ad esse. nam permanentia quaedam non sunt n 
+   <lb ed="#B" n="7"/>si deducta fuerint ad esse completum: sicut statua 
+   <lb ed="#B" n="8"/>non est nisi postquam completa fuerit: vt dicit Aristo 
+   <lb ed="#B" n="9"/>teles tertio physicorum. &amp; secundo peri hermenias. Quod 
+   <lb ed="#B" n="10"/>fit non est.
+  </p>
+      <p xml:id="jMqv4a-d1e1809-d1e504">
+   ⁋ Ad quartum dicitur quod Matthaeus &amp; Lu 
+   <lb ed="#B" n="11"/>cas eandem describunt sententiam: qui dicunt, tertia die 
+   <lb ed="#B" n="12"/>resurget. Item Marcus loquitur de prima die &amp; tertia 
+   <lb ed="#B" n="13"/>die per synecdochen. hoc est / post partem vltimam 
+   <lb ed="#B" n="14"/>primi diei, &amp; totum diem secundum / &amp; post partem 
+   <lb ed="#B" n="15"/>aliquam tertii diei, nec haec exposit io est extorta 
+   <lb ed="#B" n="16"/>quod patet ex <name xml:id="jMqv4a-d1e1809-Nd1e519" ref="#Augustine">Augustino</name> tertio libro de
+   doctri<lb ed="#B" n="17" break="no"/>na christiana, declarante quintam regulam
+   Tico<lb ed="#B" n="18" break="no"/>nii de temporibus. Inter caetera dicit quod tropus 
+   <lb ed="#B" n="19"/>synecdoche facit intelligi quomodo Lucas ca, no 
+   <lb ed="#B" n="20"/>no post dies octo factum dicit quod Matthaei. xvii 
+   <lb ed="#B" n="21"/>&amp; Marci. ix. factum dicitur post dies sex, quando 
+   <lb ed="#B" n="22"/>dominus in monte est transfiguratus. vtrumque enim 
+   <lb ed="#B" n="23"/>verum esse non potest: nisi Lucas intelligatur par 
+   <lb ed="#B" n="24"/>tem nouissimam diei: quo Christus hoc praedixit fu 
+   <lb ed="#B" n="25"/>turum: &amp; partem primam diei quo ostendit id im 
+   <lb ed="#B" n="26"/>pletum, pro totis duobus diebus integris posuis 
+   <lb ed="#B" n="27"/>se. qui vero dicunt post dies sex: integros omnes &amp; to 
+   <lb ed="#B" n="28"/>tos &amp; solos medios computarunt.
+  </p>
+      <p xml:id="jMqv4a-d1e1809-d1e550">
+   ⁋ Quinto ar 
+   <lb ed="#B" n="29"/>guitur. Lazarus dictus est pati mortem quia
+   dice<lb ed="#B" n="30" break="no"/>batur quatriduanus: &amp; hoc vt cognita foret mori 
+   <lb ed="#B" n="31"/>eius: &amp; non passus diceretur syncopin. ergo hoc 
+   <lb ed="#B" n="32"/>decuit fuisse de Christo.
+  </p>
+      <p xml:id="jMqv4a-d1e1809-d1e561">
+   ⁋ Respondeo. de morte 
+   <lb ed="#B" n="33"/>Christi nulla poterat esse dubitatio cum in metro 
+   <lb ed="#B" n="34"/>poli ludaeae toto populo congregato in festo paschi 
+   <lb ed="#B" n="35"/>&amp; coram ludaeis passus sit &amp; vt non remanereni 
+   <lb ed="#B" n="36"/>in cruce corpora in sabbato rogauerunt Pilatum 
+   <lb ed="#B" n="37"/>vt frangerentur eorum crurai ad Iesum autem cum 
+   <lb ed="#B" n="38"/>venissent, vt viderunt eum iam mortuum &amp;c. vt d 
+   <lb ed="#B" n="39"/>citur Ioannis. xix. qualia testimonia non erant de 
+   <lb ed="#B" n="40"/>morte Lazari qui loco segregato mortuus erat: &amp; 
+   <lb ed="#B" n="41"/>vt eius mors aliis innotesceret / resuscitationem fu 
+   <lb ed="#B" n="42"/>turam differebat Christus. 
+  </p>
+    </div>
+   </body>
+  </text>
+</TEI>

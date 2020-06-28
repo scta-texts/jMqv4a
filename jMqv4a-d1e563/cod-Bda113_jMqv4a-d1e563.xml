@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 12</title>
+      <author ref="#JohnMair">John Mair</author>
+      <respStmt>
+       <name>Jeffrey C. Witt</name>
+       <resp>TEI Encoder</resp>
+      </respStmt>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 12</title>
+       <date when="2020-06-09">June 27, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="B" n="cod-Bda113">Badius 1516</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+     guidelines for a diplomatic edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-06-27" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+      <pb ed="#B" n="105-r"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="jMqv4a-d1e563"> <!-- l4d15q12 -->
+      <head xml:id="jMqv4a-d1e563-Hd1e104">Quaestio 12</head>
+      <head xml:id="jMqv4a-d1e563-Hd1e107" type="question-title">Quomodo conveniant et differeant ususfructus 
+  et usus et quomodo finiantur</head>
+      <p xml:id="jMqv4a-d1e563-d1e110">
+       <lb ed="#B" n="99"/>Vperiore quaestione 
+   <lb ed="#B" n="100"/>loquuti sumus de vno mo 
+   <lb ed="#B" n="101"/>do acquirendi dominii rerum 
+   <lb ed="#B" n="102"/>scilicet praescriptione &amp; vsu 
+   <lb ed="#B" n="103"/>capione. Et quia duiplex est 
+   <lb ed="#B" n="104"/>dominium: quoddam directum 
+   <lb ed="#B" n="105"/>&amp; primatium: quoddam vero 
+   <!--0242.xml-->
+   <pb ed="#B" n="105-v"/>
+       <cb ed="#B" n="a"/>
+       <lb ed="#B" n="1"/>vtile: &amp; trita est distinctio dominii vtilis, scilicet de 
+   <lb ed="#B" n="2"/>vsufructu &amp; vsu, qui crebro occurrunt inter homines 
+   <lb ed="#B" n="3"/>gratia cuius expedit de illis paululum loqui: propter 
+   <lb ed="#B" n="4"/>ea quaeram sine argumentorum multiplicatione vt in es 
+   <lb ed="#B" n="5"/>stione praecedente fecimus: quomodo conveniant &amp;
+   dif<lb ed="#B" n="6" break="no"/>ferant vsufructus &amp; vsus: &amp; quomodo finiantur. 
+  </p>
+      <p xml:id="jMqv4a-d1e563-d1e147">
+       <lb ed="#B" n="7"/>⁋ Pro huius quaestionis solutione notato quod
+   vsu<lb ed="#B" n="8" break="no"/>fructus sic definitur. Vsufructus est ius alienis vtem 
+   <lb ed="#B" n="9"/>di /fruendi rebus / salua rerum substantia. Haec defini. 
+   <lb ed="#B" n="10"/>tio patet insti. eodem titu. s. Vsufructus. &amp;. ff. eodem. l 
+   <lb ed="#B" n="11"/>prima &amp; secunda. Dicitur (rebus alienis). In re enim propria 
+   <lb ed="#B" n="12"/>nemo habet vsufructum formalem: causalis tamen est in 
+   <lb ed="#B" n="13"/>re propria. Dicitur (vtendi) ad differentiam creditoris qui 
+   <lb ed="#B" n="14"/>non debet vti pignore. Patet institu. de obli. quae  
+   <lb ed="#B" n="15"/>ex delicto nascuntur. s. Furtum. Dicitur (fruendi) ad 
+   <lb ed="#B" n="16"/>discrimen nudi vsuarii qui vti potest sed non frui. QSa 
+   <lb ed="#B" n="17"/>ua rerum substantia) id est, data cautione ne res per 
+   <lb ed="#B" n="18"/>eat. vel si res pereat, sublatus est vsufructus. Vtetur 
+   <lb ed="#B" n="19"/>autem rebus quae non consumuntur vsu: arbitrio boni viri: 
+   <lb ed="#B" n="20"/>&amp; sicut quilibet prudens vteretur re propria: &amp; finito 
+   <lb ed="#B" n="21"/>vsufructu restituet proprietatem vero domimno. quia pro 
+   <lb ed="#B" n="22"/>prietas ab vsufructu separatur. patet eo. S.
+   Vsufru<lb ed="#B" n="23" break="no"/>ctus. institu. vbi dicit imperator. Vsufructus a ar 
+   <lb ed="#B" n="24"/>prietate separationem recipit. idque pluribus modis 
+   <lb ed="#B" n="25"/>accidit, vt ecce si quis vsufructu alicui legauerit. 
+   <lb ed="#B" n="26"/>nam haeres nudam habet proprietatem: legatarius vero 
+   <lb ed="#B" n="27"/>vsufructum. Et contra: si fundum legauerit deducto 
+   <lb ed="#B" n="28"/>vsufructu, legatarius nudam habet proprietatem: haeres 
+   <lb ed="#B" n="29"/>vero vsufructum. Item alii vsufructum: alii deducto 
+   <lb ed="#B" n="30"/>eo fundum legare possunt. Vsufructus enim in omnibus 
+   <lb ed="#B" n="31"/>rebus constituitur quae non consumuntur vsu: vt in horto 
+   <lb ed="#B" n="32"/>fundo, aedibus, seruis, iumentis, sed non constituitur 
+   <lb ed="#B" n="33"/>in rebus vsu cosumptibilibus: quemadmodum sunt 
+   <lb ed="#B" n="34"/>vinum / oleum / frumentum / vestimentum / quibus proxima es 
+   <lb ed="#B" n="35"/>pecunia vt dicit imperator. Et ne proprietas esset 
+   <lb ed="#B" n="36"/>inutilis si vsufructus semper duraret (dicit
+   lusti<lb ed="#B" n="37" break="no"/>nianus) his modis finitur, scilicet morte fructuarii: 
+   <lb ed="#B" n="38"/>duabus capitis diminutionibus: scilicet maxima, &amp; 
+   <lb ed="#B" n="39"/>media, &amp; non minima: &amp; consolidatione. Maxima 
+   <lb ed="#B" n="40"/>diminutio capitis est cum aliquis simul ciuitatem &amp;
+   li<lb ed="#B" n="41" break="no"/>bertatem amittit: quod accidit iis qui fiunt serui poenae 
+   <lb ed="#B" n="42"/>propter delictum suum: vel qui propter ingratitudinem 
+   <lb ed="#B" n="43"/>rediguntur in seruitutem. Media est cum ciuitas
+   amit<lb ed="#B" n="44" break="no"/>titur &amp; libertas retinetur: quod accidit ei cui aqua &amp; igni 
+   <lb ed="#B" n="45"/>interdicitur: vel qui in insulam deportatur. Minima e cum 
+   <lb ed="#B" n="46"/>ciuitas &amp; libertas retinetur, sed status mutatur: quando 
+   <lb ed="#B" n="47"/>qui sui iuris erant facti sunt iuris alieni: vel
+   con<lb ed="#B" n="48" break="no"/>tra. Insti. de ca. diminutio. Primae duae sunt
+   mor<lb ed="#B" n="49" break="no"/>tes ciuilesc. it. Pro socio. l. Societas. Consolidatio 
+   <lb ed="#B" n="50"/>est vbi fructuarius proprietatem rei acquisiuerit. Etiam 
+   <lb ed="#B" n="51"/>finitur vsufructus cedendo. Vsus autem est ius tamen 
+   <lb ed="#B" n="52"/>vtendi alienis rebus, salua rerum substantia, sine
+   fa<lb ed="#B" n="53" break="no"/>cultate alienandi. Et propterea minus iuris est in vsu 
+   <lb ed="#B" n="54"/>quam vsufructu, vt dicit imperator. institu. de vsu &amp; 
+   <lb ed="#B" n="55"/>habitatione. S. Minus autem.
+  </p>
+      <p xml:id="jMqv4a-d1e563-d1e257">
+   ⁋ Ex isto patet quo 
+   <!--0242.xml-->
+   <cb ed="#B" n="b"/> 
+       <!-- 105-v b -->
+       <lb ed="#B" n="56"/>modo conveniant &amp; differant vsus &amp; vsufructus. 
+   <lb ed="#B" n="57"/>interdum etiam parificantur / vt Accursius bene
+   colli<lb ed="#B" n="58" break="no"/>git in glossa. vt in fundo de quo tantum foeni tollitur 
+   <lb ed="#B" n="59"/>vt soli sibi sufficiat. Item in sylua remota: ex qua 
+   <lb ed="#B" n="60"/>vterque ligna vendere potuit ilite. eo. Diuus. alioquin  
+   <lb ed="#B" n="61"/>vsus esset viro inutilis: cum crebro plus exponeret pro 
+   <lb ed="#B" n="62"/>aduectione lignorum quam valerent.
+  </p>
+      <p xml:id="jMqv4a-d1e563-d1e281">
+   ⁋ Sed circa ista 
+   <lb ed="#B" n="63"/>dubitatur. Sortes habeat vsum in tribus nemoribus 
+   <lb ed="#B" n="64"/>vel pratis. Arguitur sic. Aliquis vsus erit ei
+   inuti<lb ed="#B" n="65" break="no"/>is: vel potest vendere sicut fructuarius, contra dicta. 
+   <lb ed="#B" n="66"/>Insuper si relinquatur vsufructus vniuersitati, ille num 
+   <lb ed="#B" n="67"/>quam finietur: cum secundum doctrinam politicam <name xml:id="jMqv4a-d1e563-Nd1e294" ref="#Aristotle">Aristotelis</name> 
+       <lb ed="#B" n="68"/>primo Politicorum, ciuitas maneat eadem variis ho 
+   <lb ed="#B" n="69"/>minibus sibi succedentibus.
+  </p>
+      <p xml:id="jMqv4a-d1e563-d1e302">
+   ⁋ Ad primum dicitur quod 
+   <lb ed="#B" n="70"/>Sortes potest capere vsufructum vbi velit, &amp; aliis 
+   <lb ed="#B" n="71"/>gratificari. Ad secundum dicitur quod vsufructus legatus 
+   <lb ed="#B" n="72"/>ciuitati durabit spatio centum annorum. fu. eo. l. An 
+   <lb ed="#B" n="73"/>vsufructum. vel desinit esse ciuitas.
+  </p>
+      <p xml:id="jMqv4a-d1e563-d1e313">
+   ⁋ Secundo
+   vi<lb ed="#B" n="74" break="no"/>detur quod non erit salua substantia in vsufructu: nam 
+   <lb ed="#B" n="75"/>Sortes potest tollere hoc lignum: &amp; illud: &amp; sic de quo 
+   <lb ed="#B" n="76"/>libet: &amp; tandem corrumpetur nemus, nec valet cutrere 
+   <lb ed="#B" n="77"/>ad radices arborum / quia illic refugium habere non
+   po<lb ed="#B" n="78" break="no"/>tes. Vnam enim radicem potest extrahere: &amp; eadem ratione 
+   <lb ed="#B" n="79"/>quamlibet: &amp; sic non manebit nemus. Insuper ponatur 
+   <lb ed="#B" n="80"/>ysufructus legatus alicui donec filius pupillus 
+   <lb ed="#B" n="81"/>ad pubertatem venerit: &amp; talis moriatur pupillus: tunc 
+   <lb ed="#B" n="82"/>videtur inutilis proprietas. Fodem modo, legatur fructus 
+   <lb ed="#B" n="83"/>quousque iste furiosus resipiscat: &amp; antequam
+   resipi<lb ed="#B" n="84" break="no"/>scat moritur.
+  </p>
+      <p xml:id="jMqv4a-d1e563-d1e339">
+   ⁋ Respondetur concedendo quod potest vnum 
+   <lb ed="#B" n="85"/>lignum tollere: &amp; aequa est ratio de quolibet. sed stat 
+   <lb ed="#B" n="86"/>quod non sit aequa ratio de duobus &amp; vno: nec par ra 
+   <lb ed="#B" n="87"/>tio de tribus &amp; duobus: &amp; sic gradatim ascendendo.  
+   <lb ed="#B" n="88"/>Ad aliud dico quod vsufructus durabit ad aetatem 
+   <lb ed="#B" n="89"/>completam vsque: no curando de morte. Ad secudam
+   per<lb ed="#B" n="90" break="no"/>tem casus cum vsufructus est legatus sub incerto tem 
+   <lb ed="#B" n="91"/>pore, durabit tota vita vsufructuarii: quia
+   possibi<lb ed="#B" n="92" break="no"/>le fuit quod toto eius tempore in furia perseuerasset: 
+   <lb ed="#B" n="93"/>vt in. l. Ambiguitatem. eodem.
+  </p>
+    </div>
+   </body>
+  </text>
+</TEI>

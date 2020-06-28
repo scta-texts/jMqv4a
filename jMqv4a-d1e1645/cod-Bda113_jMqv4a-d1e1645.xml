@@ -1,0 +1,254 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 15</title>
+      <author ref="#JohnMair">John Mair</author>
+      <respStmt>
+       <name>Jeffrey C. Witt</name>
+       <resp>TEI Encoder</resp>
+      </respStmt>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 15</title>
+       <date when="2020-06-09">June 27, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="B" n="cod-Bda113">Badius 1516</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+     guidelines for a diplomatic edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-06-27" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+      <pb ed="#B" n="308-r"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="jMqv4a-d1e1645"> <!-- l4d38q15 -->
+      <head xml:id="jMqv4a-d1e1645-Hd1e104">Quaestio 15</head>
+      <head xml:id="jMqv4a-d1e1645-Hd1e107" type="question-title">An votum obedientiae caeteris votis maius, 
+  obliget religiosum in omnibus parere superiori</head>
+      <p xml:id="jMqv4a-d1e1645-d1e110">
+       <lb ed="#B" n="65"/>⁋ Distinctionis Trigesimae octauae 
+   <lb ed="#B" n="66"/>Quaestio
+   Decimaquinta<lb ed="#B" n="67" break="no"/>rae Actenus de voto pau 
+   <lb ed="#B" n="68"/>pertatis &amp; continentiae locuti 
+   <lb ed="#B" n="69"/>sumus: nunc pro voto
+   obe<lb ed="#B" n="70" break="no"/>dientiae quaero, &amp; est. xv. quaestio 
+   <lb ed="#B" n="71"/>votorum. An votum
+   obedien<lb ed="#B" n="72" break="no"/>atiae caeteris votis maius,
+   obli<lb ed="#B" n="73" break="no"/>gxlget religiosum in omnibus pa 
+   <lb ed="#B" n="74"/>rere superiori. Praemittatur quid nominis obedien 
+   <lb ed="#B" n="75"/>tiae: quae nihil aliud est quam volitio actualis vel habitua 
+   <lb ed="#B" n="76"/>lis qua quis vult parere illi cui debet: &amp; exequi
+   il<lb ed="#B" n="77" break="no"/>la ad quae tenetur.
+  </p>
+      <p xml:id="jMqv4a-d1e1645-d1e141">
+   ⁋ Quo praemisso respondebitur ad  
+   <lb ed="#B" n="78"/>illud quod quaestio supponit, in priore eoclusione: in  
+   <lb ed="#B" n="79"/>secunda vero ad illud quod quaeritur.
+  </p>
+      <p xml:id="jMqv4a-d1e1645-d1e149">
+   ⁋ Prior conclu 
+   <lb ed="#B" n="80"/>sio est haec. Votum obedientiae votum
+   pauperta<lb ed="#B" n="81" break="no"/>tis &amp; castitatis in bonitate exuperat. Probatur conclu 
+   <lb ed="#B" n="82"/>sio sic. Votum obedientiae alia duo vota infert, &amp; 
+   <lb ed="#B" n="83"/>non contra. ergo ipsum est magis vtile &amp; necessa 
+   <lb ed="#B" n="84"/>rium religioso. nam si quis fuerit obediens seruan 
+   <lb ed="#B" n="85"/>do suam regulam in qua duo / paupertas &amp; castitas 
+   <lb ed="#B" n="86"/>vouentur &amp; praecipiuntur: illa duo seruabit, &amp; ipsam 
+   <lb ed="#B" n="87"/>obedientiam: non autem habendo vnum aliorum duo 
+   <lb ed="#B" n="88"/>rum. potest enim quis esse pauper vel castus: &amp; non 
+   <lb ed="#B" n="89"/>obediens. Secundo arguitur ad idem. obedientia 
+   <lb ed="#B" n="90"/>habet epitheton excellentius quam caetera vota. dicit 
+   <lb ed="#B" n="91"/>enim praelatus, In virtute sanctae obedientiae praeci 
+   <lb ed="#B" n="92"/>pimus. Praeterea vitium obedientiae oppositum est 
+   <lb ed="#B" n="93"/>peius vitiis oppositis aliis votis. ergo obedientia 
+   <lb ed="#B" n="94"/>est melior. probatur consequentia: quia meliori
+   vir<lb ed="#B" n="95" break="no"/>titi tam secundum actum quam habitum actus peior 
+   <lb ed="#B" n="96"/>opponitur. Antecedens ostenditur ex illo. i.
+   Re<lb ed="#B" n="97" break="no"/>gum. xv. Quasi peccatum ariolandi est repugna 
+   <lb ed="#B" n="98"/>re: &amp; quasi scelus idolatriae, nolle acquiescere. id est 
+   <lb ed="#B" n="99"/>non obedire. Super quo verbo dicit <ref xml:id="jMqv4a-d1e1645-Rd1e194">
+        <name xml:id="jMqv4a-d1e1645-Nd1e196">Gregorius</name> in  
+   <lb ed="#B" n="100"/>Moralibus</ref>. Sola est quae fidei meritum possidet 
+   <lb ed="#B" n="101"/>obedientia: sine qua quisque infidelis conuincitur:
+   eti<lb ed="#B" n="102" break="no"/>am si fidelis esse videatur. Citatur a <ref xml:id="jMqv4a-d1e1645-Rd1e207">
+        <name xml:id="jMqv4a-d1e1645-Nd1e209" ref="#Gratian">Gratiano</name>. viii. 
+   <lb ed="#B" n="103"/>qui. i. Sciendum est</ref>. In eodem quoque <ref xml:id="jMqv4a-d1e1645-Rd1e215">cap. xv.</ref> dicitur. 
+   <lb ed="#B" n="104"/>Melior est enim obedientia quam victimae. quod expo 
+   <lb ed="#B" n="105"/>nens idem <name xml:id="jMqv4a-d1e1645-Nd1e222">Grego.</name> vt glos. marginalis allegat, dicit. 
+   <lb ed="#B" n="106"/>Obedientia victimis iure praeponitur: quia per victimas 
+   <lb ed="#B" n="107"/>aliena caro: per obedientiam vero propria voluntas ma-  
+   <!--0648.xml-->
+   <pb ed="#B" n="308-v"/>
+       <cb ed="#B" n="a"/>
+       <lb ed="#B" n="1"/>ctatur. Tanto ergo quisque deum citius placat: quan 
+   <lb ed="#B" n="2"/>to repressa arbitrii sui superbia gladio percipiti se im 
+   <lb ed="#B" n="3"/>molat. Praeterea, obedientiam Christi Apostolus ad 
+   <lb ed="#B" n="4"/>Philip. ii. commendat dicens. Humiliauit semetipsum 
+   <lb ed="#B" n="5"/>factus obediens vsque ad mortem. Religiosi autem est 
+   <lb ed="#B" n="6"/>Christum imitari omnibus abiectis iuxta illd Matth. xix 
+   <lb ed="#B" n="7"/>Si vis perfectus esse / vade, &amp; vende omnia qua habes: &amp; se 
+   <lb ed="#B" n="8"/>quere me. hoc est, conditiones meas secundum fragi 
+   <lb ed="#B" n="9"/>litatem tuam. Refert <ref xml:id="jMqv4a-d1e1645-Rd1e256">
+        <name xml:id="jMqv4a-d1e1645-Nd1e258">Ioannes Cassianus</name> libro. iiii</ref> 
+       <lb ed="#B" n="10"/>de institutis coenobiorum, quomodo Ioannes qui 
+   <lb ed="#B" n="11"/>dam egregius adolescens &amp; religiosus ad seniorum im 
+   <lb ed="#B" n="12"/>perium a duobus. miliaribus quolibet die indesinenter 
+   <lb ed="#B" n="13"/>attulit aquam: &amp; lignum aridum &amp; quodammodo pu 
+   <lb ed="#B" n="14"/>tre humectabat.
+  </p>
+      <p xml:id="jMqv4a-d1e1645-d1e274">
+   ⁋ Secunda conclusio. Vera obedien 
+   <lb ed="#B" n="15"/>tia non obligat religiosum in omnibus licitis &amp; ho 
+   <lb ed="#B" n="16"/>nestis parere superiori. Probatur conclusio. nullus obli 
+   <lb ed="#B" n="17"/>gatur ad opus superogationis nisi volens: vouens 
+   <lb ed="#B" n="18"/>hanc religionem / no intendit ad vlteriora se obliga 
+   <lb ed="#B" n="19"/>re: ergo non male agit alia sibi imposita recusando.  
+   <lb ed="#B" n="20"/>Secundo arguitur ad idem. Nam dato opposito sequitur 
+   <lb ed="#B" n="21"/>quod professus in religione sancti <name xml:id="jMqv4a-d1e1645-Nd1e291" ref="#Augustine">Augustini</name> tenetur ad 
+   <lb ed="#B" n="22"/>mandatum superioris ingredi Carthusiam. hoc conse 
+   <lb ed="#B" n="23"/>quens est falsum: &amp; consequentia patet per te: cum 
+   <lb ed="#B" n="24"/>hoc sit licitum &amp; honestum. Tertio hoc ostenditur per bea 
+   <lb ed="#B" n="25"/>tum Bernardum in lib. de praecep. &amp; dispensatione dice 
+   <lb ed="#B" n="26"/>tem. Nihil prohibeat me praelatus horum quae promisi 
+   <lb ed="#B" n="27"/>nihil plus exigat quam promisi. si tamen obediat man 
+   <lb ed="#B" n="28"/>datis licitis: bene facit: &amp; est obedientia non neces 
+   <lb ed="#B" n="29"/>saria sed perfecta. 
+  </p>
+      <p xml:id="jMqv4a-d1e1645-d1e312">
+       <lb ed="#B" n="30"/>⁋ Contra priorem conclusionem arguitur. 
+   <lb ed="#B" n="31"/>Difficilius est relinquare multa bona quam parere superio 
+   <lb ed="#B" n="32"/>ri, quod patet de iuuene euangelico qui praecepta
+   serua<lb ed="#B" n="33" break="no"/>bat: cui difficile erat suas opes deserere: facile pare 
+   <lb ed="#B" n="34"/>re.
+  </p>
+      <p xml:id="jMqv4a-d1e1645-d1e325">
+   ⁋ Respondetur. potest dari vnus actus pauper 
+   <lb ed="#B" n="35"/>tatis / hoc actu vel illo obedientiae melior: tamen maxi 
+   <lb ed="#B" n="36"/>mus actus obedientiae est melior optimo actu pau 
+   <lb ed="#B" n="37"/>pertatis. Difficile profecto est cordato viro, &amp; cap 
+   <lb ed="#B" n="38"/>toso voluntatem suam perpetuo in manus senio 
+   <lb ed="#B" n="39"/>ris ponere: &amp; magna humilitas. 
+  </p>
+      <p xml:id="jMqv4a-d1e1645-d1e338">
+       <lb ed="#B" n="40"/>⁋ Contra secundam conclusionem arguitur. 
+   <lb ed="#B" n="41"/>Castitas habet determinatam materiam, similiter &amp; 
+   <lb ed="#B" n="42"/>paupertas: ergo etiam obedientia. sed hoc non erit nisi 
+   <lb ed="#B" n="43"/>obedientiam habeat seorsum / praeter illa duo vota 
+   <lb ed="#B" n="44"/>&amp; regulam. Respondetur negando quod habeat de 
+   <lb ed="#B" n="45"/>terminatam materiam sicut alia duo: sed solum req 
+   <lb ed="#B" n="46"/>ritur obedientia in regula. Contra hoc arguitur. Ex i 
+   <lb ed="#B" n="47"/>lo sequitur quod si sint quatuor iuuenes religiosi:
+   quo<lb ed="#B" n="48" break="no"/>rum vnus possit solus purgare coenobium sordibus 
+   <lb ed="#B" n="49"/>nullus eorum teneatur id facere. consequens est
+   incon<lb ed="#B" n="50" break="no"/>ueniens. quod sequatur probo: quia hoc non continetur in re 
+   <lb ed="#B" n="51"/>gula. loanes purgabit coenobium. Respondetur 
+   <lb ed="#B" n="52"/>negando sequelam. quilibet enim tenetur seruare suam re 
+   <lb ed="#B" n="53"/>gulam / &amp; illa sine quibus regula seruati non potest. &amp; 
+   <lb ed="#B" n="54"/>hoc est seruare regulam. nam si vnus istorum licite pos- 
+   <!--0648.xml-->
+   <cb ed="#B" n="b"/> 
+       <!-- 308-v b -->
+       <lb ed="#B" n="55"/>sit quoduis onus iniunctum recusare: pari ratione quili 
+   <lb ed="#B" n="56"/>bet aliorum trium. itaque vbi necesse est aliquem purgare 
+   <lb ed="#B" n="57"/>coenobium, &amp; non est maior ratio de vno qui de illo 
+   <lb ed="#B" n="58"/>cui superior praecipit: tenetur ille superiori parere: vel quando 
+   <lb ed="#B" n="59"/>est dubium.
+  </p>
+      <p xml:id="jMqv4a-d1e1645-d1e390">
+   ⁋ Secundo arguitur contra eandem conclusio 
+   <lb ed="#B" n="60"/>nem. Refert Ioannes Cassianus lib. iiii. ca. xxv.
+   quo<lb ed="#B" n="61" break="no"/>modo Ioannes de quo in probatione conclusionis men 
+   <lb ed="#B" n="62"/>tionem fecimus / praecipiente seniore lenticulam olei 
+   <lb ed="#B" n="63"/>quam sola erat in eremo in vsus fratrum seruata / fregit. 
+   <lb ed="#B" n="64"/>Et in. xxvi. ca. quomodo idem Ioannes seniore
+   preci<lb ed="#B" n="65" break="no"/>piente vt aduolueret grande saxum quod aduoluere ne 
+   <lb ed="#B" n="66"/>quibat: non desinebat quousque plenus sudoribus
+   la<lb ed="#B" n="67" break="no"/>pidem humectabat: applicita nunc ceruice: nunc te 
+   <lb ed="#B" n="68"/>to pectore. Et in ca. xxvii. eiusdem recitat quomodo 
+   <lb ed="#B" n="69"/>Mutius proprium filium in fluuium praecipitare
+   vole<lb ed="#B" n="70" break="no"/>bat ob superioris praeceptum. Quibus &amp; multis 
+   <lb ed="#B" n="71"/>aliis similibus suppositis, quae idem Cassianus reci 
+   <lb ed="#B" n="72"/>tat, arguitur sic. lsti religiosi quibus praecipiebatur factu 
+   <lb ed="#B" n="73"/>difficillimum: immo impossibile: praecipiente
+   senio<lb ed="#B" n="74" break="no"/>re, complere conati sunt: &amp; in hoc laudandi omni 
+   <lb ed="#B" n="75"/>aeuo. sed illorum facta sunt imitanda: ergo oportet pa 
+   <lb ed="#B" n="76"/>rere abbati in omnibus.
+  </p>
+      <p xml:id="jMqv4a-d1e1645-d1e430">
+   ⁋ Respondetur.
+   argumen<lb ed="#B" n="77" break="no"/>tum bene probat quod bene agitur parendo abbati in
+   omi<lb ed="#B" n="78" break="no"/>bus licitis quae fieri possunt: &amp; etiam enitendo facere quan 
+   <lb ed="#B" n="79"/>tum in se est / impossibile: quia illud eniti / est
+   possi<lb ed="#B" n="80" break="no"/>bile: vt si praecipiatur inferiori euertere arcem: potest
+   in<lb ed="#B" n="81" break="no"/>ferior manus, ceruicem, pectus, &amp; huiusmodi tali euersioni 
+   <lb ed="#B" n="82"/>applicare. sed non sequitur quod homo ad haec teneatur. 
+   <lb ed="#B" n="83"/>Vnde si duobus inferioribus Sorti &amp; Platoni:
+   ab<lb ed="#B" n="84" break="no"/>bas praecipet arcem euertere: &amp; Sortes se applicaret. ad 
+   <lb ed="#B" n="85"/>id faciendum: &amp; Plato diceret hoc esse a regula alie 
+   <lb ed="#B" n="86"/>num: nec se ad hoc vi professionis suae esse obnoxium: 
+   <lb ed="#B" n="87"/>&amp; propterea nolle hoc facere: vterque istorum licite 
+   <lb ed="#B" n="88"/>faceret, nec peccaret: sed sortes melius faceret.
+  </p>
+      <p xml:id="jMqv4a-d1e1645-d1e459">
+   ⁋ Vn 
+   <lb ed="#B" n="89"/>de hic notabis quod abbas potest praecipere inferiori 
+   <lb ed="#B" n="90"/>suo multifariam. Vno modo illicitum cognitum 
+   <lb ed="#B" n="91"/>tale: &amp; in hoc non est ei parendum. nam praeceptu dei est 
+   <lb ed="#B" n="92"/>contrarium. &amp; deo oportet plus parere qui hominibus. Actu 
+   <lb ed="#B" n="93"/>um. v. Vel praecipit secundum regulam: puta exequi aliquid 
+   <lb ed="#B" n="94"/>quod in regula continetur, vel sine quo regula seruari 
+   <lb ed="#B" n="95"/>non potest. &amp; sic tenetur inferior superiori parere. 
+   <lb ed="#B" n="96"/>Vel percipit aliquid contra regulam: &amp; sic vbi est ratio 
+   <lb ed="#B" n="97"/>dispensandi / parendum est. si autem non sit ratio 
+   <lb ed="#B" n="98"/>dispensandi, licet non desit auctoritas in dispensan 
+   <lb ed="#B" n="99"/>te: non est ei parendum. &amp; hoc quando constat non 
+   <lb ed="#B" n="100"/>esse rationem. Si vero praecipiat aliquid in quo est du 
+   <lb ed="#B" n="101"/>bium an possit bene fieri: an male, parendum est: po 
+   <lb ed="#B" n="102"/>tissimum vbi superior est prudens. modo enim praeci 
+   <lb ed="#B" n="103"/>piat licitum &amp; honestum etsi a regula alienum etiam 
+   <lb ed="#B" n="104"/>cognitum tale, turpe est non parere: potissimum si 
+   <lb ed="#B" n="105"/>sit facile factu: licet non sit peccatum.
+  </p>
+      <p xml:id="jMqv4a-d1e1645-d1e498">
+   ⁋ Hactenus 
+   <lb ed="#B" n="106"/>de obedientia votorum essentialium potissimo vo 
+   <lb ed="#B" n="107"/>to: &amp; in quibus de necessitate est parendum: in
+   qui<lb ed="#B" n="108" break="no"/>bus vtile: in quibus non necessarium: &amp; in quibus 
+   <lb ed="#B" n="109"/>peccatum. 
+   <!--0649.xml-->
+   <pb ed="#B" n="309-r"/>
+       <cb ed="#B" n="a"/>
+      </p>
+    </div>
+   </body>
+  </text>
+</TEI>

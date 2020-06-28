@@ -1,0 +1,299 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 1</title>
+      <author ref="#JohnMair">John Mair</author>
+      <respStmt>
+       <name>Jeffrey C. Witt</name>
+       <resp>TEI Encoder</resp>
+      </respStmt>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 1</title>
+       <date when="2020-06-09">June 27, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="B" n="cod-Bda113">Badius 1516</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+     guidelines for a diplomatic edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-06-27" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+      <pb ed="#B" n="266-r"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="jMqv4a-d1e1418"> <!-- l4d28q1 -->
+      <head xml:id="jMqv4a-d1e1418-Hd1e104">Quaestio 1</head>
+      <head xml:id="jMqv4a-d1e1418-Hd1e107" type="question-title">An carnalis copula cum sponsalibus matrimonium 
+  causet</head>
+      <p xml:id="jMqv4a-d1e1418-d1e110">
+       <lb ed="#B" n="25"/>⁋ Distinctionis Vigesimae octauae 
+   <lb ed="#B" n="26"/>Quaestio Prima. 
+   <lb ed="#B" n="27"/>Vaeritur
+   pri<lb ed="#B" n="28" break="no"/>mo circa distinctio 
+   <lb ed="#B" n="29"/>nem vigesimamocta: 
+   <lb ed="#B" n="30"/>uam: an carnalis co 
+   <lb ed="#B" n="31"/>pula cum
+   sponsali<lb ed="#B" n="32" break="no"/>bus matrimonium 
+   <lb ed="#B" n="33"/>causet. Respondetur 
+   <lb ed="#B" n="34"/>per conclusiones: 
+   <lb ed="#B" n="35"/>quarum prima est. 
+   <lb ed="#B" n="36"/>Carnalis copula. 
+   <lb ed="#B" n="37"/>ante sponsalia non 
+   <lb ed="#B" n="38"/>causat
+   matrimo<lb ed="#B" n="39" break="no"/>nium verum: nec praesumptum. puta totum illud aggrega 
+   <lb ed="#B" n="40"/>tum. Quia non sit verum matrimonium, patet: quia hic non 
+   <lb ed="#B" n="41"/>est consensus praesentialis mutuus actualiter / vel vir 
+   <lb ed="#B" n="42"/>tualiter signo sufficiente declaratus: ergo non est 
+   <lb ed="#B" n="43"/>matrimonium verum. Quia nec sit praesumptu probatur: quia 
+   <lb ed="#B" n="44"/>carnalis copula sola non facit matrimonium: nec 
+   <lb ed="#B" n="45"/>sponsalia sola: nec sponsalia sequentia carnalem co 
+   <lb ed="#B" n="46"/>pulam: quia ex his omnibus iunctis non colligitur argumen 
+   <lb ed="#B" n="47"/>tum consensus mutui. ergo non est matrimonium
+   pre<lb ed="#B" n="48" break="no"/>sumptum.
+  </p>
+      <p xml:id="jMqv4a-d1e1418-d1e165">
+   ⁋ Secunda conclusio. Carnalis copula. 
+   <lb ed="#B" n="49"/>post sponsalia si adsit consensus mutuus, verum fa 
+   <lb ed="#B" n="50"/>cit matrimonium. Probatur. illic est consensus
+   mu<lb ed="#B" n="51" break="no"/>tuus signis exterioribus sufficienter ostensus: ergo 
+   <lb ed="#B" n="52"/>est verum matrimonium. consequentia ex dictis est 
+   <!--0563.xml-->
+   <cb ed="#B" n="b"/> 
+       <!-- 266-r b -->
+       <lb ed="#B" n="53"/>nota. probo antecedens. nam cum sponsalia contraxe 
+   <lb ed="#B" n="54"/>rint &amp; commiscuerint sese: est signum probabile consen 
+   <lb ed="#B" n="55"/>sus mutui &amp; quod se commiscere voluerit sine culpa 
+   <lb ed="#B" n="56"/>vel saltem affectu maritali. hoc autem signum sufficit. 
+   <lb ed="#B" n="57"/>quod probatur: quoniam non requiruntur determinata verba: 
+   <lb ed="#B" n="58"/>sed nutus, scriptum, &amp; alia signa sufficiunt sicut ver 
+   <lb ed="#B" n="59"/>ba: quia de aequipollentibus idem est iudicium: vbi 
+   <lb ed="#B" n="60"/>certa verba non praecipiuntur: vt in Eucharistia &amp; in  
+   <lb ed="#B" n="61"/>paptismo. ergo in isto casu carnalis copula aequi 
+   <lb ed="#B" n="62"/>pollet verbis. illud tamen signum sensibile, fateor, est 
+   <lb ed="#B" n="63"/>multo magis occultum quam verba.
+  </p>
+      <p xml:id="jMqv4a-d1e1418-d1e208">
+   ⁋ Tertia
+   conclu<lb ed="#B" n="64" break="no"/>sio. Carnalis copula post sponsalia siue adsit
+   con<lb ed="#B" n="65" break="no"/>sensus, siue non, causat matrimonium praesumptum. 
+   <lb ed="#B" n="66"/>probatur sic. verba consensum indicantia mendacio 
+   <lb ed="#B" n="67"/>prolata efficiunt matrimonium praesumptum: licet non 
+   <lb ed="#B" n="68"/>verum. sed sponsalia &amp; carnalis copula sequens, vet 
+   <lb ed="#B" n="69"/>bis aequiualent ex praecedente: ergo tale
+   matrimo<lb ed="#B" n="70" break="no"/>nium efficiunt quale verba praesentialiter prolata.
+   Secun<lb ed="#B" n="71" break="no"/>do arguitur ad idem. matrimonium quod est praesumptum 
+   <lb ed="#B" n="72"/>nullum, non praestat impedimentum matrimonio sequen 
+   <lb ed="#B" n="73"/>ti. sed carnalis copula post verba de futuro praestat 
+   <lb ed="#B" n="74"/>impedimentum matrimonio sequenti: contra quod 
+   <lb ed="#B" n="75"/>etiam non admittitur probatio: vt patet de sponsa. 
+   <lb ed="#B" n="76"/>cap. ls qui fidem. igitur. 
+  </p>
+      <p xml:id="jMqv4a-d1e1418-d1e239">
+       <lb ed="#B" n="77"/>⁋ Contra ista arguitur. duae vltimae 
+   <lb ed="#B" n="78"/>conclusiones repugnant. ergo sunt male positae. 
+   <lb ed="#B" n="79"/>antecedens probatur: quia carnalis copula ante sponi 
+   <lb ed="#B" n="80"/>salia aequiualet sponsalibus cum copula sequente. 
+   <lb ed="#B" n="81"/>sicut ducatus &amp; denarius aequiualent denario &amp; 
+   <lb ed="#B" n="82"/>ducato. sed de aequiualentibus idem est iudicium. vt 
+   <lb ed="#B" n="83"/>in probatione secundae conclusionis dicitur.
+  </p>
+      <p xml:id="jMqv4a-d1e1418-d1e257">
+   ⁋ Respon 
+   <lb ed="#B" n="84"/>detur negando quod illae duae conclusiones inter sese pu 
+   <lb ed="#B" n="85"/>gnent: &amp; nego quod assumpta aequiualent nec est
+   si<lb ed="#B" n="86" break="no"/>mile in adducto. Nam transponendo aliqua verba 
+   <lb ed="#B" n="87"/>explicantia consensum: non habebis vllum signum suffi 
+   <lb ed="#B" n="88"/>cienter expli atiuum consensus mutui illo modo
+   vtendi<lb ed="#B" n="89" break="no"/>hoc dico propter tales rationes, quas cudere potes. 
+   <lb ed="#B" n="90"/>hae voces vel scripturae sic positae sunt signum suffi 
+   <lb ed="#B" n="91"/>ciens: &amp; hae literae sic transpositae sunt hae literae quali 
+   <lb ed="#B" n="92"/>tercumque situentur. igitur. Nonne in arithmetica vides 
+   <lb ed="#B" n="93"/>non esse idem ponere elementum nihili quod cifram vocant, 
+   <lb ed="#B" n="94"/>ante figuram, &amp; postponere? Et tamen idem est
+   multipli<lb ed="#B" n="95" break="no"/>care nouem per septe, &amp; septem per nouem. 
+  </p>
+      <p xml:id="jMqv4a-d1e1418-d1e286">
+       <lb ed="#B" n="96"/>⁋ Contra secundam conclusionem arguitur 
+   <lb ed="#B" n="97"/>Sola copula carnalis non facit matrimonium: ned 
+   <lb ed="#B" n="98"/>solus consensus facit matrimonium: ergo illud
+   ag<lb ed="#B" n="99" break="no"/>gregatum non facit matrimonium. Respodetur. conse 
+   <lb ed="#B" n="100"/>quentia est nulla. vt patet in consensu mutuo cum 
+   <lb ed="#B" n="101"/>verbis praesentialibus, quorum neutrum solum sufficit 
+   <lb ed="#B" n="102"/>ad matrimonium: &amp; tamen aggregatum sufficit.
+  </p>
+      <p xml:id="jMqv4a-d1e1418-d1e304">
+   ⁋ Secun 
+   <lb ed="#B" n="103"/>do arguitur contra eandem. Sortes non habet tale pro 
+   <lb ed="#B" n="104"/>positum quo vult Bertam cognoscere tamquam vxore 
+   <lb ed="#B" n="105"/>suam: nec Berta quod vult cognosci tamquam eius vxor 
+   <lb ed="#B" n="106"/>sed se ad copulam applicant de matrimonio non 
+   <!--0564.xml-->
+   <pb ed="#B" n="266-v"/>
+       <cb ed="#B" n="a"/>
+       <lb ed="#B" n="1"/>cogitantes: ergo conclusio nulla. Respondetur. argu 
+   <lb ed="#B" n="2"/>mentum quaerere intendit, quid sit Sortem &amp; Bertam
+   affe<lb ed="#B" n="3" break="no"/>ctu maritali se inuicem cognoscere. Si sint ambo 
+   <lb ed="#B" n="4"/>docti &amp; prudentes: dicunt verbo se hoc signo ma 
+   <lb ed="#B" n="5"/>trimonium perficere: vel Sortes dicit, permittas me te 
+   <lb ed="#B" n="6"/>potiri tamquam vxore. &amp; ipsa hac lege adiecta consentit 
+   <lb ed="#B" n="7"/>vel aliquo simili exprsso: &amp; tunc nulla est difficultas. 
+   <lb ed="#B" n="8"/>fortasse nullum verbu dicunt: sed consentiunt in se inui 
+   <lb ed="#B" n="9"/>cem tamquam vir in vxorem &amp; contra: nihil vocaliter expri 
+   <lb ed="#B" n="10"/>mendo: &amp; sic adhuc est matrimonium: quia per factum 
+   <lb ed="#B" n="11"/>&amp; verba praecedentia consensus verus sufficienter ex 
+   <lb ed="#B" n="12"/>plicatur: illo facto addito. &amp; illa copula carnalis, 
+   <lb ed="#B" n="13"/>modo assensus mutuus subsit, est signum sufficiens 
+   <lb ed="#B" n="14"/>sicut verba. si vero alter dissentit intendens
+   po<lb ed="#B" n="15" break="no"/>tiri altera gratia explendae libidinis solum, &amp; non
+   ma<lb ed="#B" n="16" break="no"/>trimonii cotrahendi, no est matrimonium realiter.- 
+   <lb ed="#B" n="17"/>Alio modo possunt se habere sic quod nec
+   consen<lb ed="#B" n="18" break="no"/>tiant nec dissentiant: vel saltem alter nec consentit nec 
+   <lb ed="#B" n="19"/>dissentit praesentialiter, cognoscendo aliam tamquam
+   coniu<lb ed="#B" n="20" break="no"/>gem: sed no cogitant de hoc: &amp; tunc reuera non est ma 
+   <lb ed="#B" n="21"/>trimonium. ratio est: quia num quam fuit consensus mutuus 
+   <lb ed="#B" n="22"/>actualis vel virtualis praesens. tamen cogendi sunt
+   co<lb ed="#B" n="23" break="no"/>habitare mutuo per censuram ecclesiasticam, &amp; consenti 
+   <lb ed="#B" n="24"/>re praesentialiter: &amp; ad hoc tenentur: nisi sit notabile 
+   <lb ed="#B" n="25"/>discrimen inter virum &amp; mulierem, vtpote vir est multum 
+   <lb ed="#B" n="26"/>nobilis &amp; opulentus: illa vero infimae conditionis 
+   <lb ed="#B" n="27"/>sed pulchra: tunc enim facile praesumitur quod non fuerit com 
+   <lb ed="#B" n="28"/>sensus viri in matrimonium. licet enim mulier consen 
+   <lb ed="#B" n="29"/>serit / hoc non sufficit, nec praesumitur quod ipsa decipiatur: 
+   <lb ed="#B" n="30"/>sed quod voluit se cum alio comiscere: &amp; per verba sub 
+   <lb ed="#B" n="31"/>vmbra matrimonii se protegere (sceleri enim nunquam 
+   <lb ed="#B" n="32"/>defuit excusatio) putas hac via magnum virum in  
+   <lb ed="#B" n="33"/>matrimonium allicere: sed ipsa ob incontinentiam habe 
+   <lb ed="#B" n="34"/>bitur non modo contemptui ab illo: verumetiam a pari, &amp;
+   me<lb ed="#B" n="35" break="no"/>rito erit vehemens praesumptio incontinentiae eius.
+   Se<lb ed="#B" n="36" break="no"/>cus est si vir sit pauper, &amp; mulier nobilis &amp; opulem 
+   <lb ed="#B" n="37"/>ta. tunc enim citius praesumetur de matrimonio: cum mul 
+   <lb ed="#B" n="38"/>to turpius &amp; exprobrabilius sit illi cognosci mo 
+   <lb ed="#B" n="39"/>re meretricio ab inferiore quam affectu vxorio: &amp; nul 
+   <lb ed="#B" n="40"/>lus magnanimus factum cognoscens est eam in poste 
+   <lb ed="#B" n="41"/>rum ducturus. Ediuerso est in viro: licet sit muliere 
+   <lb ed="#B" n="42"/>rudentior: incontinentia enim non est ei adeo
+   expro<lb ed="#B" n="43" break="no"/>brabilis &amp; foeda vt mulieri si sit habilis / contrahe 
+   <lb ed="#B" n="44"/>re. Aliter namque ecclesia inter aequales procedit: quam
+   in<lb ed="#B" n="45" break="no"/>equales, aliter inter pauperes iudicando quam inter
+   di<lb ed="#B" n="46" break="no"/>uitem &amp; pauperem: nec male facit, quia caetera sunt im 
+   <lb ed="#B" n="47"/>paria. Alio etiam modo nesciunt an consenserint vnquam in 
+   <lb ed="#B" n="48"/>alterutrum praesentialiter: vt multi simplices. Et in omnibus 
+   <lb ed="#B" n="49"/>talibus pro matrimonio iudicandum est. tum primo qua 
+   <lb ed="#B" n="50"/>est res multum fauorabilis. tum secundo, licet non sit 
+   <lb ed="#B" n="51"/>matrimonium contractum: eis consentire de nouo non 
+   <lb ed="#B" n="52"/>est malum: &amp; eos separari est periculosum. nam potest 
+   <lb ed="#B" n="53"/>esse contra legem dei. &amp; securius tenendum est. quare eru 
+   <lb ed="#B" n="54"/>ditus theologus, canonista, vel alius debet eis con 
+   <lb ed="#B" n="55"/>sulere in casu ambiguo vt. simul cohabitent: &amp; ad 
+   <!--0564.xml-->
+   <cb ed="#B" n="b"/> 
+       <!-- 266-v b -->
+       <lb ed="#B" n="56"/>cautelam de nouo consentiant. Quo fit vt si aliquis co 
+   <lb ed="#B" n="57"/>gnoscat suam sponsam credens esse matrimonium, 
+   <lb ed="#B" n="58"/>dissentiens tamen: non est propterea verum matrimonium in
+   pro<lb ed="#B" n="59" break="no"/>pter dissensum actualem. si autem non dissentiat:
+   con<lb ed="#B" n="60" break="no"/>sensus tacitus reputabitur. 
+  </p>
+      <p xml:id="jMqv4a-d1e1418-d1e458">
+       <lb ed="#B" n="61"/>⁋ Contra tertiam conclusionem arguitur 
+   <lb ed="#B" n="62"/>sic. Contrahat Sortes cum duabus vage hoc modo  
+   <lb ed="#B" n="63"/>capiam vnam vestrum: &amp; postea vnam illarum cognoscat, 
+   <lb ed="#B" n="64"/>tunc hic erit matrimonium verum vel praesumptum, quod 
+   <lb ed="#B" n="65"/>si concedas: insto. sponsalia nulla praecesserunt: ergo  
+   <lb ed="#B" n="66"/>non habetur signum sensibile sufficiens.
+  </p>
+      <p xml:id="jMqv4a-d1e1418-d1e475">
+   ⁋ Respondetur. 
+   <lb ed="#B" n="67"/>erit matrimonium praesumptum. sed non est contra tertiam 
+   <lb ed="#B" n="68"/>conclusionem: quia non erant sponsalia proprie dicta. 
+   <lb ed="#B" n="69"/>nam vage &amp; disiunctim quodammodo sponsalia 
+   <lb ed="#B" n="70"/>fecit: sedcum vnam cognoscit, praesumitur quod sponsionem 
+   <lb ed="#B" n="71"/>vagam in determitata de praesenti commutat. Ex quo 
+   <lb ed="#B" n="72"/>patet quod si sponsus sponsam cognoscere velit, 
+   <lb ed="#B" n="73"/>&amp; ipsa renitatur: non est verum matrimonium: nec
+   prae<lb ed="#B" n="74" break="no"/>sumptum. cognoscitur enim quod non est consensus mutu. 
+   <lb ed="#B" n="75"/>imo si tentaret quis sponsam cognoscere quam non  
+   <lb ed="#B" n="76"/>potest: contrahens cu alia, cum secunda manebit. Textus 
+   <lb ed="#B" n="77"/>est clarus in cap. fi. de sponsali.
+  </p>
+      <p xml:id="jMqv4a-d1e1418-d1e501">
+   ⁋ Hactenus qui co 
+   <lb ed="#B" n="78"/>pula cum sponsalibus causet matrimonium &amp; quae non. 
+   <lb ed="#B" n="79"/>&amp; quod copula carnalis post sponsalia sic matrimo 
+   <lb ed="#B" n="80"/>nium praesumptum causat vt contra ipsum non admittatur 
+   <lb ed="#B" n="81"/>probatio. Pro praesumptione melius intelligenda 
+   <lb ed="#B" n="82"/>Notato quod fictio est quando ius certum de aliquo 
+   <lb ed="#B" n="83"/>fingit statuendo oppositum: vt cum fingit vxorem
+   sti<lb ed="#B" n="84" break="no"/>pulatam dotem reddi sibi: licet sit certum quod non fue 
+   <lb ed="#B" n="85"/>rit stipulata: sed in fauorem mulieris hoc fingit. 
+   <lb ed="#B" n="86"/>Praesumptio vero est super dubio &amp; verosimili. Et 
+   <lb ed="#B" n="87"/>est duplex. Quaedam praesumptio iuris: quaedam hominis. 
+   <lb ed="#B" n="88"/>Praesumptio iuris adhuc subdiuiditur. quaedam enim 
+   <lb ed="#B" n="89"/>est simplex: vt cum ius in aliquo dubio praesumit, 
+   <lb ed="#B" n="90"/>sed non fingit in tantum vt pedes statuat super falso 
+   <lb ed="#B" n="91"/>praesumpto sicut super vero. Et contra talem praesum 
+   <lb ed="#B" n="92"/>ptionem admittitur probatio in contrarium. vt patet in 
+   <lb ed="#B" n="93"/>ca. Proposuisti. de proba. Quaedam est praesumptio 
+   <lb ed="#B" n="94"/>non simplex: vt quia ius vltra praesumptionem proce 
+   <lb ed="#B" n="95"/>dit ad statuendum ac si ex facto prsumpto vere sibi 
+   <lb ed="#B" n="96"/>constaret. &amp; contra illam praesumptionem non admittitur 
+   <lb ed="#B" n="97"/>probatio in contrarium. Et sic intelligitur cap. ls 
+   <lb ed="#B" n="98"/>qui. allegatum in probatione tertiae conclusionis. 
+   <lb ed="#B" n="99"/>Contra omnem autem praesumptionem iuris simplicem ad 
+   <lb ed="#B" n="100"/>mittitur probatio in oppositum. &amp; appellatur
+   prae<lb ed="#B" n="101" break="no"/>sumptio iuris quia a iure habuit originem.
+   Prae<lb ed="#B" n="102" break="no"/>sum ptio hominis est cum iudex aut alius homo 
+   <lb ed="#B" n="103"/>praesumit in casibus non specifice in iure
+   praesum<lb ed="#B" n="104" break="no"/>ptis. Vlterius patuit quid sit mulierem affectu vxo 
+   <lb ed="#B" n="105"/>rio cognoscere. &amp; rursum dico quod est mutuo
+   con<lb ed="#B" n="106" break="no"/>misceri modo coniugali. nam putant esse coniu 
+   <lb ed="#B" n="107"/>gium, &amp; hoc volunt in effectum deducere. vel volunt 
+   <lb ed="#B" n="108"/>se cognoscere copula tali quam licitam putant, vel co 
+   <lb ed="#B" n="109"/>pula tali qualem vir &amp; vxor facere solent: vel ali- 
+   <!--0565.xml-->
+   <pb ed="#B" n="267-r"/>
+       <cb ed="#B" n="a"/>
+       <lb ed="#B" n="1"/>quid aequiualens. Et cum te super hoc consulent in  
+   <lb ed="#B" n="2"/>casu ancipiti: pete eorum intentionem: &amp; secundum hoc 
+   <lb ed="#B" n="3"/>sententiam feres recte consulendo. alioquin erit tibi te 
+   <lb ed="#B" n="4"/>nebrosa aqua in nubibus aeris ferre sententiam. Omn 
+   <lb ed="#B" n="5"/>autem alio mo cognoscere est meretricie cognosce 
+   <lb ed="#B" n="6"/>re, nisi in altero sit ignorantia inuincibilis: quae ad 
+   <lb ed="#B" n="7"/>castitatem coniugalem sufficit. Vltimo patet ma 
+   <lb ed="#B" n="8"/>teriam matrimonii esse fauorabilem ad meretricium 
+   <lb ed="#B" n="9"/>euitandum: &amp; quod etiam in foro conscientiae pro eo stan 
+   <lb ed="#B" n="10"/>dum est, in casu ancipiti. 
+  </p>
+    </div>
+   </body>
+  </text>
+</TEI>

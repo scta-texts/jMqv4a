@@ -1,0 +1,547 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 13</title>
+      <author ref="#JohnMair">John Mair</author>
+      <respStmt>
+       <name>Jeffrey C. Witt</name>
+       <resp>TEI Encoder</resp>
+      </respStmt>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 13</title>
+       <date when="2020-06-09">June 27, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="B" n="cod-Bda113">Badius 1516</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+     guidelines for a diplomatic edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-06-27" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+      <pb ed="#B" n="105-v"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="jMqv4a-d1e566"> <!-- l4d15q13 -->
+      <head xml:id="jMqv4a-d1e566-Hd1e104">Quaestio 13</head>
+      <head xml:id="jMqv4a-d1e566-Hd1e107" type="question-title">An lucrans in ludo acquirat dominium rei lucratae, 
+  et potissimum in ludis taxillorum</head>
+      <p xml:id="jMqv4a-d1e566-d1e110">
+       <lb ed="#B" n="94"/>CIrca materiam ludorum 
+   <lb ed="#B" n="95"/>deinceps quaeritur an lucrans 
+   <lb ed="#B" n="96"/>in ludo acquirat dominium 
+   <lb ed="#B" n="97"/>rei lucratae: &amp; potissimum in 
+   <lb ed="#B" n="98"/>ludis taxillorum. &amp; erit quaestio 
+   <lb ed="#B" n="99"/>xiii. huius distinctionis
+   quin<lb ed="#B" n="100" break="no"/>ltedecimae.
+  </p>
+      <p xml:id="jMqv4a-d1e566-d1e128">
+   ⁋ Ad quaestionem 
+   <lb ed="#B" n="101"/>respondetur per conclusiones sequentes. Prima. In  
+   <lb ed="#B" n="102"/>aliquibus fortuitis ludis lucrans acquirit dominium 
+   <lb ed="#B" n="103"/>rei lucratae. Probatur. ad transsatione dominii rerum 
+   <lb ed="#B" n="104"/>vnius in alium sufficit voluntas transferentis &amp;
+   acci<lb ed="#B" n="105" break="no"/>pientis: &amp; quod transferens habeat transsationem liberan 
+   <lb ed="#B" n="106"/>huius rei, puta sit dominus rei transferendae, vel liberam 
+   <!--0243.xml-->
+   <pb ed="#B" n="106-r"/>
+       <cb ed="#B" n="a"/>
+       <lb ed="#B" n="1"/>habeat transsationem per hunc vsum: capacitas in  
+   <lb ed="#B" n="2"/>acquirente dominium: &amp; quod non sit prohibita transsatio 
+   <lb ed="#B" n="3"/>per legem superiorem. sed sic est in aliquibus ludis: vt 
+   <lb ed="#B" n="4"/>currendo in stadio in velocitate equorum: in ludo  
+   <lb ed="#B" n="5"/>latrunculorum quem Scacarium vulgo nominant: &amp; 
+   <lb ed="#B" n="6"/>multis aliis ludis. Ludens enim est dominus rei quam 
+   <lb ed="#B" n="7"/>perdit ludendo: &amp; alius capax: &amp; nulla est prohibitio 
+   <lb ed="#B" n="8"/>humana: vel doceatur de illa.
+  </p>
+      <p xml:id="jMqv4a-d1e566-d1e168">
+   ⁋ Secunda conclusso. 
+   <lb ed="#B" n="9"/>lucrans contra artem ludi, vel ab eo qui non potuit trans 
+   <lb ed="#B" n="10"/>ferre dominium rei ludendo, non acquirit dominium 
+   <lb ed="#B" n="11"/>rei lucratae, vel quam existimat lucrari. Probatur, quia 
+   <lb ed="#B" n="12"/>non est intentio lusorum transferre dominium mutuo n 
+   <lb ed="#B" n="13"/>si teneant conditiones ludo non repugnantes. sed pec 
+   <lb ed="#B" n="14"/>cans contra ludum, vt accipiens bonam chartam, vel mu 
+   <lb ed="#B" n="15"/>tans taxillum, vel huiusmodi quid faciens, clanculum 
+   <lb ed="#B" n="16"/>capit rem alterius lusoris inuito domino. ergo
+   fur<lb ed="#B" n="17" break="no"/>tum committit, per definitionem furti. quicumque enim capit 
+   <lb ed="#B" n="18"/>alienum inuito domino clanculum, committit furtum. Clancu 
+   <lb ed="#B" n="19"/>lum in modo capiendi. licet enim alter lusor videat 
+   <lb ed="#B" n="20"/>eum capere rem suam: hoc non sufficit: quia capit per
+   fal<lb ed="#B" n="21" break="no"/>lax medium. Non voco fallax medium quando
+   ho<lb ed="#B" n="22" break="no"/>mo caute ludit occultando suum ludum colludenti
+   li<lb ed="#B" n="23" break="no"/>cite: sed quando contra artem ludi capit.
+   Filiusfami<lb ed="#B" n="24" break="no"/>lias autem &amp; religiosus non habent dominium transfe 
+   <lb ed="#B" n="25"/>rendi notabilem summam pecuniae: quaere hoc modo com 
+   <lb ed="#B" n="26"/>tra artem ludi ab his lucrans, non acquirit dominium 
+   <lb ed="#B" n="27"/>rei lucratae, nec sufficit consensus partium sed
+   requi<lb ed="#B" n="28" break="no"/>ritur quod ludens habeat dominium rei vel administra 
+   <lb ed="#B" n="29"/>tionem ad sic exponendum.
+  </p>
+      <p xml:id="jMqv4a-d1e566-d1e216">
+   ⁋ Tertia conclusio. proba 
+   <lb ed="#B" n="30"/>bilius opposito existimo quod lucrans ad taxillos 
+   <lb ed="#B" n="31"/>pecuniam ab illo qui potest perdere dummodo non pecce 
+   <lb ed="#B" n="32"/>tur contra artem ludi, acquirit dominium rei
+   lucratae<lb ed="#B" n="33" break="no"/>Per taxillos omnem ludum fortuitum intelligo: vt est in 
+   <lb ed="#B" n="34"/>taxillis, vel hasardo chartarum ( vt appellant). Notam 
+   <lb ed="#B" n="35"/>ter (in hasardo) quia aliqui ludi chartarum innitun 
+   <lb ed="#B" n="36"/>tur ingenio, &amp; aliqui ludi egent maiori
+   sollicitu<lb ed="#B" n="37" break="no"/>dine, &amp; aliqui minore. Multi tamen theologi, opposi 
+   <lb ed="#B" n="38"/>tum huius tenent: &amp; canoniste. de vi. &amp; ho. cle. in
+   ca<lb ed="#B" n="39" break="no"/>Clerici officium. Probatur conclusio. ambo consentiunt 
+   <lb ed="#B" n="40"/>quod lucrans a perdente habeat dominium: &amp; sic fit trans 
+   <lb ed="#B" n="41"/>latio dominii in lucrantem. modo voluntas domini 
+   <lb ed="#B" n="42"/>sufficit ad transferendum dominium. nihil enim est tam na 
+   <lb ed="#B" n="43"/>turale quam vt acquisitio fiat secundum voluntatem domini tra 
+   <lb ed="#B" n="44"/>dentis. Institut. de re. diuisi. S. Per traditionem. &amp; con 
+   <lb ed="#B" n="45"/>suetudo illum consensum explicat: esto perdens di 
+   <lb ed="#B" n="46"/>cat in fine ludi se non intendere abdicare dominium 
+   <lb ed="#B" n="47"/>rei ludendo perditae: lucrans enim non tenetur ei credere in 
+   <lb ed="#B" n="48"/>suum praeiudicium, nec ei restituere: quia lucrans est capax 
+   <lb ed="#B" n="49"/>lucri: &amp; perdens dominus rei perditae. Si ergo lucrans non ha 
+   <lb ed="#B" n="50"/>beat dominium rei ludendo perditae, hoc non est nisi propter ir 
+   <lb ed="#B" n="51"/>ritationem illius contractus a legissatore. sed hoc non i 
+   <lb ed="#B" n="52"/>pedit propositum. igitur. Restat solum probare minorem. pa 
+   <lb ed="#B" n="53"/>am est quod non est ex legissatore deo. hoc est, illius lucri 
+   <lb ed="#B" n="54"/>dominium non est vetitum a deo, nec per ius naturae, nec per 
+   <lb ed="#B" n="55"/>ius positiuum: nec per ius pontificium. Canones enim be- 
+   <!--0243.xml-->
+   <cb ed="#B" n="b"/> 
+       <!-- 106-r b -->
+       <lb ed="#B" n="56"/>ne vetant illum contractum: sed ipsum non irritant. Irritatio 
+   <lb ed="#B" n="57"/>autem legum non sufficit. itur. de codi. ob turpem causam 
+   <lb ed="#B" n="58"/>l. Si ob turpe. quae dicit lucrum esse pauperibus erogam 
+   <lb ed="#B" n="59"/>dum. et si quis in alea rem suam vendiderit non teneri eui 
+   <lb ed="#B" n="60"/>ctione. simile habetur in. C. de religio. &amp; sumpti. fu 
+   <lb ed="#B" n="61"/>nerum. l. Alearum vsus. Istae inquam leges non sufficiunt 
+   <lb ed="#B" n="62"/>tum quod stat aliquid esse repetendum, &amp; tamen habens non te 
+   <lb ed="#B" n="63"/>neat restituere ante sententiam datam a legissatore, vt 
+   <lb ed="#B" n="64"/>patet per glossam. xii. quaestione secunda. ca. Fraternitas. 
+   <lb ed="#B" n="65"/>&amp; patet in restitutione quadrupli vel dupli de furto 
+   <lb ed="#B" n="66"/>manifesto vel immanifesto quod ante condemnationem 
+   <lb ed="#B" n="67"/>restituere non oportet. Tum secundo quod lucrans in
+   tor<lb ed="#B" n="68" break="no"/>neamento viginti scuta, licet peccet lucrando, non  
+   <lb ed="#B" n="69"/>tenetur restituere lucrum: ergo nec in ludo
+   hasardi<lb ed="#B" n="70" break="no"/>hoc est quocumque ludo pure fortuito. Sed dicis. In 
+   <lb ed="#B" n="71"/>vno est maceratio corpons: &amp; fit pro vtilitate reipu 
+   <lb ed="#B" n="72"/>blicae: non autem in alio. Contra, non est necessarium restitue 
+   <lb ed="#B" n="73"/>re lucrum in iactu retis, vel crucis, aut partis
+   opposi<lb ed="#B" n="74" break="no"/>tae denarii: vel cum cultellus proiicitur in altum: nec lucrum 
+   <lb ed="#B" n="75"/>acquisitum per sortes: &amp; tamen in his non domatur corpus 
+   <lb ed="#B" n="76"/>nec exercitatio aliquid vtilitatis affert reipublicae. 
+   <lb ed="#B" n="77"/>Sed dicis &amp; appareter. lex irritat hunc cotractum &amp; 
+   <lb ed="#B" n="78"/>non alium: quia plura mala ad hunc ludum sequuntur. Sed 
+   <lb ed="#B" n="79"/>contra hoc arguitur. Leges imperiales non obligant omnes. 
+   <lb ed="#B" n="80"/>quia vt dicit conterraneus in hac distinctione, pauci 
+   <lb ed="#B" n="81"/>vel nulli hodie subiiciuntur legibus imperialibus. ltali 
+   <lb ed="#B" n="82"/>inquit) qui consueuerunt legibus imperialibus inniti, vtuntur 
+   <lb ed="#B" n="83"/>legibus municipalibus relicta lege imperiali.
+   Bar<lb ed="#B" n="84" break="no"/>tho. item &amp; Bal. dicunt Venetos in hoc iam praescripsisse. 
+   <lb ed="#B" n="85"/>&amp; pontifex dicit. Qui filii sunt legitimi. cap. Per 
+   <lb ed="#B" n="86"/>venerabilem. quod rex Francorum non cognoscit superiorem 
+   <lb ed="#B" n="87"/>in temporalibus, nec valet glossa quae dicit, de facto, &amp; non 
+   <lb ed="#B" n="88"/>de iure. Multae enim similes glo, non sunt ponderandae: quia 
+   <lb ed="#B" n="89"/>sunt a Teutonibus &amp; antiquis ltalis conflatae / qui
+   co<lb ed="#B" n="90" break="no"/>nati sunt sustinere imperatorem super reges, quod
+   falsis<lb ed="#B" n="91" break="no"/>simum reputo. Si enim rex Francorum de iure
+   cogno<lb ed="#B" n="92" break="no"/>uisset superiorem lice non de facto: hoc poterat ille no 
+   <lb ed="#B" n="93"/>bilis de quo est quaestio etiam allegare pro se, quod de facto 
+   <lb ed="#B" n="94"/>non cognosceret. &amp; sic responsio pontificia esset nulla. 
+   <lb ed="#B" n="95"/>Tunc sic. Vnus rex Christianus non subijcitur imperio. 
+   <lb ed="#B" n="96"/>ergo nullus. Consequntia licet arguatur a non distribu 
+   <lb ed="#B" n="97"/>to ad distributum est mihi clara, non enim sufficit
+   di<lb ed="#B" n="98" break="no"/>cere quod Francus est exemptus per Romanum pontificem: 
+   <lb ed="#B" n="99"/>quia negamus pontificem ipsum super regem Francorum vel 
+   <lb ed="#B" n="100"/>alios reges habere dominium in temporalibus ad sensum po 
+   <lb ed="#B" n="101"/>sterius declarandum in hoc quaerto. Idem solet dici de re 
+   <lb ed="#B" n="102"/>ge Hispaniarum. Fulgo, vt videre potes in c. Sicut 
+   <lb ed="#B" n="103"/>&amp; infra. de iureiuram. i margine Panormitani quem 
+   <lb ed="#B" n="104"/>ulibet habet prae manibus, dicit: quod oratores regis 
+   <lb ed="#B" n="105"/>Francorum &amp; Hispaniarum publice in concilio
+   Con<lb ed="#B" n="106" break="no"/>stantiensi protestati sunt se venisse ad sacrosanctam 
+   <lb ed="#B" n="107"/>synodum tamquam Christianos viros, &amp; membra ecclesiae, 
+   <lb ed="#B" n="108"/>&amp; non tamquam impatori subiectos. Nunquid primoge 
+   <lb ed="#B" n="109"/>nitus inter nobiles succedit toti haereditati parentum 
+   <lb ed="#B" n="110"/>in vtroque Britannorum regno lege lata ab Arthuro 
+   <!--0244.xml-->
+   <pb ed="#B" n="106-v"/>
+       <cb ed="#B" n="a"/>
+       <lb ed="#B" n="1"/>rege: quae in ducatu Britanniae in Gallia adhic ser 
+   <lb ed="#B" n="2"/>uatur: &amp; tamen nolunt hoc leges Caesareae. Reges autem alii 
+   <lb ed="#B" n="3"/>suscipiunt aliquas leges vtiles reipublicae suae, non 
+   <lb ed="#B" n="4"/>obligatorias iquantum imperiales sed inquantu regales. 
+   <lb ed="#B" n="5"/>Sed vix istud dicis sufficere. nam reges in casibus 
+   <lb ed="#B" n="6"/>ancipitibus vbi non habent legem oppositam imperiali: 
+   <lb ed="#B" n="7"/>omnia per imperialem tractant. Sed contra. haec lex per alios 
+   <lb ed="#B" n="8"/>non est suscepta: &amp; siue sit suscepta siue no: est con 
+   <lb ed="#B" n="9"/>suetudo opposita. &amp; sicut in materia de ieiunio 
+   <lb ed="#B" n="10"/>tractauimus: qualibet lex pure humana siue pontifi 
+   <lb ed="#B" n="11"/>cia siue imperialis siue regalis abrogatur per consuetudi 
+   <lb ed="#B" n="12"/>nem in oppositum, non habens vim quando non approbatur 
+   <lb ed="#B" n="13"/>moribus vtentium. sed lucrantes ludo fortuito passim 
+   <lb ed="#B" n="14"/>non restituunt. &amp; credo quod leges Caesareae numqui in hoc 
+   <lb ed="#B" n="15"/>seruabantur. Certum est enim eas in diebus Alexadri Ha 
+   <lb ed="#B" n="16"/>lensis / &amp; beati Thome, a quorum annis ferme
+   fluxe<lb ed="#B" n="17" break="no"/>runt trecenti anni, fuisse abrogatas. sed quicquid sit:  
+   <lb ed="#B" n="18"/>nunc sunt abrogatae. Nec valet responsio Panor. in  
+   <lb ed="#B" n="19"/>ca. penultimo de vita &amp; honest. cleri. dicentis quod con 
+   <lb ed="#B" n="20"/>suetudo inducens peccatum non valet. ca. Ex parte. de 
+   <lb ed="#B" n="21"/>consue. sed ex ludo isto multa contingunt peccata, 
+   <lb ed="#B" n="22"/>gitur. Illud namque est dictum sine ratione. debet enim proba 
+   <lb ed="#B" n="23"/>re quod sit peccatum tenere lucrum. alioquin nihil facit:
+   li<lb ed="#B" n="24" break="no"/>cet sint peccata in ludo. Simile patet in pecunia
+   pro<lb ed="#B" n="25" break="no"/>stibuli, vbi nullo modo potest exerceri actus sine
+   pec<lb ed="#B" n="26" break="no"/>cato mortali: &amp; tamen meretrix habet dominium illius
+   tur<lb ed="#B" n="27" break="no"/>pis lucri. homo autem prudens potest ludere sine pecca 
+   <lb ed="#B" n="28"/>to. &amp; esto num quam sit ludus sine peccato, nihil refert 
+   <lb ed="#B" n="29"/>ad restitutione. bene verum est quod assuefactio ludem 
+   <lb ed="#B" n="30"/>di non facit ad consuetudinem sufficientem. sicut
+   commu<lb ed="#B" n="31" break="no"/>nis vsus meretricis non inducit consuetudinem eam a 
+   <lb ed="#B" n="32"/>peccato excusantem. sed vbi nulla est lex irritans ad 
+   <lb ed="#B" n="33"/>acceptum quod est positiuum humanum: ipsa efficitur
+   do<lb ed="#B" n="34" break="no"/>mina accepti: dummodo ipsa accipiat a potente transa 
+   <lb ed="#B" n="35"/>ferre dominium illa via. Fodem modo est in proposito de 
+   <lb ed="#B" n="36"/>lege illa positiua humana: vel non ligante non subdi 
+   <lb ed="#B" n="37"/>tum: vel per oppositum abrogata, vel nunquam admissa. 
+   <lb ed="#B" n="38"/>Si dicas, non vsus non facit ad consuetudinem. nam
+   li<lb ed="#B" n="39" break="no"/>cet homo cesset ab actione legis Aquiliae: potest 
+   <lb ed="#B" n="40"/>tamen petere actionem ad nutum quocumque tempore laben 
+   <lb ed="#B" n="41"/>te. Dico etiam illud esse falsum si homines plurimum 
+   <lb ed="#B" n="42"/>viuant. Secundo. illo dato habetur quod homo non tenel 
+   <lb ed="#B" n="43"/>restituere nisi vbi cogitur in foro contentioso. Ter 
+   <lb ed="#B" n="44"/>tio. adhuc in illo foro potest excipere per contrariam
+   com<lb ed="#B" n="45" break="no"/>suetudinem: &amp; secundum alios per non subiectionem
+   legi<lb ed="#B" n="46" break="no"/>imperialis. Forte dicis. Mali &amp; filii Belial non suffi 
+   <lb ed="#B" n="47"/>cienter introducunt consuetudinem. modo ludentes sunt 
+   <lb ed="#B" n="48"/>vitiosi &amp; mali. hoc nihil est dicere. Licet enim
+   ere<lb ed="#B" n="49" break="no"/>mitae: boni coenobitae / &amp; multi alii non ludant: tamen tam 
+   <lb ed="#B" n="50"/>viri quam foeminae quos prudentes in seculo reputas: 
+   <lb ed="#B" n="51"/>in quibus iudicium rationis non est adhuc extinctum: 
+   <lb ed="#B" n="52"/>ludunt nec restituunt lucrum. Ptaeterea, ludant Sortes 
+   <lb ed="#B" n="53"/>&amp; Plato per integrum diem: lucretur Sortes ante me 
+   <lb ed="#B" n="54"/>ridiem centum scuta: Plato lucretur eadem post
+   meri<lb ed="#B" n="55" break="no"/>diem. tunc sic. hora duodecima Sortes habet centum 
+   <!--0244.xml-->
+   <cb ed="#B" n="b"/> 
+       <!-- 106-v b -->
+       <lb ed="#B" n="56"/>scuta, quorum Plato amisit dominium. &amp; in turpi 
+   <lb ed="#B" n="57"/>tausa potior est conditio possidentis. si Sortes sit 
+   <lb ed="#B" n="58"/>dominus lucri, habeo propositum: si non habeat: non
+   opor<lb ed="#B" n="59" break="no"/>tet restituere Platoni: quia conditio possidentis est 
+   <lb ed="#B" n="60"/>potior. Nec illa centum sunt pauperum in particulari vel 
+   <lb ed="#B" n="61"/>in vniuersali: nec eis debita sub poena peccati. 
+   <lb ed="#B" n="62"/>quod probo. si Plato illa centum scuta lucretur post
+   meri<lb ed="#B" n="63" break="no"/>diem: Sortes tenebitur restituere pauperibus centum
+   scu<lb ed="#B" n="64" break="no"/>ta: cum in hora duodecima Sortes habuerit centum 
+   <lb ed="#B" n="65"/>scuta pauperum, &amp; post meridiem ludendo ea
+   amise<lb ed="#B" n="66" break="no"/>rit: non consentiente domino sed potius contradicente: immo 
+   <lb ed="#B" n="67"/>post meridiem &amp; in die sequenti manet obligatus dare 
+   <lb ed="#B" n="68"/>illa centum scuta quae habebat hora duodecima, pau 
+   <lb ed="#B" n="69"/>peribus. Fodem modo in fine ludi amittens amittit 
+   <lb ed="#B" n="70"/>dominium rei perditae, cuius pauperes incipiunt esse domini: 
+   <lb ed="#B" n="71"/>&amp; iterato lucrans non potest iterum ludere contradicente 
+   <lb ed="#B" n="72"/>dmno. Si dicas. finito ludo pauperes incipiunt esse domini 
+   <lb ed="#B" n="73"/>rei perditae: &amp; quando homo decedit. Contra. stat quod luso 
+   <lb ed="#B" n="74"/>res maneant in eadem domo. Si Sortes de quo mem 
+   <lb ed="#B" n="75"/>tionem fecimus hora duodecima proponat amplius non 
+   <lb ed="#B" n="76"/>ludere: &amp; inter surgendum mutet propositum: sequitur quod 
+   <lb ed="#B" n="77"/>iste Sortes tenetur restituere pecuniam lucratam
+   pau<lb ed="#B" n="78" break="no"/>peribus. Item quaeritur abs te: quanta distantia post finem lu 
+   <lb ed="#B" n="79"/>di faciat hanc pecuniam esse pauperibus debitam
+   de<lb ed="#B" n="80" break="no"/>bito necessitatis. &amp; dicere non potes. Item pone quod 
+   <lb ed="#B" n="81"/>lucretur Sortes a Platone in die lunae centum: Plato
+   lu<lb ed="#B" n="82" break="no"/>cretur eadem die martis a Sorte. tunc quilibet eorum
+   tene<lb ed="#B" n="83" break="no"/>bitur restituere centum per te. quod non videtur
+   di<lb ed="#B" n="84" break="no"/>cendum. 
+  </p>
+      <p xml:id="jMqv4a-d1e566-d1e596">
+       <lb ed="#B" n="85"/>⁋ Contra secundam conclusionem
+   ar<lb ed="#B" n="86" break="no"/>gumentor. Ex ea sequitur quod periculosum sit ludere 
+   <lb ed="#B" n="87"/>cum religioso. si enim laicus perdiderit, amittit
+   do<lb ed="#B" n="88" break="no"/>minium rei suae: &amp; non acquirit dominium a
+   religioso<lb ed="#B" n="89" break="no"/>cum non habeat dominium rei perdendae.
+  </p>
+      <p xml:id="jMqv4a-d1e566-d1e609">
+   ⁋ In super
+   damna<lb ed="#B" n="90" break="no"/>remus religiosos omnes quantucumque parum ludentes 
+   <lb ed="#B" n="91"/>hos ludos, quod durum videtur.
+  </p>
+      <p xml:id="jMqv4a-d1e566-d1e616">
+   ⁋ Ad primum concedo 
+   <lb ed="#B" n="92"/>quod non est securum ludere cum religioso, stulto, seruo, 
+   <lb ed="#B" n="93"/>filiofamilias, prodigo, cui de bonis alienandis
+   in<lb ed="#B" n="94" break="no"/>terdictum est: vel nihil habente nisi ex patrimonio 
+   <lb ed="#B" n="95"/>crucifixi, &amp; hoc in magna quantitate. Sed licet
+   re<lb ed="#B" n="96" break="no"/>ligiosus non habeat dominium rei ludo acquisitae: 
+   <lb ed="#B" n="97"/>quando tamen rationabiliter ludit: potest transferre do 
+   <lb ed="#B" n="98"/>minium in alium: sicut dat scutum vnum vel duo suo
+   prae<lb ed="#B" n="99" break="no"/>ceptori vel illi qui sibi obsequitur: quando enim volun 
+   <lb ed="#B" n="100"/>tas superioris rationabilis habetur, vel verisimiliter 
+   <lb ed="#B" n="101"/>habetur: sufficit ad transsationem dominii. At dicis. 
+   <lb ed="#B" n="102"/>lucrans a religioso tenetur lucrum abbati refundere 
+   <lb ed="#B" n="103"/>ergo &amp; religiosus potest perditum capere ab alio saecu 
+   <lb ed="#B" n="104"/>lari lucrante, cum non habeat dominium illius lucri. &amp; 
+   <lb ed="#B" n="105"/>eodem modo cum saecularis non acquirat dominium 
+   <lb ed="#B" n="106"/>rei ludendo cum religioso in magna quantitate: re 
+   <lb ed="#B" n="107"/>ligiosus non potest habere dominium a saeculari in ma 
+   <lb ed="#B" n="108"/>gna quantitate: quia ad paria iudicantur. &amp; ad hoc 
+   <lb ed="#B" n="109"/>est consensus virtualis. Respondeas tu ipse. 
+   <!--0245.xml-->
+   <pb ed="#B" n="107-r"/>
+       <cb ed="#B" n="a"/>
+      </p>
+      <p xml:id="jMqv4a-d1e566-d1e664">
+       <lb ed="#B" n="1"/>⁋ Ad aliud argumentum nego quod semper
+   damnabi<lb ed="#B" n="2" break="no"/>mus religiosos ludentes. Interdum enim abbas dat 
+   <lb ed="#B" n="3"/>quinque duodenos vni mimo gratia recreationis. &amp; 
+   <lb ed="#B" n="4"/>contingit quod recreationem capiat maiorem in ludo char 
+   <lb ed="#B" n="5"/>tarum, &amp; tali recreatione indigeat: quia laborat
+   mor<lb ed="#B" n="6" break="no"/>bo vel tristitia, vel vt subleuet aliu morbo vel tri 
+   <lb ed="#B" n="7"/>stitia laborantem. &amp; sic perce ludentem ac honestatem seruan 
+   <lb ed="#B" n="8"/>tem in ludo &amp; sine scandalo, nolo condemnare. Nec exi 
+   <lb ed="#B" n="9"/>stimes esse idem in paruo &amp; in magno. licet. n. ludere pro 
+   <lb ed="#B" n="10"/>prandio. pter. itr. de aleae lusu &amp; aleato. l. Quia in conviuio. 
+   <lb ed="#B" n="11"/>Non enim valet illud quod Panor. dicit: quod illud non
+   pro<lb ed="#B" n="12" break="no"/>cedit in clericis qui non debent facere conviuium, nec illud 
+   <lb ed="#B" n="13"/>c. Nulli clerico. xliiii. distin. est pro eo. Nec credo 
+   <lb ed="#B" n="14"/>praeum hoc seruasse / vel ad hoc deuinctum, quam abbas 
+   <lb ed="#B" n="15"/>&amp; religiosus erat. sed illic deponitur clericus qui ta 
+   <lb ed="#B" n="16"/>bernam aut ergasterium habere voluerit. 
+  </p>
+      <p xml:id="jMqv4a-d1e566-d1e702">
+       <lb ed="#B" n="17"/>⁋ Contra tertiam conclusionem arcrumen 
+   <lb ed="#B" n="18"/>tor. Ex ea do occasionem non restituendi in ludo: &amp; 
+   <lb ed="#B" n="19"/>aperio viam peccatoribus extendendi cornua ad
+   luden<lb ed="#B" n="20" break="no"/>dum, vt hac via ditentur &amp; torpeant vetemo.
+  </p>
+      <p xml:id="jMqv4a-d1e566-d1e713">
+   ⁋ Secun 
+   <lb ed="#B" n="21"/>do arguitur. in via morum vbi sunt opiniones hinc 
+   <lb ed="#B" n="22"/>inde ambiguae: securior pars est tenenda. sed restitue 
+   <lb ed="#B" n="23"/>re lucrum non est peccatum secundum omnes: non restituere est 
+   <lb ed="#B" n="24"/>peccatum secundum Bonauenturam in hac distinctione &amp; mul 
+   <lb ed="#B" n="25"/>tos canonistas: &amp; dubium apud Middiltonum. igitur. 
+  </p>
+      <p xml:id="jMqv4a-d1e566-d1e726">
+       <lb ed="#B" n="26"/>⁋ Ad primum nego quod via peccatoribus aperiam. nam 
+   <lb ed="#B" n="27"/>illa antequam scriptores inceperunt reprehendere hoc vi 
+   <lb ed="#B" n="28"/>tium, aperta est. &amp; nego quod lusores hac via ditabuntur: 
+   <lb ed="#B" n="29"/>immo vt plurimum ad inopiam rediguntur. Si namque
+   Sor<lb ed="#B" n="30" break="no"/>tes lucretur centum in ludo fortuito: oportet
+   matrifa<lb ed="#B" n="31" break="no"/>milias pro chartarum vsu, candelis, &amp; huiusmodi aliquid con 
+   <lb ed="#B" n="32"/>signare de consuetudine communi quae pro lege habetur. 
+   <lb ed="#B" n="33"/>Postea ancillis &amp; famulis pro collatione &amp; obsequio 
+   <lb ed="#B" n="34"/>le honestate, quod enim facile acquiritur &amp; sine labores 
+   <lb ed="#B" n="35"/>facile amittitur. Propterea quaerti Ethicorum primo
+   di<lb ed="#B" n="36" break="no"/>cit <name xml:id="jMqv4a-d1e566-Nd1e752" ref="#Aristotle">Aristoteles:</name> quod acquirentes bona a parentibus non ad 
+   <lb ed="#B" n="37"/>eo bene conseruant vt eorum antecessores quam in sudore 
+   <lb ed="#B" n="38"/>vultus haec bona acquisiuerunt. Ecce Sortes vna 
+   <lb ed="#B" n="39"/>nocte lucratur centum: fortasse non affert in domum suam 
+   <lb ed="#B" n="40"/>nonaginta vel octoginta: prout est propensus ad elar 
+   <lb ed="#B" n="41"/>gienda pecuniam vel tenax. &amp;. lxxx. scuta remanen 
+   <lb ed="#B" n="42"/>tia citius peribunt quam quadragita aequo marte acquisi 
+   <lb ed="#B" n="43"/>ta. Nam iterum ludente nocte sequanti cum ludus sit
+   for<lb ed="#B" n="44" break="no"/>tuitus contingit perdere centum vel plura. et si forte ad  
+   <lb ed="#B" n="45"/>huc lucretur, tertia vel quarta nox absorbet totum. &amp; 
+   <lb ed="#B" n="46"/>centum scuta extra bursam eius emissa depauperant 
+   <lb ed="#B" n="47"/>eum in centum scutis. Experientia namque cognoscitur huius 
+   <lb ed="#B" n="48"/>cemodi lusores vt plurimum depauperari. Tum pro 
+   <lb ed="#B" n="49"/>pter causam nuperrime dictam. Tum quia assuescunt 
+   <lb ed="#B" n="50"/>&amp; sunt procliues pecuniam exponere fortunae cum
+   vo<lb ed="#B" n="51" break="no"/>luptate. Tum quia sunt negligentes circa res suas 
+   <lb ed="#B" n="52"/>conseruandas. Qui vigilat noctem, dormiet ipse dien. 
+   <lb ed="#B" n="53"/>Super hoc dolet vxor / &amp; negligit lucrari / quia patrem 
+   <lb ed="#B" n="54"/>familias videt omnia fortunae exponere: negligentes 
+   <!--0245.xml-->
+   <cb ed="#B" n="b"/> 
+       <!-- 107-r b -->
+       <lb ed="#B" n="55"/>sunt famuli &amp; tota familia: &amp; procliues redduntur 
+   <lb ed="#B" n="56"/>ad ludendum. nam ad motum primi mobilis mouentur 
+   <lb ed="#B" n="57"/>sphaerae inferiores: etiam motu raptus: quamquam motu
+   pro<lb ed="#B" n="58" break="no"/>prio mouentur ad oppositum. hoc est ex sua
+   incli<lb ed="#B" n="59" break="no"/>natione sunt bene nati: sed student patrisfamilias 
+   <lb ed="#B" n="60"/>imitari mores bonos vel perditos. Ecce quid facit 
+   <lb ed="#B" n="61"/>vnus insensatus oeconomus in tota politia domus. 
+   <lb ed="#B" n="62"/>exponit filiam &amp; vxorem impudicitiae: prodige dissi 
+   <lb ed="#B" n="63"/>pans earum bona vel eis debita, &amp; earum curam
+   post<lb ed="#B" n="64" break="no"/>ponens. Liberos etiam furtis / homicidiis / &amp; rapinis 
+   <lb ed="#B" n="65"/>exponit: quia dissipat bona quibus deberent ali: nec 
+   <lb ed="#B" n="66"/>tradit eis honeste viuendi normam. &amp; cum nati sint pro 
+   <lb ed="#B" n="67"/>bis parentibus secundum saeculum: seruire erubescunt. 
+   <lb ed="#B" n="68"/>sed vt patrissare videantur: sensim ludere incipiunt 
+   <lb ed="#B" n="69"/>in iuuentute. Ecce responsionem ad vim istius
+   argu<lb ed="#B" n="70" break="no"/>menti.
+  </p>
+      <p xml:id="jMqv4a-d1e566-d1e836">
+   ⁋ Ad priorem autem partem rationis nego quod ego  
+   <lb ed="#B" n="71"/>dem occasionem. Sed duas vias oppositas in hac 
+   <lb ed="#B" n="72"/>parte inuenio: &amp; sequor illam partem quam rationabilio 
+   <lb ed="#B" n="73"/>rem censeo. inconvenies tamen potest aliter sopiri quam fal 
+   <lb ed="#B" n="74"/>sitate: dicendo quod teneantur restituere no cognita 
+   <lb ed="#B" n="75"/>veritate. dices eis haec inconvenientia quae retulimus 
+   <lb ed="#B" n="76"/>&amp; plura tibi occurrentia. Consilium des restituendi 
+   <lb ed="#B" n="77"/>ucrum in tesserarum ludo partum. Licet enim in schola 
+   <lb ed="#B" n="78"/>literatorum ponatur haec conclusio: tamen ipsa inter vulga 
+   <lb ed="#B" n="79"/>res non spargenda venit, non omnis enim veritas est 
+   <lb ed="#B" n="80"/>populo detegenda. sed cauta sollicitudine quaeratur 
+   <lb ed="#B" n="81"/>populi salus, &amp; dicatur sola illa veritas quae
+   auditori<lb ed="#B" n="82" break="no"/>bus prodesse potest. Prodest tamen veritate cognosce 
+   <lb ed="#B" n="83"/>re propter casus conscientiae in secreto vbi nolunt
+   re<lb ed="#B" n="84" break="no"/>stituere lucrum.
+  </p>
+      <p xml:id="jMqv4a-d1e566-d1e869">
+   ⁋ Ad aliud argumentum dico quod
+   li<lb ed="#B" n="85" break="no"/>cet securius sit restituere: non tamen securius est dicere 
+   <lb ed="#B" n="86"/>quod homo teneatur sub poena peccati mortalis resti 
+   <lb ed="#B" n="87"/>tuere: &amp; quod non acquirat dominium lucri in ludo for 
+   <lb ed="#B" n="88"/>tuito. Ratio est: quia incautum est asserere aliquem actum 
+   <lb ed="#B" n="89"/>esse mortalem vbi nec illud sufficienti auctoritate 
+   <lb ed="#B" n="90"/>nec euidenti ratione ostendi potest. quia hoc est laqueum 
+   <lb ed="#B" n="91"/>ponere pedibus ambulantium, &amp; inducere mortale 
+   <lb ed="#B" n="92"/>certum vbi mortale non est, vel certum non est. quia istud 
+   <lb ed="#B" n="93"/>dictum dum acceptatur a concionatore, quod est vero simi 
+   <lb ed="#B" n="94"/>liter mihi erroneum: facit populum assentiri vel ali 
+   <lb ed="#B" n="95"/>quos e populo quod teneantur restituere. &amp; cum mul 
+   <lb ed="#B" n="96"/>tos videant non restituentes &amp; plerosque dicentes quod 
+   <lb ed="#B" n="97"/>restituere non teneantur, non restituunt: &amp; propter laesam 
+   <lb ed="#B" n="98"/>conscientiam de non peccato peccatum faciunt. Si tamen 
+   <lb ed="#B" n="99"/>rationes aequilibres forent vel maiores ad partem 
+   <lb ed="#B" n="100"/>oppositam qui ad istam: maior esset color in
+   argumen<lb ed="#B" n="101" break="no"/>to. Non deduco amplius argumentum: quia eius 
+   <lb ed="#B" n="102"/>solutio haberi potest ex dictis in quaestione
+   secun<lb ed="#B" n="103" break="no"/>da Prologi. vbi dixi quod non semper securior pars 
+   <lb ed="#B" n="104"/>est imitanda. 
+  </p>
+      <p xml:id="jMqv4a-d1e566-d1e915">
+       <lb ed="#B" n="105"/>⁋ Summatim medullam huius ma 
+   <lb ed="#B" n="106"/>teriae paucis reponam. quia ipsa communis est. In pri 
+   <lb ed="#B" n="107"/>mis dico non esse de iure nature vel diuino restitue 
+   <lb ed="#B" n="108"/>re lucrum in taxillis acquisitum dummodo ludatur cum 
+   <!--0246.xml-->
+   <pb ed="#B" n="107-v"/>
+       <cb ed="#B" n="a"/>
+       <lb ed="#B" n="1"/>potente perdere, &amp; non peccetur contra artem ludi. Pro 
+   <lb ed="#B" n="2"/>batur. quia vel hoc esset de iure naturae quia
+   fortu<lb ed="#B" n="3" break="no"/>nae innititur: vel quia contingunt peccata inter ludendum 
+   <lb ed="#B" n="4"/>Sed primum / non sufficit: vt patet de iactu retis, cru 
+   <lb ed="#B" n="5"/>cis denarii, vel partis oppositae, &amp; in sorte diuisoria. 
+   <lb ed="#B" n="6"/>Nec secundum sufficit: quod patet de vendente merces in 
+   <lb ed="#B" n="7"/>die festo, &amp; de pecunia accepta ex opere meretricio 
+   <lb ed="#B" n="8"/>Vel dicis id esse propterea quia ludens vnus alium
+   tra<lb ed="#B" n="9" break="no"/>hit ad ludendum, cupiditate lucri ductus. sic enim tenet 
+   <lb ed="#B" n="10"/>sanctus Thomas secunda secundae, quaest. xxxii. ar. vii. i so 
+   <lb ed="#B" n="11"/>lutione ad secundum. Sed hoc non valet. tum primo quia 
+   <lb ed="#B" n="12"/>forte neuter alterum ad ludendum inducit: sed vterque 
+   <lb ed="#B" n="13"/>est assuetus ludere / &amp; frequenter colludunt.  Tum 
+   <lb ed="#B" n="14"/>secundo. licet vnus alium inducat, potest esse non causa 
+   <lb ed="#B" n="15"/>lucri sed causa conversationis &amp; habendae familiari 
+   <lb ed="#B" n="16"/>tatis: &amp; quod lucrum de per accidens accedat. Tum tertio 
+   <lb ed="#B" n="17"/>sequitur ex dicto eius quod emens iactum retis a piscato 
+   <lb ed="#B" n="18"/>re in sequana causa iucri ductus: teneretur pisces vl 
+   <lb ed="#B" n="19"/>tra pecuniam datam valentes restituere. &amp; quod
+   merca<lb ed="#B" n="20" break="no"/>tor fidelis causa lucri emens tam in die festo qui non festo 
+   <lb ed="#B" n="21"/>teneretur restituere lucrum acquisitum quod causa lucri
+   ac<lb ed="#B" n="22" break="no"/>quisiuit. sed hoc est falsum: ergo dictum illud nullum 
+   <lb ed="#B" n="23"/>&amp; estat ergo si lucrans teneatur restituere lucrum: quod 
+   <lb ed="#B" n="24"/>hoc sit propter aliquod positiuum ius diuinum vel huma 
+   <lb ed="#B" n="25"/>num. Positiuum autem ius diuinum nullum est. de humano est 
+   <lb ed="#B" n="26"/>patet: quia non est aliquod pontificium aequaliter omnes obligans. 
+   <lb ed="#B" n="27"/>nec Caesareum, quia illud non obligat non subiectos 
+   <lb ed="#B" n="28"/>Nec valet dicere quod pontifex approbat omne ius
+   Cae<lb ed="#B" n="29" break="no"/>sareum. x. dist. ca. De capitulis. vbi ei non contradicit. 
+   <lb ed="#B" n="30"/>Nam quamuis illud esset verum, non sufficeret: pontifex. n. 
+   <lb ed="#B" n="31"/>non habet dominium in temporalibus super reges. Secundo, ve 
+   <lb ed="#B" n="32"/>ris &amp; falsis simul admissis tanquim concessis quae 
+   <lb ed="#B" n="33"/>adducis: non habetur ex eis omnibus propositum. &amp; ratio est. 
+   <lb ed="#B" n="34"/>quia stat aliquid esse restituendum post sententiam iudicis 
+   <lb ed="#B" n="35"/>&amp; hominem ad hoc non obligari ante sententiam datam. 
+   <lb ed="#B" n="36"/>hoc enim de poenalibus vtrobique contingit. Praeterea 
+   <lb ed="#B" n="37"/>hoc solum omnia impedit: quod quaelibet lex humana per
+   consue<lb ed="#B" n="38" break="no"/>tudinem oppositam est abrogata. Esto tamen fuisset lex 
+   <lb ed="#B" n="39"/>lata &amp; etiam ab omnibus recepta (quod tamen falsum iudico 
+   <lb ed="#B" n="40"/>illa potest per oppositum tolli. sic est hic. igitur.
+  </p>
+      <p xml:id="jMqv4a-d1e566-d1e1020">
+   ⁋ Beatus 
+   <lb ed="#B" n="41"/>aut Bonauentura in hac distinctione dicit lucrum aleae 
+   <lb ed="#B" n="42"/>restituendum: eo quod lucrans est malae fidei possessor, &amp; 
+   <lb ed="#B" n="43"/>iniusto possidet titulo: &amp; ludus est turpis &amp; repro 
+   <lb ed="#B" n="44"/>batus. Sed salua eius reuerentia rationes istae nullae sunt 
+   <lb ed="#B" n="45"/>Si enim habeat conscientiam scrupulosam: nihil facit 
+   <lb ed="#B" n="46"/>hoc ad casum conclusionis: plus quam si haberet in aliis 
+   <lb ed="#B" n="47"/>contractibus licitis conscientiam erroneam. &amp; est eadem dis 
+   <lb ed="#B" n="48"/>ficultas. Sed nego quod non habeat iustum titulum illius 
+   <lb ed="#B" n="49"/>lucri: quia titulo codicti vel conventionis ludens lucrum 
+   <lb ed="#B" n="50"/>capit. sicut. n. in iactu retis est conventio: sic hic est
+   ta<lb ed="#B" n="51" break="no"/>rita ab hominium consuetudine quando ponunt pecuniam. 
+   <lb ed="#B" n="52"/>Video aliquos Summistas aliter sentire. sed hi ni 
+   <lb ed="#B" n="53"/>hil examinant, &amp; defaecatum afferunt nihil: quare de 
+   <lb ed="#B" n="54"/>eis non est vis facienda. Vnius Ioannis Nider verba 
+   <lb ed="#B" n="55"/>aliqua afferam. dicit iste in praecepto septimo. ca. vi. quod 
+   <!--0246.xml-->
+   <cb ed="#B" n="b"/> 
+       <!-- 107-v b -->
+       <lb ed="#B" n="56"/>vterque lusorum vult deum esse sibi propitium, &amp; quod lucre 
+   <lb ed="#B" n="57"/>tur: quod est impossibile. &amp; sic volunt deducere deum ad  
+   <lb ed="#B" n="58"/>impossibile. Secundo dicit quod lucrans non acquirit
+   lu<lb ed="#B" n="59" break="no"/>crum: quia nemo ex iniusto fundamento acquirit lucrum. 
+   <lb ed="#B" n="60"/>modo fundamentum est iniustum. Primum dictum nullam 
+   <lb ed="#B" n="61"/>habet apparentiam, vt patet in iactu retis: in venditione 
+   <lb ed="#B" n="62"/>&amp; emptione: de duobus exercitibus Christianis op 
+   <lb ed="#B" n="63"/>positis. Bonus enim filius vult patrem viuere vt dicit 
+   <lb ed="#B" n="64"/>Augustinu quem deus vult mori. &amp; hoc est notum secundum  
+   <lb ed="#B" n="65"/>omnem viam, quousque de voluntate dei constiterit. Pos 
+   <lb ed="#B" n="66"/>sumus enim contrauenire licite voluntati dei benepla 
+   <lb ed="#B" n="67"/>citi. modo in proposito non constat de voluntate dei. 
+   <lb ed="#B" n="68"/>Quid dicit de iniusto fundamento: relinquo insolu 
+   <lb ed="#B" n="69"/>tum in forma: quia iam soluimus similia in hac quaestione. 
+  </p>
+      <p xml:id="jMqv4a-d1e566-d1e1092">
+       <lb ed="#B" n="70"/>⁋ Ecce quid de lucro alearum censeo: nec tamen haec po 
+   <lb ed="#B" n="71"/>pulo praedicarem: sed dicerem inconvenientia quae ex
+   taxil<lb ed="#B" n="72" break="no"/>lorum ludo contingunt: &amp; quod male agunt ludentes. In 
+   <lb ed="#B" n="73"/>confessione vero quando lucrum habens in hoc genete 
+   <lb ed="#B" n="74"/>ludi mihi confiteretur: suaderem ei largas facere
+   elee<lb ed="#B" n="75" break="no"/>mosynas: &amp; inducerem eum ad cauendum in posterum 
+   <lb ed="#B" n="76"/>absoluturus tamen eum vbi lucrum restituere noluerit. 
+   <lb ed="#B" n="77"/>studemo enim semper quantum possum peccata &amp; pecca 
+   <lb ed="#B" n="78"/>torum occasiones e medio tollere: viis tamen licitis. sed  
+   <lb ed="#B" n="79"/>nullius prudentis est mendaciis &amp; positionibus de 
+   <lb ed="#B" n="80"/>falsitate suspectis elaborare vitia extinguere: po 
+   <lb ed="#B" n="81"/>tissimum in caut erio illo adhibendo &amp; laqueum
+   pedi<lb ed="#B" n="82" break="no"/>bus ambulantium imponendo.
+  </p>
+    </div>
+   </body>
+  </text>
+</TEI>

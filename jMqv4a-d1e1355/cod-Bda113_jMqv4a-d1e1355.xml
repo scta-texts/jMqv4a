@@ -1,0 +1,376 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 7</title>
+      <author ref="#JohnMair">John Mair</author>
+      <respStmt>
+       <name>Jeffrey C. Witt</name>
+       <resp>TEI Encoder</resp>
+      </respStmt>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 7</title>
+       <date when="2020-06-09">June 27, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="B" n="cod-Bda113">Badius 1516</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+     guidelines for a diplomatic edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-06-27" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+      <pb ed="#B" n="254-v"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="jMqv4a-d1e1355"> <!-- l4d25q7 -->
+      <head xml:id="jMqv4a-d1e1355-Hd1e104">Quaestio 7</head>
+      <head xml:id="jMqv4a-d1e1355-Hd1e107" type="question-title">Quae sit poena simoniacorum</head>
+      <p xml:id="jMqv4a-d1e1355-d1e110">
+       <lb ed="#B" n="27"/>⁋ Distinctionis Vigesimae quintae 
+   <lb ed="#B" n="28"/>Quaestio Septima. 
+   <lb ed="#B" n="29"/>Eptimo &amp; vltimo 
+   <lb ed="#B" n="30"/>circa hanc materiam quaerituri 
+   <lb ed="#B" n="31"/>quae sit poena simoniacorum 
+   <lb ed="#B" n="32"/>Respodetur. licet
+   multipli<lb ed="#B" n="33" break="no"/>ces sint eorum poenae: tamen de 
+   <lb ed="#B" n="34"/>grauioribus solum
+   loquar<lb ed="#B" n="35" break="no"/>Vna poena est quod
+   simonia<lb ed="#B" n="36" break="no"/>ci in ordine vel beneficio sunt excommunicati: nec 
+   <lb ed="#B" n="37"/>ius acquirunt in beneficio. Hoc quaestione quinta in 
+   <lb ed="#B" n="38"/>probatione conclusionis diximus. Et Martinus 
+   <lb ed="#B" n="39"/>Quintus in alia extrauagante facta anno secundo 
+   <lb ed="#B" n="40"/>sui pontificatus Mantuae, quae incipit Damnabilem. 
+   <lb ed="#B" n="41"/>confirmat omnes excommunicationes, suspensiones, 
+   <lb ed="#B" n="42"/>priuationes, &amp; interdicta, &amp; alias censuras a sum 
+   <lb ed="#B" n="43"/>mis pontificibus latas contra simoniacos: quas vult 
+   <lb ed="#B" n="44"/>incurrere ipso facto omnem simoniacum occultum 
+   <lb ed="#B" n="45"/>vel manifestum, vbicumque simoniam commiserit: cuius 
+   <lb ed="#B" n="46"/>cumque status: etiam si episcopatus aut cardinalatus, 
+   <lb ed="#B" n="47"/>vel quauis alia ecclesiastica vel temporali praefulgeat 
+   <lb ed="#B" n="48"/>dignitate: dictarum excommunicationum, suspensionum 
+   <lb ed="#B" n="49"/>&amp; poenarum absolutionem sibi reseruans nisi in mor 
+   <lb ed="#B" n="50"/>tis articulo, nec vult quod virtute concessionis indul 
+   <lb ed="#B" n="51"/>ti aut cuiuscumque facultatis absoluendi concessae vel 
+   <lb ed="#B" n="52"/>concedendae a sede apostolica possint absolui: nisi 
+   <lb ed="#B" n="53"/>specialiter de peccato simoniae auctoritatem absol- 
+   <!--0540.xml-->
+   <cb ed="#B" n="b"/> 
+       <!-- 254-v b -->
+       <lb ed="#B" n="54"/>uendi contineant. Hoc idem voluit Eugenius
+   Quai<lb ed="#B" n="55" break="no"/>tus in extrauagante quae incipit. Cum detestabile. 
+   <lb ed="#B" n="56"/>&amp; Paulus Secundus in processu quem in die louis 
+   <lb ed="#B" n="57"/>sancta fecit. &amp; Sixtus Quartus.
+  </p>
+      <p xml:id="jMqv4a-d1e1355-d1e186">
+   ⁋ Secunda
+   poe<lb ed="#B" n="58" break="no"/>na est quo ad restitutione, quae est onerosior in fo 
+   <lb ed="#B" n="59"/>ro animae. Dicitur quod ab omnibus poenis a canone 
+   <lb ed="#B" n="60"/>latis, suspensione, irregularitate, infamia, excommu 
+   <lb ed="#B" n="61"/>nicatione, pontifex dispensare potest. Et haec sit 
+   <lb ed="#B" n="62"/>vna propositio siue conclusio, cuius ratio est: quia non est 
+   <lb ed="#B" n="63"/>aliquod statutum pure papale quod possit eu obliga 
+   <lb ed="#B" n="64"/>re. sicut enim par in parem non habet auctoritatem: ita 
+   <lb ed="#B" n="65"/>nec idem in seipsum.
+  </p>
+      <p xml:id="jMqv4a-d1e1355-d1e207">
+   ⁋ Secunda conclusio. Non potest 
+   <lb ed="#B" n="66"/>dispensare quin simonia contra ius diuinum, sit
+   pec<lb ed="#B" n="67" break="no"/>catum. probatur: quia inferior non potest legem
+   supe<lb ed="#B" n="68" break="no"/>rioris reuocare.
+  </p>
+      <p xml:id="jMqv4a-d1e1355-d1e216">
+   ⁋ Tertia propositio. potest tamen face 
+   <lb ed="#B" n="69"/>re quod actus qui esset simoniacus propter suam prohibi 
+   <lb ed="#B" n="70"/>tionem in inferiori: sit non simoniacus. hoc sequitur 
+   <lb ed="#B" n="71"/>ex probatione primae propositionis. Non tamen potest fa 
+   <lb ed="#B" n="72"/>cere quod illud quod in tali actu fuit peccatum, non  
+   <lb ed="#B" n="73"/>fuisset peccatum: quia de praeterito non potest facere 
+   <lb ed="#B" n="74"/>non praeteritum: immo nec deus. vi. Ethicorum.
+  </p>
+      <p xml:id="jMqv4a-d1e1355-d1e232">
+   ⁋
+   Quar<lb ed="#B" n="75" break="no"/>ta propositio. potest dispensare cum simoniaco pa 
+   <lb ed="#B" n="76"/>ctionali quacumque pecunia data, quod licite teneat be 
+   <lb ed="#B" n="77"/>neficium. probatur. potest dare ei nouam collationem 
+   <lb ed="#B" n="78"/>illius beneficii: nec ius naturae vel diuinum repugnat 
+   <lb ed="#B" n="79"/>quin is sit illius beneficii capax: ergo potest ei
+   il<lb ed="#B" n="80" break="no"/>lud conferre. Satis enim purgatur vitium quando res
+   per<lb ed="#B" n="81" break="no"/>uenit ad dominum. ftu. de vsucap. l. Si fur. &amp;.c. Quod 
+   <lb ed="#B" n="82"/>quidam. S. Si forte. i. qui. i. vt si ego habeam equum tuum 
+   <lb ed="#B" n="83"/>furto sublatum: equo manente penes me, potes in  
+   <lb ed="#B" n="84"/>me transferre dominium equi, &amp; manebit
+   meus<lb ed="#B" n="85" break="no"/>Modo pontifex potest conferre beneficium &amp;
+   praeue<lb ed="#B" n="86" break="no"/>nire communes collatores. &amp; hoc rationabile est in  
+   <lb ed="#B" n="87"/>proposito: quia alioquin homines contra conscientias non 
+   <lb ed="#B" n="88"/>resignarent haec beneficia: quamquam potest esse aliqualis oc 
+   <lb ed="#B" n="89"/>casio emendi beneficia. Sed de munere ab
+   obse<lb ed="#B" n="90" break="no"/>quio quando nulla est pactio: si homo sit idoneus 
+   <lb ed="#B" n="91"/>quocumque fine inseruiat: non credo quod teneatur benefi 
+   <lb ed="#B" n="92"/>cium restituere. Fodem modo si prece vel
+   consangui<lb ed="#B" n="93" break="no"/>nitate beneficium acquisiuit, dummodo sit indoneus, 
+   <lb ed="#B" n="94"/>sufficit poenitere de peccato, siue erat intentio prin 
+   <lb ed="#B" n="95"/>cipalis, per obsequium vel preces obtinere
+   benefi<lb ed="#B" n="96" break="no"/>cium, siue non. lstud potest ostendi per capitulum 
+   <lb ed="#B" n="97"/>vltimum de simonia. 
+  </p>
+      <p xml:id="jMqv4a-d1e1355-d1e284">
+       <lb ed="#B" n="98"/>⁋ Sed de simonia mentali inter
+   do<lb ed="#B" n="99" break="no"/>ctores est difficultas non modica propter. c. fi. huius 
+   <lb ed="#B" n="100"/>rubricae: vtrum homo beneficium acquisitum per simo 
+   <lb ed="#B" n="101"/>niam mentalem si secum non dispensetur a Romano
+   pon<lb ed="#B" n="102" break="no"/>tifice, teneatur resignare. Pro cuius intelligentia con 
+   <lb ed="#B" n="103"/>siderato. Quaedam est simonia mentalis sine
+   opere<lb ed="#B" n="104" break="no"/>quaedam mentalis cum opere subsecuto sine pactione. 
+   <lb ed="#B" n="105"/>&amp; quaedam cum opere subsecuto pactionalis. &amp;
+   intelli<lb ed="#B" n="106" break="no"/>go de pactione in munere in re vel in spe. Pono 
+   <lb ed="#B" n="107"/>exempla. vnum, do collatori a. summam pecuniae vt 
+   <!--0541.xml-->
+   <pb ed="#B" n="255-r"/>
+       <cb ed="#B" n="a"/>
+       <lb ed="#B" n="1"/>habeam pactione beneficium in te: &amp; ipse sic
+   acci<lb ed="#B" n="2" break="no"/>pit. De ista pactionali non reuocatur in dubium quin  
+   <lb ed="#B" n="3"/>homo teneatur beneficium resignare, nec pot ali 
+   <lb ed="#B" n="4"/>ter poenitet. vt in. c. Inquisitionis. de accu. &amp; poe 
+   <lb ed="#B" n="5"/>nae excomunicationis permissae sunt contra hos
+   latae<lb ed="#B" n="6" break="no"/>de mentali autem sine opere non esse restitutionem
+   facienda<lb ed="#B" n="7" break="no"/>certum est: quia illic nihil datur: vt in vno corollario pri 
+   <lb ed="#B" n="8"/>mae quaestionis diximus. De secundo membro: vt quan 
+   <lb ed="#B" n="9"/>do do praelato pecuniam vt beneficium habeam tempore 
+   <lb ed="#B" n="10"/>vacationis eius vel ante: &amp; ipse scit me hac inten 
+   <lb ed="#B" n="11"/>tione dare, &amp; illa intentione suscipit, nihil mihi
+   lo<lb ed="#B" n="12" break="no"/>quens: variae sunt positiones. Ioannes
+   Andreas<lb ed="#B" n="13" break="no"/>dicit quod sola intentio nuqui inducit nisi simoniam
+   men<lb ed="#B" n="14" break="no"/>talem. hoc approbat Panor. in. c. Tua nos. Contra 
+   <lb ed="#B" n="15"/>hoc arguitur. beneficium in hoc casu acquirens tenetur 
+   <lb ed="#B" n="16"/>ipsum restituere: nec titulum. in beneficium acquirit: vt 
+   <lb ed="#B" n="17"/>patet per allegata. alioquin esset simoniae palliatio: 
+   <lb ed="#B" n="18"/>&amp; tacite sine pactione formali homines emerent bene 
+   <lb ed="#B" n="19"/>ficia. Et pontifices volentes simoniacam labem est me 
+   <lb ed="#B" n="20"/>dio tollere, contra istam potissimum sicut contra vulpe 
+   <lb ed="#B" n="21"/>culam loquuntur. Praeterea si quis nomine Petrupo 
+   <lb ed="#B" n="22"/>Petro ignorante, &amp; etiam episcopo: apud collateralem 
+   <lb ed="#B" n="23"/>episcopi simoniam commisit: Petrus tenetur beneficium 
+   <lb ed="#B" n="24"/>resignare. i. qui. i. Praesentium. ergo a fortiori in casu 
+   <lb ed="#B" n="25"/>nostro. Et patet invsura. Dicis. pecunia foenebris 
+   <lb ed="#B" n="26"/>est accipientis ad vsuram: qua pecuniam pontifex
+   re<lb ed="#B" n="27" break="no"/>mittere non potest. restitutio vero simoniaca est facien 
+   <lb ed="#B" n="28"/>da ecclesiae quam remittere potest ecclesia si vult. Obii 
+   <lb ed="#B" n="29"/>cio. vna ecclesia non potest remittere pecuniam alterius 
+   <lb ed="#B" n="30"/>ecclesiae. Non valet dictum Hostiensis dicentis vsuram 
+   <lb ed="#B" n="31"/>iure diuino prohibitam: Simoniam vero in beneficio, 
+   <lb ed="#B" n="32"/>de iure solum humano. Hoc enim est contra praedicta in  
+   <lb ed="#B" n="33"/>quaest. secunda huius distinct. Ioannes Andreas dat 
+   <lb ed="#B" n="34"/>aliquas friuolas rationes, dicens. Magis quis obli 
+   <lb ed="#B" n="35"/>gatur ad mutuum quam ad beneficium. in simonia mens 
+   <lb ed="#B" n="36"/>vtriusque potest esse lacerata: ideo melior est conditio 
+   <lb ed="#B" n="37"/>possidentis. in mutuo solum deprauatur mens
+   mutuan<lb ed="#B" n="38" break="no"/>tis. Primum est falsum. aliquis enim obligatur alteri 
+   <lb ed="#B" n="39"/>dare beneficium: mutuo vero non, extra
+   necessitaren<lb ed="#B" n="40" break="no"/>contingit etiam quod in simonia vnius solum mens lace 
+   <lb ed="#B" n="41"/>retur: &amp; in vsura aliqua / vtriusque. Panor. tamen in
+   ca<lb ed="#B" n="42" break="no"/>fi. discedit ab opinione priori in ca. Tua nos. Ma 
+   <lb ed="#B" n="43"/>gis explanando membrum de quo est quaestio: sit hoc 
+   <lb ed="#B" n="44"/>exemplum. Petrus dat trecentos ducatos praelato
+   tem<lb ed="#B" n="45" break="no"/>pore praebendae vacantis, &amp; nihil dicit: episcopus hos 
+   <lb ed="#B" n="46"/>trecentos capit: &amp; ratione eorum sine pactione dat 
+   <lb ed="#B" n="47"/>praebendam. hic est vera simonia, &amp; tenetur restituere, 
+   <lb ed="#B" n="48"/>vt opinor, pecuniam episcopus: nec Petrus acquirit 
+   <lb ed="#B" n="49"/>ius in beneficio. Et est simile, si ego deponerem 
+   <lb ed="#B" n="50"/>mille quod episcopus non dabit fratri meo beneficium 
+   <lb ed="#B" n="51"/>vacans, credens quod hac via auarus episcopus fra 
+   <lb ed="#B" n="52"/>tri meo dabit beneficium: &amp; reuera ita facit: tunc
+   di<lb ed="#B" n="53" break="no"/>co quod episcopus tenetur hanc pecuniam restituere: 
+   <lb ed="#B" n="54"/>nec frater acquirit ius in beneficio. &amp; ita vtrobique 
+   <lb ed="#B" n="55"/>quando effectus simoniae mentalis est causa mo- 
+   <!--0541.xml-->
+   <cb ed="#B" n="b"/> 
+       <!-- 255-r b -->
+       <lb ed="#B" n="56"/>tiua habendi beneficii. Alia enim est simonia men 
+   <lb ed="#B" n="57"/>talis, quae non est causa habendi beneficii. &amp; tale
+   be<lb ed="#B" n="58" break="no"/>neficium vel pecuniam acquisitam non oportet
+   restitue<lb ed="#B" n="59" break="no"/>re. vt si idoneus aliquis det episcopo gradarium 
+   <lb ed="#B" n="60"/>nac intentione vt sibi praebendam det: nihil super hoc 
+   <lb ed="#B" n="61"/>episcopo significans: iam iste est simoniacus. post 
+   <lb ed="#B" n="62"/>annum vel duos episcopus memor &amp; muneris
+   ac<lb ed="#B" n="63" break="no"/>caepti &amp; idoneitatis, dat ei beneficium quia idoneus 
+   <lb ed="#B" n="64"/>est: fortasse equus quo inuehitur est causa
+   memo<lb ed="#B" n="65" break="no"/>riae: nec episcopus tenetur restituere gradarium: nec 
+   <lb ed="#B" n="66"/>clericus praebendam: &amp; tamen praecessit simonia mentalis 
+   <lb ed="#B" n="67"/>&amp; hoc quadrat cum litera quam posui: quae congruit 
+   <lb ed="#B" n="68"/>proposito.
+  </p>
+      <p xml:id="jMqv4a-d1e1355-d1e469">
+   ⁋ Teneo igitur idem esse in vsura &amp;
+   si<lb ed="#B" n="69" break="no"/>monia. Et proportionabiliter hic dicendum est ad
+   di<lb ed="#B" n="70" break="no"/>cta de vsura in simili. Et ad caput fi. huius rubri 
+   <lb ed="#B" n="71"/>cae: dico quod illic est sermo de monacho. Ordinatum 
+   <lb ed="#B" n="72"/>siquidem erat in concilio quod religiosi recepti precio 
+   <lb ed="#B" n="73"/>vna cu recipientibus de monasterio expellerentur 
+   <lb ed="#B" n="74"/>&amp; in arctioribus monasteriis ad peragendam
+   poe<lb ed="#B" n="75" break="no"/>nitentiam detruderentur. Sed recepti ante illud conci 
+   <lb ed="#B" n="76"/>lium ponebantur sicut recepti in aliis locis eiusdem. or 
+   <lb ed="#B" n="77"/>dinis: vt dicitur in. c. Quoniam. consultus est
+   ponti<lb ed="#B" n="78" break="no"/>fex: an illud statutum monachorum ad abbates extem 
+   <lb ed="#B" n="79"/>datur: &amp; ad resignationes temporalium &amp; spiritualium. 
+   <lb ed="#B" n="80"/>Respondit. Romanus pontifex dicens.
+   Consulta<lb ed="#B" n="81" break="no"/>tioni tuae breuiter respondentes dicimus mandatum  
+   <lb ed="#B" n="82"/>apostolicum aetiam ad abbates extendi: &amp; ad
+   resigna<lb ed="#B" n="83" break="no"/>tiones spiritualium &amp; temporalium: quae nullo pacto 
+   <lb ed="#B" n="84"/>sed affectu anim i praecedente vtrinque taliter acquirum 
+   <lb ed="#B" n="85"/>tur: in quo casu delinquentibus sufficit per sola poe 
+   <lb ed="#B" n="86"/>nitentiam suo satisfacere creatoriteos pro simonia hu 
+   <lb ed="#B" n="87"/>iusmodi non teneri. Dico quod pontifex loquitur solum 
+   <lb ed="#B" n="88"/>quo ad istos monachos: vt maneant monachi &amp; 
+   <lb ed="#B" n="89"/>in coenobio. Etiam potest pontifex pecuniam taliter 
+   <lb ed="#B" n="90"/>acquisitam applicare cui velit in pios vsus: quemad  
+   <lb ed="#B" n="91"/>modum faciebat applicando huic monasterio de 
+   <lb ed="#B" n="92"/>quo est mentio, necloquitur de alia simonia
+   indif<lb ed="#B" n="93" break="no"/>ferenter.
+  </p>
+      <p xml:id="jMqv4a-d1e1355-d1e526">
+   ⁋ Aliter tamen &amp; forte apparentius
+   respon<lb ed="#B" n="94" break="no"/>debo. quia nec glo. ordinaria, nec alii quos super 
+   <lb ed="#B" n="95"/>hoc legi, literam ad intentionem meam explicant: eam ordi 
+   <lb ed="#B" n="96"/>nabo. &amp; hoc sic. Quando affectio animi emendi 
+   <lb ed="#B" n="97"/>beneficii praecessit: vt in Petro idoneo dante
+   grada<lb ed="#B" n="98" break="no"/>rium episcopo hoc in anno: episcopus illius
+   intentio<lb ed="#B" n="99" break="no"/>nis ignarus dat Petro beneficium anno sequante / ob 
+   <lb ed="#B" n="100"/>eius magnam idoneitatem: vterque tenebit acceptum
+   li<lb ed="#B" n="101" break="no"/>cite: vt diximus. Petrus etiam poterat mutare propo 
+   <lb ed="#B" n="102"/>situm simoniacum quod praecesserat volendo episcopo 
+   <lb ed="#B" n="103"/>pure dare, non respiciendo ad praebendam: &amp; iam nulla 
+   <lb ed="#B" n="104"/>pactio praecessit formaliter vel aequiualenter: quare 
+   <lb ed="#B" n="105"/>non est opus restitutione. Secus est, dicit
+   ponti<lb ed="#B" n="106" break="no"/>fex, si pactum praecesserit, pactum inquam expressumi 
+   <lb ed="#B" n="107"/>vel effectualiter hoc est virtualiter, implicite vel 
+   <lb ed="#B" n="108"/>aequiualenter. tunc autem est pactum aequiualenter 
+   <lb ed="#B" n="109"/>quando factum &amp; modus faciendi aequiualent 
+   <lb ed="#B" n="110"/>pactioni verbali. quis enim est qui deberet negare 
+   <!--0542.xml-->
+   <pb ed="#B" n="255-v"/>
+       <cb ed="#B" n="a"/>
+       <lb ed="#B" n="1"/>illic esse restitutionem magis quam in verbis vel
+   scri<lb ed="#B" n="2" break="no"/>pto? Totus textus integre hoc modo seruatur vt 
+   <lb ed="#B" n="3"/>idem sit de vsura &amp; simonia. Ioannes Andreas, 
+   <lb ed="#B" n="4"/>Panor. &amp; alii capiendo vt ceperunt, num quam poterant 
+   <lb ed="#B" n="5"/>ad portum vllum deuenire: sed putantes portum attin  
+   <lb ed="#B" n="6"/>gere agitati sunt a contrario vento in altum pelagus. 
+   <lb ed="#B" n="7"/>Et quia hac praxi vtor quando est apparentia
+   ma<lb ed="#B" n="8" break="no"/>gna: non credam glossis: sed verba textus pondero.  
+   <lb ed="#B" n="9"/>taque ad textu rediens: opinione mea inueni quod 
+   <lb ed="#B" n="10"/>pontifex solum loquitur de simonia mentali in qua 
+   <lb ed="#B" n="11"/>non proceditur ad effectum: pro qua sufficit poenitentia 
+   <lb ed="#B" n="12"/>vt in secundo corollario primae quaestionis huius dist. 
+   <lb ed="#B" n="13"/>dixi. &amp; tunc intellige ( vtrinque taliter acquiruntur). i. 
+   <lb ed="#B" n="14"/>quae homo habere vellet simoniace. Glo. tamen in ver 
+   <lb ed="#B" n="15"/>bo (affectu animi) dicit quod sola voluntas siue
+   affe<lb ed="#B" n="16" break="no"/>ctus animi non facit alique simoniacum: licet aliter 
+   <lb ed="#B" n="17"/>peccet. Et in. c. Consulere. dicit sic. Sed hoc non 
+   <lb ed="#B" n="18"/>credo quod sola voluntas facit hominem simoniacum 
+   <lb ed="#B" n="19"/>dummodo contenta sit suis terminis. vt in. c. vltimo. 
+   <lb ed="#B" n="20"/>licet alias peccet: sed hic non fuit contenta suis
+   fini<lb ed="#B" n="21" break="no"/>pus: immo processum fuit ad actum. Vult ergo di 
+   <lb ed="#B" n="22"/>cere quod in. c. fi. nullo modo processum est ad actum 
+   <lb ed="#B" n="23"/>&amp; nullo modo sit simonia, sed peccatum. At hoc est 
+   <lb ed="#B" n="24"/>falsum. nam si est peccatum vt bene concedit, addo,  
+   <lb ed="#B" n="25"/>non spectat ad aliud genus peccati quam ad
+   simo<lb ed="#B" n="26" break="no"/>niam: ergo est simonia. &amp; patet solutio ex secundo  
+   <lb ed="#B" n="27"/>corollario quaestionis primae. &amp; secundum hoc nulla 
+   <lb ed="#B" n="28"/>est difficultas. 
+   <lb ed="#B" n="29"/>Ic dubitatur cui facienda sit 
+   <lb ed="#B" n="30"/>restitutio pecuniae simoniace acceptae. 
+   <lb ed="#B" n="31"/>i Distinguitur. vel pecunia data est in  
+   <lb ed="#B" n="32"/>odium eligendi: &amp; sic non est restituenda illi qui dedit:  
+   <lb ed="#B" n="33"/>sed ei in cuius odium data fuit. ariliter. de calumntatori 
+   <lb ed="#B" n="34"/>bus. l. iii. S. vltimo. vbi datur repetitio pecuniae
+   da<lb ed="#B" n="35" break="no"/>tae vt calumnia fiat non danti: sed ei contra quem ca 
+   <lb ed="#B" n="36"/>luniam procurare volebat. Quemadmodum si pecunia 
+   <lb ed="#B" n="37"/>detur pro aliquo eligendo in eius odium: non tenetur 
+   <lb ed="#B" n="38"/>electus resignare beneficium vel ordinem. vt patet 
+   <lb ed="#B" n="39"/>in. c. Nobis. de simonia. quia fictione iuris praesu 
+   <lb ed="#B" n="40"/>mitur quod alter esset eligendus &amp; idoneus: sed alius 
+   <lb ed="#B" n="41"/>in eius iacturam dedit pecuniam quatenus in electio 
+   <lb ed="#B" n="42"/>ne poneret maculam. Vel pecunia data est in
+   fauo<lb ed="#B" n="43" break="no"/>rem eius qui spirituale adipiscitur. Vel data est
+   pecu<lb ed="#B" n="44" break="no"/>nia vi vexationis iniustae redimendae: quia alia via 
+   <lb ed="#B" n="45"/>ius sibi acquisitum obtinere non poterat sine grauio 
+   <lb ed="#B" n="46"/>re dispendio: &amp; tunc est restituenda danti. Alter enim 
+   <lb ed="#B" n="47"/>turpiter accepit: &amp; propterea dans potest contradicere 
+   <lb ed="#B" n="48"/>itur. de condi. ob tur. causam per totum. Vel data est
+   pe<lb ed="#B" n="49" break="no"/>cunia in casu in quo dare non licet. Panor. post
+   do<lb ed="#B" n="50" break="no"/>minum Anto. &amp; Hostiensem dicit. Vel dedit pecu 
+   <lb ed="#B" n="51"/>niam saeculari vel regulari. Primo modo si ille qui de 
+   <lb ed="#B" n="52"/>dit non habet vnde viuat: ei restituetur. ar. c. Veniens. 
+   <lb ed="#B" n="53"/>Si habeat vnde viuat: ecclesiae applicabitur in cuius 
+   <lb ed="#B" n="54"/>ignominiam pecunia applicabatur. De regulari pro- 
+   <!--0542.xml-->
+   <cb ed="#B" n="b"/> 
+       <!-- 255-v b -->
+       <lb ed="#B" n="55"/>portionabiliter dicatur. Non potest hic magna
+   ra<lb ed="#B" n="56" break="no"/>tio restitutionis haberi. In multis consulerem dare 
+   <lb ed="#B" n="57"/>pauperibus: vel in quoscunque pios vsus. &amp; hoc 
+   <lb ed="#B" n="58"/>sufficit. An Giezi restituerit acquisitum a Naaman 
+   <lb ed="#B" n="59"/>Syro nec ne: non refert. est enim quaestio facti.
+  </p>
+      <p xml:id="jMqv4a-d1e1355-d1e707">
+   ⁋
+   Hac<lb ed="#B" n="60" break="no"/>tenus de simonia quae se in varias effigies instar Si 
+   <lb ed="#B" n="61"/>monis Magi transtigurat: quia casus cum vna
+   cir<lb ed="#B" n="62" break="no"/>cumstantia est simonia infectus qui illa circumstantia 
+   <lb ed="#B" n="63"/>exutus est candidus. De poenis simoniae tam in se 
+   <lb ed="#B" n="64"/>quam quo ad restitutionem &amp; a iure diuino &amp; a canone 
+   <lb ed="#B" n="65"/>inflictis. Et quid de simonia mentali dicendum sit: &amp; quod 
+   <lb ed="#B" n="66"/>non semper pari passu est restitutio facienda in vsura 
+   <lb ed="#B" n="67"/>&amp; simonia. in vsura enim lucrum vltra sortem vi mu 
+   <lb ed="#B" n="68"/>tui acceptum, semper illi restituetur qui mutuo accepit 
+   <lb ed="#B" n="69"/>quod non oportet semper in simonia. Amplius dictum 
+   <lb ed="#B" n="70"/>est quod religiosus simoniace religionem ingrediens 
+   <lb ed="#B" n="71"/>manet religiosus: nec potest exire, licet sit puniendus:. 
+   <lb ed="#B" n="72"/>sicut ordines accipiens simoniace: reuera ordines 
+   <lb ed="#B" n="73"/>accipit &amp; sacramenta: sed non ordinum exequutionem. 
+   <lb ed="#B" n="74"/>Ex quo patet quod multum distant: beneficium simonia 
+   <lb ed="#B" n="75"/>ce &amp; pactionaliter habere: &amp; monachatum vel sacra 
+   <lb ed="#B" n="76"/>mentum. Spirituale extendendo ipsum ad spirituali
+   an<lb ed="#B" n="77" break="no"/>nexum, est illud quod ordinatur ad opus: quod miraculo 
+   <lb ed="#B" n="78"/>se &amp; supenaturaliter speratur a spiritu sancto: vt
+   prae<lb ed="#B" n="79" break="no"/>dicere futura contingentia: curare infirmos miracu 
+   <lb ed="#B" n="80"/>lose: sacramenta, donum linguatum, mancipari cultui 
+   <lb ed="#B" n="81"/>diuino, siue per religionis ingressum, siue per ius ad  
+   <lb ed="#B" n="82"/>beneficium gratia illius mancipationis accipiendum: 
+   <lb ed="#B" n="83"/>sepultura, &amp; similia. Et haec de simonia a qua nos 
+   <lb ed="#B" n="84"/>immunes seruet qui ob eam Simonem Magum iuste 
+   <lb ed="#B" n="85"/>punit: sicut Simonem Petrum pro illius
+   euitatio<lb ed="#B" n="86" break="no"/>ne praemiat. 
+  </p>
+    </div>
+   </body>
+  </text>
+</TEI>

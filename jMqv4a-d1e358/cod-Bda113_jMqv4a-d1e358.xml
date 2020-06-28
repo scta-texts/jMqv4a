@@ -1,0 +1,705 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 6</title>
+      <author ref="#JohnMair">John Mair</author>
+      <respStmt>
+       <name>Jeffrey C. Witt</name>
+       <resp>TEI Encoder</resp>
+      </respStmt>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 6</title>
+       <date when="2020-06-09">June 27, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="B" n="cod-Bda113">Badius 1516</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+     guidelines for a diplomatic edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-06-27" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+      <pb ed="#B" n="67-v"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="jMqv4a-d1e358"> <!-- l4d12q6 -->
+      <head xml:id="jMqv4a-d1e358-Hd1e104">Quaestio 6</head>
+      <head xml:id="jMqv4a-d1e358-Hd1e107" type="question-title">Utrum quilibet clericus quolibet die teneatur 
+  dicere horas</head>
+      <p xml:id="jMqv4a-d1e358-d1e110">
+       <lb ed="#B" n="3"/>Trum quilibet
+   cleri<lb ed="#B" n="4" break="no"/>us quolibet die teneatur
+   dice<lb ed="#B" n="5" break="no"/>e horas. Pro solutione
+   quae<lb ed="#B" n="6" break="no"/>tionis notabis quod quicunque 
+   <lb ed="#B" n="7"/>habet primam tonsuram
+   cleri<lb ed="#B" n="8" break="no"/>cus est. patet de aeta. &amp; quali 
+   <lb ed="#B" n="9"/>lordi. praefici. c. Cum contingat. Et 
+   <lb ed="#B" n="10"/>i sunt in sacris: aliqui in
+   minori<lb ed="#B" n="11" break="no"/>pus: &amp; aliqui beneficiati, vel religiosi: aliqui vero non. 
+  </p>
+      <p xml:id="jMqv4a-d1e358-d1e132">
+       <lb ed="#B" n="12"/>⁋ lstis distinctionibus datis pono con 
+   <lb ed="#B" n="13"/>clusiones. Prima est. homines in sacris constituti, &amp; 
+   <lb ed="#B" n="14"/>beneficiati, siue in sacris siue non: tenentur quolibet 
+   <lb ed="#B" n="15"/>die dicere horas. &amp; licet sit aliquibus consonum eas 
+   <lb ed="#B" n="16"/>in respondentibus horis dicere: non tamen ita
+   con<lb ed="#B" n="17" break="no"/>ducit omnibus. Prima pars patet: quia omnes
+   ta<lb ed="#B" n="18" break="no"/>les sunt in sorte domini: hi in sorte patrimonii crucifi 
+   <lb ed="#B" n="19"/>ci: illi in ordinibus. ex qua probatione sequitur 
+   <lb ed="#B" n="20"/>idem de religiosis. Alia pars patet. non ob aliud ho 
+   <lb ed="#B" n="21"/>rae institutae sunt sub nomine primae, tertiae, sextae, 
+   <lb ed="#B" n="22"/>&amp; nonae, nisi vt in respondentibus horis ob
+   memo<lb ed="#B" n="23" break="no"/>tiam passionis Christi celebrentur. &amp; hoc ab eis quod 
+   <lb ed="#B" n="24"/>non sunt aliunde impediti nisi vt cultui diuino va 
+   <lb ed="#B" n="25"/>cent: vel qui horas persoluunt in communi:
+   quemad<lb ed="#B" n="26" break="no"/>modum in ecclesiis cathedralibus collegiatis: &amp; 
+   <lb ed="#B" n="27"/>religiosis domibus fieri solet. Vltima pars patet 
+   <lb ed="#B" n="28"/>quod ad hoc non teneantur omnes. aliqui enim habent 
+   <lb ed="#B" n="29"/>rationabilem causam haec tempora praeueniendi: qui 
+   <lb ed="#B" n="30"/>vesperi magnam partem horarum subsequentis 
+   <lb ed="#B" n="31"/>diei absoluunt, vt liberius studio vel alicui
+   hone<lb ed="#B" n="32" break="no"/>sto negocio incumbant, nec hoc est deo faecem
+   tem<lb ed="#B" n="33" break="no"/>poris &amp; mundo medullam applicare: cum homo 
+   <lb ed="#B" n="34"/>quicquid faciat, in gloriam dei facere debeat: sed pru 
+   <lb ed="#B" n="35"/>denter tempus partitur, tempus antemeridianum specu 
+   <lb ed="#B" n="36"/>lationi applicando: quia tunc melius est ad studium 
+   <lb ed="#B" n="37"/>dispositus. Insuper in profesto corporis Christi 
+   <lb ed="#B" n="38"/>publice in ecclesia decantantur horae matutinae
+   ip<lb ed="#B" n="39" break="no"/>sius diei: vt homines non sint praepediti a solenni 
+   <lb ed="#B" n="40"/>processione in ipso die. ergo licet praeuenire
+   tem<lb ed="#B" n="41" break="no"/>pus horas obeundi. Rursus presbyter ante meri 
+   <lb ed="#B" n="42"/>diem dicit horas ad vesperas vsque inclusiue,
+   pro<lb ed="#B" n="43" break="no"/>pter aliquod officium honestum cui incumbere habet 
+   <lb ed="#B" n="44"/>vtpote propter opus agreste. casus ad hoc est
+   expres<lb ed="#B" n="45" break="no"/>sus. dae cele, missa. cap. i. ergo non quilibet beneficia 
+   <lb ed="#B" n="46"/>tus vel existens in sacris tenetur dicere horas
+   ca<lb ed="#B" n="47" break="no"/>nonicas, hoc est regulares, in temporibus respon 
+   <lb ed="#B" n="48"/>dentibus. Nec refert si vesperi post dictas horas 
+   <lb ed="#B" n="49"/>bibat.
+  </p>
+      <p xml:id="jMqv4a-d1e358-d1e218">
+   ⁋ Secunda conclusio. de consilio est
+   existen<lb ed="#B" n="50" break="no"/>ti solum in minoribus ordinibus dicere horas: ni- 
+   <!--0166.xml-->
+   <cb ed="#B" n="b"/> 
+       <!-- 67-v b -->
+       <lb ed="#B" n="51"/>si sit consuentudo in aliqua regione, reputata de prae 
+   <lb ed="#B" n="52"/>cepto a sapientibus. 
+  </p>
+      <p xml:id="jMqv4a-d1e358-d1e234">
+       <lb ed="#B" n="53"/>⁋ Contra priorem conclusionem
+   ar<lb ed="#B" n="54" break="no"/>guitur sic. Sortes in sacris beneficiatus de nullo 
+   <lb ed="#B" n="55"/>ysu tenetur dicere horas, non enim de vsu
+   Ro<lb ed="#B" n="56" break="no"/>mano: vt patet de beneficiato Britanno, nec de 
+   <lb ed="#B" n="57"/>vsu Sarum: vt de beneficiato Gallo.
+  </p>
+      <p xml:id="jMqv4a-d1e358-d1e247">
+   ⁋ Secundo arguitur. 
+   <lb ed="#B" n="58"/>in nulla parte diei homo tenetur dicere horas:
+   er<lb ed="#B" n="59" break="no"/>go homo non tenetur dicere horas isto die conse 
+   <lb ed="#B" n="60"/>quentia tenet: quia si tenetur dicere horas in isto 
+   <lb ed="#B" n="61"/>die: oportet dicat in aliqua parte diei,
+   quemadmo<lb ed="#B" n="62" break="no"/>dum si Sortes est in toto templo, Sortes est in  
+   <lb ed="#B" n="63"/>parte templi.
+  </p>
+      <p xml:id="jMqv4a-d1e358-d1e263">
+   ⁋ Ad primum respondetur
+   conceden<lb ed="#B" n="64" break="no"/>do quod de nullo vsu homo tenetur dicere horas. sed  
+   <lb ed="#B" n="65"/>necesse est vt homo euadat peccatum dicere horas 
+   <lb ed="#B" n="66"/>de aliquo vsu: vt necesse cadat in totam conditio 
+   <lb ed="#B" n="67"/>nalem. &amp; intelligo nisi sit de numero eorum qui
+   ra<lb ed="#B" n="68" break="no"/>tionabiliter excipiuntur. Congruum est autem vt
+   be<lb ed="#B" n="69" break="no"/>neficiatus dicat horas secundum consuetudinem 
+   <lb ed="#B" n="70"/>beneficii cuius fructus colligit. &amp; si plura habeat 
+   <lb ed="#B" n="71"/>beneficia: nunc dicat de vno: nunc de alio. debet 
+   <lb ed="#B" n="72"/>enim nunc vni, nunc alteri non solum loco sed
+   of<lb ed="#B" n="73" break="no"/>ficio deseruire. Si vero non sit beneficiatus,
+   expe<lb ed="#B" n="74" break="no"/>dit dicere secundum consuetudinem eorum cum
+   qui<lb ed="#B" n="75" break="no"/>bus conuersatur, vsum addiscendo: potissimum si 
+   <lb ed="#B" n="76"/>sit moram illic tracturus: vel addiscat vsum eorum 
+   <lb ed="#B" n="77"/>apud quos domicilium eligere intendit. cum vero 
+   <lb ed="#B" n="78"/>tuerit promotus titulo proprii patrimonii: non
+   vi<lb ed="#B" n="79" break="no"/>deo quod teneatur de quocumque vsu sed potest quem 
+   <lb ed="#B" n="80"/>voluerit eligere. potest etiam vsum Romanum
+   assu<lb ed="#B" n="81" break="no"/>mere. nam Roma est patria communis. l. Romana. 
+   <lb ed="#B" n="82"/>citur. ad munici. &amp; in. c. Exposuit. de dila. &amp; vnum par 
+   <lb ed="#B" n="83"/>tronum vel duos vsus romanus salua
+   integrita<lb ed="#B" n="84" break="no"/>te tam vsus quam rubricarum admittit. Potest autem 
+   <lb ed="#B" n="85"/>contingere quod homo habens vsum aliquem iam 
+   <lb ed="#B" n="86"/>in habitu non debeat illum mutare pro beneficio 
+   <lb ed="#B" n="87"/>adepto, non enim expedit illi relinquere lectionem: 
+   <lb ed="#B" n="88"/>vel concionem ad populum vel aliud honestum 
+   <lb ed="#B" n="89"/>pirituale officium in republica: vt addiscat ab 
+   <lb ed="#B" n="90"/>inerudito sacerdote nouum vsum legendi horas: 
+   <lb ed="#B" n="91"/>quia circa maiora est licite occupatus:
+   quemadmo<lb ed="#B" n="92" break="no"/>dum Paulus non reliquit verbum dei vt
+   baptiza<lb ed="#B" n="93" break="no"/>ret. Regula autem generalis hic dari nequit: sed pro 
+   <lb ed="#B" n="94"/>pter innumeras &amp; varias circumstantias occurren 
+   <lb ed="#B" n="95"/>tes, varianda est responsio.
+  </p>
+      <p xml:id="jMqv4a-d1e358-d1e335">
+   ⁋ Ad secundum
+   di<lb ed="#B" n="96" break="no"/>citur. quod consequentia est nulla. quando enim
+   ho<lb ed="#B" n="97" break="no"/>mo inciperet in principio diei &amp; lente legeret ad 
+   <lb ed="#B" n="98"/>finem diei vsque: satisfaceret praecepto
+   legenda<lb ed="#B" n="99" break="no"/>rum horarum: &amp; quando templum esset locus 
+   <lb ed="#B" n="100"/>proprius sorti: non oporteret, si Sortes esset in  
+   <lb ed="#B" n="101"/>toto templo, ipsum esse in parte eius.
+   Propter<lb ed="#B" n="102" break="no"/>ta concedo quod in nulla parte diei Sortes tenetur 
+   <lb ed="#B" n="103"/>dicere horas: sed necesse est, si peccati debeat 
+   <lb ed="#B" n="104"/>esse expers, vt horas in aliqua parte vel parti- 
+   <!--0167.xml-->
+   <pb ed="#B" n="68-r"/>
+       <cb ed="#B" n="a"/>
+       <lb ed="#B" n="1"/>bus temporis dicant. Adieci spartibus) propter eum qui 
+   <lb ed="#B" n="2"/>interpolate legit. Sed forte rogas: quando Sortes omit 
+   <lb ed="#B" n="3"/>tit dicere horas? &amp; quando primo verum est dicere,
+   Sor<lb ed="#B" n="4" break="no"/>tes omittit: Dico quod si potest dicere horas suas in 
+   <lb ed="#B" n="5"/>duabus horis &amp; non in minori tempore: non peccat 
+   <lb ed="#B" n="6"/>omittendo ante duas vltimas horas totius temporis: 
+   <lb ed="#B" n="7"/>sed quacumque parte illarum duarum labente antequi dice 
+   <lb ed="#B" n="8"/>re incipiat, peccat: &amp; magis ac magis secundum
+   ma<lb ed="#B" n="9" break="no"/>gnitudinem temporis. &amp; dato vltimo instanti non esse 
+   <lb ed="#B" n="10"/>illarum duarum horarum, nunc non omittit culpabiliter 
+   <lb ed="#B" n="11"/>&amp; immediate post hoc culpabiliter omittet: sed non  
+   <lb ed="#B" n="12"/>tantum si in vltima hora incipiat dicere: quantum si 
+   <lb ed="#B" n="13"/>vtraque hora elapsa dicere incipiat. eodem modo de misi 
+   <lb ed="#B" n="14"/>sa audienda, vbi homo deobligatur a praecepto de audien 
+   <lb ed="#B" n="15"/>da missa audiendo missam quam audire non tenetur. 
+  </p>
+      <p xml:id="jMqv4a-d1e358-d1e396">
+       <lb ed="#B" n="16"/>⁋ Tertio arguitur. sufficit cuilibet 
+   <lb ed="#B" n="17"/>dicere medietatem horarum, audiendo aliam medieta 
+   <lb ed="#B" n="18"/>tem a suo consocio: ergo idem erit audiendo
+   reli<lb ed="#B" n="19" break="no"/>quam medietatem: sufficiet igitur audire duos dicen 
+   <lb ed="#B" n="20"/>tes horas nihil dicendo.
+  </p>
+      <p xml:id="jMqv4a-d1e358-d1e410">
+   ⁋ Respondetur
+   conceden<lb ed="#B" n="21" break="no"/>do quod sufficit audire vnam medietatem ipso reliquam 
+   <lb ed="#B" n="22"/>medietatem proferente: non quod aduertat ad quodli 
+   <lb ed="#B" n="23"/>bet verbum alterius: quia sic non potest aduertere ad  
+   <lb ed="#B" n="24"/>quodlibet verbum proprium: nec tenetur plus aduer 
+   <lb ed="#B" n="25"/>tere ad alium quam ad seipsum: sed duo iuuant se in  
+   <lb ed="#B" n="26"/>uicem. secus est de tribus: primo primam lectionem 
+   <lb ed="#B" n="27"/>psalmi proferente, secundo secundam: &amp; tertio
+   ter<lb ed="#B" n="28" break="no"/>tiam. &amp; hoc patet ex consuetudine ad quam
+   allu<lb ed="#B" n="29" break="no"/>dunt carmina. Si peregre pergas: nunqui te iunge 
+   <lb ed="#B" n="30"/>duobus. Disparibus raro trahitur currus bene bo 
+   <lb ed="#B" n="31"/>bus. Si dicas: dicens cum alio non dixit horas: ergo 
+   <lb ed="#B" n="32"/>no est deobligatus, consequentia est nulla. sufficit 
+   <lb ed="#B" n="33"/>enim quod alter dimidium suppleat. Dicebam (sufficit
+   au<lb ed="#B" n="34" break="no"/>dire) quare surdus non debet cum alio legere. Et licet 
+   <lb ed="#B" n="35"/>sit vetitum legere cum excommunicato: &amp; excomunica 
+   <lb ed="#B" n="36"/>to magis vetitum sit legere cum non excommunicato: 
+   <lb ed="#B" n="37"/>tamen horae sunt persolutae licet cum peccato
+   di<lb ed="#B" n="38" break="no"/>cantur Sed contra istud arguitur. ergo surdus non potest 
+   <lb ed="#B" n="39"/>canere cum aliis in choro. cosequens est falsum.
+   cose<lb ed="#B" n="40" break="no"/>quentia patet. quia nonaudit alios. Respondetur 
+   <lb ed="#B" n="41"/>negando consequentiam: vix enim dabis ita surdum 
+   <lb ed="#B" n="42"/>quin audiat cantantes. &amp; licet male audiat, per visum 
+   <lb ed="#B" n="43"/>socio rum lateris sui &amp; oppositi, apertionem oris perci 
+   <lb ed="#B" n="44"/>piet: &amp; ex hoc intelliget quando canere oportebit. 
+  </p>
+      <p xml:id="jMqv4a-d1e358-d1e465">
+       <lb ed="#B" n="45"/>⁋ Quarto arguitur. quando homo
+   de<lb ed="#B" n="46" break="no"/>cantat in choro cum aliis, interdum praetermisso vno 
+   <lb ed="#B" n="47"/>psalmo sufficienter dicit horas: ergo prior
+   conclu<lb ed="#B" n="48" break="no"/>sio falsa. Antecedens patet. isi dato vltimo signo 
+   <lb ed="#B" n="49"/>campanae ad horas canonicas disponat se clericus 
+   <lb ed="#B" n="50"/>secundum modum consuetum adeundi horas, &amp; 
+   <lb ed="#B" n="51"/>hebdo madarius citius inchoauerit quam in alio die 
+   <lb ed="#B" n="52"/>ita vt vnus psalmus sit absolutus ante ingressum 
+   <lb ed="#B" n="53"/>canonici in chorum: tunc ipse cantando cum aliis ex 
+   <lb ed="#B" n="54"/>vna parte chori satisfacit. Hoc idem probatur alia 
+   <!--0167.xml-->
+   <cb ed="#B" n="b"/> 
+       <!-- 68-r b -->
+       <lb ed="#B" n="55"/>via. si ingrediatur templum ante primum psalmum: 
+   <lb ed="#B" n="56"/>sed aliquis in causa necessaria eum alloquatur in  
+   <lb ed="#B" n="57"/>naui ecclesiae quousque finiatur primus psalmus: 
+   <lb ed="#B" n="58"/>vel aliquis eum alloquatur in choro: vel emittat 
+   <lb ed="#B" n="59"/>sanguinem per nares vel habeat tussim vel aliquid  
+   <lb ed="#B" n="60"/>huiusmodi: interea aliis cantantibus vnum
+   psal<lb ed="#B" n="61" break="no"/>mumn vel duos: iam non tenetur illos dicere seorsum 
+   <lb ed="#B" n="62"/>tum propter consuetudinem: tum quia cantando cum 
+   <lb ed="#B" n="63"/>aliis non tenetur quamlibet lectionem recitare.
+  </p>
+      <p xml:id="jMqv4a-d1e358-d1e515">
+   ⁋
+   Re<lb ed="#B" n="64" break="no"/>spondetur: in casibus istis vel similibus homo 
+   <lb ed="#B" n="65"/>sufficienter persoluit horas quamuis psalmum vnum 
+   <lb ed="#B" n="66"/>vel duos nec in parte nec in toto dicat: non propter 
+   <lb ed="#B" n="67"/>vinculum charitatis in canonicis: stat enim quod
+   quili<lb ed="#B" n="68" break="no"/>bet eorum sit in peccato mortali: sed propter
+   vincu<lb ed="#B" n="69" break="no"/>lum societatis in qua depromuntur dei laudes pu 
+   <lb ed="#B" n="70"/>blice: quod est rationabile. &amp; propterea nullo iure 
+   <lb ed="#B" n="71"/>sunt obligati facere praeter communem cursum homi 
+   <lb ed="#B" n="72"/>nibus contingentem. hic itaque sufficit quod tota multi 
+   <lb ed="#B" n="73"/>tudo nihil omittat de officio: &amp; quod nullus
+   notabi<lb ed="#B" n="74" break="no"/>liter deficiat in sua parte: modicu autem defectum alii 
+   <lb ed="#B" n="75"/>supplent. secundum cosilium apostoli. Alter alterius onera 
+   <lb ed="#B" n="76"/>portate. Sic multi parui casus contingunt: vtpote isti 
+   <lb ed="#B" n="77"/>recitati &amp; similes, in quibus sapiens diceret istos non 
+   <lb ed="#B" n="78"/>obligari: quemadmodum quando duo dicunt horas, &amp; vnus 
+   <lb ed="#B" n="79"/>supplet vnam medietatem. hic autem vbi est maior
+   nu<lb ed="#B" n="80" break="no"/>merus: magi s omissum ab vno suppletur a multitudi 
+   <lb ed="#B" n="81"/>ne. &amp; sic homo cum negligenter interdum audit vnam 
+   <lb ed="#B" n="82"/>lectionem vel duas sui socii: adhuc sufficienter persol 
+   <lb ed="#B" n="83"/>uit: quia non oportet, vt diximus, quod semper aduertat 
+   <lb ed="#B" n="84"/>ad propriam lectionem. Similiter surdus vel alio distra 
+   <lb ed="#B" n="85"/>ctus decantans in choro cum caeteris, dummodo secundum  
+   <lb ed="#B" n="86"/>possibilitatem humanam rotundam faciat, hoc sufficit. 
+   <lb ed="#B" n="87"/>Dixi(rotundam) quia non requiritur quod clerici ita exacte 
+   <lb ed="#B" n="88"/>faciant vt est eis possibile: sed consideranda est 
+   <lb ed="#B" n="89"/>humana fragilitas in dicente. vbi tamen esset
+   non<lb ed="#B" n="90" break="no"/>tabilis omissio vel cognita negligentia: canonicus 
+   <lb ed="#B" n="91"/>deberet sup plere omissum. 
+  </p>
+      <p xml:id="jMqv4a-d1e358-d1e578">
+       <lb ed="#B" n="92"/>⁋ Quinto arguitur: posito quod Sortes 
+   <lb ed="#B" n="93"/>beneficiatus habeat dispensationem a Romano pon 
+   <lb ed="#B" n="94"/>tifice ne dicat horas canonicas. sic Sortes non tene 
+   <lb ed="#B" n="95"/>tur dicere horas: &amp; tamen habet beneficium. ergo
+   con<lb ed="#B" n="96" break="no"/>clusio falsa.
+  </p>
+      <p xml:id="jMqv4a-d1e358-d1e591">
+   ⁋ Respondetur. aliquid est hic
+   posi<lb ed="#B" n="97" break="no"/>tiuum humanum: aliud est diuinum &amp; naturale. in  
+   <lb ed="#B" n="98"/>primo pontifex dispensare potest. ius enim huma 
+   <lb ed="#B" n="99"/>num est dicere de hoc vsu vel illo. Circa quemlibet 
+   <lb ed="#B" n="100"/>autem vsum dispensare potest: sic etiam vt homo non 
+   <lb ed="#B" n="101"/>teneatur dicere de aliquo vsu in mundo. Confirmo 
+   <lb ed="#B" n="102"/>hoc dictum. potest diminuere partem horarum vsus 
+   <lb ed="#B" n="103"/>sancti Bespondicti: ergo &amp; cuiustibet vsus. consequentiam 
+   <lb ed="#B" n="104"/>relinquo notam. Antecedens patet. Nam. xv. psalmos 
+   <lb ed="#B" n="105"/>matutinarum sancti Bespondicti diminuit ad numerum 
+   <lb ed="#B" n="106"/>psalmorum vsus Romani. hoc enim est iure decisum 
+   <lb ed="#B" n="107"/>de celebra. missa. cap. secundo in cle. vbi datur
+   fa<lb ed="#B" n="108" break="no"/>cultas religiosis cardinalium contubernalibus dice 
+   <!--0168.xml-->
+   <pb ed="#B" n="68-v"/>
+       <cb ed="#B" n="a"/>
+       <lb ed="#B" n="1"/>re secundum consuetudinem cardinalium quamdiu cum 
+   <lb ed="#B" n="2"/>eis sunt. Et si potest romanus pontifex
+   dispensa<lb ed="#B" n="3" break="no"/>re in parte horarum de hoc vsu: potest etiam de toto 
+   <lb ed="#B" n="4"/>vsu. lterum hoc confirmo. religiosus ad curam
+   ani<lb ed="#B" n="5" break="no"/>marum saecularium perpetuo assumptus potest dicere 
+   <lb ed="#B" n="6"/>horas iuxta vsum illorum quibus conuiuit. Praeterea 
+   <lb ed="#B" n="7"/>ante omnem vsum celebrandi ab ecclesia institutum 
+   <lb ed="#B" n="8"/>nemo obligabatur dicere secundum aliquem vsum 
+   <lb ed="#B" n="9"/>suas horas: ergo vsus dicendi est ab ecclesia insti 
+   <lb ed="#B" n="10"/>tutus: &amp; ab ea approbatus: sed istam obligationem 
+   <lb ed="#B" n="11"/>positiuam potest pontifex pro rationabili causa 
+   <lb ed="#B" n="12"/>tollere. igitur. Forte rationabilis causa non dicend 
+   <lb ed="#B" n="13"/>est studium in iuuene ad literas apto, vt in
+   erudi<lb ed="#B" n="14" break="no"/>tum virum euadat. Naturale autem &amp; diuinum est 
+   <lb ed="#B" n="15"/>aliud, scilicet deo seruire. Nam sicut alligatus altari 
+   <lb ed="#B" n="16"/>debet de eo viuere: sic de eo viuens tenetur illi
+   de<lb ed="#B" n="17" break="no"/>seruire: orando pro fundatore, &amp; pro his quorum
+   fru<lb ed="#B" n="18" break="no"/>ctus recipit: quia est colligantia reciproca. ab ista au 
+   <lb ed="#B" n="19"/>tem oratione non potest pontifex absoluere
+   benefi<lb ed="#B" n="20" break="no"/>ciatum. cum enim sit de iure naturae &amp; diuino: ad illud  
+   <lb ed="#B" n="21"/>est obligatus ante omne humanum ius: &amp; eo secluso 
+   <lb ed="#B" n="22"/>per dispensationem Romani pontificis, manet ad hoc 
+   <lb ed="#B" n="23"/>obligatus: puta ad aliquas praeces: quas ad discretio 
+   <lb ed="#B" n="24"/>nem viri prudentis dicet: vel ad aliquid praecibus aequiua  
+   <lb ed="#B" n="25"/>lens, vt eleemosynam, ieiunium, vel simile. Dicis. potest 
+   <lb ed="#B" n="26"/>pontifex dispensare cum iuuene ne dicat horas cano 
+   <lb ed="#B" n="27"/>nicas gratia studii: ergo &amp; cum sacerdote erudito iam 
+   <lb ed="#B" n="28"/>viro: vt fructus sui studii iam amplius in vulgus 
+   <lb ed="#B" n="29"/>proferat, &amp; non impediatur in horis canonicis legendis. 
+   <lb ed="#B" n="30"/>Respondetur concedendo, non tamen decet senem cir 
+   <lb ed="#B" n="31"/>ca huiusmodi dispensationem obtinendam insistere: 
+   <lb ed="#B" n="32"/>est enim peritus in vsu dicendi: &amp; in breui tempore 
+   <lb ed="#B" n="33"/>potest imponere finem dicendis horis. si tamen 
+   <lb ed="#B" n="34"/>esset multu impeditus pro re spirituali &amp; vtili sic vt 
+   <lb ed="#B" n="35"/>non posset commode dicere horas illi rei spirituali 
+   <lb ed="#B" n="36"/>vacando: est a dicendis horis canonicis relaxatus, sicut 
+   <lb ed="#B" n="37"/>a ieiunio quadragesimae. sed strictius hic obligatur.
+   ie<lb ed="#B" n="38" break="no"/>iunium enim totum est pure positiuum humanum vt
+   ca<lb ed="#B" n="39" break="no"/>ro sit domita: &amp; impedit virum interdum multum
+   a<lb ed="#B" n="40" break="no"/>studio: quia per ipsum attenuantur vires corporis. 
+   <lb ed="#B" n="41"/>secus est de horis dicendis. 
+  </p>
+      <p xml:id="jMqv4a-d1e358-d1e715">
+       <lb ed="#B" n="42"/>⁋ Sexto capto sorte qui non dixit ho 
+   <lb ed="#B" n="43"/>ras canonicas ex sua culpa isto mense: Arguitur 
+   <lb ed="#B" n="44"/>sic. Sortes non tenetur dicere horas omissas sub poe 
+   <lb ed="#B" n="45"/>na peccati. sed si fuisset obligatus eas dicere, ad eas 
+   <lb ed="#B" n="46"/>teneretur. sicut si debeam tibi centum in pascha, non
+   sol<lb ed="#B" n="47" break="no"/>uens ea in pascha elapso, adhuc centum soluere
+   te<lb ed="#B" n="48" break="no"/>neor: ergo conclusio falsa.
+  </p>
+      <p xml:id="jMqv4a-d1e358-d1e734">
+   ⁋ Respondetur. in argu 
+   <lb ed="#B" n="49"/>mento implicatur difficultas, communiter ab omnibus 
+   <lb ed="#B" n="50"/>dicitur quod si quis horas culpabiliter omisit: non
+   tene<lb ed="#B" n="51" break="no"/>tur eas dicere: sed sufficit de negligentia poenitere: 
+   <lb ed="#B" n="52"/>&amp; aliquam poenitentiam assumere pro horis omissis: vt 
+   <lb ed="#B" n="53"/>puta ieiunium, orationes, vel huiusmodi. Et probatur 
+   <lb ed="#B" n="54"/>haec responsio: quia dato opposito, sequitur quod in pascha 
+   <!--0168.xml-->
+   <cb ed="#B" n="b"/> 
+       <!-- 68-v b -->
+       <lb ed="#B" n="55"/>&amp; in tempore laetitiae ego tenear dicere horas canoni 
+   <lb ed="#B" n="56"/>cas hebdomadae sanctae, &amp; tristitiae: quod est
+   inconue<lb ed="#B" n="57" break="no"/>niens. Sed haec ratio non vincit. Nam crebro dico 
+   <lb ed="#B" n="58"/>lam lucis orto sydere. diu ante ortum lucis vel
+   ho<lb ed="#B" n="59" break="no"/>ra vndecima: sed non pro illo tpore: sed ad ortum solis 
+   <lb ed="#B" n="60"/>refero. sic dicam in die paschae horas moestitiae omis 
+   <lb ed="#B" n="61"/>sas, pro tempore tristitiae &amp; non laetitiae.
+  </p>
+      <p xml:id="jMqv4a-d1e358-d1e771">
+   ⁋ Sed contra hoc ar 
+   <lb ed="#B" n="62"/>guitur sic. sequitur quod teneor dicere secundum
+   ex<lb ed="#B" n="63" break="no"/>remum potentiae meae in die paschae horas omissas. 
+   <lb ed="#B" n="64"/>consequens est inconveniens. igitur.
+  </p>
+      <p xml:id="jMqv4a-d1e358-d1e780">
+   ⁋ Respondetur. 
+   <lb ed="#B" n="65"/>nec haec ratio vincit. si enim debeam sorti centum
+   sol<lb ed="#B" n="66" break="no"/>uenda, teneor ei soluere secundum bonam possibi 
+   <lb ed="#B" n="67"/>litatem: tamen non teneor facere extremam diligentiam 
+   <lb ed="#B" n="68"/>mihi possibilem. sic dicetur in proposito. Secundo 
+   <lb ed="#B" n="69"/>arguitur ad idem. sequeretur quod ille qui omisit
+   di<lb ed="#B" n="70" break="no"/>cere horas ex culpa sua ferme tota vita sua, &amp; nunc 
+   <lb ed="#B" n="71"/>in senio ad cor redit: teneretur totum tempus vitae 
+   <lb ed="#B" n="72"/>transigere in dicendis horis omissis. hoc statim
+   ad<lb ed="#B" n="73" break="no"/>uersarius concederet. Tertio arguitur. omittens ieiu 
+   <lb ed="#B" n="74"/>nium ecclesiae pro certis diebus determinatis, non  
+   <lb ed="#B" n="75"/>tenetur iterato illos dies ieiunare: ergo similiter 
+   <lb ed="#B" n="76"/>omittens dicere horas non tenetur &amp;c. sed hic nega 
+   <lb ed="#B" n="77"/>to antecedente nihil colligeres. Quarto arguitur. 
+   <lb ed="#B" n="78"/>omittens leges pure humanas culpabiliter, non 
+   <lb ed="#B" n="79"/>tenetur eas praeteritas adimplere: quia solum
+   obli<lb ed="#B" n="80" break="no"/>gant homines sub poena peccati vel poenae vt ser 
+   <lb ed="#B" n="81"/>uentur, non ad aliam impletionem.
+  </p>
+      <p xml:id="jMqv4a-d1e358-d1e819">
+   ⁋ Concedo hanc 
+   <lb ed="#B" n="82"/>suasionem sufficientem cum communi modo
+   dicen<lb ed="#B" n="83" break="no"/>di &amp; aequitate quod omittens culpabiliter dicere horas 
+   <lb ed="#B" n="84"/>non tenetur illas iterato dicere. &amp; eodem modo de 
+   <lb ed="#B" n="85"/>ieiunio. Secus est de centum scutis promissis, quae 
+   <lb ed="#B" n="86"/>de iure naturae debeo: licet adiectus sit certus
+   ter<lb ed="#B" n="87" break="no"/>minus positiuus: quo praetermisso ad illud quod 
+   <lb ed="#B" n="88"/>est legis naturae deuincior. Et proportionabiliter 
+   <lb ed="#B" n="89"/>dicas de aliquibus precibus quas beneficiatus de 
+   <lb ed="#B" n="90"/>bet dicere de iure naturae.
+  </p>
+      <p xml:id="jMqv4a-d1e358-d1e841">
+   ⁋ Contra illud arguitur. 
+   <lb ed="#B" n="91"/>ex solutione sequitur quod omittens confiteri in pa 
+   <lb ed="#B" n="92"/>scha non obligaretur confiteri in toto illo anno: 
+   <lb ed="#B" n="93"/>quia positiuum humanum est confiteri pro illo
+   tem<lb ed="#B" n="94" break="no"/>pore.
+  </p>
+      <p xml:id="jMqv4a-d1e358-d1e852">
+   ⁋ Respondetur: quamuis concederetur illatum: dif 
+   <lb ed="#B" n="95"/>ficulter hoc impugnares. sed nego sequelam: quia non 
+   <lb ed="#B" n="96"/>est solum vnus determinatus dies in quo homo te 
+   <lb ed="#B" n="97"/>netur confiteri: sed in quolibet illorum dierum confiten 
+   <lb ed="#B" n="98"/>do sufficienter adimplet praeceptum: videlicet in  
+   <lb ed="#B" n="99"/>hebdomada sancta, vel in octauis paschalibus, quaere 
+   <lb ed="#B" n="100"/>non est simile.
+  </p>
+      <p xml:id="jMqv4a-d1e358-d1e869">
+   ⁋ Secundo arguitur. ex dictis
+   sequi<lb ed="#B" n="101" break="no"/>tur: si sortes sciat se habere solum vnam dimidiam 
+   <lb ed="#B" n="102"/>horam huius diei in qua teneatur dicere horas: cum 
+   <lb ed="#B" n="103"/>non possit eas dicere, nisi in vna integra hora: quod 
+   <lb ed="#B" n="104"/>sufficiat ei dicere horas illa dimidia hora. durante 
+   <lb ed="#B" n="105"/>qua lapsa non amplius teneatur dicere horas: quod est 
+   <lb ed="#B" n="106"/>absonum. Declaro exemplariter. Sortes habet dicere 
+   <lb ed="#B" n="107"/>tertiam, sextam, nonam, &amp; vesperas cum completorio, acceden 
+   <lb ed="#B" n="108"/>te duodecima hora nocti iuxta horologium ad amus 
+   <lb ed="#B" n="109"/>sim aequum vt palatii: sequitur quod quamprimum audierit duo 
+   <!--0169.xml-->
+   <pb ed="#B" n="69-r"/>
+       <cb ed="#B" n="a"/>
+       <lb ed="#B" n="1"/>decimam non tenetur amplius dicere: sed librum potest abii 
+   <lb ed="#B" n="2"/>cere. Respondetur concedendo quod non tenetur amplius dice 
+   <lb ed="#B" n="3"/>re. Sed cotra hoc arguitur. ex hoc sequitur: si habere 
+   <lb ed="#B" n="4"/>dicere vesperas &amp; aliquid de horis matutinarum, quod
+   con<lb ed="#B" n="5" break="no"/>sultius esset dicere vesperas vel completorium, &amp; post 
+   <lb ed="#B" n="6"/>ea tertiam, sextam, cum nona si tempus vacet: quia sic non 
+   <lb ed="#B" n="7"/>peccabo nouo peccato. Respondetur. potest
+   contin<lb ed="#B" n="8" break="no"/>gere quod dubium sit an tempus dicendarum horarum 
+   <lb ed="#B" n="9"/>matutinarum sit consumptum: &amp; an possit complere
+   ho<lb ed="#B" n="10" break="no"/>ras, quas potest dicere ante finem temporis nondum 
+   <lb ed="#B" n="11"/>elapsi. tutius tunc existimo incipere ab vltimis: &amp; 
+   <lb ed="#B" n="12"/>si tempus restet, reliquum implere. ex quo non sequi 
+   <lb ed="#B" n="13"/>tur quodquis importet lucrum ex sua culpa. 
+  </p>
+      <p xml:id="jMqv4a-d1e358-d1e926">
+       <lb ed="#B" n="14"/>⁋ Septimo arguitur. iuuenis qui
+   ni<lb ed="#B" n="15" break="no"/>hil accipit ex beneficio: sed parentes eius
+   suscipi<lb ed="#B" n="16" break="no"/>unt fructus beneficii: &amp; nutriuissent eum in studio:  
+   <lb ed="#B" n="17"/>quamuis nihil ex beneficio habuisset: non tenetur dice 
+   <lb ed="#B" n="18"/>re horas: cum nihil de altari capiat.
+  </p>
+      <p xml:id="jMqv4a-d1e358-d1e939">
+   ⁋ Respondetur ne 
+   <lb ed="#B" n="19"/>gando quod non teneatur dicere officium canonicum quam 
+   <lb ed="#B" n="20"/>uis nihil recipiat. nam per eum stat quod nihil recipia 
+   <lb ed="#B" n="21"/>etiam parentes nutriunt eum de bonis beneficii. 
+  </p>
+      <p xml:id="jMqv4a-d1e358-d1e948">
+       <lb ed="#B" n="22"/>⁋ Octauo arguitur. Sortes tenetur 
+   <lb ed="#B" n="23"/>dicere horas ratione beneficii: ergo si habeat duc 
+   <lb ed="#B" n="24"/>be neficia, bis tenetur in eodem die dicere horas
+   ca<lb ed="#B" n="25" break="no"/>nonicas, consequens est contra communem praxim 
+   <lb ed="#B" n="26"/>&amp; quod sequatur, patet sic. Sortes tenetur dicere horas 
+   <lb ed="#B" n="27"/>ratione a. beneficii: &amp; etiam ratione b. beneficii quod ha 
+   <lb ed="#B" n="28"/>bet: ergo bis tenetur dicere horas.
+  </p>
+      <p xml:id="jMqv4a-d1e358-d1e966">
+   ⁋ Respondetur 
+   <lb ed="#B" n="29"/>Si habeat duo beneficia licite: concedo quod tenetur 
+   <lb ed="#B" n="30"/>ad horas canonicas ratione vtriusque: sed non tene 
+   <lb ed="#B" n="31"/>tur eas bis dicere, quemadmodum frater minor te 
+   <lb ed="#B" n="32"/>netur die veneris in prima hebdomada quadragi 
+   <lb ed="#B" n="33"/>simae ieiunare triplici vinculo: quod duplex
+   exu<lb ed="#B" n="34" break="no"/>perat: videlicet ratione quadragesimae: ratione qua 
+   <lb ed="#B" n="35"/>tuor temporum: &amp; ratione suae regulae: sed non sequi 
+   <lb ed="#B" n="36"/>tur quod ter vel bis teneatur ieiunare. sic est in
+   propo<lb ed="#B" n="37" break="no"/>sito de dicendis horis. Si autem quis teneat duo 
+   <lb ed="#B" n="38"/>beneficia praeter rationem: res non est ita lucida. 
+   <lb ed="#B" n="39"/>&amp; dicit Petrus Paludanus quod in eodem die bis te 
+   <lb ed="#B" n="40"/>netur dicere horas. ratio est: quia impedit multitu 
+   <lb ed="#B" n="41"/>dinem seruorum dei: duorum fructus indebite col 
+   <lb ed="#B" n="42"/>ligendo: debet ergo duplex seruitium. Si dicas. ex 
+   <lb ed="#B" n="43"/>isto sequitur incertum esse, quis bis teneatur dici 
+   <lb ed="#B" n="44"/>re horas. forte etiam est habenti incertum an sit 
+   <lb ed="#B" n="45"/>statu salutis tenendo plura. Cum sapientibus consu 
+   <lb ed="#B" n="46"/>tet: &amp; se in certo ponat. Et licet alter duplicem fru 
+   <lb ed="#B" n="47"/>ctum colligat: cum tamen licite teneat duo beneficia:
+   la<lb ed="#B" n="48" break="no"/>bor eius aequiualet laboribus duorum: nec aliun 
+   <lb ed="#B" n="49"/>de tenetur nisi semel dicere horas: sed ratione vtr 
+   <lb ed="#B" n="50"/>usque. &amp; vnico actu dicendi vtrique praecepto satis 
+   <lb ed="#B" n="51"/>facit: quia non obligatur ad aliud. vnus enim est: sed cui 
+   <lb ed="#B" n="52"/>opera in republica duorum labores valet. simiter non 
+   <lb ed="#B" n="53"/>plus in cibo &amp; in vestibus quam vnus consumit, licet 
+   <lb ed="#B" n="54"/>duos valeat. 
+   <!--0169.xml-->
+   <cb ed="#B" n="b"/> 
+       <!-- 69-r b -->
+      </p>
+      <p xml:id="jMqv4a-d1e358-d1e1031">
+       <lb ed="#B" n="55"/>⁋ Nono arguitur. Sortes &amp; Plato 
+   <lb ed="#B" n="56"/>pro beneficio litigant: &amp; vterque habet apparentem ti 
+   <lb ed="#B" n="57"/>tulum ad illud beneficium: &amp; sic litigant triennio 
+   <lb ed="#B" n="58"/>dolo &amp; auaritia aduocatorum: vt pecuniam ad se 
+   <lb ed="#B" n="59"/>trahant ex longa lite. Arguitur sic. Sortes non te 
+   <lb ed="#B" n="60"/>netur ad dicendas horas: &amp; tamen habet ius
+   proba<lb ed="#B" n="61" break="no"/>bile in beneficio. quod patet: quia si teneatur dicere 
+   <lb ed="#B" n="62"/>horas: eodem modo Plato tenebitur: &amp; sic vterque isto 
+   <lb ed="#B" n="63"/>rum tenebitur dicere horas: &amp; ex eorum lite foren 
+   <lb ed="#B" n="64"/>si continuata augebuntur ministrorum praeces.
+  </p>
+      <p xml:id="jMqv4a-d1e358-d1e1056">
+   ⁋ Raspon 
+   <lb ed="#B" n="65"/>detur. quousque alter recipiat fructus, non tenetur di 
+   <lb ed="#B" n="66"/>cere horas si aliunde dicere non teneatur. &amp; si dubium 
+   <lb ed="#B" n="67"/>sit an is qui recipit, perditurus sit beneficium in
+   vl<lb ed="#B" n="68" break="no"/>tima appellatione: bonum est quod vterque istorum ho 
+   <lb ed="#B" n="69"/>ras canonicas dicat. tenetur tamen dicere aliquas 
+   <lb ed="#B" n="70"/>preces medium horarum attingentes ratione pro 
+   <lb ed="#B" n="71"/>babilitatis apparentis futurae, si non intendat
+   fa<lb ed="#B" n="72" break="no"/>cere aequiuaiens tempore quo beneficium habet. 
+  </p>
+      <p xml:id="jMqv4a-d1e358-d1e1076">
+       <lb ed="#B" n="73"/>⁋ Decimo arguitur. supponamus quod 
+   <lb ed="#B" n="74"/>Sortes dixit medietatem horarum: arguitur sic. Sor 
+   <lb ed="#B" n="75"/>tes non dixit horas nec tenetur eas dicere: quia par 
+   <lb ed="#B" n="76"/>tes horarum non sunt horae vulgariter loquedo:  
+   <lb ed="#B" n="77"/>ergo conclusio falsa.
+  </p>
+      <p xml:id="jMqv4a-d1e358-d1e1089">
+   ⁋ Vndecimo arguitur. Sor 
+   <lb ed="#B" n="78"/>tes non potest dicere horas: &amp; obligatur dicere horas per 
+   <lb ed="#B" n="79"/>te: ergo quis obligatur ad impossibile. Maior patet: quia 
+   <lb ed="#B" n="80"/>non potest habere vnam de prsenti veram: quocumque eim 
+   <lb ed="#B" n="81"/>instanti quo dicit horas demonstrato, falsum est di 
+   <lb ed="#B" n="82"/>cere. Sortes dicit horas: si enim non continuet non  
+   <lb ed="#B" n="83"/>dicit horas.
+  </p>
+      <p xml:id="jMqv4a-d1e358-d1e1105">
+   ⁋ Duodecimo arguitur. Sortes non 
+   <lb ed="#B" n="84"/>peccat mortaliter omittendo vltimum verbum ho 
+   <lb ed="#B" n="85"/>rarum, scilicet amen, vel deo gratias: &amp; aequa est
+   ra<lb ed="#B" n="86" break="no"/>tio de quolibet alio verbo: ergo non peccat
+   mor<lb ed="#B" n="87" break="no"/>taliter omittendo omnia verba. Forte dicis &amp;
+   be<lb ed="#B" n="88" break="no"/>ne, non est idem de vno verbo &amp; omnibus aliis. 
+   <lb ed="#B" n="89"/>Contra: Sortes non peccat mortaliter omittendo 
+   <lb ed="#B" n="90"/>vnum verbum: nec peccat mortaliter omittendo  
+   <lb ed="#B" n="91"/>duo verba praecise: ergo nec peccat mortaliter omnes 
+   <lb ed="#B" n="92"/>horas omittendo.
+  </p>
+      <p xml:id="jMqv4a-d1e358-d1e1127">
+   ⁋ Ad decimum dicitur quod tenetur 
+   <lb ed="#B" n="93"/>dicere quod remanet dicendum: &amp; concedo hanc
+   conclu<lb ed="#B" n="94" break="no"/>sionem: Sortes non dixit horas nec tenetur dicere 
+   <lb ed="#B" n="95"/>horas: nec est excusatus aliunde: capiendo horas 
+   <lb ed="#B" n="96"/>vulgariter. nam hora est totum vniuersale
+   respe<lb ed="#B" n="97" break="no"/>ctu aliquarum partium: &amp; integrale respectu
+   ali<lb ed="#B" n="98" break="no"/>quarum. Dicimus enim, septem sunt horae
+   cano<lb ed="#B" n="99" break="no"/>nicae.
+  </p>
+      <p xml:id="jMqv4a-d1e358-d1e1145">
+   ⁋ Ad vndecimum negatur maior. &amp; ad
+   pro<lb ed="#B" n="100" break="no"/>bationem nego quod nunquam habet de inesse veram: 
+   <lb ed="#B" n="101"/>immo in tempore quo dixit horas: verum erat dice 
+   <lb ed="#B" n="102"/>re: in hoc tempore Sortes dicit horas.
+  </p>
+      <p xml:id="jMqv4a-d1e358-d1e1155">
+   ⁋ Ad duc 
+   <lb ed="#B" n="103"/>decimum: transeat quod non peccat mortaliter omit 
+   <lb ed="#B" n="104"/>tendo vltimum verbum: &amp; sic de quolibet vno 
+   <lb ed="#B" n="105"/>verbo: non est tamen idem de multis verbis. quod  
+   <lb ed="#B" n="106"/>in simili patet de percutiente sensim aliquem mul 
+   <lb ed="#B" n="107"/>tis ictibus quorum quilibet non notabilem iactu 
+   <lb ed="#B" n="108"/>ram infert percusso: sed multi ictus notabilem lae- 
+   <!--0170.xml-->
+   <pb ed="#B" n="69-v"/>
+       <cb ed="#B" n="a"/>
+       <lb ed="#B" n="1"/>sionem inferunt. &amp; de auferente vnum granum &amp; 
+   <lb ed="#B" n="2"/>multa grana. 
+  </p>
+      <p xml:id="jMqv4a-d1e358-d1e1181">
+       <lb ed="#B" n="3"/>⁋ Colligendo sparsim dicta dicimus 
+   <lb ed="#B" n="4"/>hominem quemlibet existentem in sacris vel
+   benefi<lb ed="#B" n="5" break="no"/>ciatum ad dicendas horas deuinctum: nisi
+   rationa<lb ed="#B" n="6" break="no"/>bilem causam non dicendi habeat, vt inter arguendum 
+   <lb ed="#B" n="7"/>tetigimris: vel per aegritudinem: vt si quis laboret 
+   <lb ed="#B" n="8"/>morbo ob quem difficile sit loqui vel horas diceres 
+   <lb ed="#B" n="9"/>is non obligatur protunc, nec aliquis pro eo: nec alio
+   tem<lb ed="#B" n="10" break="no"/>pore pro seipso, quemadmodum non potens ieiunare 
+   <lb ed="#B" n="11"/>in causa rationabili. Noluit enim ecclesia istum obli 
+   <lb ed="#B" n="12"/>gare in hoc casu: quemadmodum nec ad ieiunium: 
+   <lb ed="#B" n="13"/>esto loquatur &amp; audiat iocosa quae pro sua sanitate 
+   <lb ed="#B" n="14"/>conducant: roget tamen deum mentaliter horarum
+   lo<lb ed="#B" n="15" break="no"/>co: &amp; hoc sufficient. Si quis vero modicam dyscrasiam 
+   <lb ed="#B" n="16"/>in morbo habmat, cui dicere non est difficile: is non est de 
+   <lb ed="#B" n="17"/>obligatus: sed potius debet excitari ad deuote
+   di<lb ed="#B" n="18" break="no"/>cendum quam sanus.
+  </p>
+      <p xml:id="jMqv4a-d1e358-d1e1218">
+   ⁋ Amplius horas canonicas 
+   <lb ed="#B" n="19"/>omittens culpabiliter dicere in certo tempore
+   ma<lb ed="#B" n="20" break="no"/>gno vel paruo, non tenetur horas omissas dicere: 
+   <lb ed="#B" n="21"/>sed sufficit dolere de illis omissionibus positiuis: 
+   <lb ed="#B" n="22"/>assumendo poenitentiam quam discretus sacerdos
+   im<lb ed="#B" n="23" break="no"/>posuerit. &amp; cum sit de sorte domini &amp; teneatur ad 
+   <lb ed="#B" n="24"/>plura quae ad haec positiua: satisfaciat pro viribus. 
+   <lb ed="#B" n="25"/>Nec est necessarium has horas in determinatis tem 
+   <lb ed="#B" n="26"/>poribus dicere. potest enim quis rationabiliter tem 
+   <lb ed="#B" n="27"/>pus praeuenire: vt post coenam studiosus homo dicit 
+   <lb ed="#B" n="28"/>vsque ad laudes matutinas vt postridie studio libe 
+   <lb ed="#B" n="29"/>rius vacet. Nec refert si vesperi post dictas
+   bibe<lb ed="#B" n="30" break="no"/>rit nec ne. cumi eim iam rationabiliter satisfecerit pro
+   die<lb ed="#B" n="31" break="no"/>subsequente antequam bibit: postea superueniente inopi 
+   <lb ed="#B" n="32"/>nata siti vel viro cui honestatis gratia est dandus 
+   <lb ed="#B" n="33"/>potus: licite potum sumit.
+  </p>
+      <p xml:id="jMqv4a-d1e358-d1e1253">
+   ⁋ Praeterea dicens cum 
+   <lb ed="#B" n="34"/>alio &amp; alium audiens quemadmodum seipsum,
+   satis<lb ed="#B" n="35" break="no"/>facit: non tamen sufficit dicere cum multis, sic scili 
+   <lb ed="#B" n="36"/>cet vt Sortes dicat primam lectionem: Plato secun 
+   <lb ed="#B" n="37"/>dam: Cicero tertiam: Ioannes quartam: &amp; sic
+   dein<lb ed="#B" n="38" break="no"/>ceps, non enim est hominum consuetudo sic legere. 
+   <lb ed="#B" n="39"/>Nec talibus nexibus aurem accommodabis: dico cum 
+   <lb ed="#B" n="40"/>Sorte audiendo eum vnam lectionem pronunciantem: 
+   <lb ed="#B" n="41"/>ergo pari ratione tertius poterit tertiam lectionem 
+   <lb ed="#B" n="42"/>nobis omnibus audientibus pronunciare. Sed
+   reci<lb ed="#B" n="43" break="no"/>tent duo eandem lectionem: &amp; vnus lectionem respon 
+   <lb ed="#B" n="44"/>dentem quemadmodum inter duos fit. vel si sint qua 
+   <lb ed="#B" n="45"/>tuor habentes duos vel tres solum libros: dicant 
+   <lb ed="#B" n="46"/>duo vnam lectionem: &amp; duo aliam vicissim. lta.n. 
+   <lb ed="#B" n="47"/>fit in choro tam inter canonicos seculares / quam regu 
+   <lb ed="#B" n="48"/>lares: vt quando vnus tussit: vel sanguinem per nares 
+   <lb ed="#B" n="49"/>emittit/ vel alloquitur vicinum paucis: vel egreditur 
+   <lb ed="#B" n="50"/>chorum gratia releuandi spiritus post fatigationem. 
+   <lb ed="#B" n="51"/>dummc do enim non stet diu extra chorum in
+   hora<lb ed="#B" n="52" break="no"/>rum fraudem: rediens ad chorum non tenetur sup 
+   <lb ed="#B" n="53"/>plere quod omisit. Ratio est: quia in hac regula stam 
+   <lb ed="#B" n="54"/>dum est. Quando tota multitudo persoluit suffi- 
+   <!--0170.xml-->
+   <cb ed="#B" n="b"/> 
+       <!-- 69-v b -->
+       <lb ed="#B" n="55"/>cienter &amp; nihil omittit, &amp; quilibet facit suas partes 
+   <lb ed="#B" n="56"/>secundum fragilitatem humanam: iam quilibet in  
+   <lb ed="#B" n="57"/>valore dicit integras horas. Ex his sequitur quod quili 
+   <lb ed="#B" n="58"/>bet canonicorum in choro quatuor vel quinque le 
+   <lb ed="#B" n="59"/>ctiones omittens ad suum latus spectantes, etiam 
+   <lb ed="#B" n="60"/>sciens, sufficienter dicit horas. Licet corollarium ex 
+   <lb ed="#B" n="61"/>dictis sequatur: amplius ipsum detego. omittat
+   Sor<lb ed="#B" n="62" break="no"/>tes vnam lectionem primi psalmi pro rationabili 
+   <lb ed="#B" n="63"/>causa: aliis omnibus omnia complentibus: postea 
+   <lb ed="#B" n="64"/>omittat Plato vnam lectionem: quam dicat Sortes &amp; 
+   <lb ed="#B" n="65"/>suppleat cum aliis: &amp; sic per ordinem: iam patet corol 
+   <lb ed="#B" n="66"/>larium. &amp; ipsum declaro per simile. si multi trahant 
+   <lb ed="#B" n="67"/>molarem, vel multi nautae ancoram vel nauem ad  
+   <lb ed="#B" n="68"/>ittus impellant pro pecunia: &amp; conveniant quod
+   conti<lb ed="#B" n="69" break="no"/>nuo trahent: supposito quod tota multitudo secundum 
+   <lb ed="#B" n="70"/>partes sit in actu, &amp; bene trahens: quamquam Sortes inter 
+   <lb ed="#B" n="71"/>dum manum a tractu suspendit pro occurrente
+   cau<lb ed="#B" n="72" break="no"/>sa: quis dicet Sortem non mereri stipendia? cum 
+   <lb ed="#B" n="73"/>hic alter alterius onera portet. sic hic. Secundo pa 
+   <lb ed="#B" n="74"/>tet bonum esse in multitudine horas canere. hoc 
+   <lb ed="#B" n="75"/>sequitur ex dictis. &amp; addo quod melius est in
+   multi<lb ed="#B" n="76" break="no"/>tudine canere, quam horas dicere seorsum. Nam
+   pri<lb ed="#B" n="77" break="no"/>mo sese mutuo accendunt ad promendas dei
+   lau<lb ed="#B" n="78" break="no"/>des: vt ignis vel faces sese incendunt. Tum secundo  
+   <lb ed="#B" n="79"/>alliciunt astantes ad deum orandum. &amp; Tertio exem 
+   <lb ed="#B" n="80"/>plo alios prouocant ad bonum. propterea canoni 
+   <lb ed="#B" n="81"/>ci quanto sunt maiores in hominum aestimatione: 
+   <lb ed="#B" n="82"/>tanto plus debent interesse horis publicis: ob causas 
+   <lb ed="#B" n="83"/>dictas. adde quod tunc pudebit inferiores diuinis
+   ho<lb ed="#B" n="84" break="no"/>ris diurnis &amp; nocturnis abesse.
+  </p>
+      <p xml:id="jMqv4a-d1e358-d1e1372">
+   ⁋ Concludendo di 
+   <lb ed="#B" n="85"/>co quod optima est inuentio dandarum
+   distributio<lb ed="#B" n="86" break="no"/>num eis qui horis intersunt. hoc enim non tollit 
+   <lb ed="#B" n="87"/>meritum, &amp; homines ad virtutem trahit, firmat &amp; 
+   <lb ed="#B" n="88"/>rapit, &amp; potissimum tempore noctumo: vt homo 
+   <lb ed="#B" n="89"/>non nimis dormiat: sed a malis quae in lectis con 
+   <lb ed="#B" n="90"/>tingere solent, elongetur. tunc etiam sub noctis. si 
+   <lb ed="#B" n="91"/>lentio homo est magis memor sui: &amp; se erga deum 
+   <lb ed="#B" n="92"/>melius recolligit.
+  </p>
+    </div>
+   </body>
+  </text>
+</TEI>

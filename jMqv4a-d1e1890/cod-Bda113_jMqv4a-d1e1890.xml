@@ -1,0 +1,278 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 3</title>
+      <author ref="#JohnMair">John Mair</author>
+      <respStmt>
+       <name>Jeffrey C. Witt</name>
+       <resp>TEI Encoder</resp>
+      </respStmt>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 3</title>
+       <date when="2020-06-09">June 27, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="B" n="cod-Bda113">Badius 1516</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+     guidelines for a diplomatic edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-06-27" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+      <pb ed="#B" n="353-r"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="jMqv4a-d1e1890"> <!-- l4d46q3 -->
+      <head xml:id="jMqv4a-d1e1890-Hd1e104">Quaestio 3</head>
+      <head xml:id="jMqv4a-d1e1890-Hd1e107" type="question-title">An homines pro meritis et demeritis habebunt 
+  praemium et supplicium</head>
+      <p xml:id="jMqv4a-d1e1890-d1e110">
+       <lb ed="#B" n="27"/>⁋ Distinctionis Quadragesimaesextae 
+   <lb ed="#B" n="28"/>Quaestio Tertia. 
+   <lb ed="#B" n="29"/>Qa N hac tertia quaestione 
+   <lb ed="#B" n="30"/>adhuc instabimus aliquot ar 
+   <lb ed="#B" n="31"/>Rgumentis contra dicta in prim 
+   <lb ed="#B" n="32"/>cipio huius quadragesimae 
+   <lb ed="#B" n="33"/>ssextae distinctionis. &amp; hoc sic. 
+   <lb ed="#B" n="34"/> Aliqui sunt homines qui nec 
+   <lb ed="#B" n="35"/>saluabuntur nec damnabutur: 
+   <lb ed="#B" n="36"/>ergo pro meritis &amp; demeritis eis non dabitur prae 
+   <lb ed="#B" n="37"/>mium &amp; supplicium: &amp; per consequens non aequa 
+   <lb ed="#B" n="38"/>le. Antecedens patet demonstrando praedestinatos 
+   <lb ed="#B" n="39"/>&amp; praescitos.
+  </p>
+      <p xml:id="jMqv4a-d1e1890-d1e141">
+   ⁋ Et confirmatur. secundum legem 
+   <lb ed="#B" n="40"/>decedens cum quocumque mortali debet puniri
+   infi<lb ed="#B" n="41" break="no"/>nita poena intensiue. sed hoc non fit. Assumptum 
+   <lb ed="#B" n="42"/>probatur: quia peccans contra socium aliquali
+   gra<lb ed="#B" n="43" break="no"/>uitate peccat: contra regentem plus peccat per eundem 
+   <lb ed="#B" n="44"/>actum quam contra socium: contra primarium plus quam 
+   <lb ed="#B" n="45"/>contra regentem. &amp; sic gradatim conscendendo per 
+   <lb ed="#B" n="46"/>cancellarium / episcopos / reges / &amp; infinita media pos 
+   <lb ed="#B" n="47"/>sibilia. modo quodlibet tale creabile deus excedit:  
+   <lb ed="#B" n="48"/>ergo peccans contra deum, hoc est eius praeceptum 
+   <lb ed="#B" n="49"/>transgrediens, infinite peccat. Quia eundem actum 
+   <lb ed="#B" n="50"/>faciens contra maiorem plus peccet quam ipsum facien 
+   <lb ed="#B" n="51"/>contra inferiorem: patet. v. Ethicorum. &amp; propterea 
+   <lb ed="#B" n="52"/>nititur philosophus poenam talionis Pythagorico 
+   <lb ed="#B" n="53"/>rum reprehendere. Non valet dicere. si sint extrema 
+   <!--0737.xml-->
+   <cb ed="#B" n="b"/> 
+       <!-- 353-r b -->
+       <lb ed="#B" n="54"/>finita: media erunt finita. primo posteriorum. Nam in fi 
+   <lb ed="#B" n="55"/>nita magnitudine hoc verum habet: non autem 
+   <lb ed="#B" n="56"/>in multitudine: quia inter quascumque duas distinctas 
+   <lb ed="#B" n="57"/>species potest deus infinitas species medias pro 
+   <lb ed="#B" n="58"/>ducere: &amp; inter duos homines in primo instanti 
+   <lb ed="#B" n="59"/>horae &amp; vltimo creatos producere potest infinitos, 
+   <lb ed="#B" n="60"/>in quolibet instanti horae producendo vnum: 
+   <lb ed="#B" n="61"/>quemadmodum infinita instantia mediant inter
+   il<lb ed="#B" n="62" break="no"/>la duo instantia.
+  </p>
+      <p xml:id="jMqv4a-d1e1890-d1e201">
+   ⁋ Respondetur concedendo quod ali 
+   <lb ed="#B" n="63"/>qui nec saluabuntur nec damnabuntur. nam
+   diuisi<lb ed="#B" n="64" break="no"/>ue ista est vera, isti non saluabuntur. quia est vna ne 
+   <lb ed="#B" n="65"/>gatiua non praegnans cuius extrema non
+   suppo<lb ed="#B" n="66" break="no"/>nunt pro eodem vel eisdem. ergo vera. Insuper ad  
+   <lb ed="#B" n="67"/>veritatem huius negatiuae sufficit quod iste vel ille non 
+   <lb ed="#B" n="68"/>saluabitur disiunctiue, quod patet: quia ad veritatem 
+   <lb ed="#B" n="69"/>affirmatiuae requiritur quod iste &amp; iste saluabitur
+   co<lb ed="#B" n="70" break="no"/>pulatiue demonstrando eos omnes. modo sicut co 
+   <lb ed="#B" n="71"/>pulatiua affirmatiua &amp; disiunctiua composita ex 
+   <lb ed="#B" n="72"/>partibus contradicentibus contradicunt in forma 
+   <lb ed="#B" n="73"/>vel in valore: sic si vna propositio requirit
+   copulati<lb ed="#B" n="74" break="no"/>uam quae sufficit ad sui verificationem / alia disiun 
+   <lb ed="#B" n="75"/>ctiuam concomitatur. isti tamen saluabuntur &amp;
+   da<lb ed="#B" n="76" break="no"/>mnabuntur copulatim. Dicis. ex isto sequitur quod
+   plu<lb ed="#B" n="77" break="no"/>res sunt non damnati quam damnati: cuius oppositum 
+   <lb ed="#B" n="78"/>ante innuimus. probatur: demonstrando omnes mor 
+   <lb ed="#B" n="79"/>tuos ista est vera. isti non sunt damnati: &amp; isti sunt 
+   <lb ed="#B" n="80"/>plures quam damnati. Dico quod plures sunt non
+   da<lb ed="#B" n="81" break="no"/>mnati quai damnati: sed non sunt plures homines
+   sal<lb ed="#B" n="82" break="no"/>uati quam damnati: quia sufficit quod quilibet homo est 
+   <lb ed="#B" n="83"/>saluatus vel damnatus / vel erit, in sensu composito. 
+  </p>
+      <p xml:id="jMqv4a-d1e1890-d1e249">
+       <lb ed="#B" n="84"/>⁋ Ad aliud argumentum conceditur quod semper peccans com 
+   <lb ed="#B" n="85"/>tra maiorem plus peccat. sed quia non semper inter 
+   <lb ed="#B" n="86"/>quoscumque duos seruatur aequalis latitudo: no conclu 
+   <lb ed="#B" n="87"/>ditur quod peccatum contra deum sit infinitae malitiae in  
+   <lb ed="#B" n="88"/>deacceptabilitate: sic scilicet vt infinita poena in gra 
+   <lb ed="#B" n="89"/>du tali peccato respondeat. Insuper peccatum
+   con<lb ed="#B" n="90" break="no"/>tra socium est contra deum &amp; quaelibet transgressio 
+   <lb ed="#B" n="91"/>inferiorum est contra deum. Baculo autem
+   arun<lb ed="#B" n="92" break="no"/>dineo basis argumenti innititur, quod patet: quia si 
+   <lb ed="#B" n="93"/>valeret: hac via concluderetur quodlidet
+   continu<lb ed="#B" n="94" break="no"/>um esse infinitum: quia accepta vna parua parte 
+   <lb ed="#B" n="95"/>datur vna pars maior illa: &amp; quacumque demonstrata 
+   <lb ed="#B" n="96"/>datur maior illa: &amp; totum qualibet est maius. Hac iten 
+   <lb ed="#B" n="97"/>via concludam circulum quemlibet esse infinitae continentiae: 
+   <lb ed="#B" n="98"/>quia ex eisdem lineis aequalibus tetragonus plus
+   co<lb ed="#B" n="99" break="no"/>tinet quam trigonus: &amp; hexagonus plus quai pentagonus: &amp; 
+   <lb ed="#B" n="100"/>sic ascendendo per figuras polygonas ex multitudine 
+   <lb ed="#B" n="101"/>angulorum versus circulum / augetur capacitas. ex his tamen 
+   <lb ed="#B" n="102"/>non concluditur figura agona infinitae capacitatis. 
+   <lb ed="#B" n="103"/>Accipito analogiam in notitia dei quae est finita
+   en<lb ed="#B" n="104" break="no"/>titas: &amp; tamen inter deum &amp; hanc formicam creabiles sunt 
+   <lb ed="#B" n="105"/>infinitae substantiae imperfectiores deo / &amp; formica per:  
+   <lb ed="#B" n="106"/>fectiores. inter illas enim substantias non datur perfectissi 
+   <lb ed="#B" n="107"/>ma notitia. loquor de notitia substantiarum creatarum: 
+   <lb ed="#B" n="108"/>&amp; tamen qualibet earum notitia dei est perfectior: quae non pro 
+   <!--0738.xml-->
+   <pb ed="#B" n="353-v"/>
+       <cb ed="#B" n="a"/>
+       <lb ed="#B" n="1"/>pterea est infinite perfecta. Et sicut illa consequentia 
+   <lb ed="#B" n="2"/>non tenet in rebus specie distinctis: ita hic est distin 
+   <lb ed="#B" n="3"/>ctio accidentatia sufficiens in discrimen peccatorum 
+   <lb ed="#B" n="4"/>Sic probabo per argumentum principale quod dabis mihi 
+   <lb ed="#B" n="5"/>librum tuum in fine quatuor annorum cum vno scuto. na 
+   <lb ed="#B" n="6"/>in fine primi anni diminues libram Parisiensem: in se 
+   <lb ed="#B" n="7"/>cundo tantundem: &amp; sic consequenter. &amp; ita dabis
+   li<lb ed="#B" n="8" break="no"/>brum gratis cum pecunia si proportionabiliter decrescat 
+   <lb ed="#B" n="9"/>praecium. In aliis autem rebus comparabilibus eiusdem ratie 
+   <lb ed="#B" n="10"/>nis consequentia est bona. vt bene sequitur in hoc cor 
+   <lb ed="#B" n="11"/>pore est corpus pedale, bipedale, tripedale, &amp; sic con 
+   <lb ed="#B" n="12"/>sequenter sine fine ascendendo pro partes non
+   communi<lb ed="#B" n="13" break="no"/>cantes: &amp; a. est toto corpore maius: ergo a. est
+   infi<lb ed="#B" n="14" break="no"/>nite magnum. Tnmden non nego quin deus possit inflige 
+   <lb ed="#B" n="15"/>re iuste infinitam poenam in gradu / pro quolibet peccatos 
+   <lb ed="#B" n="16"/>sed ex sua misericordia &amp; lege posita hoc non facit. 
+  </p>
+      <p xml:id="jMqv4a-d1e1890-d1e347">
+       <lb ed="#B" n="17"/>⁋ Secundo. Pro quolibet mortali
+   pec<lb ed="#B" n="18" break="no"/>cato erit infinitus cruciatus. Hoc supposito arguitur 
+   <lb ed="#B" n="19"/>sic. quaelibet pars huius mortalis est peior hoc ve 
+   <lb ed="#B" n="20"/>niali dato. vel sic cuiussibet partis proportionalis po 
+   <lb ed="#B" n="21"/>na huius mortalis est peior quam poena huius
+   venia<lb ed="#B" n="22" break="no"/>lis. sed huius venialis poena est alicuius cruciatus. 
+   <lb ed="#B" n="23"/>ergo poena totalis huius mortalis est infiniti
+   cru<lb ed="#B" n="24" break="no"/>ciatus / siue in gradu / siue non, parum refert: quia
+   ni<lb ed="#B" n="25" break="no"/>timur probare quod infinite crucietur. quod consequentia va 
+   <lb ed="#B" n="26"/>leat patet in omni materia. nam si a. est alicuius quam 
+   <lb ed="#B" n="27"/>titatis: &amp; qualibet pars huius continui est maior a. iam 
+   <lb ed="#B" n="28"/>continuum est infinite magnum.
+  </p>
+      <p xml:id="jMqv4a-d1e1890-d1e376">
+   ⁋ Dico consequin 
+   <lb ed="#B" n="29"/>tiam principalem nihil valere: quia in rebus diuersarum 
+   <lb ed="#B" n="30"/>specierum hoc non tenet / sicut non sequitur. quaeli 
+   <lb ed="#B" n="31"/>bet pars proportionalis huius albedinis hac
+   nigre<lb ed="#B" n="32" break="no"/>dine / demonstrando nigredinem in pupilla oculi 
+   <lb ed="#B" n="33"/>est perfectior: &amp; haec nigredo est alicuius perfectionis 
+   <lb ed="#B" n="34"/>ergo totalis albedo est infinite perfecta. Si dicas. tunt 
+   <lb ed="#B" n="35"/>eneruo vnam rationem in materia de ebrietate: quae 
+   <lb ed="#B" n="36"/>est quod in infinitum parum aliquis peccat: &amp; hoc 
+   <lb ed="#B" n="37"/>peccatum quolibet aliorum. est minus. Respondeo nor 
+   <lb ed="#B" n="38"/>esse idem vt ex his quae illic diximus perpendere potes 
+   <lb ed="#B" n="39"/>Secundo siue ratio illa sola concludat, siue non: omes 
+   <lb ed="#B" n="40"/>illae rationes multo sufficientius conclusionem quam
+   in<lb ed="#B" n="41" break="no"/>tendunt probant quam rationes ad oppositum, quod ad recti 
+   <lb ed="#B" n="42"/>conclusionem ponendam sufficit. Dicis. tunc si in infini 
+   <lb ed="#B" n="43"/>tum parua poena respondeat alicui parti huius mor 
+   <lb ed="#B" n="44"/>talis: &amp; quaelibet pars peccati mortalis secundum 
+   <lb ed="#B" n="45"/>intensionem sit peccatum mortale: poena peccat 
+   <lb ed="#B" n="46"/>venialis erit aequaliter intensa, quod inconuenit. Ne 
+   <lb ed="#B" n="47"/>go hoc inconuenire: sicut stat dare nigredinem in 
+   <lb ed="#B" n="48"/>vngue Aethiopis aequaliter intensam in gradu vi 
+   <lb ed="#B" n="49"/>est albedo dentis eius: sed non aequaliter perfectam. 
+  </p>
+      <p xml:id="jMqv4a-d1e1890-d1e424">
+       <lb ed="#B" n="50"/>⁋ Animaduersione autem non indignum est quod non 
+   <lb ed="#B" n="51"/>quaelibet pars poenae huius in purgatorio plus cruciat 
+   <lb ed="#B" n="52"/>qui poena huius viatoris, puta colica passio, quod proba 
+   <lb ed="#B" n="53"/>quia in infinitum parua est aliqua pars huius poe 
+   <lb ed="#B" n="54"/>quiae purgatorii: &amp; sufficit quod totalis poena purgato 
+   <!--0738.xml-->
+   <cb ed="#B" n="b"/> 
+       <!-- 353-v b -->
+       <lb ed="#B" n="55"/>rii istam colicam passionem in acerbitate exuperat. 
+   <lb ed="#B" n="56"/>Nec oportet etiam detotali: quia si sacerdos dice 
+   <lb ed="#B" n="57"/>ret pro centum simul quolibet die vnam missam, &amp; 
+   <lb ed="#B" n="58"/>cuilibet sufficeret vna missa: poena totalis istorum 
+   <lb ed="#B" n="59"/>ante finem multum remitteretur. Ex quo sequitur quod 
+   <lb ed="#B" n="60"/>stat dare poenam debitam furto simplici esse
+   aequa<lb ed="#B" n="61" break="no"/>lem in gradu poenae alicuius odii dei: si scilicet sit 
+   <lb ed="#B" n="62"/>vna parua pars odii: &amp; forte etiam in cruciatu &amp; in 
+   <lb ed="#B" n="63"/>acerbitate. alioquin tota poena odii erit infinitae acei 
+   <lb ed="#B" n="64"/>bitatis. Sed dicis. differunt specie: &amp; ideo non sunt 
+   <lb ed="#B" n="65"/>comparabiles. Respondetur. sicut stilus &amp; acetun 
+   <lb ed="#B" n="66"/>comparantur in perfectione entitatiua: non tamen in acutie 
+   <lb ed="#B" n="67"/>sic poena furti &amp; odii comparantur in ratione inten 
+   <lb ed="#B" n="68"/>sionis: sed non est necesse in ratione poenae. Quo fit 
+   <lb ed="#B" n="69"/>vt aliquis decedens in mortali &amp; veniali puniatur 
+   <lb ed="#B" n="70"/>aequaliter in gradu ac decedens in duobus mortalibus 
+  </p>
+      <p xml:id="jMqv4a-d1e1890-d1e478">
+       <lb ed="#B" n="71"/>⁋ Tertio argumentor. Alicui pecca 
+   <lb ed="#B" n="72"/>to secundum legem statutam respondet infinita poe 
+   <lb ed="#B" n="73"/>na intensiue: sed illa non infligetur. igitur. assumptum 
+   <lb ed="#B" n="74"/>probo: odio habeat deum Sortes pro tempore quo tenei 
+   <lb ed="#B" n="75"/>eum diligere: &amp; Plato omittat. tunc sic. peccato Pla 
+   <lb ed="#B" n="76"/>tonis respondet aliqua poena in infemo, &amp; est alicu 
+   <lb ed="#B" n="77"/>ius malitiae: sed in infinitum peius est peccatum Sortis. 
+   <lb ed="#B" n="78"/>quod ostenditur. sit odium eius intensum vt qua 
+   <lb ed="#B" n="79"/>tuor. &amp; ponantur infiniti ad imaginationem:
+   quo<lb ed="#B" n="80" break="no"/>rum quilibet odio habeat deum: Sortes vt quatu 
+   <lb ed="#B" n="81"/>or: Cicero vt duo: Petrus vt vnum: &amp; sic in
+   abys<lb ed="#B" n="82" break="no"/>sum geometrice. tunc sic. quodlibet istorum odio 
+   <lb ed="#B" n="83"/>rum est peius omissione Platonis: &amp; Sortes
+   pec<lb ed="#B" n="84" break="no"/>cat vno peccato omnia haec includente. igitur. Vel 
+   <lb ed="#B" n="85"/>non est opus ponere infinitatem hominum: sed sic 
+   <lb ed="#B" n="86"/>ducatur argumentum. quaelibet pars proportiona 
+   <lb ed="#B" n="87"/>lis huius odii est peior qui haec omissio: quia eam in 
+   <lb ed="#B" n="88"/>cludit &amp; aliquid aliud: &amp; omissio est alicuius oertae 
+   <lb ed="#B" n="89"/>malitiae: ergo hoc odium est infinitae malitiae. quod
+   au<lb ed="#B" n="90" break="no"/>tem sit aliqua pura omissio / alibi ostensum est. 
+  </p>
+      <p xml:id="jMqv4a-d1e1890-d1e525">
+       <lb ed="#B" n="91"/>⁋ Ad hoc argumentum respondetur negando asti 
+   <lb ed="#B" n="92"/>sumptum, nego item quod quaelibet pars illius com 
+   <lb ed="#B" n="93"/>missionis sit peior hac omissione / segregando
+   omis<lb ed="#B" n="94" break="no"/>sionem imbibitam in commissione. sed quilibet
+   il<lb ed="#B" n="95" break="no"/>lorum committens, per odium dei grauius peccat 
+   <lb ed="#B" n="96"/>quam omittens. sed hoc non solum ortum habet a con 
+   <lb ed="#B" n="97"/>missione: cum quilibet odio habens omittat. Hio 
+   <lb ed="#B" n="98"/>potest esse obiectio. nam omissio naturaliter
+   iuol<lb ed="#B" n="99" break="no"/>uitur in commissione. ergo non imputatur. consequen 
+   <lb ed="#B" n="100"/>tia patet: quia non aliter dicimus continuationem 
+   <lb ed="#B" n="101"/>naturalem actus mali eliciti in instanti non esse
+   im<lb ed="#B" n="102" break="no"/>putabilem. Respondeo. si hoc probare niteris: argu 
+   <lb ed="#B" n="103"/>mentum principale attenuas: quia si omissio cul 
+   <lb ed="#B" n="104"/>pabilis non inuoluatur in quolibet actu odii: non  
+   <lb ed="#B" n="105"/>habebis quamlibet partem illius odii peiorem hac 
+   <lb ed="#B" n="106"/>omissione.
+  </p>
+    </div>
+   </body>
+  </text>
+</TEI>

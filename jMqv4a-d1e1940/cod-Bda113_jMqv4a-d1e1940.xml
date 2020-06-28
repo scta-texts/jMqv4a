@@ -1,0 +1,604 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 5</title>
+      <author ref="#JohnMair">John Mair</author>
+      <respStmt>
+       <name>Jeffrey C. Witt</name>
+       <resp>TEI Encoder</resp>
+      </respStmt>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 5</title>
+       <date when="2020-06-09">June 27, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="B" n="cod-Bda113">Badius 1516</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+     guidelines for a diplomatic edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-06-27" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+      <pb ed="#B" n="362-r"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="jMqv4a-d1e1940"> <!-- l4d49q5 -->
+      <head xml:id="jMqv4a-d1e1940-Hd1e104">Quaestio 5</head>
+      <head xml:id="jMqv4a-d1e1940-Hd1e107" type="question-title">An beatitudo principalius consistat in actu 
+  intellectus, an voluntatis</head>
+      <p xml:id="jMqv4a-d1e1940-d1e110">
+       <lb ed="#B" n="99"/>⁋ Distinctionis Quadragesimae nonae 
+   <lb ed="#B" n="100"/>Quaestio Quinta. 
+   <lb ed="#B" n="101"/>Vinto quaeritur: An 
+   <lb ed="#B" n="102"/>beatitudo principalius con 
+   <lb ed="#B" n="103"/>sistat in actu intellectus: an 
+   <lb ed="#B" n="104"/>voluntatis. licet autem inuento 
+   <lb ed="#B" n="105"/>vno istorum actuum quis
+   pos<lb ed="#B" n="106" break="no"/>sit contendere quod alter non sit 
+   <lb ed="#B" n="107"/>beatitudo: tamen in illis tribus 
+   <!--0756.xml-->
+   <pb ed="#B" n="362-v"/>
+       <cb ed="#B" n="a"/>
+       <lb ed="#B" n="1"/>&amp; eorum quolibet beatitudinem dicimus consistere: 
+   <lb ed="#B" n="2"/>nisi de terminis luctari quis voluerit: dicendo quod 
+   <lb ed="#B" n="3"/>erit solum in optimo actu talis potentiae. signanter 
+   <lb ed="#B" n="4"/>potentiae talis) quia angelus forte habet visionem 
+   <lb ed="#B" n="5"/>alterius speciei ab homine, vt postea dicetur: &amp; 
+   <lb ed="#B" n="6"/>tamen quaelibet illarum visionum est beatitudo., 
+  </p>
+      <p xml:id="jMqv4a-d1e1940-d1e152">
+       <lb ed="#B" n="7"/>⁋ Relicta igitur disputatione de vocabulis quam 
+   <lb ed="#B" n="8"/>tum est possibile: ad quaestionem inuenio viros graues 
+   <lb ed="#B" n="9"/>dissentientes: quosda dicentes visionem esse
+   perfe<lb ed="#B" n="10" break="no"/>ctiorem actum dilectione: quosdam econtrario: alios autem 
+   <lb ed="#B" n="11"/>praeferentes gaudium. sed quia gaudium est passio secundum 
+   <lb ed="#B" n="12"/>communiorem viam, vel actus voluntatis: surda aure 
+   <lb ed="#B" n="13"/>super gaudio transibo. 
+  </p>
+      <p xml:id="jMqv4a-d1e1940-d1e171">
+       <lb ed="#B" n="14"/>⁋ Difficultas huius quaestionis ex 
+   <lb ed="#B" n="15"/>hoc depeudet: an intellectus sit principalior potem 
+   <lb ed="#B" n="16"/>tia quam voluntas. super quo in primis hanc conclusio 
+   <lb ed="#B" n="17"/>nem pono. Intellectus non est res melior volunta 
+   <lb ed="#B" n="18"/>te. quae sic probatur. Intellectus realiter est voluntas: 
+   <lb ed="#B" n="19"/>&amp; nihil est melius seipso. identitatem autem realem intel 
+   <lb ed="#B" n="20"/>lectus &amp; voluntatis, &amp; quod cum anima identificentur reali 
+   <lb ed="#B" n="21"/>ter: nunc suppono. hoc enim tam conterraneus quam nomi 
+   <lb ed="#B" n="22"/>nales omnes glomeratim (&amp; recte mea quidem
+   senten<lb ed="#B" n="23" break="no"/>tia) tenent. Et quia aliquis hac via arbitraretur
+   quae<lb ed="#B" n="24" break="no"/>stionis difficultatem sopitam: declarare oportet pro 
+   <lb ed="#B" n="25"/>mediocribus, remanere adhuc eandem quaestionis dif 
+   <lb ed="#B" n="26"/>ficultatem. nam licet intellectus sit voluntas: omnes tamen 
+   <lb ed="#B" n="27"/>docti concedunt, solo <name xml:id="jMqv4a-d1e1940-Nd1e203" ref="#Wodeham">Adam Goddam</name> excepto, 
+   <lb ed="#B" n="28"/>quod actus intellectus &amp; voluntatis etsi circa idem
+   ob<lb ed="#B" n="29" break="no"/>iectum ferantur / distinguuntur: immo specie. Quaestio 
+   <lb ed="#B" n="30"/>est itaque an notitia Sortis: an dilectio Sortis sit prae 
+   <lb ed="#B" n="31"/>ferenda. &amp; iterum oportet hanc actuum perfectionem in  
+   <lb ed="#B" n="32"/>potentiarum perfectionem reducere, quod patet: quia
+   per<lb ed="#B" n="33" break="no"/>fectior potentia potest perfectiorem actum producere. 
+   <lb ed="#B" n="34"/>Nec disconuenit intellectum &amp; voluntatem esse vnam 
+   <lb ed="#B" n="35"/>&amp; eandem rem: &amp; tamen animam esse perfectiorem inquan 
+   <lb ed="#B" n="36"/>tum est intellectus, quam inquantum est voluntas. Exemplum 
+   <lb ed="#B" n="37"/>in simili. Petrus est prior Sorbonae: &amp; regens
+   in<lb ed="#B" n="38" break="no"/>trantum. Franciscus est rex Francorum, &amp; dux Au 
+   <lb ed="#B" n="39"/>relianensis. sed officium regni est nobilius quam officium 
+   <lb ed="#B" n="40"/>ducatus ei subiecti. sic in proposito. 
+  </p>
+      <p xml:id="jMqv4a-d1e1940-d1e235">
+       <lb ed="#B" n="41"/>⁋ Et quia in vtramque partem sunt
+   ar<lb ed="#B" n="42" break="no"/>duae rationes: vtrinque argumentabor: &amp; argumen 
+   <lb ed="#B" n="43"/>tis propositis dabo responsiones. In primis oster 
+   <lb ed="#B" n="44"/>dere nitar quod voluntas sit perfectior intellectu. Nam 
+   <lb ed="#B" n="45"/>per actum voluntatis magis meremur quam per actus 
+   <lb ed="#B" n="46"/>intellectus: ideo secundum actum voluntatis magis
+   prae<lb ed="#B" n="47" break="no"/>miamur: ergo voluntas habet conditionem nobilio 
+   <lb ed="#B" n="48"/>rem quam intellectus habebit actum meliorem.
+  </p>
+      <p xml:id="jMqv4a-d1e1940-d1e255">
+   ⁋
+   Se<lb ed="#B" n="49" break="no"/>cundo arguitur ad idem. Optimus habitus
+   volun<lb ed="#B" n="50" break="no"/>tatis praestat optimo habitui intellectus: ergo vo 
+   <lb ed="#B" n="51"/>luntas praestat intellectui consequentia patet: quia 
+   <lb ed="#B" n="52"/>nobilioris potentiae nobilior est habitus: &amp;
+   econ<lb ed="#B" n="53" break="no"/>uerso. Antecedens probatur. nam charitas est habitus 
+   <!--0756.xml-->
+   <cb ed="#B" n="b"/> 
+       <!-- 362-v b -->
+       <lb ed="#B" n="54"/>voluntatis: fides autem habitus intellectus. modo  
+   <lb ed="#B" n="55"/>charitas praestat fidei. dicente Apostolo primae ad  
+   <lb ed="#B" n="56"/>Corinth. xiii. Maior horum charitas.
+  </p>
+      <p xml:id="jMqv4a-d1e1940-d1e281">
+   ⁋ Ad primum 
+   <lb ed="#B" n="57"/>respondet Ioannes Buridanus in quaest. vltima.
+   x<lb ed="#B" n="58" break="no"/>Ethicorum, quod potius &amp; principalius &amp; liberius me 
+   <lb ed="#B" n="59"/>remur per actum intellectus qui per actum volunta 
+   <lb ed="#B" n="60"/>tis, non enim sola volitio recta est actus meritorius 
+   <lb ed="#B" n="61"/>immo etiam apprehensio agens &amp; dirigens illam
+   vo<lb ed="#B" n="62" break="no"/>litionem. lstud vsqueadeo est improbabile &amp;
+   con<lb ed="#B" n="63" break="no"/>tra communem scholam: vt aliam improbationem a reci 
+   <lb ed="#B" n="64"/>tatione apponendam non putem. Propterea
+   respon<lb ed="#B" n="65" break="no"/>deo concedendo antecedens quod mereamur per actum 
+   <lb ed="#B" n="66"/>voluntatis: sed non magis per actum voluntatis 
+   <lb ed="#B" n="67"/>praemiamur. sufficit enim quod vna pars hominis ma 
+   <lb ed="#B" n="68"/>gis mereatur: &amp; alia pars capiat praemium pro
+   toto<lb ed="#B" n="69" break="no"/>quomodo lectore legente lingua meretur
+   pecu<lb ed="#B" n="70" break="no"/>niam: &amp; manus praemium illud capit. quia sufficit quod idem 
+   <lb ed="#B" n="71"/>homo qui meritus est praemietur.
+  </p>
+      <p xml:id="jMqv4a-d1e1940-d1e316">
+   ⁋ Ad secundum 
+   <lb ed="#B" n="72"/>Ioannes Buridanus. qui. praefata. x. Ethicorum dicit 
+   <lb ed="#B" n="73"/>illud intelligi de deo, qui est charitas. &amp; quod Aristo 
+   <lb ed="#B" n="74"/>teles negasset charitatem esse maiorem sapientia: &amp; 
+   <lb ed="#B" n="75"/>forte etiam Salomon. An autem charitas viae praestet 
+   <lb ed="#B" n="76"/>fidei viae: theologis relinquit disputandum. audiuit.
+   n<lb ed="#B" n="77" break="no"/>a Christo dictum. Fides tua te saluam fecit. Matth. 
+   <lb ed="#B" n="78"/>ix. &amp; Marci. v. sicut audiuit. Remittuntur ei pecca 
+   <lb ed="#B" n="79"/>ta multa, quoniam dilexit multum. Lucae. vii. sed cum 
+   <lb ed="#B" n="80"/>fuerit artista &amp; non theologus: hoc relinquo.
+   Ali<lb ed="#B" n="81" break="no"/>ter ergo dico negando antecedens. nam lumen gloriae 
+   <lb ed="#B" n="82"/>est habitus intellectus: &amp; praestat charitati: quia
+   di<lb ed="#B" n="83" break="no"/>stinguit patriam a via. charitas veto est comunis 
+   <lb ed="#B" n="84"/>tam patriae qui viae. modo illud quod est adaequatum pa 
+   <lb ed="#B" n="85"/>triae quae est status optimus, est praeferedum illi quod est 
+   <lb ed="#B" n="86"/>commune vtrique.
+  </p>
+      <p xml:id="jMqv4a-d1e1940-d1e351">
+   ⁋ Tertio arguitur. ix. Metaphysicae 
+   <lb ed="#B" n="87"/>dicitur. Priora generatione sunt posteriora perfe 
+   <lb ed="#B" n="88"/>ctione. sed actus intellectus praecedit actum volunta 
+   <lb ed="#B" n="89"/>tis: quia voluntas non fertur in incognitum. igitur. 
+  </p>
+      <p xml:id="jMqv4a-d1e1940-d1e361">
+       <lb ed="#B" n="90"/>⁋ Quarto arguitur. Voluntas praecipit intellectui vt 
+   <lb ed="#B" n="91"/>speculetur, &amp; ei imperat: cuius imperium intellectum 
+   <lb ed="#B" n="92"/>suscipere oportet: cum voluntas sit regina in regno  
+   <lb ed="#B" n="93"/>animae: iuxta Ansel. de conceptu virginali. c. iiii. 
+  </p>
+      <p xml:id="jMqv4a-d1e1940-d1e372">
+       <lb ed="#B" n="94"/>⁋ Ad tertium dicitur quod aliqua quae materiam dispo 
+   <lb ed="#B" n="95"/>nunt ad formam sunt imperfectiora, vt qualitatiuae 
+   <lb ed="#B" n="96"/>dispositiones in ordine ad formam substantialem. vel 
+   <lb ed="#B" n="97"/>quando est ascensus in formis substantialibus: vt a 
+   <lb ed="#B" n="98"/>forma embryonis ascendendo ad animam hominis. 
+   <lb ed="#B" n="99"/>Interdum tamen posterius est imperfectius: vt forma 
+   <lb ed="#B" n="100"/>substanti ali producta, posterius tempore vel natura 
+   <lb ed="#B" n="101"/>producitur accidens eius.
+  </p>
+      <p xml:id="jMqv4a-d1e1940-d1e392">
+   ⁋ Ad quartum
+   respon<lb ed="#B" n="102" break="no"/>det Buri. vbi prius. quod tunc hoc praeceptum est gra 
+   <lb ed="#B" n="103"/>tia speculationis. &amp; sic speculatio est finalior &amp; 
+   <lb ed="#B" n="104"/>melior. Secundo non est aliud praecipere voluntatis quam 
+   <lb ed="#B" n="105"/>velle: &amp; tamen videtur quod velle non sit praecipere, pro 
+   <lb ed="#B" n="106"/>prie loquendo: quia possum velle vt accedas
+   eccle<lb ed="#B" n="107" break="no"/>siam: &amp; nihil tibi praecipere. Tertio, si ibi sit praeceptum: 
+   <lb ed="#B" n="108"/>intellectus primo praecipit: sine cuius praecepto vo- 
+   <!--0757.xml-->
+   <pb ed="#B" n="363-r"/>
+       <cb ed="#B" n="a"/>
+       <lb ed="#B" n="1"/>luntas praecipere non potest. antequam enim voluntas ve 
+   <lb ed="#B" n="2"/>lit quod speculetur: intellectus praeiudicat speculandum 
+   <lb ed="#B" n="3"/>esse: &amp; deinde volunt as iuxta illud iudicium vult &amp; 
+   <lb ed="#B" n="4"/>o acceptat. est ergo illa sententia seu iudicium primum prae 
+   <lb ed="#B" n="5"/>ceptum: &amp; volitio quod fiat, est praeceptum secundum. primu 
+   <lb ed="#B" n="6"/>autem praeceptum determinat secundum: sic vt necesse sit 
+   <lb ed="#B" n="7"/>velle secundum illud iudicium: vel nihil velle. &amp; sic in  
+   <lb ed="#B" n="8"/>tellectus in hoc habet primum dominium. Contra hae 
+   <lb ed="#B" n="9"/>arguitur. Ex prima solutione magistri Ioannis sed 
+   <lb ed="#B" n="10"/>tur quod videre vel audire praestaret actui voluntatis 
+   <lb ed="#B" n="11"/>cum voluntas illa praecipere possit. Ad secundum quod
+   af<lb ed="#B" n="12" break="no"/>fert, dico quod praecipere voluntatis est efficaciter velle 
+   <lb ed="#B" n="13"/>&amp; hoc ostedere signo sensibili quo ad alium. nam in  
+   <lb ed="#B" n="14"/>eodem / supposito non est aliud praecipere quam efficaciter 
+   <lb ed="#B" n="15"/>velle. quare nihil est dicere, possum velle vt acce 
+   <lb ed="#B" n="16"/>das i ad ecclesiam, &amp; nihil tibi praecipere. Tertio
+   fal<lb ed="#B" n="17" break="no"/>sum est quod voluntas non possit pearcipere sine
+   intelle<lb ed="#B" n="18" break="no"/>ctus praecepto &amp; imperio. nam licet intellectus
+   iudi<lb ed="#B" n="19" break="no"/>cet in vniuersali vel particulari: voluntas potest praecipe 
+   <lb ed="#B" n="20"/>re vel non praecipere: immo oppositum praecipere. 
+  </p>
+      <p xml:id="jMqv4a-d1e1940-d1e460">
+       <lb ed="#B" n="21"/>⁋ Quinto arguit Burida. Vetula amans deum
+   li<lb ed="#B" n="22" break="no"/>cet de deo modicam habeat notitiam, placet deo quia 
+   <lb ed="#B" n="23"/>amat: &amp; tamen magnus clericus multas habens de 
+   <lb ed="#B" n="24"/>deo notitias, si non amat deum non placet deo. sed 
+   <lb ed="#B" n="25"/>illud est nobis longe melius &amp; felicius per quod
+   place<lb ed="#B" n="26" break="no"/>mus deo, quam per quod ei non placemus: ergo amare deum 
+   <lb ed="#B" n="27"/>est nobis felicius quam cognoscere ipsum.
+  </p>
+      <p xml:id="jMqv4a-d1e1940-d1e478">
+   ⁋ Ad hoc 
+   <lb ed="#B" n="28"/>sic respondet. diceret <name xml:id="jMqv4a-d1e1940-Nd1e482" ref="#Aristotle">Aristoteles</name> quod vetula non plus 
+   <lb ed="#B" n="29"/>amat deum quam iudicet ipsum esse bonum &amp; amandum.  
+   <lb ed="#B" n="30"/>illa autem vetula firmius iudicat &amp; credit, deum esse 
+   <lb ed="#B" n="31"/>super omnia amandum &amp; colendum, &amp; eius praecepta seruam 
+   <lb ed="#B" n="32"/>da, quam ille: magnus clericus. Ille enim quis sciat
+   de<lb ed="#B" n="33" break="no"/>monstrariue deum esse optimum, &amp; principium &amp; cau 
+   <lb ed="#B" n="34"/>sam omnium: tamen sententiat deum non esse meliorem sibi 
+   <lb ed="#B" n="35"/>quam voluptates, vel pecunias, vel honores, nec
+   iu<lb ed="#B" n="36" break="no"/>dicat melius esse seruare praecepta diuina, quam volu 
+   <lb ed="#B" n="37"/>ptuose viuere, aut quam tyrannice dominari: immo 
+   <lb ed="#B" n="38"/>iudicat oppositum, quod patet: quia eligit &amp; facit op 
+   <lb ed="#B" n="39"/>positum: quod non fit sine praeuio iudicio. &amp; licet dicat 
+   <lb ed="#B" n="40"/>saepe, melius esse praecepta diuina seruare: apparet 
+   <lb ed="#B" n="41"/>quod hoc dicat ore solum: &amp; mentiatur. Et infert hoc 
+   <lb ed="#B" n="42"/>pacto. Sic ergoipatet quod illa vetula non habet de 
+   <lb ed="#B" n="43"/>deo nisi veras apprehensiones &amp; firmissimas, licet 
+   <lb ed="#B" n="44"/>non euidentes. Ille aut clericus multas habet de deo 
+   <lb ed="#B" n="45"/>falsas aestimationes. Ad hoc commentator tendit in 
+   <lb ed="#B" n="46"/>suo prologo tertii Physicorum dicens. Firmior est 
+   <lb ed="#B" n="47"/>fides vulgi fide philosophorum. Postea
+   concluden<lb ed="#B" n="48" break="no"/>do dicit Ioannes. Dicamus ergo quod ista vetula est 
+   <lb ed="#B" n="49"/>magis deo grata, non solum quia magis amat deum 
+   <lb ed="#B" n="50"/>sed etiam quia iudicat firmius deum esse amandum &amp; super 
+   <lb ed="#B" n="51"/>omnia alia mandata eius obseruanda. Ego dico hunc 
+   <lb ed="#B" n="52"/>eruditissimum virum non recte sentire de viris doctis 
+   <lb ed="#B" n="53"/>per iudicia errantia. hi enim quos magnos clericos 
+   <lb ed="#B" n="54"/>vocat recte de deo sentiunt: &amp; in omnibus rectius quam 
+   <lb ed="#B" n="55"/>bona vetula: nec vllo modo in intellectu aberrai 
+   <!--0757.xml-->
+   <cb ed="#B" n="b"/> 
+       <!-- 363-r b -->
+       <lb ed="#B" n="56"/>sed eorum aliqui sibi nimis propensi faciunt multa 
+   <lb ed="#B" n="57"/>contra suas coscientias, quae iudicant mala. Falsum autem 
+   <lb ed="#B" n="58"/>est quod eruditi viri non iudicent melius esse seruare prae 
+   <lb ed="#B" n="59"/>cepta dei quam voluptuose viuere, aut tyrannice do 
+   <lb ed="#B" n="60"/>minari. Et quando dicit: eligunt oppositum: ergo iudi 
+   <lb ed="#B" n="61"/>cant oppositum. nulla est consequentia, non tamen nego quir 
+   <lb ed="#B" n="62"/>multi docti habeant iudicia errantia in agibilibus: 
+   <lb ed="#B" n="63"/>vtpote iudicantes sibi licere, habere plura benefi 
+   <lb ed="#B" n="64"/>cia quam par sit: non esse obligatos ad ieiunia in
+   mul<lb ed="#B" n="65" break="no"/>tis casibus: vel iudicantes se meliores vel
+   doctio<lb ed="#B" n="66" break="no"/>res aliis: quibus forte sunt inferiores, quia sibi plus 
+   <lb ed="#B" n="67"/>afficiuntur. sed quod sic in fide caecutiant: falsum est. De 
+   <lb ed="#B" n="68"/>commentatore aut non est magna vis facienda: cum in 
+   <lb ed="#B" n="69"/>rebus diuinis fuerit inconstantissimus: ac post fidem 
+   <lb ed="#B" n="70"/>promulgatam &amp; acceptam (vt asserunt) in gentilitatis 
+   <lb ed="#B" n="71"/>tenebras secesserit. Verum quod in errore
+   Mahumeta<lb ed="#B" n="72" break="no"/>non in quo natus erat, non permanserit intrinsecus:
+   pro<lb ed="#B" n="73" break="no"/>be egit. &amp; loquendo de haeresibus Mahumeti quas 
+   <lb ed="#B" n="74"/>vocauit (vt plures inter suos) fidem, bene dicebat 
+   <lb ed="#B" n="75"/>quod philosophorum alius erat assensus quam vulgi. Ar 
+   <lb ed="#B" n="76"/>gumentum sic dirigo. Doctus melius iudicat de di 
+   <lb ed="#B" n="77"/>uinis quam vetula: &amp; tamen ipsa crebro est melior literato 
+   <lb ed="#B" n="78"/>viro: ergo actus voluntatis est melior quam actus in  
+   <lb ed="#B" n="79"/>tellectus.
+  </p>
+      <p xml:id="jMqv4a-d1e1940-d1e603">
+   ⁋ Sexto arguitur. Voluntas fertur in suum ob 
+   <lb ed="#B" n="80"/>iectum sub ratione boni. intellectus autem in suum in ra 
+   <lb ed="#B" n="81"/>tione veri vel entis. sed ratio boni est melior quam
+   ra<lb ed="#B" n="82" break="no"/>tio entis vel veri. ergo cum voluntas feratur in idem 
+   <lb ed="#B" n="83"/>cum intellectu, sub meliore tamen ratione: voluntas est prae 
+   <lb ed="#B" n="84"/>ferenda.
+  </p>
+      <p xml:id="jMqv4a-d1e1940-d1e617">
+   ⁋ Respondetur. si voluntas solum haberet pro 
+   <lb ed="#B" n="85"/>obiecto bonum verum, vel bonum apparens: &amp; intelle 
+   <lb ed="#B" n="86"/>ctus hoc totum, &amp; cum hoc malum nullum specimen
+   bo<lb ed="#B" n="87" break="no"/>ni habens: concluderetur nobilitas intellectus supra 
+   <lb ed="#B" n="88"/>voluntatem. semper enim potentia animae qua in plura potest 
+   <lb ed="#B" n="89"/>est melior &amp; nobilior ea quae non potest in tot. vt intelle 
+   <lb ed="#B" n="90"/>ctus plura intelligit quam sensus: &amp; sensus communis 
+   <lb ed="#B" n="91"/>quam sensus exterior. quare est nobilior potentia.
+   Se<lb ed="#B" n="92" break="no"/>cudo dico, omne obiectum intellectus esse obiectum 
+   <lb ed="#B" n="93"/>voluntatis in nolendo vel volendo. sed hoc non satis 
+   <lb ed="#B" n="94"/>facit argumento: quia licet idem sit obiectum adaequatum 
+   <lb ed="#B" n="95"/>vtriusque potentiae: luctandum erit quae ratio considerata in  
+   <lb ed="#B" n="96"/>ipsis obiectis sit melior. &amp; difficile est vnum probare, &amp; 
+   <lb ed="#B" n="97"/>aliud.
+  </p>
+      <p xml:id="jMqv4a-d1e1940-d1e648">
+   ⁋ Septimo arguitur. tertio Topicorum, &amp;. viii. 
+   <lb ed="#B" n="98"/>Ethicorum de / oppositis trium politiarum dicitur. Cuius 
+   <lb ed="#B" n="99"/>oppositum est peius, ipsa est melior. sed odire deum, 
+   <lb ed="#B" n="100"/>quod opponitur, amare deum, est peius quam ignorare 
+   <lb ed="#B" n="101"/>quod opponitur, cognoscere.
+  </p>
+      <p xml:id="jMqv4a-d1e1940-d1e659">
+   ⁋ Respondet Ioannes. 
+   <lb ed="#B" n="102"/>Illa comparatio locum habet in eodem modo oppo 
+   <lb ed="#B" n="103"/>sitis. sed tu sic non arguis: quia odire &amp; amare 
+   <lb ed="#B" n="104"/>sunt contraria: cognoscere autem &amp; ignorare sunt 
+   <lb ed="#B" n="105"/>priuatiue opposita. Hoc non soluit argumentum 
+   <lb ed="#B" n="106"/>quia ducam argumentum de ignorantia prauae 
+   <lb ed="#B" n="107"/>dispositionis, &amp; non de ignorantia purae negatio 
+   <lb ed="#B" n="108"/>nis: iam enim est vera contrarietas: &amp; tamen odium 
+   <lb ed="#B" n="109"/>dei est peius haeresi: ergo amor dei est melior noti 
+   <lb ed="#B" n="110"/>tia dei: comparando amorem viae ad notitiam viae, &amp; 
+   <!--0758.xml-->
+   <pb ed="#B" n="363-v"/>
+       <cb ed="#B" n="a"/>
+       <lb ed="#B" n="1"/>amorem patriae ad notitiam patriae.
+  </p>
+      <p xml:id="jMqv4a-d1e1940-d1e690">
+   ⁋ Octauo. beati 
+   <lb ed="#B" n="2"/>tudo inter ea quae beato insunt est maxime
+   amabi<lb ed="#B" n="3" break="no"/>lis. primo &amp;. x. Ethicorum. sed voluntas plus amat 
+   <lb ed="#B" n="4"/>actum suum quam actum intellectus: quia vnaquaeque potem 
+   <lb ed="#B" n="5"/>tia sicut vnaquaeque res plus inclinatur naturaliter ad 
+   <lb ed="#B" n="6"/>actum proprium quam ad actum alterius potentiae. 
+  </p>
+      <p xml:id="jMqv4a-d1e1940-d1e703">
+       <lb ed="#B" n="7"/>⁋ Nono arguitur. si actus intellectus foret
+   perfe<lb ed="#B" n="8" break="no"/>ctior, esset beatificus, qui potest secumn compati tristi 
+   <lb ed="#B" n="9"/>tiam. ergo quis erit simul beatus &amp; multum tristis. 
+   <lb ed="#B" n="10"/>quod non est dicendum. Respondetur. hoc argumentum est 
+   <lb ed="#B" n="11"/>commune vtrique opinioni. nam idem potes dicere si con 
+   <lb ed="#B" n="12"/>sistat in actu voluntatis. 
+  </p>
+      <p xml:id="jMqv4a-d1e1940-d1e719">
+       <lb ed="#B" n="13"/>⁋ In oppositum arguitur. Ratio sem 
+   <lb ed="#B" n="14"/>per deprecatur ad optima. i. Ethicorum. &amp;
+   inobli<lb ed="#B" n="15" break="no"/>que procedit. alioquin non esset ratio. &amp; hoc intelle 
+   <lb ed="#B" n="16"/>ctui convenit: qualem perogatiuam non habet volun 
+   <lb ed="#B" n="17"/>tas.
+  </p>
+      <p xml:id="jMqv4a-d1e1940-d1e733">
+   ⁋ Secundo arguitur. Voluntas est caeca: &amp; non 
+   <lb ed="#B" n="18"/>fertur in incognitum. iuxta beatum <name xml:id="jMqv4a-d1e1940-Nd1e737" ref="#Augustine">Augustinum</name>. x. 
+   <lb ed="#B" n="19"/>de Trinitate. sed intellectus ministrat ei lumen. 
+  </p>
+      <p xml:id="jMqv4a-d1e1940-d1e743">
+       <lb ed="#B" n="20"/>⁋ Tertio. intellectus est dominus respectu volun 
+   <lb ed="#B" n="21"/>tatis, quia eam dirigit in suis operationibus: osten 
+   <lb ed="#B" n="22"/>dens quid faciendum sit: &amp; quid omittendum. 
+  </p>
+      <p xml:id="jMqv4a-d1e1940-d1e752">
+       <lb ed="#B" n="23"/>⁋ Quarto. dicit Arist. x. Ethicorum, quod felicitas 
+   <lb ed="#B" n="24"/>consistit in speculatione, quae est actus intellectus. 
+  </p>
+      <p xml:id="jMqv4a-d1e1940-d1e759">
+       <lb ed="#B" n="25"/>⁋ Quinto. in prooemio Metaphysicae dicit idem 
+   <lb ed="#B" n="26"/>quod nobilissima scientia est metaphysica, quia ipsa 
+   <lb ed="#B" n="27"/>est libera &amp; gratia sui: &amp; sapientia est optimus
+   ha<lb ed="#B" n="28" break="no"/>bitus. vt patet per eundem. vi. Ethicorum.
+  </p>
+      <p xml:id="jMqv4a-d1e1940-d1e770">
+   ⁋ Sexto
+   ar<lb ed="#B" n="29" break="no"/>guitur. iuxta philosophum. iii Topicorum, illud est 
+   <lb ed="#B" n="30"/>nobilius quod alio non indiget, quam illud quod in diget ipso. 
+   <lb ed="#B" n="31"/>sed actus voluntatis actu intellectus indiget. vt pa 
+   <lb ed="#B" n="32"/>tet ex secundo argumento: &amp; non econverso.
+  </p>
+      <p xml:id="jMqv4a-d1e1940-d1e781">
+   ⁋ Septi 
+   <lb ed="#B" n="33"/>mo arguitur. Actus intellectus est causa aequiuo 
+   <lb ed="#B" n="34"/>ca respectu actus voluntatis. sed causa aequiuoca 
+   <lb ed="#B" n="35"/>suo effectui praestat. igitur. Maior probatur: quia in  
+   <lb ed="#B" n="36"/>tellectio est causa efficiens actus voluntatis, per re 
+   <lb ed="#B" n="37"/>gulam qua tu probas aliquid habere efficientiam
+   re<lb ed="#B" n="38" break="no"/>spectu alterius. &amp; cum intellectio sit alterius speciei 
+   <lb ed="#B" n="39"/>specialissimae a volitione: est causa aequiuoca. 
+  </p>
+      <p xml:id="jMqv4a-d1e1940-d1e800">
+       <lb ed="#B" n="40"/>⁋ Octauo. intellectio est purior volitione: nullam 
+   <lb ed="#B" n="41"/>impuritatem contrahens ab obiecto, quod patet: quia in  
+   <lb ed="#B" n="42"/>telligere bonum est bonum: &amp; apprehendere malum non  
+   <lb ed="#B" n="43"/>est malum. alioquin homo non posset praedicare. 
+   <lb ed="#B" n="44"/>nec scribere de peccatis sine peccato, quod non est 
+   <lb ed="#B" n="45"/>dicendum. velle tamen mala est malum. igitur. 
+  </p>
+      <p xml:id="jMqv4a-d1e1940-d1e816">
+       <lb ed="#B" n="46"/>⁋ Nono arguitur, constat ex euangelio Ioannis 
+   <lb ed="#B" n="47"/>xvii. quod visio dei est vita aeterna. sed non potest si 
+   <lb ed="#B" n="48"/>mile ostendi de actu voluntatis, nec ex scriptura, 
+   <lb ed="#B" n="49"/>nec in lumine naturali. 
+  </p>
+      <p xml:id="jMqv4a-d1e1940-d1e827">
+       <lb ed="#B" n="50"/>⁋ Ad primam istarum rationu respon 
+   <lb ed="#B" n="51"/>detur concedendo quod ratio ad optima deprecatur. sed  
+   <lb ed="#B" n="52"/>si per rationem, intellectum accipias: crebro oblique 
+   <lb ed="#B" n="53"/>procedit tam praestituendo malum finem quam quaerendo  
+   <lb ed="#B" n="54"/>obliqua media ad illum finem obtinendum. vt vi- 
+   <!--0758.xml-->
+   <cb ed="#B" n="b"/> 
+       <!-- 363-v b -->
+       <lb ed="#B" n="55"/>dere est de Sinone Virgiliano, Achitophele, &amp; 
+   <lb ed="#B" n="56"/>aliis. ratio tamen recta vt est actus intellectus, sem 
+   <lb ed="#B" n="57"/>per recte procedit. sic actus bonus voluntatis est 
+   <lb ed="#B" n="58"/>semper rectus, &amp; per consequens non habes
+   maio<lb ed="#B" n="59" break="no"/>rem praerogatiuam in intellectu quam in voluntate- 
+  </p>
+      <p xml:id="jMqv4a-d1e1940-d1e858">
+       <lb ed="#B" n="60"/>⁋ Ad secudum. licet de virtute sermonis concedere 
+   <lb ed="#B" n="61"/>possem istas, voluntas intelligit: intellectus vult: 
+   <lb ed="#B" n="62"/>vt expositorie facile deduci potest: hic intellectus 
+   <lb ed="#B" n="63"/>intelligit: hic intellectus est voluntas: ergo
+   volun<lb ed="#B" n="64" break="no"/>tas intelligit: tamen hoc non est respondere theologi 
+   <lb ed="#B" n="65"/>ce &amp; in morali philosophia secundum consuetum
+   mo<lb ed="#B" n="66" break="no"/>dum loquendi. Propterea concedo quod voluntas est cae 
+   <lb ed="#B" n="67"/>ca in se: sed deus ei sororem videntem annexit,
+   scili<lb ed="#B" n="68" break="no"/>cet intellectum. loquor perinde ac si realiter
+   distin<lb ed="#B" n="69" break="no"/>gueretur intellectus a voluntate ob varia officia 
+   <lb ed="#B" n="70"/>quae anima habet. nam intellectus ei ministrat lumen 
+   <lb ed="#B" n="71"/>taqui ancilla ferens lucernam ante dominam suam, ne 
+   <lb ed="#B" n="72"/>offendat ad lapidem pedem in tenebris. Hinc beatus 
+   <lb ed="#B" n="73"/>Bernardus in lib. de libero arbi. dicit, rationem esse 
+   <lb ed="#B" n="74"/>quodam modo pedissequam voluntatis.
+  </p>
+      <p xml:id="jMqv4a-d1e1940-d1e893">
+   ⁋ Ad
+   ter<lb ed="#B" n="75" break="no"/>tium nego quod intellectus sit dominus respectu vo 
+   <lb ed="#B" n="76"/>luntatis, &amp; quod eam dirigat / nisi consultiue: sicut
+   pru<lb ed="#B" n="77" break="no"/>dens quem rex consulit, dictat regi quid faciendum sit, 
+   <lb ed="#B" n="78"/>&amp; qua via licita: cui rex forte acquiescit: fortasse 
+   <lb ed="#B" n="79"/>non. sicut aure corporis quis apprehensiue audit
+   prae<lb ed="#B" n="80" break="no"/>dicatorem, cui non acquiescit. Sed contra hoc
+   argui<lb ed="#B" n="81" break="no"/>tur. melius foret quod intellectus esset datus volun 
+   <lb ed="#B" n="82"/>tati ad bonum quam ad malum. ad bonum quidem ei dare 
+   <lb ed="#B" n="83"/>tur si voluntas rationi contraire non posset: ad ma 
+   <lb ed="#B" n="84"/>lum autem si libere posset ei contraire. ergo
+   intelle<lb ed="#B" n="85" break="no"/>ctus voluntatem captiuat: &amp; per consequens est eius su 
+   <lb ed="#B" n="86"/>perior. Ad hanc obiectionem concedo maiorem. sed  
+   <lb ed="#B" n="87"/>duas alias propositiones in miore tactas nego. nam vo 
+   <lb ed="#B" n="88"/>luntas nihil mereretur si necessitaretur ab
+   intelle<lb ed="#B" n="89" break="no"/>ctu, qui in suis operationibus est agens naturale. 
+   <lb ed="#B" n="90"/>&amp; sic nullus esset alteri praeferendus in voluntate. 
+   <lb ed="#B" n="91"/>quod est inconveniens. In super vbi intellectus malum 
+   <lb ed="#B" n="92"/>finem praestituit, &amp; imprudenter contraire ostendit me 
+   <lb ed="#B" n="93"/>dio pro consequutione illius: voluntas esset necessita 
+   <lb ed="#B" n="94"/>ta illud facere, quod non expedit: immo omni ratio 
+   <lb ed="#B" n="95"/>ni est dissonum.
+  </p>
+      <p xml:id="jMqv4a-d1e1940-d1e941">
+   ⁋ Ad quartum concedo quod
+   Aristote<lb ed="#B" n="96" break="no"/>les ponit felicitatem in speculatione: quia non ponit 
+   <lb ed="#B" n="97"/>ipse discrimen in modo loquendi de intellectu &amp; 
+   <lb ed="#B" n="98"/>voluntate, sicut iam nos facimus, &amp; a multis die 
+   <lb ed="#B" n="99"/>bus theologi &amp; morales fecerunt. ipse enim non se 
+   <lb ed="#B" n="100"/>cludit operationes voluntatis: sed eas includit. 
+   <lb ed="#B" n="101"/>quod probo, quaerendo an <name xml:id="jMqv4a-d1e1940-Nd1e956" ref="#Aristotle">Aristoteles</name> speculantem deum 
+   <lb ed="#B" n="102"/>&amp; caelestia vocasset felicem: si fuisset intemperatus, 
+   <lb ed="#B" n="103"/>iniustus, maledicus, zoilus, &amp; huiusmodi. &amp;
+   pa<lb ed="#B" n="104" break="no"/>lam est quod non. Numquid expresse in decimo Ethi 
+   <lb ed="#B" n="105"/>corum dicit felicem esse diis immortalibus ami 
+   <lb ed="#B" n="106"/>cissimum: &amp; hoc non est nisi mentem colendo vt 
+   <lb ed="#B" n="107"/>dicit: hoc est, bene viuendo, contemplando deum, 
+   <lb ed="#B" n="108"/>&amp; eum laudando, quod perbelle sic explicat decimi 
+   <lb ed="#B" n="109"/>Ethicorum. viii. At vero qui mente operatur, &amp; eam colit: 
+   <!--0759.xml-->
+   <pb ed="#B" n="364-r"/>
+       <cb ed="#B" n="a"/>
+       <lb ed="#B" n="1"/>gQuaestio Serta. 
+   <lb ed="#B" n="2"/>disponitur optime. is &amp; amicissimus diis
+   immor<lb ed="#B" n="3" break="no"/>talibus esse videtur. Nam si dii curam humanatum rerum 
+   <lb ed="#B" n="4"/>vt existimatur) aliquam habent: rationi sane consen 
+   <lb ed="#B" n="5"/>taneum fuerit ipsos eo gaudere quod est optimum, ma 
+   <lb ed="#B" n="6"/>ximeque sibi cognatum. Hoc autem fuerit ipa mens: &amp; 
+   <lb ed="#B" n="7"/>in eos qui maxime hoc amant atque honorant, benefi 
+   <lb ed="#B" n="8"/>cia vicissim conferre: tamquam curam iis quae sibi sunt cha 
+   <lb ed="#B" n="9"/>ra ac diligentiam adhibentes: &amp; recte beneque agentes 
+   <lb ed="#B" n="10"/>Vides quod maxime bene agentem felicem reputat. 
+   <lb ed="#B" n="11"/>Speculatio enim de qua <name xml:id="jMqv4a-d1e1940-Nd1e1007" ref="#Aristotle">Aristoteles</name> loquitur, actum 
+   <lb ed="#B" n="12"/>appetitus i ncludit cum ipsa speculatione. Ac si di 
+   <lb ed="#B" n="13"/>cere vellet: is est felix qui mundanis curis abstra 
+   <lb ed="#B" n="14"/>ctus, caelestia meditatur, illa colit &amp; veneratur. quo 
+   <lb ed="#B" n="15"/>modo nos diceremus de optimo &amp; eruditissimo 
+   <lb ed="#B" n="16"/>Carthusiensi. Nec sit nobis curae de notitia practi 
+   <lb ed="#B" n="17"/>ca &amp; speculatiua in hac materia: quia varii vario 
+   <lb ed="#B" n="18"/>modo prout libet, in ea re loquuntur.
+  </p>
+      <p xml:id="jMqv4a-d1e1940-d1e1027">
+   ⁋ Ad quini 
+   <lb ed="#B" n="19"/>tum concedo quod dicit. sed hoc no excludit actus vo 
+   <lb ed="#B" n="20"/>luntatis: immo eos includit. similiter ad illud sext 
+   <lb ed="#B" n="21"/>Ethicorum dicatur. hoc patet quinti Ethicorum primo. 
+   <lb ed="#B" n="22"/>vbi plurimum iustitiam quae est actus vel habitus volun 
+   <lb ed="#B" n="23"/>tatis laudat: inquiens. Et neque est hesperus ita / neque 
+   <lb ed="#B" n="24"/>lucifer admitabilis. Sed quia iustitia ad actus vitae 
+   <lb ed="#B" n="25"/>actiuae spectat in qua non ponit felicitatem: dico quod 
+   <lb ed="#B" n="26"/>per sapientiam <name xml:id="jMqv4a-d1e1940-Nd1e1046" ref="#Aristotle">Aristoteles</name> complectitur virtutem theo 
+   <lb ed="#B" n="27"/>logicam, modo quo gentilis in lumine naturali loqui 
+   <lb ed="#B" n="28"/>poterat: hoc est charitatem acquisitam erga deum. Non 
+   <lb ed="#B" n="29"/>ne ex dictis eius iam patuit quod felix contemplatur caele 
+   <lb ed="#B" n="30"/>stia: ea veneratur &amp; colit: &amp; eis totus iam est dedi 
+   <lb ed="#B" n="31"/>tus: &amp; a mundo separatus? Et quid (quaso) est istud  
+   <lb ed="#B" n="32"/>nisi loco fidei capere notitiam dei &amp; caelestium, quam in 
+   <lb ed="#B" n="33"/>lumine naturali habere poterat &amp; deum laudares 
+  </p>
+      <p xml:id="jMqv4a-d1e1940-d1e1065">
+       <lb ed="#B" n="34"/>⁋ Ad sextum dicitur quod illa regula eget expositione. 
+   <lb ed="#B" n="35"/>nam forma substantialis non informat materiam sine 
+   <lb ed="#B" n="36"/>dispositione praeuia. econverso esse potest intense 
+   <lb ed="#B" n="37"/>vel remisse. similiter potest esse lumen sine visione 
+   <lb ed="#B" n="38"/>non autem econverso. Regula itaque illa intelligitur: quan 
+   <lb ed="#B" n="39"/>do illud ex perfectione sua no dependet ab alio: 
+   <lb ed="#B" n="40"/>sed aliud ab eo. vt substantia est nobilior suo acci 
+   <lb ed="#B" n="41"/>dente. quando autem aliquid ordinatur principaliter 
+   <lb ed="#B" n="42"/>ob aliud: regula non habet verum. vt homo
+   princi<lb ed="#B" n="43" break="no"/>paliter habet voluntatem &amp; liberum arbitrium vt bene 
+   <lb ed="#B" n="44"/>agat, &amp; mereatur frui perpetuo suo creatore &amp; eum 
+   <lb ed="#B" n="45"/>laudare: quod facere nequit per legem nunc datam / nisi 
+   <lb ed="#B" n="46"/>eum cognoscat.
+  </p>
+      <p xml:id="jMqv4a-d1e1940-d1e1096">
+   ⁋ Ad septimum conceditur maior: 
+   <lb ed="#B" n="47"/>sed negetur minor vtrobique: potissimum de partiali 
+   <lb ed="#B" n="48"/>causa aequiuoca: quomodo albedo est partialis 
+   <lb ed="#B" n="49"/>causa notitiae intuitiuae quae de ea habetur. sic in pro 
+   <lb ed="#B" n="50"/>posito. Etiam interdum voluntas est causa alicuius 
+   <lb ed="#B" n="51"/>notitiae: vt in generatione fidei.
+  </p>
+      <p xml:id="jMqv4a-d1e1940-d1e1109">
+   ⁋ Ad octauum
+   re<lb ed="#B" n="52" break="no"/>spondetur quod argumentum probat imperfectionem
+   intel<lb ed="#B" n="53" break="no"/>lectus: quia ab ipso nullum est peccatum, nisi a volun 
+   <lb ed="#B" n="54"/>tate procedat, positiue vel priuatiue. Etiam
+   quod<lb ed="#B" n="55" break="no"/>cumque obiectum, intellectus pure &amp; sine sorde appsus 
+   <lb ed="#B" n="56"/>hendit: voluntas potest habere actum suum in illud 
+   <!--0759.xml-->
+   <cb ed="#B" n="b"/> 
+       <!-- 364-r b -->
+       <lb ed="#B" n="57"/>o. CC. Cil. AIIli. 
+   <lb ed="#B" n="58"/>bene &amp; meritorie: malum nolendo, &amp; bonum
+   volen<lb ed="#B" n="59" break="no"/>do. intellectus autem captiuatur frequenter a suo 
+   <lb ed="#B" n="60"/>obiecto. quomodo: primo Physicorum de antiquis 
+   <lb ed="#B" n="61"/>philosophis dicit <name xml:id="jMqv4a-d1e1940-Nd1e1139" ref="#Aristotle">Aristoteles,</name> quod erant veritate co 
+   <lb ed="#B" n="62"/>acti. Domina autem voluntas manet libera. Sed di 
+   <lb ed="#B" n="63"/>cis. Deus vult de necessitate se esse: &amp; libere crea 
+   <lb ed="#B" n="64"/>turas. &amp; tamen illa necessitas est perfectior quam liber 
+   <lb ed="#B" n="65"/>tas. ergo male dicimus. Dico id esse de per
+   acci<lb ed="#B" n="66" break="no"/>dens ex parte materiae &amp; obiecti. sed in creatura
+   li<lb ed="#B" n="67" break="no"/>bertas est melior conditio quam non libertas. libertas in 
+   <lb ed="#B" n="68"/>quam propinqua vel remota. voluntas tamen in patria ne 
+   <lb ed="#B" n="69"/>cessitatur ad aliquas operationes: non autem in via: 
+   <lb ed="#B" n="70"/>&amp; illic non se habet imper fectiori modo quam in via. 
+   <lb ed="#B" n="71"/>sed operatio illa est a principio libero, quod cessare 
+   <lb ed="#B" n="72"/>potest ab actu absolute si sibi relinquatur.
+  </p>
+      <p xml:id="jMqv4a-d1e1940-d1e1167">
+   ⁋ Ad
+   no<lb ed="#B" n="73" break="no"/>num. quicquid sit de prima propositione, constat quod
+   vi<lb ed="#B" n="74" break="no"/>sio dei est vita aeterna: admissa illa, nego secudam. 
+   <lb ed="#B" n="75"/>quia in lumine naturali &amp; fidei multo probabilius 
+   <lb ed="#B" n="76"/>concludimus voluntatem esse perfectiorem potentiam intel 
+   <lb ed="#B" n="77"/>lectu, quam econverso. quare si vnum concludimus,
+   ali<lb ed="#B" n="78" break="no"/>ud concedere habemus.
+  </p>
+      <p xml:id="jMqv4a-d1e1940-d1e1183">
+   ⁋ Nunc breuiter dispu 
+   <lb ed="#B" n="79"/>tauimus de nobilitate voluntatis &amp; intellectus: an  
+   <lb ed="#B" n="80"/>intellectus voluntati sit praeferendus, nec ne: quod 
+   <lb ed="#B" n="81"/>ex substantia animae concludere nequimus, quae 
+   <lb ed="#B" n="82"/>vtrique est communis &amp; identificata. sed illud ex
+   per<lb ed="#B" n="83" break="no"/>fectioribus actibus vel habitibus deprehendere opor 
+   <lb ed="#B" n="84"/>tet. Et licet materia non patiatur
+   demonstratio<lb ed="#B" n="85" break="no"/>nes insolubiles: teneo tamen partem illam
+   pro<lb ed="#B" n="86" break="no"/>pter motiua adducta, quod voluntas intellectui sit 
+   <lb ed="#B" n="87"/>praeferenda. 
+  </p>
+    </div>
+   </body>
+  </text>
+</TEI>

@@ -1,0 +1,393 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 4</title>
+      <author ref="#JohnMair">John Mair</author>
+      <respStmt>
+       <name>Jeffrey C. Witt</name>
+       <resp>TEI Encoder</resp>
+      </respStmt>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 4</title>
+       <date when="2020-06-09">June 27, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="B" n="cod-Bda113">Badius 1516</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+     guidelines for a diplomatic edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-06-27" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+      <pb ed="#B" n="294-r"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="jMqv4a-d1e1570"> <!-- l4d38q4 -->
+      <head xml:id="jMqv4a-d1e1570-Hd1e104">Quaestio 4</head>
+      <head xml:id="jMqv4a-d1e1570-Hd1e107" type="question-title">An opus factum ex voto sit melius quam opus factum sine voto</head>
+      <p xml:id="jMqv4a-d1e1570-d1e110">
+       <lb ed="#B" n="61"/>⁋ Distinctionis Trigesimaeoctauae 
+   <lb ed="#B" n="62"/>Quaestio Quarta.- 
+   <lb ed="#B" n="63"/>Varto circa hanc 
+   <lb ed="#B" n="64"/>materiam quaeritur. An  
+   <lb ed="#B" n="65"/>opus factum ex voto sit 
+   <lb ed="#B" n="66"/>melius quam opus factum 
+   <lb ed="#B" n="67"/>sine voto. Respondetur 
+   <lb ed="#B" n="68"/>n affirmatiue. probatur sic. 
+   <lb ed="#B" n="69"/>quicquid boni est in
+   ope<lb ed="#B" n="70" break="no"/>re facto sine voto / hoc 
+   <lb ed="#B" n="71"/>vest in opere voti: &amp; aliquid  
+   <lb ed="#B" n="72"/>aliud. ergo conclusio vera. Antecedens probatur: 
+   <lb ed="#B" n="73"/>quia vouens / se obligare intendit ad hoc: sine voto 
+   <lb ed="#B" n="74"/>autem hoc non oportet.
+  </p>
+      <p xml:id="jMqv4a-d1e1570-d1e143">
+   ⁋ Beatus Thomas &amp;
+   Mid<lb ed="#B" n="75" break="no"/>diltonus alias rationes ad hanc conclusionem addu  
+   <lb ed="#B" n="76"/>cunt. quarum prima est. Opus inferioris virtutis 
+   <lb ed="#B" n="77"/>imperatum a superiore virtute est magis
+   merito<lb ed="#B" n="78" break="no"/>rium quam ab inferiori imperatum. vt actus
+   tempe<lb ed="#B" n="79" break="no"/>rantiae est melior imperatus a charitate quam a sola
+   tem<lb ed="#B" n="80" break="no"/>perantia. sed actus ieiunii in illo qui vouet / a latria 
+   <lb ed="#B" n="81"/>imperatur: non autem in alio qui non vouet.
+   Secun<lb ed="#B" n="82" break="no"/>do, per votum quis immobiliter firmatur in
+   bo<lb ed="#B" n="83" break="no"/>no: non autem sine voto. Tertio, qui vouet / magis 
+   <lb ed="#B" n="84"/>se dat deo quam ille qui non vouet: ergo actus eius est 
+   <lb ed="#B" n="85"/>gratior. Per comparationem namque beati <name xml:id="jMqv4a-d1e1570-Nd1e169" ref="#Anselm">Anselmi</name> in  
+   <lb ed="#B" n="86"/>libro de similitudinibus: plus dat alicui dans
+   ar<lb ed="#B" n="87" break="no"/>borem cum fructu quam solum dans fructus.
+  </p>
+      <p xml:id="jMqv4a-d1e1570-d1e178">
+   ⁋ Sed  
+   <lb ed="#B" n="88"/>dico quod hae rationes non sunt efficaces. &amp; si
+   conclu<lb ed="#B" n="89" break="no"/>dant, pro religiosis &amp; pro saecularibus concludunt. 
+   <lb ed="#B" n="90"/>quod patebit respondendo ad singulas. Ad
+   pri<lb ed="#B" n="91" break="no"/>mam rationem concedo maiorem &amp; negatur minor. 
+   <lb ed="#B" n="92"/>non enim oportet vouentem plus actualiter
+   refer<lb ed="#B" n="93" break="no"/>re actum temperantiae / castitatis vel cuiuscunque 
+   <lb ed="#B" n="94"/>alterius virtutis in deum quam non vouentem. &amp; sic 
+   <lb ed="#B" n="95"/>actus inferioris virtutis qui elicitiue est ab
+   infe<lb ed="#B" n="96" break="no"/>riore virtute, &amp; imperatiue producitur a
+   superio<lb ed="#B" n="97" break="no"/>re virtute / aequaliter tam in vouente quam in non
+   vo<lb ed="#B" n="98" break="no"/>uente imperatur. &amp; si ad virtualem relationem ob 
+   <lb ed="#B" n="99"/>tutum figas: idem erit in non vouente prudente. 
+   <lb ed="#B" n="100"/>Ad secundam rationem dico / quod ratio si probet 
+   <lb ed="#B" n="101"/>intentum / solum concludit de actibus qui a
+   pro<lb ed="#B" n="102" break="no"/>fessione religionis emanant, &amp; non de aliis actibus 
+   <lb ed="#B" n="103"/>bonis ad religionem non pertinentibus. Dico secun 
+   <lb ed="#B" n="104"/>do quod nec de illis concludit: quia non vouens
+   po<lb ed="#B" n="105" break="no"/>test aeque firmiter in animo proponere se hoc
+   fa<lb ed="#B" n="106" break="no"/>cturum / ac vouens. quia ad bonitatem actus ex se 
+   <lb ed="#B" n="107"/>cundo Ethicorum requiritur quod sit firmiter &amp; propter 
+   <!--0620.xml-->
+   <pb ed="#B" n="294-v"/>
+       <cb ed="#B" n="a"/>
+       <lb ed="#B" n="1"/>hoc. id est, quod habeat obiectum &amp; finem, &amp; immo 
+   <lb ed="#B" n="2"/>biliter fiatu. Nec religiosus obligat se sub poena 
+   <lb ed="#B" n="3"/>peccati ad quemlibet actum religionis: vt postea di 
+   <lb ed="#B" n="4"/>cetur: &amp; si se sub hac poena obligaret: non oportet /- 
+   <lb ed="#B" n="5"/>saltem non constat quod actus eius erit propterea melior. 
+   <lb ed="#B" n="6"/>Tertio dico quod non in quolibet actu etiam religios 
+   <lb ed="#B" n="7"/>est distinctum votum. &amp; non religiosus potest illud 
+   <lb ed="#B" n="8"/>bonum vouere in particulari: &amp; sic actus eius erit 
+   <lb ed="#B" n="9"/>firmior. Si dicas: a primo proposito suae
+   profes<lb ed="#B" n="10" break="no"/>sionis imperatiuo quilibet actus est aliquo modo 
+   <lb ed="#B" n="11"/>votum. Hoc potest habere non religiosus,
+   vouen<lb ed="#B" n="12" break="no"/>do quod velit seruare omnia praecepta dei &amp; ecclesiae: 
+   <lb ed="#B" n="13"/>&amp; tamen actus eius procedit a voto sicut actus re 
+   <lb ed="#B" n="14"/>ligiosi. Nec tertia ratio concludit. Nam saecularis
+   re<lb ed="#B" n="15" break="no"/>cognoscit se creaturam dei: &amp; est eius seruus vt re 
+   <lb ed="#B" n="16"/>ligiosus. Ad exemplum beati <name xml:id="jMqv4a-d1e1570-Nd1e264" ref="#Anselm">Anselmi</name> concedo 
+   <lb ed="#B" n="17"/>quod plus dat dans arborem cum fructu quam fructum so 
+   <lb ed="#B" n="18"/>lum: quia duo bona dat. Modo si velis applica 
+   <lb ed="#B" n="19"/>re hoc ad propositum: oportet probare quod religiosus 
+   <lb ed="#B" n="20"/>det pomum &amp; fructus eius: hoc est bona opera deo, 
+   <lb ed="#B" n="21"/>&amp; etiam seipsum / arborem, quia homo est arbor
+   euer<lb ed="#B" n="22" break="no"/>sa: &amp; quod saecularis non dat haec deo. sed hoc est
+   fal<lb ed="#B" n="23" break="no"/>sum: quia facit actus suos propter deum: &amp;
+   con<lb ed="#B" n="24" break="no"/>tingit quod det se deo, etiam quolibet die semel. Dicis 
+   <lb ed="#B" n="25"/>licet dicat, do me deo: tamen non dat reuera se deo: 
+   <lb ed="#B" n="26"/>cum teneat bona fortunae / bona animae / &amp; corporis 
+   <lb ed="#B" n="27"/>quae tria religiosus a se abdicat: &amp; sic actualiter 
+   <lb ed="#B" n="28"/>dat se deo / cum nihil retineat amore dei. Contra. 
+   <lb ed="#B" n="29"/>religiosus per te dat se deo: quia vult viuere se 
+   <lb ed="#B" n="30"/>cundum regulam suam / quae illa tria abdicat. 
+   <lb ed="#B" n="31"/>sed non professus sacerdos continens / sequens 
+   <lb ed="#B" n="32"/>regulam euangelicam sumens solum necessaria 
+   <lb ed="#B" n="33"/>vitae, potest sic facere. igitur. probatur minor: qui 
+   <lb ed="#B" n="34"/>vouet continentiam virtualiter: &amp; votum fit
+   so<lb ed="#B" n="35" break="no"/>lenne per susceptionem sacrorum ordinum: ne 
+   <lb ed="#B" n="36"/>quiequam habet nisi fructus beneficiorum. modo
+   illo<lb ed="#B" n="37" break="no"/>rum deus est dominus ex. xxiiii. distinctione
+   hu<lb ed="#B" n="38" break="no"/>ius. Item si actus religiosi est magis meritorius 
+   <lb ed="#B" n="39"/>quia est specialiter deo dicatus: sequitur quod religiosi 
+   <lb ed="#B" n="40"/>strictioris religionis actus erit magis meritorius es 
+   <lb ed="#B" n="41"/>actus religiosi religionis latioris: caeteris omnibus paribu 
+   <lb ed="#B" n="42"/>hoc dempto quod vnus sit religionis sancti <name xml:id="jMqv4a-d1e1570-Nd1e324" ref="#Augustine">Augustin</name> 
+       <lb ed="#B" n="43"/>ni: &amp; alter actus / Carthusiensis vel bonorum
+   homi<lb ed="#B" n="44" break="no"/>num. quod opinione mea non omnes religiosi
+   latio<lb ed="#B" n="45" break="no"/>ris ordinis concederent. consequentia tamen est
+   eui<lb ed="#B" n="46" break="no"/>dens. nam sicut tu dicis quod actus religiosi
+   manci<lb ed="#B" n="47" break="no"/>pati deo est melior actu religiosi viri in religione 
+   <lb ed="#B" n="48"/>christiana caeteris paribus: quia est magis cultui de 
+   <lb ed="#B" n="49"/>uino mancipatus: proportionabiliter dicere debes 
+   <lb ed="#B" n="50"/>de actu viri in strictiore &amp; latiore regula.
+  </p>
+      <p xml:id="jMqv4a-d1e1570-d1e345">
+   ⁋ Quar 
+   <lb ed="#B" n="51"/>to probant isti conclusionem sic. Religiosus 
+   <lb ed="#B" n="52"/>plus peccat quaem non religiosus: ergo plus meretur 
+   <lb ed="#B" n="53"/>tenet consequentia: quia alioquin religiosus esset 
+   <lb ed="#B" n="54"/>securus de damno &amp; non de lucro. Respondetur. 
+   <lb ed="#B" n="55"/>consequentia est nulla. nam argumentum probaret quod-  
+   <!--0620.xml-->
+   <cb ed="#B" n="b"/> 
+       <!-- 294-v b -->
+       <lb ed="#B" n="56"/>libet opus praecepti praestare cuicunque operi
+   con<lb ed="#B" n="57" break="no"/>silii, quod est falsum.
+  </p>
+      <p xml:id="jMqv4a-d1e1570-d1e369">
+   ⁋ Quinto. ieiunet religiosus 
+   <lb ed="#B" n="58"/>die veneris secundum regulam: &amp; etiam saecularis. tunc 
+   <lb ed="#B" n="59"/>sic. si non esset praeceptum / vterque actus esset alteri 
+   <lb ed="#B" n="60"/>par. sed circumstantia praecepti facit actum meliorem. 
+   <lb ed="#B" n="61"/>igitur. Respondetur. adhuc probatum non est quod circum 
+   <lb ed="#B" n="62"/>stantia praecepti faciat actum esse meliorem qui esset 
+   <lb ed="#B" n="63"/>sine illa circumstantia. quia si sic: si mille actum prae 
+   <lb ed="#B" n="64"/>ciperent / actus esset melior quam si pauci ipsum praec 
+   <lb ed="#B" n="65"/>perent. Secundo dato quod hoc sit verum / non probatur 
+   <lb ed="#B" n="66"/>de actu non contento in regula.
+  </p>
+      <p xml:id="jMqv4a-d1e1570-d1e391">
+   ⁋ Sed an saecularis 
+   <lb ed="#B" n="67"/>grauius peccet quam religiosus: dicunt isti quod sic. Sed  
+   <lb ed="#B" n="68"/>caeteris omnibus paribus hoc dempto quod vnus sit religiosus 
+   <lb ed="#B" n="69"/>&amp; non alter: quicquid alii dicant, concedo quod religiosus plus 
+   <lb ed="#B" n="70"/>peccat. tum quia est deo magis deuinctus, vt ipsi dicunt. 
+   <lb ed="#B" n="71"/>tum quia cadit a gradu altiore &amp; securiore. loquor 
+   <lb ed="#B" n="72"/>de his quae plurimum contingunt, non enim oportet loqui 
+   <lb ed="#B" n="73"/>de viro heroico saeculari: &amp; medioeri religioso. 
+   <lb ed="#B" n="74"/>Sed quamuis grauius peccet quam non religiosus: si sit in  
+   <lb ed="#B" n="75"/>societate bonorum / citius resurgit: quare non ita peri 
+   <lb ed="#B" n="76"/>culose peccat vt saecularis. Si vero loquaris de pec 
+   <lb ed="#B" n="77"/>cato regulae cui contrauenitur: saecularis non peccats 
+   <lb ed="#B" n="78"/>sed religiosus peccat. &amp; certus est de peccato / si ma 
+   <lb ed="#B" n="79"/>le agat: &amp; non alter. sed illud periculum peccati
+   con<lb ed="#B" n="80" break="no"/>pensatur per bona religionis. de quibus postea dice 
+   <lb ed="#B" n="81"/>mus comparando statum saecularem ad statum re 
+   <lb ed="#B" n="82"/>ligiosorum. 
+   <lb ed="#B" n="83"/>Vbitatur: qui possint
+   voue<lb ed="#B" n="84" break="no"/>re. Respondetur. omnes qui non
+   prohi<lb ed="#B" n="85" break="no"/>vbentur. quare de prohibitis vouere
+   lo<lb ed="#B" n="86" break="no"/>c quendum est. quibus cognitis
+   adaequa<lb ed="#B" n="87" break="no"/>te: in promptu habebis qui possint vouere.
+   Ali<lb ed="#B" n="88" break="no"/>quae autem personae de iure naturae prohibentur
+   vo<lb ed="#B" n="89" break="no"/>uere: vt dementes &amp; breuiter rationis omnis
+   ex<lb ed="#B" n="90" break="no"/>pertes. Aliquae de iure positiuo. cum quo ius natura 
+   <lb ed="#B" n="91"/>le multum / vel parum conuenit.
+  </p>
+      <p xml:id="jMqv4a-d1e1570-d1e448">
+   ⁋ Primo.
+   Episco<lb ed="#B" n="92" break="no"/>pi &amp; alii superiores praelati non possunt facere
+   vo<lb ed="#B" n="93" break="no"/>tum / quo vinculum inter se &amp; suas ecclesias dissol 
+   <lb ed="#B" n="94"/>uatur, sine consensu papae. de renun. ca. Nisi cum 
+   <lb ed="#B" n="95"/>pridem, non enim potest praelatus emittere votum 
+   <lb ed="#B" n="96"/>quo graue praeiudicium fieret ecclesiae suae. viii. q. i. 
+   <lb ed="#B" n="97"/>Clemens.
+  </p>
+      <p xml:id="jMqv4a-d1e1570-d1e464">
+   ⁋ Secundo clerici beneficiati in
+   bene<lb ed="#B" n="98" break="no"/>ficiis residentiam requirentibus / non possunt
+   face<lb ed="#B" n="99" break="no"/>re votum longae peregrinationis sine facultate 
+   <lb ed="#B" n="100"/>episcopi. de voto. cap. Magnae. Possunt tamen
+   in<lb ed="#B" n="101" break="no"/>feriores episcopis profiteri religionem inuitis epi 
+   <lb ed="#B" n="102"/>scopis. xix. quaest. ii. Duae. &amp; beneficium eorum non 
+   <lb ed="#B" n="103"/>debet alteri conferri quousque fuerint professi, vel 
+   <lb ed="#B" n="104"/>absolute appareat quod vitam mutare voluerint. ca 
+   <lb ed="#B" n="105"/>Beneficium. de regula. libro sexto.
+  </p>
+      <p xml:id="jMqv4a-d1e1570-d1e485">
+   ⁋ Tertio reli 
+   <lb ed="#B" n="106"/>giosi non possunt vouere sine consensu formali vel 
+   <lb ed="#B" n="107"/>virtuali superioris. quod patet per illud Basilii 
+   <lb ed="#B" n="108"/>quod recitatur. xx. q. iiii. ca. Monacho. vbi sic scri 
+   <lb ed="#B" n="109"/>bitur. Monacho non licet vota vouere sine consen 
+   <!--0621.xml-->
+   <pb ed="#B" n="295-r"/>
+       <cb ed="#B" n="a"/>
+       <lb ed="#B" n="1"/>su abbatis sui. si autem vouerit frangendum erit. 
+   <lb ed="#B" n="2"/>Ratio est: quia voluntatem a se abdicauit. Sed
+   dici<lb ed="#B" n="3" break="no"/>non tenetur parere abbati nisi in regula: ergo in aliis 
+   <lb ed="#B" n="4"/>impertinentibus est sicut erat ante professionem
+   li<lb ed="#B" n="5" break="no"/>ber. sed ante professionem vouere poterat aliqua ad 
+   <lb ed="#B" n="6"/>regulam non pertinentia, &amp; fuisset obligatus illa
+   ser<lb ed="#B" n="7" break="no"/>uare: ergo adhuc potest illa vouere / &amp; potissimum
+   re<lb ed="#B" n="8" break="no"/>gulae nullo modo aduersa: vt sic. voueo me
+   oratu<lb ed="#B" n="9" break="no"/>rum &amp; facturum hoc quolibet die si non vocer a su 
+   <lb ed="#B" n="10"/>periore. &amp; contingit quod a superiore non vocetur: ergi 
+   <lb ed="#B" n="11"/>potestifacere quod vouit, &amp; manebit obligatio.
+   Sci<lb ed="#B" n="12" break="no"/>mus hominem posse illa ratione euasionem
+   proba<lb ed="#B" n="13" break="no"/>bilem inuenire: sed satius est dicere quod licet non te 
+   <lb ed="#B" n="14"/>neatur abbati in iis quae ad regulam non pertinent pa 
+   <lb ed="#B" n="15"/>rere: tamen non potest vouere sine consensu abbatis 
+   <lb ed="#B" n="16"/>nam praesumitur abbas pastor prudentior sua oue 
+   <lb ed="#B" n="17"/>quae multis oneribus importabilibus se sub specii 
+   <lb ed="#B" n="18"/>deuotionis premens votum voto accumularet 
+   <lb ed="#B" n="19"/>Propterea rationabilius est dicere quod ad hoc est ar 
+   <lb ed="#B" n="20"/>ctatus. &amp; probabiliter hoc constat: vt aliquo
+   mo<lb ed="#B" n="21" break="no"/>do iam patuit, &amp; amplius ostenditur per vxorem 
+  </p>
+      <p xml:id="jMqv4a-d1e1570-d1e548">
+       <lb ed="#B" n="22"/>⁋ Quartae personae vetitae vouere sunt vxores. nam 
+   <lb ed="#B" n="23"/>vxor non potest sine consensu viri vouere votum 
+   <lb ed="#B" n="24"/>abstinentiae. vt dicit <name xml:id="jMqv4a-d1e1570-Nd1e556" ref="#Augustine">Augustinus</name> in quaestionibus 
+   <lb ed="#B" n="25"/>Numeri. &amp; citatur. xxxiii. qui. v. cap. Noluit. &amp; in cap. 
+   <lb ed="#B" n="26"/>Manifestum. Et eodem modo de quocunque alio 
+   <lb ed="#B" n="27"/>voto: etiam ad carnalem copulam non pertinente. 
+   <lb ed="#B" n="28"/>quo ad copulam autem maritus &amp; vxor sunt pares 
+   <lb ed="#B" n="29"/>cap. Gaudemus. de diuor. &amp; etiam quo ad ea quae. co 
+   <lb ed="#B" n="30"/>pulam concernunt. vt vir non potest vouere quod dor 
+   <lb ed="#B" n="31"/>miet indutus vestibus: nec potest vouere abstinem 
+   <lb ed="#B" n="32"/>tiam per quam non possit mulieri reddere debitum. E 
+   <lb ed="#B" n="33"/>licet vir mulieri consenserit: potest tamen votum mu 
+   <lb ed="#B" n="34"/>lieris reuocare, licet interdum male agat: nonnum quam be 
+   <lb ed="#B" n="35"/>ne / quando scilicet est rationabilis causa voti
+   sol<lb ed="#B" n="36" break="no"/>uendi. ratio est, quia est caput mulieris. Sic abba 
+   <lb ed="#B" n="37"/>est caput religiosi: &amp; magis est religiosus subiect 
+   <lb ed="#B" n="38"/>abbati, quam mulier viro. xii. qui. i. Non dicatis. Et
+   pro<lb ed="#B" n="39" break="no"/>pterea recte dicit glossa in dicto capi. Noluit, quod 
+   <lb ed="#B" n="40"/>abbas potest reuocare votum quod religiosus
+   emi<lb ed="#B" n="41" break="no"/>sit ante monachatum.
+  </p>
+      <p xml:id="jMqv4a-d1e1570-d1e597">
+   ⁋ Quinto, filiusfamilias non 
+   <lb ed="#B" n="42"/>potest vouere aliquid quod sit contra regimen
+   do<lb ed="#B" n="43" break="no"/>mus &amp; familiae nisi ex consensu patris: praeter
+   vo<lb ed="#B" n="44" break="no"/>tum religionis.
+  </p>
+      <p xml:id="jMqv4a-d1e1570-d1e606">
+   ⁋ Sexto, impubis non potest faci 
+   <lb ed="#B" n="45"/>re votum religionis etiam cum facultate patris quam 
+   <lb ed="#B" n="46"/>tuncunque prudens fuerit. de regula. cap. i. lib. vi. vbi 
+   <lb ed="#B" n="47"/>ille qui ante. xiiii. annum fuerat professus licite pote 
+   <lb ed="#B" n="48"/>rat redire ad saeculum. potest enim pontifex talem
+   con<lb ed="#B" n="49" break="no"/>tractum irritare. &amp; quamuis iste sit prudens: ne tamen 
+   <lb ed="#B" n="50"/>alii iuuenes passim circunveniantur a religiosis: permit 
+   <lb ed="#B" n="51"/>ti non debet.
+  </p>
+      <p xml:id="jMqv4a-d1e1570-d1e624">
+   ⁋ Septimo serui non possunt vouere 
+   <lb ed="#B" n="52"/>aliquid quod est in praeiudicium dominorum suorum 
+  </p>
+      <p xml:id="jMqv4a-d1e1570-d1e629">
+       <lb ed="#B" n="53"/>⁋ Octauo &amp; vltimo nec abbates possunt aliquid 
+   <lb ed="#B" n="54"/>vouere: per quod preiudicium in suo officio
+   ge<lb ed="#B" n="55" break="no"/>neretur: sine permissione suorum superiorum 
+   <!--0621.xml-->
+   <cb ed="#B" n="b"/> 
+       <!-- 295-r b -->
+       <lb ed="#B" n="56"/>xviii. qu. ii. Abbates. Non sic intelligas quod cum faculta 
+   <lb ed="#B" n="57"/>te superiorum possint etiam tale votum
+   comple<lb ed="#B" n="58" break="no"/>re: sed sic, in casu ambiguo de praeiudicio coenobii 
+   <lb ed="#B" n="59"/>imploranda est superioris permissio. 
+   <lb ed="#B" n="60"/>Vbitatur: an iuramentum plus 
+   <lb ed="#B" n="61"/>obliget iurantem ad praestandum id quod 
+   <lb ed="#B" n="62"/>iurat quam votum. Respondet beatus Tho 
+   <lb ed="#B" n="63"/>lmas Secunda secundae / quaest. lxxxix. art. 
+   <lb ed="#B" n="64"/>viii. quod plus obligat votum. Cuius rationes sunt 
+   <lb ed="#B" n="65"/>nam iuramentum interdum fit homini: votum
+   au<lb ed="#B" n="66" break="no"/>tem soli deo: igitur obligatio voti est maior. Alia 
+   <lb ed="#B" n="67"/>ratio. obligatio voti nascitur ex fidelitate quam dec 
+   <lb ed="#B" n="68"/>debemus: vt scilicet ei promissum soluamus: obl 
+   <lb ed="#B" n="69"/>gatio autem iuramenti ex reuerentia quam ei
+   debe<lb ed="#B" n="70" break="no"/>mus, ex qua tenemur verificare illud quod per
+   no<lb ed="#B" n="71" break="no"/>men eius promittimus. omnis autem infidelitas
+   ir<lb ed="#B" n="72" break="no"/>reuerentiam continet. sed non conuertitur. videtur 
+   <lb ed="#B" n="73"/>enim infidelitas subiecti ad dominum / esse maxima 
+   <lb ed="#B" n="74"/>irreuerentia. Rationes istae non concludunt, non prior. 
+   <lb ed="#B" n="75"/>nam loquimur de iuramento quo aliquid iuratur 
+   <lb ed="#B" n="76"/>deo: vtpote iurando quod profitebor religionem
+   quen<lb ed="#B" n="77" break="no"/>admodum si illud vouerem. ponamus semper
+   cae<lb ed="#B" n="78" break="no"/>tera paria / hoc dempto quod vnus iurat se facturum 
+   <lb ed="#B" n="79"/>a. &amp; alter id idem, vouet. Nec secunda ratio
+   con<lb ed="#B" n="80" break="no"/>cludit, quia sicut votum nascitur ex fidelitate 
+   <lb ed="#B" n="81"/>quam deo debemus: vt ei promissum soluamus: sic 
+   <lb ed="#B" n="82"/>etiam iuramentum ex eadem fidelitate oritur. Ex 
+   <lb ed="#B" n="83"/>fidelitate autem quam debeo deo de voto / teneor 
+   <lb ed="#B" n="84"/>seruare iusiurandum meum licitum, nec obstat quod in  
+   <lb ed="#B" n="85"/>transgressione iuramenti irreuerentia fiat deo. sic 
+   <lb ed="#B" n="86"/>enim fit in transgressione voti. Praeterea, possibile 
+   <lb ed="#B" n="87"/>est transgressorem voti habere fidem rectam in intel 
+   <lb ed="#B" n="88"/>lectu / sicut non implentem iuramentum. ergo non est
+   ma<lb ed="#B" n="89" break="no"/>ior infidelitas in transgressione vnius quam alterius. An  
+   <lb ed="#B" n="90"/>autem infidelitas quaelibet irreuerentiam dei exuperet: 
+   <lb ed="#B" n="91"/>nunc non inquiro.
+  </p>
+      <p xml:id="jMqv4a-d1e1570-d1e723">
+   ⁋ His rationibus euacuatis
+   ar<lb ed="#B" n="92" break="no"/>guitur contra conclusionem. B. Thomae. Omnis ratio 
+   <lb ed="#B" n="93"/>obligationis in voto / manet in iuramento: &amp;
+   ad<lb ed="#B" n="94" break="no"/>ditur aliquid aliud. ergo iuramentum non minusi 
+   <lb ed="#B" n="95"/>immo magis obligat quam votum. Antecedens patet 
+   <lb ed="#B" n="96"/>de intentione obligandi: &amp; cum hoc assumitur
+   no<lb ed="#B" n="97" break="no"/>men dei in testimonium. ergo quaecumque ratio
+   obliga<lb ed="#B" n="98" break="no"/>tionis est in voto: illa. &amp; aliqua alia est in iuramen 
+   <lb ed="#B" n="99"/>to, non minus igitur obligat: immo plus. Praeterea, 
+   <lb ed="#B" n="100"/>iuramentum metu extortu tenet: votum aute metu 
+   <lb ed="#B" n="101"/>extortum non tenet. ergo plus ligat iuramentum 
+   <lb ed="#B" n="102"/>quam votum probatur consequentia: quia si votum esset 
+   <lb ed="#B" n="103"/>maius vinculum quam iuramentum spotaneum: votum
+   ma<lb ed="#B" n="104" break="no"/>gis obligaret quam spontaneum iuramentum: &amp; coactum 
+   <lb ed="#B" n="105"/>votum magis obligaret quam coactum iuramentum.
+  </p>
+      <p xml:id="jMqv4a-d1e1570-d1e756">
+   ⁋ Pro 
+   <lb ed="#B" n="106"/>pterea teneo quod iuramentum plus obligat quam votum cae 
+   <lb ed="#B" n="107"/>teris omnibus paribus, non tamen habet consuetudo sic 
+   <lb ed="#B" n="108"/>iurare ob euitandum periurium. Sed prudens in casu 
+   <lb ed="#B" n="109"/>licite iurare potest. sicut deus per semetipsum iurauit. 
+   <!--0622.xml-->
+   <pb ed="#B" n="295-v"/>
+       <cb ed="#B" n="a"/>
+       <lb ed="#B" n="1"/>Genesis. xxii. &amp; secundum Apostolum ad Hebraeos 
+   <lb ed="#B" n="2"/>vi. omnis controuersiae finis ad cosummationem est
+   iu<lb ed="#B" n="3" break="no"/>ramentum. ergo cum ei plus stetur quam voto tanquam fini 
+   <lb ed="#B" n="4"/>controuersiae: plus obligat. &amp; eius praeuaricatio est cau 
+   <lb ed="#B" n="5"/>tra praeceptum primae tabulae: non autem praeuaricatio
+   vo<lb ed="#B" n="6" break="no"/>ti. Ex isto sequitur quod si prudens iuret deliberate se 
+   <lb ed="#B" n="7"/>religionem professurum, quod est sibi licitum: non
+   mi<lb ed="#B" n="8" break="no"/>nus / immo magis coram deo est obnoxius suum iu 
+   <lb ed="#B" n="9"/>ramentum implere, quam hoc ipsum vouens. 
+  </p>
+    </div>
+   </body>
+  </text>
+</TEI>

@@ -1,0 +1,391 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 1</title>
+      <author ref="#JohnMair">John Mair</author>
+      <respStmt>
+       <name>Jeffrey C. Witt</name>
+       <resp>TEI Encoder</resp>
+      </respStmt>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 1</title>
+       <date when="2020-06-09">June 27, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="B" n="cod-Bda113">Badius 1516</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+     guidelines for a diplomatic edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-06-27" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+      <pb ed="#B" n="358-v"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="jMqv4a-d1e1919"> <!-- l4d49q1 -->
+      <head xml:id="jMqv4a-d1e1919-Hd1e104">Quaestio 1</head>
+      <head xml:id="jMqv4a-d1e1919-Hd1e107" type="question-title">An felicitas sive summum bonum in bonis corporis 
+  vel fortunae inveniatur</head>
+      <p xml:id="jMqv4a-d1e1919-d1e110">
+   <!--0748.xml-->
+       <pb ed="#B" n="358-v"/>
+       <cb ed="#B" n="a"/>
+       <lb ed="#B" n="1"/>⁋ Distinctio. Quadragesimae nonae 
+   <lb ed="#B" n="2"/>Quaestio Prima. 
+   <lb ed="#B" n="3"/>SEquitur
+   distin<lb ed="#B" n="4" break="no"/>ctio quaedragesima 
+   <lb ed="#B" n="5"/>nona, in qua magi 
+   <lb ed="#B" n="6"/>ter de beatitudine 
+   <lb ed="#B" n="7"/>&amp; <name xml:id="jMqv4a-d1e1919-Nd1e133" ref="#Aureoli">aureolis</name> loquitur. 
+   <lb ed="#B" n="8"/>Nos in ea
+   aliquan<lb ed="#B" n="9" break="no"/>tulum
+   immorabi<lb ed="#B" n="10" break="no"/>mut: de tribus
+   po<lb ed="#B" n="11" break="no"/>tissimum dicturi. Pri 
+   <lb ed="#B" n="12"/>mo de beatitudine 
+   <lb ed="#B" n="13"/>pecundo de
+   doti<lb ed="#B" n="14" break="no"/>bus. Tertio de
+   au<lb ed="#B" n="15" break="no"/>reolis. Circa primum 
+   <lb ed="#B" n="16"/>xvi. quaestiones terminabo. Primo quaeram. An  
+   <lb ed="#B" n="17"/>summu bonum sit in bonis corporis vel fortunae 
+   <lb ed="#B" n="18"/>Secundo in quo consistat vera beatitudo. Tertio 
+   <lb ed="#B" n="19"/>inquiram de essentia beatitudinis: an sit in vno actu 
+   <lb ed="#B" n="20"/>an in pluribus. Quarto. an homo naturaliter obie 
+   <lb ed="#B" n="21"/>ctum beatificum possit videre. Quinto an
+   beatitu<lb ed="#B" n="22" break="no"/>do principalius in actu intellectus / an voluntatis 
+   <lb ed="#B" n="23"/>consistat. Sexto. an omnes summe beatitudinem appi 
+   <lb ed="#B" n="24"/>tant. Septimo. an appetitus deliberatiuus de
+   ne<lb ed="#B" n="25" break="no"/>cessitate appetat beatitudinem. Octauo. an intelle 
+   <lb ed="#B" n="26"/>ctus creatus clare videns obiectum beatificum pos 
+   <lb ed="#B" n="27"/>sit non delectari. Nono. an voluntas respectu suae 
+   <lb ed="#B" n="28"/>beatitudinis efficientiam habeat. Decimo. an beati 
+   <lb ed="#B" n="29"/>tudo a beato partialiter producatur. Vndecimo. ar 
+   <lb ed="#B" n="30"/>omnes beati sint aequaliter beati. Duodecimo. an bea 
+   <lb ed="#B" n="31"/>titudo sit perpetua. Decimotertio. an buntudo sancto 
+   <lb ed="#B" n="32"/>rum post resurrectionem erit maior. Decimoquarto  
+   <lb ed="#B" n="33"/>an sensus exteriores beatorum erunt in suis actibus 
+   <lb ed="#B" n="34"/>in patria. Decimoquinto. an videns deum ipsum 
+   <lb ed="#B" n="35"/>comprehendat. Decimosexto. quid sit videre in vel 
+   <lb ed="#B" n="36"/>bo. Decimaseptima quaestio erit de dote impassibi 
+   <lb ed="#B" n="37"/>litatis. Decimaoctaua, de dote agilitatis.
+   Decima<lb ed="#B" n="38" break="no"/>nona de dote claritatis. Vigesima, de dote
+   subtili<lb ed="#B" n="39" break="no"/>tatis. Vigesimaprima, an duo corpora dura possint 
+   <lb ed="#B" n="40"/>immediate se tangere. Vigesimasecunda, de aureola 
+   <lb ed="#B" n="41"/>virginum. Vigesimatertia, de aureola doctorum. Vige 
+   <lb ed="#B" n="42"/>simaquarta de aureola martyrum, &amp; quid ad marty 
+   <lb ed="#B" n="43"/>rium requiratur &amp; sufficiat. Vigesimaquinta, quando quii 
+   <lb ed="#B" n="44"/>debeat pati martyrium, &amp; pro quibus causis. Vigesima 
+   <lb ed="#B" n="45"/>sexta. an actus cui debetur martyrum aureola sit
+   prae<lb ed="#B" n="46" break="no"/>ferendus actui cui haec aureola non debetur. Vigesimo 
+   <lb ed="#B" n="47"/>septimo &amp; vltimo inquiremus sub qua virtute actus 
+   <lb ed="#B" n="48"/>martyrii contineatur. Vt istis absolutis finem imponamus. 
+   <lb ed="#B" n="49"/>quo ordine sunt propositae quaestiones attingemus.
+  </p>
+      <p xml:id="jMqv4a-d1e1919-d1e228">
+   ⁋ Pr 
+   <lb ed="#B" n="50"/>mo igitur quaero, an felicitas siue summum bonum in
+   bo<lb ed="#B" n="51" break="no"/>nis corporis vel fortunae inueniatur. Pro quaestione ter 
+   <lb ed="#B" n="52"/>minanda hoc fundamentum iacio. omnes conveniunt in hoc 
+   <lb ed="#B" n="53"/>quod illud quod est maxime expetibile: est btintudo siue 
+   <!--0748.xml-->
+   <cb ed="#B" n="b"/> 
+       <!-- 358-v b -->
+       <lb ed="#B" n="54"/>felicitas. sed vt Aristo. i. Ethicorum. dicit, varii de hoc in  
+   <lb ed="#B" n="55"/>ter se dissenserunt. Aliter enim vulgus / aliter sapientes 
+   <lb ed="#B" n="56"/>iudicant. &amp; item sapientes inter se non omnes conveniunt.
+   qua<lb ed="#B" n="57" break="no"/>re de hoc aliqua in lumine naturali ponam: postea 
+   <lb ed="#B" n="58"/>ad lumen supernaturale theologico more
+   transi<lb ed="#B" n="59" break="no"/>turus. Licet autem omnes in termino conueniant 
+   <lb ed="#B" n="60"/>quod scilicet beatitudo sit quid maxime expetibile, 
+   <lb ed="#B" n="61"/>&amp; optimum: quae tamen res / ipsa foret, dissenserunt. 
+   <lb ed="#B" n="62"/>de apparentioribus aliqua tangam / de minus
+   ap<lb ed="#B" n="63" break="no"/>parentibus taciturus. 
+  </p>
+      <p xml:id="jMqv4a-d1e1919-d1e268">
+       <lb ed="#B" n="64"/>⁋ Et procedam mem bratim per
+   con<lb ed="#B" n="65" break="no"/>clusiones. quarum Prima est. Licet in corporis
+   vo<lb ed="#B" n="66" break="no"/>luptate magnum sit desiderium: tamen in ea in
+   lu<lb ed="#B" n="67" break="no"/>mine naturali nulla est ponenda felicitas. Prior 
+   <lb ed="#B" n="68"/>pars huius conclusionis patet. Nam in felicitate pu 
+   <lb ed="#B" n="69"/>tata a multis / ingens est desiderium. sed aliqui in  
+   <lb ed="#B" n="70"/>voluptate corporis felicitatem posuerunt: vt
+   Eu<lb ed="#B" n="71" break="no"/>doxus vir optimus: qui vt recitat Arist. x.
+   Ethi<lb ed="#B" n="72" break="no"/>corum, vidit omnes summe voluptatem amplectem 
+   <lb ed="#B" n="73"/>tes / licet ipse esset temperatus: quapropter in volu 
+   <lb ed="#B" n="74"/>ptate felicitatem posuit. ac si sic argumentaretur 
+   <lb ed="#B" n="75"/>Eudoxus. Omne illud quod maior pars hominum 
+   <lb ed="#B" n="76"/>expetit &amp; prosequitur / est beatitudo vel summum 
+   <lb ed="#B" n="77"/>bonum: corporis voluptas est huiusmodi. igitur. 
+  </p>
+      <p xml:id="jMqv4a-d1e1919-d1e301">
+       <lb ed="#B" n="78"/>⁋ Secunda pars conclusionis probatur sic. nihil turpe &amp; 
+   <lb ed="#B" n="79"/>probrosum est felicitas. sed corporis voluptas cre 
+   <lb ed="#B" n="80"/>berrime est huiusmodi. igitur, consequentia tenet 
+   <lb ed="#B" n="81"/>tum maiore. &amp; minor probatur testimonio diui 
+   <lb ed="#B" n="82"/>Hieronymi aduersus louinianum dicentis.
+   Saturi<lb ed="#B" n="83" break="no"/>tate nimia concitantur multi: &amp; quod turpiter
+   inges<lb ed="#B" n="84" break="no"/>serunt / turpius egerunt. Et idem ait. Pinguis ven 
+   <lb ed="#B" n="85"/>ter non gignit tenuem sensum. Hinc infamis est 
+   <lb ed="#B" n="86"/>&amp; inglorius Sardanapalus tanquam probrosus in  
+   <lb ed="#B" n="87"/>ore omnium / non solum philosophorum sed &amp; vulgi 
+   <lb ed="#B" n="88"/>&amp; eius epitaphium, Ede bibe lude, ab omnibus
+   ex<lb ed="#B" n="89" break="no"/>probratur. quamobrem imperium Assyriorum tot
+   su<lb ed="#B" n="90" break="no"/>doribus partum a maioribus in illo monstro
+   extin<lb ed="#B" n="91" break="no"/>ctum est. principes namque indignum censebant talis 
+   <lb ed="#B" n="92"/>beluae perferre iugum. Secundo arguitur ad idem. nihil 
+   <lb ed="#B" n="93"/>quod est communis causa morborum / est summum bonum 
+   <lb ed="#B" n="94"/>sed corporis voluptas est huiusmodi. igitur. consequentia te 
+   <lb ed="#B" n="95"/>net cum maiore. minor probatur per illud commune Hipi 
+   <lb ed="#B" n="96"/>pocratis quo dicit, crassa &amp; obesa corpora in para 
+   <lb ed="#B" n="97"/>lysim &amp; pessima morborum genera erumpere / nisi cita mii 
+   <lb ed="#B" n="98"/>sione sanguinis minuantur. cui astipulatur Horatius. 
+   <lb ed="#B" n="99"/>Sperne voluptates nocet empta dolore voluptas 
+   <lb ed="#B" n="100"/>Fortasse dicis. corporis voluptas moderata est sum 
+   <lb ed="#B" n="101"/>mum bonum: &amp; moderata non est causa morbi. Contra 
+   <lb ed="#B" n="102"/>hoc arguo. magis bonum non est propter minus bonum: 
+   <lb ed="#B" n="103"/>vt arguitu Aristo. x. Ethicorum. sed comedimus vt philo 
+   <lb ed="#B" n="104"/>sophemur &amp; viuamus honeste: &amp; non contra. Praeterea 
+   <lb ed="#B" n="105"/>anima corpori praestat secundum omnes: ergo animi volupta 
+   <lb ed="#B" n="106"/>est corporis voluptati praeferenda. 
+  </p>
+      <p xml:id="jMqv4a-d1e1919-d1e366">
+       <lb ed="#B" n="107"/>⁋ Secunda conclusio. etsi diuitiae sinae 
+   <!--0749.xml-->
+   <pb ed="#B" n="359-r"/>
+       <cb ed="#B" n="a"/>
+       <lb ed="#B" n="1"/>lege a multis quaerantur: in eis non est humana
+   fe<lb ed="#B" n="2" break="no"/>licitas. prior pars patet quotidiana experientia. nam 
+   <lb ed="#B" n="3"/>ecuniae obediunt omnia. ac teste Horatio, &amp; genus &amp; 
+   <lb ed="#B" n="4"/>formam regina pecunia donat. Secunda pars probatur 
+   <lb ed="#B" n="5"/>ratione <name xml:id="jMqv4a-d1e1919-Nd1e387" ref="#Aristotle">Aristotelis.</name> nam diuitiae sunt bonum vtile &amp; 
+   <lb ed="#B" n="6"/>propter aliud: ergo non sunt summum bonum. tenet 
+   <lb ed="#B" n="7"/>cosequentia: quia finis vltimus non reducitur in alium finem 
+   <lb ed="#B" n="8"/>vlteriorem: saltem creatum. Secundo, diuitiae sunt bona 
+   <lb ed="#B" n="9"/>extema: nec in potestate nostra. ergo non sunt
+   feli<lb ed="#B" n="10" break="no"/>citas. Tertio. diuitiae habent secum anxietatem tam in  
+   <lb ed="#B" n="11"/>acquisitione quam in conseruatione: sed hoc repugnat 
+   <lb ed="#B" n="12"/>felicitati. igitur. Quarto arguitur. diuitiae sunt plerisque 
+   <lb ed="#B" n="13"/>exitiale malum tam quo ad corpus qui quo ad
+   ani<lb ed="#B" n="14" break="no"/>mam. Quibus &amp; quot bone deus / pecunia sit causa 
+   <lb ed="#B" n="15"/>nortis tam domi quam in itinere / nemo est qui
+   igno<lb ed="#B" n="16" break="no"/>ret. anxius in itinere homo incedit: &amp; in hospitio 
+   <lb ed="#B" n="17"/>dormiendo fures somniat: sacculum sub caput 
+   <lb ed="#B" n="18"/>noctu reponit: timet homicidium, vbi cantabit
+   va<lb ed="#B" n="19" break="no"/>cuus coram latrone viator. Lydius ille Croesus
+   mor<lb ed="#B" n="20" break="no"/>talium opulentissimus per resposum Solonis hoc
+   sa<lb ed="#B" n="21" break="no"/>tis manifestat: qui visis omnibus Croesi opibus interro 
+   <lb ed="#B" n="22"/>gatus ab eo: quis esset hominium felicissimus: respondit
+   ci<lb ed="#B" n="23" break="no"/>tra assentationem omnem, vt philosophum clarissimum 
+   <lb ed="#B" n="24"/>decuit: Tellus atheniensis. &amp; cum secundo
+   interroga<lb ed="#B" n="25" break="no"/>retur, quis post Tellum esset beatissimus: Cleobe &amp; 
+   <lb ed="#B" n="26"/>Bithonem nominauit. ratus est Croesus / saltem si non
+   pri<lb ed="#B" n="27" break="no"/>mas beatitudinis haberet a sapiente partes: secundas 
+   <lb ed="#B" n="28"/>sine controuersia ferret. Hoc ipsum Midas phrygius 
+   <lb ed="#B" n="29"/>Gordii filius apud Quidium in transformatis lib. xi. 
+   <lb ed="#B" n="30"/>satis demonstrant. Quinto arguitur. mediocria habe 
+   <lb ed="#B" n="31"/>re puta pauca pro mediocri coditione: hoc est pauper 
+   <lb ed="#B" n="32"/>tas quodammodo / ipsis diuitiis debet praeferri: ergo in 
+   <lb ed="#B" n="33"/>diuiriis non est felicitas. consequentia est nota ex ratione 
+   <lb ed="#B" n="34"/>termini. nam idem est summum bonum &amp; felicitas. Quia 
+   <lb ed="#B" n="35"/>autem paupartas sit diuitiis immensis praeferenda, probatur ex 
+   <lb ed="#B" n="36"/>Aristotere. x. Ethicorum. viii. c. &amp; ad hoc Anaxagoram in 
+   <lb ed="#B" n="37"/>troducit. Insuper Synopeus Diogenes in Cremmyo ex 
+   <lb ed="#B" n="38"/>tra Corinthum habitans / pauca bona fortunae habens, 
+   <lb ed="#B" n="39"/>Alexandro &amp; potentissimo &amp; cordato regi se inui 
+   <lb ed="#B" n="40"/>senti non assurrexit: recte iudicans se rege maiorem qui 
+   <lb ed="#B" n="41"/>bona mundi conculcabat: quae Alexander auide in  
+   <lb ed="#B" n="42"/>sequebatur. Accedit ad hoc verbum Alexandri: qui 
+   <lb ed="#B" n="43"/>abiens principibus Diogenem irridentibus respondit. 
+   <lb ed="#B" n="44"/>si Alexander non essem optarem esse Diogenes. De 
+   <lb ed="#B" n="45"/>Anaxagora &amp; Democrito idem ostendi potest. Caesar 
+   <lb ed="#B" n="46"/>item accedens casam vilem Amyclae dormientis sa 
+   <lb ed="#B" n="47"/>ris intellexit felicitatem pauptatis: &amp; sollicitudinem 
+   <lb ed="#B" n="48"/>gloriae. Hinc Lucanus recte dicebat pauptatem esse 
+   <lb ed="#B" n="49"/>munus deorum non satis a mortalibus intellectum. vt 
+   <lb ed="#B" n="50"/>alibi citauimus. Et delphicum oraculum dixit Aglaum 
+   <lb ed="#B" n="51"/>esse felicissimum, qui in Arcadie angulo paucos agel 
+   <lb ed="#B" n="52"/>los pro sustentatione habebat. De innumeris aliis fa 
+   <lb ed="#B" n="53"/>cile est exempla in medium proferre. 
+  </p>
+      <p xml:id="jMqv4a-d1e1919-d1e495">
+       <lb ed="#B" n="54"/>⁋ Tertia conclusio. Licet humana fe 
+   <!--0749.xml-->
+   <cb ed="#B" n="b"/> 
+       <!-- 359-r b -->
+       <lb ed="#B" n="55"/>licitas a multis imprudentibus in gersia putetur esse 
+   <lb ed="#B" n="56"/>collocata: nequaquam in ea sedem habet. prior pars
+   pa<lb ed="#B" n="57" break="no"/>tet: quia videmus multos quos magnanimos
+   vul<lb ed="#B" n="58" break="no"/>gus appellat, diuitiis spretis gloriam assectantes: &amp; pro 
+   <lb ed="#B" n="59"/>ta mori non dubitantes: iuxta illud Ciceronis. Omnes tra 
+   <lb ed="#B" n="60"/>himur laudis studio &amp; incendimur gesia. Hinc Milcia 
+   <lb ed="#B" n="61"/>dis triumphus Themistocli somnu eripuit. Infiniti 
+   <lb ed="#B" n="62"/>quoque famae &amp; glesiae cupiditate varia facinora perpe 
+   <lb ed="#B" n="63"/>trarunt. Alexander ille Macedo glersia accensus / imperio 
+   <lb ed="#B" n="64"/>non ob opes, sed gloriam potitus est. Idem in Sigaeo apud 
+   <lb ed="#B" n="65"/>Achillis tumulum positus exelamauit. O fortunate 
+   <lb ed="#B" n="66"/>iuuenis qui tuae virtutis praeconem Homerum inueneris. 
+   <lb ed="#B" n="67"/>vt est apud Sillium. Felix Aeacida cui tali contigit 
+   <lb ed="#B" n="68"/>ore Gentibus ostendi: creuit tua carmine virtus. Simile 
+   <lb ed="#B" n="69"/>apud Plutarchum &amp; Suetonium legimus de lulio
+   Cae<lb ed="#B" n="70" break="no"/>sare. qui (vt inquit Tranquillus) cum Gades
+   venis<lb ed="#B" n="71" break="no"/>set: animaduersa apud Herculis templum magni 
+   <lb ed="#B" n="72"/>Alexandri imagine: ingemuit: &amp; quasi pertesus 
+   <lb ed="#B" n="73"/>gnauiam suam / quod nihil tum a se memorabile actum 
+   <lb ed="#B" n="74"/>esset in ea aetate qua iam Alexander orbem terrarum 
+   <lb ed="#B" n="75"/>subegisset. Hannibal item apud Sillium in bello 
+   <lb ed="#B" n="76"/>Cannensi sic inquit. Mihi magna satis sat vera
+   su<lb ed="#B" n="77" break="no"/>perque Bellandi merces sit gloria: caetera vobis Vin 
+   <lb ed="#B" n="78"/>cantur. Philosophi quoque illi qui ad fugiendam glo 
+   <lb ed="#B" n="79"/>riam dixerunt scriptores non debere sua nominia in
+   libro<lb ed="#B" n="80" break="no"/>rum exordiis praenotare: ipsi sua nomina praeposuerunt. 
+   <lb ed="#B" n="81"/>Simile de Phidia illo statuario peritissimo habes: 
+   <lb ed="#B" n="82"/>qui cum simulacrum Mineruae fecisset incomparabile: 
+   <lb ed="#B" n="83"/>nec ei liceret inscribere vt moris est nome suum,
+   in<lb ed="#B" n="84" break="no"/>clusit in clypeo suam ipsius effigiem: qua convulsa tota 
+   <lb ed="#B" n="85"/>operis colligatio &amp; structura soluebatur. Quid vos 
+   <lb ed="#B" n="86"/>moror de gloria? nunquid vulgatissima est
+   histo<lb ed="#B" n="87" break="no"/>ria Frostrati qui templum Dianae in Epheso vnum e
+   se<lb ed="#B" n="88" break="no"/>ptem mundi spectaculis exussit vt nomen suum &amp;
+   fa<lb ed="#B" n="89" break="no"/>mam posteris reliqueret? Ex his vides priorem partem 
+   <lb ed="#B" n="90"/>perspicuam.
+  </p>
+      <p xml:id="jMqv4a-d1e1919-d1e584">
+   ⁋ Posterior pars probatur: quia haec glesia nihil 
+   <lb ed="#B" n="91"/>aliud est qui celebris fama qui de viro habetur: &amp; non est 
+   <lb ed="#B" n="92"/>in potestate eius, contra rationem felicitatis. In super si
+   ho<lb ed="#B" n="93" break="no"/>mo sic sit suae famae &amp; glesiae auidus: non viuet in ani 
+   <lb ed="#B" n="94"/>mi tranquillitate: quod est contra rationem felicitatis, quod 
+   <lb ed="#B" n="95"/>patet: quia gloriam ambientibus plurimum alii inuident:  
+   <lb ed="#B" n="96"/>percutiunt fulgura modotes: de eis sinistre loquentur: &amp; 
+   <lb ed="#B" n="97"/>eorum gesta interprtabuntur in peiorem partem, quod cum ad  
+   <lb ed="#B" n="98"/>eos peruenerit: torquambuntur. In super gloria est causa
+   su<lb ed="#B" n="99" break="no"/>perbiendi. Praeterea in illo non consistit felicitas quod 
+   <lb ed="#B" n="100"/>est in aliorum omnino potestate locatum. sed sic est 
+   <lb ed="#B" n="101"/>de gloria hac caduca &amp; momentanea. igitur. 
+  </p>
+      <p xml:id="jMqv4a-d1e1919-d1e610">
+       <lb ed="#B" n="102"/>⁋ Quarta conclusio. Licet humana fe 
+   <lb ed="#B" n="103"/>licitas in magno dominio putetur collocata: in ea tamen feli 
+   <lb ed="#B" n="104"/>citas nullum locum habet. Prior pars huius conclusionis
+   sa<lb ed="#B" n="105" break="no"/>tis est nota. nam homines magnanimi putati multum
+   la<lb ed="#B" n="106" break="no"/>borant augere ditiones: &amp; alienas terras suo adiugere 
+   <lb ed="#B" n="107"/>imperio. hic vt M. Cice. refert, Caesar semper in ore hunit. 
+   <lb ed="#B" n="108"/>Si violandum est ius: propter imperium violandum est. in  
+   <!--0750.xml-->
+   <pb ed="#B" n="359-v"/>
+       <cb ed="#B" n="a"/>
+       <lb ed="#B" n="1"/>caeteris pietatem cole. Insuper multi principes non 
+   <lb ed="#B" n="2"/>solum gentiles, sed Christiani interdum ad hoc 
+   <lb ed="#B" n="3"/>tendunt caeca affectione ducti: se habere terrarum
+   ti<lb ed="#B" n="4" break="no"/>tulos gloriantes: in quibus solum ius mathematicum 
+   <lb ed="#B" n="5"/>habent. Multi quoque ecclesiae praelati eodem morbo/ 
+   <lb ed="#B" n="6"/>vt superius diximus, laborant, sub vmbra honesta 
+   <lb ed="#B" n="7"/>tis se protegentes: ne sedem deteriorem relinquant quam acqui 
+   <lb ed="#B" n="8"/>siuerint, sed illam augeant.
+  </p>
+      <p xml:id="jMqv4a-d1e1919-d1e653">
+   ⁋ Secunda pars
+   osten<lb ed="#B" n="9" break="no"/>ditur sic. augere dominia cotra rationem est
+   pecca<lb ed="#B" n="10" break="no"/>tum: ergo in eis non consistit felicitas. Sed dicis. debeo 
+   <lb ed="#B" n="11"/>procedere in lumine naturali in quo peccatum est igno 
+   <lb ed="#B" n="12"/>tum. falsum est, notum est enim aliquod esse malum 
+   <lb ed="#B" n="13"/>&amp; praeter rationem in lumine naturali: quod etiam
+   philo<lb ed="#B" n="14" break="no"/>sophi peccatum vocant. Rursus in eo non est
+   ponen<lb ed="#B" n="15" break="no"/>da felicitas in quo mens humana continuo perturbatur 
+   <lb ed="#B" n="16"/>&amp; inquietatur. sed sic est in potentia &amp; in augedo
+   im<lb ed="#B" n="17" break="no"/>perio. nunc homo laetus / si sui vincant: nunc tristis si 
+   <lb ed="#B" n="18"/>vincantur. nam euentus belli est fortuitus: &amp; nunc hunc 
+   <lb ed="#B" n="19"/>nunc illum / consumit gladius. Praeterea in statu
+   ca<lb ed="#B" n="20" break="no"/>duco &amp; maxime instabili non est ponenda felicitas 
+   <lb ed="#B" n="21"/>sed tale est magnum dominium. igitur. minor ostenditur 
+   <lb ed="#B" n="22"/>exemplis. Nam Alexander Macedo / eius vxor, &amp; proles 
+   <lb ed="#B" n="23"/>pauca lamentabilem habuerunt exitum: quem si
+   prae<lb ed="#B" n="24" break="no"/>cognouisset non attentasset rapere aliena. lulius Cae 
+   <lb ed="#B" n="25"/>sar tanquam tyrannus tribus &amp; viginti vulneribus meri 
+   <lb ed="#B" n="26"/>to confossus est in senatu. Pompeius post tot
+   ma<lb ed="#B" n="27" break="no"/>ris &amp; terrae victorias &amp; triumphos praesente vxore &amp; 
+   <lb ed="#B" n="28"/>liberis / capite truncatus. Croesus a Cyro captus &amp; 
+   <lb ed="#B" n="29"/>palo affixus. &amp; ipsius Cyti caput in vtre
+   sangui<lb ed="#B" n="30" break="no"/>ne pleno a Thomyre impositu. Ditissimi Crassi 
+   <lb ed="#B" n="31"/>caput auro refertum. lugurtha re militari clarissimus 
+   <lb ed="#B" n="32"/>ante currum Marii nudus cum liberis ad spectaculum 
+   <lb ed="#B" n="33"/>ductus. Syphax Numidiae rex potentissimus ad 
+   <lb ed="#B" n="34"/>Scipionis pedes supplex ductus. Valerianus Au 
+   <lb ed="#B" n="35"/>gustus eloquentia &amp; doctrina clarus, in manus
+   re<lb ed="#B" n="36" break="no"/>gis Persarum incidens, ignominiosa seruitute apud 
+   <lb ed="#B" n="37"/>eum consenuit: vt ipse senex humi depressus / regen 
+   <lb ed="#B" n="38"/>equum ascensurum semper dorso attolleret. Pazaitem 
+   <lb ed="#B" n="39"/>denique Turcam potentissimum Tamberlanus parthus 
+   <lb ed="#B" n="40"/>currui suo iunctum vinxit catena aurea. quae haec 
+   <lb ed="#B" n="41"/>felicitas oro? Adde quod principes sunt in timore
+   fo<lb ed="#B" n="42" break="no"/>ris: multo magis interdum domi inter suos.
+   Me<lb ed="#B" n="43" break="no"/>moratissimum est illud exemplum de Dionysio
+   Sy<lb ed="#B" n="44" break="no"/>racusano &amp; Damocle. cum Damocles Dionysium 
+   <lb ed="#B" n="45"/>propter opes / famulos &amp; caetera id genus diceret bea 
+   <lb ed="#B" n="46"/>tum: &amp; ex consensu vtriusque Damocles poneretur in 
+   <lb ed="#B" n="47"/>regio solio: in aureo lecto: tot honestis famulis con 
+   <lb ed="#B" n="48"/>sistentibus, videbatur ferme beatus. at vbi super ca 
+   <lb ed="#B" n="49"/>put Damoclis poni iussit Dionysius ensem
+   acu<lb ed="#B" n="50" break="no"/>tissimum seta equina e lacunari pendentem: locum libens 
+   <lb ed="#B" n="51"/>reliquit Damocles. cui Dionysius. Talis est, inquit, 
+   <lb ed="#B" n="52"/>vita mea. sic semper nobis mortem imminentem
+   vide<lb ed="#B" n="53" break="no"/>mus. Et licet tyrannus non timeat mortem coram
+   obie<lb ed="#B" n="54" break="no"/>ctam: toxicum formidat, ac opus est cibum
+   praegusta<lb ed="#B" n="55" break="no"/>te antequam comedatur. Vides dominium esse rem plenam la 
+   <!--0750.xml-->
+   <cb ed="#B" n="b"/> 
+       <!-- 359-v b -->
+       <lb ed="#B" n="56"/>boribus / sollicitudinibus / &amp; tristitiis. Quare scite in
+   de<lb ed="#B" n="57" break="no"/>finitione inopinabilis Arist. in Topicis exemplum
+   po<lb ed="#B" n="58" break="no"/>nens dicebat, quemadmodum est dicere: reges esse infe 
+   <lb ed="#B" n="59"/>lices secundum vulgares. ac si diceret. Apud sapientes 
+   <lb ed="#B" n="60"/>nulli in toto regno sunt minus felices multis regibus 
+  </p>
+      <p xml:id="jMqv4a-d1e1919-d1e775">
+       <lb ed="#B" n="61"/>⁋ Quinta conclusio. Beatitudo nec 
+   <lb ed="#B" n="62"/>est in corporis eleganti forma: nec in corporis ro 
+   <lb ed="#B" n="63"/>bore: nec in claro parentum stemmate. probatur sic. 
+   <lb ed="#B" n="64"/>Forma est fluxa &amp; caduca &amp; parum stabilis: quam so 
+   <lb ed="#B" n="65"/>la aetas tollit. Praeterea crebro est causa propinqua  
+   <lb ed="#B" n="66"/>luxus &amp; vitii. De corporis robore patet: quia plus 
+   <lb ed="#B" n="67"/>roboris est in brutis. In super robustissimi corpore 
+   <lb ed="#B" n="68"/>minus valent mente / &amp; robur aufert aetas. Tertium 
+   <lb ed="#B" n="69"/>autem est omnino accidentarium.
+  </p>
+      <p xml:id="jMqv4a-d1e1919-d1e797">
+   ⁋ Ecce quomodo 
+   <lb ed="#B" n="70"/>beatitudinis essentiam inter se secundum iudicia &amp; 
+   <lb ed="#B" n="71"/>affectiones homines variant, nec probabilitatis aliquid  
+   <lb ed="#B" n="72"/>hi omnes de beatitudine ponunt. 
+  </p>
+    </div>
+   </body>
+  </text>
+</TEI>

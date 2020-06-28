@@ -1,0 +1,331 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 2</title>
+      <author ref="#JohnMair">John Mair</author>
+      <respStmt>
+       <name>Jeffrey C. Witt</name>
+       <resp>TEI Encoder</resp>
+      </respStmt>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 2</title>
+       <date when="2020-06-09">June 27, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="B" n="cod-Bda113">Badius 1516</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+     guidelines for a diplomatic edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-06-27" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+      <pb ed="#B" n="267-r"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="jMqv4a-d1e1423"> <!-- l4d28q2 -->
+      <head xml:id="jMqv4a-d1e1423-Hd1e104">Quaestio 2</head>
+      <head xml:id="jMqv4a-d1e1423-Hd1e107" type="question-title">An sit tempus aliquod ad sponsalia et matrimonia 
+  contrahenda determinatum et quae sit ratio sic statuendi</head>
+      <p xml:id="jMqv4a-d1e1423-d1e110">
+       <lb ed="#B" n="11"/>⁋ Distinctionis Vigesimae octauae 
+   <lb ed="#B" n="12"/>Quaestio Secunda. 
+   <lb ed="#B" n="13"/>Ecundo in eadem
+   di<lb ed="#B" n="14" break="no"/>stinctione quaeritur: An sit
+   ten<lb ed="#B" n="15" break="no"/>pus aliquod ad sponsalia 
+   <lb ed="#B" n="16"/>&amp; matrimonia contrahenda 
+   <lb ed="#B" n="17"/>leterminatum: &amp; quae sit ratio 
+   <lb ed="#B" n="18"/>sic statuendi. Pro illius
+   quae<lb ed="#B" n="19" break="no"/>stionis solutione pono
+   ali<lb ed="#B" n="20" break="no"/>quas conclusiones: quarum prima est. De iure
+   natu<lb ed="#B" n="21" break="no"/>rae nullum tempus determinatum est statutum pro
+   sponsa<lb ed="#B" n="22" break="no"/>libus vel matrimoniis. Probatur: quia tepus illud  
+   <lb ed="#B" n="23"/>apud sapientes variatur &amp; in mare &amp; in muliere, vt 
+   <lb ed="#B" n="24"/>ex dicendis patebit. ergo oportet quod tempus a iure 
+   <lb ed="#B" n="25"/>positiuo instituatur: vel quilibet sit sibi relictus ad 
+   <lb ed="#B" n="26"/>quodcumque tempus accipiedum: sed secundum est praeter
+   ra<lb ed="#B" n="27" break="no"/>tionem propter deceptiones &amp; mala quae sequi possent: 
+   <lb ed="#B" n="28"/>&amp; non est determinatio ex iure diuino positiuo: re 
+   <lb ed="#B" n="29"/>linquitur ergo quod sit ex iure humano positiuo. 
+  </p>
+      <p xml:id="jMqv4a-d1e1423-d1e154">
+       <lb ed="#B" n="30"/>⁋ Secunda conclusio. sponsalia non possunt contrahi 
+   <lb ed="#B" n="31"/>ante septennium. hoc patet de despon. impu. cap 
+   <lb ed="#B" n="32"/>vnico. libro. vi. vt in distinctione praecedenti retulimus 
+   <lb ed="#B" n="33"/>sed comparatiue hic pro matrimonio resumpsimus. 
+  </p>
+      <p xml:id="jMqv4a-d1e1423-d1e166">
+       <lb ed="#B" n="34"/>⁋ Tertia conclusio. Tempus matrimonii contrahendi 
+   <lb ed="#B" n="35"/>in mare est aetas. xiiii. annorum: in foemina. xii. nisi 
+   <lb ed="#B" n="36"/>malitia suppleat aetatem. In. c. Puberes. de despons. 
+   <lb ed="#B" n="37"/>impu. dicitur: quod pubertas ex aliquibus cognoscitur. 
+   <lb ed="#B" n="38"/>primo si habeat quartundecimum annum: masculus 
+   <lb ed="#B" n="39"/>scilicet. in. S. Quidam. vbi dicitur. Quidam tamen ex annis pu 
+   <lb ed="#B" n="40"/>bertate aestimant: id est eum esse puberem qui. xiiii. an 
+   <lb ed="#B" n="41"/>nos impleuerit: quamuis tardissime pubescat. &amp; pate 
+   <lb ed="#B" n="42"/>xx. qu. i. Illud. &amp; de regula. Ad nostram. Secundo quando 
+   <lb ed="#B" n="43"/>malitia supplet aetatem. vt quando vir potest
+   cogno<lb ed="#B" n="44" break="no"/>scere &amp; mulier parere. &amp; hoc experientia dignoscitur. 
+   <lb ed="#B" n="45"/>arbitrio autem iudicis reliquitur, quando sit pubertas. 
+   <lb ed="#B" n="46"/>alia enim regula dari non potest. 
+  </p>
+      <p xml:id="jMqv4a-d1e1423-d1e197">
+       <lb ed="#B" n="47"/>⁋ Contra tertiam conclusionem arguitur. 
+   <lb ed="#B" n="48"/>Mulier potest contrahere in duodecimo anno: ergo 
+   <lb ed="#B" n="49"/>&amp; masculus, cum sint eiusdem speciei. Respondetur. con 
+   <lb ed="#B" n="50"/>sequentia est nulla: quia licet sint eiusdem speciei 
+   <lb ed="#B" n="51"/>essentialis, non tamen accidentalis. Sed quare mulier an 
+   <lb ed="#B" n="52"/>te virum contrahat, est dubium. Dicunt quidam. quia mala 
+   <!--0565.xml-->
+   <cb ed="#B" n="b"/> 
+       <!-- 267-r b -->
+       <lb ed="#B" n="53"/>haerba cito crescit. vt videmus de cicuta, vrtica, 
+   <lb ed="#B" n="54"/>zizania, &amp; similibus. sed hoc nihil est. licet enim 
+   <lb ed="#B" n="55"/>mulieres sint viris instabiliores &amp; imprudentiores 
+   <lb ed="#B" n="56"/>causam aliunde oportet ostendere. Dico igitur quod mu 
+   <lb ed="#B" n="57"/>lier desinit parere antequam vir desinat generare. Mu 
+   <lb ed="#B" n="58"/>lier enim post annum quinquagesimum non parit: vir 
+   <lb ed="#B" n="59"/>autem ad septuagesimum vsque generat, &amp; non vltra. ra 
+   <lb ed="#B" n="60"/>rissimum namque est quod de Masinissa Numidarum rege 
+   <lb ed="#B" n="61"/>legitur: quod in centesimo anno genuerit. Sicut autem viro 
+   <lb ed="#B" n="62"/>deus naturam dedit generandi vltra foeminam: sic in  
+   <lb ed="#B" n="63"/>partu prouidit mulieri quod citius pariat. Sed non potest 
+   <lb ed="#B" n="64"/>dari certus terminus vtrobique generandi. Aliqui 
+   <lb ed="#B" n="65"/>enim ex complexione indiuiduali habent quod citius ge 
+   <lb ed="#B" n="66"/>nerent quam alii: quia calidiores sunt. Salomon siquia 
+   <lb ed="#B" n="67"/>dem ante vndecimum annum genuit Roboam. Nec 
+   <lb ed="#B" n="68"/>debet illud <name xml:id="jMqv4a-d1e1423-Nd1e253">Nicolaum Lyranum</name> &amp; aliquos alios
+   de<lb ed="#B" n="69" break="no"/>terrere. nam &amp; <name xml:id="jMqv4a-d1e1423-Nd1e258">Gregorius</name> recitat in libro dialogorum  
+   <lb ed="#B" n="70"/>quod quidam in nono anno suam nutricem impraegnauit. 
+   <lb ed="#B" n="71"/>Et Albertus in quarto dicit se vidisse puellam quam 
+   <lb ed="#B" n="72"/>dam nouem annorum grauidam: ac eam in decimo anno 
+   <lb ed="#B" n="73"/>peperisse. Et <name xml:id="jMqv4a-d1e1423-Nd1e270">Iacobus Foroliuiensis</name> Fen prima, 
+   <lb ed="#B" n="74"/>doctrina quinta primi canonis dicit quod quidam fide, 
+   <lb ed="#B" n="75"/>dignus <name xml:id="jMqv4a-d1e1423-Nd1e278">Marsilius de sancta Sophia</name>, sibi retulit 
+   <lb ed="#B" n="76"/>se vidisse Papiae puellam praegnante quae compleuerat
+   prae<lb ed="#B" n="77" break="no"/>cise annos octo. Quare ad annos non potest haberi 
+   <lb ed="#B" n="78"/>respectus quando malitia supplet aetate. In mare 
+   <lb ed="#B" n="79"/>autem. xiiii. anni sufficiunt: &amp;. xii. in foemina: potissi 
+   <lb ed="#B" n="80"/>mun quando post factum non cognoscitur error in alte 
+   <lb ed="#B" n="81"/>ro. Quia tamen statim in. xiiii. possit cognoscere non
+   re<lb ed="#B" n="82" break="no"/>quiritur: vt patet de laborante morbo. <name xml:id="jMqv4a-d1e1423-Nd1e296" ref="#Aristotle">Aristoteles</name> autem 
+   <lb ed="#B" n="83"/>aliam habuit sententiam, a legibus Caesareis &amp; pontificiis 
+   <lb ed="#B" n="84"/>alienam. septimo Politicorum. Dicebat quod mulier de 
+   <lb ed="#B" n="85"/>bebat in. xviii. anno primo contrahere: &amp; vir in  
+   <lb ed="#B" n="86"/>xxxvi. &amp; hoc propterea quia vir ad
+   septuagesi<lb ed="#B" n="87" break="no"/>mun annum generat: &amp; mulier ad quinquagesimum 
+   <lb ed="#B" n="88"/>parit. &amp; ita simul erit status generandi &amp; pariendi.
+   stan<lb ed="#B" n="89" break="no"/>te autem opposito, non bene conuenirent. Dicit insuper 
+   <lb ed="#B" n="90"/>philosophus quod quando nimis iuuenes contrahunt:
+   foe<lb ed="#B" n="91" break="no"/>tus debiles generat, quod patet in brutis. &amp; in libro de 
+   <lb ed="#B" n="92"/>animalibus hoc ad oculum ostendit. similiter in hominibus. nam iu 
+   <lb ed="#B" n="93"/>uenes &amp; senes / debiles tam corpore quam mente generant 
+   <lb ed="#B" n="94"/>&amp; potissimum foeminas. &amp; illa est causa quare parui 
+   <lb ed="#B" n="95"/>homines generentur in quibusdam regionibus. vbi si in bona 
+   <lb ed="#B" n="96"/>aetate coiungerentur: viri essent robusti. praeterea nimis 
+   <lb ed="#B" n="97"/>homines multiplicantur quando tam cito incipiunt. Sed dicis. 
+   <lb ed="#B" n="98"/>idem philosophus permittit vt fiat aborsus: &amp;
+   praeci<lb ed="#B" n="99" break="no"/>pit orbatos expellere. sed hoc est multum in hac 
+   <lb ed="#B" n="100"/>materia errare: ergo non oportet oculum in hac parte 
+   <lb ed="#B" n="101"/>ad <name xml:id="jMqv4a-d1e1423-Nd1e340" ref="#Aristotle">Aristotelem</name> flectere. Respondeo, non desunt
+   di<lb ed="#B" n="102" break="no"/>centes <name xml:id="jMqv4a-d1e1423-Nd1e346" ref="#Aristotle">Aristotelem</name> velle ita dicere vt
+   argumen<lb ed="#B" n="103" break="no"/>tum assumit. sed longe aliter sentit. Dicit expresse 
+   <lb ed="#B" n="104"/>in illo septimo: cauendum esse ne aliquis occidatur. 
+   <lb ed="#B" n="105"/>sed caueri potest a tanta prolis generatione per absti 
+   <lb ed="#B" n="106"/>nentiam &amp; continentiam &amp; aliis mediis. vel cum
+   ali<lb ed="#B" n="107" break="no"/>qui legumlatores ita leges tulerint, minus malum 
+   <!--0566.xml-->
+   <pb ed="#B" n="267-v"/>
+       <cb ed="#B" n="a"/>
+       <lb ed="#B" n="1"/>est cauere ne proles generetur quam prolem vitalem
+   suf<lb ed="#B" n="2" break="no"/>focare. &amp; certe hoc est verum. nam Plato talem legem an 
+   <lb ed="#B" n="3"/>te recitauit. Ex hoc manifeste sequitur quod noluit or 
+   <lb ed="#B" n="4"/>batos occidi: sed exponendos esse extra vrbem, &amp;
+   il<lb ed="#B" n="5" break="no"/>lic nutriendos: si lex vrbis eos residere in vrbe non 
+   <lb ed="#B" n="6"/>patiatur. quod ita voluerit, patet per eius verba. At si mul 
+   <lb ed="#B" n="7"/>titudo tanta prolis alicui contigerit: vt duplicatus sit 
+   <lb ed="#B" n="8"/>filiorum numerus (nam is definitus esse debet) ad 
+   <lb ed="#B" n="9"/>mulritudinem nimiam euitandam anteuenire oportet ne 
+   <lb ed="#B" n="10"/>foetus concipiantur. nam postquam concepti sunt, &amp; ser 
+   <lb ed="#B" n="11"/>sum aut vitam acceperint: nefas est attingere eos 
+   <lb ed="#B" n="12"/>Ecce eius verba. ac si expressissime dixisset. Culpa 
+   <lb ed="#B" n="13"/>grandis est eis nocere. Ex quo clare sequitur quod null 
+   <lb ed="#B" n="14"/>tales sunt necandi. Nusquam vero melius quam in materia 
+   <lb ed="#B" n="15"/>matrimonii, &amp; puerorum educatione loquutus est 
+   <lb ed="#B" n="16"/>philosophus. quare mirandum est de aliquibus
+   theo<lb ed="#B" n="17" break="no"/>logis: qui cum Politicorum libros vix inspexerint, eorum 
+   <lb ed="#B" n="18"/>dem auctorem reprobant. Alia causa est secundum eum 
+   <lb ed="#B" n="19"/>nam quando comiunguntur iuuenes: parum aetatis distat in 
+   <lb ed="#B" n="20"/>ter parentes &amp; liberos: quamobrem non prosequuntur eos 
+   <lb ed="#B" n="21"/>honore. Sed contra illud arguitur. ergo ipse admittit 
+   <lb ed="#B" n="22"/>fornicationem simplicem licita: quia non approbat
+   ma<lb ed="#B" n="23" break="no"/>trimonium ante contractum. homines enim tam diu continere 
+   <lb ed="#B" n="24"/>nequeunt. Respondetur negando sequelam. numquid no 
+   <lb ed="#B" n="25"/>stri vouentes &amp; sacerdotes continere possunt sine 
+   <lb ed="#B" n="26"/>matrimonio vel fornicatione? praesertim si Aristo 
+   <lb ed="#B" n="27"/>telis vterentur consilio &amp; doctrina in eodem septimo 
+   <lb ed="#B" n="28"/>scilicet quod in iuuentute nec viderent nec audirent turpia 
+   <lb ed="#B" n="29"/>&amp; honestas occupationes sequaerentur. Fateor tamen qui 
+   <lb ed="#B" n="30"/>consuetudo ecclesiae est facilis pro communi plebe. pru 
+   <lb ed="#B" n="31"/>dentes autem multas proles habentes si obseruarent do 
+   <lb ed="#B" n="32"/>ctrinam <name xml:id="jMqv4a-d1e1423-Nd1e435" ref="#Aristotle">Aristotelis,</name> bene agerent: &amp; esset ecclesiae gra 
+   <lb ed="#B" n="33"/>tissimum. Videns igitur secundum omnes quod mulier ante virum 
+   <lb ed="#B" n="34"/>nubit. Sed summe cauendum est senibus
+   quinqua<lb ed="#B" n="35" break="no"/>genariis &amp; supra eam aetatem ne ducant iuuenculas po 
+   <lb ed="#B" n="36"/>tissimum nobiles aut diuites. multa enim mala ex ta 
+   <lb ed="#B" n="37"/>libus coniugiis euenire solent. Si tamen senex gratia sobo 
+   <lb ed="#B" n="38"/>lis habendae iuuenem mulierem desideret: ducat viduam 
+   <lb ed="#B" n="39"/>probam, cuius foecunditas est cognita: vel pauperi 
+   <lb ed="#B" n="40"/>mulierem e bona &amp; laudata stirpe: quae viro erit &amp; 
+   <lb ed="#B" n="41"/>vxor &amp; ancilla. vidimus siquidem plerasque tales ca 
+   <lb ed="#B" n="42"/>ste &amp; pie cum maritis suis in omni probitate viuentes. 
+   <lb ed="#B" n="43"/>opulentas autem &amp; nobiles mulieres cum senibus
+   con<lb ed="#B" n="44" break="no"/>trahentes crebro labi audiuimus.
+  </p>
+      <p xml:id="jMqv4a-d1e1423-d1e465">
+   ⁋ Secundo arguitur 
+   <lb ed="#B" n="45"/>contra eandem conclusionem. Pigmaei generant in quinto 
+   <lb ed="#B" n="46"/>anno, &amp; senescunt in octauo. ergo conclusio falsa 
+   <lb ed="#B" n="47"/>Si neges pigmaeos: hoc est contra <name xml:id="jMqv4a-d1e1423-Nd1e473" ref="#Aristotle">Aristotelem.</name> vii 
+   <lb ed="#B" n="48"/>de historiis animalium. Et Auicenna octauo de An 
+   <lb ed="#B" n="49"/>malibus dicit: quod Pigmaei sunt vnius cubiti: &amp;
+   pu<lb ed="#B" n="50" break="no"/>gnant contra grues, nec hoc est mendacium. Petrus iti 
+   <lb ed="#B" n="51"/>Ebanensis in decima particula problematum
+   Aristo<lb ed="#B" n="52" break="no"/>telis, dicit se aliquos vidisse.
+  </p>
+      <p xml:id="jMqv4a-d1e1423-d1e488">
+   ⁋ Respondetur. Pigmae. 
+   <lb ed="#B" n="53"/>non sunt homines, sed omnino more aliorum brutorum inue 
+   <lb ed="#B" n="54"/>recundi, &amp; bruta nobiscum multum communicantia. pro 
+   <lb ed="#B" n="55"/>pterea enim homines putantur a multis. quod bruta citius 
+   <!--0566.xml-->
+   <cb ed="#B" n="b"/> 
+       <!-- 267-v b -->
+       <lb ed="#B" n="56"/>generent: non est mirandum: nam etiam citius moriuntur 
+  </p>
+      <p xml:id="jMqv4a-d1e1423-d1e506">
+       <lb ed="#B" n="57"/>⁋ Tertio arguitur. homines ab exordio mundi diu 
+   <lb ed="#B" n="58"/>tius vixerunt qui nunc viuant, vt videtur ex principio 
+   <lb ed="#B" n="59"/>Geneseos. plerique enim vltra nongentos annos vixe 
+   <lb ed="#B" n="60"/>runt. sed postea pedetentim minus &amp; minus vixe 
+   <lb ed="#B" n="61"/>runt. ergo sensim &amp; temporis successu dabuntur viri 
+   <lb ed="#B" n="62"/>non potentes viuere. xviii. vel. xx. annos. quare 
+   <lb ed="#B" n="63"/>oportebit eos generare ante. xiiii. annos. alioquir 
+   <lb ed="#B" n="64"/>mundus hominibus vacabit.
+  </p>
+      <p xml:id="jMqv4a-d1e1423-d1e526">
+   ⁋ Respondetur. scriptura 
+   <lb ed="#B" n="65"/>loquitur de hominibus qui diu vixerunt. &amp; est verosimi 
+   <lb ed="#B" n="66"/>le quod hoc fiebat miraculose: nam alii non ita diu
+   vi<lb ed="#B" n="67" break="no"/>xere. Nec sufficit dicere: quod erant temperati &amp; bonae 
+   <lb ed="#B" n="68"/>complexionis sub bono caeli aspectu producti. quia 
+   <lb ed="#B" n="69"/>illa in diebus istis contingunt: in quibus nulli ad hanc 
+   <lb ed="#B" n="70"/>aetatem perueniunt. Opinor tamen quod homines alii de quibus 
+   <lb ed="#B" n="71"/>scriptura non facit mentione, vixerunt multo
+   diu<lb ed="#B" n="72" break="no"/>tius quam homines nunc viuant. deus namque conseruabat eos 
+   <lb ed="#B" n="73"/>ob eorum bonitatem: vel quia pauci eruditi erant, ad 
+   <lb ed="#B" n="74"/>alios docendos tam in legibus quam in moribus. Sed a 
+   <lb ed="#B" n="75"/>bis mille annis praeteritis communes homines optima 
+   <lb ed="#B" n="76"/>complexione donati non transierunt. lxx. annos. In  
+   <lb ed="#B" n="77"/>giganteis autem viris aetas est. lxxx. annorum. Testis 
+   <lb ed="#B" n="78"/>est psalmographus psalmo. lxxxix. canens. An 
+   <lb ed="#B" n="79"/>ni nostri sicut aranea meditabuntur: dies annorum 
+   <lb ed="#B" n="80"/>nostrorum in ipsis. lxx. anni. Si autem in potentatibus 
+   <lb ed="#B" n="81"/>octoginta anni &amp; amplius: eorum labor &amp;
+   dolor<lb ed="#B" n="82" break="no"/>Homines quoque adhuc eam aetatem viuunt. Nego igitur 
+   <lb ed="#B" n="83"/>suppositum argumenti: quod semper homines sensim minus 
+   <lb ed="#B" n="84"/>&amp; minus viuant. Aliqui enim viuunt tandiu quam in die 
+   <lb ed="#B" n="85"/>bus Dauidis, etiam apud nos. Nam Strabo. xv. libus 
+   <lb ed="#B" n="86"/>dicit Indos passim vluere. cxxx. annos, &amp; Seres 
+   <lb ed="#B" n="87"/>cc. Sed quicquid sit de hoc: nihil ad nos. Credo 
+   <lb ed="#B" n="88"/>etiam quod &amp; ipsi nunc longe minus viuant quam sui
+   ma<lb ed="#B" n="89" break="no"/>iores vixerint. 
+   <lb ed="#B" n="90"/>lc dubitatur primo: quando 
+   <lb ed="#B" n="91"/>occurrit dubium in aliquo contractu: an 
+   <lb ed="#B" n="92"/>sponsalia contrahantur an matrimonium i 
+   <lb ed="#B" n="93"/>pro quo iudicandum sit. Respondetur. oportet videre 
+   <lb ed="#B" n="94"/>circumstantias contractus. In nostro proposito sponsalia 
+   <lb ed="#B" n="95"/>plerumque matrimonium antecedunt. Porro in casu du 
+   <lb ed="#B" n="96"/>bio pro sponsalibus praesumitur si iam non praecesserint. si 
+   <lb ed="#B" n="97"/>autem antecesserint, pro matrimonio praesumendum est. Sed  
+   <lb ed="#B" n="98"/>quia sponsalia non sunt necessaria matrimonio:
+   pos<lb ed="#B" n="99" break="no"/>sunt audientes considerare ex aliis circumstantiis: quando 
+   <lb ed="#B" n="100"/>erit praesumptio pro matrionio. In verbis autem dubiis 
+   <lb ed="#B" n="101"/>oportet respicere communem hominium intelligentiam, &amp; non
+   ar<lb ed="#B" n="102" break="no"/>gutias ineptas. vt si Sortes Bertae diceret. tenebo 
+   <lb ed="#B" n="103"/>te pro vxore quousque terra oculos meos cooperiati 
+   <lb ed="#B" n="104"/>licet intelligat / quousque puluerem super oculos ponati 
+   <lb ed="#B" n="105"/>cogitur matrimonium continuare, &amp; pro eo praesumitur: lica 
+   <lb ed="#B" n="106"/>si non consentiat, non sit matrimonium. hoc patet in ca. Ex 
+   <lb ed="#B" n="107"/>littris. i. de sponsa. vbi Alexander Tertius Cantuariensi 
+   <lb ed="#B" n="108"/>archiepraeo scribit dicens. Ex litterus. &amp; infra. De hoc autem 
+   <lb ed="#B" n="109"/>quod consuluisti quid debeat obseruari, quando inter ali- 
+   <!--0567.xml-->
+   <pb ed="#B" n="268-r"/>
+       <cb ed="#B" n="a"/>
+       <lb ed="#B" n="1"/>tali coniunctione suscepta prorsus illegitima censeatur: 
+   <lb ed="#B" n="2"/>de parentum ignorantia nullum habitura subsidium: cum 
+   <lb ed="#B" n="3"/>illi taliter contrahendo non expertes scientiae, vel saltem 
+   <lb ed="#B" n="4"/>affectatores ignorantiae videantur. Pari modo
+   pro<lb ed="#B" n="5" break="no"/>es illegitima censeatur: si ambo parentes
+   impedimen<lb ed="#B" n="6" break="no"/>tum scientes legitimum / praeter omne interdictum etiam in
+   con<lb ed="#B" n="7" break="no"/>spectu ecclesiae contrahere praesumpserint.
+  </p>
+      <p xml:id="jMqv4a-d1e1423-d1e649">
+   ⁋ Ecce 
+   <lb ed="#B" n="8"/>sponsalium &amp; nuptiarum annos: &amp; quod mulier, citius 
+   <lb ed="#B" n="9"/>cognosci potest reglariter quam mas generare: quodque ei 
+   <lb ed="#B" n="10"/>natura negauit indiuturnitate temporis pariendi: id in  
+   <lb ed="#B" n="11"/>acceleratione eius rependit, nec hoc in ea maiorem 
+   <lb ed="#B" n="12"/>causalitatem arguit: immo est multo minor: quia nec 
+   <lb ed="#B" n="13"/>haemorroides nec narium profluuium, virorum more 
+   <lb ed="#B" n="14"/>patitur. Ipsa enim est phlegmatica &amp; frigida. Vlteri 
+   <lb ed="#B" n="15"/>diximus aliquos a complexione indiuiduali ante 
+   <lb ed="#B" n="16"/>xii. annos &amp;. xiiii. generasse &amp; peperisse: in quibus 
+   <lb ed="#B" n="17"/>malitia supplet aetatem: quae est multum prona in
+   vene<lb ed="#B" n="18" break="no"/>rea: vt de Salomone diximus. Praeterea non semper 
+   <lb ed="#B" n="19"/>homines minus &amp; minus viuunt: quia illo dato mun 
+   <lb ed="#B" n="20"/>dus destitueretur hominibus naturaliter: quod non est conce 
+   <lb ed="#B" n="21"/>dendum. Licet autem Nestor Homericus trecentesimum 
+   <lb ed="#B" n="22"/>intrauerit annum: hoc non concludit de reliquis illius 
+   <lb ed="#B" n="23"/>tempestatis. Ioannes quoque de temporibus: amplius 
+   <lb ed="#B" n="24"/>tempore Caroli magni &amp; postea vixit. sed de aliis 
+   <lb ed="#B" n="25"/>hoc non contingit. Et eodem modo opinor de hominibus 
+   <lb ed="#B" n="26"/>bibliacis, non tamen nego quin caeli clementia, regionis 
+   <lb ed="#B" n="27"/>salubritas, &amp; temperantia victus, vitam prorogent: sed 
+   <lb ed="#B" n="28"/>non ad tot annorum congeriem sine dei miracuio: qui 
+   <lb ed="#B" n="29"/>omnes perpetuare potest. sicut Enoch &amp; Heliam
+   in<lb ed="#B" n="30" break="no"/>columes hactenus conseruat: &amp; in caelo post diem
+   iu<lb ed="#B" n="31" break="no"/>dicii conseruabit. 
+  </p>
+    </div>
+   </body>
+  </text>
+</TEI>

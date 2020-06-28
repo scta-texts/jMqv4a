@@ -1,0 +1,344 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 3</title>
+      <author ref="#JohnMair">John Mair</author>
+      <respStmt>
+       <name>Jeffrey C. Witt</name>
+       <resp>TEI Encoder</resp>
+      </respStmt>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 3</title>
+       <date when="2020-06-09">June 27, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="B" n="cod-Bda113">Badius 1516</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+     guidelines for a diplomatic edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-06-27" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+      <pb ed="#B" n="59-v"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="jMqv4a-d1e317"> <!-- l4d11q3 -->
+      <head xml:id="jMqv4a-d1e317-Hd1e104">Quaestio 3</head>
+      <head xml:id="jMqv4a-d1e317-Hd1e107" type="question-title">An corpus Christi sit categorice adorandum 
+  in eucharistia, an conditionaliter</head>
+      <p xml:id="jMqv4a-d1e317-d1e110">
+   <!--0150.xml-->
+       <cb ed="#B" n="b"/> 
+       <!-- 59-v b -->
+       <lb ed="#B" n="53"/>IAm vidimus quomodo 
+   <lb ed="#B" n="54"/>panis transubstantietur in 
+   <lb ed="#B" n="55"/>corpus Christi, &amp; vinum de vi 
+   <lb ed="#B" n="56"/>te in eius sanguinem: &amp; quis 
+   <lb ed="#B" n="57"/>sit panis ille qui in corpus 
+   <lb ed="#B" n="58"/>Christi transubstantiatur: cum 
+   <lb ed="#B" n="59"/>capost transubstantiationem 
+   <lb ed="#B" n="60"/>corpus Christi sit adorandum. Quaeritur Tertio 
+   <lb ed="#B" n="61"/>An corpus Christi sit categorice adorandum in
+   eu<lb ed="#B" n="62" break="no"/>charistia, an conditionaliter. Notato hic duplicem 
+   <lb ed="#B" n="63"/>esse positionem realem (aliqui enim verbaliter
+   dis<lb ed="#B" n="64" break="no"/>crepant: &amp; in eadem sententia conueniunt) aliqui 
+   <lb ed="#B" n="65"/>volunt solum conditionaliter corpus Christi ado 
+   <lb ed="#B" n="66"/>randum in eucharistia: placet aliis quod categorice 
+   <lb ed="#B" n="67"/>potest adorari corpus Christi in eucharistia.
+  </p>
+      <p xml:id="jMqv4a-d1e317-d1e152">
+   ⁋ Pro 
+   <lb ed="#B" n="68"/>solutione quaestionis ponam sicut in caeteris
+   ali<lb ed="#B" n="69" break="no"/>quas conclusiones: quarum Prima est haec, non  
+   <lb ed="#B" n="70"/>est mihi euidens quod corpus Christi continetur in 
+   <lb ed="#B" n="71"/>hac hostia. probatur. stat panem non fuisse
+   triti<lb ed="#B" n="72" break="no"/>ceum, vel sacerdotem non intendisse consecrare: 
+   <lb ed="#B" n="73"/>vel non protulisse verba necessaria consecrationi: &amp; 
+   <lb ed="#B" n="74"/>tunc non fuisset consecratio. Secundo arguitur ad idem, non 
+   <lb ed="#B" n="75"/>est certum praesbytero an consecrauerit: ergo non est m 
+   <lb ed="#B" n="76"/>hi certum. tenet consequentia: quia ipse pot hoc melius 
+   <lb ed="#B" n="77"/>depraehendere, quam ego. antecedens patet. stat eum no 
+   <lb ed="#B" n="78"/>esse baptizatum: &amp; sic non est sacerdos. Stat insuper 
+   <lb ed="#B" n="79"/>epscum non ordinasse eum. igitur.
+  </p>
+      <p xml:id="jMqv4a-d1e317-d1e182">
+   ⁋ Secunda conclusio. ha 
+   <lb ed="#B" n="80"/>beo certitudinem morale sufficientem quod corpus Chri 
+   <lb ed="#B" n="81"/>sti transubstantietur: ergo sub speciebus panis est corpus 
+   <lb ed="#B" n="82"/>Christi. Haec consequentia est bona: quia certitudinem 
+   <lb ed="#B" n="83"/>moralem habeo de ante: ergo talem habeo de conse 
+   <lb ed="#B" n="84"/>quente. si enim aliqua consequentia sit certa, &amp;
+   antecedenscer<lb ed="#B" n="85" break="no"/>tum: consequens eadem certitudine est certum: sed cer 
+   <lb ed="#B" n="86"/>titudinem moralem habeo de antecedente, quod
+   pa<lb ed="#B" n="87" break="no"/>tet. videmus quod nulla est difficultas de baptismo 
+   <lb ed="#B" n="88"/>nati inter christianos, &amp; notos parentes: tum ex par 
+   <lb ed="#B" n="89"/>te parentum &amp; patrinorum: tum ex parte baptizan 
+   <lb ed="#B" n="90"/>tis &amp; viciniae. De intentione episcopi non cadit dis 
+   <lb ed="#B" n="91"/>ficultas: nec de intentione sacerdotis quin ordines 
+   <lb ed="#B" n="92"/>suscipere intendit: &amp; facere illa quae probum
+   vi<lb ed="#B" n="93" break="no"/>rum decent. quilibet enim est praesumendus
+   bo<lb ed="#B" n="94" break="no"/>nus donec de opposito doceatur, non docetur autem 
+   <lb ed="#B" n="95"/>oppositum de hoc sacerdote, prout supponitur. 
+  </p>
+      <p xml:id="jMqv4a-d1e317-d1e219">
+       <lb ed="#B" n="96"/>⁋ Tertia conclusio. licet categorice adorare
+   cor<lb ed="#B" n="97" break="no"/>pus Christi in sacramento eucharistiae: vel sub spe 
+   <lb ed="#B" n="98"/>ciebus illis quas eucharistiam putamus probatur conclusio. 
+   <lb ed="#B" n="99"/>certi sumus certitudine morali quod illic corpus xpsi conti 
+   <lb ed="#B" n="100"/>neatur: ergo categorice possumus ips adorare. Secundo 
+   <lb ed="#B" n="101"/>arguitur ad idem. si naon le categorice adorare illd quod
+   il<lb ed="#B" n="102" break="no"/>lic in speciebus continetur: hoc est quia stat in casu corpus 
+   <lb ed="#B" n="103"/>Christi illic non contineri. sed hoc non obstat, quod ptet 
+   <lb ed="#B" n="104"/>cum sit ignorantia inuincibilis, quemadmodum erat de
+   la<lb ed="#B" n="105" break="no"/>cob Liam prima nocte cognoscente. Dicis. in cultu
+   la<lb ed="#B" n="106" break="no"/>triae debetur maior indago quamcirca rem vxoriam. Contra. to 
+   <!--0151.xml-->
+   <pb ed="#B" n="60-r"/>
+       <cb ed="#B" n="a"/>
+       <lb ed="#B" n="1"/>tus populus sic categorice adorat corpus Christi. 
+   <lb ed="#B" n="2"/>si subito leuetur corpus Christi inter manus sacerdotis 
+   <lb ed="#B" n="3"/>vel deferatur ad infirmum, subito omnes ad genua se
+   pro<lb ed="#B" n="4" break="no"/>uoluunt categorice adorantes: nec aliud inquirunt. igitur. 
+   <lb ed="#B" n="5"/>Amplius. audiens praelatum praedicare haeresim cuius oppo 
+   <lb ed="#B" n="6"/>situm non tenetur scire, &amp; assentiens, no peccat. Idem erit in 
+   <lb ed="#B" n="7"/>proposito: dato namque opposito antecedentis non con 
+   <lb ed="#B" n="8"/>duceret audire multorum sermones. 
+  </p>
+      <p xml:id="jMqv4a-d1e317-d1e269">
+       <lb ed="#B" n="9"/>⁋ Contra hanc tertiam conclusionem 
+   <lb ed="#B" n="10"/>arguitur sic. sequaeretur quod si diabolus transfiguraret se nunc 
+   <lb ed="#B" n="11"/>in angelum lucis vel in deum: possem illum cultu latriae 
+   <lb ed="#B" n="12"/>reuereri. consequens est falsum, igitur.
+  </p>
+      <p xml:id="jMqv4a-d1e317-d1e280">
+   ⁋ Respondeo 
+   <lb ed="#B" n="13"/>quod illud potest facere angelus tenebrarum deo illud per 
+   <lb ed="#B" n="14"/>mittente ad probationem fidei nostrae, an in ea va 
+   <lb ed="#B" n="15"/>cillemus: an persistamus, secundum illud. ii. ad Co 
+   <lb ed="#B" n="16"/>rinthios. xi. Angelus tenebrarum se transfert in
+   an<lb ed="#B" n="17" break="no"/>gelum lucis. sed nego sequalam de illo. nam hoc est inso 
+   <lb ed="#B" n="18"/>litum: &amp; per scripturam edocemur a talibus cauere 
+   <lb ed="#B" n="19"/>Matthaei. xxiiii. Multi venient in nomine meo (dicit 
+   <lb ed="#B" n="20"/>dominus) dicentes, ego sum Christus: &amp; seducent multos. 
+   <lb ed="#B" n="21"/>In talibus spiritus probare oportet si ex deo sunt. 
+   <lb ed="#B" n="22"/>Primae Ioannis quarto. &amp; non assentire talibus 
+   <lb ed="#B" n="23"/>assertionibus: sed iudicium intellectus assentiend 
+   <lb ed="#B" n="24"/>suspendere: &amp; per consequens adorandi: sicut in  
+   <lb ed="#B" n="25"/>vitis patrum de quodam viro sancto legimus ocu 
+   <lb ed="#B" n="26"/>los claudente: dicete angelo tenebrarum. nolo Chri 
+   <lb ed="#B" n="27"/>stum videre in hac mortali vita: sufficit mihi in 
+   <lb ed="#B" n="28"/>patria. videre. &amp; sic daemodo illusus euanuit. Cum enim 
+   <lb ed="#B" n="29"/>illud sit insolitum, nullo modo est assentiendum quod est 
+   <lb ed="#B" n="30"/>deus quousque sufficientissime de hoc doceatur, nec 
+   <lb ed="#B" n="31"/>simplex sibi solicredat: vel etiam doctus, quousque 
+   <lb ed="#B" n="32"/>deum super hoc implorauerit: &amp; alios sapientes super 
+   <lb ed="#B" n="33"/>hoc consultauerit: nisi sufficientissime super hoc ce 
+   <lb ed="#B" n="34"/>tificaretur, quemadmodum diua virgo quae diu medita 
+   <lb ed="#B" n="35"/>ta est in angeli insolita salutatione, sicut de ea dicit 
+   <lb ed="#B" n="36"/>Euangelista. Cogitabat qualis esset ista
+   salutatio<lb ed="#B" n="37" break="no"/>hoc est multum poderabat: &amp; angelo respondente: ad 
+   <lb ed="#B" n="38"/>huc obiecit, quomodo fiet istd: nec vllo modo assensit quo 
+   <lb ed="#B" n="39"/>ad erat ei sufficientissime reuelatum: &amp; forte
+   reuela<lb ed="#B" n="40" break="no"/>tione interiori a deo. Sic Lucianus praesbyter non cre 
+   <lb ed="#B" n="41"/>didit Gamalieli quousque tertio appuit. modo sacra 
+   <lb ed="#B" n="42"/>mentum eucharistiae e solitum &amp; commune: &amp; ratissime contingit 
+   <lb ed="#B" n="43"/>quod corpus Christi non continetur in illis speciebus: &amp; nos 
+   <lb ed="#B" n="44"/>fugit quando hoc sit: propterea non est simile. 
+  </p>
+      <p xml:id="jMqv4a-d1e317-d1e352">
+       <lb ed="#B" n="45"/>⁋ Secundo arguitur contra eandem 
+   <lb ed="#B" n="46"/>conclusionem. melius est conditionaliter adorare 
+   <lb ed="#B" n="47"/>corpus Christi in eucharistia, quod patet. vtpote ego 
+   <lb ed="#B" n="48"/>adoro corpus Christi si sub istis speciebus sit. &amp; non 
+   <lb ed="#B" n="49"/>aliter. tunc si non sit sub illis speciebus non adoratur ado 
+   <lb ed="#B" n="50"/>ratione conditionali, quae non tenet conditione non
+   existen<lb ed="#B" n="51" break="no"/>te. &amp; si adoratur categorice: adorando stat panem 
+   <lb ed="#B" n="52"/>adorare.
+  </p>
+      <p xml:id="jMqv4a-d1e317-d1e372">
+   ⁋ Respondetur: &amp; si melius esset conditio 
+   <lb ed="#B" n="53"/>naliter adorare corpus Christi in eucharistia / non impu 
+   <!--0151.xml-->
+   <cb ed="#B" n="b"/> 
+       <!-- 60-r b -->
+       <lb ed="#B" n="54"/>gnatur conclusio in quae dicimus illud licere. Secundo nego  
+   <lb ed="#B" n="55"/>quod sit melius. multis namque simplicibus daretur occasio 
+   <lb ed="#B" n="56"/>existimandi quod corpus Christi num quam contineretur sub
+   il<lb ed="#B" n="57" break="no"/>lis speciebus. Sicut enim non est adorandus rubus
+   condi<lb ed="#B" n="58" break="no"/>tionaliter si illic sit dominus vel angelus: be semel Moy 
+   <lb ed="#B" n="59"/>si ita contigit: ita eucharistia non est adoranda conditio 
+   <lb ed="#B" n="60"/>naliter si semel bis vel ter non sit consecratio: cum op 
+   <lb ed="#B" n="61"/>positum ferme semper contingat, nec constat nobis 
+   <lb ed="#B" n="62"/>quando non contingit. fateor tamen quod quandoque adoratur corpus Chri 
+   <lb ed="#B" n="63"/>sti in eucharistia conditione tacita: hoc est si sciretur 
+   <lb ed="#B" n="64"/>quod panis non esset in corpus Christi transubstantia, 
+   <lb ed="#B" n="65"/>tus, nullo modo sic adoraretur. sed hanc conditionem 
+   <lb ed="#B" n="66"/>non expedit apponere ei: nec est hominium consuetudo,  
+   <lb ed="#B" n="67"/>nec doctus debet eam apponere expresse: esto 
+   <lb ed="#B" n="68"/>non daretur ei occasio propinqua assentiendi quod num 
+   <lb ed="#B" n="69"/>quam corpus illic contineretur: sed sufficit ei orare alio 
+   <lb ed="#B" n="70"/>rum more: nec fodere cisternas nouas in hac parte
+   de<lb ed="#B" n="71" break="no"/>bet: ne ex suo habitu alios ad hoc inducat. bene autem 
+   <lb ed="#B" n="72"/>sentiat de proximo &amp; sacerdote &amp; episcopo donec 
+   <lb ed="#B" n="73"/>doceatur de opposito. 
+  </p>
+      <p xml:id="jMqv4a-d1e317-d1e428">
+       <lb ed="#B" n="74"/>⁋ Tertio arguitur. ex conclusione 
+   <lb ed="#B" n="75"/>sequitur quod idololatria non esset peccatum: consequens est
+   fal<lb ed="#B" n="76" break="no"/>sum: ergo &amp; antecedens. consequentiam tamen declaro. sit ita quod non 
+   <lb ed="#B" n="77"/>sit consecratio realiter: tunc sortes adorat hoc quod illic 
+   <lb ed="#B" n="78"/>continetur, quod est panis. modo adorare panem cultu
+   la<lb ed="#B" n="79" break="no"/>triae est idololatria. Dicis sicut quidam, non stat quod quis 
+   <lb ed="#B" n="80"/>credat &amp; velit adorare diabolum: &amp; tamen adoret deum 
+   <lb ed="#B" n="81"/>nam credens adorare deum: &amp; eum adorare volens, si sor 
+   <lb ed="#B" n="82"/>tes ponatur loco eius non adorat sortem sed deum: sic in 
+   <lb ed="#B" n="83"/>proposito credens adorare corpus Christi: &amp; hoc vo 
+   <lb ed="#B" n="84"/>lens, non adorat panem, sed corpus Christi. Contra. hoc 
+   <lb ed="#B" n="85"/>non soluit argumentum: quia bene sequitur. hoc adoras 
+   <lb ed="#B" n="86"/>cultu latriae: hoc est panis, ergo panem adoras cul 
+   <lb ed="#B" n="87"/>tu latriae: expositorie, antecedens habes concedere: ergo  
+   <lb ed="#B" n="88"/>non potes negare consequens. Maior patet per conclu 
+   <lb ed="#B" n="89"/>sionem: quia categorice adoras quicquid illic contine 
+   <lb ed="#B" n="90"/>tur. &amp; minor est nota ex hypothesi.
+  </p>
+      <p xml:id="jMqv4a-d1e317-d1e467">
+   ⁋ Propterea 
+   <lb ed="#B" n="91"/>aliter respondetur ad argumentum, negando sequalam, quod 
+   <lb ed="#B" n="92"/>idololatria esset licita. Illic enim non est idololatria: ldo 
+   <lb ed="#B" n="93"/>lolatria est cultus deo debitus: creaturae culpabiliter ex 
+   <lb ed="#B" n="94"/>hibitus. qui si ex ignorantia inuincibili creaturae
+   a<lb ed="#B" n="95" break="no"/>tribuitur: non est idololatria, sed latria: dato quod
+   crea<lb ed="#B" n="96" break="no"/>turae attribuatur, quemadmodum si Iacob Liam prima 
+   <lb ed="#B" n="97"/>nocte cognouit vt est probabile: licet sit quaestio 
+   <lb ed="#B" n="98"/>facti: in copula illa quo ad eum erat castitas con 
+   <lb ed="#B" n="99"/>lugalis: licet nullum esset coniugium in nocte illa: &amp; 
+   <lb ed="#B" n="100"/>si Lia sit excusanda ob patriae consuetudinem &amp; 
+   <lb ed="#B" n="101"/>praeceptum paternum, etiam respectu Liae erat
+   ca<lb ed="#B" n="102" break="no"/>stitas cmuniugalis. sic omnino est in proposito. et si essent 
+   <lb ed="#B" n="103"/>duo sortes &amp; plato: &amp; platoni constaret quod ibi non  
+   <lb ed="#B" n="104"/>esset corpus Christi: summum cultum contento. sub 
+   <lb ed="#B" n="105"/>speciebus tribuens esset idololatra: non autem sortes cui 
+   <lb ed="#B" n="106"/>non constat: cum sit ei ignorantia inuincibilis: sed bene 
+   <lb ed="#B" n="107"/>colit contentum cultu latriae. Non tamen sunt propter 
+   <!--0152.xml-->
+   <pb ed="#B" n="60-v"/>
+       <cb ed="#B" n="a"/>
+       <lb ed="#B" n="1"/>ea Tartati &amp; alii excusati a cultu latriae: cum summum 
+   <lb ed="#B" n="2"/>cultum illi tribuant: cui tribuere non deberent: sed 
+   <lb ed="#B" n="3"/>tenentur sapientum monitis acquiescere. Pronunc 
+   <lb ed="#B" n="4"/>supponitur quod corpus Christi est colendum cultu la 
+   <lb ed="#B" n="5"/>triae &amp; non hyperduliae: licet difficultas sit verba 
+   <lb ed="#B" n="6"/>lis: vt in nona distinctione tertii prolixius
+   dedu<lb ed="#B" n="7" break="no"/>cemus: &amp; sic crux Christi &amp; species assistentes in  
+   <lb ed="#B" n="8"/>Eucharistia coli possunt. plebs tamen non tenetu 
+   <lb ed="#B" n="9"/>exacte scire distinctionem inter corpus Christi &amp; 
+   <lb ed="#B" n="10"/>species. Contra hoc arguitur. dicitur quod sacerdos 
+   <lb ed="#B" n="11"/>debet consecrare: &amp; non leuare hostiam non
+   conse<lb ed="#B" n="12" break="no"/>cratam: ne populum ad idololatriam cogat: &amp; per 
+   <lb ed="#B" n="13"/>consequens categorice adorans si cultu latriae
+   co<lb ed="#B" n="14" break="no"/>lat panem, peccat. Respondetur. de communi mo 
+   <lb ed="#B" n="15"/>do loquendi non est vis. Sacerdos enim dat occasio 
+   <lb ed="#B" n="16"/>nem populo quantum est de se. hoc est male agit: &amp; 
+   <lb ed="#B" n="17"/>populum priuat a suffragio debito: nec in sacramen 
+   <lb ed="#B" n="18"/>to veritatis dolo &amp; fictione vti debet. populus au 
+   <lb ed="#B" n="19"/>tem non peccat. quo fit quod creatura pura vt panis,  
+   <lb ed="#B" n="20"/>obiectum materiale latriae: non autem formale: hor 
+   <lb ed="#B" n="21"/>est dicere: illum cultum panis terminat: sed corpus 
+   <lb ed="#B" n="22"/>Christi est obiectum formale: hoc est gratia &amp; ca 
+   <lb ed="#B" n="23"/>talis cultus: quo colitur hoc contentum sub speciebus: 
+   <lb ed="#B" n="24"/>obiectum inquam formale de per accidens. deus au 
+   <lb ed="#B" n="25"/>tem est obiectum formale per se: &amp; radicale. 
+  </p>
+      <p xml:id="jMqv4a-d1e317-d1e567">
+       <lb ed="#B" n="26"/>⁋ Quarto arguitur. Si eucharistia 
+   <lb ed="#B" n="27"/>esset adoranda categorice cultu latriae: sequeretur quod 
+   <lb ed="#B" n="28"/>etiam corpus sortis esset adorandum cultu latria 
+   <lb ed="#B" n="29"/>categorice. consequens est inconveniens &amp; nusquam pra 
+   <lb ed="#B" n="30"/>cticatur. declaro consequentiam. posito quod nunc sor 
+   <lb ed="#B" n="31"/>tes sumpsit Eucharistia: saltem debemus
+   euchari<lb ed="#B" n="32" break="no"/>stiam in eius stomacho adorare quam constat esse in  
+   <lb ed="#B" n="33"/>eo: sicut adoramus eucharistiam in pyxide delatam 
+   <lb ed="#B" n="34"/>per vrbem: &amp; ex consequente Sortem ratione illius 
+  </p>
+      <p xml:id="jMqv4a-d1e317-d1e589">
+       <lb ed="#B" n="35"/>⁋ Respondetur. hoc argumentum non est contra 
+   <lb ed="#B" n="36"/>conclusionem: sed quaerit vnum aliud: ad quod
+   di<lb ed="#B" n="37" break="no"/>co quod nec Sortes est adorandus, nec corpus Chri 
+   <lb ed="#B" n="38"/>sti in stomacho Sortis. Ad hoc primo est com 
+   <lb ed="#B" n="39"/>munis visus. Secundo nescitur quamdiu corpus Chr 
+   <lb ed="#B" n="40"/>sti illic maneat ob specierum alterationem. Tum 
+   <lb ed="#B" n="41"/>tertio dato quod constet: ne hominem adorare
+   videa<lb ed="#B" n="42" break="no"/>mur: corpus Christi non est illic adorandum
+   sal<lb ed="#B" n="43" break="no"/>tem exteriore adoratione: secus est de corpore 
+   <lb ed="#B" n="44"/>Christi in pyxide: quia palam est quod pyxidem nor 
+   <lb ed="#B" n="45"/>ndoramus.
+  </p>
+      <p xml:id="jMqv4a-d1e317-d1e615">
+   ⁋ Ex istis omnibus patet quod corpus 
+   <lb ed="#B" n="46"/>Christi est categorice in eucharistia adorandum 
+   <lb ed="#B" n="47"/>nec adorare panem tamquam obiectum materiale ex igno 
+   <lb ed="#B" n="48"/>rantia inuincibili sufficienter arguit idololatrian 
+   <lb ed="#B" n="49"/>immo latriam infert. secus est ex ignorantia
+   vinci<lb ed="#B" n="50" break="no"/>bili: crassa, vel supina. Stat insuper credere &amp; vel 
+   <lb ed="#B" n="51"/>le adorare corpus Christi: &amp; panem adorare: sed non 
+   <lb ed="#B" n="52"/>adorare panem. Adoro enim importat actum volun 
+   <lb ed="#B" n="53"/>tatis: &amp; propriam facit praecise appellationem, non autem 
+   <lb ed="#B" n="54"/>quando praecedit: sed sub disiunctione ad alias ratio 
+   <!--0152.xml-->
+   <cb ed="#B" n="b"/> 
+       <!-- 60-v b -->
+       <lb ed="#B" n="55"/>nes appellat. Vlterius patet istam non esse de
+   fide<lb ed="#B" n="56" break="no"/>corpus Christi continet sub hac hostia: sed
+   assen<lb ed="#B" n="57" break="no"/>sus eius est certus certitudine morali: quae errori in  
+   <lb ed="#B" n="58"/>terdum non repugnat. Ista autem conditionalis bene 
+   <lb ed="#B" n="59"/>est de fide. si sacerdos dixit verba sufficientia super 
+   <lb ed="#B" n="60"/>hac materia debita cum intentione debita, illic est
+   cor<lb ed="#B" n="61" break="no"/>pus Christi. In super quando est apparitio insolita al 
+   <lb ed="#B" n="62"/>cuius colendi: suspendendus est assensus credendi cum 
+   <lb ed="#B" n="63"/>actu voluntatis quousque de illo complete doceatur 
+   <lb ed="#B" n="64"/>secus est de Eucharistia consueta. Et forte similis 
+   <lb ed="#B" n="65"/>difficultas poterat contingere dum Christus erat 
+   <lb ed="#B" n="66"/>viator: vt si alicui ignoto contigisset Christum vide 
+   <lb ed="#B" n="67"/>re. deinde si tali aduenienti Iacobus Alphei loco 
+   <lb ed="#B" n="68"/>Christi ab aliquibus putatis probis ostensus
+   fuis<lb ed="#B" n="69" break="no"/>set: non peccasset <name xml:id="jMqv4a-d1e317-Nd1e675">Iacobum</name> colens. secus est
+   nunc<lb ed="#B" n="70" break="no"/>Et persimilis difficultas verti potest de sanguine mi 
+   <lb ed="#B" n="71"/>raculoso in terra, quando est probabile dubium 
+   <lb ed="#B" n="72"/>an realiter sit sanguis Christi. Quamdiu eni est tale dubium 
+   <lb ed="#B" n="73"/>debs actualiter conditionaliter adorari cultu latrit 
+   <lb ed="#B" n="74"/>quando autem sufficienter constat ber non citra certitudinem fi 
+   <lb ed="#B" n="75"/>dei, quod sit sanguis Christi: non amplius est ponen 
+   <lb ed="#B" n="76"/>da conditio actualis, sed tacita.
+  </p>
+    </div>
+   </body>
+  </text>
+</TEI>

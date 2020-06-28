@@ -1,0 +1,325 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 2</title>
+      <author ref="#JohnMair">John Mair</author>
+      <respStmt>
+       <name>Jeffrey C. Witt</name>
+       <resp>TEI Encoder</resp>
+      </respStmt>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 2</title>
+       <date when="2020-06-09">June 27, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="B" n="cod-Bda113">Badius 1516</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+     guidelines for a diplomatic edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-06-27" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+      <pb ed="#B" n="201-r"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="jMqv4a-d1e1071"> <!-- l4d21q2 -->
+      <head xml:id="jMqv4a-d1e1071-Hd1e104">Quaestio 2</head>
+      <head xml:id="jMqv4a-d1e1071-Hd1e107" type="question-title">An sigillum secret sit omni modo servandum</head>
+      <p xml:id="jMqv4a-d1e1071-d1e110">
+       <lb ed="#B" n="72"/>⁋ Distinctionis Vigesimae primae 
+   <lb ed="#B" n="73"/>Quaestio Secunda. 
+   <lb ed="#B" n="74"/>Ecundo loco in hac 
+   <lb ed="#B" n="75"/>distinctione quaero: an sigillum 
+   <lb ed="#B" n="76"/>ecreti sit omi modo seruandum. 
+   <lb ed="#B" n="77"/>Pro quaestionis solutione
+   sci<lb ed="#B" n="78" break="no"/>to hoc complexum (sigillum se 
+   <lb ed="#B" n="79"/>creti) esse superius ad hoc con 
+   <lb ed="#B" n="80"/>quam plexum (sigillu confessionis) 
+   <lb ed="#B" n="81"/>nam omne sigillum confessionis est sigillum secreti: &amp; 
+   <lb ed="#B" n="82"/>non contra.
+  </p>
+      <p xml:id="jMqv4a-d1e1071-d1e136">
+   ⁋ Hoc praemisso respondetur affirmatiue 
+   <lb ed="#B" n="83"/>ad quaestionem, &amp; quod tale secretum reuelans, peccat. Pro 
+   <lb ed="#B" n="84"/>batur sic. quicumque contrauenit iuri naturae peccat:  
+   <lb ed="#B" n="85"/>eruare secretum proximi est de iure naturae, pariter 
+   <lb ed="#B" n="86"/>&amp; diuino. nam Matth. vii. scribitur. Omnia quicunque 
+   <lb ed="#B" n="87"/>vultis &amp;c. hoc est, nemo debet alteri facere quod no 
+   <lb ed="#B" n="88"/>lit sibi fieri. sed nemo vellet peccatum suum secretum 
+   <lb ed="#B" n="89"/>alteri detegi. igitur. Praeterea Prouerb. xi. dicitur. 
+   <lb ed="#B" n="90"/>Qui ambulat fraudulenter reuelat arcana: qui 
+   <lb ed="#B" n="91"/>autem fidelis est, celat amici commissum. &amp;
+   recita<lb ed="#B" n="92" break="no"/>tur. v. qui. v. Qui ambulat.
+  </p>
+      <p xml:id="jMqv4a-d1e1071-d1e161">
+   ⁋ Ex conclusione sequi 
+   <lb ed="#B" n="93"/>tur quod secretu omne fratris cuius reuelatio est in  
+   <lb ed="#B" n="94"/>eius dedecus, est seruandum. intelligo secundum dicenda 
+   <lb ed="#B" n="95"/>in argumentorum solutionibus. siue dicat, recito ti 
+   <lb ed="#B" n="96"/>bi haec sub sigillo confessionis: siue non. sed si sic 
+   <lb ed="#B" n="97"/>dicat, reuelando peccatum est maius. nam promisi 
+   <lb ed="#B" n="98"/>ei vel verbo tacere vel virtualiter nutu: siue sit vi 
+   <lb ed="#B" n="99"/>tium naturae: siue vitium animae ab hominis
+   vo<lb ed="#B" n="100" break="no"/>luntate dependens: siue verum siue falsum non re 
+   <lb ed="#B" n="101"/>fert.
+  </p>
+      <p xml:id="jMqv4a-d1e1071-d1e183">
+   ⁋ Secundo sequitur quod si reperiam libellum in  
+   <lb ed="#B" n="102"/>quo quis scripsit sua peccata: &amp; illum alicui
+   alte<lb ed="#B" n="103" break="no"/>ri communicem, pecco: &amp; debeo illum libellum vbi 
+   <lb ed="#B" n="104"/>scriptor non occurrit lacerare tamquam famosum: vt 
+   <lb ed="#B" n="105"/>C. de libel. famo. l. Si quis famosum. &amp;. v. qi. ca. 
+   <lb ed="#B" n="106"/>Si qui. immo si in libelli principio constet de
+   se<lb ed="#B" n="107" break="no"/>creto: mortaliter pecco si ipse legam.
+  </p>
+      <p xml:id="jMqv4a-d1e1071-d1e199">
+   ⁋ Tertio 
+   <lb ed="#B" n="108"/>sequitur quod grauiter peccant illi versipelles curia: 
+   <!--0434.xml-->
+   <pb ed="#B" n="201-v"/>
+       <cb ed="#B" n="a"/>
+       <lb ed="#B" n="1"/>les aliorum literas secretas aperiendo: &amp; quiuis aliii 
+   <lb ed="#B" n="2"/>nisi habeant consensum interpretatiuum eorum ad  
+   <lb ed="#B" n="3"/>quos spectant.
+  </p>
+      <p xml:id="jMqv4a-d1e1071-d1e217">
+   ⁋ Quarto sequitur quod nemo
+   de<lb ed="#B" n="4" break="no"/>bet peccatum suum secretum extra confessionem 
+   <lb ed="#B" n="5"/>propalare. probatur: quia nomo debet peccatum 
+   <lb ed="#B" n="6"/>proximi secretum reserare: ergo nec suum ipsius. 
+   <lb ed="#B" n="7"/>enet consequentia: quia dato opposito cosequen 
+   <lb ed="#B" n="8"/>tis cum antecedente: sequitur haec absurditas: quod 
+   <lb ed="#B" n="9"/>aliquis plus tenetur diligere proximum quam seipsum. 
+   <lb ed="#B" n="10"/>quod est falsum. nam dicitur. ix. Ethicorum.
+   Amica<lb ed="#B" n="11" break="no"/>bilia ad alterum, referuntur ad amicabilia in ordine 
+   <lb ed="#B" n="12"/>ad nos. &amp; dilectio suiipsius est mensura
+   dilectio<lb ed="#B" n="13" break="no"/>nis proximi. Hinc praecipit Saluator noster dicens 
+   <lb ed="#B" n="14"/>Diliges proximum tuum sicut teipsum. In super
+   pec<lb ed="#B" n="15" break="no"/>cat qui bona sua propria dissipat: vtpote
+   proii<lb ed="#B" n="16" break="no"/>ciens triticum in aquam: vel domum propriam 
+   <lb ed="#B" n="17"/>comburens sine necessitate &amp; vtilitate, non
+   lice<lb ed="#B" n="18" break="no"/>bit ergo famam quae haec bona exuperat, contemne 
+   <lb ed="#B" n="19"/>re &amp; eneruare. 
+  </p>
+      <p xml:id="jMqv4a-d1e1071-d1e254">
+       <lb ed="#B" n="20"/>⁋ Contra hanc conclusionem
+   argui<lb ed="#B" n="21" break="no"/>tur sic. scio in secreto Sortem vrbem hostibus
+   tra<lb ed="#B" n="22" break="no"/>diturum, vel pestiferam haeresim sparsurum in vu 
+   <lb ed="#B" n="23"/>gus. sed si no liceat peccatum occultum istius in secre 
+   <lb ed="#B" n="24"/>to acceptum prodere: vrbs tradetur hostibus: &amp; 
+   <lb ed="#B" n="25"/>multi innocentes occidentur. contra id quod Prouerb. 
+   <lb ed="#B" n="26"/>xxiiii. scribitur. Erue eos qui ducuntur ad mortem: 
+   <lb ed="#B" n="27"/>&amp; qui trahuntur ad interitum liberare ne cesses.
+   ca<lb ed="#B" n="28" break="no"/>stae mulieres stuprabuntur: &amp; multa alia flagitia per 
+   <lb ed="#B" n="29"/>petrabuntur. magis autem obligor istis periculis oc 
+   <lb ed="#B" n="30"/>currere, quam non reserare secretum istius mali viri. 
+   <lb ed="#B" n="31"/>igitur.
+  </p>
+      <p xml:id="jMqv4a-d1e1071-d1e283">
+   ⁋ Respondetur. argumentum sufficienter
+   pro<lb ed="#B" n="32" break="no"/>bat, seruare secretum non esse de iure naturae in omnem 
+   <lb ed="#B" n="33"/>euentum. immo nullo modo est praeceptum quan 
+   <lb ed="#B" n="34"/>do fortius vinculum superuenit ad oppositum
+   obli<lb ed="#B" n="35" break="no"/>gatorium. vt in proposito. &amp; habetur. xxii. qui. v.
+   ca<lb ed="#B" n="36" break="no"/>Hoc videtur. si tamen possim persuadere ei vt
+   de<lb ed="#B" n="37" break="no"/>sistat a proposito suo concepto: teneor eius peccatum 
+   <lb ed="#B" n="38"/>secretum seruare: nam sic aliis sufficienter
+   succur<lb ed="#B" n="39" break="no"/>ro: immo sic vtrumque praeceptum seruo. sed vbi non 
+   <lb ed="#B" n="40"/>possum: superiorem adibo, &amp; istum sceleratum non 
+   <lb ed="#B" n="41"/>minatim manifestabo: etiam si iuteiurando affir 
+   <lb ed="#B" n="42"/>massem ei seruare omnia quae mihi dixerit
+   secre<lb ed="#B" n="43" break="no"/>ta: &amp; postea mihi mentem suam de concepto scelere 
+   <lb ed="#B" n="44"/>aperuisset: quia intelligitur iuramentum meum: nisi 
+   <lb ed="#B" n="45"/>fortiori vinculo obliger ad manifestandum. sed si 
+   <lb ed="#B" n="46"/>iurarem ei post sceleris manifestationem me illud 
+   <lb ed="#B" n="47"/>nemini proditurum: incaute iurarem: &amp; per
+   conse<lb ed="#B" n="48" break="no"/>quens non obligater illud iuramentum seruare. Ex 
+   <lb ed="#B" n="49"/>quo patet per locum ab oppositis, quod si religiosus 
+   <lb ed="#B" n="50"/>sciat peccatum occultum fratris sui quod nec tendit 
+   <lb ed="#B" n="51"/>n damnum corporale nec spirituale aliorum: non 
+   <lb ed="#B" n="52"/>debet illud abbati etiam praecipienti sub poena ex 
+   <lb ed="#B" n="53"/>communicationis detegere.
+  </p>
+      <p xml:id="jMqv4a-d1e1071-d1e334">
+   ⁋ Secundo arguitur. si 
+   <lb ed="#B" n="54"/>sim interrogatus super occulto peccato Sortis 
+   <!--0434.xml-->
+   <cb ed="#B" n="b"/> 
+       <!-- 201-v b -->
+       <lb ed="#B" n="55"/>quod solus scio, a iudice: &amp; iurem dicere veritatem: 
+   <lb ed="#B" n="56"/>teneor tunc propalare peccatum occultum Sortis. 
+   <lb ed="#B" n="57"/>luxta illud quod scribitur Leuitici. v. Si peccauerit 
+   <lb ed="#B" n="58"/>anima, &amp; audierit vocem iurantis, testisque fuerit 
+   <lb ed="#B" n="59"/>quod ipse vidit, aut conscius est, nisi indicauerit
+   por<lb ed="#B" n="60" break="no"/>tabit iniquitatem suam. vbi <name xml:id="jMqv4a-d1e1071-Nd1e357">Nicolaus Lyranus</name>
+   di<lb ed="#B" n="61" break="no"/>cit. in Hebraeo habetur. Si audierit vocem iurati:  
+   <lb ed="#B" n="62"/>qua scilicet adiuratur dicere veritatem.
+  </p>
+      <p xml:id="jMqv4a-d1e1071-d1e366">
+   ⁋
+   Respon<lb ed="#B" n="63" break="no"/>detur sicut dicit <name xml:id="jMqv4a-d1e1071-Nd1e370">Nicolaus</name>: illic est sermo de
+   iudi<lb ed="#B" n="64" break="no"/>cio exteriori: &amp; per consequens peccatum non est 
+   <lb ed="#B" n="65"/>penitus occultum. si enim sit peccatum penitus oc 
+   <lb ed="#B" n="66"/>cultum, quod ego sciam solus: dicam iudici quod
+   transcen<lb ed="#B" n="67" break="no"/>dit rationis limites talia quaerendo. &amp; licet dicam me 
+   <lb ed="#B" n="68"/>nihil super hoc scire: intelligens in mente ad ei si 
+   <lb ed="#B" n="69"/>gnificandum: non pecco nec mentior: nec proprit 
+   <lb ed="#B" n="70"/>fallo. quod non mentiar patet sic: solus ille mentitur 
+   <lb ed="#B" n="71"/>qui vnum ore vel scripto enunciat: aliud habens in 
+   <lb ed="#B" n="72"/>mente. &amp; vt vulgo dicitur, mentiri est contra mem 
+   <lb ed="#B" n="73"/>tem ire. qualiter tamen hoc sit verum, alibi tangitur. 
+   <lb ed="#B" n="74"/>sed ille assentitur sicut profert cum expressione 
+   <lb ed="#B" n="75"/>quam addit in mente. Et eodem modo potest
+   respon<lb ed="#B" n="76" break="no"/>dere religiosus patri abbati quaerenti in casu
+   corol<lb ed="#B" n="77" break="no"/>larii in fine argumenti praecedentis illati. Quia non 
+   <lb ed="#B" n="78"/>fallat proprie, patet: quia fallere vt in primo dixi 
+   <lb ed="#B" n="79"/>mus, deformitatem importat: &amp; propterea dicens 
+   <lb ed="#B" n="80"/>quod licite dicere potest non fallit. quo modo Iacob 
+   <lb ed="#B" n="81"/>non fefellit: sed pater seipsum fefellit.
+  </p>
+      <p xml:id="jMqv4a-d1e1071-d1e413">
+   ⁋ Tertio 
+   <lb ed="#B" n="82"/>arguitur. vulgariter fertur excommunicatio in omnes. 
+   <lb ed="#B" n="83"/>qui sciunt impedimentum affinitatis vel consan 
+   <lb ed="#B" n="84"/>guinitatis inter matrimonio coniungendos: vt in  
+   <lb ed="#B" n="85"/>ecclesia audis. sed interdum non potest impedimen 
+   <lb ed="#B" n="86"/>tum ostendi nisi detegatur peccatum occultum
+   for<lb ed="#B" n="87" break="no"/>nicationis sponsi vel sponse: ergo in illo casu
+   te<lb ed="#B" n="88" break="no"/>neor peccatum occultum sponsi vel sponsae prodere- 
+  </p>
+      <p xml:id="jMqv4a-d1e1071-d1e431">
+       <lb ed="#B" n="89"/>⁋ Respondetur. si sciam tale impedimetum, de 
+   <lb ed="#B" n="90"/>beo secrete adire illum qui peccatum commisit: &amp;
+   di<lb ed="#B" n="91" break="no"/>cere ei seorsum aliis insciis peccatum illud gratia 
+   <lb ed="#B" n="92"/>cuius inter eum &amp; Bertam non potest esse
+   matrimo<lb ed="#B" n="93" break="no"/>nium ob affinitatem talem vel talem. si Berta crimen 
+   <lb ed="#B" n="94"/>commisit: id idem ei in secreto aperiam. forte enim ipsa 
+   <lb ed="#B" n="95"/>credit quod hoc matrimonio ante dispensationem 
+   <lb ed="#B" n="96"/>non repugnat. quod si a matrimonio desistere nolu 
+   <lb ed="#B" n="97"/>erit: crimen occultum dicam superiori vel illi qui
+   po<lb ed="#B" n="98" break="no"/>test matrimonium contrahendum impedire. &amp; hoc si 
+   <lb ed="#B" n="99"/>probare possim: alioquin quiescam. hoc autem fit ne 
+   <lb ed="#B" n="100"/>continuo maneant in peccato. quare rationabilem 
+   <lb ed="#B" n="101"/>causam habeo occultu peccatum stantibus his
+   cir<lb ed="#B" n="102" break="no"/>runstantiis detegendi: vt alia peccata impediam. 
+  </p>
+      <p xml:id="jMqv4a-d1e1071-d1e464">
+       <lb ed="#B" n="103"/>⁋ Quarto arguitur. mulier tenebatur peccatum 
+   <lb ed="#B" n="104"/>occultum xelotypiae reserare: vt praecipitur Numeri. v. 
+   <lb ed="#B" n="105"/>Nam cum mulier suspecta erat de adulterio, quod non 
+   <lb ed="#B" n="106"/>poterat aliunde in foro exteriore probari: maritus 
+   <lb ed="#B" n="107"/>eam ad sacerdotem adduxit: offerens pro illa
+   deci<lb ed="#B" n="108" break="no"/>mam partem sati farinae hordeaceae: nec imponi
+   de<lb ed="#B" n="109" break="no"/>buit thus neque oleum: quia sacrificium xelotypiae aest 
+   <!--0435.xml-->
+   <pb ed="#B" n="202-r"/>
+       <cb ed="#B" n="a"/>
+       <lb ed="#B" n="1"/>&amp; oblatio inuestigans adulterium: ac debuit
+   sacer<lb ed="#B" n="2" break="no"/>dos scribere in libello maledicta in eam si polluta 
+   <lb ed="#B" n="3"/>fuisset &amp; commixta viro alieno: vt putrescat fe 
+   <lb ed="#B" n="4"/>mur &amp; tumens vterus disrumpatur: vt sit in exem 
+   <lb ed="#B" n="5"/>plum populo Israel.
+  </p>
+      <p xml:id="jMqv4a-d1e1071-d1e499">
+   ⁋ Respondetur. quia populus 
+   <lb ed="#B" n="6"/>ille quibusdam vitiis deditus erat: vt in proposito mu 
+   <lb ed="#B" n="7"/>lierum excessiuo amori, &amp; inordinato homicidio: 
+   <lb ed="#B" n="8"/>vt ex variis scripturae locis legimus: propterea 
+   <lb ed="#B" n="9"/>deus eis quo ad aliqua protempore illius legis
+   con<lb ed="#B" n="10" break="no"/>descendit. vt in proposito ne occiderentur vxores: ad 
+   <lb ed="#B" n="11"/>quas occidendas ob amorem inordinatum procliues 
+   <lb ed="#B" n="12"/>erant: hanc legem seruatam voluit, &amp; miraculose deus 
+   <lb ed="#B" n="13"/>illud peccatum detegebat. Nobis autem dedit leges 
+   <lb ed="#B" n="14"/>multas, scilicet naturae, quas in cordibus nostris 
+   <lb ed="#B" n="15"/>tamquam in silice sculpsit: ac alias positiuas leges: &amp; in  
+   <lb ed="#B" n="16"/>starum multis dispensauit: vt in homicidio
+   inno<lb ed="#B" n="17" break="no"/>centis Sansonis. ludicum. xvi. Sic in proposito de 
+   <lb ed="#B" n="18"/>peccato hoc occulto quod debuit a muliere reserati 
+   <lb ed="#B" n="19"/>muliere inquam Hebraea. aliarum enim nationum
+   mu<lb ed="#B" n="20" break="no"/>lieres etiam illo tempore ad hoc non obligabantur: 
+   <lb ed="#B" n="21"/>nec aliquae in mundo hodiemo die.
+  </p>
+      <p xml:id="jMqv4a-d1e1071-d1e537">
+   ⁋ Ecce quam
+   gra<lb ed="#B" n="22" break="no"/>ue sit peccatum / occultum fratris prodere: nisi vbi 
+   <lb ed="#B" n="23"/>homo habet praeceptum aliunde cui aliud praeceptum 
+   <lb ed="#B" n="24"/>cedere debet. Interdum tamen non est facile iudica 
+   <lb ed="#B" n="25"/>re quod preceptum alteri cedere debeat: nonnumquam
+   faci<lb ed="#B" n="26" break="no"/>le. vnde hoc dico: quod vtilitas mea vel proximi non 
+   <lb ed="#B" n="27"/>est causa sufficiens ad hoc vt peccatum occultum 
+   <lb ed="#B" n="28"/>fratris detegam, quod probo: quia non licet auferre 
+   <lb ed="#B" n="29"/>bona fortunae proximi ob meam vel proximi
+   vti<lb ed="#B" n="30" break="no"/>litatem: ergo nec famam. patet consequentia: quia
+   il<lb ed="#B" n="31" break="no"/>lis bonis praestat fama. antecedens manifestum est 
+   <lb ed="#B" n="32"/>ex <name xml:id="jMqv4a-d1e1071-Nd1e563" ref="#Augustine">Augustini</name> xiiii. qui. v. cap. Forte. &amp; ex Grego. i. q. i 
+   <lb ed="#B" n="33"/>cap. Non est putanda. Sed si prodere peccatum oc 
+   <lb ed="#B" n="34"/>cultum fratris sit necessarium pro salute spirituali 
+   <lb ed="#B" n="35"/>vel corporali aliorum innocentum: ne iniuste
+   oppri<lb ed="#B" n="36" break="no"/>mantur: possum illud reserare: vt in solutione
+   pri<lb ed="#B" n="37" break="no"/>mi diximus. Vlterius ex dictis in xv. distinctione 
+   <lb ed="#B" n="38"/>quaestione. xvi. sequitur. si socius meus &amp; ego im 
+   <lb ed="#B" n="39"/>posuimus Sorti aliquod falsum crimen: teneor 
+   <lb ed="#B" n="40"/>illud reuelare restituendo Sorti suam famam: &amp; per con 
+   <lb ed="#B" n="41"/>sequens reuelo occultum peccatum complicis mei.
+   ni<lb ed="#B" n="42" break="no"/>mirum proprium etiam pando. Praeterea sequitur. si so 
+   <lb ed="#B" n="43"/>lus sciam Sortem equum abstulisse: quod Platoni
+   im<lb ed="#B" n="44" break="no"/>ponitur: &amp; quod occidetur nisi peccatum occultum Sor 
+   <lb ed="#B" n="45"/>tis detegam: debeo illud manifestare: vt vitam
+   in<lb ed="#B" n="46" break="no"/>nocentis &amp; famam protegam. sic enim Daniel vitam 
+   <lb ed="#B" n="47"/>Susannae seruauit: occultum crimen sacerdotum
+   reue<lb ed="#B" n="48" break="no"/>lando. Danielis. xiii. ratio est. quia plus ponderam 
+   <lb ed="#B" n="49"/>da est innocentis vita: vel etiam bona fama, quam
+   no<lb ed="#B" n="50" break="no"/>centis. In super contingit dare occultum peccatorem
+   fa<lb ed="#B" n="51" break="no"/>ma indignum: cuius tamen peccata si detegam: iniu 
+   <lb ed="#B" n="52"/>ste ago. vt occultus haereticus est dignus qui bo 
+   <lb ed="#B" n="53"/>na perdat: &amp; tamen non possum ante sententiam datam 
+   <lb ed="#B" n="54"/>&amp; publicationem, eius bona auferre. Sequitur prae 
+   <lb ed="#B" n="55"/>terea ex solutione ad primum: quod si sit vnus vel
+   plu<lb ed="#B" n="56" break="no"/>a 
+   <!--0435.xml-->
+   <cb ed="#B" n="b"/> 
+       <!-- 202-r b -->
+       <lb ed="#B" n="57"/>res fures vel latrones incorrigibiles / possum eorum 
+   <lb ed="#B" n="58"/>furta &amp; latrocinia occulta reuelare vt innocentum 
+   <lb ed="#B" n="59"/>vitas protegam. secus si sint corrigibiles: vel constet 
+   <lb ed="#B" n="60"/>de correctione: nisi speciali ordine iuris seruato 
+   <lb ed="#B" n="61"/>de illis specialiter &amp; nominatim interroger: quia 
+   <lb ed="#B" n="62"/>iam teneor veritatem dicere. Vltimo notadum est quod 
+   <lb ed="#B" n="63"/>homo tenetur seruare famam personae cum qua
+   pecca<lb ed="#B" n="64" break="no"/>uit: nisi illius personae detectio requiratur ad peccati 
+   <lb ed="#B" n="65"/>roprii confessionem. Ratio est: nam alioquin
+   reuela<lb ed="#B" n="66" break="no"/>bit sine necessitate peccatum occultum proximi 
+   <lb ed="#B" n="67"/>quod est vetitum. 
+  </p>
+    </div>
+   </body>
+  </text>
+</TEI>

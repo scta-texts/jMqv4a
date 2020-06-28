@@ -1,0 +1,372 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 2</title>
+      <author ref="#JohnMair">John Mair</author>
+      <respStmt>
+       <name>Jeffrey C. Witt</name>
+       <resp>TEI Encoder</resp>
+      </respStmt>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 2</title>
+       <date when="2020-06-09">June 27, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="B" n="cod-Bda113">Badius 1516</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+     guidelines for a diplomatic edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-06-27" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+      <pb ed="#B" n="41-v"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="jMqv4a-d1e218"> <!-- l4d9q2 -->
+      <head xml:id="jMqv4a-d1e218-Hd1e104">Quaestio 2</head>
+      <head xml:id="jMqv4a-d1e218-Hd1e107" type="question-title">An in somno pollutus communicare possit</head>
+      <p xml:id="jMqv4a-d1e218-d1e110">
+       <lb ed="#B" n="21"/>N superiore
+   quae<lb ed="#B" n="22" break="no"/>stione loquuti sumus de
+   exi<lb ed="#B" n="23" break="no"/>stente in peccato mortali quod 
+   <lb ed="#B" n="24"/>indigne Eucharistiam sumit: 
+   <lb ed="#B" n="25"/>&amp; idem censeo de illo qui
+   erro<lb ed="#B" n="26" break="no"/>gggamnee se in mortali censet. sed 
+   <lb ed="#B" n="27"/>tmgaeu aum &amp; aliqui non existentes in
+   mor<lb ed="#B" n="28" break="no"/>tali peccato: non possunt communicare, vt diximus 
+   <lb ed="#B" n="29"/>de pueris &amp; amentibus. Pro quibus discernendis prae 
+   <lb ed="#B" n="30"/>mittitur hoc documentum de comunicare potentibus. 
+   <lb ed="#B" n="31"/>Ad hoc vt quis digne communicare possit: debet 
+   <lb ed="#B" n="32"/>esse viator, fidelis, mente praeditus, ieiunus ieiunio 
+   <lb ed="#B" n="33"/>naturae, non prohibitus, legitime confessus: non in  
+   <lb ed="#B" n="34"/>potentia propinqua euomere procliuis: non pollutus 
+   <lb ed="#B" n="35"/>in crimine non famosus: a ministro debito, &amp; tem 
+   <lb ed="#B" n="36"/>pore debito. Ante baptismum verum, nisi ex ignoram 
+   <lb ed="#B" n="37"/>tia inuincibili, nemini datur Eucharistia. Dicitur 
+   <lb ed="#B" n="38"/>mente praeditus) vt reuerenter hoc sacramentum
+   sume<lb ed="#B" n="39" break="no"/>re possit. Aliqui &amp; non illaudabiliter confitentur anno 
+   <lb ed="#B" n="40"/>antequam Eucharistiam sumant. (non prohibitus) potest 
+   <lb ed="#B" n="41"/>enim excommunicatus esse in gratia: quo non obstante 
+   <lb ed="#B" n="42"/>non debet Eucharistiam sumere. vel si appareat puer 
+   <lb ed="#B" n="43"/>in Eucharistia: habet prohibitionem sufficientem non
+   su<lb ed="#B" n="44" break="no"/>mendi. (legitime confessus) hoc communiter additur 
+   <lb ed="#B" n="45"/>Stat tamen dare casum in quo quis sine confessione
+   prae<lb ed="#B" n="46" break="no"/>uia celebrare potest cum contritione &amp; proposito
+   confiten<lb ed="#B" n="47" break="no"/>di pro loco &amp; tempore: vtpote si est curatus
+   celebra<lb ed="#B" n="48" break="no"/>turus solus in parochia quem tota plebs expectat 
+   <lb ed="#B" n="49"/>&amp; occurrit ei dum celebranturus est memoria
+   mor<lb ed="#B" n="50" break="no"/>talis peccati nondum confessi: nee habet praesentiam
+   sa<lb ed="#B" n="51" break="no"/>cerdoris: propter populi scandalum celebrare licite 
+   <lb ed="#B" n="52"/>potest. impleuit enim iam illud quod est de iure diui- 
+   <!--0114.xml-->
+   <cb ed="#B" n="b"/> 
+       <!-- 41-v b -->
+       <lb ed="#B" n="53"/>no. primae ad Corinthios. xi. Probet autem seipsum 
+   <lb ed="#B" n="54"/>homo. (in crimine non famosus) quare
+   histrioni<lb ed="#B" n="55" break="no"/>bus non est danda Eucharistia. de consecra. disti. ii. 
+   <lb ed="#B" n="56"/>Pro dilectione, non tamen est histrio prohibitus, qui 
+   <lb ed="#B" n="57"/>cithara, lyra, vel instrumento ludit, vel honeste ca 
+   <lb ed="#B" n="58"/>nit: sed qui gestus impudicos exercet, &amp;
+   obscoe<lb ed="#B" n="59" break="no"/>nos cantus piarum aurium offensiuos frequenter can 
+   <lb ed="#B" n="60"/>tat. Idem est de famosa muliere, &amp; de quolibet alio 
+   <lb ed="#B" n="61"/>notorio crimine infecto. Nec sufficit tales esse in  
+   <lb ed="#B" n="62"/>gratia: sed cum hoc requiritur quod laudabiliter aliquan 
+   <lb ed="#B" n="63"/>to tempore secundum iudicium prudentis viuant, &amp; cri 
+   <lb ed="#B" n="64"/>men peaecedens purgent: &amp; tunc eis dabitur
+   Eucha<lb ed="#B" n="65" break="no"/>ristia. &amp; merentur expectando: interea autem non debent 
+   <lb ed="#B" n="66"/>se ingerere. Ex illo sequitur quod interdum vbi duo 
+   <lb ed="#B" n="67"/>aequaliter peccarunt tam intensiue quam extensiue, vni 
+   <lb ed="#B" n="68"/>danda est Eucharistia / &amp; non alteri. patet: si vnus oc 
+   <lb ed="#B" n="69"/>culte peccet, &amp; peccatum eius non sit notorium:
+   alte<lb ed="#B" n="70" break="no"/>rius vero sit notorium: &amp; ambo sintiam in gratia 
+  </p>
+      <p xml:id="jMqv4a-d1e218-d1e227">
+       <lb ed="#B" n="71"/>⁋ Secundo sequitur. licet manenti in prostibulo non 
+   <lb ed="#B" n="72"/>sit negandum sacramentum poenitentiae: tamen quo 
+   <lb ed="#B" n="73"/>usque suum crimen aboleat: non est ei danda
+   Eucha<lb ed="#B" n="74" break="no"/>ristia, &amp; potissimum in publico.
+  </p>
+      <p xml:id="jMqv4a-d1e218-d1e239">
+   ⁋ Tertio sequitur 
+   <lb ed="#B" n="75"/>quod decollandis danda est Eucharistia. patet per hanc 
+   <lb ed="#B" n="76"/>theoricam. cuilibet personae non prohibitae Eucharistiam 
+   <lb ed="#B" n="77"/>petenti danda est. aliquis decollandus est
+   huius<lb ed="#B" n="78" break="no"/>modi. igitur. minor patet: quia non enumeratur in  
+   <lb ed="#B" n="79"/>ter personas quas solas prohibitas iam diximus. 
+   <lb ed="#B" n="80"/>maior patet. Sicut in matrimonio cuius edictum 
+   <lb ed="#B" n="81"/>est prohibitorium, qualibet persona quae non prohibetur 
+   <lb ed="#B" n="82"/>contrahere, per cosequentiam ad matrimonium contra 
+   <lb ed="#B" n="83"/>hendum admittitur: sic quaelibet persona non prohibita 
+   <lb ed="#B" n="84"/>communicare, potest Eucharistiam sumere. Illd etiam 
+   <lb ed="#B" n="85"/>patet per aliam legem positiuam. xxvi. qui. vii. c. i. &amp; 
+   <lb ed="#B" n="86"/>dist. l. Poenitentes. &amp; in Cle. i. de poeni. &amp; remis. 
+   <lb ed="#B" n="87"/>Confessio, Eucharistia, &amp; sepultura non est eis
+   ne<lb ed="#B" n="88" break="no"/>ganda si petant. Ingredientibus autem duellum, cum ad 
+   <lb ed="#B" n="89"/>mortale notorium se accingant, non est danda
+   Eu<lb ed="#B" n="90" break="no"/>charistia. Aliae autem particulae sunt clarae: quae vl 
+   <lb ed="#B" n="91"/>teriori expositione non egent. Circa aliquas
+   ta<lb ed="#B" n="92" break="no"/>men est maior difficultas: propterea circa eas
+   pro<lb ed="#B" n="93" break="no"/>ponam quaestiones. 
+  </p>
+      <p xml:id="jMqv4a-d1e218-d1e283">
+       <lb ed="#B" n="94"/>⁋ Secunda ingitur quaestio huius
+   di<lb ed="#B" n="95" break="no"/>stinctionis sub hoc verborum tenore mouebitur. 
+   <lb ed="#B" n="96"/>An in somno pollutus communicare possit. Pro 
+   <lb ed="#B" n="97"/>huius quaestionis elucidatione notato. Multifariam quis 
+   <lb ed="#B" n="98"/>polluitur. Primo modo illusione diabolica. faci 
+   <lb ed="#B" n="99"/>le enim nouit daemon resolutionem seminis procreare: 
+   <lb ed="#B" n="100"/>&amp; ita saepicule fecisse memoriae proditum est: vt bo 
+   <lb ed="#B" n="101"/>nos viros in carnis foedo vitio irretiret: vel eos 
+   <lb ed="#B" n="102"/>saltem a communione Eucharistiae arceret. Secundo 
+   <lb ed="#B" n="103"/>quis infirmitate polluitur propter defectum retentiuae vir 
+   <lb ed="#B" n="104"/>tutis: quemadmodum contingit in aliquibus ventris
+   pro<lb ed="#B" n="105" break="no"/>fluuio laborantibus, pro aliquo tempore habentibus
+   re<lb ed="#B" n="106" break="no"/>tentiuam primae digestionis prostratam. vel etiam quia 
+   <!--0115.xml-->
+   <pb ed="#B" n="42-r"/>
+       <cb ed="#B" n="a"/>
+       <lb ed="#B" n="1"/>riatura expellit superfluitates inutiles in ieiunio 
+   <lb ed="#B" n="2"/>quas non expellit tepore ingluuiei. quare intemperan 
+   <lb ed="#B" n="3"/>tes &amp; ebrii, secundum <name xml:id="jMqv4a-d1e218-Nd1e326" ref="#Aristotle">Aristotele</name> in Problematibus, non 
+   <lb ed="#B" n="4"/>generant. Tertio modo prouenit pollutio ex
+   in<lb ed="#B" n="5" break="no"/>gluuie &amp; excessiuo cibo &amp; potu in notabili exoes 
+   <lb ed="#B" n="6"/>iu. Quarto modo prouenit ex magna apprehensione 
+   <lb ed="#B" n="7"/>venereorum: quorum reliquiae tempore noctumo habitua 
+   <lb ed="#B" n="8"/>liter manent in memoria reconditae: quae actus in somno 
+   <lb ed="#B" n="9"/>producentes resolutionem seminis efficiunt in viro 
+   <lb ed="#B" n="10"/>spermate abundante: potissimum si diu iam dormiuit 
+   <lb ed="#B" n="11"/>resupinus in loco calido: quia tunc est magis dispo 
+   <lb ed="#B" n="12"/>situs. parua enim venereorum imaginatio potest
+   semi<lb ed="#B" n="13" break="no"/>nis resolutionem efficere: si aliae multae causae
+   concur<lb ed="#B" n="14" break="no"/>rant. Sequitur ex his quod ille tertius modus polluendi 
+   <lb ed="#B" n="15"/>anecedenter potest omnino in nobis impediri: &amp; quartus 
+   <lb ed="#B" n="16"/>modus quo ad multa. Et licet abdomine plenis 
+   <lb ed="#B" n="17"/>&amp; habituatis difficile sit in latus dormire &amp; non in  
+   <lb ed="#B" n="18"/>renes: longum tamen somnum: vestium coopartionem multipli 
+   <lb ed="#B" n="19"/>cem &amp; calidam in sua ptante habent: quae ad pollutionem no 
+   <lb ed="#B" n="20"/>cturnam plurimum adminiculantur. Quod adiuncto vno 
+   <lb ed="#B" n="21"/>noto: vcs quod diu parce comedens parum polluitur, pa 
+   <lb ed="#B" n="22"/>tet. Natura enim capit primam partem cibi pro sui susteta 
+   <lb ed="#B" n="23"/>tione: &amp; stat quod vir no capiat plus de cibo quam suae 
+   <lb ed="#B" n="24"/>naturae sufficiat: tunc autem nullum superfluum tertiae
+   dige<lb ed="#B" n="25" break="no"/>stionis habebit. &amp; sic mulierem cognoscere non
+   po<lb ed="#B" n="26" break="no"/>terit: ergo nec pollui, quemadmodum Adam in sui 
+   <lb ed="#B" n="27"/>prima creatione ante cibum comestum non poterat 
+   <lb ed="#B" n="28"/>generare: quia in se non habebat superfluum. Sed licet 
+   <lb ed="#B" n="29"/>homo temperanter comedat: impurum primae digesti 
+   <lb ed="#B" n="30"/>onis ipsius alimenti natura expellet. &amp; sic de secudo.  
+   <lb ed="#B" n="31"/>Ex opposito traditur causa quare oportet coniuga 
+   <lb ed="#B" n="32"/>tum plus comedere quam continentem.
+  </p>
+      <p xml:id="jMqv4a-d1e218-d1e393">
+   ⁋ Secundo notato 
+   <lb ed="#B" n="33"/>duplicem esse pollutionem, quaedam est interior, quae nihil
+   ali<lb ed="#B" n="34" break="no"/>ud est quam volitio polluendi. Alia est exterior, quam 
+   <lb ed="#B" n="35"/>nihil aliud censeo esse nisi ipsum semen resolutum. vt 
+   <lb ed="#B" n="36"/>quando homo resupinus dormit: quia tunc secundum  
+   <lb ed="#B" n="37"/>Aristotelem decima particula problematum, proble 
+   <lb ed="#B" n="38"/>mate. xvi. maxime homo polluitur. 
+  </p>
+      <p xml:id="jMqv4a-d1e218-d1e409">
+       <lb ed="#B" n="39"/>⁋ His praemissis pono conclusiones 
+   <lb ed="#B" n="40"/>quarum Prima est. nulla pollutio sola illusione dae 
+   <lb ed="#B" n="41"/>monis: vel ex infirmitate naturae procedens, est viro 
+   <lb ed="#B" n="42"/>imputabilis in somno. probatur. talis pollutio non 
+   <lb ed="#B" n="43"/>est in potestate hominis tempore resolutionis seminis 
+   <lb ed="#B" n="44"/>nec antecedenter, cum non sit in potestate eius.
+  </p>
+      <p xml:id="jMqv4a-d1e218-d1e425">
+   ⁋
+   Se<lb ed="#B" n="45" break="no"/>cunda conclusio. Nulla pollutio nocturna ex qua 
+   <lb ed="#B" n="46"/>cumque culpa procedens emendata per poenitentiam est vi 
+   <lb ed="#B" n="47"/>ratio imputabilis. Probatur. Sortes descendens in fouean 
+   <lb ed="#B" n="48"/>ne dmino seruitium reddat, non potens egredi: a tempore 
+   <lb ed="#B" n="49"/>quo poenituit eum illius descensus: non amplius pec 
+   <lb ed="#B" n="50"/>cat. quia non est in potestate eius iam egredi. Secundo 
+   <lb ed="#B" n="51"/>arguitur ad idem. si presbyter breuiarium calore
+   iracun<lb ed="#B" n="52" break="no"/>diae / vel ad taxillos perdat, non potens habere librum 
+   <lb ed="#B" n="53"/>ad horas dicendas: postquam eum facti poenituit: non 
+   <lb ed="#B" n="54"/>amplius peccat. ergo nec ille pollutus.
+  </p>
+      <p xml:id="jMqv4a-d1e218-d1e449">
+   ⁋ Tertia 
+   <!--0115.xml-->
+   <cb ed="#B" n="b"/> 
+       <!-- 42-r b -->
+       <lb ed="#B" n="55"/>conclusio. nullus in somno dormiens / pollutus ex 
+   <lb ed="#B" n="56"/>quacumque culpa praecedenti etiam non emendata per
+   poeni<lb ed="#B" n="57" break="no"/>tentiam / peccat. probatur. nullus peccat tempore quo 
+   <lb ed="#B" n="58"/>dormit quicquod agat: ergo pollutio ei tunc non
+   impu<lb ed="#B" n="59" break="no"/>tatur. Antecedens patet. non aliter brutum vel annos 
+   <lb ed="#B" n="60"/>discretionis nondum attingens omnis peccati dicitur 
+   <lb ed="#B" n="61"/>expers. Si dicas. habet rationalem animam. hoc nihil 
+   <lb ed="#B" n="62"/>est. sic habet ebrius: &amp; demens sine culpa. sed suf 
+   <lb ed="#B" n="63"/>ficit quod in somno ratione non vtitur: quae ad liberum 
+   <lb ed="#B" n="64"/>arbitrium requiritur: dato quod discurrat tam in sensu quam 
+   <lb ed="#B" n="65"/>in intellectu. Cui rei <name xml:id="jMqv4a-d1e218-Nd1e481" ref="#Aristotle">Aristoteles</name> primo Ethicorum 
+   <lb ed="#B" n="66"/>astipulatur inquiens. Secundum dimidium vitae non dif 
+   <lb ed="#B" n="67"/>fert felix a mulsero, neque studiosus a vitioso. sed  
+   <lb ed="#B" n="68"/>si in somno esset peccatum: multum differrent. igitur. 
+   <lb ed="#B" n="69"/>Secundo arguitur ad idem. nullus ex bona &amp;
+   lauda<lb ed="#B" n="70" break="no"/>bili cogitatione venereorum tempore noctumo pollutus 
+   <lb ed="#B" n="71"/>meretur. ergo nec pollutus ex apprehensione culpa 
+   <lb ed="#B" n="72"/>pili demeretur. quod aliqua possit esse laudabilis, patet 
+   <lb ed="#B" n="73"/>de scribente vel concionaturo postridie de peccato 
+   <lb ed="#B" n="74"/>carnis in eius foeditatem &amp; detestationem. Tertio at 
+   <lb ed="#B" n="75"/>guitur. impossibile est quod peccator vnico peccato, 
+   <lb ed="#B" n="76"/>efficiatur peccator pluribus peccatis per aliquod mere 
+   <lb ed="#B" n="77"/>naturale: quod non est in potestate sua. sed ille post 
+   <lb ed="#B" n="78"/>apprehensionem culpabilem vel excessiuum cibum est solum 
+   <lb ed="#B" n="79"/>peccator vnico peccato: ergo si post resolutionem 
+   <lb ed="#B" n="80"/>seminis efficiatur in duplici peccato: hoc erit per
+   ali<lb ed="#B" n="81" break="no"/>quod mere naturale quod non est in potestate eius. Et 
+   <lb ed="#B" n="82"/>si ponas, quod antequam iret dormitum: erat peccator du 
+   <lb ed="#B" n="83"/>plici peccato. tunc cape hanc maiorem. impossibile est quod 
+   <lb ed="#B" n="84"/>peccator duplici peccato sit peccator triplici pec 
+   <lb ed="#B" n="85"/>cato per aliquod mere naturale, quod non est in potestate 
+   <lb ed="#B" n="86"/>sua. Haec propositio in dicendis de ebrietate distinctione 
+   <lb ed="#B" n="87"/>xvii. huius tangetur: quia est eadem difficultas: sic scilice 
+   <lb ed="#B" n="88"/>quod qui tenet pollutionem nocturmam ex culpa prouenien 
+   <lb ed="#B" n="89"/>te non esse imputabilem: &amp; ebrietatis culpabilis facta 
+   <lb ed="#B" n="90"/>esse imputabilia: acies oppositas in se molitur.
+  </p>
+      <p xml:id="jMqv4a-d1e218-d1e540">
+   ⁋ Quar 
+   <lb ed="#B" n="91"/>ta conclusio, non omnis pollutio nocturna orta ex 
+   <lb ed="#B" n="92"/>actu culpabili: quid est volitio vel desiderium illius, etiam 
+   <lb ed="#B" n="93"/>non emendata per poenitentiam: est culpabilis. hoc est. si co 
+   <lb ed="#B" n="94"/>gitem de libidine vt polluar in nocte: per hoc quod
+   no<lb ed="#B" n="95" break="no"/>ctumo tempore polluor, non pecco nouo peccato. Et li 
+   <lb ed="#B" n="96"/>cet dicam non omnis pollutio) intelligo more loquendi 
+   <lb ed="#B" n="97"/>eorum qui tenent contradictorium huius: nulla &amp;c. vt pa 
+   <lb ed="#B" n="98"/>tebit per probationes. hoc dixerim propter aliquos qui 
+   <lb ed="#B" n="99"/>verborum corticem &amp; non mentem loquentium vel scribentiu 
+   <lb ed="#B" n="100"/>considerant. Patet haec conclusio per primam rationem ad  
+   <lb ed="#B" n="101"/>conclusionem praecedentem in forma. Et patet per aliam rationem 
+   <lb ed="#B" n="102"/>habeant Sortes &amp; Plato similes volitiones
+   pollu<lb ed="#B" n="103" break="no"/>endi quando vadunt dormitum: iam sunt in aequali 
+   <lb ed="#B" n="104"/>peccato. polluatur Sortes &amp; non Plato: tunc si Sor 
+   <lb ed="#B" n="105"/>tes post pollutionem sit in alio peccato quam erat quan 
+   <lb ed="#B" n="106"/>do iuit cubitum: aliquis per aliquod mere naturale 
+   <lb ed="#B" n="107"/>quod non est in sua potestate peccabit. Secundo. omnes 
+   <lb ed="#B" n="108"/>actus interiores in istis sunt aequales: &amp; actus ex 
+   <lb ed="#B" n="109"/>terior nihil malitiae actui interiori superaddit per 
+   <!--0116.xml-->
+   <pb ed="#B" n="42-v"/>
+       <cb ed="#B" n="a"/>
+       <lb ed="#B" n="1"/>te. igitur.
+  </p>
+      <p xml:id="jMqv4a-d1e218-d1e592">
+   ⁋ Quinta conclusio. licet pollutio
+   no<lb ed="#B" n="2" break="no"/>cturma non sit peccatum vllum: tamen crebro est signum
+   pec<lb ed="#B" n="3" break="no"/>cat i praecedentis: vel occasio peccati sequentis. Haec 
+   <lb ed="#B" n="4"/>conclusio habet tres partes: quarum prima ex
+   conclusi<lb ed="#B" n="5" break="no"/>onibus praecedentibus iamia patuit. Vltima pars etiam 
+   <lb ed="#B" n="6"/>patet per malos habitus remanentes. Secunda autem 
+   <lb ed="#B" n="7"/>pars probatur. Sancti dissuaserunt communicare die
+   se<lb ed="#B" n="8" break="no"/>quenti pollutionem nocturnam. vt patet in. c. te 
+   <lb ed="#B" n="9"/>stamentum. vi. distinctione. &amp; in. c. Non est. Et hoc non  
+   <lb ed="#B" n="10"/>est nisi quia pollutio nocturna coinquinat animum 
+   <lb ed="#B" n="11"/>&amp; ipsum illaqueat impudice: igitur.
+  </p>
+      <p xml:id="jMqv4a-d1e218-d1e616">
+   ⁋ Sexta
+   conclu<lb ed="#B" n="12" break="no"/>sio, nocturna pollutio non impedit virum a commu 
+   <lb ed="#B" n="13"/>nione. probat. vel impediret quia est peccatum: &amp; hoc 
+   <lb ed="#B" n="14"/>non ex tertia conclusione: vel quia a peccato procedit 
+   <lb ed="#B" n="15"/>&amp; ab eo originem ducit: &amp; hoc non: quia ex illo sequitur 
+   <lb ed="#B" n="16"/>quod post nullum peccatum commissum liceret postridit 
+   <lb ed="#B" n="17"/>comunicare post poenitentiam. vel propter
+   prohibitio<lb ed="#B" n="18" break="no"/>nem naturalem, diuinam, vel humanam, non duo
+   prima<lb ed="#B" n="19" break="no"/>plus quam post alia peccata, nec ad hoc legem
+   huma<lb ed="#B" n="20" break="no"/>nam prohibitiuam sub poena peccati video. Secundo 
+   <lb ed="#B" n="21"/>arguitur ad idem. vel pollutio nocturna impedit a
+   ce<lb ed="#B" n="22" break="no"/>lebratione quia mentem habet pollutus inuolutam &amp; dis 
+   <lb ed="#B" n="23"/>tractam a diuinis: &amp; sic in quocumque peccato deberet 
+   <lb ed="#B" n="24"/>homo abstinere a communione: quod tamen non solent
+   fa<lb ed="#B" n="25" break="no"/>cere homines post confessionem sufficientem. 
+  </p>
+      <p xml:id="jMqv4a-d1e218-d1e649">
+       <lb ed="#B" n="26"/>⁋ Hactenus diximus quod nulla
+   pol<lb ed="#B" n="27" break="no"/>lutio nocturna est viro ad culpam nouam imputabi 
+   <lb ed="#B" n="28"/>lis. Pollutionem nocturnam voco qua in somno contin 
+   <lb ed="#B" n="29"/>git: siue in nocte / siue in die. ipsa non magis imper 
+   <lb ed="#B" n="30"/>dit a celebratione missae quam alia peccata: si mens non 
+   <lb ed="#B" n="31"/>fuerit circa venerea illaqueata. Hinc temere dicunt 
+   <lb ed="#B" n="32"/>aliqui quod. xxiiii. horis post pollutionem nocturnam 
+   <lb ed="#B" n="33"/>abstinendum sit: et alii / post mediam noctem. quando tamen 
+   <lb ed="#B" n="34"/>vir dubitat de causa culpabili vnde processerit. 
+   <lb ed="#B" n="35"/>causam confiteatur. si autem se indispositum &amp; indeuotum 
+   <lb ed="#B" n="36"/>ratione pollutionis inueniat, non celebret. Eodem modo 
+   <lb ed="#B" n="37"/>si vir propriam vxorem cognouerit, potissimum debitum 
+   <lb ed="#B" n="38"/>reddendo / vel in casu licito. Et si peccet, de hoc con 
+   <lb ed="#B" n="39"/>fiteatur. Si vero se indispositum inueniat: nullo mo 
+   <lb ed="#B" n="40"/>do communicare debet. quod tamen abstinere teneatur si se 
+   <lb ed="#B" n="41"/>dispositum inueniat: non video, quamquam non licuit
+   come<lb ed="#B" n="42" break="no"/>dere panes propositionis post mulierem cognitam: ili 
+   <lb ed="#B" n="43"/>lud enim est legis iudiciale nunc non obligans. Multo 
+   <lb ed="#B" n="44"/>magis mulier post menstruum communicare potest: &amp; 
+   <lb ed="#B" n="45"/>statim post partum. ad iudiciale autem legis no est ha 
+   <lb ed="#B" n="46"/>bendus oculus. &amp; illud patet de purifi. post partum 
+   <lb ed="#B" n="47"/>c. vnico. Ex omnibus patet quod non debent mirari homines 
+   <lb ed="#B" n="48"/>quare doctores maiorem indaginem fecerunt post 
+   <lb ed="#B" n="49"/>pollutionem nocturnam quam post foedum somnium: quia 
+   <lb ed="#B" n="50"/>hoc est propter resolutionem seminis. Secundo sequi 
+   <lb ed="#B" n="51"/>tur quod no est dormiendum in lecto calido, quia ille ad 
+   <lb ed="#B" n="52"/>pollutionem aditum praebet: &amp; calculum nutrit, ninc
+   bo<lb ed="#B" n="53" break="no"/>ni patres gentiles solis culcitris vsi sunt: &amp;
+   Car<lb ed="#B" n="54" break="no"/>thusienses lectos stramineos habent. Tertio cauen 
+   <!--0116.xml-->
+   <cb ed="#B" n="b"/> 
+       <!-- 42-v b -->
+       <lb ed="#B" n="55"/>da est omnis magna alteratio calescendi. Quare Gale 
+   <lb ed="#B" n="56"/>nus. vi. de reg. sani. dicit quod cursores debent porta 
+   <lb ed="#B" n="57"/>re plumbi laminas super renes, ne per noctem calefacti 
+   <lb ed="#B" n="58"/>polluantur. Quarto sequitur, non esse nimis dormiendum 
+   <lb ed="#B" n="59"/>sed primo mane vigilandum. Propterea in
+   religioni<lb ed="#B" n="60" break="no"/>bus institutum est tempore noctumo surgere ad matuti 
+   <lb ed="#B" n="61"/>nas vt laudetur deus: ne illaqueetur homo malis
+   co<lb ed="#B" n="62" break="no"/>gitationibus nocturnis. Hinc dicit Cato. Plus
+   vi<lb ed="#B" n="63" break="no"/>gila semper: ne somno deditus esto. Nam diuturma 
+   <lb ed="#B" n="64"/>quies vitiis alimenta ministrat. Et Hippocrates per 
+   <lb ed="#B" n="65"/>ticula secunda Aphorismorum / Aphorismo tertio. 
+   <lb ed="#B" n="66"/>Sonnus &amp; vigilia vtraque modo magis facta malum. 
+   <lb ed="#B" n="67"/>Excessiuus enim somnus vt experimento
+   cognosci<lb ed="#B" n="68" break="no"/>mus, vitum male coloratum reddit. Et hoc dicit Ari 
+   <lb ed="#B" n="69"/>stoteles secunda particula Problematum. ergo hominis inco 
+   <lb ed="#B" n="70"/>lumitati non couenit. Catharrum muitus somnus 
+   <lb ed="#B" n="71"/>nutrit: qui colicam in corpore, &amp; alias
+   infirmita<lb ed="#B" n="72" break="no"/>tes gignit. 
+  </p>
+    </div>
+   </body>
+  </text>
+</TEI>

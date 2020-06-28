@@ -1,0 +1,339 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 1</title>
+      <author ref="#JohnMair">John Mair</author>
+      <respStmt>
+       <name>Jeffrey C. Witt</name>
+       <resp>TEI Encoder</resp>
+      </respStmt>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 1</title>
+       <date when="2020-06-09">June 27, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="B" n="cod-Bda113">Badius 1516</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+     guidelines for a diplomatic edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-06-27" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+      <pb ed="#B" n="207-r"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="jMqv4a-d1e1104"> <!-- l4d23q1 -->
+      <head xml:id="jMqv4a-d1e1104-Hd1e104">Quaestio 1</head>
+      <head xml:id="jMqv4a-d1e1104-Hd1e107" type="question-title">An extrema unctio sit sacramentum novae legis</head>
+      <p xml:id="jMqv4a-d1e1104-d1e110">
+       <lb ed="#B" n="91"/>⁋ Distinctionis Vigesimaetertiae 
+   <lb ed="#B" n="92"/>Quaestio Prima. 
+   <lb ed="#B" n="93"/>Rovigesima 
+   <lb ed="#B" n="94"/>tertia distinctione 
+   <lb ed="#B" n="95"/>in quam magister de 
+   <lb ed="#B" n="96"/>extrema vnctione 
+   <lb ed="#B" n="97"/>loquitur, quaeto: An 
+   <lb ed="#B" n="98"/>extrema vnctio 
+   <lb ed="#B" n="99"/>sit sacramentum
+   no<lb ed="#B" n="100" break="no"/>uae legis. Pro
+   so<lb ed="#B" n="101" break="no"/>lutione quaestionis 
+   <lb ed="#B" n="102"/>notato quod
+   extre<lb ed="#B" n="103" break="no"/>mavnctio est sacra 
+   <lb ed="#B" n="104"/>mentum a praesbytero 
+   <lb ed="#B" n="105"/>infirmis applicatum 
+   <lb ed="#B" n="106"/>in determinatis partibus corporis: gratia venialium au-  
+   <!--0446.xml-->
+   <pb ed="#B" n="207-v"/>
+       <cb ed="#B" n="a"/>
+       <lb ed="#B" n="1"/>ferendorum. determinatae autem partes sunt quinque sensuum 
+   <lb ed="#B" n="2"/>exteriorum instrumenta, scilicet oculi, autes, manus,
+   na<lb ed="#B" n="3" break="no"/>res, labia, pedes, &amp; renes. In lingua enim propter hor 
+   <lb ed="#B" n="4"/>rorem / licet illic vigeat gustus / non damus. etiam
+   mulie<lb ed="#B" n="5" break="no"/>rum renes propter honestatem non inunguntur. Si quis autem 
+   <lb ed="#B" n="6"/>in membris mutilus fuerit: in partibus vicinioribus vn 
+   <lb ed="#B" n="7"/>gatur. Forma est talis. Per ista sanctam vnctionem, &amp; 
+   <lb ed="#B" n="8"/>suam piissimam misericordiam indulgeat tibi dominus
+   quic<lb ed="#B" n="9" break="no"/>quid oculorum vitio deliquisti in nomine patris &amp; fi. &amp;. i. si 
+   <lb ed="#B" n="10"/>amen. &amp; sic. de caeteris sensibus.
+  </p>
+      <p xml:id="jMqv4a-d1e1104-d1e175">
+   ⁋ Ex quam definitione in 
+   <lb ed="#B" n="11"/>fertur quod solus aegrotus est capax huius sacramenti / &amp; non 
+   <lb ed="#B" n="12"/>ingrediens periculum sine aegritudine. lstud patet la 
+   <lb ed="#B" n="13"/>cobi. v. vbi dicitur. Infirmatur quis in vobis: inducat praesby 
+   <lb ed="#B" n="14"/>teros ecclessae &amp; orent super eum: vngentes eum oleo in 
+   <lb ed="#B" n="15"/>nomine domini. &amp; ontio fidei saluabit infirmum: &amp; alleuiabit 
+   <lb ed="#B" n="16"/>eum dominus. Secundo sequitur quod solus sacerdos est minister hu 
+   <lb ed="#B" n="17"/>ius sacramenti: vt dir in ca. vnico de sacra
+   vncti<lb ed="#B" n="18" break="no"/>pne. Et liet in sola voluntate sit peccatum: tamen per has partes 
+   <lb ed="#B" n="19"/>peccata exercemus: &amp; tales operationes exteriores sunt 
+   <lb ed="#B" n="20"/>peccata tanquam actus imperati. Vlterius patet quod vnus effectus 
+   <lb ed="#B" n="21"/>extremae vnctionis est tollere peccata venialia: quae patet 
+   <lb ed="#B" n="22"/>esse tam pauca vt ea omnia tollat. &amp; si venialia auferat 
+   <lb ed="#B" n="23"/>etiam poenam eis debitam tollit. In super alleuiabit labo 
+   <lb ed="#B" n="24"/>rantem si eius saluti conducat. Est etiam ei effectus conis cum 
+   <lb ed="#B" n="25"/>aliis sacramentis: conferre gratiam virtute operis ope 
+   <lb ed="#B" n="26"/>rati. Extrema autem vnctio in re est oleum bene 
+   <lb ed="#B" n="27"/>dictum: vt superius diximus de baptismo &amp;
+   con<lb ed="#B" n="28" break="no"/>firmatione. 
+  </p>
+      <p xml:id="jMqv4a-d1e1104-d1e218">
+       <lb ed="#B" n="29"/>⁋ lstis praemissis respondetur quod extre 
+   <lb ed="#B" n="30"/>ma vnctio est sacramentum nouae legis, vt patet la 
+   <lb ed="#B" n="31"/>cobi. v. Iacobus tamen non fuit institutor huius: sed
+   pro<lb ed="#B" n="32" break="no"/>mulgator. Et ex isto cum notissimis sequitur: quod si 
+   <lb ed="#B" n="33"/>sint duo quorum vnus habet extremam vnctione 
+   <lb ed="#B" n="34"/>&amp; alter eam non habeat, caeteris omnino paribus, pri 
+   <lb ed="#B" n="35"/>or cum maiore gratia decedit quam posterior: &amp; ex con 
+   <lb ed="#B" n="36"/>sequenti maiorem beatitudinem habebit in patria: quia 
+   <lb ed="#B" n="37"/>vtrobique in sacramentis vna beatitudo formalis 
+   <lb ed="#B" n="38"/>gratiae sacramenti: &amp; alia actui bono respondet: &amp; nul 
+   <lb ed="#B" n="39"/>lo modo in aliis vt opinor. 
+  </p>
+      <p xml:id="jMqv4a-d1e1104-d1e244">
+       <lb ed="#B" n="40"/>⁋ Contra hanc conclusionem arguitur 
+   <lb ed="#B" n="41"/>sic. Si extrema vnctio non sit applicabilis nisi ir 
+   <lb ed="#B" n="42"/>aegritudine &amp; mortis periculo: sequitur quod quis non  
+   <lb ed="#B" n="43"/>posset philusoles vngi. oppositum sequalae crebro videm 
+   <lb ed="#B" n="44"/>gitur. Praeterea. vel pot applicari iuuenibus nondum 
+   <lb ed="#B" n="45"/>confessis / vel non. hoc argumentum inquisitiue tu 
+   <lb ed="#B" n="46"/>ipse deducas.
+  </p>
+      <p xml:id="jMqv4a-d1e1104-d1e262">
+   ⁋ Ad primum respondet. quodli: 
+   <lb ed="#B" n="47"/>bet sacramentum in quo non imprimitur
+   chara<lb ed="#B" n="48" break="no"/>cter est iterabile: alia vero sunt initerabilia: vt sunt haec 
+   <lb ed="#B" n="49"/>tria sola / baptismus, confirmatio, &amp; ordo. &amp; hoc
+   sa<lb ed="#B" n="50" break="no"/>cramentum est iterabile quotienscunque homo
+   labo<lb ed="#B" n="51" break="no"/>rat nouo morbo &amp; graui. Et si diu laboret eodem 
+   <lb ed="#B" n="52"/>morbo &amp; post aliqualem conualescentiam recidiuet 
+   <lb ed="#B" n="53"/>potest irerato suscipi. Ad secundum non video quae 
+   <!--0446.xml-->
+   <cb ed="#B" n="b"/> 
+       <!-- 207-v b -->
+       <lb ed="#B" n="54"/>re non possit dari iuuenibus / nec quare confessio 
+   <lb ed="#B" n="55"/>nem in iuuenibus rationis incapacibus praesuppo 
+   <lb ed="#B" n="56"/>nat.
+  </p>
+      <p xml:id="jMqv4a-d1e1104-d1e293">
+   ⁋ Tertio arguitur, &amp; etiam inquisitiue. vel est
+   sa<lb ed="#B" n="57" break="no"/>cramentum necessitatis vel voluntatis: sed nec hoc 
+   <lb ed="#B" n="58"/>nec illud: ergo non est sacramentum, non necessitatis 
+   <lb ed="#B" n="59"/>quia multi decedunt sine extrema vnctione: &amp; tamen 
+   <lb ed="#B" n="60"/>non est verisimile quod propterea damnentur, non purae 
+   <lb ed="#B" n="61"/>voluntatis: quia si quis possit commode extremam vncti 
+   <lb ed="#B" n="62"/>onem habie &amp; ea non suscipiat videtur propriae salutis
+   com<lb ed="#B" n="63" break="no"/>temptor viso fructui quem ex sacramento consequaeretur. 
+  </p>
+      <p xml:id="jMqv4a-d1e1104-d1e311">
+       <lb ed="#B" n="64"/>⁋ Respondetur. Aliqua sunt sacramenta purae volunta 
+   <lb ed="#B" n="65"/>tis: quaelicet homo commode suscipere possit: non tamen 
+   <lb ed="#B" n="66"/>tenetur: &amp; nullo modo peccat illa relinquendo. vt or 
+   <lb ed="#B" n="67"/>do &amp; matrimonium. Seruantes enim virginitatem 
+   <lb ed="#B" n="68"/>postposito matrimonio non peccant: &amp; hoc vt
+   plu<lb ed="#B" n="69" break="no"/>rimum. Stant enim dare casum in quo si quis non  
+   <lb ed="#B" n="70"/>contraheret / peccaret. vtpote si propter continen 
+   <lb ed="#B" n="71"/>tiam filii regis vnici sequaeretur schisma perniciosum in 
+   <lb ed="#B" n="72"/>repub. vel propter paucitatem hominium. sed istud solum 
+   <lb ed="#B" n="73"/>casualiter &amp; non regulariter contingeret. Similiter 
+   <lb ed="#B" n="74"/>matrimonium contrahens ordinibus relictis non
+   pec<lb ed="#B" n="75" break="no"/>cat. Reliqua quinque sacramenta sunt de praecepto 
+   <lb ed="#B" n="76"/>affirmatiuo pro loco &amp; tempore obligante: aliter tamen &amp;
+   ali<lb ed="#B" n="77" break="no"/>ter. Baptismus enim omnes obligat adultos si possit ha 
+   <lb ed="#B" n="78"/>beri sub poena noui peccati, non sic stricte obligat 
+   <lb ed="#B" n="79"/>confirmatio: nec extrema vnctio. Item si sit adultus 
+   <lb ed="#B" n="80"/>non confirmatus: praesens episcopo confirmante 
+   <lb ed="#B" n="81"/>&amp; non suscipiat confirmationem cum aliis, nec habeat 
+   <lb ed="#B" n="82"/>impedimentum legitimum excusans: est contemptor 
+   <lb ed="#B" n="83"/>sacramenti vt opinor &amp; peccat. eodem modo de
+   ex<lb ed="#B" n="84" break="no"/>trema vnctione. Multa tamen impedimenta in his 
+   <lb ed="#B" n="85"/>duobus sacramentis excusarent quae in tribus aliis 
+   <lb ed="#B" n="86"/>excusationem similem non admitterent. &amp; vna ex 
+   <lb ed="#B" n="87"/>cusatio in argumento sequenti tangetur. Licet autem 
+   <lb ed="#B" n="88"/>extrema vnctio in releuamen venialium peccatorum de 
+   <lb ed="#B" n="89"/>tur, &amp; homo non teneatur sub poena peccati in particulari 
+   <lb ed="#B" n="90"/>confiteri venialia: hoc non obstante si vero simiter viam 
+   <lb ed="#B" n="91"/>vniuersae carnis ingressurus possit facile habere
+   sa<lb ed="#B" n="92" break="no"/>cramentu extremae vnctionis: &amp; si reddatur memor
+   il<lb ed="#B" n="93" break="no"/>lius: decedens sine eo peccat, &amp; videtur sacramen 
+   <lb ed="#B" n="94"/>ti contemptor, quima ex culpa sua non capit. sed secun 
+   <lb ed="#B" n="95"/>dum circumstantias a prudente potest iudicari
+   quan<lb ed="#B" n="96" break="no"/>do sit peccatum &amp; quando non. contingit. n quod morbus 
+   <lb ed="#B" n="97"/>sit vehemens: &amp; in subsequente luce laborans propo 
+   <lb ed="#B" n="98"/>nit sacramentum hoc accipe: nec putatur ab eo vel
+   prae<lb ed="#B" n="99" break="no"/>sentibus morbus esse ita periculosus vt est, quin bene pos 
+   <lb ed="#B" n="100"/>sit in crastinum differre sacramenti sumptionem 
+   <lb ed="#B" n="101"/>tunc isto die moriens non peccat. Siliter si non occurrit 
+   <lb ed="#B" n="102"/>memoriae suae: &amp; nemo super hoc eum reddit memo 
+   <lb ed="#B" n="103"/>rem. Et ita de similibus: de quibus sapiens habet considerare 
+   <lb ed="#B" n="104"/>quando est peccatum &amp; quando non. Sed pro via tutiore quando dubium 
+   <lb ed="#B" n="105"/>est de periculo in mora / quod scilicet morietur, ante fine temporis
+   di<lb ed="#B" n="106" break="no"/>lati suscipiendum est.
+  </p>
+      <p xml:id="jMqv4a-d1e1104-d1e407">
+   ⁋ Quarto arguitur. Sacerdos non 
+   <lb ed="#B" n="107"/>tenetur ministrare sacramentum ex tremae vnctionis 
+   <lb ed="#B" n="108"/>cuilibet suo, morbo laboranti. ergo laborans non 
+   <!--0447.xml-->
+   <pb ed="#B" n="208-r"/>
+       <cb ed="#B" n="a"/>
+       <lb ed="#B" n="1"/>tenetur ad suscipiendum. quotienscumque ei laborans ad 
+   <lb ed="#B" n="2"/>sacramentum suscipiendum tenetur: sacerdos eius tenetur ei 
+   <lb ed="#B" n="3"/>sacramentum ipse ministrare. Anineis assumptum probatur. super 
+   <lb ed="#B" n="4"/>posito quod aegrotus morbo contagioso vtpote epidi 
+   <lb ed="#B" n="5"/>mia laboret: non tenetur exponere se periculo probabili 
+   <lb ed="#B" n="6"/>suae mortis.
+  </p>
+      <p xml:id="jMqv4a-d1e1104-d1e434">
+   ⁋ Respondetur. opinor quod in isto casu non
+   te<lb ed="#B" n="7" break="no"/>netur dummodo constiterit de cotagione morbi qui ali 
+   <lb ed="#B" n="8"/>quo tempore &amp; loco vehementius bacchatur: &amp; inhumanius sae 
+   <lb ed="#B" n="9"/>uit quam alio. secus est de sacramento confessionis: quia stat 
+   <lb ed="#B" n="10"/>crebro illam esse confitenti ad salutem necessariam: &amp; quod mul 
+   <lb ed="#B" n="11"/>ta habeat restituenda quae ex culpa sua restituere non 
+   <lb ed="#B" n="12"/>proponit: vel despet / &amp; multis aliis modis. Si ergo  
+   <lb ed="#B" n="13"/>ab omnibus concessum sit magnum esse praeceptum succurretur ex 
+   <lb ed="#B" n="14"/>treme laboranti in vita corporali: hic longe maius est ades 
+   <lb ed="#B" n="15"/>se &amp; succurrere extreme laboranti in vita spirituali: vl 
+   <lb ed="#B" n="16"/>de quo dubium est an sitin illo discrimine, quamquam moriens si 
+   <lb ed="#B" n="17"/>prudens fuerit &amp; sapiens: praet sibiipsi succurrere quaecumque 
+   <lb ed="#B" n="18"/>culpa est praecedente: &amp; de restituitione alienorum prouidere 
+   <lb ed="#B" n="19"/>ante hoc vitae discrimen: detestando omnem culpa
+   praeteri<lb ed="#B" n="20" break="no"/>tam: volendo efficaciter omne alienum restituere &amp; dare 
+   <lb ed="#B" n="21"/>deo quae dei, &amp; caesari quae caesaris sunt: est secundi consilium pru 
+   <lb ed="#B" n="22"/>dentis si quempiam habie possit. sed non omnes sunt sic
+   pruden<lb ed="#B" n="23" break="no"/>tes: sicut nec omnes sut boni. nam potest esse quod laboret cri 
+   <lb ed="#B" n="24"/>minibus praedictis: vel in vno articulo fidei ad salutem 
+   <lb ed="#B" n="25"/>necessario titubet: vel quod detenius est / articulo ipsi
+   dis<lb ed="#B" n="26" break="no"/>sentiat: quod sine culpa contingere non potest: &amp; ita de
+   mul<lb ed="#B" n="27" break="no"/>tis aliis contingentibus. &amp; vbi curatus aegroti hic esset
+   ne<lb ed="#B" n="28" break="no"/>gligens: non video quin alius proximus ad hoc sit obliga 
+   <lb ed="#B" n="29"/>tus. Sicut vbi sortes nollet dare pauperi extreme 
+   <lb ed="#B" n="30"/>eleemosynam: ego superueniens est pauperi non extreme 
+   <lb ed="#B" n="31"/>succurrere deuincior. Non tamen est necessarium semper
+   do<lb ed="#B" n="32" break="no"/>mun contagiosam &amp; pestilentem ingredi: &amp; hoc si aegrotus 
+   <lb ed="#B" n="33"/>ipse domum egredi possit &amp; in aream descendere. Sacet 
+   <lb ed="#B" n="34"/>dos ei debet duplicem habre respectum: vnum ad propriam 
+   <lb ed="#B" n="35"/>vitam seruandam modo licito. &amp; illud est minus / quia de vita 
+   <lb ed="#B" n="36"/>corporali solum agitur: licet plus debeat se diligere quam pro 
+   <lb ed="#B" n="37"/>ximum caeteris paribus. Alium habebit respectum ad
+   vi<lb ed="#B" n="38" break="no"/>tam spiritualem laborantis: &amp; quanto putatur ess in
+   periculosio<lb ed="#B" n="39" break="no"/>re statu: tanto homo est magis obnoxius ei mederi. Alio 
+   <lb ed="#B" n="40"/>ergo ad aream extra domum descendente potest stare in ali 
+   <lb ed="#B" n="41"/>quanta intercapedine a patiente: etiam ea qua ventus fiat 
+   <lb ed="#B" n="42"/>si quis fiauerit: sic sciliet vt secretum maneat peccatum confiten 
+   <lb ed="#B" n="43"/>tis: &amp; secundum hominum paucitatem: vel areae magnitudi 
+   <lb ed="#B" n="44"/>nem. Si forte sit in campis: maius potest relinquaere
+   interual<lb ed="#B" n="45" break="no"/>lum aeris vel aquae mediae: inter scutellas etiam porri 
+   <lb ed="#B" n="46"/>gendo sacramentum eucharistiae: quam ore
+   doce<lb ed="#B" n="47" break="no"/>bit patientem reuerenter tractare, &amp; docebit eum esse 
+   <lb ed="#B" n="48"/>patientem animo &amp; poenam ipsam aequanimiter ferre: &amp; in peccato 
+   <lb ed="#B" n="49"/>rum expiationem applicare. Ecce quomodo vtrique 
+   <lb ed="#B" n="50"/>bonus sacerdos satisfaciet: &amp; si mortem incurrat sic fa 
+   <lb ed="#B" n="51"/>ciendo: opus heroicum fratri fecit: &amp; plus dilexit se 
+   <lb ed="#B" n="52"/>ad vitam spiritualem quam alium secundum verum ordinem
+   charita<lb ed="#B" n="53" break="no"/>tis: cui deus si sic moriatur erit merces. Sed hic pos 
+   <lb ed="#B" n="54"/>set esse difficultas si domus fuerit infecta &amp; locus 
+   <lb ed="#B" n="55"/>totus in quo est patiens qui locum exire non potest 
+   <!--0447.xml-->
+   <cb ed="#B" n="b"/> 
+       <!-- 208-r b -->
+       <lb ed="#B" n="56"/>&amp; putatur esse in vitae spiritualis discrimine: ad quid  
+   <lb ed="#B" n="57"/>sacerdos teneatur. Tali casu occurrente non video 
+   <lb ed="#B" n="58"/>quomodo sacerdos sit absolutus seu deobligatus a non sudc 
+   <lb ed="#B" n="59"/>currendo: &amp; siue possit habere antidota / siue non 
+   <lb ed="#B" n="60"/>&amp; si theriacam ex antiquo confectam, bucellam panis 
+   <lb ed="#B" n="61"/>aceto intinctam / vel aliud antidotum habere possit 
+   <lb ed="#B" n="62"/>magis est deuinctus. vel si parum habeat sanguinis 
+   <lb ed="#B" n="63"/>&amp; phlegmatis / sic vt minus morbi sit susceptiuus: 
+   <lb ed="#B" n="64"/>semper magis obligatur. sed curatum
+   sangui<lb ed="#B" n="65" break="no"/>neum &amp; phlegmatis plenum in casu quem iam
+   po<lb ed="#B" n="66" break="no"/>suimus, non auderem excusare si alium hature non possit. 
+   <lb ed="#B" n="67"/>ex scriptura aut notum est quod deus pestem, famen, &amp; 
+   <lb ed="#B" n="68"/>bellum pro peccatis populi immittit. Sed hic multa 
+   <lb ed="#B" n="69"/>contingere possunt quae obligationem augent vel at 
+   <lb ed="#B" n="70"/>tenuant: sic vt vna responsio dari non possit: vtpo 
+   <lb ed="#B" n="71"/>te si curatus est non solum suae curae / sed toti populo 
+   <lb ed="#B" n="72"/>pernecessarius, cuius corporalis mors esset populi ma 
+   <lb ed="#B" n="73"/>gna in rebus mysticis desolatio: nec potest reperiri 
+   <lb ed="#B" n="74"/>alius volens patientem adire qui putatur esse in
+   dis<lb ed="#B" n="75" break="no"/>criminem magno vitae spiritualis vel corporis. Item 
+   <lb ed="#B" n="76"/>timendum est de scandalo &amp; mala sequela istius
+   cu<lb ed="#B" n="77" break="no"/>rati probi de quo loquimur: nam si patientem mori
+   si<lb ed="#B" n="78" break="no"/>ne confessione permittat: fortasse erit causa qua  
+   <lb ed="#B" n="79"/>re alii confessores in mortibus suos agminatim re 
+   <lb ed="#B" n="80"/>linquant: sicut in acie belli / ad fugam viri fortis reli 
+   <lb ed="#B" n="81"/>quus exercitus collabitur in reipublicae perniciem. Cura 
+   <lb ed="#B" n="82"/>tus itaque debet animam suam ponere in manibus suis 
+   <lb ed="#B" n="83"/>&amp; curare de salute gregis. pro quo saluando orbis 
+   <lb ed="#B" n="84"/>redemptor propriam animam ponere non dubitauit. 
+  </p>
+      <p xml:id="jMqv4a-d1e1104-d1e612">
+       <lb ed="#B" n="85"/>⁋ Hactenus de sacramento extrema vnctione 
+   <lb ed="#B" n="86"/>quae in variis aegroti seu infirmi partibus
+   appli<lb ed="#B" n="87" break="no"/>catur / partibus inquam in quibus peccata exercen 
+   <lb ed="#B" n="88"/>tur. &amp; forte non est de necessitate sacramenti vn 
+   <lb ed="#B" n="89"/>ctionem cuilibet partium vulgariter
+   nominata<lb ed="#B" n="90" break="no"/>rum applicare: nec etiam in partibus multum
+   pro<lb ed="#B" n="91" break="no"/>pinquis, vt diximus in foemina. &amp; ex consequen 
+   <lb ed="#B" n="92"/>ti sumitur color quod extrema vnctio sit danda pe 
+   <lb ed="#B" n="93"/>stilenti in extremitate virgae: quia sic a contagio 
+   <lb ed="#B" n="94"/>ne plerunque cauebitur. Vlterius diximus de
+   duo<lb ed="#B" n="95" break="no"/>bus sacramentis pure spontaneis regulariter: sci 
+   <lb ed="#B" n="96"/>licet de ordine &amp; matrimonio: &amp; de quinque neces 
+   <lb ed="#B" n="97"/>sariis: communius &amp; minus communiter obligam 
+   <lb ed="#B" n="98"/>tibus. Ex dictis in. xii. distinc. sequitur quod si oleum 
+   <lb ed="#B" n="99"/>sacrum cum paruo non sacro misceatur: totum 
+   <lb ed="#B" n="100"/>sacrum efficitur: sicut in paruae aquae non
+   benedi<lb ed="#B" n="101" break="no"/>ctae mixtione cum benedicta, tota benedicta es 
+   <lb ed="#B" n="102"/>ficitur. nam minus dignum ad se magis dignum at 
+   <lb ed="#B" n="103"/>trahit. &amp; non solum quando est imperceptibilitas 
+   <lb ed="#B" n="104"/>dignioris &amp; minus digni coniunctorum vt in aqua 
+   <lb ed="#B" n="105"/>iam diximus: sed etia quando est perceptibilitas, &amp;
+   mi<lb ed="#B" n="106" break="no"/>nus maiori applicatur: vt in refectione stolae bene 
+   <lb ed="#B" n="107"/>dictae. Sed quia potest esse difficultas de his
+   sacra<lb ed="#B" n="108" break="no"/>mentalibus &amp; potissimum de aqua benedicta ad quid  
+   <lb ed="#B" n="109"/>valeat in ecclesia: &amp; inter errores Ioannis picleffi 
+   <lb ed="#B" n="110"/>numeratur, aquam benedictam in ecclesia esse inutilem: cuius 
+   <!--0448.xml-->
+   <pb ed="#B" n="208-v"/>
+       <cb ed="#B" n="a"/>
+       <lb ed="#B" n="1"/>motiuis si ea vidissemus respondere conaremur: 
+   <lb ed="#B" n="2"/>ideo quantum temporis penuria &amp; variarum causa 
+   <lb ed="#B" n="3"/>pus materiarum quas prosequi proponimus: permi 
+   <lb ed="#B" n="4"/>serint: quaestionem vnam de aqua benedicta cum 
+   <lb ed="#B" n="5"/>paucis de aliis benedictionibus terminabimus. 
+   <lb ed="#B" n="6"/>Et quaestionis titulus erit iste. 
+  </p>
+    </div>
+   </body>
+  </text>
+</TEI>

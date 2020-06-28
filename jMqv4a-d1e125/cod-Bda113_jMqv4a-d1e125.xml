@@ -1,0 +1,386 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 2</title>
+      <author ref="#JohnMair">John Mair</author>
+      <respStmt>
+       <name>Jeffrey C. Witt</name>
+       <resp>TEI Encoder</resp>
+      </respStmt>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 2</title>
+       <date when="2020-06-09">June 27, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="B" n="cod-Bda113">Badius 1516</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+     guidelines for a diplomatic edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-06-27" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+      <pb ed="#B" n="24-r"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="jMqv4a-d1e125"> <!-- l4d3q2 -->
+      <head xml:id="jMqv4a-d1e125-Hd1e104">Quaestio 2</head>
+      <head xml:id="jMqv4a-d1e125-Hd1e107" type="question-title">An baptismus pro tempore quo erat licitus et institutus, 
+  circumcisionem tollebat de praecepto</head>
+  
+      <p xml:id="jMqv4a-d1e125-d1e110">
+       <lb ed="#B" n="35"/>SEcundo circa eandem 
+   <lb ed="#B" n="36"/>materiam quaeritur. An baptismus 
+   <lb ed="#B" n="37"/>pro tempore quo erat licitus &amp; institu 
+   <lb ed="#B" n="38"/>tus, circuncisionem tollebat de 
+   <lb ed="#B" n="39"/>praecepto. Respondetur quod
+   circunci<lb ed="#B" n="40" break="no"/>sio solum ante passione Christ 
+   <lb ed="#B" n="41"/>erat necessaria iudaeo. Probatur 
+   <lb ed="#B" n="42"/>si non erat de praecepto ante passionem Christi: hoc erat 
+   <lb ed="#B" n="43"/>quia baptismus de consilio fecit circumcisionem esse de 
+   <lb ed="#B" n="44"/>cosilio: &amp; desinere esse de praecepto: sed hoc non
+   con<lb ed="#B" n="45" break="no"/>cludit. Quando enim Christus in cruce dixit Consumma 
+   <lb ed="#B" n="46"/>tum est. Ioannis. xix. actum erat de legalibus quo 
+   <lb ed="#B" n="47"/>ad praeceptum. sicut doctores exponunt. &amp; glossa inter 
+   <lb ed="#B" n="48"/>linearis Ioannis. iii. super illo verbo. Et veniebant &amp; 
+   <lb ed="#B" n="49"/>baptizabantur. dicit. Post passionem Christi
+   circunci<lb ed="#B" n="50" break="no"/>sio erat mortua pro aliquo tempore, non tamen mortifera. vt 
+   <lb ed="#B" n="51"/>patet ex quaestione praecedente. Hoc ipsum patet per glo. mar 
+   <!--0079.xml-->
+   <cb ed="#B" n="b"/> 
+       <!-- 24-r b -->
+       <lb ed="#B" n="52"/>ginalem ad Hebraeos. x. super illo verbo, Hostiam &amp; 
+   <lb ed="#B" n="53"/>oblationem noluisti. Item si circuncisio desinebat esse de 
+   <lb ed="#B" n="54"/>praecepto ante passionem Christi: hoc erat quia baptizati 
+   <lb ed="#B" n="55"/>erant purgati a peccato originali ante passionem: &amp; sic 
+   <lb ed="#B" n="56"/>non tenebantur ad circuncisionem. Sed haec ratio non conclu 
+   <lb ed="#B" n="57"/>dit. Si enim aliquis sit baptizatus baptismo flaminis 
+   <lb ed="#B" n="58"/>vel sanguinis, si resuscitaretur adhuc ille est baptizam 
+   <lb ed="#B" n="59"/>dus baptismo fiuminis: licet a peccato originali sit 
+   <lb ed="#B" n="60"/>purgatus: propter praeceptum dei vniuersaliter obligans. sed  
+   <lb ed="#B" n="61"/>circuncisio erat de praecepto iudaeo. &amp; licet opinarentur 
+   <lb ed="#B" n="62"/>quod baptismus abstulisset ab eis culpam originalem:
+   ad<lb ed="#B" n="63" break="no"/>huc tenebantur ad praeceptum de circuncisione quousque: 
+   <lb ed="#B" n="64"/>constitisset eis de eius reuocatione. paruuli autem circuncisi 
+   <lb ed="#B" n="65"/>tempore illo intermedio morientes erant salui in fide
+   paren<lb ed="#B" n="66" break="no"/>tu more illius positionis: vel tenendo aliam: cum fide parem 
+   <lb ed="#B" n="67"/>tum &amp; aliquo signo exteriori: sicut viuentes in lege na 
+   <lb ed="#B" n="68"/>turae fecerunt. modo illud signum exterius supplebat: 
+   <lb ed="#B" n="69"/>vel erat circuncisio.
+  </p>
+  
+      <p xml:id="jMqv4a-d1e125-d1e195">
+   ⁋ Et ex his sequuntur aliqui. Primum 
+   <lb ed="#B" n="70"/>est. circuncisio interdum tantum gratiae conferebat quatum bapti 
+   <lb ed="#B" n="71"/>smus: &amp; aperuit ianuam sicut baptismus. patet post 
+   <lb ed="#B" n="72"/>passionem Christi: sed hoc non erat virtute operis ope 
+   <lb ed="#B" n="73"/>rati inquantum erat sacramentum legis mosaicae. Secun 
+   <lb ed="#B" n="74"/>do patet quod citius instituebatur baptismus quo ad 
+   <lb ed="#B" n="75"/>consilium quam desinebat circuncisio quo ad praeceptum.
+   il<lb ed="#B" n="76" break="no"/>lud autem loan. iii. Nisi quis renatus fuerit ex aqua &amp; 
+   <lb ed="#B" n="77"/>spiritu sancto &amp;c. intelligitur pro tempore sufficientis 
+   <lb ed="#B" n="78"/>promulgationis euangelii. 
+  </p>
+      <p xml:id="jMqv4a-d1e125-d1e218">
+       <lb ed="#B" n="79"/>⁋ Sed contra ista obiicitur. Lex euangeli 
+   <lb ed="#B" n="80"/>ca de baptismo vel quo ad aliquam alia eius praecepta non 
+   <lb ed="#B" n="81"/>obligat quousque sit sufficienter promulgata. sed ista 
+   <lb ed="#B" n="82"/>non est adhuc sufficienter omnibus adultis promulgata. igitur 
+   <lb ed="#B" n="83"/>probatio minoris: tum primo de surdis ratione vtetibus quibus 
+   <lb ed="#B" n="84"/>euangelium non est sufficienter promulgatum: cum enim sint na 
+   <lb ed="#B" n="85"/>ti surdi vel surditatem ante annos discretionis incurrant 
+   <lb ed="#B" n="86"/>non potest eis lex promulgari: quia omnes surdi sunt muti, nec 
+   <lb ed="#B" n="87"/>possunt alios audire. &amp; si linguam imponerent sibi solis, 
+   <lb ed="#B" n="88"/>hoc esset superfluum cum seipsos mentaliter intelligant: nec 
+   <lb ed="#B" n="89"/>ab aliis intelligerentur, nec mediantibus aliis sensibus 
+   <lb ed="#B" n="90"/>possunt legem euangelicam accipere. Patet est minor. quia 
+   <lb ed="#B" n="91"/>multi sunt insulares in mundo viuentes, ad quos verbum 
+   <lb ed="#B" n="92"/>Christi non peruenit: nec de vlla lege vnquam audiuerunt. 
+   <lb ed="#B" n="93"/>ita recitant isti qui nouas insulas adinueniut tam in ma 
+   <lb ed="#B" n="94"/>ri atlantico quam Aethiopico. quia si ita fuisset, quod orbis 
+   <lb ed="#B" n="95"/>esset multo maior quam sit, illi ad quos primo verbum dei 
+   <lb ed="#B" n="96"/>venisset fuissent prius obligati ad credendum &amp; poste 
+   <lb ed="#B" n="97"/>rius alii, secundum quod fuisset promulgatio eis facta.
+  </p>
+      <p xml:id="jMqv4a-d1e125-d1e262">
+   ⁋ Ad 
+   <lb ed="#B" n="98"/>primum respondetur deus neminem obligat ad impossibi 
+   <lb ed="#B" n="99"/>le: si surdus non potest capere per nutus illa quae legis 
+   <lb ed="#B" n="100"/>sunt, non obligatur sub poena noui peccati ad legem sibi 
+   <lb ed="#B" n="101"/>impossibilem plusquam natus demens: sicut non habens medi 
+   <lb ed="#B" n="102"/>cinam per qua purgari potest: sicut infectus peste, vel alio 
+   <lb ed="#B" n="103"/>morbo cui per medicinam remedium applicari non potest: 
+   <lb ed="#B" n="104"/>si non applicetur, moritur: sic in proposito. Secuns est vbi 
+   <lb ed="#B" n="105"/>potest per nutus edoceri. Et alii ad quos spectat 
+   <!--0080.xml-->
+   <pb ed="#B" n="24-v"/>
+       <cb ed="#B" n="a"/>
+       <lb ed="#B" n="1"/>peccant eum non baptizantes &amp; erudientes in lege si sit 
+   <lb ed="#B" n="2"/>capax. Nati autem muti &amp; non surdi hanc difficultatem 
+   <lb ed="#B" n="3"/>no patiuntur: quia tales per auditum omnia capiunt.
+  </p>
+      <p xml:id="jMqv4a-d1e125-d1e295">
+   ⁋ Ad 
+   <lb ed="#B" n="4"/>aliud argumentum quod tangit difficultatem: An verbum 
+   <lb ed="#B" n="5"/>Christi peruenit ad omnes tempore apostolorum: non est
+   suffi<lb ed="#B" n="6" break="no"/>cienter exploratum. ad parte negatiuam descendere videtur 
+   <lb ed="#B" n="7"/>Augustinus ad Esitheum: &amp; Origenes super Matthaeum 
+   <lb ed="#B" n="8"/>nec illa auctoritas In omnem terram exiuit sonus eorum. 
+   <lb ed="#B" n="9"/>ad Roma. x. prima fronte videtur vincere oppositum. 
+   <lb ed="#B" n="10"/>Illa enim auctoritas est psalmistae. psal. xviii. diu ante 
+   <lb ed="#B" n="11"/>apstolos pronunciata. glossa illic dicit quod praeteritum pro futu 
+   <lb ed="#B" n="12"/>ro ponitur. exiuit pro exibit: per voscilicet &amp; successores ve 
+   <lb ed="#B" n="13"/>stros. cui quadrat illud Lucae Actuum. i. Et eritis mi 
+   <lb ed="#B" n="14"/>hi testes in Hierusalem, &amp; in omni ludaea, &amp; Samaria, &amp; 
+   <lb ed="#B" n="15"/>vsque ad vltimum terrae. quia <name xml:id="jMqv4a-d1e125-Nd1e323" ref="#Augustine">Augustinus</name> dicit quosdam 
+   <lb ed="#B" n="16"/>barbaros ad se in Aphricam delatos qui de nulla lege 
+   <lb ed="#B" n="17"/>loqui audierant. Potest dici &amp; forte apparentius sic: rumor 
+   <lb ed="#B" n="18"/>apostolorum, &amp; ab eis missorum antequam palmam marty 
+   <lb ed="#B" n="19"/>rii adepti sunt, non modo venit ad Asiam.
+   Europa<lb ed="#B" n="20" break="no"/>&amp; Aphricam omnem: sed etiam apud insulas gentium. tot 
+   <lb ed="#B" n="21"/>enim portentis &amp; stupendis miraculis claruerunt sancti 
+   <lb ed="#B" n="22"/>cquod pro plantatione ecclesiae necessarium erat) vt non
+   po<lb ed="#B" n="23" break="no"/>tuerit latere vniuersos. Nonne vides plerosque nego  
+   <lb ed="#B" n="24"/>ciatores &amp; penitus toto diuisos ab orbe Britannos 
+   <lb ed="#B" n="25"/>tres orbis partes pro mercibus emendis quotannis
+   visere<lb ed="#B" n="26" break="no"/>verbum de i praedicatum in aliis partibus non poterat istos 
+   <lb ed="#B" n="27"/>fugere: &amp; per eos Hiberni, &amp; reliqua insulae vicinae
+   ver<lb ed="#B" n="28" break="no"/>bum dei audiuissent. Sic in oriente secundum illud
+   Ho<lb ed="#B" n="29" break="no"/>ratianum: per mare per terras currit mercator ad Indos. 
+   <lb ed="#B" n="30"/>&amp; sic mediate vel immediate per apstolos, &amp; eorum
+   disci<lb ed="#B" n="31" break="no"/>pulos, &amp; eos audientes verbum dei peruenit ad omnes:  
+   <lb ed="#B" n="32"/>imo probabile est, &amp; sic assentior, quod est fortius: quod ver 
+   <lb ed="#B" n="33"/>bum dei tempore aptlorum quorum multi diu vixerunt post 
+   <lb ed="#B" n="34"/>passione, per eos &amp; per eorum disciplos &amp; discipusorum di 
+   <lb ed="#B" n="35"/>scipulos: est cum insularibus continentem visitantibus: peruenit 
+   <lb ed="#B" n="36"/>ad omnes. Et patet istud. vnus Paulus in bona parte Assae 
+   <lb ed="#B" n="37"/>verbum dei seminauit. postea Europam ingrediens in  
+   <lb ed="#B" n="38"/>tota graecia seminaria fidei iecit verbo, cocionando 
+   <lb ed="#B" n="39"/>&amp; disputando, &amp; scripto. vt patet ex epostolis eius variis 
+   <lb ed="#B" n="40"/>ad eos quos converterat scriptis. diu etiam manserat 
+   <lb ed="#B" n="41"/>Romae: promisit visitare Hispanos in occidente extre 
+   <lb ed="#B" n="42"/>mos: vt patet in epistola ad Roma. ca. xv. Beatus Tho 
+   <lb ed="#B" n="43"/>mas, Parthos, Persas, Hircanos, Bragmanos, &amp; 
+   <lb ed="#B" n="44"/>Aethiones omnes in propria visitans, verbum dei apuc 
+   <lb ed="#B" n="45"/>eos latissime diuulgauit. Matthaeus apud Indos mi 
+   <lb ed="#B" n="46"/>ranculis fidem confirmauit. &amp; ita verbum dei Taproba 
+   <lb ed="#B" n="47"/>nenses &amp; insulares vltra tropicum capricorni fugere 
+   <lb ed="#B" n="48"/>non poterat. per domestica exempla hoc tibi aperietur. 
+   <lb ed="#B" n="49"/>viuente sancto Petro sanctus Sauinianus Christi
+   di<lb ed="#B" n="50" break="no"/>scipulus condidit ecclesiam in honorem sancti Petri Seno 
+   <lb ed="#B" n="51"/>nis galliarum tunc metropoli quae est in vltimo climate: 
+   <lb ed="#B" n="52"/>quaetuor enim condidit basilicas: vnam in honorem diuae vir 
+   <lb ed="#B" n="53"/>ginis: secundam loanni baptistae: tertiam beato Stephano: 
+   <lb ed="#B" n="54"/>quartam Petro: quem intellexit viuentem: quae vocabatur 
+   <lb ed="#B" n="55"/>ecclesia Petri viui. Ecclesia sancti Bespondicti in vni- 
+   <!--0080.xml-->
+   <cb ed="#B" n="b"/> 
+       <!-- 24-v b -->
+       <lb ed="#B" n="56"/>uersitate Parisiana fundabatur in honorem sanctae tri 
+   <lb ed="#B" n="57"/>nitatis Anno. xli. post passionem, vt in marmore 
+   <lb ed="#B" n="58"/>duro in eius facie insculptum intueri potes. Sanctus 
+   <lb ed="#B" n="59"/>lulianus, &amp; sctus Martialis Christi in propria
+   disci<lb ed="#B" n="60" break="no"/>puli, Magdalena, &amp; Martha eius hospites
+   sanctissi<lb ed="#B" n="61" break="no"/>mae, cum plerisque aliis Gallias visitarut, &amp; in eis eorum 
+   <lb ed="#B" n="62"/>corpora requiescunt. sic de Iacobo aebedeo in Hispa 
+   <lb ed="#B" n="63"/>nia, &amp; in aliis locis totius orbis inuenies. immo ante Hio 
+   <lb ed="#B" n="64"/>rosolymam euersam omnia impleta sunt per quod litera 
+   <lb ed="#B" n="65"/>Christi videtur clarissima Matth. xxiiii. vbi loquitur 
+   <lb ed="#B" n="66"/>de destructione templi secundi inquiens. &amp; praedicabitur 
+   <lb ed="#B" n="67"/>hoc euangelium regni in vniuerso orbe in testimo 
+   <lb ed="#B" n="68"/>nium omnibus gentibus. &amp; tunc veniet consummatio. &amp;
+   lite<lb ed="#B" n="69" break="no"/>ra actuum. i. ad hoc est multum expressa, praecipiens apostolis 
+   <lb ed="#B" n="70"/>ne discederent ab Hierosolymis, sed expectarent
+   pro<lb ed="#B" n="71" break="no"/>missionem patris: quam audistis ( inquit) per os meum.
+   si<lb ed="#B" n="72" break="no"/>gnanter meum, paulo post subiungens: accipietis vir 
+   <lb ed="#B" n="73"/>tutem spriussancti: &amp; eritis mihi testes in omni ludaea, &amp; 
+   <lb ed="#B" n="74"/>Samaria, &amp; vsque ad vltimum terrae. apostolis enim &amp; disci 
+   <lb ed="#B" n="75"/>pulis locutus est in persona. Stat est multas insulas tempore 
+   <lb ed="#B" n="76"/>apostolorum non fuisse habitatas quae nunc hominibus abum 
+   <lb ed="#B" n="77"/>dant. Alio modo etiam dicitur: cum apostoli &amp;
+   septua<lb ed="#B" n="78" break="no"/>ginta duo discipuli Christi totu continentem
+   visita<lb ed="#B" n="79" break="no"/>runt &amp; multas insulas gentium: licet aliquas insulas non 
+   <lb ed="#B" n="80"/>visitarunt: in omnem terram exiuit sonus eorum: quia
+   pau<lb ed="#B" n="81" break="no"/>citas talium illam vniuersalem vulgariter loquedo etiam 
+   <lb ed="#B" n="82"/>more scripturae non impedit: sicut scriptura dicit quod 
+   <lb ed="#B" n="83"/>omnes qui exierunt de aegypto ob rebellionem morerentur 
+   <lb ed="#B" n="84"/>in deserto, &amp; nullus eorum terram promissionis
+   ingrede<lb ed="#B" n="85" break="no"/>retur: &amp; tamen constat ex variis locis scripturae quod Iosue, &amp; 
+   <lb ed="#B" n="86"/>Caleph, viri principes terram promissionis caelitus datam 
+   <lb ed="#B" n="87"/>ingressi sunt. quid autem sit de his insularibus qui 
+   <lb ed="#B" n="88"/>de fide nihil audiuerunt, epilogando dicetur. 
+  </p>
+      <p xml:id="jMqv4a-d1e125-d1e491">
+       <lb ed="#B" n="89"/>⁋ Dubitatur. quia in quaestione prae 
+   <lb ed="#B" n="90"/>cedenti diximus ex positione <name xml:id="jMqv4a-d1e125-Nd1e497" ref="#Augustine">Augustini</name> quod syna 
+   <lb ed="#B" n="91"/>goga erat deducenda ad tumulum cum honore: &amp; genti 
+   <lb ed="#B" n="92"/>lium idololatria ocyssime exterminanda: nec gentiles 
+   <lb ed="#B" n="93"/>legalia obseruarunt tempore illo intermedio: sed habebant 
+   <lb ed="#B" n="94"/>aliqua praecepta ab apostolis, &amp; colunnis ecclesiae sibi tradi 
+   <lb ed="#B" n="95"/>ta: dubitatur inquam quae sint illa. Pro ista dubitatione 
+   <lb ed="#B" n="96"/>intelligenda supponatur historia quam recitat btuns Lu 
+   <lb ed="#B" n="97"/>cas Actuum. xv. de schismate quod erat inter quosdam 
+   <lb ed="#B" n="98"/>descendentes de iudaea pro vna parte: &amp; inter Paulum, &amp; 
+   <lb ed="#B" n="99"/>Barnabam ex altera. lsti descendentes de ludaea
+   doce<lb ed="#B" n="100" break="no"/>bant fratres: quia nisi circuncidimini secundum legem 
+   <lb ed="#B" n="101"/>Moysi non potestis salui fieri. facta autem seditione 
+   <lb ed="#B" n="102"/>non minima, itum est Hierosolymam ab vtrisque
+   quaestio<lb ed="#B" n="103" break="no"/>nem grauissimam proposituris coram senioribus: an gen 
+   <lb ed="#B" n="104"/>tes protunc tenerentur seruare legalia. Et cum quidam 
+   <lb ed="#B" n="105"/>pharisaeorum qui crediderunt in Christum: ita
+   as<lb ed="#B" n="106" break="no"/>seruissent: ab apostolis, &amp; senioribus magna con 
+   <lb ed="#B" n="107"/>quisitio facta est. &amp; cum Petrus allegauit pro se 
+   <lb ed="#B" n="108"/>quomodo per os suum deus voluit gentes credere. 
+   <lb ed="#B" n="109"/>&amp; de Cornelio, vt patet Actuum. x. Et cum Paulus &amp; 
+   <!--0081.xml-->
+   <pb ed="#B" n="25-r"/>
+       <cb ed="#B" n="a"/>
+       <lb ed="#B" n="1"/>Barnabas tacente multitudine (vt inquit Lucas 
+   <lb ed="#B" n="2"/>quanta deus fecisset signa &amp; prodigia in gentibus 
+   <lb ed="#B" n="3"/>per eos, natrarent: ecce verba epistolae missae a bas 
+   <lb ed="#B" n="4"/>bus ecclesiae, sicut Lucas recitat, ad fratres. Apo 
+   <lb ed="#B" n="5"/>stoli &amp; seniores fratres his qui sunt Antiochiae &amp; 
+   <lb ed="#B" n="6"/>Syriae &amp; Ciliciae fratribus ex gentibus, salutem. 
+   <lb ed="#B" n="7"/>Quoniam audiuimus, quia quidam ex nobis
+   exeun<lb ed="#B" n="8" break="no"/>tes turbauerunt vos verbis, euertentes animas vetrtias 
+   <lb ed="#B" n="9"/>quibus non mandauimus: placuit nobis collectis in  
+   <lb ed="#B" n="10"/>vnum eligere viros: &amp; mittere ad vos cum charissi 
+   <lb ed="#B" n="11"/>mis notris Barnaba &amp; Paulo: hominibus qui tradiderumt 
+   <lb ed="#B" n="12"/>animas suas pro nomine domini nostri Iesu Christi. Misimus 
+   <lb ed="#B" n="13"/>ergo luda &amp; Syllam: qui &amp; ipsi vobis verbis refe 
+   <lb ed="#B" n="14"/>ret eadem. Visum est enim spiritui sancto &amp; nobis nihil 
+   <lb ed="#B" n="15"/>vltra imponere vobis oneris quam haec necessaria: vi 
+   <lb ed="#B" n="16"/>abstineatis vos ab immolatis simulacrorum &amp; 
+   <lb ed="#B" n="17"/>sanguine &amp; suffocato &amp; fornicatione, a quibus
+   cu<lb ed="#B" n="18" break="no"/>stodientes vos bene agetis. valete. Omnia ista post 
+   <lb ed="#B" n="19"/>impositionem concilii erant gentilibus pro tempore ne 
+   <lb ed="#B" n="20"/>cessaria ad salutem quousque tolleretur schisma
+   im<lb ed="#B" n="21" break="no"/>ter ludaeos &amp; Gentiles. sed bona pace habita in  
+   <lb ed="#B" n="22"/>ter eos, aliqua istorum erant ablata: licet locus in  
+   <lb ed="#B" n="23"/>scriptuta non legatur. Gentiles enim putabant
+   for<lb ed="#B" n="24" break="no"/>nicationem licitam: illa fuit eis prohibita in perpe 
+   <lb ed="#B" n="25"/>tuum. ludaei autem maxime abhorrebant a comestio 
+   <lb ed="#B" n="26"/>ne de ldolothitis: &amp; facile potuissent iudicare quod 
+   <lb ed="#B" n="27"/>Gentiles ad idololatriam reuerti voluissent si
+   come<lb ed="#B" n="28" break="no"/>dissent de cibis illis. Et licet comedere animalia
+   suf<lb ed="#B" n="29" break="no"/>focata &amp; sanguinem esset licitum: tamen per longam
+   dissue<lb ed="#B" n="30" break="no"/>tudinem Hebraeorum reputabatur illicitum: sicut multi 
+   <lb ed="#B" n="31"/>extranei reputant Parisienses male agere,
+   come<lb ed="#B" n="32" break="no"/>dentes carnes inter festum natiuitatis &amp; purifica 
+   <lb ed="#B" n="33"/>tionis inclusiue in die sabbati. Pro tali itaque
+   con<lb ed="#B" n="34" break="no"/>cordi vita transigenda, haec cerimoni alia pro
+   tem<lb ed="#B" n="35" break="no"/>pore imposita sunt gentilibus ad fidem conversis. sed 
+   <lb ed="#B" n="36"/>familiaritate &amp; amicitia inter ludaeos &amp; Gentiles 
+   <lb ed="#B" n="37"/>conversos habita istud e medio sublatum est. vt
+   pa<lb ed="#B" n="38" break="no"/>tet ex Paulo primae ad Timotheum. iiii. Nihil est re 
+   <lb ed="#B" n="39"/>ijciendum quod cu gratiarum actione recipitur. secundum 
+   <lb ed="#B" n="40"/>verbum Christi Matthaei. xv. Nihil quod per os intra 
+   <lb ed="#B" n="41"/>coinquinat hominem. 
+  </p>
+      <p xml:id="jMqv4a-d1e125-d1e638">
+       <lb ed="#B" n="42"/>⁋ Concludendo dico quod lex Mosaica qua 
+   <lb ed="#B" n="43"/>erat paedagogus, est sublata: non tamen in hoc 
+   <lb ed="#B" n="44"/>quod figurabat: sed consummatissime impleta est, quia vetus te 
+   <lb ed="#B" n="45"/>stamentum in potioribus partibus erat circa Messiam docens 
+   <lb ed="#B" n="46"/>de qua tribu &amp; qua familia &amp; domo descensurus 
+   <lb ed="#B" n="47"/>erat: &amp; quomodo aliquam legis reuocauit ad bonum sensum 
+   <lb ed="#B" n="48"/>vt ex Hieremiae. xxxi. cap. allegauimus. &amp; quod ei cre 
+   <lb ed="#B" n="49"/>dendum erat in nouo testameto in singulis quae diceret
+   si<lb ed="#B" n="50" break="no"/>cut Moysi in veteri. secund illd Deuteronomii. xviii 
+   <lb ed="#B" n="51"/>Prophetam de gente tua &amp; de fribus tuis sicut me sus 
+   <lb ed="#B" n="52"/>citabit tibi dominus deus tuus, ips audies. Et cum omnia legis 
+   <lb ed="#B" n="53"/>Mosaicae orancula in Christo Iesu impleta sint: erat
+   le<lb ed="#B" n="54" break="no"/>gis consummatio: &amp; in ipso ostensa est lex impleta. Amplius 
+   <!--0081.xml-->
+   <cb ed="#B" n="b"/> 
+       <!-- 25-r b -->
+       <lb ed="#B" n="55"/>dicitur quod nec Paulus nec apstlorum aliquis poterat legen Mo 
+   <lb ed="#B" n="56"/>saicam de medio tollere. ratio: erat a deo lata ler mediam 
+   <lb ed="#B" n="57"/>te angelo &amp; Moyse: modo lex non potest tolli ab
+   inferio<lb ed="#B" n="58" break="no"/>re. sed a deo sublata est: &amp; auctoritatiue auctoritate 
+   <lb ed="#B" n="59"/>humana ab indubitato concilio &amp; infallibili apstolorum &amp; 
+   <lb ed="#B" n="60"/>seniorum declarata. Et ad hoc declarandum magni
+   il<lb ed="#B" n="61" break="no"/>li arietes actuum. xv. intronduxerunt passus scriptu 
+   <lb ed="#B" n="62"/>rae sacrae, &amp; miraculosas operationes dei ad osteden 
+   <lb ed="#B" n="63"/>dum quod auctoritate dei hoc fecerunt: le etiam hoc fece 
+   <lb ed="#B" n="64"/>rint ob aliud, dantes formam reliquis conciliis, in rebus 
+   <lb ed="#B" n="65"/>ambiguis &amp; arduis a scriptura &amp; miraculis dei 
+   <lb ed="#B" n="66"/>rimari testimonia oportere inquantum patert cum librami 
+   <lb ed="#B" n="67"/>ne: reliquam spiritus sancti vnctioni reliquendo. Vlterius 
+   <lb ed="#B" n="68"/>dicitur quod verisimilius est quod apostoli &amp; discipuli in propriis pe 
+   <lb ed="#B" n="69"/>sonis legem gratiae ad vltima terrae deduxerunt. na 
+   <lb ed="#B" n="70"/>celerrimi cursus eorum vita celeberrima (quam crebro 
+   <lb ed="#B" n="71"/>plusquam verba mouet) caerat: &amp; profundissimus
+   sen<lb ed="#B" n="72" break="no"/>sus scripturae caelitus infusus: sic quod nec Hebraeorum do 
+   <lb ed="#B" n="73"/>ctores nec gentilium flamines resistere poterant spiritu 
+   <lb ed="#B" n="74"/>qui loquabatur: &amp; vnctio docuit eos omnia. &amp; in bona huili. 
+   <lb ed="#B" n="75"/>tate &amp; simplicitate dei gloriam &amp; non suam quaerentes prof 
+   <lb ed="#B" n="76"/>ciebant: sicut in historia tripartita legimus de Gentili illo 
+   <lb ed="#B" n="77"/>philosopho qui tamquam anguilla lubrica ab eruditorum 
+   <lb ed="#B" n="78"/>manibus in publico cocilio euasit: qui tamen cuidam simpli 
+   <lb ed="#B" n="79"/>cissimo christiano respondere nequibat: sed per eum ad
+   fi<lb ed="#B" n="80" break="no"/>dem ductus est inquiens, dum rationes hominium in medium alla 
+   <lb ed="#B" n="81"/>tae sunt, pro verbis verba obieci: sed dum spiius dei in 
+   <lb ed="#B" n="82"/>hoc simplici locutus est, clausa est mihi responsio.
+   Mor<lb ed="#B" n="83" break="no"/>tuos resuscitauerunt, &amp; innumera indubitata &amp; claris 
+   <lb ed="#B" n="84"/>sima miracula in veritatis testimonium quibus rationabi 
+   <lb ed="#B" n="85"/>liter contradicere nequibant, exhibuerunt. Cum hoc tame 
+   <lb ed="#B" n="86"/>stat quod verum est dictum <name xml:id="jMqv4a-d1e125-Nd1e744" ref="#Augustine">Augustini</name> de barbaris ad eum 
+   <lb ed="#B" n="87"/>andlatis, asserentibus se nuqui de aliquam lege audiuisse: 
+   <lb ed="#B" n="88"/>quia eorum progenitores hoc audiuert vel apostolis
+   Chri<lb ed="#B" n="89" break="no"/>ti &amp; discipulis more aliorum reproborum non acquiesce 
+   <lb ed="#B" n="90"/>tes, vel verbum dei apud eos ex eorum culpa extinctum 
+   <lb ed="#B" n="91"/>est: quorum paruuli non baptizati morientes ntrorum mo 
+   <lb ed="#B" n="92"/>re danantur: quia no curat a morbo spirituali in quo nati 
+   <lb ed="#B" n="93"/>sunt / medicorum defectu ex culpa parentum.
+  </p>
+      <p xml:id="jMqv4a-d1e125-d1e763">
+   ⁋ De ad 
+   <lb ed="#B" n="94"/>ultis est quaestio huic materiae non aliena, sed rapti transeun 
+   <lb ed="#B" n="95"/>do dici potest: si bene suis naturalibus vtantur mediate. vel 
+   <lb ed="#B" n="96"/>imediate, in necessariis ad salutem deus eos illumina 
+   <lb ed="#B" n="97"/>bit, sicut Cornelium illuminauit: cuius illustrationi si 
+   <lb ed="#B" n="98"/>no acquieuerit / sed naturalibus a deo datis abutantur, dam 
+   <lb ed="#B" n="99"/>nabut / quia ignoras ignorabitur: vbi ignorantia est vinci 
+   <lb ed="#B" n="100"/>bilis. De lege tamen non admitto quod faciant quod in se est: &amp; 
+   <lb ed="#B" n="101"/>non illuminabuntur in fide. malo noc dicere qui quod stat 
+   <lb ed="#B" n="102"/>illos bene vti naturalibus, &amp; non illuminari / sed danabum 
+   <lb ed="#B" n="103"/>tur more paruulorum: quia no purgantur a morbo in quo 
+   <lb ed="#B" n="104"/>concepti sut: sicut nesciens iuicibiliter medicinam sui 
+   <lb ed="#B" n="105"/>corporis curatiuam moritur sine sua culpa: quia paruulus 
+   <lb ed="#B" n="106"/>nullum actum voluntatis habet: nec bene naturalibus 
+   <lb ed="#B" n="107"/>vtitur. de lege semper loquor. si autem rationem attigerit, &amp; 
+   <lb ed="#B" n="108"/>moritur tempore induciarum anqui actum bonum voluntatis ha 
+   <lb ed="#B" n="109"/>buerit, more paruuli damnabitur.
+  </p>
+    </div>
+   </body>
+  </text>
+</TEI>

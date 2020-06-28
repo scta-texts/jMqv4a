@@ -1,0 +1,819 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 1</title>
+      <author ref="#JohnMair">John Mair</author>
+      <respStmt>
+       <name>Jeffrey C. Witt</name>
+       <resp>TEI Encoder</resp>
+      </respStmt>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 1</title>
+       <date when="2020-06-09">June 27, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="B" n="cod-Bda113">Badius 1516</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+     guidelines for a diplomatic edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-06-27" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+      <pb ed="#B" n="9-r"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="jMqv4a-d1e4436"> <!-- l4d1q1 -->
+      <head xml:id="jMqv4a-d1e4436-Hd1e104">Quaestio 1</head>
+      <head xml:id="jMqv4a-d1e4436-Hd1e107" type="question-title">An creatura possit creare</head>
+      <p xml:id="jMqv4a-d1e4436-d1e110">
+       <lb ed="#B" n="13"/>CIRca hanc pri 
+   <lb ed="#B" n="14"/>mam distinctionem 
+   <lb ed="#B" n="15"/>Quarti quaeram ali 
+   <lb ed="#B" n="16"/>qua. Primo cum 
+   <lb ed="#B" n="17"/>multis
+   scriptori<lb ed="#B" n="18" break="no"/>bus: an creatura 
+   <lb ed="#B" n="19"/>possit creare. quo 
+   <lb ed="#B" n="20"/>soluto patebit an 
+   <lb ed="#B" n="21"/>sacramenta
+   cre<lb ed="#B" n="22" break="no"/>ent gratiam.
+   Secun<lb ed="#B" n="23" break="no"/>do de definitione 
+   <lb ed="#B" n="24"/>Sacramenti quam 
+   <lb ed="#B" n="25"/>ponit Magister / an 
+   <lb ed="#B" n="26"/>sit bona. Tertio. an sacramenta nouae legis causa 
+   <lb ed="#B" n="27"/>litatem habeant respectu characteris vel ornatus. 
+   <lb ed="#B" n="28"/>Quarto. an in variis legibus varia fuerint sacra 
+   <lb ed="#B" n="29"/>menta. Quinto. de circuncisione &amp; eius obligatio 
+   <lb ed="#B" n="30"/>ne.
+  </p>
+      <p xml:id="jMqv4a-d1e4436-d1e152">
+   ⁋ Quo ad primum quaeritur. Vtrum creatura pos 
+   <lb ed="#B" n="31"/>sit creare. 
+  </p>
+      <p xml:id="jMqv4a-d1e4436-d1e158">
+       <lb ed="#B" n="32"/>Pro solutione quaestionis est
+   notan<lb ed="#B" n="33" break="no"/>dum quod creare &amp; creatura capitur multis modis &amp; aec 
+   <lb ed="#B" n="34"/>uoce. hoc patet per regulam inueniendae aequiuocatio 
+   <lb ed="#B" n="35"/>nis. Multae enim affirmatiuae conceduntur de creare &amp; 
+   <lb ed="#B" n="36"/>multae negatiue: &amp; ratio est in concedendo: sed repu 
+   <lb ed="#B" n="37"/>gnantia no possunt esse vera: quae euadi non possunt 
+   <lb ed="#B" n="38"/>nisi per aequiuocationem. Dicimus enim iste pontifex 
+   <lb ed="#B" n="39"/>istum doctum creauit. Similiter Parisiis dicitur intran 
+   <lb ed="#B" n="40"/>tes rectorem creare. intrantes autem sunt creaturae: &amp; 
+   <lb ed="#B" n="41"/>quales, deus nouit. Ex istis consequens est quod
+   cre<lb ed="#B" n="42" break="no"/>atura potest creare. Rursus haec negatiua concedii 
+   <lb ed="#B" n="43"/>communiter a theologis: creatura non potest creare 
+   <lb ed="#B" n="44"/>nec stant in hoc quod secunda est indefinita: immo 
+   <lb ed="#B" n="45"/>loco vniuersalis accipiunt. Comnis namque modus
+   lo<lb ed="#B" n="46" break="no"/>quendi sufficit pro affirmatiua: &amp; theologi
+   commu<lb ed="#B" n="47" break="no"/>niter scribentes pro parte negatiua. Sic poetae / &amp;
+   gran<lb ed="#B" n="48" break="no"/>matici / &amp; caeterarum scientiarum professores suas
+   aequi<lb ed="#B" n="49" break="no"/>uocationes ostendunt. Creare igitur capitur multis 
+   <lb ed="#B" n="50"/>modis. Primo modo idem est quod promouere vel ele 
+   <!--0049.xml-->
+   <cb ed="#B" n="b"/> 
+       <!-- 9-r b -->
+       <lb ed="#B" n="51"/>uare. &amp; sic Canonistae vtuntur vocabulo. Secundo  
+   <lb ed="#B" n="52"/>modo idem est quod producere. &amp; sic capit
+   Commenta<lb ed="#B" n="53" break="no"/>tor tertio de Anima dicens. Intellectus creat
+   intelle<lb ed="#B" n="54" break="no"/>ctionem. i producit. sed istae acceptiones non sunt ad 
+   <lb ed="#B" n="55"/>propositu. Si petas quare illas acceptiones dedi 
+   <lb ed="#B" n="56"/>cum non sint ad propositum: Respondeo. sunt ad propo 
+   <lb ed="#B" n="57"/>situm doctrinae, sed non ad propositum quaestionis: quia sic 
+   <lb ed="#B" n="58"/>non capimus terminum in processu quaestionis. Istis 
+   <lb ed="#B" n="59"/>acceptionibus seclusis creatura vel craeare in pro 
+   <lb ed="#B" n="60"/>posito est res quae producitur ab agente quod passum 
+   <lb ed="#B" n="61"/>non praesupponit. Et tot modis capitur annihilares 
+   <lb ed="#B" n="62"/>quia quot modis dicitur vnum oppositorum, tot 
+   <lb ed="#B" n="63"/>modis dicitur reliquum: quando in omni acceptione 
+   <lb ed="#B" n="64"/>aduersantur per regulam Topicam, &amp; quinti Ethico 
+   <lb ed="#B" n="65"/>rum primo.
+  </p>
+      <p xml:id="jMqv4a-d1e4436-d1e241">
+   ⁋ Ex isto sequitur quod eadem res numero 
+   <lb ed="#B" n="66"/>generatur &amp; creatur respectu diuersarum causarum. 
+   <lb ed="#B" n="67"/>Forma enim equi generatur ab equo, &amp; creatur a 
+   <lb ed="#B" n="68"/>deo. hoc patet: quia equus praesupponit influxum 
+   <lb ed="#B" n="69"/>materiae: deus autem non praesupponit, nec hoc est
+   ma<lb ed="#B" n="70" break="no"/>ius incoueniens: quam quod eadem res naturaliter generelin 
+   <lb ed="#B" n="71"/>ab vno agente &amp; libere ab alio. quemadmodum de 
+   <lb ed="#B" n="72"/>volitione contingit, quae naturaliter producitur a
+   co<lb ed="#B" n="73" break="no"/>gnitione, &amp; libere a voluntate. Et si arguas. forma 
+   <lb ed="#B" n="74"/>equi est creatura respectu dei: ergo est creatura. 
+   <lb ed="#B" n="75"/>&amp; vltra sequitur quod est non creatura ab equo: ergo 
+   <lb ed="#B" n="76"/>est non creatura: &amp; sic eadem res esset creatura &amp; non 
+   <lb ed="#B" n="77"/>creatura copulatiue. Respondetur quod secunda conse 
+   <lb ed="#B" n="78"/>quentia est nulla: quia arguitur a parte in modo ad 
+   <lb ed="#B" n="79"/>suum totum cum dictione infinitante. Anina autem
+   intelle<lb ed="#B" n="80" break="no"/>ctiua, gratia, fides, spes, angeli, matera
+   prima<lb ed="#B" n="81" break="no"/>characteres sacramentorum sunt creaturae ab omni 
+   <lb ed="#B" n="82"/>causa secunda immunes: quia solus deus concurrit ad 
+   <lb ed="#B" n="83"/>illarum rerum productionem. Et licet producantur in
+   subie<lb ed="#B" n="84" break="no"/>cto, non tamen ex subiecto: hoc est nec materia hominis 
+   <lb ed="#B" n="85"/>nec hominis anima ad illa concurrit in genere causae mate 
+   <lb ed="#B" n="86"/>rialis: sicut est de forma equi. lsto modo paucae 
+   <lb ed="#B" n="87"/>res creantur: nec omnis res est creator vel creatura hoc 
+   <lb ed="#B" n="88"/>modo, saltem respectu creaturae.
+  </p>
+      <p xml:id="jMqv4a-d1e4436-d1e293">
+   ⁋ Petis an homo 
+   <lb ed="#B" n="89"/>creetur ab omni causa, ponendo vnam animam in 
+   <lb ed="#B" n="90"/>tellectiuam in eo, hoc modo capiendo creare. Diciu 
+   <lb ed="#B" n="91"/>quod sic. illud enim sufficere videtur quod materia interdum 
+   <lb ed="#B" n="92"/>creabatur: &amp; nunc anima creatur: secus est de forma 
+   <lb ed="#B" n="93"/>equi respectu alterius: licet prima anima equi creetur 
+   <lb ed="#B" n="94"/>a deo: ponendo formam corporeitatis in homine:
+   ho<lb ed="#B" n="95" break="no"/>mo enim non totaliter creatur. Quia autem creatura non  
+   <lb ed="#B" n="96"/>possit creare independenter, num quae fuit difficultas inter 
+   <lb ed="#B" n="97"/>theologos, non enim potest esse creatura quin
+   de<lb ed="#B" n="98" break="no"/>pendeat a deo: ergo non potest creare
+   indepen<lb ed="#B" n="99" break="no"/>denter. 
+   <lb ed="#B" n="100"/>De proposita quaestione multae sunt 
+   <lb ed="#B" n="101"/>opiniones. Auicenna dicebat creaturam posse
+   crea<lb ed="#B" n="102" break="no"/>re: vt patet de catena aurea nono suae Metaphysi 
+   <lb ed="#B" n="103"/>cae. capite quaerto. aet alibi. Ex cuius dictis haec trahi 
+   <lb ed="#B" n="104"/>possunt. Deus ab aetemo intelligendo seipsum, pro 
+   <!--0050.xml-->
+   <pb ed="#B" n="9-v"/>
+       <cb ed="#B" n="a"/>
+       <lb ed="#B" n="1"/>ducit vnum angelum. ille primus angelus ab aeter 
+   <lb ed="#B" n="2"/>no productus tria intelligit: primo deum: per hanc
+   in<lb ed="#B" n="3" break="no"/>tel iectionem producit secundam intelligentiam: prima produ 
+   <lb ed="#B" n="4"/>cta inferiore. Secundo intelligit seipsum: &amp; in hoc pro 
+   <lb ed="#B" n="5"/>ducit animam primi orbis, hoc est caeli decimi. Ter 
+   <lb ed="#B" n="6"/>tio intelligit suam potentialitatem: hoc est quod non
+   ha<lb ed="#B" n="7" break="no"/>bet necessitatem ex se: sed ab alio. &amp; in illa intelle 
+   <lb ed="#B" n="8"/>ctione producit primum mobile. Secundus angelus a 
+   <lb ed="#B" n="9"/>primo productus intelligendo primum productu
+   produ<lb ed="#B" n="10" break="no"/>cit tertiu se inferiorem. Et de anima secundi orbis &amp;
+   se<lb ed="#B" n="11" break="no"/>cundo orbe dicatur: sicut nunc de primo diximus: &amp; 
+   <lb ed="#B" n="12"/>sic vsque ad orbem lunae, &amp; ad datricem formarum inclu 
+   <lb ed="#B" n="13"/>siue dicatur. Hic modus dicendi cum productione
+   perso<lb ed="#B" n="14" break="no"/>natum in diuinis aliquam vicinitatem habet: &amp; difficile 
+   <lb ed="#B" n="15"/>est eum in lumine naturali eluere. Creatio autem
+   aeter<lb ed="#B" n="16" break="no"/>na non repugnat dictis philosophorum principis. ni. 
+   <lb ed="#B" n="17"/>Meta. dicentis quod a primo motore dependet caelum &amp; 
+   <lb ed="#B" n="18"/>materia prima. Et Commentator in de substantia
+   or<lb ed="#B" n="19" break="no"/>bis tractatu secundo, dicit, quod corpus caeleste indiget 
+   <lb ed="#B" n="20"/>non tantum virtute mouente in loco, sed largiente ei in 
+   <lb ed="#B" n="21"/>se &amp; in sua substantia permanentiam aeterna. Praeterea 
+   <lb ed="#B" n="22"/>secundo Meta. sempiternorum sunt causae quae sunt
+   ma<lb ed="#B" n="23" break="no"/>xime: quia sunt causa aliis vt sint, no solum de
+   sem<lb ed="#B" n="24" break="no"/>piternitate conclusionis: hoc est propositionum neces 
+   <lb ed="#B" n="25"/>sariarum Nec deterreberis propterea quod aliquis effectus 
+   <lb ed="#B" n="26"/>de necessitate fit &amp; ab aetemo: quia hoc <name xml:id="jMqv4a-d1e4436-Nd1e392" ref="#Aristotle">Aristotelen</name> 
+       <lb ed="#B" n="27"/>concedere oportebit: vt patet de lumine solis pro 
+   <lb ed="#B" n="28"/>ducto in Venerem &amp; Mercurium: qui semper sunt in bo 
+   <lb ed="#B" n="29"/>na propinquitate ad solem. Sed quia illic esset ambages 
+   <lb ed="#B" n="30"/>de partibus illius luminis propter remissionem quando  
+   <lb ed="#B" n="31"/>planetae illi multum distant a sole: &amp; intensionem quando  
+   <lb ed="#B" n="32"/>soli appropinquantur: capiatur lumen in
+   determina<lb ed="#B" n="33" break="no"/>ta parte sphaerae solis, inter quam &amp; corpus solare non 
+   <lb ed="#B" n="34"/>pot cadere corpus opacum: illud lumen secund in Ari 
+   <lb ed="#B" n="35"/>stotelem fuit ab aetemo: hoc est tenendo perpetuitatem 
+   <lb ed="#B" n="36"/>mundi secundum imaginationem eius: quam (licet sit falsa) 
+   <lb ed="#B" n="37"/>tamen est possibilis: &amp; hoc sufficit, quod consequenter ips 
+   <lb ed="#B" n="38"/>habet dicere: scilicet quod illud lumen fuit ab aetemo: &amp; 
+   <lb ed="#B" n="39"/>de necessitate est: quia de necessitate habet esse a 
+   <lb ed="#B" n="40"/>sua causa non impedibili. &amp; dato quod quodlibet lumen 
+   <lb ed="#B" n="41"/>cum quolibet sit eiusdem speciei specialissimae: non se 
+   <lb ed="#B" n="42"/>quitur, si lumen hic inferius corrumpatur quod lumen 
+   <lb ed="#B" n="43"/>in sphaera solis corrumpatur: sed est corruptibile de ses 
+   <lb ed="#B" n="44"/>&amp; corruperetur nisi haberet causam necessario ipsum 
+   <lb ed="#B" n="45"/>conseruantem. &amp; sic ipsum est corruptibile suapte
+   na<lb ed="#B" n="46" break="no"/>tura. Et similiter dicere potes de quantitate continua 
+   <lb ed="#B" n="47"/>tenendo quantitatem a substantia &amp; qualitate distinctam: 
+   <lb ed="#B" n="48"/>quantitas enim caeli num quam corrumpetur: &amp; tamen quantitas ho 
+   <lb ed="#B" n="49"/>rum inferiorum corrumpitur. Sic de intelligentiis orbium di 
+   <lb ed="#B" n="50"/>cetur: quod omne, a primo motore habent esse: &amp; de
+   ne<lb ed="#B" n="51" break="no"/>cessitate sunt: licet habeant esse ab alio.
+  </p>
+      <p xml:id="jMqv4a-d1e4436-d1e450">
+   ⁋ Ex his 
+   <lb ed="#B" n="52"/>colligitur quod creatio est possibilis naturaliter: crea 
+   <lb ed="#B" n="53"/>tio inquam necessaria, quod patet de istis substantiis 
+   <lb ed="#B" n="54"/>separatis productis ab aetemo extra materiam. Illud 
+   <lb ed="#B" n="55"/>autem Arist. primo Physicorum. Ex nihilo nihil fit: 
+   <!--0050.xml-->
+   <cb ed="#B" n="b"/> 
+       <!-- 9-v b -->
+       <lb ed="#B" n="56"/>vt dicunt omnes naturaliter loquentes: sic intelligitur. 
+   <lb ed="#B" n="57"/>ninil fit ex subiecto non praesupposito ordine
+   dura<lb ed="#B" n="58" break="no"/>tionis, hoc est temporis. Si ponas primam
+   intelligen<lb ed="#B" n="59" break="no"/>tiam per instans vel repus non producere secundam
+   intelli<lb ed="#B" n="60" break="no"/>gentiam: &amp; haec necessaria: impossibile in natura po 
+   <lb ed="#B" n="61"/>nis: ad quod nulla est potentia. 
+  </p>
+      <p xml:id="jMqv4a-d1e4436-d1e481">
+       <lb ed="#B" n="62"/>⁋ Caeterum theologi super quaestione 
+   <lb ed="#B" n="63"/>proposita inter se digladiantur: sed vuitatius tenetur 
+   <lb ed="#B" n="64"/>pars negatiua, aliquibus tamen tenentibus quod potentia 
+   <lb ed="#B" n="65"/>creandi creaturae impartiri potest: licet eam adhuc
+   creatu<lb ed="#B" n="66" break="no"/>rae non impartiuerit. Huius opinionis visus est esse 
+   <lb ed="#B" n="67"/>Magister sententiarum dist. v. huius quarti. Alii autem 
+   <lb ed="#B" n="68"/>tenent quod nec principaliter, nec instrumentaliter
+   crea<lb ed="#B" n="69" break="no"/>tura post creare. Alii, quod potest annihilare: non autem 
+   <lb ed="#B" n="70"/>creare.
+  </p>
+      <p xml:id="jMqv4a-d1e4436-d1e503">
+   ⁋ Conterraneus post multas rationes
+   praede<lb ed="#B" n="71" break="no"/>cessorum reprobatas capit tres propositiones: quibus 
+   <lb ed="#B" n="72"/>concludit contra Auicennam, quod creatura non potest
+   crea<lb ed="#B" n="73" break="no"/>re. Prima est. nullum accidens requiritur ad causandam  
+   <lb ed="#B" n="74"/>substantiam. Secunda propositio. intellectio angeli ab 
+   <lb ed="#B" n="75"/>eo distinguitur. Tertia. ad quodcumque producendum
+   ex<lb ed="#B" n="76" break="no"/>tra requiritur intellectio &amp; voluntas. Intelligit de pro 
+   <lb ed="#B" n="77"/>ductione non obiectiua: notum est enim quod angelus 
+   <lb ed="#B" n="78"/>concurrit ad notitiam intuitiuam quae de eo habet, sine 
+   <lb ed="#B" n="79"/>notitia &amp; volitione: quia ad hoc facit albedo omnis 
+   <lb ed="#B" n="80"/>notitiae &amp; volitionis expers. Difficile est primam pro 
+   <lb ed="#B" n="81"/>positionem probare: oppositum autem fortasse est probabi 
+   <lb ed="#B" n="82"/>lius propositione ipsa in lumine naturali, vt patebit 
+   <lb ed="#B" n="83"/>xii. di. huius. Secunda est probabilis: &amp; oppositum 
+   <lb ed="#B" n="84"/>vix sine pertinacia defendi potest etiam in lumine
+   natu<lb ed="#B" n="85" break="no"/>rali. certa tamen est in lumine fidei. Difficile etiam est 
+   <lb ed="#B" n="86"/>tertiam propositionem probare. homo enim ex
+   imagina<lb ed="#B" n="87" break="no"/>tione barbam fricat &amp; habitu more Tulliano. sic 
+   <lb ed="#B" n="88"/>de aliquam operatione angelica dicetur.
+  </p>
+      <p xml:id="jMqv4a-d1e4436-d1e546">
+   ⁋ Ad partem nega 
+   <lb ed="#B" n="89"/>tiuam arguit Doctor Subtilis sic. Si forma posset 
+   <lb ed="#B" n="90"/>producere formam extra subiectum, produceret aliquid per 
+   <lb ed="#B" n="91"/>fectius se: quia forma absoluta a subiecto est perfe 
+   <lb ed="#B" n="92"/>ctior forma informante. Rursus arguitur ab eodem: 
+   <lb ed="#B" n="93"/>forma non potest producere materiam. hoc patet: quia de 
+   <lb ed="#B" n="94"/>pendet a materia: ergo non potest producere formam.
+   <lb ed="#B" n="95" break="no"/>consequantia tenet: quia repugnantia videtur quod aliquid de 
+   <lb ed="#B" n="96"/>pendeat per se ab aliquo eiusdem rationis cum termino ad  
+   <lb ed="#B" n="97"/>quem productionis.
+  </p>
+      <p xml:id="jMqv4a-d1e4436-d1e568">
+   ⁋ Respondetur: hae rationes non videntur 
+   <lb ed="#B" n="98"/>concludere. nam in sacramento Eucharistiae tenendo quod 
+   <lb ed="#B" n="99"/>quantitas est res quanta: albedo est extra subiectu: 
+   <lb ed="#B" n="100"/>&amp; tamen non est perfectior alia albedine inhaerente niui: &amp; 
+   <lb ed="#B" n="101"/>dato quod quatitati inhaereat: si ponatur extra subiectum 
+   <lb ed="#B" n="102"/>quod est deo possibile, non est propterea perfectior. Sed 
+   <lb ed="#B" n="103"/>dicis perfectiori modo se habet si non mendicet esse a 
+   <lb ed="#B" n="104"/>passo. ergo si agens aliquod vtpote calor vel forma 
+   <lb ed="#B" n="105"/>substantialis produceret talem effectum, produceret aliquid 
+   <lb ed="#B" n="106"/>perfectius se vel perfectiori modo se habens. lstud 
+   <lb ed="#B" n="107"/>non concludit: quia forma ignis produceret calorem se 
+   <lb ed="#B" n="108"/>paratum: cum calor sit accidens: &amp; forma ignis immedi 
+   <lb ed="#B" n="109"/>ate possit producere calorem. Item non inconvenit causam 
+   <!--0051.xml-->
+   <pb ed="#B" n="10-r"/>
+       <cb ed="#B" n="a"/>
+       <lb ed="#B" n="1"/>partialem esse imperfectiorem suo effectu: sed ma 
+   <lb ed="#B" n="2"/>teria non informat: quae forma est imperfectior: ergo 
+   <lb ed="#B" n="3"/>non oportet quidlibet non informans esse perfectius
+   in<lb ed="#B" n="4" break="no"/>formante ex natura rei.
+  </p>
+      <p xml:id="jMqv4a-d1e4436-d1e612">
+   ⁋ Ad secundum dicitur quod non 
+   <lb ed="#B" n="5"/>concludit: aduersarius enim negaret anteedens dicendo 
+   <lb ed="#B" n="6"/>quod forma aliquam producibilis non dependet a materia: 
+   <lb ed="#B" n="7"/>&amp; illo concesso negaret consequntiam. quia forma ignis 
+   <lb ed="#B" n="8"/>dependet naturaliter a calore: &amp; calorem producit eius 
+   <lb ed="#B" n="9"/>dem speciei cum calore a quo dependet. 
+  </p>
+      <p xml:id="jMqv4a-d1e4436-d1e625">
+       <lb ed="#B" n="10"/>⁋ Ad eandem quaestionem Guilielmus 
+   <lb ed="#B" n="11"/>Oclcam argumentat sic. principium naturale
+   aequa<lb ed="#B" n="12" break="no"/>liter se habes ad plura eiusdem rationis vel producit 
+   <lb ed="#B" n="13"/>omnia vel nihil: sed si creatura potest creare aliquod 
+   <lb ed="#B" n="14"/>indiuiduum: qua ratione vnum, &amp; infinita: ex quo est 
+   <lb ed="#B" n="15"/>agens naturale aequaliter respiciens omnia: ergo 
+   <lb ed="#B" n="16"/>de facto crearet infinita indiuidua: quod est falsum: 
+   <lb ed="#B" n="17"/>Et eodem modo arguit de causa libera: quia
+   volun<lb ed="#B" n="18" break="no"/>tas infinita diuisiue distincte potest velle: ergo si 
+   <lb ed="#B" n="19"/>sit libera potest velle infinita simul. Et si dicas: 
+   <lb ed="#B" n="20"/>non potest velle infinita singularia: Potest velle 
+   <lb ed="#B" n="21"/>vnum vniuersale quod respicit infinita, vel nullum. Hac 
+   <lb ed="#B" n="22"/>probatione vtitur <ref xml:id="jMqv4a-d1e4436-Rd1e655">
+        <name xml:id="jMqv4a-d1e4436-Nd1e657" ref="#PetrusDeAilly">Aliacensis</name> in quarto</ref>. Sed
+   di<lb ed="#B" n="23" break="no"/>co quod modus arguendi nullus est: concludit enim
+   il<lb ed="#B" n="24" break="no"/>lud argumentum falsum sicut &amp; verum. nam probaret 
+   <lb ed="#B" n="25"/>aequaliter quod ignis produceret infinitos ignes in  
+   <lb ed="#B" n="26"/>materia. &amp; loquor de totalibus formis: de
+   partiali<lb ed="#B" n="27" break="no"/>bus enim ita est de facto. Capio eius maiore
+   prin<lb ed="#B" n="28" break="no"/>cipium naturale aequaliter habens &amp;c. determinatio 
+   <lb ed="#B" n="29"/>ad vnum effectum non plus prouenit ex parte passi quam 
+   <lb ed="#B" n="30"/>agentis creati: quia materia est indifferens ad omne 
+   <lb ed="#B" n="31"/>formam &amp;c. Si dicas. agens naturale determinatur: 
+   <lb ed="#B" n="32"/>causa prima: alioquin non potes dare rationem: qua 
+   <lb ed="#B" n="33"/>re filum vniformiter forte frangitur in vna parte &amp; 
+   <lb ed="#B" n="34"/>non in alia: nec quare corrumpitur vnus gradus in
+   te<lb ed="#B" n="35" break="no"/>missione formae ante alium: Fodem modo tibi dicetur 
+   <lb ed="#B" n="36"/>hic. Si dicas: est determinatio a causis superioribus 
+   <lb ed="#B" n="37"/>&amp; inferioribus quod vnum agens potest producere
+   eun<lb ed="#B" n="38" break="no"/>dem effectum numero: cum semper redeant omnes causae 
+   <lb ed="#B" n="39"/>eaedem numero: vt opinatus est Plato. vatiatis autem 
+   <lb ed="#B" n="40"/>causis, sed aliquibus positis generabitur similis ef 
+   <lb ed="#B" n="41"/>fectus in specie, numero distinctus. Fodem modo 
+   <lb ed="#B" n="42"/>tibi dicetur de forma corporali. 
+  </p>
+      <p xml:id="jMqv4a-d1e4436-d1e705">
+       <lb ed="#B" n="43"/>⁋ lstis tamen non obstantibus teneo 
+   <lb ed="#B" n="44"/>partem negatiuam potissimum propter auctoritates &amp; 
+   <lb ed="#B" n="45"/>communiorem opinionem doctorum: a qua temere
+   ab<lb ed="#B" n="46" break="no"/>eundum non arbitror. vnde beatus <name xml:id="jMqv4a-d1e4436-Nd1e715" ref="#Augustine">Augustinus</name>. xii 
+   <lb ed="#B" n="47"/>de ciuitate dei. capite. iiii. consimiliter tenet partem
+   ne<lb ed="#B" n="48" break="no"/>gatiuam quod angeli non sunt creatores: contra Platonem 
+   <lb ed="#B" n="49"/>qui tenuit illud quod <name xml:id="jMqv4a-d1e4436-Nd1e725">Auicenna</name> tenet nono suae
+   Me<lb ed="#B" n="50" break="no"/>taphysicae. &amp; expressius illud tangit. <ref xml:id="jMqv4a-d1e4436-Rd1e730">iii. de Trini 
+   <lb ed="#B" n="51"/>cap. ix.</ref> vbi loquitur de daemonum productione subita 
+   <lb ed="#B" n="52"/>circa ranas &amp; muscas: dicens quod minutissimas 
+   <lb ed="#B" n="53"/>muscas non poterant facere: quia non permittebantur- 
+   <!--0051.xml-->
+   <cb ed="#B" n="b"/> 
+       <!-- 10-r b -->
+       <lb ed="#B" n="54"/>Probat illud per dictum magorum. Exodi. viii.
+   Di<lb ed="#B" n="55" break="no"/>gitus dei est hic. Non curo de expositione Nicolai 
+   <lb ed="#B" n="56"/>Lyrani: qui sic probat digitum dei esse ibidem: quia 
+   <lb ed="#B" n="57"/>quicquid potest in maius: potest in minus. Illa 
+   <lb ed="#B" n="58"/>enim est distinguenda: vel est sensus, quicquid po 
+   <lb ed="#B" n="59"/>test producere difficilius potest producere facilius: 
+   <lb ed="#B" n="60"/>&amp; hoc est verum: sed hoc nihil concludit contra
+   He<lb ed="#B" n="61" break="no"/>braeos qui dicunt quod creatura non potest producere 
+   <lb ed="#B" n="62"/>animal minus grano hordei: quia forte difficilius 
+   <lb ed="#B" n="63"/>est producere paruum quam magnum. Alius sensus est. 
+   <lb ed="#B" n="64"/>quicquid producere potest corpus magnum potest 
+   <lb ed="#B" n="65"/>paruum producere: &amp; hoc est falsum: quia elephas 
+   <lb ed="#B" n="66"/>potest producere elephantem: &amp; non hominem vel 
+   <lb ed="#B" n="67"/>pigmaeu. Et sic probatio eius nihil facit: quia argu 
+   <lb ed="#B" n="68"/>endo contra eos capiendo maiorem in primo sen 
+   <lb ed="#B" n="69"/>su, minor esset petitoria principii: quia facilius est 
+   <lb ed="#B" n="70"/>producere paruum animal. cuius oppositum
+   dice<lb ed="#B" n="71" break="no"/>rent. Etiam non nego quin irrationabiliter expo 
+   <lb ed="#B" n="72"/>nunt. quia daemon relictus suae naturae potest
+   ap<lb ed="#B" n="73" break="no"/>plicare actiua passiuis in generatione paruorum 
+   <lb ed="#B" n="74"/>&amp; magnorum, quod patet ex auctoritate beati Au 
+   <lb ed="#B" n="75"/>gustini praenotata. Idem dicit lo. Damascenus 
+   <lb ed="#B" n="76"/>secundo libro de Orthodoxa fide. cap. iii. Quicum 
+   <lb ed="#B" n="77"/>quod autem dicunt angelos conditores esse cuiuscumque 
+   <lb ed="#B" n="78"/>substantiae, ipsi os diaboli sunt.
+  </p>
+      <p xml:id="jMqv4a-d1e4436-d1e801">
+   ⁋ Ratione etia 
+   <lb ed="#B" n="79"/>arguitur sic ad conclusionem. Si esset vacuum inter 
+   <lb ed="#B" n="80"/>ignem &amp; lignum: ignis non calefaceret illud lignum: 
+   <lb ed="#B" n="81"/>quantuncumque sit modica distantia: &amp; hoc quia calor 
+   <lb ed="#B" n="82"/>non est sine subiecto: ergo si essent multae hostiae 
+   <lb ed="#B" n="83"/>locum replentes inter ignem &amp; lignum: ignis non  
+   <lb ed="#B" n="84"/>produceret calorem in lignum, consequentia tenet:  
+   <lb ed="#B" n="85"/>quia vtrobique nihil suscipit calorem: &amp; hoc
+   tenen<lb ed="#B" n="86" break="no"/>do quod quantitas non est subiectum qualitatis. 
+   <lb ed="#B" n="87"/>Praeterea. ignis non producit ignem sine
+   mate<lb ed="#B" n="88" break="no"/>ria apposita: &amp; sic de aliis agentibus: vt
+   experi<lb ed="#B" n="89" break="no"/>mur: ergo nulla creatura producit nisi subiecto 
+   <lb ed="#B" n="90"/>praesupposito. 
+  </p>
+      <p xml:id="jMqv4a-d1e4436-d1e831">
+       <lb ed="#B" n="91"/>⁋ Contra hanc conclusionem
+   aliqui<lb ed="#B" n="92" break="no"/>bus argumentis instabimus: vt conclusionis veri 
+   <lb ed="#B" n="93"/>tas magis patefiat. &amp; primo sic. hostia calefacta 
+   <lb ed="#B" n="94"/>producit calorem in hostiam non calidam: &amp; ignis 
+   <lb ed="#B" n="95"/>annihilat frigus in hostia consecrata: &amp; non est dicen 
+   <lb ed="#B" n="96"/>dum quod deus illa faciat. quia videmus quod per ap 
+   <lb ed="#B" n="97"/>proximationem illarum causarum illud cotingit. 
+   <lb ed="#B" n="98"/>Non aliter probauit <name xml:id="jMqv4a-d1e4436-Nd1e850" ref="#Aristotle">Aristoteles</name> in de generatione 
+   <lb ed="#B" n="99"/>quod sol in obliquo circulo est causa generationis 
+   <lb ed="#B" n="100"/>&amp; corruptionis, nec sunt multiplicanda miracula 
+   <lb ed="#B" n="101"/>postquam ratio naturae sufficit.
+  </p>
+      <p xml:id="jMqv4a-d1e4436-d1e861">
+   ⁋ Et confirmatur. philoso 
+   <lb ed="#B" n="102"/>phi negarunt: quod idem potest moueri motibus
+   contra<lb ed="#B" n="103" break="no"/>riis: &amp; negamus communiter. Sed dato isto super 
+   <lb ed="#B" n="104"/>naturaliter quod idem sit in duobus locis: simul &amp; 
+   <lb ed="#B" n="105"/>semel potest ascendere &amp; descendere: vt patet de 
+   <lb ed="#B" n="106"/>anima in duabus manibus. Nec valet dicere vt di 
+   <lb ed="#B" n="107"/>cunt <ref xml:id="jMqv4a-d1e4436-Rd1e876">
+        <name xml:id="jMqv4a-d1e4436-Nd1e878" ref="#Rimini">Gregorius Ariminensis</name> in. xvii. dist. i</ref> &amp; Bur- 
+   <!--0052.xml-->
+   <pb ed="#B" n="10-v"/>
+       <cb ed="#B" n=""/>
+       <lb ed="#B" n="1"/>istinctionis atiniae 
+   <lb ed="#B" n="2"/>leus in tractatu de intensione: quod hoc est per
+   ac<lb ed="#B" n="3" break="no"/>in hostia: ergo illud frigus perpetuabitur si deus illud 
+   <lb ed="#B" n="4"/>cidens ad motum alterius: quia si esset in duobus lo 
+   <lb ed="#B" n="5"/>non annihilet. Ad hoc respondetur concedendo illatum 
+   <lb ed="#B" n="6"/>cis separata, idem contingeret. ergo dato quod forma 
+   <lb ed="#B" n="7"/>ex quo est conclusio sequens, nec ex hoc sequitur quod 
+   <lb ed="#B" n="8"/>substantialis vel accidentalis sit extra subiectum:
+   de<lb ed="#B" n="9" break="no"/>frigus est maioris resistentiae extra subiectum qui in sub 
+   <lb ed="#B" n="10"/>bemus tenere quod inter ipsam &amp; ipsi contrariam sit 
+   <lb ed="#B" n="11"/>iecto: sed solum hoc prouenit: quia natura nen potest aliquid  
+   <lb ed="#B" n="12"/>actio &amp; passio: &amp; cum contrarietas &amp; actio a
+   for<lb ed="#B" n="13" break="no"/>destruere nisi sit subiectum. Forte dicis. hostia
+   co<lb ed="#B" n="14" break="no"/>ma procedant: &amp; materia nihil agat: sequitur quod 
+   <lb ed="#B" n="15"/>secrata citius putrescit in loco immundo. &amp; hoc non ni 
+   <lb ed="#B" n="16"/>creatura potest creare. 
+   <lb ed="#B" n="17"/>si propter actionem corporis circunstantis. igitur. Respondetur 
+   <lb ed="#B" n="18"/>corpus circunstans nihil facit ad illam corruptionem: 
+  </p>
+      <p xml:id="jMqv4a-d1e4436-d1e928">
+       <lb ed="#B" n="19"/>⁋ Ad primum aliqui concedunt: vt 
+   <lb ed="#B" n="20"/>sed deus sic facit ac si causae secundae ageret propter 
+   <lb ed="#B" n="21"/>
+       <name xml:id="jMqv4a-d1e4436-Nd1e936" ref="#PetrusDeAilly">Aliacensis</name>: quod in illo casu creatura creat. sed hoc 
+   <lb ed="#B" n="22"/>meritum fidei &amp; alias causas quas ipse nouit. Illud co 
+   <lb ed="#B" n="23"/>non placet propter dicenda propterea nego quod aliquam cre 
+   <lb ed="#B" n="24"/>lorat nostram regulam: quando aliquae causae secundae citius 
+   <lb ed="#B" n="25"/>atura potest producere calore in hostiam consecratam: quia 
+   <lb ed="#B" n="26"/>corrumperent quam aliae: tunc citius corpus Christi desinit 
+   <lb ed="#B" n="27"/>ille calor esset extra subiectum: non ponendo quantita 
+   <lb ed="#B" n="28"/>illic ese. etiam ad alterationem totalem specierum corpus 
+   <lb ed="#B" n="29"/>tem distingui a substantia: quae est susceptiua
+   quali<lb ed="#B" n="30" break="no"/>Christi desinit esse sub illis speciebus.
+  </p>
+      <p xml:id="jMqv4a-d1e4436-d1e960">
+   ⁋ Ad confir 
+   <lb ed="#B" n="31"/>tatum. Etiam eo inficias quod ignis potest corrumpere frigus 
+   <lb ed="#B" n="32"/>mationem concesso antecedente negatur consequentia. &amp; 
+   <lb ed="#B" n="33"/>in hostia frigida: quia tunc annihilaret. licet aliqui
+   com<lb ed="#B" n="34" break="no"/>ratio diuersitatis est: quia ex primo nihil sequitur repu 
+   <lb ed="#B" n="35"/>cedant quod creatura potest annihilare: quia hoc non est ni 
+   <lb ed="#B" n="36"/>gnans dictis sanctorum: ex secundo vero sic: vt oniesus est. 
+   <lb ed="#B" n="37"/>si destruere effectu iam actu existentem extra passum 
+   <lb ed="#B" n="38"/>sed no potest creare: quia aequaliter se habet ad omnia pro 
+  </p>
+      <p xml:id="jMqv4a-d1e4436-d1e980">
+       <lb ed="#B" n="39"/>⁋ Secundo contra conclusionem arguitur. 
+   <lb ed="#B" n="40"/>ducibilia: ergo vel infinita producit si sit agens na 
+   <lb ed="#B" n="41"/>creatura corrumpit aliam: vt puta formam: sic quod nihil 
+   <lb ed="#B" n="42"/>turale: vel nullum. Sed superius hanc rationem reproba 
+   <lb ed="#B" n="43"/>eius manet: ergo annihilat. tenet consequantia: quia amni 
+   <lb ed="#B" n="44"/>uimus. Dico igitur quod nec creatura creat nec
+   anni<lb ed="#B" n="45" break="no"/>hilare nihil aliud importare videtur nisi quod id quod nunc 
+   <lb ed="#B" n="46"/>hilat: sed deus hoc facit ad praesentiam causae secundae 
+   <lb ed="#B" n="47"/>est ens desinit secundum se &amp; quidlibet sui. &amp; eodem
+   mo<lb ed="#B" n="48" break="no"/>ne euacuetur meritum fidei, nec etiam ignis potest
+   ser<lb ed="#B" n="49" break="no"/>do de creari deducere possumus: vt de forma quae 
+   <lb ed="#B" n="50"/>uare calorem productum in hostia. Vnde pono regulam 
+   <lb ed="#B" n="51"/>de nouo producitur. Et cofirmatur capiatur lumen
+   pro<lb ed="#B" n="52" break="no"/>talem. Ad applicationem causarum secundarum in
+   sacra<lb ed="#B" n="53" break="no"/>ductum a sole in hoc aere: &amp; corrumpat deus in hoc 
+   <lb ed="#B" n="54"/>mento Eucharistiae semper deus facit illd quod apparet 
+   <lb ed="#B" n="55"/>instanti aerem: adhuc sol conseruabit suum lumen: quia 
+   <lb ed="#B" n="56"/>esse per causas secundas ac si essent panis &amp; vinum: &amp; 
+   <lb ed="#B" n="57"/>non desinit lumen per vltimum instans sui esse: sed per pri 
+   <lb ed="#B" n="58"/>hoc secundum legem communem. Solutio argumenti
+   se<lb ed="#B" n="59" break="no"/>mum non esse. ergo conseruabit lumen sine subiectos 
+   <lb ed="#B" n="60"/>quentis est probatio regulae. Et nego quod sit idem de
+   so<lb ed="#B" n="61" break="no"/>&amp; conseruare est causare: ergo causat lumen sine sub 
+   <lb ed="#B" n="62"/>le in obliquo circulo: quia sol ex natura rei germina 
+   <lb ed="#B" n="63"/>iecto: ergo creat.
+  </p>
+      <p xml:id="jMqv4a-d1e4436-d1e1037">
+   ⁋ Ad secundum respondetur
+   conceden<lb ed="#B" n="64" break="no"/>re facit: quando comminus accedit ad nos. secus est 
+   <lb ed="#B" n="65"/>do antecedens: sed nego consequentiam. annihilare enim 
+   <lb ed="#B" n="66"/>hic. ratio autem discriminis patebit per sequentia. Ad 
+   <lb ed="#B" n="67"/>vt doctores vtuntur connotat quod non requiritur
+   mate<lb ed="#B" n="68" break="no"/>aliquo: puta non alter probauit <name xml:id="jMqv4a-d1e4436-Nd1e1050" ref="#Aristotle">Aristoteles</name> &amp;c. quando  
+   <lb ed="#B" n="69"/>ria (loquendum enim est vt plures, secundo de caelo) ad  
+   <lb ed="#B" n="70"/>omnia sic possent saluari, bene quidem esset. sed hoc est 
+   <lb ed="#B" n="71"/>hoc vt corrumpatur. modo licet ignis formam stuppae 
+   <lb ed="#B" n="72"/>falsus. Videmus enim quod si hostia diu conseruetur genae 
+   <lb ed="#B" n="73"/>secundum se &amp; quidlibet sui corrumpat: quia tamen agit in ma 
+   <lb ed="#B" n="74"/>rantur vermes: &amp; oportet quod deus producat nouam 
+   <lb ed="#B" n="75"/>teriam: &amp; extra eam agere non potest, non dicitur annihilare. 
+   <lb ed="#B" n="76"/>materiam: vel materiam panis quae prius erat, ac si reali 
+   <lb ed="#B" n="77"/>Et eodem modo dicatur de creare. Etiam oportet quod 
+   <lb ed="#B" n="78"/>ter panis semper existeret: sed si materia producatui 
+   <lb ed="#B" n="79"/>nihil succedat loco formae corruptae: quare
+   quan<lb ed="#B" n="80" break="no"/>non inconvenit quod agens naturale suam partialem actionem 
+   <lb ed="#B" n="81"/>do panis transubstantiatur in corpus Christi non 
+   <lb ed="#B" n="82"/>habeat. sed post hac locupletior erit sermo de hac 
+   <lb ed="#B" n="83"/>annihilatur.
+  </p>
+      <p xml:id="jMqv4a-d1e4436-d1e1087">
+   ⁋ Sed contra hoc arguitur. ponatur 
+   <lb ed="#B" n="84"/>materia in sacramento Eucharistiae. vermes enim ex 
+   <lb ed="#B" n="85"/>minimum naturale stuppae prope ignem (supposita 
+   <lb ed="#B" n="86"/>accidente geneati non possunt: nec accidentia nutrite 
+   <lb ed="#B" n="87"/>illa opinione) corrumpatur ista forma in instanti: 
+   <lb ed="#B" n="88"/>valent: licet Argentina( &amp; male) illud de potentia dei 
+   <lb ed="#B" n="89"/>&amp; ponatur quod deus in eodem instanti annihilet
+   ma<lb ed="#B" n="90" break="no"/>existimet. &amp; opinor quod comedens hostias
+   consecra<lb ed="#B" n="91" break="no"/>teriam: tunc ignis annihilat formam illam paruam stuper 
+   <lb ed="#B" n="92"/>tas ita diu viueret sicut comedens hostias non conse 
+   <lb ed="#B" n="93"/>pae. Ad hoc respondetur: si deus in illo instanti de 
+   <lb ed="#B" n="94"/>cratas: &amp; per rem gestam in sacramento Eucharistiae decla 
+   <lb ed="#B" n="95"/>struat materiam stuppae: forma ignis non agit in illam 
+   <lb ed="#B" n="96"/>rabitur. Item hostia consecrata ita cito descendit sicu 
+   <lb ed="#B" n="97"/>formam: immo si forma stuppae esset in igne perpe 
+   <lb ed="#B" n="98"/>non consecrata. Bespondictus deus in saecula haec facit ad  
+   <lb ed="#B" n="99"/>tuo, non corrumperetur ab igne. alioquin esset annihi 
+   <lb ed="#B" n="100"/>meritum fidei. Et ista est probatio regulae. quia enim in ali 
+   <lb ed="#B" n="101"/>latio.
+  </p>
+      <p xml:id="jMqv4a-d1e4436-d1e1129">
+   ⁋ Ad confirmationem admisso casu dicitur: quod 
+   <lb ed="#B" n="102"/>quibus facit: ita videtur dicendum in aliis.
+  </p>
+      <p xml:id="jMqv4a-d1e4436-d1e1134">
+   ⁋ Sed contra 
+   <lb ed="#B" n="103"/>si aer corrumpatur in aliquo instanti dato: cum accidens 
+   <lb ed="#B" n="104"/>illud arguitur. ponatur hostia frigida (voco hostiam 
+   <lb ed="#B" n="105"/>non possit esse sine subiecto naturaliter: sol non
+   con<lb ed="#B" n="106" break="no"/>frigidam cui coexistit frigidita) &amp; applicetur ignis:  
+   <lb ed="#B" n="107"/>seruat amplius illud lumen. Et quaeuis per breue
+   ten<lb ed="#B" n="108" break="no"/>sed naturaliter per te ignis non potest corrumpere frigus 
+   <lb ed="#B" n="109"/>pus conseruaret: non tamen posset producere tale 
+   <!--0053.xml-->
+   <pb ed="#B" n="11-r"/>
+       <cb ed="#B" n="a"/>
+       <lb ed="#B" n="1"/>lumen de nouo. Sed cum conseruare ad efficiern 
+   <lb ed="#B" n="2"/>tiam reducatur: plus placet primum. Illud enim a 
+   <lb ed="#B" n="3"/>gumentum non probat quod creatura potest creare. sed 
+   <lb ed="#B" n="4"/>illud foret propterea si apparentiam haberet: quod na 
+   <lb ed="#B" n="5"/>turaliter res no desinit per vltimum instans
+   cople<lb ed="#B" n="6" break="no"/>tum sui esse. Forte <name xml:id="jMqv4a-d1e4436-Nd1e1170" ref="#Aristotle">Aristoteles</name> diceret illud acci 
+   <lb ed="#B" n="7"/>dens non posse esse sine subiecto per vnum instans, 
+   <lb ed="#B" n="8"/>Quicquid sit, argumentum non est ad propositum 
+   <lb ed="#B" n="9"/>directe: quia corrumpatur sol, &amp; petatur quamdiu du 
+   <lb ed="#B" n="10"/>rabit illud lumen, posito quod hoc instans in quo su 
+   <lb ed="#B" n="11"/>mus sit vltimum instans esse solis: &amp; habebitur e 
+   <lb ed="#B" n="12"/>dem difficultas quae prius. Nec opineris materiam 
+   <lb ed="#B" n="13"/>aliam causalitatem vsurpare impraesentiarum: nisi esse 
+   <lb ed="#B" n="14"/>passum. Potest esse argumentu quia verba
+   quo<lb ed="#B" n="15" break="no"/>rum actus soli deo competunt dicuntur exceptae 
+   <lb ed="#B" n="16"/>actionis &amp; deum includunt: vt tonitruat, rorat,
+   gran<lb ed="#B" n="17" break="no"/>dinat, pruinat: creat autem non est huius materiae: 
+   <lb ed="#B" n="18"/>igitur potest creaturae competere. sed illud non est 
+   <lb ed="#B" n="19"/>magni momenti. 
+  </p>
+      <p xml:id="jMqv4a-d1e4436-d1e1203">
+       <lb ed="#B" n="20"/>⁋ Tertio arguitur. aliqua creatura po 
+   <lb ed="#B" n="21"/>test producere materiam: ergo potest creare, conse 
+   <lb ed="#B" n="22"/>quentia tenet: quia materia non praesupponit materiam 
+   <lb ed="#B" n="23"/>ad hoc vt producatur: quia si sic, processus erit in  
+   <lb ed="#B" n="24"/>infinitum. Antecedens patet. creatura producit foi 
+   <lb ed="#B" n="25"/>mam: ergo materiam potest producere. tenet consequen 
+   <lb ed="#B" n="26"/>tia: quia forma est perfectior materia. Et confirmatur 
+   <lb ed="#B" n="27"/>quia omnis effectus non adaequans sibi suam
+   cau<lb ed="#B" n="28" break="no"/>sam potest a causa minore produci: sed nulla cre 
+   <lb ed="#B" n="29"/>atura adaequat sibi actiuitatem dei: quia quacunque 
+   <lb ed="#B" n="30"/>data potest maiorem producere: ergo creatura potest 
+   <lb ed="#B" n="31"/>creari ab aliquo citra deum: sed quodlibet est crea 
+   <lb ed="#B" n="32"/>tura. igitur.
+  </p>
+      <p xml:id="jMqv4a-d1e4436-d1e1234">
+   ⁋ Ad tertium dicitur negando antece 
+   <lb ed="#B" n="33"/>dens: &amp; ad probationem negatur consequentia: quia 
+   <lb ed="#B" n="34"/>equus potest producere equum &amp; non muscam: &amp;
+   ta<lb ed="#B" n="35" break="no"/>men equus est perfectior: nam videmus materiam 
+   <lb ed="#B" n="36"/>manere sub vtroque termino transmutationis natu 
+   <lb ed="#B" n="37"/>ralis: &amp; nulla creatura eam corrumpit vel generat. cor 
+   <lb ed="#B" n="38"/>rupto enim ligno manent cineres, nec aliqua
+   crea<lb ed="#B" n="39" break="no"/>tura potest aliter facere. ergo rationabiliter negatur 
+   <lb ed="#B" n="40"/>antecedens.
+  </p>
+      <p xml:id="jMqv4a-d1e4436-d1e1254">
+   ⁋ Ad confirmationem nego maiorem: 
+   <lb ed="#B" n="41"/>quia notitia producitur ab vna causa: scilicet
+   ani<lb ed="#B" n="42" break="no"/>ma intellectiua: quae talem exuperat, nec ei adaequa 
+   <lb ed="#B" n="43"/>tur, nec similis produci potest ab aliqua inferiori 
+   <lb ed="#B" n="44"/>Similiter totus mundus a deo producitur capiendo 
+   <lb ed="#B" n="45"/>mundum prout deum excludit: nec tamen ei adaequatur: 
+   <lb ed="#B" n="46"/>cum alium &amp; maiorem producere queat. Illic notato quod 
+   <lb ed="#B" n="47"/>aliquis effectus adaequat suam causam: vt dilectio 
+   <lb ed="#B" n="48"/>summa quam Sortes potest habere: aliquis non ad 
+   <lb ed="#B" n="49"/>aequat. vt vbi est resistentia proprie dicta: vt in la 
+   <lb ed="#B" n="50"/>tione ponderis. 
+  </p>
+      <p xml:id="jMqv4a-d1e4436-d1e1279">
+       <lb ed="#B" n="51"/>⁋ Quarto arguitur creatura potest: 
+   <lb ed="#B" n="52"/>producere gratiam: ergo creare. tenet consequentia: 
+   <lb ed="#B" n="53"/>quia gratia est qualitas infusa. Antecedens patet. 
+   <!--0053.xml-->
+   <cb ed="#B" n="b"/> 
+       <!-- 11-r b -->
+       <lb ed="#B" n="54"/>quia actus meritorius est causa gratiae. ltem
+   deme<lb ed="#B" n="55" break="no"/>ritum destruit gratiam: ergo annihilat.
+  </p>
+      <p xml:id="jMqv4a-d1e4436-d1e1299">
+   ⁋ Ad quartum 
+   <lb ed="#B" n="56"/>distinguo de gratia: vel gratiam infusam quae est gra 
+   <lb ed="#B" n="57"/>tia gratum faciens: &amp; sic negatur: vel amorem acquisitum: qui 
+   <lb ed="#B" n="58"/>est gratia vel charitas acquisita: vel feruor
+   cnarita<lb ed="#B" n="59" break="no"/>tis: &amp; sic concedo: &amp; hoc semper in materia: quia mate 
+   <lb ed="#B" n="60"/>ria capitur vt tantum valet sicut passum. Ex quo fit 
+   <lb ed="#B" n="61"/>quod in infinitum est difficilius producere fidem infusam c 
+   <lb ed="#B" n="62"/>acquisitam: non deo sed creaturae: quae non potest eam producere. 
+   <lb ed="#B" n="63"/>Vvnde iste terminus materia quadrifariam accipitur. vno  
+   <lb ed="#B" n="64"/>modo pro altera parte compositi: &amp; sic solet capi secundo  
+   <lb ed="#B" n="65"/>Physicorum. Interdum qualibet res extensa vocatur mate 
+   <lb ed="#B" n="66"/>ria vel res materialis. Nonnumquam materia capitur pro illo 
+   <lb ed="#B" n="67"/>circa quod aliquid versatur. i pro materia circa quam: &amp; sic 
+   <lb ed="#B" n="68"/>plaerumque capitur in phima morali: vt pecunia est mate 
+   <lb ed="#B" n="69"/>ria liberalitatis: &amp; ita in aliis virtutibus. Ilstis tribus 
+   <lb ed="#B" n="70"/>modis non capitur hic. Quarto modo capitur pro passo: &amp; 
+   <lb ed="#B" n="71"/>sic in nostra theorica terminum vsurpamus. Et quando ante 
+   <lb ed="#B" n="72"/>cedens probatur in sensu negato, quod actus meritorius 
+   <lb ed="#B" n="73"/>est causa gratiae: distinguo: vel causa efficiens proprie 
+   <lb ed="#B" n="74"/>dicta: &amp; sic nego: vel causa sine qua non, &amp; ex pacto 
+   <lb ed="#B" n="75"/>diuino: sic concedo: deus enim pepigit nobiscum ex 
+   <lb ed="#B" n="76"/>ua imensa bonitate: quando facimus quod in nobis est,
+   con<lb ed="#B" n="77" break="no"/>ferre nobis gratiam. Fodem mo negatur: quod demeritum 
+   <lb ed="#B" n="78"/>corrumpit effectiue gratiam: sed solum demeritorie: 
+   <lb ed="#B" n="79"/>hoc est, deus quando demeremur mortaliter, annihilat 
+   <lb ed="#B" n="80"/>nostram gratiam, secundum verbum Eze. xviii. 
+  </p>
+      <p xml:id="jMqv4a-d1e4436-d1e1356">
+       <lb ed="#B" n="81"/>⁋ Quinto arouitur. homo potest pro 
+   <lb ed="#B" n="82"/>ducere animam intellectiuam: ergo creare. consequantia 
+   <lb ed="#B" n="83"/>tenet: quia anima intellectiua licet producatur in materia: tamen 
+   <lb ed="#B" n="84"/>materiam non praesupponit naturaliter: cum post mortem 
+   <lb ed="#B" n="85"/>hominis maneat seperata. Ancedens patet: quia alias ho 
+   <lb ed="#B" n="86"/>mo non posset producere hominem: sicut bos bouem. &amp; 
+   <lb ed="#B" n="87"/>supponatur vna anima in homine. Et confirmatur. capio a. 
+   <lb ed="#B" n="88"/>ignem qui corrumpit b. forma qui erat in c. materia. argu 
+   <lb ed="#B" n="89"/>itur sic. a, ignis rursus potest producere aliquam formam 
+   <lb ed="#B" n="90"/>in c. materia: &amp; non est maior ratio quod diformam pos 
+   <lb ed="#B" n="91"/>sit producere quam b. sed aliqua potest producere: puta d. 
+   <lb ed="#B" n="92"/>vel e. vel f. ergo potest producere b. ergo creare. tenet 
+   <lb ed="#B" n="93"/>consequntia: quia natura sine creatione ane potest reprodu  
+   <lb ed="#B" n="94"/>cere corruptu.
+  </p>
+      <p xml:id="jMqv4a-d1e4436-d1e1389">
+   ⁋ Ad quintum respondebitur in. xvi. dist. ii. 
+   <lb ed="#B" n="95"/>Ad confirmationem respodebitur in de resurrectione 
+   <lb ed="#B" n="96"/>inferius. Concedendum est tamen quod effectus creaturae potest 
+   <lb ed="#B" n="97"/>cem de nihilo: sed impossibile est effectum creaturae esse 
+   <lb ed="#B" n="98"/>de nihilo a creatura.
+  </p>
+      <p xml:id="jMqv4a-d1e4436-d1e1400">
+   ⁋ Aliqui sic arguunt: &amp; erit 
+   <lb ed="#B" n="99"/>sextum argumentum: producatur lumen in a, parte medii a 
+   <lb ed="#B" n="100"/>deo supplente vice solis &amp; non aliter agente: &amp;
+   produ<lb ed="#B" n="101" break="no"/>catur in be. parte alia a deo creante: &amp; producatur in c. alia 
+   <lb ed="#B" n="102"/>a sole. Tuc sic: lumen in b, est vere creatum. ergo &amp; 
+   <lb ed="#B" n="103"/>in a. tenet consequentia: quia illa lumina sunt eodem 
+   <lb ed="#B" n="104"/>modo genita. Respondetur. lumen in a. &amp; in b.
+   re<lb ed="#B" n="105" break="no"/>spectu cuiussibet causae creatur. sed sol no potest 
+   <lb ed="#B" n="106"/>producere c. extra subiectum. lumen enim in c. cre 
+   <lb ed="#B" n="107"/>atur a deo, &amp; producitur a sole. 
+   <!--0054.xml-->
+   <pb ed="#B" n="11-v"/>
+       <cb ed="#B" n="a"/>
+      </p>
+      <p xml:id="jMqv4a-d1e4436-d1e1429">
+       <lb ed="#B" n="1"/>⁋ Septimo arguitur. forma est prior 
+   <lb ed="#B" n="2"/>natura antequam materia informat. ergo in illo
+   prio<lb ed="#B" n="3" break="no"/>re agens creatu creat. Respondeo, no datur prioritas 
+   <lb ed="#B" n="4"/>aliqua qua forma est: quin materiam informet: pri 
+   <lb ed="#B" n="5"/>oritas inquam temporis vel instantis: sed quaelibet forma 
+   <lb ed="#B" n="6"/>prior natura est quam potentia informet: sicut prius 
+   <lb ed="#B" n="7"/>natura Sortes est rationalis quam risibilis. 
+  </p>
+      <p xml:id="jMqv4a-d1e4436-d1e1448">
+       <lb ed="#B" n="8"/>⁋ Praeterea arguitur. si creatura no 
+   <lb ed="#B" n="9"/>potest creare: hoc erit propterea quia super distantiam 
+   <lb ed="#B" n="10"/>infinitam non potest virtus finita: sed inter terminos 
+   <lb ed="#B" n="11"/>creationis: puta a quo &amp; ad quem, puta ens &amp; nihil 
+   <lb ed="#B" n="12"/>est distantia infinita. maior patet. quia quanto distan 
+   <lb ed="#B" n="13"/>tia est maior, tanto transitus est difficilior: &amp; maioren 
+   <lb ed="#B" n="14"/>virtutem requirit in agente.
+  </p>
+      <p xml:id="jMqv4a-d1e4436-d1e1466">
+   ⁋ Vlterius. instrumentum 
+   <lb ed="#B" n="15"/>habet aliquam actione vltra naturam propriam secundum  
+   <lb ed="#B" n="16"/>quod mouetur a principali agente: sed aliqua creatu 
+   <lb ed="#B" n="17"/>ra quae est instrumentu dei potest suum effectum produ 
+   <lb ed="#B" n="18"/>cere in passum. ergo deo secun concurrente partialite 
+   <lb ed="#B" n="19"/>potest effectum producere extra passum: &amp; per
+   conse<lb ed="#B" n="20" break="no"/>quens saltem potest partialiter creare.
+  </p>
+      <p xml:id="jMqv4a-d1e4436-d1e1482">
+   ⁋ Respondetur pro 
+   <lb ed="#B" n="21"/>materia primi argumenti: quod duplex est distantia. 
+   <lb ed="#B" n="22"/>quaedam positiua &amp; mediata: vt distantia ab
+   Hiero<lb ed="#B" n="23" break="no"/>solyma ad lordanem: quae nihil aliud est: quam intercape 
+   <lb ed="#B" n="24"/>do siue terrea siue aerea inter haec loca interiecta 
+   <lb ed="#B" n="25"/>sic inter extremos colores: vtpote albedinem &amp; ni 
+   <lb ed="#B" n="26"/>gredinem, potest imaginari de coloribus mediis. 
+   <lb ed="#B" n="27"/>Sic etiam intelligere potes de speciebus actu interme 
+   <lb ed="#B" n="28"/>diis inter homine &amp; asinum. Hoc non obstante in istis 
+   <lb ed="#B" n="29"/>duobus secundis membris cum nullum interuallum proprie 
+   <lb ed="#B" n="30"/>faciat illa distare: potes convenienter dicere quod
+   di<lb ed="#B" n="31" break="no"/>stantia vnius rei super aliam nihil aliud est quam res di 
+   <lb ed="#B" n="32"/>stans: &amp; sic aliqua distantia est res infinite perfecta: vt 
+   <lb ed="#B" n="33"/>distantia dei a creatura: aliqua finite perfecta: sicut 
+   <lb ed="#B" n="34"/>distantia creaturae a creatura. Sed ad formam
+   argu<lb ed="#B" n="35" break="no"/>menti dicitur quod ipsum nihil probat: quia probaret quod 
+   <lb ed="#B" n="36"/>creatura nihil posset producere. cum forma producen 
+   <lb ed="#B" n="37"/>da non sit aliquid: &amp; forma producta sit aliquid-.  
+  </p>
+      <p xml:id="jMqv4a-d1e4436-d1e1521">
+       <lb ed="#B" n="38"/>⁋ Pro secundi solutione scito quandrifariam
+   ac<lb ed="#B" n="39" break="no"/>cipi instrumentum. Primo. Deus est causa
+   vniuer<lb ed="#B" n="40" break="no"/>salis: &amp; quaelibet creatura est instrumentalis causa dei 
+   <lb ed="#B" n="41"/>quae mouetur ad suam causalitatem a deo sicut
+   mal<lb ed="#B" n="42" break="no"/>leus a fabto. Secundo modo capitur instrumentum 
+   <lb ed="#B" n="43"/>pro parte alicuius totius mediante qua totum agit 
+   <lb ed="#B" n="44"/>hoc modo sensus dicuntur instrumenta hominis
+   se<lb ed="#B" n="45" break="no"/>cundo de Anima. vt oculus instrumentum videndis 
+   <lb ed="#B" n="46"/>&amp; aures audiendi. Tertio modo capitur
+   instrumen<lb ed="#B" n="47" break="no"/>tum pro causa disponente and vnum effectum praeuium: 
+   <lb ed="#B" n="48"/>vt patet exemplariter. probabile est enim quod calor 
+   <lb ed="#B" n="49"/>solum producit calorem in lignum igniendum: &amp; nullam 
+   <lb ed="#B" n="50"/>actiuitatem habet in forma ignis producenda: tunc 
+   <lb ed="#B" n="51"/>calor dicitur instrumentum ipsius ignis: vel
+   for<lb ed="#B" n="52" break="no"/>mae substantialis ignis. Quarto modo capitur pro 
+   <lb ed="#B" n="53"/>instrumento artis: vt pro securi, serra, &amp; huiui- 
+   <!--0054.xml-->
+   <cb ed="#B" n="b"/> 
+       <!-- 11-v b -->
+       <lb ed="#B" n="54"/>modi. Quocumque istorum modorum capiatur: di 
+   <lb ed="#B" n="55"/>co instrumentum nullam actionem posse suscipere 
+   <lb ed="#B" n="56"/>ab agente superiore: quae ei non competit a natu 
+   <lb ed="#B" n="57"/>ra. calor enim non potest frigefacere de potentia ab 
+   <lb ed="#B" n="58"/>soluta dei: quia dato opposito tollitur omnis
+   cau<lb ed="#B" n="59" break="no"/>salitas naturalis a causis secundis. potest tamen 
+   <lb ed="#B" n="60"/>deus causas secundas impedire ne producant suos 
+   <lb ed="#B" n="61"/>effectus. vt serra lignum diuidens nihil in se susci 
+   <lb ed="#B" n="62"/>pit a motore ratione cuius lignum partitur: vel enim 
+   <lb ed="#B" n="63"/>motus localis est mobile quod mouetur: quod est
+   mul<lb ed="#B" n="64" break="no"/>tum probabile: vel si ponatur accidens distinctum 
+   <lb ed="#B" n="65"/>a mobili: illud non est actiuum illius actionis: sed li 
+   <lb ed="#B" n="66"/>gnum diuidit: quia duo corpora non possunt esse 
+   <lb ed="#B" n="67"/>in eodem loco proprio: &amp; dens acutus accipit vnam 
+   <lb ed="#B" n="68"/>partem ligni diuidendi: quam a suo loco naturali 
+   <lb ed="#B" n="69"/>pellit: non quod acuties a corpore acuto distincta
+   il<lb ed="#B" n="70" break="no"/>lud faciat: quia si acuties ligni esset diuisiua, hanc 
+   <lb ed="#B" n="71"/>haberet suapte natura: sed agens principale illam 
+   <lb ed="#B" n="72"/>applicat passo sufficienti modo ad diuisionem 
+   <lb ed="#B" n="73"/>sicut Sortes disponit ligna in foco pro igne
+   ge<lb ed="#B" n="74" break="no"/>nerando.  
+  </p>
+      <p xml:id="jMqv4a-d1e4436-d1e1610">
+       <lb ed="#B" n="75"/>⁋ His praelibatis: in epitome totam ma 
+   <lb ed="#B" n="76"/>teriam quaestionis summatim epilogabo. visis
+   acce<lb ed="#B" n="77" break="no"/>ptionibus verbi creare: &amp; qualiter materia in
+   propo<lb ed="#B" n="78" break="no"/>sito accipiatur: quod ea virtus quae sine passo producit 
+   <lb ed="#B" n="79"/>creat &amp; non aliter: &amp; quia videmus quod ignis non produ  
+   <lb ed="#B" n="80"/>citur sine materia nec aliquis alius effectus: &amp; ar 
+   <lb ed="#B" n="81"/>gumenta circa sacramentum Eucharistiae non
+   conclu<lb ed="#B" n="82" break="no"/>dunt: &amp; auctoritates sanctorum sonant in partem
+   negati<lb ed="#B" n="83" break="no"/>uam: conclusio tenenda videtur. Opinabile tamen est quod 
+   <lb ed="#B" n="84"/>deus potest producere creaturas quae sine materia
+   produ<lb ed="#B" n="85" break="no"/>cere possent: &amp; per consequens creare: &amp; eodem mo
+   an<lb ed="#B" n="86" break="no"/>nihilare: quia nulla contradictio videtur ad hoc. sed 
+   <lb ed="#B" n="87"/>hoc non videtur de conditionibus rerum nobis datarum 
+   <lb ed="#B" n="88"/>adhuc. et si daretur a, agens potens producere b. formam 
+   <lb ed="#B" n="89"/>extra passum: non est dicendum consequinter quod omnem for 
+   <lb ed="#B" n="90"/>mam a se producibilem produceret, sicut nuc de agente 
+   <lb ed="#B" n="91"/>suum effectu producente in passum dicimus: sed effectum 
+   <lb ed="#B" n="92"/>secundum determinationem primae causae produceret. Et 
+   <lb ed="#B" n="93"/>si dicas. auctores colligendo errores Magistri sen 
+   <lb ed="#B" n="94"/>tentiarum hoc colligunt pro errore quod creatura potest crea 
+   <lb ed="#B" n="95"/>re. Respondetur. colligut non colligenda: quia de ratione er 
+   <lb ed="#B" n="96"/>roris colligendi debet esse indubitatum falsum: quod 
+   <lb ed="#B" n="97"/>in hoc non contingit. difficile enim nimis est errores 
+   <lb ed="#B" n="98"/>colligere &amp; haereses: sicut beatus <name xml:id="jMqv4a-d1e4436-Nd1e1664" ref="#Augustine">Augustinus</name> dicit 
+   <lb ed="#B" n="99"/>in libro de haeresibus. Probat hoc optime a signo:  
+   <lb ed="#B" n="100"/>quia duo scriptores celeberrimi. s. Epiphanius &amp; 
+   <lb ed="#B" n="101"/>Philistius, dum scriberent de haeresibus inueniendis 
+   <lb ed="#B" n="102"/>in illis multum digladiati sunt non ob aliud nisi quod 
+   <lb ed="#B" n="103"/>llud quod vni videbatur haereticum, alteri non videbat. 
+   <lb ed="#B" n="104"/>Ex hoc patet quod ad hoc vt homo haereses &amp; erro 
+   <lb ed="#B" n="105"/>res colligat: debet considerare si in materia fiuant 
+   <lb ed="#B" n="106"/>opiniones: quia si sic / nihil est colligendum sed va 
+   <lb ed="#B" n="107"/>cuis manibus abeundum. 
+  </p>
+    </div>
+   </body>
+  </text>
+</TEI>

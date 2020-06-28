@@ -1,0 +1,341 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 4</title>
+      <author ref="#JohnMair">John Mair</author>
+      <respStmt>
+       <name>Jeffrey C. Witt</name>
+       <resp>TEI Encoder</resp>
+      </respStmt>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 4</title>
+       <date when="2020-06-09">June 27, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="B" n="cod-Bda113">Badius 1516</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+     guidelines for a diplomatic edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-06-27" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+      <pb ed="#B" n="354-r"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="jMqv4a-d1e1894"> <!-- l4d46q4 -->
+      <head xml:id="jMqv4a-d1e1894-Hd1e104">Quaestio 4</head>
+      <head xml:id="jMqv4a-d1e1894-Hd1e107" type="question-title">An aliquod peccatum sit infinitae parvitatis: 
+  et similiter omissio</head>
+      <p xml:id="jMqv4a-d1e1894-d1e110">
+   <!--0739.xml-->
+       <pb ed="#B" n="354-r"/>
+       <cb ed="#B" n="a"/>
+  
+       <lb ed="#B" n="1"/>⁋ Distinctionis Quadragesimaesextae 
+   <lb ed="#B" n="2"/>Quaestio Quarta. 
+   <lb ed="#B" n="3"/>sa Varto circa hanc ma 
+   <lb ed="#B" n="4"/>Tteriam probare nitemur aliquod 
+  </p>
+      <p xml:id="jMqv4a-d1e1894-d1e128">
+       <lb ed="#B" n="5"/>⁋ peccatum esse infinitae
+   paruita<lb ed="#B" n="6" break="no"/>equatis: immo de omissione nunc 
+   <lb ed="#B" n="7"/>actu. Et hoc sic. nullus tenetur 
+   <lb ed="#B" n="8"/>e diligere deum vno gradu
+   di<lb ed="#B" n="9" break="no"/>lectionis: nec duobus: ergo 
+   <lb ed="#B" n="10"/>omittens infinite modicum peccat. consequentia vi 
+   <lb ed="#B" n="11"/>detur clara. &amp; ostenditur per simile. praecipiat deus Sorti 
+   <lb ed="#B" n="12"/>se diligere quatuor gradibus dilectionis, &amp; Platoni 
+   <lb ed="#B" n="13"/>quatuor &amp; vltra: &amp; omittat vterque. tunc sic. Plato 
+   <lb ed="#B" n="14"/>plus peccat quam Sortes: &amp; plus punietur in inferno 
+   <lb ed="#B" n="15"/>pro suo peccato quam Sortes: &amp; non diuisibiliter, quod 
+   <lb ed="#B" n="16"/>patet. nam sit ita quod Sortes punietur quatuor
+   gradi<lb ed="#B" n="17" break="no"/>bus poenae: quaero de gradibus poenae Platonis. Si 
+   <lb ed="#B" n="18"/>dicas: quimque gradibus punietur, vel quatuor cum semis 
+   <lb ed="#B" n="19"/>ergo Cicero potest puniri plus quam Sortes, &amp; minus est 
+   <lb ed="#B" n="20"/>Plato: cum sit excessus diuisibilis: sed hoc non: quia 
+   <lb ed="#B" n="21"/>sic deus non puniret peccatores proportionabiliter 
+   <lb ed="#B" n="22"/>ad eorum peccata. palam enim est quod deuinctus deum 
+   <lb ed="#B" n="23"/>diligere intensius / &amp; omittens, plus peccat quam deuin 
+   <lb ed="#B" n="24"/>ctus eum diligere remisse. Sed cum nunc in
+   nul<lb ed="#B" n="25" break="no"/>lo gradu dilectionis viator teneatur diligere deum: 
+   <lb ed="#B" n="26"/>omittens eum diligere infinite parum peccat.
+  </p>
+      <p xml:id="jMqv4a-d1e1894-d1e179">
+   ⁋
+   Re<lb ed="#B" n="27" break="no"/>spondetur concedendo quod si esset viator ad plus obliga 
+   <lb ed="#B" n="28"/>tus, omittens magis peccaret quam alius caeteris paribus. 
+   <lb ed="#B" n="29"/>sed pondus solutionis in hoc mihi latitare videtu 
+   <lb ed="#B" n="30"/>quod licet in nullo gradu homo teneatur diligere
+   de<lb ed="#B" n="31" break="no"/>um: tamen omissio illa est alicuius certae malitiae
+   secun<lb ed="#B" n="32" break="no"/>dum quod deo placet: &amp; poena est alicuius certae inten 
+   <lb ed="#B" n="33"/>sionis. Ratio est: quia in omissione nunc secundum 
+   <lb ed="#B" n="34"/>legem non attenditur malitia omissionis penes actus 
+   <lb ed="#B" n="35"/>positiui intensionem: quia ad nullum gradum dilectionis 
+   <lb ed="#B" n="36"/>dei homo tenetur. sed omissio attenditur penes obli 
+   <lb ed="#B" n="37"/>gationem ad quam deus nos obligat. &amp; si deus da 
+   <lb ed="#B" n="38"/>ret legem diligendi creaturam vt quo, &amp; dilectionem 
+   <lb ed="#B" n="39"/>dei multo arctius praeciperet: licet ad nullum
+   determi<lb ed="#B" n="40" break="no"/>natum gradum obligaret: vtramque dilectionem omittens 
+   <lb ed="#B" n="41"/>plus peccaret omittendo dilectionem dei: quia arctius 
+   <lb ed="#B" n="42"/>homo est obligatus diligere deum. &amp; sic nunc de 
+   <lb ed="#B" n="43"/>lege penes maiorem arctitudinem obligantionis at 
+   <lb ed="#B" n="44"/>tenditur omissionis grauitas. Ex quo sequitur hoc 
+   <lb ed="#B" n="45"/>argumentum esse nullum. homo nullo gradu
+   tene<lb ed="#B" n="46" break="no"/>tur diligere deum: ergo illam dilectionem omittens in  
+   <lb ed="#B" n="47"/>nullo determinato gradu malitiae peccat. Ex hoc 
+   <lb ed="#B" n="48"/>potest argumentum elui de Platone: quia licet deus 
+   <lb ed="#B" n="49"/>in nullo gradu vltra quatuor praecipiat diligere:
+   ta<lb ed="#B" n="50" break="no"/>men habet certam poenam &amp; determinatam suae
+   obli<lb ed="#B" n="51" break="no"/>gationi respondentem qua eum punit si transgrediatur. 
+   <lb ed="#B" n="52"/>vt diximus iam de dilectione dei &amp; eius omissione. 
+   <lb ed="#B" n="53"/>&amp; sic forte punietur Plato quatuor gradibus poe 
+   <!--0739.xml-->
+   <cb ed="#B" n="b"/> 
+       <!-- 354-r b -->
+       <lb ed="#B" n="54"/>nae &amp; semis. deuinctus itaque diligere vt quatuor cum 
+   <lb ed="#B" n="55"/>dimidio / omittens pro illa omissione forte quinque 
+   <lb ed="#B" n="56"/>gradibus punietur. Vel sicut dicimus quod promittens mihi 
+   <lb ed="#B" n="57"/>equum, omnem equum debet: sed est satisfactio per vnum 
+   <lb ed="#B" n="58"/>quemlibet: vt patet in appellationibus de hac propositi 
+   <lb ed="#B" n="59"/>one, debeo tibi equum: sic Sortes omnem
+   dilectio<lb ed="#B" n="60" break="no"/>nem dei debet: sed quantulancumque reddens satisfacit 
+   <lb ed="#B" n="61"/>praecepto. 
+  </p>
+      <p xml:id="jMqv4a-d1e1894-d1e264">
+       <lb ed="#B" n="62"/>⁋ Arguitur paucis rationibus quod ali 
+   <lb ed="#B" n="63"/>quam forma aliam impartibiliter in intensione excedit. ergo  
+   <lb ed="#B" n="64"/>hoc non in convenit in poenis &amp; peccatis. Assumptum 
+   <lb ed="#B" n="65"/>probatur de duabus latitudinibus: sit a. latitu 
+   <lb ed="#B" n="66"/>do vniformis vt octo in calore vel albedine per
+   to<lb ed="#B" n="67" break="no"/>tum. b. latitudo vniformiter difformis a non gra 
+   <lb ed="#B" n="68"/>du terminata in octo in extremo intensiore. lam 
+   <lb ed="#B" n="69"/>arguitur sic. b. forma terminatur in octo exclusiue: 
+   <lb ed="#B" n="70"/>ergo non habet albedinem vt octo sed quamliber 
+   <lb ed="#B" n="71"/>citra octo. sed a. corpus habet albedinem vt octo: ei 
+   <lb ed="#B" n="72"/>go a. exuperat b. indiuisibiliter: quia si diuisibiliter: 
+   <lb ed="#B" n="73"/>sit medius gradus vel quarta pars gradus: et patet quod 
+   <lb ed="#B" n="74"/>non: quia quilibet gradus citra octo est in b. forma 
+   <lb ed="#B" n="75"/>Forte dicis. b non terminatur in octo exclusiue sed in  
+   <lb ed="#B" n="76"/>clusiue. Contra. tunc redibit quod euitare intendis, quod da 
+   <lb ed="#B" n="77"/>bitur aliqua albedo in subiecto indiuisibiliter. nam 
+   <lb ed="#B" n="78"/>diuidamus partes proportionales minores in b. &amp; suo 
+   <lb ed="#B" n="79"/>subiecto ad intensionem formae: in nulla paite
+   propor<lb ed="#B" n="80" break="no"/>tionali b. est albedo vt octo: nec in aliquo puncto 
+   <lb ed="#B" n="81"/>intrinseco subiecti b. formae. quia si sic: vel non esset 
+   <lb ed="#B" n="82"/>vniformiter difformis: vel ibi esset albedo supra 
+   <lb ed="#B" n="83"/>octo: cum post illud punctum vel partem
+   proportio<lb ed="#B" n="84" break="no"/>nalem esset albedo supra octo. Insuper signetur 
+   <lb ed="#B" n="85"/>vnum medium vniformiter difforme in resistendo
+   pa<lb ed="#B" n="86" break="no"/>ludosum / a non gradu terminatum in octo: &amp; ponatur 
+   <lb ed="#B" n="87"/>vnum mobile actiuitatis vt octo incipiens am no
+   gra<lb ed="#B" n="88" break="no"/>du resistentiae: iam quodlibet punctum intrinsecum illius
+   me<lb ed="#B" n="89" break="no"/>dii illud mobile partransibit: &amp; non mouebitur continuos 
+   <lb ed="#B" n="90"/>ergo tandem erit quies: &amp; non nisi in latitudinem
+   im<lb ed="#B" n="91" break="no"/>partibili, quod probatur: quia ante punctum terminatiuum 
+   <lb ed="#B" n="92"/>totius non est resistentia vt octo: ergo ante non stabit: si 
+   <lb ed="#B" n="93"/>ad illud deueniat: erit actio a proportione aequalitatis, 
+   <lb ed="#B" n="94"/>contra philosophum. vii. physicorum, &amp; rationem.
+  </p>
+      <p xml:id="jMqv4a-d1e1894-d1e338">
+   ⁋
+   Re<lb ed="#B" n="95" break="no"/>spondetur concedendo quod latitudo vniformiter diffor 
+   <lb ed="#B" n="96"/>mis terminatur in aliquo gradu exclusiune &amp; non 
+   <lb ed="#B" n="97"/>inclusiue: &amp; transeat quod a. forma excedit b. sed non  
+   <lb ed="#B" n="98"/>per aliquam formam impartibilem: immo per latitudinem 
+   <lb ed="#B" n="99"/>diuisibilem / quia per totam a. formam. sicut tota linea per 
+   <lb ed="#B" n="100"/>transita ab hoc mobilia. est maior linea partransita a 
+   <lb ed="#B" n="101"/>b. mobili: &amp; eam excedit excessu diuisibili: si
+   vni<lb ed="#B" n="102" break="no"/>formiter mouebantur per horam praeteritam, &amp; iam a. sit &amp; non 
+   <lb ed="#B" n="103"/>b. Potest etiam dici, sed minus rationabiliter, quod illa 
+   <lb ed="#B" n="104"/>duae formae sunt pares in intensione: hoc est aequalem 
+   <lb ed="#B" n="105"/>intensionem habent: tamen vnum subiectum de 
+   <lb ed="#B" n="106"/>nominatur album vt octo, &amp; aliud vt quatuor secun 
+   <lb ed="#B" n="107"/>dum communiorem modum dicendi: cum latitu 
+   <!--0740.xml-->
+   <pb ed="#B" n="354-v"/>
+       <cb ed="#B" n="a"/>
+       <lb ed="#B" n="1"/>do vniformiter difformis respond eat gradui me 
+   <lb ed="#B" n="2"/>dio illius latitudinis. Si dicatur quod vnum subiectum 
+   <lb ed="#B" n="3"/>denominetur a gradu vt octo qui est remississimus 
+   <lb ed="#B" n="4"/>&amp; non est in hoc subiecto: in idem redit. Si dicas. 
+   <lb ed="#B" n="5"/>ponatur subiectum b. formae bipedale vniformiter 
+   <lb ed="#B" n="6"/>difformiter album: &amp; capiatur medium punctum 
+   <lb ed="#B" n="7"/>inter illas duas pedalitates, quaerendo an in illo sit ab 
+   <lb ed="#B" n="8"/>bedo vt quatuor, vel citra illud ad non gradum ve 
+   <lb ed="#B" n="9"/>vltra. quocumque illorum dato: eodem modo dicere ha 
+   <lb ed="#B" n="10"/>bebas albedinem vt octo esse in illo subiecto. In 
+   <lb ed="#B" n="11"/>super si addatur alia albedo vniformiter difformis 
+   <lb ed="#B" n="12"/>ad b. opposito modo: sic scilicet vt gradus
+   inten<lb ed="#B" n="13" break="no"/>sior addatur ad non gradum / &amp; non gradus supra ex 
+   <lb ed="#B" n="14"/>tremum intensius: iam totum erit album vt octo: &amp; 
+   <lb ed="#B" n="15"/>nihil additur prope non gradum. ergo prius erat albe 
+   <lb ed="#B" n="16"/>do vt octo in illo subiecto. Respondetur. in puncto 
+   <lb ed="#B" n="17"/>medio nulla est albedo cum ipsa non inhaereat puncto: 
+   <lb ed="#B" n="18"/>sed ante punctum medium est quilibet gradus ab 
+   <lb ed="#B" n="19"/>bedinis citra quatuor: &amp; vltra illud punctum albi 
+   <lb ed="#B" n="20"/>do vltra quatuor. Ad secundum dico quod consequen 
+   <lb ed="#B" n="21"/>tia est nulla.
+  </p>
+      <p xml:id="jMqv4a-d1e1894-d1e421">
+   ⁋ Ad aliud argumentum dico quod si i 
+   <lb ed="#B" n="22"/>lud mobile medium &amp; resistentia conseruentur
+   vni<lb ed="#B" n="23" break="no"/>formiter sicut a principio: continuo mouebitur illud 
+   <lb ed="#B" n="24"/>mobile: &amp; quidlibet punctum intrinsecum illius mi 
+   <lb ed="#B" n="25"/>dii pertransibit: infinita tamen tarditate: quia sem 
+   <lb ed="#B" n="26"/>per ad finem maior erit resistentia: &amp; per consequens 
+   <lb ed="#B" n="27"/>tardior descensus. &amp; in nullo instanti futuro vel tem 
+   <lb ed="#B" n="28"/>pore finito pertransibit illud medium complete.
+   ra<lb ed="#B" n="29" break="no"/>tio est: quia occupabit infinitum tempus ad illuc 
+   <lb ed="#B" n="30"/>spatium pertranseundum. tantum namque temporis 
+   <lb ed="#B" n="31"/>requiritur ad pertransitionem secundae partis propor 
+   <lb ed="#B" n="32"/>tionalis ad minus, quantum ad pertrasitionem
+   pri<lb ed="#B" n="33" break="no"/>mae. &amp; tantum temporis requiritur ad
+   pertransitio<lb ed="#B" n="34" break="no"/>nem tertiae partis quantum ad pertransitionem se 
+   <lb ed="#B" n="35"/>cundae. &amp; sic de omnibus aliis. &amp; aliquod certum 
+   <lb ed="#B" n="36"/>tempus requiritur ad pertransitionem primae
+   par<lb ed="#B" n="37" break="no"/>tis proportionalis. igitur. Prima autem pars proportio 
+   <lb ed="#B" n="38"/>nalis est a non gradu ad quatuor: ergo saltem
+   re<lb ed="#B" n="39" break="no"/>spondendo gradui medio erit proportio. viii. ad. ii. 
+   <lb ed="#B" n="40"/>scilicet quadrupla. secunda pars proportionalis est a 
+   <lb ed="#B" n="41"/>iiii. ad. vi. ergo respondet. v. modo. viii. ad. iiii. est 
+   <lb ed="#B" n="42"/>proportio dupla. ergo in duplo maiori tempore pe 
+   <lb ed="#B" n="43"/>transiret secundam partem proportionalem quam quo 
+   <lb ed="#B" n="44"/>pertransit primam / si secunda esset aequaliter ma 
+   <lb ed="#B" n="45"/>gna cum prima: sed cum ipsa est subdupla. &amp; si es 
+   <lb ed="#B" n="46"/>set proportio dupla: in aequali tempore per: ransi 
+   <lb ed="#B" n="47"/>ret secundam partem proportionalem &amp; primam. &amp; 
+   <lb ed="#B" n="48"/>proportio octo ad quinque est minor quam dupla vt con 
+   <lb ed="#B" n="49"/>stat: ergo plus temporis requiritur ad pertransitio 
+   <lb ed="#B" n="50"/>nem secundae partis quam ad pertransitionem primae 
+   <lb ed="#B" n="51"/>&amp; sic de qualibet parte sequente facile est
+   deduce<lb ed="#B" n="52" break="no"/>re applicado regulam communem Septimi phi 
+   <lb ed="#B" n="53"/>sicorum: quod velocitas motus localis quo ad canm 
+   <lb ed="#B" n="54"/>attenditur penes proportionem potentiae motiuae 
+   <lb ed="#B" n="55"/>ad resistentiam. 
+   <!--0740.xml-->
+   <cb ed="#B" n="b"/> 
+       <!-- 354-v b -->
+      </p>
+      <p xml:id="jMqv4a-d1e1894-d1e504">
+       <lb ed="#B" n="56"/>⁋ Tertio argumentor: ponendo du 
+   <lb ed="#B" n="57"/>os Sortem &amp; Platonem, qui per horam praeteri: 
+   <lb ed="#B" n="58"/>tam sic meriti sunt: vt quantum sit meritum Sor 
+   <lb ed="#B" n="59"/>tis in fine primae partis proportionalis: tantum sit
+   me<lb ed="#B" n="60" break="no"/>ritum Platonis in fine secundae partis
+   proportiona<lb ed="#B" n="61" break="no"/>lis: &amp; quantum fuit meritum Sortis in fine secun 
+   <lb ed="#B" n="62"/>dae partis proportionalis: tantum fuit meritum Pla 
+   <lb ed="#B" n="63"/>tonis in fine tertiae partis proportionalis. &amp; sic
+   con<lb ed="#B" n="64" break="no"/>sequenter per omnes partes proportionales vnius 
+   <lb ed="#B" n="65"/>horae: sit a instans terminatiuum huius horae prae 
+   <lb ed="#B" n="66"/>teritae: decedant ambo Sortes &amp; Plato post hoc
+   im<lb ed="#B" n="67" break="no"/>stans sine vlteriore merito. lam argumentor sic. me 
+   <lb ed="#B" n="68"/>ritum Sortis est maius merito Platonis: &amp; non per 
+   <lb ed="#B" n="69"/>aliquem excessum diuisibilem: igitur. quod Sortes plus 
+   <lb ed="#B" n="70"/>meruit quam Plato: patet: quia in quolibet instanti
+   in<lb ed="#B" n="71" break="no"/>trinseco horae praeteritae Sortes erat in maiore me 
+   <lb ed="#B" n="72"/>rito quam Plato. &amp; similiter dicendum est in qualibet 
+   <lb ed="#B" n="73"/>parte proportionali illius horae. ergo per totam illam 
+   <lb ed="#B" n="74"/>horam, quod si concedas: oppono: quodcunque meri 
+   <lb ed="#B" n="75"/>tum Sortes acquisiuit in fine partis proportiona 
+   <lb ed="#B" n="76"/>lis praecedentis / idem / vel aequale in fine partis pro 
+   <lb ed="#B" n="77"/>portionalis sequentis Plato ex hypothesi acquisi 
+   <lb ed="#B" n="78"/>nit: &amp; non datur vltima pars proportionalis horae. ergo  
+   <lb ed="#B" n="79"/>Sortes non acquisiuit plus meriti quam Plato. Et
+   ar<lb ed="#B" n="80" break="no"/>gumentum potest applicari contra conclusionem 
+   <lb ed="#B" n="81"/>principalem ab initio positam / probando quod inaequa 
+   <lb ed="#B" n="82"/>liter merentes aequaliter praemiabuntur &amp; in eodem 
+   <lb ed="#B" n="83"/>foro. sicut multa istorum argumentorum possunt 
+   <lb ed="#B" n="84"/>mutari sub aliis &amp; aliis terminis: &amp; ad varias mate 
+   <lb ed="#B" n="85"/>rias applicari.
+  </p>
+      <p xml:id="jMqv4a-d1e1894-d1e572">
+   ⁋ Respondetur. Sortes &amp; Plato nunc 
+   <lb ed="#B" n="86"/>in a. instanti habent aequalia merita. &amp; concedo quod 
+   <lb ed="#B" n="87"/>in quolibet instanti intrinseco horae praeteritae Sor 
+   <lb ed="#B" n="88"/>tes erat in maiore merito quam Plato: similiter in qua 
+   <lb ed="#B" n="89"/>libet parte proportionali horae praeteritae. sed non se 
+   <lb ed="#B" n="90"/>quitur quod ita sit in hoc instanti. Exemplum in
+   Achil<lb ed="#B" n="91" break="no"/>le zenonico. Si vnum mobile pertranseat primam 
+   <lb ed="#B" n="92"/>partem proportionalem spatii ante aliud sic: quan 
+   <lb ed="#B" n="93"/>do a. erit in fine secundae partis proportionalis: b. erit 
+   <lb ed="#B" n="94"/>in fine primae: &amp; quando a. erit in fine tertiae / b. erit 
+   <lb ed="#B" n="95"/>in fine secundae partis proportionalis huius spatii: &amp; iti 
+   <lb ed="#B" n="96"/>mouendo per omnes partes proportionales continui 
+   <lb ed="#B" n="97"/>per vnam horam continuo: iam in quolibet instan 
+   <lb ed="#B" n="98"/>ti intrinseco vnius horae a. erit ante b &amp; sic in qua 
+   <lb ed="#B" n="99"/>libet parte proportionali: &amp; tamen in instanti
+   termi<lb ed="#B" n="100" break="no"/>nante horam erunt ambo aeque cito extra spatium 
+   <lb ed="#B" n="101"/>&amp; id rationis est: quiab. mouetur velocius ad fini 
+   <lb ed="#B" n="102"/>horae quam a. nam a. per totam primam partem propor 
+   <lb ed="#B" n="103"/>tionalem horae pertransiuit primam dimidietatem 
+   <lb ed="#B" n="104"/>spatii: &amp; b. per subduplum tempus partransiuit tan 
+   <lb ed="#B" n="105"/>tum spatium lineale medio quiescente. Et concedo 
+   <lb ed="#B" n="106"/>quod in a. instanti terminante horam Sortes est in ma 
+   <lb ed="#B" n="107"/>iore merito quam Plato erat. similiter in a. instanti Pla 
+   <lb ed="#B" n="108"/>to est in maiore merito quam Sortes erat: si non curra 
+   <lb ed="#B" n="109"/>mus ad tempus vmbraticum: tempus inquam in  
+   <!--0741.xml-->
+   <pb ed="#B" n="355-r"/>
+       <cb ed="#B" n="a"/>
+       <lb ed="#B" n="1"/>adaequatum. Potest dari alia analogia quod non incon 
+   <lb ed="#B" n="2"/>uenit aliquid semper praecedere aliud in motu i me 
+   <lb ed="#B" n="3"/>rito / vel similibus, &amp; aequaliter esse in fine, de parti 
+   <lb ed="#B" n="4"/>bus aequinoctialis &amp; zxodiaci in materia de ortu
+   si<lb ed="#B" n="5" break="no"/>gnorum / vel de duabus vmbris. nam sint duae
+   vm<lb ed="#B" n="6" break="no"/>brae a. &amp; b. causatae a duobus corporibus opacis: &amp; 
+   <lb ed="#B" n="7"/>corpora lucida quae has vmbras causant ascendant. 
+   <lb ed="#B" n="8"/>vniformiter ad axenith corporum opacorum: sit vna 
+   <lb ed="#B" n="9"/>hora verbi causa, in instanti terminante horam
+   vtrun<lb ed="#B" n="10" break="no"/>quod corpus lucidum erit in aenith corporis opaci. &amp; 
+   <lb ed="#B" n="11"/>cum hoc ponatur quod vnum corpus opacum diminua 
+   <lb ed="#B" n="12"/>tur continuo ad paruam quantitatem, scilicet c. d.
+   ma<lb ed="#B" n="13" break="no"/>nente vnifomiter: iam a. vmbra in paruitate
+   con<lb ed="#B" n="14" break="no"/>tinuo exuperabit b. vmbram: &amp; tamen in eodem instan 
+   <lb ed="#B" n="15"/>ti vtraque vmbra erit aeque cito extincta. &amp; pone si 
+   <lb ed="#B" n="16"/>libet Sortem &amp; Platonem continuo aequaliter
+   mo<lb ed="#B" n="17" break="no"/>tos in vmbris secundum quod decrescunt, &amp; propor 
+   <lb ed="#B" n="18"/>tionabiliter merentes. At dicis. ascensus corporum 
+   <lb ed="#B" n="19"/>lucidorum ad xenith corporum opacorum aeque 
+   <lb ed="#B" n="20"/>vmbras diminuit quantum est ex parte illorum, 
+   <lb ed="#B" n="21"/>&amp; sunt agentia naturalia: &amp; cum hic diminutio
+   cor<lb ed="#B" n="22" break="no"/>poris opaci diminuat vmbram: vna vmbra citius 
+   <lb ed="#B" n="23"/>euanescit quam alia. alioquin non semper aucta seu ma 
+   <lb ed="#B" n="24"/>iorata causa / augebitur seu maiorabitur effectus. Net 
+   <lb ed="#B" n="25"/>luuat dicere quod ascensus corporis opaci prope aenith 
+   <lb ed="#B" n="26"/>non tantum diminuet quantum vbi multum
+   di<lb ed="#B" n="27" break="no"/>stat. quia idem est ex parte ascensus corporum lu 
+   <lb ed="#B" n="28"/>cidorum. Dicitur ad hoc in secunda distinctione pri 
+   <lb ed="#B" n="29"/>mi. quaestione prima. 
+  </p>
+    </div>
+   </body>
+  </text>
+</TEI>

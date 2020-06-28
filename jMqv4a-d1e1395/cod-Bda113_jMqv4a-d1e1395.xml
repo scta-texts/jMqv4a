@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 3</title>
+      <author ref="#JohnMair">John Mair</author>
+      <respStmt>
+       <name>Jeffrey C. Witt</name>
+       <resp>TEI Encoder</resp>
+      </respStmt>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 3</title>
+       <date when="2020-06-09">June 27, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="B" n="cod-Bda113">Badius 1516</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+     guidelines for a diplomatic edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-06-27" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+      <pb ed="#B" n="262-r"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="jMqv4a-d1e1395"> <!-- l4d27q3 -->
+      <head xml:id="jMqv4a-d1e1395-Hd1e104">Quaestio 3</head>
+      <head xml:id="jMqv4a-d1e1395-Hd1e107" type="question-title">Quis possit sponsalia contrahere et an sint licita</head>
+      <p xml:id="jMqv4a-d1e1395-d1e110">
+       <lb ed="#B" n="5"/>⁋ Distinctionis Vigesimaeseptimae 
+   <lb ed="#B" n="6"/>Quaestio Tertia. 
+   <lb ed="#B" n="7"/>Ertio quae ro quis
+   pos<lb ed="#B" n="8" break="no"/>sit sponsalia contrahere: &amp; an 
+   <lb ed="#B" n="9"/>sint licita. Pro quaestionis
+   so<lb ed="#B" n="10" break="no"/>lutione notabis quod sponsalia 
+   <lb ed="#B" n="11"/>sunt futurarum nuptiarum
+   pro<lb ed="#B" n="12" break="no"/>missio. xxx. qui. v. Nostrates. 
+   <lb ed="#B" n="13"/>Et dicuntur a spondeo
+   spon<lb ed="#B" n="14" break="no"/>des. vt in. l.iiitf. de sponsa. hinc sponsus quasi
+   pro<lb ed="#B" n="15" break="no"/>missus. sponsa quasi promissa. ideo post matrimo 
+   <lb ed="#B" n="16"/>nium de praesenti / etiam ante carnalem copulam non 
+   <lb ed="#B" n="17"/>dicuntur proprie sponsi: sed maritus &amp; vxor.
+   Vn<lb ed="#B" n="18" break="no"/>de cum legatur aliquid alicui si contraxerit matri 
+   <lb ed="#B" n="19"/>monium cum Berta: ilico vbi contraxit per verba 
+   <lb ed="#B" n="20"/>de praesenti idebetur ei legatum: licet non
+   consum<lb ed="#B" n="21" break="no"/>mauerit. patet. xxvii. q. ii. c. Sufficiat. Quandoque ta 
+   <lb ed="#B" n="22"/>men appellatione matrimonii comprehenditur
+   ma<lb ed="#B" n="23" break="no"/>trimonium duntaxat carnali copula consummatum. 
+   <lb ed="#B" n="24"/>vt in cap. Ex publico. de conver. coniug. &amp; sic ante 
+   <lb ed="#B" n="25"/>copulam possunt / licet minus proprie / dici sponsi: 
+   <lb ed="#B" n="26"/>quia mulier regulariter est sponsa, id est promissa 
+   <lb ed="#B" n="27"/>respectu copuiae carnalis. Et propterea dicit
+   Pa<lb ed="#B" n="28" break="no"/>nor. de sponsa. c. primo. quod quando agitur de odio:  
+   <lb ed="#B" n="29"/>appellatione maritatae non venit sponsa. Secus est 
+   <lb ed="#B" n="30"/>si de fauore ageretur. 
+  </p>
+      <p xml:id="jMqv4a-d1e1395-d1e169">
+       <lb ed="#B" n="31"/>⁋ Hoc praemisso respondetur per 
+   <lb ed="#B" n="32"/>duans conclusiones: quarum prior est. Omnis qui 
+   <lb ed="#B" n="33"/>potest matrimonium contrahere potest sponsalia 
+   <lb ed="#B" n="34"/>contrahere: et aliquis alter: quia qui non prohibe 
+   <lb ed="#B" n="35"/>tur / admittitur. prior pars patet. Nam aliquae perso 
+   <lb ed="#B" n="36"/>nae possunt contrahere: et non est maior ratio de
+   ali<lb ed="#B" n="37" break="no"/>quibus quam de aliis in quibus non reperitur prohibi 
+   <lb ed="#B" n="38"/>tio. Secunda pars probatur: quia septennes et
+   su<lb ed="#B" n="39" break="no"/>pra eam aetatem possunt contrahere sponsalia: et
+   ta<lb ed="#B" n="40" break="no"/>men non omnes tales possunt matrimonium con 
+   <lb ed="#B" n="41"/>trahere, vt infra patebit. similiter tempore
+   oratio<lb ed="#B" n="42" break="no"/>nis vt in quadragesima / possunt homines sponsalia 
+   <lb ed="#B" n="43"/>contrahere: et non matrimonium, propter
+   matri<lb ed="#B" n="44" break="no"/>monii solennitatem. citra autem septimum annum 
+   <lb ed="#B" n="45"/>contrahere non possunt. de despon. impuberum. 
+   <lb ed="#B" n="46"/>c. vnico. libro. vi. et si contrahant, non tenent, nec 
+   <lb ed="#B" n="47"/>oritur publicae honestatis iustitia: licet alter sit su 
+   <lb ed="#B" n="48"/>pra septimum / nisi minor rantificet cum septennium 
+   <lb ed="#B" n="49"/>attigerit.
+  </p>
+      <p xml:id="jMqv4a-d1e1395-d1e214">
+   ⁋ Secunda conclusio. Sponsalia sunt
+   ra<lb ed="#B" n="50" break="no"/>tionabiliter instituta. probatur: quia contranctus
+   ma<lb ed="#B" n="51" break="no"/>trimonialis est difficile iugum multis: ergo
+   expe<lb ed="#B" n="52" break="no"/>dit facere contractum futurum praeuium potius quam 
+   <lb ed="#B" n="53"/>repente contrahere: quia facilius erit corrigere erro 
+   <!--0555.xml-->
+   <cb ed="#B" n="b"/> 
+       <!-- 262-r b -->
+       <lb ed="#B" n="54"/>rem si quis sit in contractu initiato quam
+   consumma<lb ed="#B" n="55" break="no"/>to. propterea enim ponitur tempus nouitiatus in 
+   <lb ed="#B" n="56"/>religione. 
+  </p>
+      <p xml:id="jMqv4a-d1e1395-d1e238">
+       <lb ed="#B" n="57"/>⁋ Contra primam conclusionem arguin 
+   <lb ed="#B" n="58"/>tur. Quis potest matrimonium contrahere quando 
+   <lb ed="#B" n="59"/>malitia supplet aetatem / ante annos pubertatis com 
+   <lb ed="#B" n="60"/>pletos: puta ante quartundecimum annum : ergo &amp; 
+   <lb ed="#B" n="61"/>sponsalia ante septennium. Insuper non est ratio 
+   <lb ed="#B" n="62"/>signanda quaere potius statur in septennio quam in alia
+   aeta<lb ed="#B" n="63" break="no"/>te. igitur terminus est irrationabilis.
+  </p>
+      <p xml:id="jMqv4a-d1e1395-d1e256">
+   ⁋ Ad primum 
+   <lb ed="#B" n="64"/>nego consequentiam: &amp; causa dicta est virtualiter. 
+   <lb ed="#B" n="65"/>nam cum alter est mulieris potens: et discretionem 
+   <lb ed="#B" n="66"/>habet ante. xiiii. annos et consentit, est verum ma 
+   <lb ed="#B" n="67"/>trimonium. ante septennium autem non potest 
+   <lb ed="#B" n="68"/>vllo modo mulierem cognoscere. Propterea in  
+   <lb ed="#B" n="69"/>tentio legissatoris est rationabiliter posita: praecipue 
+   <lb ed="#B" n="70"/>in vno et non in alio. Et patet. xxx. q. ii. in vtroque 
+   <lb ed="#B" n="71"/>ca. Ad secundum dico: quod in his pure positiuis quod 
+   <lb ed="#B" n="72"/>principi placuit / legis habet vigorem. Et licet non 
+   <lb ed="#B" n="73"/>possit dari ratio quare terminus ponatur in hoci 
+   <lb ed="#B" n="74"/>et non in illo: tamen multum rationabile est
+   fige<lb ed="#B" n="75" break="no"/>re terminum. et hoc in aequitate naturali fundatur. vo 
+   <lb ed="#B" n="76"/>luntas autem legissatoris superueniens ponit ter 
+   <lb ed="#B" n="77"/>minum in vno determinato voluntarie. sicut de iu 
+   <lb ed="#B" n="78"/>re naturae erat quod tribus leuitica cultui diuino manci 
+   <lb ed="#B" n="79"/>pata orans pro se et tribubus reliquis esset
+   nutrien<lb ed="#B" n="80" break="no"/>da et sustentanda: sed quo ad quotam decimarum 
+   <lb ed="#B" n="81"/>erat de positiuo iure diuino / tempore illius legis: 
+   <lb ed="#B" n="82"/>Aliqua enim lex in aequitate naturali fundata est: 
+   <lb ed="#B" n="83"/>Et hoc dupliciter. vno modo euidenter omnibus: 
+   <lb ed="#B" n="84"/>alio modo euidenter solum bene natis. Aliqua etiam 
+   <lb ed="#B" n="85"/>habet pro se et suo opposito rationes: sed plures 
+   <lb ed="#B" n="86"/>pro se quam pro opposito. vt lex de possessione
+   bono<lb ed="#B" n="87" break="no"/>rum. Aliqua nullam rationem habet pro se / nec pro 
+   <lb ed="#B" n="88"/>opposito, aliam a voluntate egissatoris. et illa est etiam 
+   <lb ed="#B" n="89"/>prudenter instituta. vbi non est querenda tatio
+   le<lb ed="#B" n="90" break="no"/>gis: sed sola instituentis voluntas sufficit. 
+  </p>
+      <p xml:id="jMqv4a-d1e1395-d1e317">
+       <lb ed="#B" n="91"/>⁋ Contra secundam conclusionem
+   argui<lb ed="#B" n="92" break="no"/>tur. Totum et perfectum idem sunt. tertio physi 
+   <lb ed="#B" n="93"/>corum. sed perfectum est matrimonium sine
+   sponsali<lb ed="#B" n="94" break="no"/>bus. ergo sponsalia non sunt rationabiliter instituta 
+   <lb ed="#B" n="95"/>pro matrimonio. Respondetur. sponsalia non sunt 
+   <lb ed="#B" n="96"/>pars matrimonii: nec de necessitate sacramenti ad 
+   <lb ed="#B" n="97"/>matrimonium requisita: nec aliquae proclamationes 
+   <lb ed="#B" n="98"/>in ecclesia: licet plerumque ministri peccent illas
+   relin<lb ed="#B" n="99" break="no"/>quentes. Nam multa incommoda illis omissis sequen 
+   <lb ed="#B" n="100"/>rentur: vtpote multae personae inhabiles contraherent. 
+   <lb ed="#B" n="101"/>Sicut autem nouitiatus non est pars religionis: quia 
+   <lb ed="#B" n="102"/>habitus non facit monachum: tamen ad bene esse 
+   <lb ed="#B" n="103"/>professionis praerequiritur: sic in proposito.
+   Con<lb ed="#B" n="104" break="no"/>tra hoc arguitur. vniuscuiusque rei potissima pars 
+   <lb ed="#B" n="105"/>est suum principium.litt. de ordi. iuris. l.i. Et Horatius 
+   <lb ed="#B" n="106"/>dicit. Dimidium facti qui coepit habet. Responde 
+   <lb ed="#B" n="107"/>tur. hoc est verum de principio intrinseco / non autem 
+   <!--0556.xml-->
+   <pb ed="#B" n="262-v"/>
+       <cb ed="#B" n="a"/>
+       <lb ed="#B" n="1"/>extrinseco. Secundo dico quod multum facit princi 
+   <lb ed="#B" n="2"/>pium extrinsecum ad complementum operis: non tamen 
+   <lb ed="#B" n="3"/>est de eius essentia 
+  </p>
+      <p xml:id="jMqv4a-d1e1395-d1e369">
+       <lb ed="#B" n="4"/>⁋ Dubitatur: quomodo possint
+   spo<lb ed="#B" n="5" break="no"/>salia cotrahi categorice. Respondetur, quadrifariam. 
+   <lb ed="#B" n="6"/>Primo per verba de praesenti si sint ambo impuberes. 
+   <lb ed="#B" n="7"/>vel alter duntaxat. Nam iuris fictione talia sunt solum 
+   <lb ed="#B" n="8"/>sponsalia: vt patet in. c. fi. de despoioio. impube. &amp; ratio est: quia 
+   <lb ed="#B" n="9"/>vel oportet dicere quod est matrimonium: &amp; hoc no: quia 
+   <lb ed="#B" n="10"/>vetat lex: vel contractus nullus. &amp; sic frustra contraxem 
+   <lb ed="#B" n="11"/>runt. sed intelligitur haec clausula, si non valet vt ago va 
+   <lb ed="#B" n="12"/>leat vt valere potest. Lex ergo mitius interpretatur pro 
+   <lb ed="#B" n="13"/>sponsalibus. Secundo modo contrahuntur per verba de 
+   <lb ed="#B" n="14"/>futuro ad hoc apta. Tertio per annuli subarrationem 
+   <lb ed="#B" n="15"/>xxvii. q. ii. c. Si quis desponsauerit. Quarto per arrarum 
+   <lb ed="#B" n="16"/>datione.
+  </p>
+      <p xml:id="jMqv4a-d1e1395-d1e400">
+   ⁋ Ecce quid sint sponsalia de futuro matri 
+   <lb ed="#B" n="17"/>monio. licet autem cosensus praesens cum signo sensi 
+   <lb ed="#B" n="18"/>bili praesenti causet matrimonium: tamen consensus praesens 
+   <lb ed="#B" n="19"/>de matrimonio futuro cum verbis futuris no causat 
+   <lb ed="#B" n="20"/>matrimonium futurum: sed solum sponsalia praesentia.
+   In<lb ed="#B" n="21" break="no"/>super diximus quis possit contrahere sponsalia: &amp; quomodo: &amp; 
+   <lb ed="#B" n="22"/>quod rationambiliter instituta sunt: licet non sint pars
+   ma<lb ed="#B" n="23" break="no"/>trimonii: in quibus requiritur consensus determinatus 
+   <lb ed="#B" n="24"/>sicut in mantrimonio. Si quis autem ante matrimonium va 
+   <lb ed="#B" n="25"/>ge promitteret se ducturum vnam e duabus vel pluribus: &amp; 
+   <lb ed="#B" n="26"/>quaelibet earum in eum consentiret / id idem promittens: non 
+   <lb ed="#B" n="27"/>essent sponsalia: nisi omnes vna dempta essent imhabiles. 
+   <lb ed="#B" n="28"/>Praeterea. si quis promitteret se contracturum sponsalia cum 
+   <lb ed="#B" n="29"/>aliqua: cum illa no contrahit sponsalia. sicut promittens 
+   <lb ed="#B" n="30"/>se contracturum matrimonium cum aliqua: non propterea 
+   <lb ed="#B" n="31"/>cum illa cotrahit. In super post matrimonium cotractum 
+   <lb ed="#B" n="32"/>non est opus facere sponsalia. inutile namque est
+   face<lb ed="#B" n="33" break="no"/>re promissionem futuram de re propria. 
+  </p>
+    </div>
+   </body>
+  </text>
+</TEI>

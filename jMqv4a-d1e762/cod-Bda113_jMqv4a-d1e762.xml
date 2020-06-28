@@ -1,0 +1,346 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 33</title>
+      <author ref="#JohnMair">John Mair</author>
+      <respStmt>
+       <name>Jeffrey C. Witt</name>
+       <resp>TEI Encoder</resp>
+      </respStmt>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 33</title>
+       <date when="2020-06-09">June 27, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="B" n="cod-Bda113">Badius 1516</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+     guidelines for a diplomatic edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-06-27" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+      <pb ed="#B" n="142-v"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="jMqv4a-d1e762"> <!-- l4d15q33 -->
+      <head xml:id="jMqv4a-d1e762-Hd1e104">Quaestio 33</head>
+      <head xml:id="jMqv4a-d1e762-Hd1e107" type="question-title">An iste casus sit usuarius. Sortes dat Platoni 
+  bis mille libras sterlingorum mutuo, 
+  capiens a pagum annue valentem c. sterlingorum 
+  libras in pignore. Sortes tenet a. pagum: et fructus eius colligi xx. annos: et 
+  demum suas bis mille libras recipit</head>
+      <p xml:id="jMqv4a-d1e762-d1e110">
+       <lb ed="#B" n="53"/>⁋ Distinctionis Decimaequintae 
+   <lb ed="#B" n="54"/>Quaestio Trigesimatertia. 
+   <!--0316.xml-->
+   <cb ed="#B" n="b"/> 
+       <!-- 142-v b -->
+       <lb ed="#B" n="55"/>aS ecime quintae 
+   <lb ed="#B" n="56"/>ve Vaeritur quito. an inste 
+   <lb ed="#B" n="57"/>casus sit vsurarius. sortes dat 
+   <lb ed="#B" n="58"/>Platoni bis mille libras
+   ster<lb ed="#B" n="59" break="no"/>lingorum mutuo, capiens a. pa 
+   <lb ed="#B" n="60"/> gum annue valentem centum sterlin 
+   <lb ed="#B" n="61"/>gorum libras in pignore. sortes 
+   <lb ed="#B" n="62"/>tenet a. pagum &amp; fructus eius col 
+   <lb ed="#B" n="63"/>A 
+   <lb ed="#B" n="64"/>Aligit. xx. annos. &amp; demum 
+   <lb ed="#B" n="65"/>suas bis mille libras recipit. lsto casu supposito 
+   <lb ed="#B" n="66"/>vtrinque argumentor. Ad partem negatiuam per defi 
+   <lb ed="#B" n="67"/>nitione vsurae: quia capit lucrum vltra sortem vi
+   mu<lb ed="#B" n="68" break="no"/>tui: quotannis enim percipit centum: &amp; hoc. xx. annis: er 
+   <lb ed="#B" n="69"/>go colligit bis mille libras sterlingorum in illo tempore 
+   <lb ed="#B" n="70"/>qui octodecies mille francos valent &amp; amplius: &amp; in fi 
+   <lb ed="#B" n="71"/>ne capit sortem. &amp; hoc facit ratione mutui: quia ab omni 
+   <lb ed="#B" n="72"/>bus mutuum appellatur. Ad partem affirmatiuam
+   ar<lb ed="#B" n="73" break="no"/>gumentor. hic casus passim inter viros honestos 
+   <lb ed="#B" n="74"/>admittitur: nec a sapientibus reprobatur: erp? est licitus. 
+  </p>
+      <p xml:id="jMqv4a-d1e762-d1e167">
+       <lb ed="#B" n="75"/>⁋ Pro solutione quaestionis ponam pro 
+   <lb ed="#B" n="76"/>positiones. quarum Prima est. mutuans, nont capere 
+   <lb ed="#B" n="77"/>pignus ad securitatem: vt sit securus de i habenda 
+   <lb ed="#B" n="78"/>forte: vel tenere aequalens vel chirographum: &amp; etiam 
+   <lb ed="#B" n="79"/>a fideiussore mutuatarii potest accipi pignus. probatur 
+   <lb ed="#B" n="80"/>conclusio. si non liceret recipere pignus vel
+   hypo<lb ed="#B" n="81" break="no"/>thecam: hoc esset ideo: quia capiendo committeret 
+   <lb ed="#B" n="82"/>vsuram: sed hoc est falsum: quia non capit dominium
+   re<lb ed="#B" n="83" break="no"/>cepti vi mutuationis: cum dominium penes mu 
+   <lb ed="#B" n="84"/>tuatarium, vel fideiussorem maneat: &amp; non recipit vi 
+   <lb ed="#B" n="85"/>mutui: sed vi securitatis: &amp; vt seruetur indennis. modo 
+   <lb ed="#B" n="86"/>multi magnam iacturam mutuando fecerunt. ipse au 
+   <lb ed="#B" n="87"/>tem vult se ab illo praeseruare solum, proximo faciens gra 
+   <lb ed="#B" n="88"/>tiam de mutuo. Sic Thobias cepit a Gabelo
+   pi<lb ed="#B" n="89" break="no"/>gnus. Thobiae primo. &amp; ouerb. xx. dicitur. Tolle 
+   <lb ed="#B" n="90"/>vestimentum eius qui fideiustor extitit alieni: &amp; pro 
+   <lb ed="#B" n="91"/>extraneis aufer pignus ab eo. hoc est: licite tolle 
+   <lb ed="#B" n="92"/>re potes. &amp; hoc nisi mutuatarius sit in illo casu in 
+   <lb ed="#B" n="93"/>quo mutuans tenetur ei mutuare. de quo casu est
+   il<lb ed="#B" n="94" break="no"/>lud Exodi. xxii. Si pignus a proxio tuo acceperis 
+   <lb ed="#B" n="95"/>vestimentum: ante solis occasum reddes ei. Ipsum 
+   <lb ed="#B" n="96"/>enim est solum quo operitur indumentum carnis eius: 
+   <lb ed="#B" n="97"/>nec habet aliud in quo dormiat. Litera satis
+   ex<lb ed="#B" n="98" break="no"/>plicat quod necessarium est mutuatario habre pignus 
+   <lb ed="#B" n="99"/>pare noctumo. Idem habetur Leuitici. xxv. &amp; Deute. 
+   <lb ed="#B" n="100"/>xxiiii. &amp; de vsuris cap. i. Ex quo colligitur quod l ac 
+   <lb ed="#B" n="101"/>cipere pignus: &amp; extra necessitatem mutuatarii ipsum 
+   <lb ed="#B" n="102"/>detinere. Si vero sit in necessitate, est ei pro tempore illo 
+   <lb ed="#B" n="103"/>reddendum: &amp; postea ab ipso accipiendum quando est ex 
+   <lb ed="#B" n="104"/>tra necessitate. Si autem vasa argentea, torquem
+   aurtan<lb ed="#B" n="105" break="no"/>aut annulos in pignore habeas: quia haec non sunt 
+   <lb ed="#B" n="106"/>proxio necessaria: non teneris ei illa restituere, quo 
+   <lb ed="#B" n="107"/>ad solutionem mutui tui habeas.
+  </p>
+      <p xml:id="jMqv4a-d1e762-d1e242">
+   ⁋ Secunda con 
+   <lb ed="#B" n="108"/>clusio. si sit vera ratio impignorationis in titulo 
+   <lb ed="#B" n="109"/>uaestionis sortes committit vsura. Dico ( vera ratio im 
+   <!--0317.xml-->
+   <pb ed="#B" n="143-r"/>
+       <cb ed="#B" n="a"/>
+       <lb ed="#B" n="1"/>pignorationnis) quia si pignus ad mutuantem de 
+   <lb ed="#B" n="2"/>iure spectet: vel quia habet proprietatem in pignore: &amp; 
+   <lb ed="#B" n="3"/>mutuatarius dominium vtile: iam non est vera ratio 
+   <lb ed="#B" n="4"/>impignorationis: &amp; hoc cum interesse &amp; poena
+   suf<lb ed="#B" n="5" break="no"/>ficienter in quaestione praecedente exclusum est: quia
+   po<lb ed="#B" n="6" break="no"/>nimus quod fructus in sortem non supputet: nam si illos 
+   <lb ed="#B" n="7"/>supputet potest fructus colligere: vt dicitur Leuitici 
+   <lb ed="#B" n="8"/>xxv. &amp; de vsu. cap. i. quia sic per fructuum collectionem 
+   <lb ed="#B" n="9"/>annuam sors attenuabitur: sic scilicet vt in fine vigesimi an 
+   <lb ed="#B" n="10"/>ni teneatur restituere pignus. &amp; hoc si vltra labores 
+   <lb ed="#B" n="11"/>&amp; impensas &amp; sortem colligat: quia hoc est commune qui 
+   <lb ed="#B" n="12"/>expensae quae fiunt gratia fructuum colligendorum &amp; 
+   <lb ed="#B" n="13"/>conseruandorum a malae fidei possessore: deducant 
+   <lb ed="#B" n="14"/>vt patet de resti. spolia. c. Grauis. Probatur. conclusio 
+   <lb ed="#B" n="15"/>lam capit lucrum extra sortem vi mutui: quia nulla alia 
+   <lb ed="#B" n="16"/>ratione accipit vt suppono.
+  </p>
+      <p xml:id="jMqv4a-d1e762-d1e290">
+   ⁋ Tertia conclusio. pEr 
+   <lb ed="#B" n="17"/>fatus casus in titulo quaestionis propositus cum circum 
+   <lb ed="#B" n="18"/>stantiis qua in praedicto casu addi solent: non est vsu 
+   <lb ed="#B" n="19"/>rarius: sed est vera emptio annui redditus probatur. 
+   <lb ed="#B" n="20"/>nullo modo est mutuum: ergo est alius contractus 
+   <lb ed="#B" n="21"/>&amp; non nisi emptionis: ergo est vera emptio. quod non 
+   <lb ed="#B" n="22"/>sit mutuum, probatur: vel hoc esset quia apud vul 
+   <lb ed="#B" n="23"/>go loquentes vocatur mutuum: vel ob aliquid
+   aliud<lb ed="#B" n="24" break="no"/>sed nec hoc nec illud, igitur. Non secundum vt in 
+   <lb ed="#B" n="25"/>prosequutione probabit, nec primum. nam. iiii.
+   Re<lb ed="#B" n="26" break="no"/>gum. vi. quidam comodato acceperat securim a
+   pro<lb ed="#B" n="27" break="no"/>ximo: &amp; tamen dicebat Heliseo. Heu heu domine mi, &amp; 
+   <lb ed="#B" n="28"/>noc ipsum mutuo acceperam. modo securis non erat 
+   <lb ed="#B" n="29"/>res vsu consumptibilis: ergo non erat mutuum. &amp; 
+   <lb ed="#B" n="30"/>iiii. Regum. iiii. Heliseus dixit viduae. Vade &amp; pete 
+   <lb ed="#B" n="31"/>mutuo ab omnibus vicinis tuis vasa vacua non
+   pau<lb ed="#B" n="32" break="no"/>ca. &amp; de, hoc crebro est sermo in scriptura sctam: vt Lu 
+   <lb ed="#B" n="33"/>cae sexto. Commoda mihi tres panes. &amp; tamen in  
+   <lb ed="#B" n="34"/>panibus est mutuum. &amp; modus loquendi contin 
+   <lb ed="#B" n="35"/>gere poterat, quia forte in hebraeo idem terminus,
+   li<lb ed="#B" n="36" break="no"/>cet aequoce. comodationem &amp; mutuum importat. isi 
+   <lb ed="#B" n="37"/>cut crebro in lingua gallica &amp; britannica euenit. 
+   <lb ed="#B" n="38"/>ergo si ex parte obiecti concluditur aliquis contractus esse 
+   <lb ed="#B" n="39"/>alius quam noinetur: idem erit ex parte circumstantiarum: cum 
+   <lb ed="#B" n="40"/>circa idem obiectum non modo specie sed numero 
+   <lb ed="#B" n="41"/>dentur virtutes specie distinctae, &amp; vitia simite. secundum 
+   <lb ed="#B" n="42"/>Hilarium. &amp; habetur de verbo. sig. ca. Intelligentia. vbi 
+   <lb ed="#B" n="43"/>scribitur. Intelligentia dictorum ex causis est
+   assu<lb ed="#B" n="44" break="no"/>menda dicendi: quia non sermoni res sed rei est
+   ser<lb ed="#B" n="45" break="no"/>mo subiectus. Semper enim debemus attendere inte 
+   <lb ed="#B" n="46"/>tionem loquentis &amp; non verba. itur. de ver. sig. l. Nepos 
+   <lb ed="#B" n="47"/>Proculo. &amp;. it. de reg. iu. Seper in stipulationibus ad 
+   <lb ed="#B" n="48"/>causam dicti recurredum est. que accum. Cum dilecti. 
+   <lb ed="#B" n="49"/>&amp; <name xml:id="jMqv4a-d1e762-Nd1e363" ref="#Augustine">Augustinus</name> in libro de duabus animabus ait. Non est 
+   <lb ed="#B" n="50"/>facienda controuersia in verbis cum res constet. 
+   <lb ed="#B" n="51"/>Stat ergo quod vocetur mutuum a loquentibus &amp; non 
+   <lb ed="#B" n="52"/>sit mutuum. Haec enim consequentia non valet: vocatur 
+   <lb ed="#B" n="53"/>a vulgo hic contractus mutuum: ergo est mutuum. Stat 
+   <lb ed="#B" n="54"/>ergo oppositum consequentis cum antecedente quod non 
+   <lb ed="#B" n="55"/>est mutuum: &amp; tamen vocetur mutuum. sicut non sequitur 
+   <!--0317.xml-->
+   <cb ed="#B" n="b"/> 
+       <!-- 143-r b -->
+       <lb ed="#B" n="56"/>iste vocatur leo: ergo est leo. vel ego vocor
+   ma<lb ed="#B" n="57" break="no"/>ior vel magnus: ergo sum talis.
+  </p>
+      <p xml:id="jMqv4a-d1e762-d1e391">
+   ⁋ Insuper ratione 
+   <lb ed="#B" n="58"/>argumentor. hic contractus habet aliquid repugnans 
+   <lb ed="#B" n="59"/>cotractui mutui vel contra eius substantiam: ergo 
+   <lb ed="#B" n="60"/>nullo modo est mutuum. Tenet consequentia: quia 
+   <lb ed="#B" n="61"/>licet vnus contractus possit habere aliquid praeter suam 
+   <lb ed="#B" n="62"/>naturam: non tamen potest habere aliquid contra suam 
+   <lb ed="#B" n="63"/>substantiam: &amp; sibi repugnans. Assumptum pa 
+   <lb ed="#B" n="64"/>tet: quia in mutuo mutuatarius est obligatus
+   restitue<lb ed="#B" n="65" break="no"/>re sortem: in isto autem contractu qans agros &amp; 
+   <lb ed="#B" n="66"/>recipiens pecuniam nullo modo est obligatus
+   re<lb ed="#B" n="67" break="no"/>stituere sortem a communi hominum consuetudine, sed potest 
+   <lb ed="#B" n="68"/>redimere quando restituit sortem: hoc est: datur ei
+   facul<lb ed="#B" n="69" break="no"/>tas vt iterato ematquando vult quod mutuatarius sit obli 
+   <lb ed="#B" n="70"/>gatus restituere sortem, quod patet, quia est plus ciuiliter 
+   <lb ed="#B" n="71"/>mutuanti obligatus quam donatarius donatori qui na 
+   <lb ed="#B" n="72"/>turaliter ad vicissitudinem obligatur. Si ergo
+   mu<lb ed="#B" n="73" break="no"/>tuatarius plus ciuiliter mutuanti obligatur: mutua 
+   <lb ed="#B" n="74"/>tor habet contra eum actionem: quia obligatio ciuilis 
+   <lb ed="#B" n="75"/>est mater actionis. modo non videtur alia actio ni 
+   <lb ed="#B" n="76"/>si ius repetendi sortem: &amp; ad hoc in foro contradi 
+   <lb ed="#B" n="77"/>ctorio cogetur. Et quia de donatione incidit
+   ser<lb ed="#B" n="78" break="no"/>mo: patet ratio per simile. si darem mutuo tibi. xx. 
+   <lb ed="#B" n="79"/>aureos nummos ea lege vt eos abs te nunquam repetam 
+   <lb ed="#B" n="80"/>nec eris mihi obligatus eos restituere nec
+   aequa<lb ed="#B" n="81" break="no"/>lens: nec aliquid loco eorum. Quamuis enim ille vocet
+   con<lb ed="#B" n="82" break="no"/>tractus mutui: in re tamen est pura donatio. Cum 
+   <lb ed="#B" n="83"/>enim liberaliter scu gratuite tibi. xx. aurei tradantur 
+   <lb ed="#B" n="84"/>&amp; ciuiliter: non es obligatus restituere aliquid loco 
+   <lb ed="#B" n="85"/>eorum. Sed quia in proposito additur illa circumstantia 
+   <lb ed="#B" n="86"/>pignoris, &amp; perceptio fructuum receptorum: non 
+   <lb ed="#B" n="87"/>potest esse donatio, nec est impignoratio proprie 
+   <lb ed="#B" n="88"/>dicta: quia licite colliguntur fructus quos
+   colli<lb ed="#B" n="89" break="no"/>gens non computat in sortem: &amp; pignus in manu 
+   <lb ed="#B" n="90"/>domini perit. sed hic si vocatum pignus pereat con 
+   <lb ed="#B" n="91"/>suetudine hominum: mutuans nihil aliud vnquam 
+   <lb ed="#B" n="92"/>habebit a mutuatario: ergo dominium rei est in ipso eme 
+   <lb ed="#B" n="93"/>te vel vocato mutuante. Nec videtur aliquis alius con 
+   <lb ed="#B" n="94"/>tractus dabilis quam emptionis: ergo est contractus 
+   <lb ed="#B" n="95"/>emptionis.
+  </p>
+      <p xml:id="jMqv4a-d1e762-d1e476">
+   ⁋ Praeterea. si sortes dicat platoni: emo 
+   <lb ed="#B" n="96"/>abs te ius recipiendorum quotannis quinque scutorum dam 
+   <lb ed="#B" n="97"/>do tibi mille scuta tamquam praecium mercis emptae: &amp;
+   dam<lb ed="#B" n="98" break="no"/>do tibifacultatem redimendi illud ius, cum mille
+   de<lb ed="#B" n="99" break="no"/>deris, &amp; plato consenserit: nemo dubitat quin ille sit 
+   <lb ed="#B" n="100"/>contractus emptionis licitus. ergo si Titius dicat 
+   <lb ed="#B" n="101"/>Meuio. Meui mutuo tibi mille aureos irreuocabi 
+   <lb ed="#B" n="102"/>liter nisi redimere volueris, ea lege vt quotannis. l 
+   <lb ed="#B" n="103"/>recipiam dando tibi facultatem ius illud extinguendi cum 
+   <lb ed="#B" n="104"/>mihi mille meos scilicet capitale vel mutuum dederis. &amp; 
+   <lb ed="#B" n="105"/>Meuius assentiat. Tunc sic. prior contractus est licitus 
+   <lb ed="#B" n="106"/>ergo &amp; posterior. tenet consequentia, quia solo nomine 
+   <lb ed="#B" n="107"/>a priore distat. nam personae contrahentes sunt eaedemsone. 
+   <lb ed="#B" n="108"/>vel pone quod sint eaedem numero, hos duos contractus fa 
+   <lb ed="#B" n="109"/>cientes: pecuiae &amp; ius recipiendi similes &amp; pacta. cum quibus 
+   <lb ed="#B" n="110"/>res &amp; pecuniae sunt transsatae, sunt eadem: igitur contractus sunt 
+   <!--0318.xml-->
+   <pb ed="#B" n="143-v"/>
+       <cb ed="#B" n="a"/>
+       <lb ed="#B" n="1"/>idem. tenet consequentia: quia sola vocis mutatio sni 
+   <lb ed="#B" n="2"/>hil in re mutetur no potest facere rerum mutationem. Quia 
+   <lb ed="#B" n="3"/>iste contractus sit licitus patet: quia non est melior conditio 
+   <lb ed="#B" n="4"/>vnius quam alterius iudicio prudentum: nec contractus est
+   ali<lb ed="#B" n="5" break="no"/>quo iure naturali vel positiuo irritatus. igitur est licit 
+   <lb ed="#B" n="6"/>De iure naturali hoc sequitur ex probatione prioris 
+   <lb ed="#B" n="7"/>partis: quia si sic, hoc maxime esset quia est vsura 
+   <lb ed="#B" n="8"/>sed hoc non: quia nec est mutuum: nec vera
+   impignora<lb ed="#B" n="9" break="no"/>tio: sed est estptio: vel habent circumstantias aliquans ab hominium 
+   <lb ed="#B" n="10"/>consuetudine: quod cum emptione maxime convenit 
+   <lb ed="#B" n="11"/>Quia autem vtriusque conditio sit aequamlis patet. vulgo sic 
+   <lb ed="#B" n="12"/>vocatus mutuator dat. xx. pro vno: centum pro quinque 
+   <lb ed="#B" n="13"/>mille pro quinquaginta. modo homines emere patent
+   terra<lb ed="#B" n="14" break="no"/>sic irredimibiles. nam idem est in valore habe mille 
+   <lb ed="#B" n="15"/>promptu secundum hominum prudentiam pecuniam ad honi 
+   <lb ed="#B" n="16"/>sta negocia scientium applicare: &amp; habie ius recipiendi 
+   <lb ed="#B" n="17"/>annue. l. vt est in proposito. Propterea istum contracti 
+   <lb ed="#B" n="18"/>voco licitum: in quo vnus diues alteri mutuat verba 
+   <lb ed="#B" n="19"/>liter pecuniam ad aliquod officium applicandam cum condit 
+   <lb ed="#B" n="20"/>onibus expressis &amp; tacitis contractui inhaerentibus: vt po 
+   <lb ed="#B" n="21"/>te mutuas pro. xx. habebit ius recipiendi quorannis 
+   <lb ed="#B" n="22"/>vnum: nec mutuatarius cogi potest ad restituendum. datur tamen 
+   <lb ed="#B" n="23"/>ei facultas redimendi: &amp; illud ius extinguendi dam 
+   <lb ed="#B" n="24"/>do rantum mutuanti quantum ab eo accepit in vocato 
+   <lb ed="#B" n="25"/>mutuo. &amp; si ager vocatus pignus quocumque casuper 
+   <lb ed="#B" n="26"/>eat: incendio, hostibus, vel alluuione: mutuator 
+   <lb ed="#B" n="27"/>non habebit aliud: quia res perit in manu domi 
+   <lb ed="#B" n="28"/>ni: tamen ipse dominus illius agri potest ab illo dominio inuit 
+   <lb ed="#B" n="29"/>deponi quando soluitur ei sors principalis. Do tibi analo 
+   <lb ed="#B" n="30"/>giam. obligo me tibi vt dem tibi hos meos agros 
+   <lb ed="#B" n="31"/>in fine anni valentes annue. xv, quando dabis mihi mil 
+   <lb ed="#B" n="32"/>le. tu non habes pecuniam in promptu: sed in fine
+   an<lb ed="#B" n="33" break="no"/>ni colliges mille: sed interea temporis hostis inuadit
+   re<lb ed="#B" n="34" break="no"/>gnum &amp; meos agros: &amp; sic peeunt in manu mea qui 
+   <lb ed="#B" n="35"/>eram verus dominus: &amp; tamen habebas ius illos a me emen 
+   <lb ed="#B" n="36"/>di. Ex isto patet quod si mutuem tibi centum scuta ci 
+   <lb ed="#B" n="37"/>hac conditione vt ea ad libitum tuum teneas: &amp; tamen sir 
+   <lb ed="#B" n="38"/>gulis annis quibus ea tenebis, dabis mihi quinque
+   sal<lb ed="#B" n="39" break="no"/>uo capitali: ille contractus est licitus &amp; nullo modo
+   vsu<lb ed="#B" n="40" break="no"/>ratius. nam cum ponatur irreuocabilitas in con 
+   <lb ed="#B" n="41"/>tractu: renuncio reperitioni: nec teneris dare cap 
+   <lb ed="#B" n="42"/>tale nisi volueris, non enim possum te ad hoc cogere. 
+  </p>
+      <p xml:id="jMqv4a-d1e762-d1e609">
+       <lb ed="#B" n="43"/>⁋ Contra hanc solutionem arguitur sic. 
+   <lb ed="#B" n="44"/>neuter contrahentium nec scilicet eptor nec vem iitor vel ne 
+   <lb ed="#B" n="45"/>mutuans nec mutuator: quocumque nomine voces ni 
+   <lb ed="#B" n="46"/>refert: propter nostrum enim appellare non mutatur 
+   <lb ed="#B" n="47"/>species contractus: sicut propter nostrum affirmare vel 
+   <lb ed="#B" n="48"/>negare nihil mutatur in re. Primo Peri hermenias. &amp; 
+   <lb ed="#B" n="49"/>contractus a mutuo ratione circumstantiarum distrahitur: s 
+   <lb ed="#B" n="50"/>cut homo mortuus a vera ratione hominis. Neu 
+   <lb ed="#B" n="51"/>ter inquam istorum cogitauit de emptione &amp;
+   ven<lb ed="#B" n="52" break="no"/>ditione: ergo non consenserunt in emptionem &amp; 
+   <lb ed="#B" n="53"/>venditionem. consequentia tenet, quia voluntas non 
+   <lb ed="#B" n="54"/>fertur in incognitum. modo consensus est actus vo- 
+   <!--0318.xml-->
+   <cb ed="#B" n="b"/> 
+       <!-- 143-v b -->
+       <lb ed="#B" n="55"/>luntatis.
+  </p>
+      <p xml:id="jMqv4a-d1e762-d1e646">
+   ⁋ Respondetur. licet consensus &amp; termini impot 
+   <lb ed="#B" n="56"/>tantes actum animae interiorem intellectus vel
+   volun<lb ed="#B" n="57" break="no"/>tatis appellent suam propriam rationem logice loquendo:  
+   <lb ed="#B" n="58"/>talibus nexibus non est innitendum. Distinguo quod
+   non<lb ed="#B" n="59" break="no"/>cogitant vel consentiunt in emptione. vel forma 
+   <lb ed="#B" n="60"/>liter, &amp; sic concedo: vel aequalenter: &amp; sic nego: quia 
+   <lb ed="#B" n="61"/>volunt ambo contrahere contractu (recitatis cir 
+   <lb ed="#B" n="62"/>cunstantiis) quid est licitus &amp; vera emptio: licet vocel 
+   <lb ed="#B" n="63"/>mutuum propterea aequalenter consentiunt in emptione 
+   <lb ed="#B" n="64"/>&amp; hoc sufficit: siue hoc sciant / siue eos lateat. Exem 
+   <lb ed="#B" n="65"/>plum. scis illud a remotis esse animal: sed de qua specit 
+   <lb ed="#B" n="66"/>te fugit: sit gratia exempli asinus. bene sequitur. hoc animal 
+   <lb ed="#B" n="67"/>vides: ergo hunc asinum vides. &amp; simiter hoc animal
+   eme<lb ed="#B" n="68" break="no"/>re vis: ergo hunc asinum emere vis. esto te fugiat quod 
+   <lb ed="#B" n="69"/>sit asinus. sicut logice loquendo: asinum vis emere 
+   <lb ed="#B" n="70"/>&amp; non vis emere asinum. &amp; hunc asinum scis esse ani 
+   <lb ed="#B" n="71"/>mal: sed hoc animal nescis esse asinum. Et licet
+   contra<lb ed="#B" n="72" break="no"/>hentes credant, hoc est assentiant quod hic contractus 
+   <lb ed="#B" n="73"/>sit mutuum: non tamen oportet quod peccent. nam quaestione
+   ter<lb ed="#B" n="74" break="no"/>tia vidimus quod crebro homo licite capit vltra sortem
+   ali<lb ed="#B" n="75" break="no"/>quid etiam in mutuo: sed hoc non est vi mutui: sed vi 
+   <lb ed="#B" n="76"/>alterius lucri. patet autem credere hunc contractum esse de nu 
+   <lb ed="#B" n="77"/>mero illorum. Et ex isto potest ingenium hombons soluere pro 
+   <lb ed="#B" n="78"/>magna parte quaestionem de mote Florentinorum. sed quia 
+   <lb ed="#B" n="79"/>aliqua sunt adhuc huic quaestioni impertinentia: adhuc 
+   <lb ed="#B" n="80"/>quaestionem sequentem subnectam.
+  </p>
+    </div>
+   </body>
+  </text>
+</TEI>

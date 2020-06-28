@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 18</title>
+      <author ref="#JohnMair">John Mair</author>
+      <respStmt>
+       <name>Jeffrey C. Witt</name>
+       <resp>TEI Encoder</resp>
+      </respStmt>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 18</title>
+       <date when="2020-06-09">June 27, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="B" n="cod-Bda113">Badius 1516</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+     guidelines for a diplomatic edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-06-27" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+      <pb ed="#B" n="240-r"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="jMqv4a-d1e1278"> <!-- l4d24q18 -->
+      <head xml:id="jMqv4a-d1e1278-Hd1e104">Quaestio 18</head>
+      <head xml:id="jMqv4a-d1e1278-Hd1e107" type="question-title">Quomodo cognoscatur status et sufficientia viri</head>
+      <p xml:id="jMqv4a-d1e1278-d1e110">
+       <lb ed="#B" n="56"/>⁋ Distinctionis Vigesimae quartae 
+   <lb ed="#B" n="57"/>Quaestio Decimaoctaua. 
+   <lb ed="#B" n="58"/>terxEcimooctauo igitur 
+   <lb ed="#B" n="59"/>c Aiaquaero quomodo cognoscat sta 
+   <lb ed="#B" n="60"/>ltus &amp; sufficientia viri. nam 
+   <lb ed="#B" n="61"/>si hoc non deprehendatur: nescit 
+   <lb ed="#B" n="62"/>uahomo quantum possit sana
+   con<lb ed="#B" n="63" break="no"/>iscientia expendere: &amp; quando
+   te<lb ed="#B" n="64" break="no"/>nebitur restituere prodige
+   ex<lb ed="#B" n="65" break="no"/>pensum: quando vero non.
+  </p>
+      <p xml:id="jMqv4a-d1e1278-d1e134">
+   ⁋
+   Re<lb ed="#B" n="66" break="no"/>spondetur. licet episcoporum oeconomi, &amp; viri qui ver 
+   <lb ed="#B" n="67"/>sati sunt circa res emendas / possint fortassis melius 
+   <lb ed="#B" n="68"/>quam ego iudicare in hac materia: Dicere tamen
+   ali<lb ed="#B" n="69" break="no"/>quid super hoc / non indignum duxi secundum
+   ingenio<lb ed="#B" n="70" break="no"/>li mei paruitatem: ab episcopis exordiendo: non
+   lo<lb ed="#B" n="71" break="no"/>quendo de ditissimo episcopo: nec pauperrimo: 
+   <lb ed="#B" n="72"/>sed de mediocri: quia difformitas ad
+   vniformi<lb ed="#B" n="73" break="no"/>tatem reducenda est, &amp; per illam mensuranda. sicque
+   di<lb ed="#B" n="74" break="no"/>tissimus vel patuperrimus obtutum figere potest circa 
+   <lb ed="#B" n="75"/>illa quae dicimus de mediocri: &amp; secundum hoc 
+   <lb ed="#B" n="76"/>se nroderari. Non loquar de portione pecuniaria 
+   <lb ed="#B" n="77"/>quia illa est variabilis non modo in variis locis, 
+   <lb ed="#B" n="78"/>sed etiam in eodem loco successu temporis. nam 
+   <lb ed="#B" n="79"/>capus qui vaenit duobus denariis Scoticis: hoc est par 
+   <lb ed="#B" n="80"/>uo albo in dioecesi Rossensi, Parisiis vel Edinbur 
+   <lb ed="#B" n="81"/>gi venditur sex paruis albis. Precium enim variatur in eis 
+   <lb ed="#B" n="82"/>dem locis vt quilibet nouit. In primis de famulis 
+   <lb ed="#B" n="83"/>nutriendis, opinor quod duodecim vel quaetuordecim 
+   <lb ed="#B" n="84"/>famuli episcopo sufficiunt: et si pauciores essent, 
+   <lb ed="#B" n="85"/>praestaret: quia certe gloria ecclesiae non pendet ex 
+   <lb ed="#B" n="86"/>multitudine clientum: &amp; si episcopus in suo loco 
+   <lb ed="#B" n="87"/>resideat, vt plurimum debet: opus est paucioribus 
+   <lb ed="#B" n="88"/>impensis in equis: &amp; fortasse in numero equorum. 
+   <lb ed="#B" n="89"/>Tunc dico quod sufficit hos omnes alere tam in vi 
+   <lb ed="#B" n="90"/>ctu quam in vestitu: tam in sanitate quam in aegritudine 
+   <lb ed="#B" n="91"/>sufficit inquam pro statu viri. Debet enim episco 
+   <lb ed="#B" n="92"/>pus suos sufficieter alere: nec eos deserere in aegri 
+   <lb ed="#B" n="93"/>tudinem. &amp; tandem ratione obsequii praestiti
+   de<lb ed="#B" n="94" break="no"/>bet eis mercedem condignam tribuere de
+   patrimo<lb ed="#B" n="95" break="no"/>nio etiam crucifixi: quia pro ipso laborarunt. &amp;
+   pos<lb ed="#B" n="96" break="no"/>sunt famuli esse consanguinei praelati. In hoc enim 
+   <lb ed="#B" n="97"/>non est scandalum: vt est dando beneficia
+   consan<lb ed="#B" n="98" break="no"/>guineis: cauendo tamen ne consanguinei
+   do<lb ed="#B" n="99" break="no"/>minos alliciant ad dissipanda bona ecclesia. 
+  </p>
+      <p xml:id="jMqv4a-d1e1278-d1e211">
+       <lb ed="#B" n="100"/>⁋ Status canonici / in maiore ecclesia dioecesis 
+   <lb ed="#B" n="101"/>consistit in hoc quod potest vnum vel duos famu 
+   <lb ed="#B" n="102"/>los cum equo (si opus sit) alere: similiter opulen 
+   <lb ed="#B" n="103"/>ti curati. reliquam vero partem fructuum benefi 
+   <lb ed="#B" n="104"/>ficii ipsi tenentur conferre pauperibus. Per paupe 
+   <lb ed="#B" n="105"/>res intelligo pios vsus: vt dando reparationi
+   ec<lb ed="#B" n="106" break="no"/>clesiae si egeat, pro extruendis pontibus: pro sustentan- 
+   <!--0512.xml-->
+   <pb ed="#B" n="240-v"/>
+       <cb ed="#B" n="a"/>
+       <lb ed="#B" n="1"/>dis scholasticis in studio, studio inquam non legum 
+   <lb ed="#B" n="2"/>aut fori contentiosi: sed conducente ad salute animae 
+   <lb ed="#B" n="3"/>pro dote virginum egentium / quatenus
+   praeseruen<lb ed="#B" n="4" break="no"/>tur a tentatione carnis, exemplo <name xml:id="jMqv4a-d1e1278-Nd1e243">diui Nicolai</name>: pro 
+   <lb ed="#B" n="5"/>defendendis rebus ecclesiae in causa licita &amp; hone 
+   <lb ed="#B" n="6"/>sta: pro sustentandis aegrotis. &amp; per consequens po 
+   <lb ed="#B" n="7"/>test sibiipsi / vel suis dum morbo laborant
+   applica<lb ed="#B" n="8" break="no"/>re de superfluo per modum eleemosynae: si forte pecu 
+   <lb ed="#B" n="9"/>nia applicata suo statui, sibi non sufficiat. Hospi 
+   <lb ed="#B" n="10"/>talitas superuenientium religiosorum virorum, iti 
+   <lb ed="#B" n="11"/>dem paia causa est. Non loquor autem solum de re 
+   <lb ed="#B" n="12"/>ligiosis habitu. nam si episcopus foueat duos vel 
+   <lb ed="#B" n="13"/>tres canonicos in mensa vel doctos viros, cum quod 
+   <lb ed="#B" n="14"/>bus consultat de rebus agendis: talis causa est pia 
+   <lb ed="#B" n="15"/>in aedificationem totius gregis. &amp; summatim quid 
+   <lb ed="#B" n="16"/>quid prudens dictauerit honeste esse expendendum 
+   <lb ed="#B" n="17"/>voco causam illam piam. Committat autem
+   nego<lb ed="#B" n="18" break="no"/>cium &amp; onus vno anno aliquibus deum timentibus 
+   <lb ed="#B" n="19"/>victus &amp; vestitus administrandi: quibus ipse praesit 
+   <lb ed="#B" n="20"/>&amp; superintendat, rationem interdum audiendo, ne 
+   <lb ed="#B" n="21"/>patrimonium crucifixi sibi commissum dissipel 
+   <lb ed="#B" n="22"/>&amp; in fine anni vel dimidii cognoscet quantum
+   suffi<lb ed="#B" n="23" break="no"/>ciat pro suo statu annuo sustinendo: modicam
+   pe<lb ed="#B" n="24" break="no"/>cunia tenendo pro aegritudine qui forte superueniet. 
+   <lb ed="#B" n="25"/>reliquam vero partem tenetur conferre pauperibus: ca 
+   <lb ed="#B" n="26"/>piendo pauperes: vt modo dixi. dare autem vnam 
+   <lb ed="#B" n="27"/>quartam pro reparatione templi est positiuum huma 
+   <lb ed="#B" n="28"/>num consuetudinem abrogabile. sed dare pauperibus 
+   <lb ed="#B" n="29"/>non est solum praeceptum humanum. Ex his patet quod 
+   <lb ed="#B" n="30"/>licet vna dimidietas prouentuum beneficii ei suffici 
+   <lb ed="#B" n="31"/>at pro suo statu in vno anno: fortassis sequente an 
+   <lb ed="#B" n="32"/>non integrum beneficium solum sufficiet suo statui 
+   <lb ed="#B" n="33"/>quod patet, si ipse laboret chronica febre: &amp; multi do 
+   <lb ed="#B" n="34"/>mesticorum similiter: tunc enim opus est physicis 
+   <lb ed="#B" n="35"/>&amp; aromatariis / &amp; delicatioribus cibis. Forte dicis 
+   <lb ed="#B" n="36"/>Status eius per hoc non augetur: sed applicat suis &amp; 
+   <lb ed="#B" n="37"/>sibi plus solito per modum eleemosynae: &amp; confert in 
+   <lb ed="#B" n="38"/>ios vsus. nam cum ipse &amp; sui familiares vtiliter 
+   <lb ed="#B" n="39"/>deseruiant ecclesiae: oportet vt ex fructibus eccle 
+   <lb ed="#B" n="40"/>siae alantur. Dico eandem esse sententiam: &amp; ver 
+   <lb ed="#B" n="41"/>bis solum a me discrepas. Det insuper episcopus 
+   <lb ed="#B" n="42"/>pecuniam famulis pro obsequio: sed caueat a
+   simo<lb ed="#B" n="43" break="no"/>nia tam in se quam in eis: vt non habeant beneficia
+   ratio<lb ed="#B" n="44" break="no"/>ne obsequii. copositos autem moribus &amp; probos 
+   <lb ed="#B" n="45"/>solum teneat famulos.
+  </p>
+      <p xml:id="jMqv4a-d1e1278-d1e336">
+   ⁋ Inferiores vero benefi 
+   <lb ed="#B" n="46"/>ciati &amp; solum mediocriter literati consulant
+   vi<lb ed="#B" n="47" break="no"/>ros deum timentes &amp; prudentes sibi cognitos: quam 
+   <lb ed="#B" n="48"/>tum sufficiat pro suo statum. &amp; studeant omnes
+   declina<lb ed="#B" n="49" break="no"/>re ad extremum illud: vt parum expendant: quia
+   reue<lb ed="#B" n="50" break="no"/>ra illic non est extremum vitiosum quantuncumque 
+   <lb ed="#B" n="51"/>tenuiter se nutriant sine iactura corporis &amp; animae: 
+   <lb ed="#B" n="52"/>dummodo reliqua dentur in pios vsus. Facile auti 
+   <lb ed="#B" n="53"/>potest esse peccatum in supabundando: plus scienter 
+   <lb ed="#B" n="54"/>expendendo quam oportet / vel ignoranter ex ignoi  
+   <lb ed="#B" n="55"/>rantia vincibili: hoc est ignorantia crassa vel affe- 
+   <!--0512.xml-->
+   <cb ed="#B" n="b"/> 
+       <!-- 240-v b -->
+       <lb ed="#B" n="56"/>ctata. Sed mente tenebis quod facile percipitur
+   ex<lb ed="#B" n="57" break="no"/>cessus in modico beneficio, vel iin eo cuius opera 
+   <lb ed="#B" n="58"/>est parum vtilis in republica: sed difficilius in su 
+   <lb ed="#B" n="59"/>periore: &amp; propterea latitudo est maior. hoc sic
+   de<lb ed="#B" n="60" break="no"/>claro. Episcopus pro secum prandentibus emit 
+   <lb ed="#B" n="61"/>capos &amp; perdices, quod fieri licite interdum potest: &amp; 
+   <lb ed="#B" n="62"/>expensio annua est multa: &amp; famuli nunc obliui 
+   <lb ed="#B" n="63"/>scuntur punctaliter expensum: nunc addunt impre 
+   <lb ed="#B" n="64"/>cio rerum emptarum pintam vini vel quartam: quan 
+   <lb ed="#B" n="65"/>consumpserunt licite eundo &amp; redeundo de foro 
+   <lb ed="#B" n="66"/>Nonne vides quod latitudinis iusti praecii error facilli 
+   <lb ed="#B" n="67"/>me deprehenditur emendo atramentarium vel horas 
+   <lb ed="#B" n="68"/>nostrae dominae? Illic enim deceptio cognoscitur in 
+   <lb ed="#B" n="69"/>tribus vel quatuor denariis: &amp; tamen non deprae 
+   <lb ed="#B" n="70"/>nenditur error in emendo magno aedificio in cen 
+   <lb ed="#B" n="71"/>tum scutis. Breuiter quando praelatus expendit 
+   <lb ed="#B" n="72"/>plus aequo: in rei veritate dummodo sit ignoran 
+   <lb ed="#B" n="73"/>tia inuincibilis semper bene expendit: quia ad boni 
+   <lb ed="#B" n="74"/>tatem actus moralis vt saepicule diximus, sufficit 
+   <lb ed="#B" n="75"/>conformitas ad prudentiam actualem vel ad
+   er<lb ed="#B" n="76" break="no"/>rorem inuincibilem. 
+  </p>
+    </div>
+   </body>
+  </text>
+</TEI>

@@ -1,0 +1,304 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 38</title>
+      <author ref="#JohnMair">John Mair</author>
+      <respStmt>
+       <name>Jeffrey C. Witt</name>
+       <resp>TEI Encoder</resp>
+      </respStmt>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 38</title>
+       <date when="2020-06-09">June 27, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="B" n="cod-Bda113">Badius 1516</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+     guidelines for a diplomatic edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-06-27" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+      <pb ed="#B" n="146-v"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="jMqv4a-d1e783"> <!-- l4d15q38 -->
+      <head xml:id="jMqv4a-d1e783-Hd1e104">Quaestio 38</head>
+      <head xml:id="jMqv4a-d1e783-Hd1e107" type="question-title">An usurarius teneatur restituere lucrum ex usura acquisitum</head>
+      <p xml:id="jMqv4a-d1e783-d1e110">
+   <!--0324.xml-->
+       <cb ed="#B" n="b"/> 
+       <!-- 146-v b -->
+       <lb ed="#B" n="56"/>DEcimo &amp; vltimo cir 
+   <lb ed="#B" n="57"/>ca hanc materiam foenebrem
+   quae<lb ed="#B" n="58" break="no"/>ritur: an vsurarius teneatur
+   resti<lb ed="#B" n="59" break="no"/>tuere lucrum ex vsura acqui 
+   <lb ed="#B" n="60"/>situm. Respondetur. istud
+   depen<lb ed="#B" n="61" break="no"/>det a dominio lucri vltra sortem. 
+   <lb ed="#B" n="62"/>Pi&amp; de hoc duae sunt positiones 
+   <lb ed="#B" n="63"/>oppositae: de dominio inquam lu 
+   <lb ed="#B" n="64"/>cri per vsuram acquisiti. ex quibus vario modo conse 
+   <lb ed="#B" n="65"/>quenter respondendum est. Vna positio tenet quod vsu 
+   <lb ed="#B" n="66"/>rarius acquirit dominium lucri vltra sortem
+   acquisiti<lb ed="#B" n="67" break="no"/>Secunda positio tenet illius contradictoriam: quam
+   ra<lb ed="#B" n="68" break="no"/>tionabiliorem censeo. propterea illam imitabor. Et in  
+   <lb ed="#B" n="69"/>telligo conclusionem probandam de per se &amp; coniter. hoc 
+   <lb ed="#B" n="70"/>propter aliquas paruas tricas dixerim: vtpote si da 
+   <lb ed="#B" n="71"/>retur lucrum vltra sortem in potu, cibo, &amp; rebus vsu con 
+   <lb ed="#B" n="72"/>sumptibilibus: quarum vsus non distinguitur a dominio:  
+   <lb ed="#B" n="73"/>quia idem contingeret in fure &amp; raptore qui secun 
+   <lb ed="#B" n="74"/>dum omnes rerum ablatarum non acquirunt verum dominium. 
+   <lb ed="#B" n="75"/>Probatur ergo haec conclusio negatiua quod vsurarius 
+   <lb ed="#B" n="76"/>non acquirit dominium lucri vltra sortem. Nullo
+   titu<lb ed="#B" n="77" break="no"/>lo iusto illius lucri acquirit dominium: non enim mutuo: quia 
+   <lb ed="#B" n="78"/>ille contractus est prohibitus Lucae sexto. ergo non est 
+   <lb ed="#B" n="79"/>ius sed iniuria. Haec est ratio Ricardi Middiltoni i 
+   <lb ed="#B" n="80"/>hac distinctione. Sed haec probatio est nulla: quia sic sim 
+   <lb ed="#B" n="81"/>plex fornicatio est prohibita: meretrix tamen locatione 
+   <lb ed="#B" n="82"/>sui corporis dominium pecuniae sibi datae a potem 
+   <lb ed="#B" n="83"/>te dare acquirit: quia nullo iure est cautum quod ipsa 
+   <lb ed="#B" n="84"/>teneatur acceptum restituere, &amp; quod illius pecuniae non  
+   <lb ed="#B" n="85"/>acquirat dominium. sic in proposito dicetur: licet vsurarius 
+   <lb ed="#B" n="86"/>peccando acquirat pecuniam, hoc est per peccarum: tamen 
+   <lb ed="#B" n="87"/>pecunia est sua. Similiter vendens equum propter
+   ina<lb ed="#B" n="88" break="no"/>nem gloriam partialiter, vel in die festo, acquirit do 
+   <lb ed="#B" n="89"/>minium pecuniae acceptae: &amp; tamen peccat per actum 
+   <lb ed="#B" n="90"/>quo illam pecuniam acquirit. Propterea secudo &amp;
+   ali<lb ed="#B" n="91" break="no"/>ter arguitur ad conclusionem. nullus acquirit
+   domi<lb ed="#B" n="92" break="no"/>nium illius rei quam non potest detinere iuste per
+   ali<lb ed="#B" n="93" break="no"/>quod tempus. sed sic est de vsurario. igitur. maior 
+   <lb ed="#B" n="94"/>patet inductiue in omnibus aliis contractibus vel 
+   <lb ed="#B" n="95"/>iustis dominiorum acquisitionibus. Minor patet: quia 
+   <lb ed="#B" n="96"/>non potes dare tempus in quo vsurarius iuste te 
+   <lb ed="#B" n="97"/>net pecuniam: puta scienter omittit pro tempore &amp; 
+   <lb ed="#B" n="98"/>loco restituere. scio quod in effectu non semper
+   tene<lb ed="#B" n="99" break="no"/>tur restituere. Tertio arguitur. voluntas cum
+   nolitio<lb ed="#B" n="100" break="no"/>ne mixta tradendae rei non sufficit ad
+   acquisitio<lb ed="#B" n="101" break="no"/>nem dominii eiusdem. sed tali volitione vsurarius 
+   <lb ed="#B" n="102"/>tale lucrum acquirit: vellet enim mutuatarius
+   ab<lb ed="#B" n="103" break="no"/>solute quod mutuator non caperet lucrum vltra
+   sor<lb ed="#B" n="104" break="no"/>tem: sed quia non dabit mutuo sine lucro: dat illi 
+   <lb ed="#B" n="105"/>lucrum potius quam careat mutuo. sed talis voluntas 
+   <lb ed="#B" n="106"/>non sufficitad transsationem dominii: quia si sic: 
+   <!--0325.xml-->
+   <pb ed="#B" n="147-r"/>
+       <cb ed="#B" n="a"/>
+       <lb ed="#B" n="1"/>taptor rei quam rapit: hoc est quam sibi spoliatus 
+   <lb ed="#B" n="2"/>dat cui mortem minatur nisi pecuniam det: acqui 
+   <lb ed="#B" n="3"/>reret dominium rei raptae: quod est falsum. idem est 
+   <lb ed="#B" n="4"/>de rebus tempore tempestatis ex naui eiectis:
+   qua<lb ed="#B" n="5" break="no"/>rum nullo pacto acquirit auferens dominium: &amp; est
+   si<lb ed="#B" n="6" break="no"/>milis voluntas vtrobique: ergo illa voluntas non suf 
+   <lb ed="#B" n="7"/>ficit transferre dominia rerum. quod fuit probandum. Sed  
+   <lb ed="#B" n="8"/>si sit aliquis capiens ad vsuram qui catengorice dat 
+   <lb ed="#B" n="9"/>alteri dominium lucri vltra sortem: de illo haec ratio 
+   <lb ed="#B" n="10"/>non concluderet, quemadmodum si tempore
+   tempe<lb ed="#B" n="11" break="no"/>statis eijciens merces sine mendacio diceret: do haec 
+   <lb ed="#B" n="12"/>pona primo capienti, &amp; a me harum rerum dominium ab 
+   <lb ed="#B" n="13"/>dico: tunc potest quis capere hanc rem in nullius 
+   <lb ed="#B" n="14"/>potestate existentem. sed haec ratio non probat quin  
+   <lb ed="#B" n="15"/>in tali casu acquirens esset realiter dominus acquisiti lu 
+   <lb ed="#B" n="16"/>cri vltra sortem. quamuis <ref xml:id="jMqv4a-d1e783-Rd1e270">
+        <name xml:id="jMqv4a-d1e783-Nd1e272" ref="#AlexanderOfHales">Alexander Halensis</name> in tertia 
+   <lb ed="#B" n="17"/>parte. qui. lxvi.</ref> dicat quod non potest sic transferre rem suam: cum 
+   <lb ed="#B" n="18"/>deo displiceat. sed haec ratio non valet vt patet per 
+   <lb ed="#B" n="19"/>superius reprobata. <name xml:id="jMqv4a-d1e783-Nd1e282">Altisiodorus</name> in tertia parte id  
+   <lb ed="#B" n="20"/>ide tenens dicit. Deus non consentit in illam
+   transsatio<lb ed="#B" n="21" break="no"/>nem. sed hoc non probat. Secunda &amp; tertia rationes sunt 
+   <lb ed="#B" n="22"/>magis apparentes: &amp; cum plurimi theologi sapientes 
+   <lb ed="#B" n="23"/>hanc partem teneant: quamuis beatus Thomas oppo 
+   <lb ed="#B" n="24"/>situm teneat: hanc conclusionem reputo
+   rationa<lb ed="#B" n="25" break="no"/>biliorem. 
+  </p>
+      <p xml:id="jMqv4a-d1e783-d1e299">
+       <lb ed="#B" n="26"/>⁋ Contra hanc conclusionem
+   argumen<lb ed="#B" n="27" break="no"/>tor. Si emit vsurarius terras aliquas fructiferas
+   so<lb ed="#B" n="28" break="no"/>lum ex lucro foenebri: non tenetur terras vel fructus 
+   <lb ed="#B" n="29"/>dare his a quibus cepit lucrum vltra sortem.
+  </p>
+      <p xml:id="jMqv4a-d1e783-d1e311">
+   ⁋ Respon 
+   <lb ed="#B" n="30"/>detur. hoc nihil probat. quia plerunque emens
+   ali<lb ed="#B" n="31" break="no"/>quid nomine proprio ex pecunia alterius: illius empti ad 
+   <lb ed="#B" n="32"/>quirit dominium. C. de rei ven. Si ea pecunia. &amp;. littr. de 
+   <lb ed="#B" n="33"/>rur. Qui vas. ergo illud non probat aliquo modo
+   vsu<lb ed="#B" n="34" break="no"/>rarium acquirere dominium illius lucri. Etiam est dubium 
+   <lb ed="#B" n="35"/>in assumpto. potest enim legissator aliquam
+   em<lb ed="#B" n="36" break="no"/>ptionem inualidare ne ipsa emptio sit spelunca &amp; 
+   <lb ed="#B" n="37"/>occasio peccati vt in proposito. &amp; ita fecisse videtur 
+   <lb ed="#B" n="38"/>Alexander Tertius in capi. Cum tu. de vsu. In
+   versi<lb ed="#B" n="39" break="no"/>culo vltimo illius capitis sic dicit. Possessiones
+   ve<lb ed="#B" n="40" break="no"/>ro quam de vsuris comparatae sunt, debent vendi: &amp; ipsa 
+   <lb ed="#B" n="41"/>rum pcia his a quibus vsurae sunt extorte restitui: vt 
+   <lb ed="#B" n="42"/>sic non solum a poena sed etiam a peccato possint / quod per 
+   <lb ed="#B" n="43"/>vsurariam extorsionem incurrebant) liberari. Res 
+   <lb ed="#B" n="44"/>empta succedit loco pecuniae.
+  </p>
+      <p xml:id="jMqv4a-d1e783-d1e346">
+   ⁋ Secundo arguitur. reli 
+   <lb ed="#B" n="45"/>quat Sortes pecuniam foenebren( semper de lucro
+   vl<lb ed="#B" n="46" break="no"/>tra sortem loquor) duobus haeredibus Platoni &amp; 
+   <lb ed="#B" n="47"/>Titio. sit Titius non soluendo. tunc sic. Plato non 
+   <lb ed="#B" n="48"/>tenetur restituere totum illud lucrum. ergo male dicit con 
+   <lb ed="#B" n="49"/>clusio.
+  </p>
+      <p xml:id="jMqv4a-d1e783-d1e359">
+   ⁋ Respondetur. hic sunt duo modi respondendi.  
+   <lb ed="#B" n="50"/>vnus est glossae in cap. Tuam nos. &amp; antiquorum do  
+   <lb ed="#B" n="51"/>ctorum vt illic dicit Panor. quod ille tenetur
+   restitue<lb ed="#B" n="52" break="no"/>re totum si tantum habeat. Neoterici vero vt Ho 
+   <lb ed="#B" n="53"/>stiensis, Ioannes Andreas, &amp; reliqui tenent oppo 
+   <lb ed="#B" n="54"/>situm. sed prior modus est indubitatus apud me 
+   <!--0325.xml-->
+   <cb ed="#B" n="b"/> 
+       <!-- 147-r b -->
+       <lb ed="#B" n="55"/>&amp; verus. &amp; ratio naturalis est: quia haeres non habet 
+   <lb ed="#B" n="56"/>plus dminii in illo lucro quam habuerit ille cui succedit. 
+   <lb ed="#B" n="57"/>sed alter non habuit dominium in re illa. Vel tenem 
+   <lb ed="#B" n="58"/>do oppositam positionem de dominio illius lucri 
+   <lb ed="#B" n="59"/>est idem in sententia. quo ad hoc enim tenetur resti 
+   <lb ed="#B" n="60"/>tuere omne illud quod tenebatur restituere ille cui sud 
+   <lb ed="#B" n="61"/>cedebat. sed ille tenebatur totum restituere: ergo 
+   <lb ed="#B" n="62"/>iste qui est soluendo tenetur restituere totum. Et ad 
+   <lb ed="#B" n="63"/>hoc est textus ita expressus in hac ratione
+   funda<lb ed="#B" n="64" break="no"/>tus vt mirer quomodo isti alii ob rationem nullius 
+   <lb ed="#B" n="65"/>momenti hoc reliquerintur. Ecce responsionem
+   Ro<lb ed="#B" n="66" break="no"/>mani pontificis. Tuae igitur quaestioni literis praesen 
+   <lb ed="#B" n="67"/>tibus respondemus: quod filii ad restituendas vsuras: 
+   <lb ed="#B" n="68"/>ea sunt districtione cogendi qua parentes sui si vi 
+   <lb ed="#B" n="69"/>uerent cogerentur. ldipsum etiam contra heredes 
+   <lb ed="#B" n="70"/>extraneos credimus exercendum. Vbi glossa
+   eru<lb ed="#B" n="71" break="no"/>dite dicit ad hanc materiam. Satis potest dici quod 
+   <lb ed="#B" n="72"/>in solidum conueniri possunt: quia omnia bona defun 
+   <lb ed="#B" n="73"/>cti erant illi obligata. Sed contra hoc arguit
+   Pa<lb ed="#B" n="74" break="no"/>nor. in dicto capitulo Cumtu. Ex illo sequitur (di 
+   <lb ed="#B" n="75"/>cit) quod si alter haeredum esset soluendo posset
+   con<lb ed="#B" n="76" break="no"/>ueniti in solidum in quantum sufficiunt bona ad  
+   <lb ed="#B" n="77"/>eum deuoluta si ageretur hypothecaria. Responde 
+   <lb ed="#B" n="78"/>tur, non sequitur. quia tenentur restituere pro
+   hae<lb ed="#B" n="79" break="no"/>reditariis portionibus si vterque est soluendo: vt si 
+   <lb ed="#B" n="80"/>vnus habeat duas partes haereditatis: tenetur ad
+   du<lb ed="#B" n="81" break="no"/>as partes vsurarum: &amp; alius ad tertiam partem: quia 
+   <lb ed="#B" n="82"/>actiones competentes contra defunctum diuisae 
+   <lb ed="#B" n="83"/>sunt per legem inter haeredes ex haereditariis
+   por<lb ed="#B" n="84" break="no"/>tionibus. l. i. &amp;. ii. C. de haere. actio. &amp; quamuis vnus pos 
+   <lb ed="#B" n="85"/>set conueniti in solidum: potest ille agere contra so 
+   <lb ed="#B" n="86"/>cium vt det secundum suam ratam. Quando autem Ho 
+   <lb ed="#B" n="87"/>stiensis &amp; loan. Andreas dicunt illud nullo iure pos 
+   <lb ed="#B" n="88"/>se probari: hoc negatur. Nam per ius naturae &amp; pon 
+   <lb ed="#B" n="89"/>tificium allegatum sufficienter probatur.
+  </p>
+      <p xml:id="jMqv4a-d1e783-d1e455">
+   ⁋
+   Ter<lb ed="#B" n="90" break="no"/>tio arguitur. ponamus quod Sortes vsurarius coegit 
+   <lb ed="#B" n="91"/>Platonem iurare quod non peteret a se lucrum
+   foene<lb ed="#B" n="92" break="no"/>bre: illo casu Sortes non tenetur restituere. quia non  
+   <lb ed="#B" n="93"/>Platoni: nec alicui alteri. igitur.
+  </p>
+      <p xml:id="jMqv4a-d1e783-d1e466">
+   ⁋ Respondetur. Plato 
+   <lb ed="#B" n="94"/>adibit iudicem qui coget sortem desistere vel
+   resti<lb ed="#B" n="95" break="no"/>tuere lucrum si ipsum accepit, nec iurat Plato quod 
+   <lb ed="#B" n="96"/>non significabit iudici. cum enim illud sit odiosum: 
+   <lb ed="#B" n="97"/>seruandum est in propriis terminis. si iurant dare, 
+   <lb ed="#B" n="98"/>&amp; non est sermo de repetitione: det, &amp; iuridice repe 
+   <lb ed="#B" n="99"/>tat. si iurauit dare &amp; non repetere, denunciet iudi 
+   <lb ed="#B" n="100"/>ci. si vero iurauit dare &amp; non repetere &amp; nullo mo 
+   <lb ed="#B" n="101"/>do iudici detegere: hoc non est obseruandum: con 
+   <lb ed="#B" n="102"/>tra denunciationem euangelicam de corrigendo
+   pec<lb ed="#B" n="103" break="no"/>cato fratris, &amp; in dispendium reipublicae.
+  </p>
+      <p xml:id="jMqv4a-d1e783-d1e490">
+   ⁋ Quarto 
+   <lb ed="#B" n="104"/>arguitur. minus habet de inuoluntario donatio pro 
+   <lb ed="#B" n="105"/>pter mutuum quam habeat donatio propter metum 
+   <lb ed="#B" n="106"/>mortis. sed haec transfert dominium: vt patet per 
+   <lb ed="#B" n="107"/>ca. Abbas. de his quae vi me. ve cau. fi.
+  </p>
+      <p xml:id="jMqv4a-d1e783-d1e502">
+   ⁋ Respon 
+   <lb ed="#B" n="108"/>detur. minor est falsa. nam licet iurem praedoni me 
+   <lb ed="#B" n="109"/>non repetiturum pecuniam quam ei do: ille sica 
+   <!--0326.xml-->
+   <pb ed="#B" n="147-v"/>
+       <cb ed="#B" n="a"/>
+       <lb ed="#B" n="1"/>tius non acquirit illius pecuniae dominium: esto non possem 
+   <lb ed="#B" n="2"/>illam repetere. eodem modo nec vsurarius. si vero sit 
+   <lb ed="#B" n="3"/>sermo de beneficio de quo agitur in illo capitulo, 
+   <lb ed="#B" n="4"/>Dominus Antonius dicit quod non tenetur &amp; licet
+   Panor<lb ed="#B" n="5" break="no"/>dicat oppositum: hoc nihil facit: cum beneficiatus 
+   <lb ed="#B" n="6"/>non habeat dominium beneficii.
+  </p>
+      <p xml:id="jMqv4a-d1e783-d1e528">
+   ⁋ Ecce quomodo
+   vsu<lb ed="#B" n="7" break="no"/>rarius non acquirit dominium lucri vltra sortem 
+   <lb ed="#B" n="8"/>&amp; dato quod illud acquirat: tenetur tamen ipsum sicut 
+   <lb ed="#B" n="9"/>in mutuo restituere. &amp; eodem modo haeredes: qui 
+   <lb ed="#B" n="10"/>libet pro rata. Sed si quis fuerit non soluendo: te 
+   <lb ed="#B" n="11"/>netur alius dare in toto si haereditas ad tantum se
+   ex<lb ed="#B" n="12" break="no"/>tendat: siue fuerit in dotem data: siue aliter. Si vero 
+   <lb ed="#B" n="13"/>mortuus fuerit ille cui dandum est hoc lucrum: detur eius 
+   <lb ed="#B" n="14"/>haeredi vel haeredibus: qui si non cognoscantur: det 
+   <lb ed="#B" n="15"/>pauperibus. Et non modo tenetur vsurarius restitui 
+   <lb ed="#B" n="16"/>re totum lucrum vltra sortem vero domino: sed etiam tene 
+   <lb ed="#B" n="17"/>tur refundere iacturam quam verus dominus interea passus 
+   <lb ed="#B" n="18"/>est ratione carentiae illius pecuniae. &amp; hoc secundum vtram 
+   <lb ed="#B" n="19"/>quod positionem. Non tamen tenetur restituere lucrum
+   pro<lb ed="#B" n="20" break="no"/>ueniens ex industria sua: quia illa non est domini sortis 
+   <lb ed="#B" n="21"/>si etiam emit agros ex illo lucro nomine proprio: non 
+   <lb ed="#B" n="22"/>tenetur illos domimno restituere: quia ad hoc non tenetui 
+   <lb ed="#B" n="23"/>fur. Praeterea dico quod licet aliqui teneant quod
+   vsura<lb ed="#B" n="24" break="no"/>rius accipiat dominium lucri vltra sortem: vt beat 
+   <lb ed="#B" n="25"/>Tho. in hac distinctione: &amp; <ref xml:id="jMqv4a-d1e783-Rd1e571">
+        <name xml:id="jMqv4a-d1e783-Nd1e573" ref="#HenryOfGhent">Henricus Gandensis</name> 
+        <lb ed="#B" n="26"/>in. iiii. quodli.</ref> &amp; glos. in ca. Si quis. xiiii. q. iiii. &amp; ali 
+   <lb ed="#B" n="27"/>qui canonistae: illud tamen minus rationabile iudi 
+   <lb ed="#B" n="28"/>co. Tum quod rationes ad partem oppositam sint magis 
+   <lb ed="#B" n="29"/>pparentes licet dilui possint, quam rationes ad hanc par 
+   <lb ed="#B" n="30"/>tem. Tum secundo quod istud magis erigit cornua vsu 
+   <lb ed="#B" n="31"/>rariis. Tum tertio quod plures theologi eruditi &amp; do 
+   <lb ed="#B" n="32"/>ctores iuris Caesarei hoc tenent, nec occurrunt mihi 
+   <lb ed="#B" n="33"/>plures scriptores theologi cum sancto Thoma con 
+   <lb ed="#B" n="34"/>uenientes. Nam Petrum Paiudanum &amp; Thomistas omnes 
+   <lb ed="#B" n="35"/>non supputo praeter solum beatum Tho. quia erant ad 
+   <lb ed="#B" n="36"/>dicti iurare in verba magistri. propterea eorum vox 
+   <lb ed="#B" n="37"/>non ponit in numerum. secus est de Henrico: qui libere 
+   <lb ed="#B" n="38"/>loquutus est prout iudicabat. Quando aut vsura 
+   <lb ed="#B" n="39"/>rius capit pignus in fructibus vt in agris: tenetur 
+   <lb ed="#B" n="40"/>illos omnis restituere vero domino deductis expensis 
+   <lb ed="#B" n="41"/>quas fecit colligendo &amp; conseruando fructus. ratio 
+   <lb ed="#B" n="42"/>est: quia fructus illi sunt domini qui cepit ad vsuram. 
+   <lb ed="#B" n="43"/>secus est secundum sententiam sancti Thomae.
+  </p>
+    </div>
+   </body>
+  </text>
+</TEI>

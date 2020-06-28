@@ -1,0 +1,409 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 19</title>
+      <author ref="#JohnMair">John Mair</author>
+      <respStmt>
+       <name>Jeffrey C. Witt</name>
+       <resp>TEI Encoder</resp>
+      </respStmt>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 19</title>
+       <date when="2020-06-09">June 27, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="B" n="cod-Bda113">Badius 1516</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+     guidelines for a diplomatic edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-06-27" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+      <pb ed="#B" n="311-r"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="jMqv4a-d1e1661"> <!-- l4d38q19 -->
+      <head xml:id="jMqv4a-d1e1661-Hd1e104">Quaestio 19</head>
+      <head xml:id="jMqv4a-d1e1661-Hd1e107" type="question-title">An transgressio cuiuslibet in regula contenti sit peccatum</head>
+      <p xml:id="jMqv4a-d1e1661-d1e110">
+       <lb ed="#B" n="21"/>⁋ Distinctionis Trigesimaeoctauae 
+   <lb ed="#B" n="22"/>Quaestio Decimanona. 
+   <lb ed="#B" n="23"/>Ecimonono in hac 
+   <lb ed="#B" n="24"/>distinctione, &amp; secundo de 
+   <lb ed="#B" n="25"/>religiosis in vniuersali quae 
+   <lb ed="#B" n="26"/>us ritur. An transgressio cuius 
+   <lb ed="#B" n="27"/>libet in regula contenti sit pec 
+   <lb ed="#B" n="28"/>catum. <ref xml:id="jMqv4a-d1e1661-Rd1e129">
+        <name xml:id="jMqv4a-d1e1661-Nd1e131" ref="#HenryOfGhent">Henricus Gandensis</name> in  
+   <lb ed="#B" n="29"/>vi. lib. quodlibe.</ref> tenet quod sic 
+   <lb ed="#B" n="30"/> Alii quod non: sed solum trans 
+   <lb ed="#B" n="31"/>gressio trium votorum principalium.
+  </p>
+      <p xml:id="jMqv4a-d1e1661-d1e142">
+   ⁋ Sed ponam 
+   <lb ed="#B" n="32"/>conclusiones ad quaestionem responsiuas. Prima est. 
+   <lb ed="#B" n="33"/>Non quaelibet transgressio regulae in religioso est 
+   <lb ed="#B" n="34"/>peccatum. probatur. nam patres regulas componem 
+   <lb ed="#B" n="35"/>tes erant circumspecti, intendentes religiosos regulis 
+   <lb ed="#B" n="36"/>suis deducere ad caelestem paradisum. sed hoc non 
+   <lb ed="#B" n="37"/>fieret / si quaelibet statuti regulae transgressio esset 
+   <lb ed="#B" n="38"/>peccatum. Secundo probatur idem. Non quaelibet 
+   <lb ed="#B" n="39"/>transgressio regulae fratrum minorum est peccatum:
+   er<lb ed="#B" n="40" break="no"/>go nec in aliis religionibus. probatur consequentia: 
+   <lb ed="#B" n="41"/>quia beatus Franciscus non magis loquitur de
+   pec<lb ed="#B" n="42" break="no"/>cato quam alii. antecedens patet per cle. Exiui de
+   para<lb ed="#B" n="43" break="no"/>diso.
+  </p>
+      <p xml:id="jMqv4a-d1e1661-d1e172">
+   ⁋ Secunda conclusio. Non quaelibet
+   transgres<lb ed="#B" n="44" break="no"/>sio contra tria vota essentialia est mortalis. Proba 
+   <lb ed="#B" n="45"/>tur: quia contingit peccare venialiter in furto / etiam 
+   <lb ed="#B" n="46"/>deliberato ob paruitatem obiecti: ergo circa proprium 
+   <lb ed="#B" n="47"/>hoc potest contingere, obedientiam, &amp; castitate: etiam 
+   <lb ed="#B" n="48"/>ob actus indeliberationem, vt in primis motibus. 
+  </p>
+      <p xml:id="jMqv4a-d1e1661-d1e185">
+       <lb ed="#B" n="49"/>⁋ Tertia conclusio. Quaelibet transgressio delibera 
+   <lb ed="#B" n="50"/>ta contra tria essentialia vota religiosorum est pecca 
+   <lb ed="#B" n="51"/>tum. Hec conclusio probatur: quia talis transgressio 
+   <lb ed="#B" n="52"/>est pessima quae in religione euenire potest: &amp; si 
+   <!--0653.xml-->
+   <cb ed="#B" n="b"/> 
+       <!-- 311-r b -->
+       <lb ed="#B" n="53"/>ipsa non sit peccatum, nulla erit peccatum. &amp; sic nullus 
+   <lb ed="#B" n="54"/>peccaret regulam infringendo.
+  </p>
+      <p xml:id="jMqv4a-d1e1661-d1e207">
+   ⁋ Quarta conclusio. 
+   <lb ed="#B" n="55"/>contingit dare multas alias tranigressiones a tribus 
+   <lb ed="#B" n="56"/>votis / peccata probatur. ita est in regula minorum: ergo 
+   <lb ed="#B" n="57"/>eodem modo in aliis nisi patenter id excipiant. Ante 
+   <lb ed="#B" n="58"/>cedens patet: quia hoc conclusum est in concilio Vien 
+   <lb ed="#B" n="59"/>nensi / vbi ponitur hoc verbum (teneantur) vel
+   aequipol<lb ed="#B" n="60" break="no"/>lens: quod in regula tenet vim praecepti: &amp; debet
+   ob<lb ed="#B" n="61" break="no"/>seruari a fratribus tanquam tale: &amp; cum hoc posuerit in 
+   <lb ed="#B" n="62"/>aliquibus constitutionibus &amp; non aliis: signum est quod hoc 
+   <lb ed="#B" n="63"/>intendebat. &amp; ita in aliis regulis vbi id inuenitur: nisi 
+   <lb ed="#B" n="64"/>expresse ponatur quod non intendant obligare sub poena 
+   <lb ed="#B" n="65"/>peccati: sed solum ad poenam etiam si inferatur. Secundo,  
+   <lb ed="#B" n="66"/>ratione materiae de qua agitur: quae est tantae vtilitatis 
+   <lb ed="#B" n="67"/>vt eius praetermissio notabiliter regulam decoloret. 
+   <lb ed="#B" n="68"/>&amp; per vtriusque horum transgressionem cognoscitur esse 
+   <lb ed="#B" n="69"/>peccatum: &amp; a fortiore quando simul concurrunt, vt concilium 
+   <lb ed="#B" n="70"/>definiuit. &amp; vbi ineruditus super hoc dubitat:
+   regu<lb ed="#B" n="71" break="no"/>lam docto ostendat ipsum consulendo. Aliqua au 
+   <lb ed="#B" n="72"/>tem ad quae Minores sub poena peccati obligantur, quae 
+   <lb ed="#B" n="73"/>conciliu ponit, subnectemus. vt de non portandis 
+   <lb ed="#B" n="74"/>calceametis: non equitando nisi in necessitate: quod vili 
+   <lb ed="#B" n="75"/>bus vestibus induantur, quae reputentur viles secundum 
+   <lb ed="#B" n="76"/>consuetudinem regionis in qua morantur, tam quo ad 
+   <lb ed="#B" n="77"/>colorem, quam quo ad precium. In hoc in vtroque regno 
+   <lb ed="#B" n="78"/>Britannorum multum hodie peccatur, non loquor de ob 
+   <lb ed="#B" n="79"/>seruantibus. Sed citra mare etiam ante reformatio 
+   <lb ed="#B" n="80"/>nem non fuit error in vestibus. Pro aliis religiosis notetur 
+   <lb ed="#B" n="81"/>haec theorica in concilio Viennensi statuta. Quando in
+   te<lb ed="#B" n="82" break="no"/>gula habetur (teneantur) vel aequipollens: vel ratione 
+   <lb ed="#B" n="83"/>materiae de qua agitur, statutum est tantae vtilitatis pro 
+   <lb ed="#B" n="84"/>regula conseruanda: vt ipso sublato, iudicio prude 
+   <lb ed="#B" n="85"/>tum regula decoloretur &amp; aperiatur via propinque 
+   <lb ed="#B" n="86"/>ad alia quae cognoscuntur praecepta, praeuaricanda:  
+   <lb ed="#B" n="87"/>iam transgressio est peccatum. 
+  </p>
+      <p xml:id="jMqv4a-d1e1661-d1e281">
+       <lb ed="#B" n="88"/>⁋ Contra primam conclusionem
+   ar<lb ed="#B" n="89" break="no"/>gumentor. Religiosus pro qualibet transgressione con 
+   <lb ed="#B" n="90"/>tenti in regula potest puniri. vt si vna manu tenens 
+   <lb ed="#B" n="91"/>poculum bibat: vel ex fragilitate loquatur post
+   comple<lb ed="#B" n="92" break="no"/>torium in coenobio. sed nemo est puniendus nisi ra 
+   <lb ed="#B" n="93"/>tione peccati, quod probatur sic. Quilibet actus delibera 
+   <lb ed="#B" n="94"/>tus vel est bonus / malus / vel indifferens secundum vnam 
+   <lb ed="#B" n="95"/>positionem. secundum aliam bonus vel malus moraliter. 
+   <lb ed="#B" n="96"/>teneatur secunda positio quae est probabilis. nam si actus 
+   <lb ed="#B" n="97"/>bonus voluntatis / de se non habeat iudicium prudentia 
+   <lb ed="#B" n="98"/>le sui regulatiuum: iam non est bonus nec malus: nec 
+   <lb ed="#B" n="99"/>proprie deliberatus. Isto supposito arguitur sic. pro 
+   <lb ed="#B" n="100"/>opere bono nemo est lapidandus. Idcirco Christus 
+   <lb ed="#B" n="101"/>cum percuteretur: vt dicitur Ioannis. xviii. respondit 
+   <lb ed="#B" n="102"/>Si male locutus sum, testimonium perhibe de malo. 
+   <lb ed="#B" n="103"/>si autem bene / quid me caedis: ac si diceret. male agis 
+   <lb ed="#B" n="104"/>me caedendo propter hoc quod bene ago. &amp; cum
+   ne<lb ed="#B" n="105" break="no"/>mo sit caedendus pro opere bono: &amp; pro qualibet
+   trans<lb ed="#B" n="106" break="no"/>gressione in regula religiosus possit rationabiliter 
+   <!--0654.xml-->
+   <pb ed="#B" n="311-v"/>
+       <cb ed="#B" n="a"/>
+       <lb ed="#B" n="1"/>caedi: sequitur quod quaelibet transgressio sit peccatum, 
+   <lb ed="#B" n="2"/>contra primam conclusionem. Simili ferme modo 
+   <lb ed="#B" n="3"/>potest argumentum duci / ponendo actum indiffere 
+   <lb ed="#B" n="4"/>tem. inconveniens autem videtur quod aliquis percutia 
+   <lb ed="#B" n="5"/>tur pro opere non malo / iuxta sententiam saluato 
+   <lb ed="#B" n="6"/>ris. Si male locutus sum: testimonium perhibe de 
+   <lb ed="#B" n="7"/>malo. addendo. si autem bene: quid me caedis?
+  </p>
+      <p xml:id="jMqv4a-d1e1661-d1e346">
+   ⁋ Re 
+   <lb ed="#B" n="8"/>spondetur ad totum pondus argumenti, non est
+   incon<lb ed="#B" n="9" break="no"/>ueniens quod quis puniatur pro opere bono quando in  
+   <lb ed="#B" n="10"/>sua regula hoc est vetitum: vel pro actu indiffere 
+   <lb ed="#B" n="11"/>ti quando actus ipse est in regula vetitus, nec incon 
+   <lb ed="#B" n="12"/>uenit virum esse punitum sine culpa, dummodo
+   sub<lb ed="#B" n="13" break="no"/>sit causa: vt sit vigilantior in regula seruanda. Quo 
+   <lb ed="#B" n="14"/>modo prudens in artibus praeceptor percutit
+   scho<lb ed="#B" n="15" break="no"/>lasticum non surgentem ad lectionem matutinam hora 
+   <lb ed="#B" n="16"/>quinta: licet non fuerit excitatus: sed percutit illum 
+   <lb ed="#B" n="17"/>leniter sine eius culpa: non autem sine causa: vt me 
+   <lb ed="#B" n="18"/>minerit alloqui excitatorem: vel horam surgendi 
+   <lb ed="#B" n="19"/>menti imprimat vesperi dum it cubitum: vt
+   ho<lb ed="#B" n="20" break="no"/>ra consueta surgat: &amp; vt alii sint vigilantiores &amp; 
+   <lb ed="#B" n="21"/>caueant a simili errore. nam Felix quem faciunt alie 
+   <lb ed="#B" n="22"/>na pericula cautum. Sic religiosus percutitur vt ir 
+   <lb ed="#B" n="23"/>posterum tam ipse quam alii sint magis solliciti ad 
+   <lb ed="#B" n="24"/>amussim seruare regulam. Christus autem percutie 
+   <lb ed="#B" n="25"/>batur pro opere bono: nec legem habuit in
+   opposi<lb ed="#B" n="26" break="no"/>tum.
+  </p>
+      <p xml:id="jMqv4a-d1e1661-d1e390">
+   ⁋ Secundo arguitur contra eandem conclusio 
+   <lb ed="#B" n="27"/>nem. Petrus religiosus vouet totam hanc regulam 
+   <lb ed="#B" n="28"/>ac si voueret vnam copulatiuam ex omnibus
+   statuti<lb ed="#B" n="29" break="no"/>in regula compositam. ergo cuicunque statuto
+   contra<lb ed="#B" n="30" break="no"/>ueniat: suo voto obuiat. &amp; per consequens peccat. 
+   <lb ed="#B" n="31"/>Dices sicut aliqui: profitens non promittit se serua 
+   <lb ed="#B" n="32"/>turum regulam: sed obedire praelato secundum re 
+   <lb ed="#B" n="33"/>gulam &amp; constitutiones. Contra hoc arguitur. Suso 
+   <lb ed="#B" n="34"/>piens sacerdotium licet non promittat se dicturum 
+   <lb ed="#B" n="35"/>horas canonicas: &amp; celebraturum: cum tamen veli 
+   <lb ed="#B" n="36"/>esse sacerdos / tenetur facere ea quae illi officio incum 
+   <lb ed="#B" n="37"/>bunt. ita de episcopo, curato, &amp; docente artes con 
+   <lb ed="#B" n="38"/>tingit. ergo regulam aliquam profitens quocumque 
+   <lb ed="#B" n="39"/>modo loquendi vtatur / tenetur facere illa quae
+   il<lb ed="#B" n="40" break="no"/>lius professionis sunt.
+  </p>
+      <p xml:id="jMqv4a-d1e1661-d1e424">
+   ⁋ Respondetur conceden 
+   <lb ed="#B" n="41"/>do quod feligionem profitens tenetur seruare illa qua 
+   <lb ed="#B" n="42"/>illius professionis sunt. Nihil est quod aliqui dicunt 
+   <lb ed="#B" n="43"/>alios aliis cautius &amp; prudentius vouere: nulla enim 
+   <lb ed="#B" n="44"/>verborum est vis seu cura. nam sicut sacerdos
+   pro<lb ed="#B" n="45" break="no"/>mittens se velle viuere pro statu sacerdotali tenetur 
+   <lb ed="#B" n="46"/>ad ea quae sacerdotio incumbunt: sic alter factus
+   sa<lb ed="#B" n="47" break="no"/>cerdos nihil loquens tenetur ad eadem: &amp; antece 
+   <lb ed="#B" n="48"/>denter vult exequi ea quae officio illi incumbunt. 
+   <lb ed="#B" n="49"/>Ad nodum igitur argumenti respondetur conceden 
+   <lb ed="#B" n="50"/>do quod profitens vouet totam regulam eo modo quo 
+   <lb ed="#B" n="51"/>regula obligat. &amp; cum regula obliget ad aliqua sub 
+   <lb ed="#B" n="52"/>poenam peccati mortalis: ad alia sub poe na peccati 
+   <lb ed="#B" n="53"/>venialis: ad alia sub aliqua poena si inferatur: eo modo 
+   <lb ed="#B" n="54"/>vouens obligatur &amp; non aliter: non secus ac si vouere 
+   <lb ed="#B" n="55"/>copulatiuam ex tribus statutis: quorum a. obligaret ad 
+   <!--0654.xml-->
+   <cb ed="#B" n="b"/> 
+       <!-- 311-v b -->
+       <lb ed="#B" n="56"/>mortale: b ad veniale: &amp; c. ad aliquam punitionem / si 
+   <lb ed="#B" n="57"/>inferatur. Nam idem est vouere haec tria vota: &amp; vo 
+   <lb ed="#B" n="58"/>uere se facturum a. sub poena peccati mortalis: b 
+   <lb ed="#B" n="59"/>sub poena veniali: &amp; c. sub punitione aliqua si
+   in<lb ed="#B" n="60" break="no"/>feratur. Et sicut dico de his tribus: ita de omnibus di 
+   <lb ed="#B" n="61"/>cendum est. exemplum in simili. vouens regulam euan 
+   <lb ed="#B" n="62"/>gelicam / vouet eam adimplere eo modo quo hominem 
+   <lb ed="#B" n="63"/>obligat. modo aliqua sunt praecepta: quaedam
+   prohibi<lb ed="#B" n="64" break="no"/>tiones: &amp; quaedam sunt monitiones &amp; consilia. primo 
+   <lb ed="#B" n="65"/>rum transgressio est mortalis: posteriorum non est
+   pec<lb ed="#B" n="66" break="no"/>catum nec proprie transgressio.
+  </p>
+      <p xml:id="jMqv4a-d1e1661-d1e489">
+   ⁋ Tertio arguitur.
+   For<lb ed="#B" n="67" break="no"/>te conditor regulae non cogitauit de peccato in
+   trans<lb ed="#B" n="68" break="no"/>gressione: vel si cogitauit / nihil circa hoc statuit. er 
+   <lb ed="#B" n="69"/>go hominium expositio innititur debili fundamento. 
+  </p>
+      <p xml:id="jMqv4a-d1e1661-d1e498">
+       <lb ed="#B" n="70"/>⁋ Quarto. aliqua verba videntur importare vim 
+   <lb ed="#B" n="71"/>praecepti in regula: aliqua vero non: sed propter ardu 
+   <lb ed="#B" n="72"/>tatem materiae capimus ea loco praeceptorum. sed quam 
+   <lb ed="#B" n="73"/>do hoc sit: dubitant sapientes: &amp; inter se
+   contradi<lb ed="#B" n="74" break="no"/>cunt: sic vt nesciatur: vtra pars sit vera. &amp; ita
+   ma<lb ed="#B" n="75" break="no"/>nebit regisa anceps: quando homo peccat &amp; quando non. 
+  </p>
+      <p xml:id="jMqv4a-d1e1661-d1e514">
+       <lb ed="#B" n="76"/>⁋ Respondetur ad tertium quod religionum institutores 
+   <lb ed="#B" n="77"/>seu fundatores prudentes &amp; perspicaces per
+   ver<lb ed="#B" n="78" break="no"/>ba ostenderunt suam intentionem. Et licet non cogitaue 
+   <lb ed="#B" n="79"/>rint de quolibet in particulari: an sit peccatum necnes 
+   <lb ed="#B" n="80"/>volebant tamen astringere religiosos suos ad suam 
+   <lb ed="#B" n="81"/>regulam seruandam sub poena peccati secundum 
+   <lb ed="#B" n="82"/>iudicium prudentum: &amp; regulam eorum iudicio ex 
+   <lb ed="#B" n="83"/>ponendam reliquerunt: ac scite &amp; ex industria
+   ta<lb ed="#B" n="84" break="no"/>cuerunt de transgressionibus quae non sunt
+   pecca<lb ed="#B" n="85" break="no"/>ta: ne per hoc religiosi forent proniores ad
+   trans<lb ed="#B" n="86" break="no"/>grediendum statutum.
+  </p>
+      <p xml:id="jMqv4a-d1e1661-d1e540">
+   ⁋ Ad quartum concedo 
+   <lb ed="#B" n="87"/>assumptum. sed videatur si verbum praecepti sit certum 
+   <lb ed="#B" n="88"/>&amp; expressum: sic enim non oportet longius inuestiga 
+   <lb ed="#B" n="89"/>re. si habeat tantum oneris vt eius transgressio deni 
+   <lb ed="#B" n="90"/>gret regulam: iterum est praeceptum. si illa duo
+   concur<lb ed="#B" n="91" break="no"/>rant: iam est luce clarius esse praeceptum. Et quamuis sit du 
+   <lb ed="#B" n="92"/>bium inter sapientes quando sit praeceptum, &amp; quin non: tamen 
+   <lb ed="#B" n="93"/>non est dubium de peccato apud prudente. in casu au 
+   <lb ed="#B" n="94"/>tem ancipiti sumatur pars securior / periculum
+   relinquen<lb ed="#B" n="95" break="no"/>do: sicut in aliis contractibus fit. hoc enim nihil mali 
+   <lb ed="#B" n="96"/>contra regulam arguit. Nonne vides in lege gratiae 
+   <lb ed="#B" n="97"/>contractus ambiguos: &amp; aliqua quae videntur habe 
+   <lb ed="#B" n="98"/>re vim praecepti prima fronte: quae tamen non habent 
+   <lb ed="#B" n="99"/>intentionem praecepti? vt Marci. vii. Christus praecepit 
+   <lb ed="#B" n="100"/>discipulis ne cui dicerent miraculum a se factum. &amp; tamen 
+   <lb ed="#B" n="101"/>non obligauit eos vt non diuulgarent illud. Quaedam 
+   <lb ed="#B" n="102"/>etiam habent praeceptum in intentione: sed non in modo.  
+   <lb ed="#B" n="103"/>vt Exodi. ii. Non furtum facies. per verbum imperatiu 
+   <lb ed="#B" n="104"/>modi. Quaedam habent &amp; intentionem praecepti &amp;
+   mo<lb ed="#B" n="105" break="no"/>di. vt est illud Ioannis. xv. Hoc est praeceptum
+   meun<lb ed="#B" n="106" break="no"/>vt diligatis inuicem.
+  </p>
+      <p xml:id="jMqv4a-d1e1661-d1e586">
+   ⁋ Quinto arguitur. homo tenetur 
+   <lb ed="#B" n="107"/>confiteri quamlibet transgressionem regulae. sed nemo 
+   <lb ed="#B" n="108"/>tenetur confiteri nisi mortale: ergo quelibet
+   trans<lb ed="#B" n="109" break="no"/>gressio est mortalis. Respondetur, nescis probare 
+   <lb ed="#B" n="110"/>maiorem quando constat quod sit talis. 
+   <!--0655.xml-->
+   <pb ed="#B" n="312-r"/>
+       <cb ed="#B" n="a"/>
+      </p>
+      <p xml:id="jMqv4a-d1e1661-d1e605">
+       <lb ed="#B" n="1"/>⁋ Contra quartam conclusionem &amp; 
+   <lb ed="#B" n="2"/>documentum illic positum arguitur sic. Minores 
+   <lb ed="#B" n="3"/>habent sub vi praecepti / non vti calceis: &amp; tamer 
+   <lb ed="#B" n="4"/>vtuntur sine peccato, vt videmus. In super in regioni 
+   <lb ed="#B" n="5"/>bus frigidis, vt in Scotia, &amp; Norpegia, in hyeme 
+   <lb ed="#B" n="6"/>est molestum &amp; durum indui calceis incisis siue sar 
+   <lb ed="#B" n="7"/>daliis. immo contingit delicatum senem illis vtentem 
+   <lb ed="#B" n="8"/>religionem eorum profitentem / aegritudinem aut mortem in 
+   <lb ed="#B" n="9"/>cidere. ergo tum rigor illius statuti relinquendus est. 
+  </p>
+      <p xml:id="jMqv4a-d1e1661-d1e627">
+       <lb ed="#B" n="10"/>⁋ Ad primum respondetur negando minorem: quia 
+   <lb ed="#B" n="11"/>induuntur calceis duntaxat superne excisis:
+   alio<lb ed="#B" n="12" break="no"/>quin integris &amp; bene suppactis. Nam &amp; Marci. vi. 
+   <lb ed="#B" n="13"/>de apostolis ad praedicandum missis scribitur. Sed
+   cal<lb ed="#B" n="14" break="no"/>ceatos sandaliis. vbi glossa Bedae. Vt neque pes te 
+   <lb ed="#B" n="15"/>ctus / neque nudus ad terram. Sandalium autem no est ca 
+   <lb ed="#B" n="16"/>ceus. Dicere vero quod prohibeantur induere calceos in  
+   <lb ed="#B" n="17"/>conis sicut Paulus Burgensis dicit in loco allegato:  
+   <lb ed="#B" n="18"/>nullo modo est apparens. Ad secundum respondetur quod 
+   <lb ed="#B" n="19"/>assuetus in pueritia indui sandaliis / eis optime in se 
+   <lb ed="#B" n="20"/>nio vtitur sine laesione: quemadmodum est de facie: &amp;
+   si<lb ed="#B" n="21" break="no"/>cut assuetus dormire sine velamine in capite, non
+   in<lb ed="#B" n="22" break="no"/>cidit in morbum. sed senex contineat se domi, in tem 
+   <lb ed="#B" n="23"/>plo, vel in schola alios docendo ne morbum incidat. 
+   <lb ed="#B" n="24"/>Etiam quando deambulant, calefaciunt pedes. aut eos stam 
+   <lb ed="#B" n="25"/>do aut sedendo moueant. motus enim localis est ca 
+   <lb ed="#B" n="26"/>lefactiuus. scio tamen quod necessitas non habet legen 
+   <lb ed="#B" n="27"/>In itinere autem vbi nullus occurrit pannum
+   superpo<lb ed="#B" n="28" break="no"/>nant. quantum tamen possibile est caueant ab illis
+   ceri<lb ed="#B" n="29" break="no"/>moniis praetereundis ob malam sequelam. 
+   <lb ed="#B" n="30"/>Vbitatur. An religiosi
+   pec<lb ed="#B" n="31" break="no"/>scent comedendo carnes. Respondetur. 
+   <lb ed="#B" n="32"/>multiplices sunt religiosi. aliqui enim sunt 
+   <lb ed="#B" n="33"/>el quibus carnes non sunt interdictae ex re 
+   <lb ed="#B" n="34"/>gula vel ex statutis capituli. vt minores: religiosi 
+   <lb ed="#B" n="35"/>sancti <name xml:id="jMqv4a-d1e1661-Nd1e685" ref="#Augustine">Augustini,</name> certis diebus. Alii sunt quibus 
+   <lb ed="#B" n="36"/>sunt prohibitae carnes extra necessitatem: vt Benedicti 
+   <lb ed="#B" n="37"/>ni. &amp; de istis est dubitatio an peccent carnes come 
+   <lb ed="#B" n="38"/>dendo. Sed respondeo quod abbas cum eis potest dispen 
+   <lb ed="#B" n="39"/>sare, vt pro causa rationabili comedant carnes in 
+   <lb ed="#B" n="40"/>conclaui seu domo aegrotorum: &amp; vt opinor extra re 
+   <lb ed="#B" n="41"/>fectorium in alia domo / aliquos vocando, vel
+   aliqui<lb ed="#B" n="42" break="no"/>bus dando facultatem: sic vt ordinarii aliqui ma 
+   <lb ed="#B" n="43"/>neant in refectorio comedentes pisces. sicut in Bri 
+   <lb ed="#B" n="44"/>tannia faciunt multi. regula nanque hoc permittit 
+   <lb ed="#B" n="45"/>&amp; pontifex in capi. Cum ad monasterium. sic inquit. 
+   <lb ed="#B" n="46"/>In refectorio vero nullus omnino carne vescatur. 
+   <lb ed="#B" n="47"/>Raritas autem piscium &amp; eorum caritas, vel religiosi 
+   <lb ed="#B" n="48"/>debilitas potest esse causa sufficiens
+   dispensandi<lb ed="#B" n="49" break="no"/>vt carnes comedantur. Et idem opinor
+   probabi<lb ed="#B" n="50" break="no"/>liter posse fieri apud Britannos: qui licet piscibus 
+   <lb ed="#B" n="51"/>abundent, non tamen habent copiam vini. Et licet 
+   <lb ed="#B" n="52"/>Carthusienses diu viuant: non est tantus rigor in non 
+   <lb ed="#B" n="53"/>esu carnium Benedictinis quantus Carthusiensibus. 
+   <lb ed="#B" n="54"/>&amp; potissimum apud eos qui ab antiquo hoc habent: 
+   <!--0655.xml-->
+   <cb ed="#B" n="b"/> 
+       <!-- 312-r b -->
+       <lb ed="#B" n="55"/>modo sit probabile principium de iusta causa ab 
+   <lb ed="#B" n="56"/>initio: vel non constet de opposito: hoc seruato vt 
+   <lb ed="#B" n="57"/>semper in bono numero sint religiosi / pisces
+   come<lb ed="#B" n="58" break="no"/>dentes in refectorio: &amp; omnes abstineant certis diebus 
+   <lb ed="#B" n="59"/>vt faciunt. Et istud patet. xx. q. iiii. cap. fina. &amp; de 
+   <lb ed="#B" n="60"/>consecra. dist. v. c. Carnem. Et forte non est mortale 
+   <lb ed="#B" n="61"/>comedere carnes abbate dispensante sine causa: vt 
+   <lb ed="#B" n="62"/>putat beatus Thomas in primo quotlib. &amp;
+   loan<lb ed="#B" n="63" break="no"/>nes Gerson. caueant tamen quantu est possibile se 
+   <lb ed="#B" n="64"/>cundum verba &amp; intentionem regulae. &amp; cap. Cum ad 
+   <lb ed="#B" n="65"/>monasterium. ponderabis sine glossa vlla.
+  </p>
+      <p xml:id="jMqv4a-d1e1661-d1e761">
+   ⁋ Hacte 
+   <lb ed="#B" n="66"/>nus quomodo quaelibet transgressio deliberata no 
+   <lb ed="#B" n="67"/>tabiliter contraueniens alicui trium votorum
+   essentia<lb ed="#B" n="68" break="no"/>lium est mortalis. Dico etiam quod aliqua statuta
+   pos<lb ed="#B" n="69" break="no"/>sunt esse tantae molis ad coseruationem trium voto 
+   <lb ed="#B" n="70"/>rum: vt ipsis contrauenire sit peccatum mortale. An au 
+   <lb ed="#B" n="71"/>tem aliquid sub poena peccati mortalis obliget:
+   co<lb ed="#B" n="72" break="no"/>gnoscitur penes duo. Vno modo quando habetur hoc 
+   <lb ed="#B" n="73"/>verbum teneantur, vel aequiualens cadens distincte 
+   <lb ed="#B" n="74"/>super vnum faciendum. vtpote, fratres minores
+   tenean<lb ed="#B" n="75" break="no"/>tur non equitare nisi in casu necessitatis. si autem
+   po<lb ed="#B" n="76" break="no"/>natur in fronte totius regulae, non est idem: quia tunc 
+   <lb ed="#B" n="77"/>ex vi verbi super totam regulam cadit: vt in solu 
+   <lb ed="#B" n="78"/>tione secundi argumenti diximus. Secundo
+   mo<lb ed="#B" n="79" break="no"/>do cognoscitur penes vtilitatem materiae quam statu 
+   <lb ed="#B" n="80"/>tum tangit, quod tanti est ponderis in coseruatione 
+   <lb ed="#B" n="81"/>regulae, vt sine eo regula patiatur difficultatem vt in  
+   <lb ed="#B" n="82"/>vigore maneat, quando vero illa duo concurrunt, notum 
+   <lb ed="#B" n="83"/>est. Aliqua autem sunt consilia &amp; decentia, vt quod fra 
+   <lb ed="#B" n="84"/>tres doment carnem suam: non loquantur in
+   coeno<lb ed="#B" n="85" break="no"/>bio: quae prudens iudicat non esse magni ponderis: 
+   <lb ed="#B" n="86"/>quorum transgressio non est peccatum, si no sit conteptus 
+   <lb ed="#B" n="87"/>vel superioris prohibitio. na mitius agitur cum lege qui cum 
+   <lb ed="#B" n="88"/>ministro legis.lit. de arbi. l. Celsus. Volens tamen re 
+   <lb ed="#B" n="89"/>ligiose viuere, eniti debet omnia in regula contenta ad 
+   <lb ed="#B" n="90"/>vnguem conseruare ob securitatem &amp; ne alios
+   scanda<lb ed="#B" n="91" break="no"/>lizet: nec praeterire illa. quae parui momenti videntur. 
+   <lb ed="#B" n="92"/>ne assuetus pusilla praeterire successu temporis maio 
+   <lb ed="#B" n="93"/>ra praeuaricari non formidet. Hinc enim pedetentim 
+   <lb ed="#B" n="94"/>religionis feruor extinctus est 
+  </p>
+    </div>
+   </body>
+  </text>
+</TEI>

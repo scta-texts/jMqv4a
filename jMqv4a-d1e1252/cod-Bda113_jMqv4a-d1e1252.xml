@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 15</title>
+      <author ref="#JohnMair">John Mair</author>
+      <respStmt>
+       <name>Jeffrey C. Witt</name>
+       <resp>TEI Encoder</resp>
+      </respStmt>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 15</title>
+       <date when="2020-06-09">June 27, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="B" n="cod-Bda113">Badius 1516</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+     guidelines for a diplomatic edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-06-27" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+      <pb ed="#B" n="235-r"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="jMqv4a-d1e1252"> <!-- l4d24q15 -->
+      <head xml:id="jMqv4a-d1e1252-Hd1e104">Quaestio 15</head>
+      <head xml:id="jMqv4a-d1e1252-Hd1e107" type="question-title">An melius faciat beneficiatus suum 
+  beneficium resignans alicui probo, servata pensione 
+  pro vita si indigeat: an relinquens beneficium 
+  post mortem vacare, sic scilicet ut collator 
+  possit conferre cui velit</head>
+      <p xml:id="jMqv4a-d1e1252-d1e110">
+       <lb ed="#B" n="77"/>⁋ Distinctionis Vigesimae quartae 
+   <lb ed="#B" n="78"/>Quaestio Decimaquinta. 
+   <lb ed="#B" n="79"/>DEcimoquinto quaeritur. 
+   <lb ed="#B" n="80"/>An melius faciat beneficia 
+   <lb ed="#B" n="81"/>tus suum beneficium resignans 
+   <lb ed="#B" n="82"/>alicui probo: seruata pensio 
+   <lb ed="#B" n="83"/>ne pro vita si indigeat: an
+   te<lb ed="#B" n="84" break="no"/>linquendo beneficium vacare 
+   <lb ed="#B" n="85"/>per mortem: sic scilicet vt
+   col<lb ed="#B" n="86" break="no"/>lator possit conferre cui velit. Et vtrinque argumen 
+   <lb ed="#B" n="87"/>tabor. Primo ad partem affirmatiuam sic. Quilibet 
+   <lb ed="#B" n="88"/>debet niti ad extollendam gloriam dei omnibus me 
+   <lb ed="#B" n="89"/>diis licitis. sed Sortes beneficiatus videt
+   Plato<lb ed="#B" n="90" break="no"/>nem ab omnibus cognitum multum idoneum, beneficium 
+   <lb ed="#B" n="91"/>non habentem: vel si vllum habeat contentus est illud  
+   <lb ed="#B" n="92"/>deserere: vt habeat istud beneficium maius
+   ma<lb ed="#B" n="93" break="no"/>ioritate curae: siue sit maioritas prouentuum, siue non 
+   <lb ed="#B" n="94"/>quia hoc est accidentale: dummodo prouentus
+   suf<lb ed="#B" n="95" break="no"/>ficiant hunc alere: &amp; videt collatorem plerumque in ido  
+   <lb ed="#B" n="96"/>neis conferentem. ergo licite potest propinquo
+   col<lb ed="#B" n="97" break="no"/>latore relicto, huic probo suum beneficium conferre. 
+   <lb ed="#B" n="98"/>Forte dicis. magna est idoneitas ex parte obiecti 
+   <lb ed="#B" n="99"/>illius in quem beneficium transit: sed modus facien 
+   <lb ed="#B" n="100"/>di non est licitus. &amp; sic ex parte causae formalis est 
+   <lb ed="#B" n="101"/>defectus: quia priuat collatorem immediatum iure 
+   <lb ed="#B" n="102"/>suo beneficii conferendi. Contra hoc arguitur. 
+   <lb ed="#B" n="103"/>Non est de iure naturae vel diuino quod hic
+   episco<lb ed="#B" n="104" break="no"/>pus vel hic abbas vel praelatus alius, omnia bene 
+   <lb ed="#B" n="105"/>ficia suae iurisdictionis conferat: quia oppositum 
+   <lb ed="#B" n="106"/>cum animae salute est in quotidiana practica. si 
+   <lb ed="#B" n="107"/>ergo est lex humana: interpretationem
+   rationa<lb ed="#B" n="108" break="no"/>bilem, &amp; ex consequente exceptionem patitur. 
+   <!--0502.xml-->
+   <pb ed="#B" n="235-v"/>
+       <cb ed="#B" n="a"/>
+       <lb ed="#B" n="1"/>Secundo. hoc fit cum superiore mediato: &amp; eius
+   fa<lb ed="#B" n="2" break="no"/>cultate qui in multis casibus confert beneficium quod est 
+   <lb ed="#B" n="3"/>in collatione immediata. vtpote si quis sit in curia vel 
+   <lb ed="#B" n="4"/>iuxta eam &amp; multis aliis modis. Secundo arguitur ad  
+   <lb ed="#B" n="5"/>idem. licitum est viro subtrahere a furioso gladium, per 
+   <lb ed="#B" n="6"/>quem verisimiliter seipsum caedet, sed relinquendo ei col 
+   <lb ed="#B" n="7"/>lationem beneficii / verisimile est quod in idoneo
+   confe<lb ed="#B" n="8" break="no"/>ret: quia hoc ex praeteritis deprehenditur. igitur. Praeterea
+   vi<lb ed="#B" n="9" break="no"/>demus longas lites cum magnis impensis antequam electus 
+   <lb ed="#B" n="10"/>beneficium obtineat: &amp; interdum caret pastore
+   eccle<lb ed="#B" n="11" break="no"/>sia septem vel octo annis. resignando autem illud non 
+   <lb ed="#B" n="12"/>contingit. igitur.
+  </p>
+      <p xml:id="jMqv4a-d1e1252-d1e214">
+   ⁋ Ad partem negatiuam arguitur sic. iste 
+   <lb ed="#B" n="13"/>prdinarium iure suo defraudat: &amp; si callidus fuerit 
+   <lb ed="#B" n="14"/>viam aliis aperit in diminutionem potestatis
+   ordina<lb ed="#B" n="15" break="no"/>rii. Secundo arguitur ad idem. licet male in praeterito ege 
+   <lb ed="#B" n="16"/>rit ordinarius, in futurum bene aget: ergo iste
+   resi<lb ed="#B" n="17" break="no"/>gnans beneficium impedit ordinarium ab opere 
+   <lb ed="#B" n="18"/>pono, ei debito. 
+  </p>
+      <p xml:id="jMqv4a-d1e1252-d1e231">
+       <lb ed="#B" n="19"/>⁋ Respondetur per tres conclusiones: 
+   <lb ed="#B" n="20"/>quarum Prima est. Vbi collator est malus &amp;
+   promi<lb ed="#B" n="21" break="no"/>scue inidoneis beneficia confert: iste de quo loqui  
+   <lb ed="#B" n="22"/>mut laudabiliter facit, beneficium conferens idoneo. 
+   <lb ed="#B" n="23"/>Hanc conclusionem mihi suadent rationes ad partem affir 
+   <lb ed="#B" n="24"/>matiuam adductae. Item multi timorati viri beneficia 
+   <lb ed="#B" n="25"/>resignant qui de resignatione num quam poenitent: sed a pro 
+   <lb ed="#B" n="26"/>bis laudantur. ergo non solum est licitum sed &amp; laude di 
+   <lb ed="#B" n="27"/>gnum: quemadmodum Valerius neglectis aliis,
+   inthro<lb ed="#B" n="28" break="no"/>nizauit <name xml:id="jMqv4a-d1e1252-Nd1e254" ref="#Augustine">Augustinum,</name> &amp; probe egit.
+  </p>
+      <p xml:id="jMqv4a-d1e1252-d1e258">
+   ⁋ Secunda
+   conclu<lb ed="#B" n="29" break="no"/>sio. Potest beneficiatus beneficium resignare vbi 
+   <lb ed="#B" n="30"/>collator est bonus: hoc est bonus collator &amp; bonus 
+   <lb ed="#B" n="31"/>homo: quia si est bonus collator, est bonus homo 
+   <lb ed="#B" n="32"/>saltem quadam multum apparente bonitate: licet interdum 
+   <lb ed="#B" n="33"/>labatur. Probatur ista conclusio. Quando quis videt 
+   <lb ed="#B" n="34"/>duo media licita ad aliquid faciendum: potest hoc vel
+   il<lb ed="#B" n="35" break="no"/>lud acceptare. sed hic resignare paratus videt duo 
+   <lb ed="#B" n="36"/>media licita: vnum scilicet resignando beneficium probo 
+   <lb ed="#B" n="37"/>viro cum ordinarii vel superioris consensu: etiam quem 
+   <lb ed="#B" n="38"/>iudicat forte magis idoneum quam sit ille cui conferret 
+   <lb ed="#B" n="39"/>beneficium. Aliud medium est: quod iudicat collatorem be 
+   <lb ed="#B" n="40"/>neficium bene collaturum. ergo potest istud acceptare, 
+   <lb ed="#B" n="41"/>&amp; resignationem omittere.
+  </p>
+      <p xml:id="jMqv4a-d1e1252-d1e289">
+   ⁋ Tertia conclusio. Quam 
+   <lb ed="#B" n="42"/>do beneficiatus videt collatorem beneficii resignam 
+   <lb ed="#B" n="43"/>di in apprehensione esse probum virum: sic scilicet quod verisi 
+   <lb ed="#B" n="44"/>militer dabit viro tam probo quam est ille cui ipse
+   resi<lb ed="#B" n="45" break="no"/>gnabit: honestius est non resignare. Ratio est: ne 
+   <lb ed="#B" n="46"/>alicui nimis videatur affectus, &amp; personarum acceptor 
+   <lb ed="#B" n="47"/>putetur, sua beneficia relinquendo consanguineis, &amp; 
+   <lb ed="#B" n="48"/>improbis occasionem id faciendi tribuat, non iudicam 
+   <lb ed="#B" n="49"/>tibus cui &amp; quomodo beneficium resignauit. 
+  </p>
+      <p xml:id="jMqv4a-d1e1252-d1e309">
+       <lb ed="#B" n="50"/>⁋ Ad argumenta ad partem negatiuam 
+   <lb ed="#B" n="51"/>adducta iam respondeo: ad primum negando quod resi 
+   <lb ed="#B" n="52"/>gnans beneficium in casu primae conclusionis collato 
+   <lb ed="#B" n="53"/>rem defraudent: vel de sua iurisdictione aliquid detra: 
+   <lb ed="#B" n="54"/>hat. nam cum iuste &amp; licite agat: nulli facit iniuriam. &amp; 
+   <!--0502.xml-->
+   <cb ed="#B" n="b"/> 
+       <!-- 235-v b -->
+       <lb ed="#B" n="55"/>quotquot faciunt sicut iste cum illis conditionibus apu 
+   <lb ed="#B" n="56"/>positis / laudabiliter agunt: &amp; materiam peccati ab 
+   <lb ed="#B" n="57"/>isto subtrahunt. Et licet peccaret volendo dare vni 
+   <lb ed="#B" n="58"/>inidoneo, si collationem liberam penes se haberet: 
+   <lb ed="#B" n="59"/>noc nihil est. nam contingit quod non habeat tale velle. 
+   <lb ed="#B" n="60"/>Secundo illud velle non est tam malum quam volitio efficax 
+   <lb ed="#B" n="61"/>&amp; categorica vni malo conferendi, non sic tamen quasi 
+   <lb ed="#B" n="62"/>actus exterior aliquid malitiae actui interiori super 
+   <lb ed="#B" n="63"/>addat.
+  </p>
+      <p xml:id="jMqv4a-d1e1252-d1e348">
+   ⁋ Secundum argumentum est nullum. nam debes 
+   <lb ed="#B" n="64"/>iudicare ex plerisque collationibus praeteritis, sibi non 
+   <lb ed="#B" n="65"/>esse multum curae de deo: sed quod seipum &amp; suos
+   ma<lb ed="#B" n="66" break="no"/>gis diligat quam deum: cum honore dei &amp; eius praeceptum 
+   <lb ed="#B" n="67"/>pessundet &amp; conculcet, suos honorando. Et licet au 
+   <lb ed="#B" n="68"/>diam ex eius confessione: vitae praeteritae ipsum poenitere 
+   <lb ed="#B" n="69"/>&amp; deinceps intendere iuste &amp; digne coferre: non
+   fa<lb ed="#B" n="70" break="no"/>cile hoc dicenti fidem habebo: nec resignatio erit 
+   <lb ed="#B" n="71"/>postponenda. quo non obstante in foro animae est
+   ab<lb ed="#B" n="72" break="no"/>oluendus.
+  </p>
+      <p xml:id="jMqv4a-d1e1252-d1e370">
+   ⁋ Tertio arguitur contra eandem conclusionem 
+   <lb ed="#B" n="73"/>quia ex ea sequitur quod quis potest resignare beneficium 
+   <lb ed="#B" n="74"/>suo consanguineo probo vbi collator est malus. con 
+   <lb ed="#B" n="75"/>sequens est falsum: ergo &amp; antecedens. Ex dictis
+   cla<lb ed="#B" n="76" break="no"/>ret consequentia. falsitas consequentis nota est: quia
+   ali<lb ed="#B" n="77" break="no"/>os scandalizabit. Si enim sit vir probus, erit causa 
+   <lb ed="#B" n="78"/>murmuris in populo: quod sit carni nimis affectus: &amp; 
+   <lb ed="#B" n="79"/>viam erroris aliis sanguinem amantibus aperiet. Ad  
+   <lb ed="#B" n="80"/>tertium nego sequelam. vnde illud scandalum de quo 
+   <lb ed="#B" n="81"/>est sermo in argumento, non est Pharisaeorum sed pu 
+   <lb ed="#B" n="82"/>sillorum &amp; datum. potius autem debet alteri conferre etiam 
+   <lb ed="#B" n="83"/>eque idoneo. &amp; quamuis illi duo sint maxime idonei 
+   <lb ed="#B" n="84"/>illic tamen sanguis obest de per accidens ratione scandali 
+   <lb ed="#B" n="85"/>quod est causa per se de non habendo beneficio. Non tamen 
+   <lb ed="#B" n="86"/>nego quin probissimo consanguineo possit
+   medio<lb ed="#B" n="87" break="no"/>cre beneficium conferre: vt materiam habeat exercendae 
+   <lb ed="#B" n="88"/>virtutis: &amp; decenter viuat: &amp; maiora conferendo aeque 
+   <lb ed="#B" n="89"/>idoneis nullum prudentem scandalizabit. Sed bona 
+   <lb ed="#B" n="90"/>ecclesiae non suut danda ratione sanguinis, quia nullum 
+   <lb ed="#B" n="91"/>titulum beneficio habendo sanguis praestat. secus est 
+   <lb ed="#B" n="92"/>de temporalibus aliunde prouenientibus quam a beneficio 
+   <lb ed="#B" n="93"/>quia illa proximo haeredi danda sunt. quamuis enim sit 
+   <lb ed="#B" n="94"/>malus: haereditati suscipiendae est maxime idoneus. 
+   <lb ed="#B" n="95"/>crebro namque vnus est inidoneus in vna mate sa: &amp; 
+   <lb ed="#B" n="96"/>idoneus in alia: &amp; minus idoneus circa vnum, ma 
+   <lb ed="#B" n="97"/>gis circa aliud.
+  </p>
+      <p xml:id="jMqv4a-d1e1252-d1e428">
+   ⁋ Hactenus de resignatione benefi 
+   <lb ed="#B" n="98"/>cii quod in idoneo resignari non potest: sed maxime 
+   <lb ed="#B" n="99"/>idoneo. &amp; si scandalu ratione sanguinis vel alicuius 
+   <lb ed="#B" n="100"/>impertinentis ad beneficium habendum impediat: is non est 
+   <lb ed="#B" n="101"/>maxime idoneus. Nobis enim &amp; nostris sic peruerse 
+   <lb ed="#B" n="102"/>ifficimur vt in multa flagitia dei offensiua eorum 
+   <lb ed="#B" n="103"/>causa prorumpamus. gratia sanguinis dico. Sed ver 
+   <lb ed="#B" n="104"/>bi Dauidici collator sit memor. Quae vtilitas in  
+   <lb ed="#B" n="105"/>sanguine meo dum descendo in corruptionem: hoc 
+   <lb ed="#B" n="106"/>est descendo ad inferos vbi continuo torquebor. 
+   <lb ed="#B" n="107"/>ratione inique datorum consanguineis: &amp; forte sum 
+   <lb ed="#B" n="108"/>etiam causa damnationis eorum, conferendo beneficium 
+   <lb ed="#B" n="109"/>ipsorum humeris impar: quod minime restituunt. Et 
+   <!--0503.xml-->
+   <pb ed="#B" n="236-r"/>
+       <cb ed="#B" n="a"/>
+       <lb ed="#B" n="1"/>ex hoc facile est cognitu quomodo ordinem chari 
+   <lb ed="#B" n="2"/>ratis peuertam, eorum corpora plus diligendo quam animas 
+   <lb ed="#B" n="3"/>immo vt eis placeam relinquo honorem dei. Crebro 
+   <lb ed="#B" n="4"/>item ob famulos simile facinus committitur: interdum 
+   <lb ed="#B" n="5"/>etiam simoniace, vt distinctione sequente videbitur. nam 
+   <lb ed="#B" n="6"/>domestici homines inimici eius. hi tamen famuli &amp; impru 
+   <lb ed="#B" n="7"/>dentes, beneficiorum collatores efferunt quod se promiscue 
+   <lb ed="#B" n="8"/>per fas &amp; nefas ad beneficia promoueant: asserentes 
+   <lb ed="#B" n="9"/>virum de suis bene meritum. ipsi vero famulorum salu 
+   <lb ed="#B" n="10"/>tis non habent curam: nec eos reuera diligunt: sed quem 
+   <lb ed="#B" n="11"/>admodum Scytha famulum impinguat temporarie vi 
+   <lb ed="#B" n="12"/>eum tandem deuoret &amp; comedat, vel ab alio comedatur 
+   <lb ed="#B" n="13"/>Non nego tamen quin famuli pro seruitio rationabiliter sini 
+   <lb ed="#B" n="14"/>praemiadi. quia secund n Apostolum. i. ad Timoth. v. 
+   <lb ed="#B" n="15"/>qui suorum &amp; maxime domesticorum curam non habet 
+   <lb ed="#B" n="16"/>est infidelis ac infideli deterior. hoc est qui non habet 
+   <lb ed="#B" n="17"/>sollicitudinem tam in spiritualibus, vt non offendatur 
+   <lb ed="#B" n="18"/>deus: quam in temporalibus: male &amp; inique agit. 
+  </p>
+    </div>
+   </body>
+  </text>
+</TEI>

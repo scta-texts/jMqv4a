@@ -1,0 +1,597 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 1</title>
+      <author ref="#JohnMair">John Mair</author>
+      <respStmt>
+       <name>Jeffrey C. Witt</name>
+       <resp>TEI Encoder</resp>
+      </respStmt>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 1</title>
+       <date when="2020-06-09">June 27, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="B" n="cod-Bda113">Badius 1516</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+     guidelines for a diplomatic edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-06-27" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+      <pb ed="#B" n="72-v"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="jMqv4a-d1e386"> <!-- l4d13q1 -->
+      <head xml:id="jMqv4a-d1e386-Hd1e104">Quaestio 1</head>
+      <head xml:id="jMqv4a-d1e386-Hd1e107" type="question-title">An sequendo consecrationem Christi debeamus 
+  in fermentato, an in azimo pane consecrare</head>
+      <p xml:id="jMqv4a-d1e386-d1e110">
+       <lb ed="#B" n="19"/>Magister in ha 
+   <lb ed="#B" n="20"/>distinctione xiii
+   quae<lb ed="#B" n="21" break="no"/>rit excommunicati, 
+   hae<lb ed="#B" n="22"/>retici, &amp; degradati 
+   <lb ed="#B" n="23"/>consecrare possint. 
+   <lb ed="#B" n="24"/>non: &amp; ma 
+   <lb ed="#B" n="25"/>atuit distin 
+   <lb ed="#B" n="26"/>raecedenti. 
+   <lb ed="#B" n="27"/>erea Magro 
+   <lb ed="#B" n="28"/>psequendo 
+   <lb ed="#B" n="29"/>ateriam
+   euchari<lb ed="#B" n="30" break="no"/>stiae, quaeram
+   qua<lb ed="#B" n="31" break="no"/>secratione in aximo &amp; fermen 
+   <lb ed="#B" n="32"/>so inter latinos &amp; graecos.
+   Se<lb ed="#B" n="33" break="no"/>lem inquiram secundum aliam positionem.
+   Ter<lb ed="#B" n="34" break="no"/>tio an laicus debeat communicare sub vtraque specie. 
+   <lb ed="#B" n="35"/>Quarto de modo celebrandi.
+  </p>
+      <p xml:id="jMqv4a-d1e386-d1e149">
+   ⁋ Pro primi expe 
+   <lb ed="#B" n="36"/>ditione quaero: an sequendo consecrationem Christi 
+   <lb ed="#B" n="37"/>debeamus in fermentato an in aximo pane conse 
+   <lb ed="#B" n="38"/>crare. Quaestio ista supponit dubium esse: in quo 
+   <lb ed="#B" n="39"/>pane Christus consecrauerit. &amp; secundo quaerit an de 
+   <lb ed="#B" n="40"/>beamus eum imitari in tali pane consecrando. Circa 
+   <lb ed="#B" n="41"/>materiam autem propositam non conueniunt omnes fide, 
+   <lb ed="#B" n="42"/>les. Propterea qui de ea vidimus, paucis recensebimus. 
+   <lb ed="#B" n="43"/>Recitat venerabilis Beda. iii. libro historiae ecclesiae 
+   <lb ed="#B" n="44"/>gentis Anglorum de modo quo nostri Scoti Britam 
+   <lb ed="#B" n="45"/>ni vsi sunt, qui erant ad Anglos in fide
+   instruen<lb ed="#B" n="46" break="no"/>dos missi: quod a. xiiii. luna ad vigesimam inclusiue ser 
+   <lb ed="#B" n="47"/>uabant pascha: &amp; vigesimus primus dies qui apud 
+   <lb ed="#B" n="48"/>Hebraeos est celeberrimus, ab eis non seruabatur. Et
+   de<lb ed="#B" n="49" break="no"/>cimo capite libri praefati: cum venerabilis Beda praeconia 
+   <lb ed="#B" n="50"/>&amp; laudes patris Aidancumulate recitasset: paucis 
+   <lb ed="#B" n="51"/>concludens sic ait. Quae (vt breuiter multa compre 
+   <!--0176.xml-->
+   <cb ed="#B" n="b"/> 
+       <!-- 72-v b -->
+       <lb ed="#B" n="52"/>hendam) quantum ab eis qui eum nouerunt didicimus: ni 
+   <lb ed="#B" n="53"/>hil in omnibus qua in euangelicis, siue apostolicis, 
+   <lb ed="#B" n="54"/>siue propheticis literis facienda cognouerat, praetermit 
+   <lb ed="#B" n="55"/>tere: sed cuncta pro suis viribus operibusque parabat. 
+   <lb ed="#B" n="56"/>Haec in praefato antistite multum complector &amp; amo: 
+   <lb ed="#B" n="57"/>quia nimirum hoc deo placuisse non ambigo. quod autem 
+   <lb ed="#B" n="58"/>pascha non suo tempore obseruabat: vel canonicum 
+   <lb ed="#B" n="59"/>eius tempus ignorans, vel suae gentis auctoritate 
+   <lb ed="#B" n="60"/>ne agnitum sequeretur, fuit. Ex his patet quod huic
+   san<lb ed="#B" n="61" break="no"/>cto patri fuit protunc ignorantia inuincibilis: quia 
+   <lb ed="#B" n="62"/>ecclesiasticae traditiones &amp; positiuae adhuc apud  
+   <lb ed="#B" n="63"/>eos non erant sufficienter publicatae. Haec dixerim 
+   <lb ed="#B" n="64"/>ne quis putet huius sancti patris vel sequacium eius 
+   <lb ed="#B" n="65"/>vitam per hanc positiuam obseruantiam denigratam. 
+  </p>
+      <p xml:id="jMqv4a-d1e386-d1e224">
+       <lb ed="#B" n="66"/>⁋ Praeterea scito quod varius est modus opinandi
+   im<lb ed="#B" n="67" break="no"/>ter theologos: in quo pane Christus confecerit. 
+   <lb ed="#B" n="68"/>Graeci enim dicunt Christum in pane fermentato con 
+   <lb ed="#B" n="69"/>fecisse. &amp; propterea hodiemo die adhuc in pane fer 
+   <lb ed="#B" n="70"/>mentato cosecrant. et recitat glos. margi. loan. xiii. 
+   <lb ed="#B" n="71"/>c. sic. Graeci vero diem qua immolatur agnus dicunt solum 
+   <lb ed="#B" n="72"/>modo vocari pascha: &amp; illa dicunt Christum fuisse 
+   <lb ed="#B" n="73"/>crucifixum ad meridien. &amp; dicunt Christum anticipas 
+   <lb ed="#B" n="74"/>se vnum diem ante, comedendo agnum
+   pascha<lb ed="#B" n="75" break="no"/>lem. Hoc aliquot auctoribus confirmare student 
+   <lb ed="#B" n="76"/>dicentes tres primos euangelistas in hoc errare: &amp; 
+   <lb ed="#B" n="77"/>loannem eos in hoc castigasse. Latini vero
+   Chri<lb ed="#B" n="78" break="no"/>stum asserunt in pane aximo consecrasse. 
+  </p>
+      <p xml:id="jMqv4a-d1e386-d1e255">
+       <lb ed="#B" n="79"/>⁋ His paucis trelibatis ponuntur duae 
+   <lb ed="#B" n="80"/>conclusiones.
+  </p>
+      <p xml:id="jMqv4a-d1e386-d1e262">
+   ⁋ Prior est. Christus in vltima coe 
+   <lb ed="#B" n="81"/>na consecrauit in pane aximo.
+  </p>
+      <p xml:id="jMqv4a-d1e386-d1e267">
+   ⁋ Altera
+   conclu<lb ed="#B" n="82" break="no"/>sio. quilibet fidelis Christum imitari in hoc volens 
+   <lb ed="#B" n="83"/>debet in pane aximo consecrare. Prior conclusio 
+   <lb ed="#B" n="84"/>probatur. Nam Matth. xxvi. scribitur. Vbi vis paremus. 
+   <lb ed="#B" n="85"/>tibi comedere pascha? Et paulopost. Et fecerunt di 
+   <lb ed="#B" n="86"/>scipuli sicut constituit illis Iesus: &amp; parauerunt
+   pa<lb ed="#B" n="87" break="no"/>scha. sed tali die fuit prohibitum habere panem fer 
+   <lb ed="#B" n="88"/>mentatum in domibus ludaeorum. vnde Exodi. xii 
+   <lb ed="#B" n="89"/>scribitur. Septem diebus axima comedetis. In die 
+   <lb ed="#B" n="90"/>primo non erit fermentum in domibus vestris. qui 
+   <lb ed="#B" n="91"/>cumque comederit fermentum: peribit anima illa de Israel: 
+   <lb ed="#B" n="92"/>a primo die vsque ad diem septimum. ad insinuan 
+   <lb ed="#B" n="93"/>dum quod cum egressi sunt de aegypto: non poterant mo 
+   <lb ed="#B" n="94"/>ram trahere vt panis fermentaretur. Sed Christus con 
+   <lb ed="#B" n="95"/>fecit in pane qualem in domo Hebraeorum inue 
+   <lb ed="#B" n="96"/>nit: &amp; aximum reperit: vt ex dictis liquet. igitur.
+   Con<lb ed="#B" n="97" break="no"/>firmatur hoc. Lucae. xxii. scribitur. Venit dies
+   azximo<lb ed="#B" n="98" break="no"/>rum in quo necesse erat occidi pascha. Et paulo 
+   <lb ed="#B" n="99"/>post sequitur. Parauerunt pascha. Insania autem est 
+   <lb ed="#B" n="100"/>graecorum dicere tres primos euangelistas
+   erras<lb ed="#B" n="101" break="no"/>se: &amp; loannem eos castigasse, conuenerunt eni omnes 
+   <lb ed="#B" n="102"/>in vnum: quia in vno spiritu loquuti sunt. In super 
+   <lb ed="#B" n="103"/>secundum legem agnus typicus debebat comedi 
+   <lb ed="#B" n="104"/>xiiii. luna mensis primi ad vesperam. sed Christus 
+   <lb ed="#B" n="105"/>seruauit legalia ad mortem vsque: nec iuit Hieroso 
+   <!--0177.xml-->
+   <pb ed="#B" n="73-r"/>
+       <cb ed="#B" n="a"/>
+       <lb ed="#B" n="1"/>lymam ad comedendum agnum nisi vt praeceptum 
+   <lb ed="#B" n="2"/>legis impleret: non solum quo ad esum agni: sed 
+   <lb ed="#B" n="3"/>etiam quo ad tempus edendi. Hoc enim nostri latini 
+   <lb ed="#B" n="4"/>omnes tenuerunt &amp; tenent.
+  </p>
+      <p xml:id="jMqv4a-d1e386-d1e337">
+   ⁋ Secunda conclusio patet 
+   <lb ed="#B" n="5"/>ex priori, si modum Christi imitari voluerit aliquis. 
+   <lb ed="#B" n="6"/>Sed cum panis fermentatus sit eiusdem speciei cum 
+   <lb ed="#B" n="7"/>aximo realiter: graeci in illo consecrant sicut nos in  
+   <lb ed="#B" n="8"/>azimo, nec in hoc peccarent: si ecclesia eos in hor 
+   <lb ed="#B" n="9"/>sineret: quia licet sit praeceptum diuinum consecrare in 
+   <lb ed="#B" n="10"/>pane triticeo: humanum tamen est consecrare in
+   pa<lb ed="#B" n="11" break="no"/>ne triticeo tali / puta aximo vel tali. In signum cuius 
+   <lb ed="#B" n="12"/>ecclesia primum in pane aximo consecrauit. postea 
+   <lb ed="#B" n="13"/>exorta haeresi Ebionitarum asserentium necessarium 
+   <lb ed="#B" n="14"/>esse seruare legalia &amp; iudaizare: &amp; per consequens 
+   <lb ed="#B" n="15"/>pascha in aximo conficere, sicut ludaei quonoda ex 
+   <lb ed="#B" n="16"/>lege tenebantur: hunc errorem ecclesia eradicare
+   vo<lb ed="#B" n="17" break="no"/>lens, iusserat omnes in pane fermentato conficere. Sed 
+   <lb ed="#B" n="18"/>paucis diebus durauit error ille inter Christianos 
+   <lb ed="#B" n="19"/>quod necessarium erat seruare legalia: quo extincto 
+   <lb ed="#B" n="20"/>redierunt Latini ad antiquum ritum conficiendi in 
+   <lb ed="#B" n="21"/>acimo. Graeci autem redire nolebant, dicentes se redire 
+   <lb ed="#B" n="22"/>non posse ad hoc: quia erat lex dei noui
+   testamen<lb ed="#B" n="23" break="no"/>ti consecrare in fermentato. Sed licet hoc proba 
+   <lb ed="#B" n="24"/>uerint: non propterea habent ex institutione Christi.- 
+   <lb ed="#B" n="25"/>Pro eis tamen arguitur 
+  </p>
+      <p xml:id="jMqv4a-d1e386-d1e385">
+       <lb ed="#B" n="26"/>⁋ Contra priorem conclusionem
+   ad<lb ed="#B" n="27" break="no"/>ducentur motiua Graecorum, probando quod Christus 
+   <lb ed="#B" n="28"/>xiii. luna mensis primi agnum paschale comedit: 
+   <lb ed="#B" n="29"/>quia si hoc probetur, perinde est ac si ostenderetur
+   immedi<lb ed="#B" n="30" break="no"/>ate quod Christus in pane fermentato consecrauerit: 
+   <lb ed="#B" n="31"/>quia in illa luna ludaei vtebantur panibus fermen 
+   <lb ed="#B" n="32"/>tatis. sed vt dicitur in probatione conclusionis:
+   Chri<lb ed="#B" n="33" break="no"/>stus consecrauit in tali pane qualem in domibus 
+   <lb ed="#B" n="34"/>ludaeorum repperit. in. xiii. autem luna solum fermentatum 
+   <lb ed="#B" n="35"/>repperit in domibus ludaeorum. Restat solum
+   proba<lb ed="#B" n="36" break="no"/>re. xiii. luna ipsum comedisse agnum paschalem, quod 
+   <lb ed="#B" n="37"/>sic probatur. ludaei. xiiii. luna mensis primi
+   debeban<lb ed="#B" n="38" break="no"/>comedere agnum paschalem: vt patet Exodi. xii. 
+   <lb ed="#B" n="39"/>&amp; Leuitici. xxiii. vbi sic scribitur. Mense primo 
+   <lb ed="#B" n="40"/>quartadecima die mensis ad vesperum phase damin 
+   <lb ed="#B" n="41"/>est: &amp; quintadecima die mensis huius, solennita: 
+   <lb ed="#B" n="42"/>azimorum domini est. Septem diebus axima comede 
+   <lb ed="#B" n="43"/>tis. Dies primus erit vobis celeberrimus: sanctus 
+   <lb ed="#B" n="44"/>quod. Idem habetur Numerorum. xxviii. ludei ergo 
+   <lb ed="#B" n="45"/>xiiii. luna mensis primi ad vesperam comedere ha 
+   <lb ed="#B" n="46"/>bebant agnum paschalem: sed illo die Christus passus 
+   <lb ed="#B" n="47"/>est mortem, quod probatur: quia Ioannis. xviii. scribitur. Et 
+   <lb ed="#B" n="48"/>ipsi non introierunt in praetorium vt non contaminarentur: 
+   <lb ed="#B" n="49"/>sed vt manducarent pascha. ergo illo die debebant 
+   <lb ed="#B" n="50"/>agnum paschalem comedere quo Christus est cru 
+   <lb ed="#B" n="51"/>cifixus. sed ipsi debebant ex lege agnum paschalem 
+   <lb ed="#B" n="52"/>xiiii. luna ad vesperam comedere: ergo quartadeci 
+   <lb ed="#B" n="53"/>ma luna Christus passus est. sed ante comedii 
+   <lb ed="#B" n="54"/>agnum paschalem: ergo. xiii. luna mensis primi vel 
+   <!--0177.xml-->
+   <cb ed="#B" n="b"/> 
+       <!-- 73-r b -->
+       <lb ed="#B" n="55"/>die praecedente comedit agnum paschalem, quod restabat 
+   <lb ed="#B" n="56"/>probandum.
+  </p>
+      <p xml:id="jMqv4a-d1e386-d1e462">
+   ⁋ Respondetur. haec obiectio soluitur 
+   <lb ed="#B" n="57"/>per aequiuocationem termini pascha. gl. margi. 
+   <lb ed="#B" n="58"/>Matthaei. xxvi. sic dicit. Pascha proprie solus dies 
+   <lb ed="#B" n="59"/>dicitur quo agnus ad vesperam occidebatur. id est. xiiii. 
+   <lb ed="#B" n="60"/>luna primi mensis. Sed indifferenter in scriptura pa 
+   <lb ed="#B" n="61"/>scha pro diebus aximorum accipitur: &amp; dies aximorum 
+   <lb ed="#B" n="62"/>pro pascha: vt patet Lucae. ax. Appropinquabat. 
+   <lb ed="#B" n="63"/>dies festus azximorum qui dicitur pascha. Ioannes autem 
+   <lb ed="#B" n="64"/>loquebatur de panibus azximis. ipsi enim non
+   introie<lb ed="#B" n="65" break="no"/>runt in praetorium hominis gentilis ne contaminarentur: 
+   <lb ed="#B" n="66"/>hoc est ne peccarent: sed vt manducarent pascha: 
+   <lb ed="#B" n="67"/>hoc est panes azimos solitos tunc comedi secundum 
+   <lb ed="#B" n="68"/>legem. Vel vt aliqui dicunt non improbabiliter:
+   su<lb ed="#B" n="69" break="no"/>periores erant intenti circa mortem Christi: et
+   ad<lb ed="#B" n="70" break="no"/>huc non comederant agnum paschalem: sed tempus de 
+   <lb ed="#B" n="71"/>bitum secundum legem relinquambant, existimantes se excusa 
+   <lb ed="#B" n="72"/>tos praetermittere vnam noctem occasione habita pro 
+   <lb ed="#B" n="73"/>occidendo Christo: intendentes in. xv. luna
+   come<lb ed="#B" n="74" break="no"/>dere agnum paschalem. &amp; secundum hoc argumentum 
+   <lb ed="#B" n="75"/>sine aequiuocatione soluitur.
+  </p>
+      <p xml:id="jMqv4a-d1e386-d1e506">
+   ⁋ Sed contra illud  
+   <lb ed="#B" n="76"/>arguitur. dies. xv. erat celebris, vt patet ex dictis: 
+   <lb ed="#B" n="77"/>&amp; ludaei timebant schisma populi: cuius magna 
+   <lb ed="#B" n="78"/>pars existimabat Christum Messiam in lege pro 
+   <lb ed="#B" n="79"/>missum. propterea enim pontifex, scribae, &amp;
+   phari<lb ed="#B" n="80" break="no"/>saei: prout scribitur Matthaei. xxvi. dicebant. Non  
+   <lb ed="#B" n="81"/>supple occidatur) in die festo: ne forte tumultus 
+   <lb ed="#B" n="82"/>fieret in populo. ergo non occiderunt eum in festo: 
+   <lb ed="#B" n="83"/>sed festum praeuenerunt.
+  </p>
+      <p xml:id="jMqv4a-d1e386-d1e526">
+   ⁋ Respondetur. hoc primo 
+   <lb ed="#B" n="84"/>statuerunt: vt non raperetur ab eis populo eum defen 
+   <lb ed="#B" n="85"/>dente: sed oblata occasione a luda traditore ipsum  
+   <lb ed="#B" n="86"/>vendente mutarunt consilium: quando viderunt se pos 
+   <lb ed="#B" n="87"/>se eum comprehendere furtim &amp; occulte in nocte: quod 
+   <lb ed="#B" n="88"/>&amp; fecerunt: vt dicit Chrysostomus in Homiliis, &amp; 
+   <lb ed="#B" n="89"/>Leo papa in sermone paschali 
+  </p>
+      <p xml:id="jMqv4a-d1e386-d1e542">
+       <lb ed="#B" n="90"/>⁋ Secundo arguitur sic. xv. luna erat 
+   <lb ed="#B" n="91"/>celebre festum in lege vt dictum est: &amp; tunc non
+   li<lb ed="#B" n="92" break="no"/>cuit operari: cuius oppositum fecerunt ludaei
+   Chri<lb ed="#B" n="93" break="no"/>stum condemnantes.
+  </p>
+      <p xml:id="jMqv4a-d1e386-d1e553">
+   ⁋ Sed dicis &amp; bene. ludaei
+   ra<lb ed="#B" n="94" break="no"/>bidi non curarunt diem festum infringere: cum innocen 
+   <lb ed="#B" n="95"/>tem inique studuerint ad mortem damnare:
+   haben<lb ed="#B" n="96" break="no"/>tes sophisticas pro se defensiones: vt liceret sibi per 
+   <lb ed="#B" n="97"/>uersorem &amp; destructorem legis etiam in festo de
+   me<lb ed="#B" n="98" break="no"/>dio tollere. Contra. sanctae mulieres tunc
+   operaban<lb ed="#B" n="99" break="no"/>tur. Nam Lucae. xxiii. scribitur quod sanctae mulieres 
+   <lb ed="#B" n="100"/>viso monumento in quo positu fuit corpus
+   do<lb ed="#B" n="101" break="no"/>mini, reuertentes parauerunt aromata &amp; vnguenta. 
+   <lb ed="#B" n="102"/>modo non licuit operari in die festo. Respondetur.
+   Li<lb ed="#B" n="103" break="no"/>cuit illo die opera spiritualia facere: quae fecerunt bonae 
+   <lb ed="#B" n="104"/>mulieres non obstante festo. Sabbatu tamen hebdoma 
+   <lb ed="#B" n="105"/>dale erat maius festum &amp; celebrius: quam. xv. luna: &amp; 
+   <lb ed="#B" n="106"/>xxi. luna: qui erant dies celeberrimi inter illos. pro 
+   <lb ed="#B" n="107"/>pterea ab opere in sabbato quieuerunt mulieres: in  
+   <lb ed="#B" n="108"/>sabbato enim non licebat praeparare cibum, nec ire vltra 
+   <!--0178.xml-->
+   <pb ed="#B" n="73-v"/>
+       <cb ed="#B" n="a"/>
+       <lb ed="#B" n="1"/>mille passus. secus in aliis diebus festis. &amp; prima fe 
+   <lb ed="#B" n="2"/>ria iterato praeparationi vnguenti se accommodante 
+   <lb ed="#B" n="3"/>iudicabant licet erronee non satis vnguenti fuisse 
+   <lb ed="#B" n="4"/>praeparatum. 
+  </p>
+      <p xml:id="jMqv4a-d1e386-d1e603">
+       <lb ed="#B" n="5"/>⁋ Tertio arguitur. Ioannis. xix.
+   scri<lb ed="#B" n="6" break="no"/>bitur. ludaei ergo quoniam parasceue erat: vt non
+   rema<lb ed="#B" n="7" break="no"/>nerent in cruce corpora sabbato: erat enim magnus 
+   <lb ed="#B" n="8"/>dies ille sabbati. &amp;c. Ex hac auctoritate sequitur quod 
+   <lb ed="#B" n="9"/>Christus passus est. xiiii. luna: quia tunc erat
+   parasce<lb ed="#B" n="10" break="no"/>ue. i praeparatio pro comedendo agno paschali.
+  </p>
+      <p xml:id="jMqv4a-d1e386-d1e620">
+   ⁋ Et 
+   <lb ed="#B" n="11"/>confirmatur haec ratio per illud quod scribitur Ioannis. xiii. 
+   <lb ed="#B" n="12"/>Ante diem festum paschae sciens Iesus quia venit hora 
+   <lb ed="#B" n="13"/>eius &amp;c. Ergo coena vltima facta est ante festum 
+   <lb ed="#B" n="14"/>paschae. sed pascha est. xiiii. luna. igitur.
+  </p>
+      <p xml:id="jMqv4a-d1e386-d1e631">
+   ⁋ Ad
+   pri<lb ed="#B" n="15" break="no"/>mun respondetur: quod parasceue illic est dies veneriss 
+   <lb ed="#B" n="16"/>vt dicit glo. margi. <name xml:id="jMqv4a-d1e386-Nd1e637" ref="#Augustine">Augustinus</name> sic dicentis. Parasceue 
+   <lb ed="#B" n="17"/>praeparatio interprtatur. sexta feria praeparabantur
+   neces<lb ed="#B" n="18" break="no"/>saria pro sabbato: qua die praecepit Moyses duplum 
+   <lb ed="#B" n="19"/>colligere manna propter sabbatum. Idem habet glos. 
+   <lb ed="#B" n="20"/>marginalis Bedae, Marci. xv. super illud. Et cum iam 
+   <lb ed="#B" n="21"/>sero esset factum: quia erat parasceue quid est ante sab 
+   <lb ed="#B" n="22"/>batum &amp;c.
+  </p>
+      <p xml:id="jMqv4a-d1e386-d1e654">
+   ⁋ Secunda etiam auctoritas non mouet: 
+   <lb ed="#B" n="23"/>quia nihil aliud illic dicitur quam quod Iesus sciebat an 
+   <lb ed="#B" n="24"/>te pascha tempus suum aduenisse. &amp; hoc est verum 
+   <lb ed="#B" n="25"/>quia erat iam in foribus. 
+  </p>
+      <p xml:id="jMqv4a-d1e386-d1e663">
+       <lb ed="#B" n="26"/>⁋ Quarto arguitur. Ioannis. xix. in 
+   <lb ed="#B" n="27"/>auctoritate iam allegata scribitur. Frat. n. magnus &amp;c 
+   <lb ed="#B" n="28"/>ergo sabbatum erat in quitadecima luna: &amp; sic eran 
+   <lb ed="#B" n="29"/>duo magna festa &amp; celebria eodem die incidentia 
+   <lb ed="#B" n="30"/>ergo. xiiii. luna passus est. Nostri hic passim respe 
+   <lb ed="#B" n="31"/>dent, vt videre est in Magistro historiarum, in histo 
+   <lb ed="#B" n="32"/>ria euangelica. c. cxlix. Frat magnus dies sabbati 
+   <lb ed="#B" n="33"/>quia incidit sabbatum in vno illorum dierum scilicet sexto 
+   <lb ed="#B" n="34"/>decimo die qui dies erat festus: non tamen ita magnus 
+   <lb ed="#B" n="35"/>vt. xv. Hoc Altisiodorus &amp; alii insequuntur, quid autem 
+   <lb ed="#B" n="36"/>veri hoc habeat: paulo post examinabimus. 
+  </p>
+      <p xml:id="jMqv4a-d1e386-d1e689">
+       <lb ed="#B" n="37"/>⁋ Quinto arguitur. veritas debet
+   re<lb ed="#B" n="38" break="no"/>spondere vmbrae: sed agnus typicus fuit comestus 
+   <lb ed="#B" n="39"/>xiiii. luna mensis primi: qui erat figura Christi veri 
+   <lb ed="#B" n="40"/>agni morituri: ergo eodem tempore debebat pati: ergo 
+   <lb ed="#B" n="41"/>passus est in. xa. luna mensis primi.
+  </p>
+      <p xml:id="jMqv4a-d1e386-d1e702">
+   ⁋ Respondetur conce di 
+   <lb ed="#B" n="42"/>do maiorem cum minore. sicut enim verus agnus typicu: 
+   <lb ed="#B" n="43"/>erat tali hora &amp; tempore comestus: sic corpus Christi 
+   <lb ed="#B" n="44"/>primo a se &amp; discipulis comestum est. Secundo dicitur: 
+   <lb ed="#B" n="45"/>quod etiam tunc inchoata est post coenam passio eius per 
+   <lb ed="#B" n="46"/>sanguineum sudorem: vt scribitur Lucae. xxii. &amp; nocte 
+   <lb ed="#B" n="47"/>illa fuit captus &amp; ligatus. 
+  </p>
+      <p xml:id="jMqv4a-d1e386-d1e719">
+       <lb ed="#B" n="48"/>⁋ Sexto arguitur. Leuitici. xxiii. scri 
+   <lb ed="#B" n="49"/>bitur. Avespera ad vesperam celebrabitis sabbata 
+   <lb ed="#B" n="50"/>vertla. &amp; de festo paschae hoc expresse habetur Exod 
+   <lb ed="#B" n="51"/>xii. Primo mense quaertadecima die mensis ad vespe 
+   <lb ed="#B" n="52"/>ram commedetis azxima vsque ad diem vicesimamprima 
+   <lb ed="#B" n="53"/>eiusdem mensis ad vespera. Hoc supposito arguitur 
+   <!--0178.xml-->
+   <cb ed="#B" n="b"/> 
+       <!-- 73-v b -->
+       <lb ed="#B" n="54"/>sic. Si. xiiii. luna quae erat pascha habuit initium in die 
+   <lb ed="#B" n="55"/>louis in occasu solis: Christus passus est. xiiii. lu 
+   <lb ed="#B" n="56"/>na: quae durauit toto die veneris scilicet sexta feria quo  
+   <lb ed="#B" n="57"/>usque sol petiuit occasum. ergo Christus passus est 
+   <lb ed="#B" n="58"/>xiiii. luna mensis primi realiter: &amp; ante comedit 
+   <lb ed="#B" n="59"/>agnum paschalem: forte ante occasum solis quintae 
+   <lb ed="#B" n="60"/>feriae. &amp; tunc erat. xiii. luna mensis primi. Si dicas, 
+   <lb ed="#B" n="61"/>vespera diei louis erat vltima pars. xiiii. lunae.
+   Con<lb ed="#B" n="62" break="no"/>tra. secundum hoc oportet dicere. xiiii. lunam
+   habuis<lb ed="#B" n="63" break="no"/>se initium in quarta feria: hoc est in die mercurii in
+   se<lb ed="#B" n="64" break="no"/>cundis vesperis: &amp; sic erit vero simile quod
+   Chri<lb ed="#B" n="65" break="no"/>stus comedit post occasum solis, &amp;. xv. luna men 
+   <lb ed="#B" n="66"/>sis primi: &amp; per consequens non seruasset legalia ad  
+   <lb ed="#B" n="67"/>mortem vsque, cotra dicta. &amp; vlterius sequitur quod
+   ludaei<lb ed="#B" n="68" break="no"/>omnes comedissent in. xv. luna: &amp; sic pereceptu
+   publi<lb ed="#B" n="69" break="no"/>ce dimisissent: quod non videtur dicendum. hoc probatur etiam 
+   <lb ed="#B" n="70"/>per acta bonarum mulierum.
+  </p>
+      <p xml:id="jMqv4a-d1e386-d1e778">
+   ⁋ Respondetur. hoc argu 
+   <lb ed="#B" n="71"/>mentum nonnihil scrupuli hincinde affert. dicam ad  
+   <lb ed="#B" n="72"/>ipsum secundum varias imaginationes occurrentes. Primo 
+   <lb ed="#B" n="73"/>xiiii. luna habuit initium in die louis in vltimis
+   ve<lb ed="#B" n="74" break="no"/>speris: &amp; durauit ad diem veneris artificialem totum com 
+   <lb ed="#B" n="75"/>pletum: &amp; per consequens concedo tamquam corollarie sequans  
+   <lb ed="#B" n="76"/>quod Christus realiter passus est. xiiii. luna mensis pri 
+   <lb ed="#B" n="77"/>mi: &amp; sabbatum illud erat celebre festum vt dicunt 
+   <lb ed="#B" n="78"/>Graeci: &amp; magnus dies sabbati vt dicit Ioannes. quia 
+   <lb ed="#B" n="79"/>in. xv. luna in qua celebre festum illorum dierum erat, 
+   <lb ed="#B" n="80"/>incidit dies sabbati: quod habuit initium in vesperis 
+   <lb ed="#B" n="81"/>sextae feriae. &amp; sic concedo quod Christus. xiiii. luna 
+   <lb ed="#B" n="82"/>passus est: sed nego quod agnu paschalem ante. xiiii. 
+   <lb ed="#B" n="83"/>lunam comederit: quod Gaeci contendunt. &amp; negationis 
+   <lb ed="#B" n="84"/>ratio est: quia in. xiiii. luna secundum legem agnus
+   typi<lb ed="#B" n="85" break="no"/>cus erat comedendus. Christus autem nullo modo prae 
+   <lb ed="#B" n="86"/>uenit horam comedendi Hebraeorum: &amp; forte erat sole 
+   <lb ed="#B" n="87"/>petente occasum: illud enim magis quadrat cum
+   lite<lb ed="#B" n="88" break="no"/>ra veteris testamenti.
+  </p>
+      <p xml:id="jMqv4a-d1e386-d1e820">
+   ⁋ Secundo super illo verbo. 
+   <lb ed="#B" n="89"/>Immolabitque eum vniuersa multitudo filiorum Isra 
+   <lb ed="#B" n="90"/>el ad vespera. Exodi. xii. recitat <name xml:id="jMqv4a-d1e386-Nd1e826">Nicolaus
+   Lyra<lb ed="#B" n="91" break="no"/>nus</name> secundum doctores Hebraeos: quod vespera hic incepit 
+   <lb ed="#B" n="92"/>hora septima. xiiii. diei: quia ex eo tempore sol incepit 
+   <lb ed="#B" n="93"/>tendere ad occasum: &amp; ab illa hora vsque ad princi 
+   <lb ed="#B" n="94"/>pium noctis potest immolari phase secundum eos. Et ex 
+   <lb ed="#B" n="95"/>Hebraeis recitat <ref xml:id="jMqv4a-d1e386-Rd1e840">
+        <name xml:id="jMqv4a-d1e386-Nd1e842">Nicolaus</name> in eodem ca.</ref> super illa propo 
+   <lb ed="#B" n="96"/>sitione: In die primo non erit fermentum in domibus 
+   <lb ed="#B" n="97"/>vestris. Ab hora septima diei. xiiii. debebat amo 
+   <lb ed="#B" n="98"/>ueri omne fermentatum de domibus Hebraeorum: quia extunc 
+   <lb ed="#B" n="99"/>poterat immolari agnus: licet tunc non esset. xiiii. luna 
+   <lb ed="#B" n="100"/>secundum legem: nec septima hora illius diei, legaliter 
+   <lb ed="#B" n="101"/>supputando. Et illud probari potest. Exodi. xxiii. vbi 
+   <lb ed="#B" n="102"/>scribitur. Non immolabis super fermento sanguinem victi 
+   <lb ed="#B" n="103"/>mae meae. hoc est. noli immolare agnum paschalem de 
+   <lb ed="#B" n="104"/>cuius sanguine debent liniri postes ostii, donec fer 
+   <lb ed="#B" n="105"/>mentum fuerit amotum. Licet videam Nicolaum de his 
+   <lb ed="#B" n="106"/>horis non bene sentire: vero simile tamen est quod istud
+   le<lb ed="#B" n="107" break="no"/>git. Quare addo quod oportet supputare horas ab 
+   <lb ed="#B" n="108"/>gitu solis: more Hebraeorum. ac si Hebraei dicere ve 
+   <!--0179.xml-->
+   <pb ed="#B" n="74-r"/>
+       <cb ed="#B" n="a"/>
+       <lb ed="#B" n="1"/>lint quod hora prima pomeridiana cum sol iam incipit 
+   <lb ed="#B" n="2"/>notabiliter descendere: inchoabatur festum paschae 
+   <lb ed="#B" n="3"/>Et tunc consequinter dicere oportet quod Christus come 
+   <lb ed="#B" n="4"/>dit agnum paschalem. xiiii. luna: quae habuit initium hora 
+   <lb ed="#B" n="5"/>septima more Hebraeorum supputando: quae est hora 
+   <lb ed="#B" n="6"/>nostra prima pomeridiana: &amp; luna quaertadecima fi 
+   <lb ed="#B" n="7"/>niebatur hora prima pomeridiana in die veneris: &amp; 
+   <lb ed="#B" n="8"/>non mortuus est ante horam nonam: hoc est tertiam po 
+   <lb ed="#B" n="9"/>meridianam. nam mortuus est. xv. luna, vt Magister 
+   <lb ed="#B" n="10"/>historiarum dicit. Et glossa margina. Lucae. xxii. di 
+   <lb ed="#B" n="11"/>cit super illo versiculo. Venitant dies aximorum. Nec 
+   <lb ed="#B" n="12"/>miteris super hac hora prima. Numquid nos
+   celebra<lb ed="#B" n="13" break="no"/>mus festa nunc a vespera ad vesperam: non habentes 
+   <lb ed="#B" n="14"/>oculum ad occasum solis: sed ad tempus quo ecclesia 
+   <lb ed="#B" n="15"/>vespertinum officium cantat? Sed adhuc cum hoc modo 
+   <lb ed="#B" n="16"/>dicendi concedendum est more Graecanico, quod dies ille 
+   <lb ed="#B" n="17"/>magnus sabbati incidit. xv. luna. Siue autem dicat 
+   <lb ed="#B" n="18"/>hoc modo siue illo: Christus non consecrauit in pane 
+   <lb ed="#B" n="19"/>fermentato post horam primam, &amp; postes domus sar 
+   <lb ed="#B" n="20"/>guine agni delinitos. Potest etiam non inconvenienter dic 
+   <lb ed="#B" n="21"/>quod in die louis vesperi iam erant. ii. vesperae. xiiii. lunae. 
+   <lb ed="#B" n="22"/>&amp; quaertadecima luna initium habuit in quarta feria vel 
+   <lb ed="#B" n="23"/>speri: &amp; Christus agnum comedit in fine illarum
+   vespe<lb ed="#B" n="24" break="no"/>rarum ante. xv. lunam more Hebraeorum seruantium illud  
+   <lb ed="#B" n="25"/>festum: &amp;. sic passus est. xv. luna: qui magnus dies sab 
+   <lb ed="#B" n="26"/>bati erat propter duo festa: vee propter sabbatum quod 
+   <lb ed="#B" n="27"/>cecidit in. xvi. luna: quae erat festum non celebre vt. xv. 
+   <lb ed="#B" n="28"/>luna. Cum illo enim seruatur quod Christus fecit coenam in 
+   <lb ed="#B" n="29"/>aximo &amp; non fermentato, quo istarum vesparum agnum 
+   <lb ed="#B" n="30"/>comederunt. Necessarium aut est alterum. Et vtrolibet 
+   <lb ed="#B" n="31"/>dato: semper Christus consecrauit in aximo.
+  </p>
+      <p xml:id="jMqv4a-d1e386-d1e949">
+   ⁋ Sed 
+   <lb ed="#B" n="32"/>ne argumentum in vmbra praeteream: colligam protinus quae ad 
+   <lb ed="#B" n="33"/>hoc argumentum dixi tam ad nomen quam ad rem in quibus 
+   <lb ed="#B" n="34"/>ab aliis discrepo. In primis dico quod Christus non 
+   <lb ed="#B" n="35"/>comedit agnum paschalem ante prima horam pomeri 
+   <lb ed="#B" n="36"/>dianam: hoc est ante septimam horam post ortum solis 
+   <lb ed="#B" n="37"/>tunc enim Hebraei consuetudinem habebant. xiiii. lunam in  
+   <lb ed="#B" n="38"/>choandi. vel expectauit Christus ad occasum
+   so<lb ed="#B" n="39" break="no"/>lis antequam agnum paschalem comedit: quod est mihi proba 
+   <lb ed="#B" n="40"/>bilius. ratio est: quia licet poterat aliorum more tuc
+   in<lb ed="#B" n="41" break="no"/>cipere agnum paschalem comedere: non tamen erat necesse: 
+   <lb ed="#B" n="42"/>sed qui volebat differre comestionem: poterat ad
+   tem<lb ed="#B" n="43" break="no"/>pus. sicut nunc est de nostro ieiunio quidragesimali 
+   <lb ed="#B" n="44"/>non enim praeuenimus notabiliter. xii. hora: possumus tamen 
+   <lb ed="#B" n="45"/>post illam differre comestionem. sic hic: ad aliquod tame 
+   <lb ed="#B" n="46"/>determinatum tempus. Modo Christus in media coena 
+   <lb ed="#B" n="47"/>suum mysterium celebrauit: &amp; in fine statin exiuit in hor 
+   <lb ed="#B" n="48"/>tum: dans ludaeis occasionem vt clanculum caperetur. Et 
+   <lb ed="#B" n="49"/>siue hoc fecerit siue illud: non erat panis fermentatus 
+   <lb ed="#B" n="50"/>inter ludaeos: &amp; per consequens in aximo consecrauit 
+   <lb ed="#B" n="51"/>quod est principale inter Graecos &amp; Latinos discrimen. 
+   <lb ed="#B" n="52"/>Forte etiam ab occasu solis supputarunt festa: &amp; sic 
+   <lb ed="#B" n="53"/>consequnter loquendo passus est. xiiii. luna mensis
+   pri<lb ed="#B" n="54" break="no"/>mi. Nec video glossas vel Magistrum historiarum re 
+   <lb ed="#B" n="55"/>cipiendum nisi quis voluerit. sed tenendo quod inceperunt 
+   <!--0179.xml-->
+   <cb ed="#B" n="b"/> 
+       <!-- 74-r b -->
+       <lb ed="#B" n="56"/>supputare festa ab hora septima: passus est mortem 
+   <lb ed="#B" n="57"/>xv. luna / &amp; agnum paschalem comedit luna. xiiii. sed 
+   <lb ed="#B" n="58"/>&amp;x v. luna currebat cum magna parte sabbati: &amp; per
+   con<lb ed="#B" n="59" break="no"/>sequens duo magna festa simul concurrebant. &amp; illud 
+   <lb ed="#B" n="60"/>optime congruit literae Ioannis. xix. de magno die 
+   <lb ed="#B" n="61"/>sabbati. Potes etiam dicere quod in die louis vesperi 
+   <lb ed="#B" n="62"/>terminabatur. xiiii. luna: &amp; tuc consequinter dicas. sed  
+   <lb ed="#B" n="63"/>qualitercumque dixeris / in die veneris passus est: &amp; die 
+   <lb ed="#B" n="64"/>louis vesperi agnum typicum comedit. Vlterius dici 
+   <lb ed="#B" n="65"/>potest quod interdum Hebraei in modo computandi diem artificialem 
+   <lb ed="#B" n="66"/>nocti praeposuerunt: sic enim semper fecerunt antequam egres 
+   <lb ed="#B" n="67"/>si sunt Aegyptum. Sed cum Aegyptum in magnis dei 
+   <lb ed="#B" n="68"/>portentis egressi sunt: in illd memoriale voluit deus 
+   <lb ed="#B" n="69"/>quod Aegyptiorum more phase celebrarent a vespera 
+   <lb ed="#B" n="70"/>ad vesperam quia ita Aegyptii supputant: vt dicit 
+   <lb ed="#B" n="71"/>venerabilis Beda capite. v. de temporibus: &amp; consequnter 
+   <lb ed="#B" n="72"/>festa a pascha dependentia. manserunt tamen aliqua alia 
+   <lb ed="#B" n="73"/>festa &amp; operationes notabiles in honore: supputando 
+   <lb ed="#B" n="74"/>ab ortu solis ad ortum eius alterum. quo mo vsi sunt 
+   <lb ed="#B" n="75"/>euangelistae numerando horas tempore passionis: loquem 
+   <lb ed="#B" n="76"/>do vt plures cum aliis Hebraeis: quemadmodum nunc i 
+   <lb ed="#B" n="77"/>plerisque locis seruamus aliquam festa. sic apud aliquos 
+   <lb ed="#B" n="78"/>totus dies veneris quo Christus passus est incipien 
+   <lb ed="#B" n="79"/>do ab ortu solis poterat vocari. xv. luna. &amp; per idem 
+   <lb ed="#B" n="80"/>cum comestio agni paschalis inciderit ante noctem: 
+   <lb ed="#B" n="81"/>aliqui vocare poterant. xiiii. lunam ad finem illius noctis 
+   <lb ed="#B" n="82"/>vsque. sed de hoc modo loquendi non multum refert. secundum 
+   <lb ed="#B" n="83"/>modum supputandi sacrae scripturae potest dici quod Chri 
+   <lb ed="#B" n="84"/>stus mortuus est. xv. luna: &amp; post primam horam
+   po<lb ed="#B" n="85" break="no"/>meridianam diei veneris. Si vero erat Hebraeorum con 
+   <lb ed="#B" n="86"/>suetudo in celebratione paschae expectare ad occa 
+   <lb ed="#B" n="87"/>sum solis: quod ab Hebraeis nunc rntum illum (licet supersti 
+   <lb ed="#B" n="88"/>tiose) colentibus potest sciri: tunc consequinter dicendum e quod 
+   <lb ed="#B" n="89"/>Christus passus est in. xiiii. luna mensis primi: &amp; in eo 
+   <lb ed="#B" n="90"/>dem die agnum paschalem comedit. Sed qualitercumque 
+   <lb ed="#B" n="91"/>dicatur: non erat panis fermentatus in aliqua
+   do<lb ed="#B" n="92" break="no"/>mo. Relinquitur ergo quod in azximo Christus conse 
+   <lb ed="#B" n="93"/>crauit, quod restabat ostedendum. de illo enim praecise
+   in<lb ed="#B" n="94" break="no"/>ter nos &amp; Graecos contenditur. 
+  </p>
+      <p xml:id="jMqv4a-d1e386-d1e1095">
+       <lb ed="#B" n="95"/>⁋ Septimo arguitur. a die paschae 
+   <lb ed="#B" n="96"/>Hebraei numerabant septem hebdomadas plenas: &amp; 
+   <lb ed="#B" n="97"/>statim post illas erat festum pentecostes in memoriam 
+   <lb ed="#B" n="98"/>datae legis: vt patet Leuitici. xxiii. sed dies festus 
+   <lb ed="#B" n="99"/>paschae fuit in sexta feria: &amp; quia ad septem hebdoma 
+   <lb ed="#B" n="100"/>das sequentes debebat pentecoste celebrari:
+   debe<lb ed="#B" n="101" break="no"/>bat ee in sexta feria: quod est falsum.
+  </p>
+      <p xml:id="jMqv4a-d1e386-d1e1113">
+   ⁋ Respondetur.
+   He<lb ed="#B" n="102" break="no"/>braei non debebant supputare a primo illorum festorum, 
+   <lb ed="#B" n="103"/>sed a die sabbati qui in illa solemnitate incidebat: vt pta 
+   <lb ed="#B" n="104"/>Leuitici. xxiii. Nuerabitis ergo ab altero die sab 
+   <lb ed="#B" n="105"/>bati in quo obtulistis manipulum primitiarum, septem 
+   <lb ed="#B" n="106"/>hebdomadas plenas. ab altero die. hoc est a
+   crasti<lb ed="#B" n="107" break="no"/>no paschae: hoc est a. xvi. die inclusiue. Septem autem 
+   <lb ed="#B" n="108"/>hebdomadae plenae faciunt. xlix. dies. &amp; in die sequanti 
+   <lb ed="#B" n="109"/>debebat esse pentecoste, nos autem a nostro pascha 
+   <!--0180.xml-->
+   <pb ed="#B" n="74-v"/>
+       <cb ed="#B" n="a"/>
+       <lb ed="#B" n="1"/>numeramus quando Christus surrexit, septem
+   he<lb ed="#B" n="2" break="no"/>bdomadas plenas / vt glos. marg. Actuum. ii. dicit. 
+  </p>
+      <p xml:id="jMqv4a-d1e386-d1e1145">
+       <lb ed="#B" n="3"/>⁋ Ecce quomodo Christus in pane aximo suum
+   cor<lb ed="#B" n="4" break="no"/>pus consecrauit, &amp; quod pater Aidam non peccauit cele 
+   <lb ed="#B" n="5"/>prando more patrio pro illo tpore: quia ecclesia in multis 
+   <lb ed="#B" n="6"/>locis tunc plantari solum incepit. &amp; propterea ipse pater 
+   <lb ed="#B" n="7"/>Aidan cum duobus aliis sequentibus episois nostratibus 
+   <lb ed="#B" n="8"/>fuit a rege Anglorum vocatus, vt religionem Christi 
+   <lb ed="#B" n="9"/>anam Anglos doceret: prout vicinus noster vene 
+   <lb ed="#B" n="10"/>rabilis Beda recitat. patres enim inuincibiliter
+   ad<lb ed="#B" n="11" break="no"/>huc ignorabant traditiones ecclesiasticas. Amplius 
+   <lb ed="#B" n="12"/>patuit Graecos errare putantes Christum in fermenta 
+   <lb ed="#B" n="13"/>to consecrasse. reuera tamen consecrant in fermentato: &amp; si 
+   <lb ed="#B" n="14"/>ecclesia eos sineret sic consecrare, non peccarent: quia 
+   <lb ed="#B" n="15"/>est positiuum humanum: quod ecclesia potest admittere 
+   <lb ed="#B" n="16"/>vel tollere. Si vero teneant esse de necessitate
+   salu<lb ed="#B" n="17" break="no"/>tis: &amp; esse de iure diuino consecrare in fermentato: 
+   <lb ed="#B" n="18"/>haeresim tenent: &amp; si cum pertinacia, haeretici sunt. Am 
+   <lb ed="#B" n="19"/>plius patuit omnes euangelistas convenire de pane axi 
+   <lb ed="#B" n="20"/>mo: sicut in omnibus aliis eodem spiritu loquuti sunt:  
+   <lb ed="#B" n="21"/>&amp; in eorum ore deus loquutus est. ergo vesania
+   extre<lb ed="#B" n="22" break="no"/>ma est hoc audere dicere de tribus primis
+   euangeli<lb ed="#B" n="23" break="no"/>stis. Caeterum non est mirandum quod Graecos deus
+   permit<lb ed="#B" n="24" break="no"/>tat pro delictis publicis patenter torqueri quousque 
+   <lb ed="#B" n="25"/>ad cor redeant. Sexti argumenti quod plus ponderis
+   cae<lb ed="#B" n="26" break="no"/>teris afferre prima facie videtur: epilogationem in fine 
+   <lb ed="#B" n="27"/>ipsius ex industria posui. Et quia adhuc Paulus 
+   <lb ed="#B" n="28"/>Burgensis tenet alium modum in additione. Matthaei 
+   <lb ed="#B" n="29"/>xxvi. illum paucis recensere libebit speculando quid in  
+   <lb ed="#B" n="30"/>ipso veritatis contineatur.
+  </p>
+    </div>
+   </body>
+  </text>
+</TEI>

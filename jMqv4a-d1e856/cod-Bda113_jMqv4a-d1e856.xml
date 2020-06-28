@@ -1,0 +1,572 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 45</title>
+      <author ref="#JohnMair">John Mair</author>
+      <respStmt>
+       <name>Jeffrey C. Witt</name>
+       <resp>TEI Encoder</resp>
+      </respStmt>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 45</title>
+       <date when="2020-06-09">June 27, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="B" n="cod-Bda113">Badius 1516</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+     guidelines for a diplomatic edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-06-27" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+      <pb ed="#B" n="160-v"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="jMqv4a-d1e856"> <!-- l4d15q45 -->
+      <head xml:id="jMqv4a-d1e856-Hd1e104">Quaestio 45</head>
+      <head xml:id="jMqv4a-d1e856-Hd1e107" type="question-title">Utrum contractus locationis et conductionis sint liciti</head>
+      <p xml:id="jMqv4a-d1e856-d1e110">
+       <lb ed="#B" n="45"/>Eliquum est aliquos 
+   <lb ed="#B" n="46"/>lalios contractus quibus
+   ho<lb ed="#B" n="47" break="no"/>mines vtuntur,
+   compendio<lb ed="#B" n="48" break="no"/>se absoluere. Quaero itaque 
+   <lb ed="#B" n="49"/>Vtrum contractus locationis 
+   <lb ed="#B" n="50"/>&amp; conductionis sint liciti 
+   <lb ed="#B" n="51"/>a quae est quinta supra qua 
+   <!--0352.xml-->
+   <cb ed="#B" n="b"/> 
+       <!-- 160-v b -->
+       <lb ed="#B" n="52"/>dragesimam huius distinctionis quaestio. Pro solutio 
+   <lb ed="#B" n="53"/>ne quaistionis notabis: quod Locatio est contractus quo 
+   <lb ed="#B" n="54"/>iuis vsum alicuius rei sibi proprietate seruata in  
+   <lb ed="#B" n="55"/>alium transfert pro mercede. Conductio vero est
+   con<lb ed="#B" n="56" break="no"/>tractus quo quis pro mercede ab alio recipit vsum 
+   <lb ed="#B" n="57"/>&amp; non proprietatem. &amp; hic capio vsum, vt
+   vsumfru<lb ed="#B" n="58" break="no"/>ctum includat. Declaro exemplo. Sortes dominus ha 
+   <lb ed="#B" n="59"/>bens pagum vel agros, vtpote Glegornum:
+   conce<lb ed="#B" n="60" break="no"/>dit Platoni vsumfructum huius agri pro mercede 
+   <lb ed="#B" n="61"/>&amp; dicitur locator: &amp; Plato illius agri coductor dicitur 
+   <lb ed="#B" n="62"/>colonus. sicut domum conducens dicitur Inquilinus 
+   <lb ed="#B" n="63"/>in vtroque regno Britanniae. istud enim inter eos est 
+   <lb ed="#B" n="64"/>frequentissimum, &amp; merces apud eos vocatur fir
+   ma<lb ed="#B" n="65" break="no"/>vnde Innocentius Tertius cuidam abbati dioecesis 
+   <lb ed="#B" n="66"/>Londoniensis. de locato &amp; conducto ca. secundo
+   di<lb ed="#B" n="67" break="no"/>cit. Vestra nobis relatio declarat quod cum ad firmam 
+   <lb ed="#B" n="68"/>fructus vestrarum dare consueuaeritis decimarum. &amp; 
+   <lb ed="#B" n="69"/>nfra. vbi Panor. ait. Illud est vulgare
+   Anglorum<lb ed="#B" n="70" break="no"/>Proprietas manet apud dominum. per mercedem 
+   <lb ed="#B" n="71"/>distinguitur a commodatione: cuius vsus conceditur 
+   <lb ed="#B" n="72"/>gratis. Dicitur enim commodatum quasi vtentis commo 
+   <lb ed="#B" n="73"/>do datum. Ex quo patet quod messor vel quicumque
+   ope<lb ed="#B" n="74" break="no"/>ram suam pro mercedem alteri exhibet, dicit se locare. 
+   <lb ed="#B" n="75"/>quia sibiipsi retinet proprietatem sui: &amp; fructus suos 
+   <lb ed="#B" n="76"/>id est oneram conductori locat. Ex isto patet, quod si 
+   <lb ed="#B" n="77"/>Plato de quo loquuti sumus conducit Glegornum 
+   <lb ed="#B" n="78"/>a domino: &amp; ab eodem domino pro aliquo labore pecuniam 
+   <lb ed="#B" n="79"/>capiat: est etiam respectu illius laboris locator, &amp;
+   do<lb ed="#B" n="80" break="no"/>minus conductor. 
+  </p>
+      <p xml:id="jMqv4a-d1e856-d1e197">
+       <lb ed="#B" n="81"/>⁋ His duorum vocabulorum signi 
+   <lb ed="#B" n="82"/>ficantiis paucis explanatis, respondetur affirmati. 
+   <lb ed="#B" n="83"/>ue ad titulum quaestionis. Probatur conclusio affirma 
+   <lb ed="#B" n="84"/>tiua. venditio est licita: ergo &amp; locatio. tenet conse 
+   <lb ed="#B" n="85"/>quentia: quia locatio nihil aliud est quam venditio hu 
+   <lb ed="#B" n="86"/>ius rei: ita vt locans virtualiter vendat &amp;
+   transfe<lb ed="#B" n="87" break="no"/>rat vsum rei suae in alterum pro determinata pecunia. 
+   <lb ed="#B" n="88"/>vt loco tibi equum meum vt eas &amp; redeas ad sanctum 
+   <lb ed="#B" n="89"/>Fiacrium, &amp; capio abs te quatuor duodenos pro 
+   <lb ed="#B" n="90"/>quolibet die. Secundo probatur idem. locatio quo ad 
+   <lb ed="#B" n="91"/>actum suum cadit super obiectum debitum: scilicet vsum 
+   <lb ed="#B" n="92"/>equi: qui est tibi vtilis, &amp; pecunia mihi vtilis, &amp; fa 
+   <lb ed="#B" n="93"/>cue accidere possunt omnes circumstantiae ad
+   boni<lb ed="#B" n="94" break="no"/>tatem actus requisitae: quas in omnibus
+   suppo<lb ed="#B" n="95" break="no"/>no: igitur. Tertio probatur. si locatio &amp; conductio 
+   <lb ed="#B" n="96"/>essent illicitae in politia humana: esset in ea magna 
+   <lb ed="#B" n="97"/>iactura: quia sine his non possunt manuteneri tem 
+   <lb ed="#B" n="98"/>plorum / pontium / &amp; vrbium constructores: &amp; eis
+   in<lb ed="#B" n="99" break="no"/>seruientes qui suas operas locant &amp; quas alii
+   con<lb ed="#B" n="100" break="no"/>ducunt. eodem modo in bello iusto milites suas 
+   <lb ed="#B" n="101"/>operas be lligerantibus locant: quas bellum
+   geren<lb ed="#B" n="102" break="no"/>tes conducunt. 
+  </p>
+      <p xml:id="jMqv4a-d1e856-d1e248">
+       <lb ed="#B" n="103"/>⁋ Contra hanc conclusionem &amp; eius 
+   <lb ed="#B" n="104"/>fundamenta arguitur. ego locans tibi equum meum 
+   <lb ed="#B" n="105"/>nouem paruis albis, vel quatuor duodenis quo 
+   <!--0353.xml-->
+   <pb ed="#B" n="161-r"/>
+       <cb ed="#B" n="a"/>
+       <lb ed="#B" n="1"/>tidie, non vendo tibi vsum equi mei retento dominio: 
+   <lb ed="#B" n="2"/>ergo fundamentum probationum nullum. Antece 
+   <lb ed="#B" n="3"/>dens probo. vendo tibi equum meum quia vendo tibi 
+   <lb ed="#B" n="4"/>eius vsum. sed vsus illius equi est equus ipse. vel 
+   <lb ed="#B" n="5"/>vendo tibi motum localem ipsius equi: modo motus 
+   <lb ed="#B" n="6"/>localis est ipsum mobile quod mouetur: vt pronunc 
+   <lb ed="#B" n="7"/>supponitur. &amp; tunc sic. hunc motum localem hu 
+   <lb ed="#B" n="8"/>ius equi tibi vendo: hic motus localis huius equi 
+   <lb ed="#B" n="9"/>est ipse equus. ergo istum equum tibi vendo. vel da 
+   <lb ed="#B" n="10"/>singularem istius, vsum huius equi tibi vendo: sin  
+   <lb ed="#B" n="11"/>gularem inquam ex parte termini (vsum) quia illa propo 
+   <lb ed="#B" n="12"/>sitio est singulari ex parte modi enunciandi. tunc sic. humt 
+   <lb ed="#B" n="13"/>vsum huius equi tibi vendo: hic vsus huius equi est hic 
+   <lb ed="#B" n="14"/>equus. ergo hunc equum tibi vendo. consequentia est syl 
+   <lb ed="#B" n="15"/>logismus expositorius: &amp; maior ab omnibus concessa. am 
+   <lb ed="#B" n="16"/>biguitas minoris excluditur quaerendo abs te quae res sit 
+   <lb ed="#B" n="17"/>vsus illius equi, non res respectiua: quia nullu respi 
+   <lb ed="#B" n="18"/>ctum a fundamento &amp; termino distinctum clara &amp; i 
+   <lb ed="#B" n="19"/>geniosa nominalium schola admittit, non potes ergo 
+   <lb ed="#B" n="20"/>signare quod accidens sit ille vsus equi. Si dicas, qua 
+   <lb ed="#B" n="21"/>litas, quaeritur de qua specie qualitatis. &amp; currendo per 
+   <lb ed="#B" n="22"/>omnes argues facile te in capistrum deducet.
+  </p>
+      <p xml:id="jMqv4a-d1e856-d1e311">
+   ⁋ Raspon 
+   <lb ed="#B" n="23"/>detur vt omne verum omni vero consonet, dicam 
+   <lb ed="#B" n="24"/>&amp; ad intentionem vulgo loquentium: &amp; metaphysi 
+   <lb ed="#B" n="25"/>ce simul. Dico primo probabile esse etiam apud no 
+   <lb ed="#B" n="26"/>minalem: quod motus localis distinguitur a mobili: 
+   <lb ed="#B" n="27"/>&amp; tunc dico quod emo motum localem istius equi 
+   <lb ed="#B" n="28"/>nouem paruis albis. Oppositum etiam est ita 
+   <lb ed="#B" n="29"/>probabile: &amp; nego quod tu emis equum meum.
+   em<lb ed="#B" n="30" break="no"/>ptio. enim non cadit in equum: sed in taliter se ha 
+   <lb ed="#B" n="31"/>bere equi: quod tamen taliter se habere est ipse equus: &amp; 
+   <lb ed="#B" n="32"/>emis equum meum secundum quid: hoc est tali
+   addi<lb ed="#B" n="33" break="no"/>to. Ad syllogismum expositorium dico ipsum esse 
+   <lb ed="#B" n="34"/>bonum: &amp; sicut conclusionem nego: ita ipsam
+   ma<lb ed="#B" n="35" break="no"/>iorem: scilicet hunc vsum emis: sed bene emis hunc 
+   <lb ed="#B" n="36"/>vsum. per primam enim denotatur quod hanc rem quae est vsus 
+   <lb ed="#B" n="37"/>emis: quae est emptio ab solute ipsius equi. per secundam 
+   <lb ed="#B" n="38"/>autem denotatur emptio secundum quid. Sic locatio 
+   <lb ed="#B" n="39"/>actiua est ipse tei locator: passiua es res locata: abstra 
+   <lb ed="#B" n="40"/>ctiua vero locatio est consensus locantis &amp;
+   condu<lb ed="#B" n="41" break="no"/>ctoris. hoc est: iste terminus locatio abstractiua e 
+   <lb ed="#B" n="42"/>talibus consensibus supponit, connotando reliqua  
+   <lb ed="#B" n="43"/>quae ad talem contractum sufficiunt &amp; requiruntur. sicut 
+   <lb ed="#B" n="44"/>nominalis dicere solet quod calefactio passiua aquae est 
+   <lb ed="#B" n="45"/>aqua calefacta: calefactio actiua est ignis calefaci 
+   <lb ed="#B" n="46"/>ens: &amp; calor est calefactio abstractiua, quamuis etiam di 
+   <lb ed="#B" n="47"/>catur actiua: nihil est impedimenti. Ecce quo ad 
+   <lb ed="#B" n="48"/>metaphysicam moraliter loquendo. possum vti equam 
+   <lb ed="#B" n="49"/>tatione equi vno die vel pluribus diebus absque hoc 
+   <lb ed="#B" n="50"/>quod cortumpatur proprietas eius. sicut homo potest: 
+   <lb ed="#B" n="51"/>vti auto ad pompam: &amp; etiam locare vinum &amp;
+   tri<lb ed="#B" n="52" break="no"/>ticum ad pompam. &amp; talis vsus non est eius
+   distra<lb ed="#B" n="53" break="no"/>ctio: sed dominium rei absolutum manet penes
+   lo<lb ed="#B" n="54" break="no"/>cantem: &amp; dominium rei secundum quid siue di 
+   <lb ed="#B" n="55"/>minutum apud conductorem. &amp; sic conductor ha 
+   <!--0353.xml-->
+   <cb ed="#B" n="b"/> 
+       <!-- 161-r b -->
+       <lb ed="#B" n="56"/>bet vtile dominium diminutum: diurnum, vel hebdo  
+   <lb ed="#B" n="57"/>madale: quod est ei vtile: &amp; dominium absolutum ma 
+   <lb ed="#B" n="58"/>net penes locantem propterea vsus dicitur posse se 
+   <lb ed="#B" n="59"/>parari a dominio: &amp; sic semper intelligo extra hanc 
+   <lb ed="#B" n="60"/>materiam: semper tamen vt plures loquuturus. Qui ve 
+   <lb ed="#B" n="61"/>lit sibi singularem modum loquandi fabricare: non opor 
+   <lb ed="#B" n="62"/>tet colloquatur aliis: sed ad antra deserti aufugiat. 
+  </p>
+      <p xml:id="jMqv4a-d1e856-d1e407">
+       <lb ed="#B" n="63"/>⁋ Secundo arguitur. si locem tibi 
+   <lb ed="#B" n="64"/>equum meum: vt veharis ad sanctum Fiacrium 
+   <lb ed="#B" n="65"/>&amp; tu accedas ad bellum vel ad locum
+   periculosis<lb ed="#B" n="66" break="no"/>simum: &amp; a praedonibus rapiatur abs te: equus peri 
+   <lb ed="#B" n="67"/>bit in manu tua &amp; non mea: vt habetur in. l. Contra 
+   <lb ed="#B" n="68"/>ctus. lit. de reg. iu. modo res perit in manu illius qui 
+   <lb ed="#B" n="69"/>proprietatem in re ipsa habet: alioquin mutuatarius 
+   <lb ed="#B" n="70"/>non tenebitur subire periculum mutui nisi quia 
+   <lb ed="#B" n="71"/>mutuum est suum: &amp; idem est si dolo malo
+   machi<lb ed="#B" n="72" break="no"/>natus sim mortem equi tui: agitando eum
+   celeri<lb ed="#B" n="73" break="no"/>ter: per diem naturalem non ministrando ei potum 
+   <lb ed="#B" n="74"/>neque cibum quatenus moriatur. Et possum eodem 
+   <lb ed="#B" n="75"/>modo argumentari de commodato sic. vt in
+   fron<lb ed="#B" n="76" break="no"/>te huius quaestionis diximus: commodatio conue 
+   <lb ed="#B" n="77"/>nit cum locatione in hoc quod in vtroque seruatur
+   pro<lb ed="#B" n="78" break="no"/>prietas vsu in alium transsato: &amp; vnum fit gratis. 
+   <lb ed="#B" n="79"/>modo maximus pontifex de commoda. ca. vni 
+   <lb ed="#B" n="80"/>co dicit quod in commodatione commodans de
+   le<lb ed="#B" n="81" break="no"/>uissima culpa tenetur.
+  </p>
+      <p xml:id="jMqv4a-d1e856-d1e451">
+   ⁋ Ad secundum
+   responde<lb ed="#B" n="82" break="no"/>tur quod rem perire in manu alicuius non arguit illum 
+   <lb ed="#B" n="83"/>illius rei habere proprietatem: sed quo ad mutua 
+   <lb ed="#B" n="84"/>tarium dicitur quod mutuum est eius qualitercunque 
+   <lb ed="#B" n="85"/>pereat: leuissima: leui, &amp; lata culpa &amp; dolo: vel si re 
+   <lb ed="#B" n="86"/>mittat ad me per quencumque sollicitissimum nuncium: 
+   <lb ed="#B" n="87"/>semper in manu sua peribit quousque effectualiter 
+   <lb ed="#B" n="88"/>mihi mutuum restituerit. Sed quia tacite aliquibus 
+   <lb ed="#B" n="89"/>contractibus de iure gentium aliquae conditiones 
+   <lb ed="#B" n="90"/>insunt, vel a iure humano legi naturali maxine
+   con<lb ed="#B" n="91" break="no"/>formi pro reipublicae vtilitate: in illis contractibus 
+   <lb ed="#B" n="92"/>oportet illas conditiones communiter seruare. Si 
+   <lb ed="#B" n="93"/>enim in omnem euentum res in manu domini periret: 
+   <lb ed="#B" n="94"/>fur &amp; raptor non tenerentur restituere ablatu: nec 
+   <lb ed="#B" n="95"/>conductor equi ducens equum super pontem vnum 
+   <lb ed="#B" n="96"/>duntaxat lignum habentem in quo equus frangit 
+   <lb ed="#B" n="97"/>tibiam: vel si quando venit ad hospitium descen 
+   <lb ed="#B" n="98"/>dens ex equo in mediam aream: statim sit ablatus 
+   <lb ed="#B" n="99"/>Et sic in commodatione &amp; apud depositarium. Si 
+   <lb ed="#B" n="100"/>enim isti reparare damnum non cogerentur:
+   nul<lb ed="#B" n="101" break="no"/>lus vnquam rem suam penes alium deponeret: vel ab 
+   <lb ed="#B" n="102"/>teri rem suam locaret vel commodaret: quod esset in 
+   <lb ed="#B" n="103"/>reipublicae maximam iacturam. propterea aliqua  
+   <lb ed="#B" n="104"/>sunt rationi maxime consentanea quae talibus con 
+   <lb ed="#B" n="105"/>tractibus a iure humano applicantur: vt in commo 
+   <lb ed="#B" n="106"/>datione homo de leuissima teneatur culpa. Et
+   ra<lb ed="#B" n="107" break="no"/>tio pontificis est bona: quia cum gratia sui tantenm quis 
+   <lb ed="#B" n="108"/>commodatum accepit, de leuissima etiam culpa 
+   <lb ed="#B" n="109"/>tenetur. In proposito autem culpa non est pecca- 
+   <!--0354.xml-->
+   <pb ed="#B" n="161-v"/>
+       <cb ed="#B" n="a"/>
+       <lb ed="#B" n="1"/>tum homini imputabile: sic scilicet vt si mox
+   de<lb ed="#B" n="2" break="no"/>cederet vita: illius gratia in infemo vel purgatorio 
+   <lb ed="#B" n="3"/>puniretur. Si vero gratia dantis tamenm commodatum 
+   <lb ed="#B" n="4"/>detur: tunc venit dolus &amp; lata culpa. fiti. de commo 
+   <lb ed="#B" n="5"/>l. Si vt certo. S. Interdum. &amp;. l. Si mei causa.litct. de 
+   <lb ed="#B" n="6"/>act. &amp; ob. l.i. S. His quoque apud quem. Si vero gra 
+   <lb ed="#B" n="7"/>tia vtriusque: tunc praestat dolum &amp; iatam culpam. nam 
+   <lb ed="#B" n="8"/>dolus vti superius diximus inter arguendum, con 
+   <lb ed="#B" n="9"/>mittitur quando quis ex industria facit vel omit 
+   <lb ed="#B" n="10"/>tit aliquid gratia cuius res alterius perit. Culpa au 
+   <lb ed="#B" n="11"/>tem est actus vel omissio in quam quis incidit, quae 
+   <lb ed="#B" n="12"/>per hominum diligentiam praeuideri poterat. Per vi 
+   <lb ed="#B" n="13"/>timam particulam distinguitur a casu fortuito: a 
+   <lb ed="#B" n="14"/>quo diligentissimus cauere non poterat: vt si
+   mi<lb ed="#B" n="15" break="no"/>hi familiarissimus &amp; ab omnibus reputatus probis 
+   <lb ed="#B" n="16"/>simus rem meam subtrahit. Culpa lata est quam 
+   <lb ed="#B" n="17"/>quis incurrit ex negligentia sua omittendo diligen 
+   <lb ed="#B" n="18"/>tiam quam plurimum homines illius professionis ex 
+   <lb ed="#B" n="19"/>hibere solent: praeter etiam suam intentionem. vt si 
+   <lb ed="#B" n="20"/>toto die naturali non dedisti equo potum: cuius 
+   <lb ed="#B" n="21"/>defectu si moriatur: tu es in lata culpa. nam equites 
+   <lb ed="#B" n="22"/>norunt quod equo sit dandus potus. mors tamen equi est 
+   <lb ed="#B" n="23"/>praeter tuam intentionem. &amp; per hoc distinguitur 
+   <lb ed="#B" n="24"/>a dolo. Fodem modo leuis culpa definiatur: praeter 
+   <lb ed="#B" n="25"/>hoc quod loco huius (plurimum homines):
+   pona<lb ed="#B" n="26" break="no"/>tur ( homines diligentes) &amp; in quid nominis leuissi 
+   <lb ed="#B" n="27"/>mae culpae: homines diligentissimi. Et sicut
+   dixi<lb ed="#B" n="28" break="no"/>mus in commodatione: proportionabiliter in
+   loca<lb ed="#B" n="29" break="no"/>tione dicatur. Res itaque locata est in periculo loca 
+   <lb ed="#B" n="30"/>toris: ita vt si res ipsa pereat sine dolo: lata vel leui 
+   <lb ed="#B" n="31"/>culpa conductoris: vtpote per culpam leuissimam: 
+   <lb ed="#B" n="32"/>casum fortuitum, a natura, vel per diuinum
+   iudi<lb ed="#B" n="33" break="no"/>cium: res ipsa locatori peribit: neque conductor
+   te<lb ed="#B" n="34" break="no"/>nebitur locatori vllam refusionem facere pro
+   ea<lb ed="#B" n="35" break="no"/>dem re: quia regula est, sicut nunc in commodatio 
+   <lb ed="#B" n="36"/>ne allegauimus: quod in contractibus qui fiunt
+   gra<lb ed="#B" n="37" break="no"/>tia vtriusque contrahentis: recipiens tenetur
+   dolo<lb ed="#B" n="38" break="no"/>lata culpa: &amp; leui: non autem leuissima. Et ex illo 
+   <lb ed="#B" n="39"/>sequitur: quod si conductor remisit locatori rem loca 
+   <lb ed="#B" n="40"/>tam per nuncium diligentem: &amp; res in via pereai 
+   <lb ed="#B" n="41"/>casu fortuito: non tenebitur conductor ad restitu 
+   <lb ed="#B" n="42"/>tionem: sed ille casus imputabitur domino rei. Et 
+   <lb ed="#B" n="43"/>idem est de commodatione i&amp; depositione: vt si de 
+   <lb ed="#B" n="44"/>positarius &amp; commodatarius rem depositam vel
+   con<lb ed="#B" n="45" break="no"/>modatam per nuncium qui vsus est diligentia, remi 
+   <lb ed="#B" n="46"/>sit: res in manu domini perit. secus est si nuncius 
+   <lb ed="#B" n="47"/>negligens fuerit. Et ratio est in istis: quia conductor 
+   <lb ed="#B" n="48"/>adhibuit illam diligentiam quam viri circumspecti 
+   <lb ed="#B" n="49"/>tali rei custodiendae adhibent: quare non debet ei 
+   <lb ed="#B" n="50"/>imputari.
+  </p>
+      <p xml:id="jMqv4a-d1e856-d1e629">
+   ⁋ Sed contra ista arguitur. si non
+   habuis<lb ed="#B" n="51" break="no"/>ses equum meum conductum, &amp; equus fuisset in  
+   <lb ed="#B" n="52"/>stabulo: fuisset mihi saluus: ergo quacumque culpa in 
+   <lb ed="#B" n="53"/>cidente etiam leuissima, conductor est in causa
+   perdi<lb ed="#B" n="54" break="no"/>tionis equi mei: &amp; per consequens ipsum tenebitur resti 
+   <lb ed="#B" n="55"/>tuere.
+  </p>
+      <p xml:id="jMqv4a-d1e856-d1e642">
+   ⁋ Praeterea si pactum interuenerit de leuis- 
+   <!--0354.xml-->
+   <cb ed="#B" n="b"/> 
+       <!-- 161-v b -->
+       <lb ed="#B" n="56"/>sima culpa vel casu fortuito: res perit in manu con 
+   <lb ed="#B" n="57"/>ductoris. ergo non est naturale in contractu
+   loca<lb ed="#B" n="58" break="no"/>tionis &amp; conductionis quod in leuissima culpa &amp;
+   ca<lb ed="#B" n="59" break="no"/>su fortuito in manu locantis res pereat. tenet con 
+   <lb ed="#B" n="60"/>sequentia: quia nulla circumstantia vel pactio
+   va<lb ed="#B" n="61" break="no"/>et contra naturam alicuius contractus: quia con 
+   <lb ed="#B" n="62"/>tractum destruit pactio: &amp; est contra eius naturam &amp; sub 
+   <lb ed="#B" n="63"/>stantiam. assumptum habetur de commodato ca. vni 
+   <lb ed="#B" n="64"/>co. S. Licet. vbi dicit <name xml:id="jMqv4a-d1e856-Nd1e670">Gregorius nonus</name>. Licet
+   ca<lb ed="#B" n="65" break="no"/>sus fortuitus ( nisi acciderit culpa sua, vel
+   interue<lb ed="#B" n="66" break="no"/>nerit pactum: seu in mora fuisset) sibi non debeat 
+   <lb ed="#B" n="67"/>imputari. Vult pontifex dicere quod in tribus casibus 
+   <lb ed="#B" n="68"/>conductor leuissima culpa &amp; casu fortuito tenetur. 
+   <lb ed="#B" n="69"/>Primo si equum meum locaui tibi ad certum vsum: 
+   <lb ed="#B" n="70"/>vtpote ad equitandum Rothomagum: &amp; tu eum
+   du<lb ed="#B" n="71" break="no"/>cis ab bellum. si enim equus leuissima culpa vel 
+   <lb ed="#B" n="72"/>casu fortuito pereat: teneberis eum restituere vel 
+   <lb ed="#B" n="73"/>aequiualens: &amp; furtum committis equo ad alium vsum 
+   <lb ed="#B" n="74"/>vtendo quam ad illum ad quem tibi locatus est. Secun 
+   <lb ed="#B" n="75"/>do. si pactum interuenit quo conductor in se peri 
+   <lb ed="#B" n="76"/>culum suscipit tam culpae leuissimae quam etiam casus 
+   <lb ed="#B" n="77"/>fortuiti: tamen hoc intelligitur quando in pacto poni 
+   <lb ed="#B" n="78"/>tur expresse aliquis casus fortuitus: tunc enim de 
+   <lb ed="#B" n="79"/>illo tenetur: &amp; non de aliis nisi sit adiecta clausula 
+   <lb ed="#B" n="80"/>generalis de casibus fortuitis. &amp; si illa sit adiecta: 
+   <lb ed="#B" n="81"/>adhuc solum tenebitur de casibus fortuitis consi 
+   <lb ed="#B" n="82"/>milibus ei qui fuit specificatus: non autem de
+   il<lb ed="#B" n="83" break="no"/>lis qui sunt maiores eodem: quia in odiosis clausu 
+   <lb ed="#B" n="84"/>la generalis non comprehendit maiora expressis. vt 
+   <lb ed="#B" n="85"/>in cle. Non potest. de procurato. secus in non odio 
+   <lb ed="#B" n="86"/>sis: vt in institutione procuratoris, in qua expres 
+   <lb ed="#B" n="87"/>sis aliquibus requirentibus speciale mandatum: &amp; 
+   <lb ed="#B" n="88"/>subiecta clausula generali: veniunt casus maiores 
+   <lb ed="#B" n="89"/>expressis. Et propterea si conductorem habere vo 
+   <lb ed="#B" n="90"/>luerit locator ad casus fortuitos obligatum etiam ma 
+   <lb ed="#B" n="91"/>iores illo specificato: opus erit illos expresse adiici 
+   <lb ed="#B" n="92"/>re. Tertius est si mora praecessit casum: vtpote loca 
+   <lb ed="#B" n="93"/>ui tibi equum: die iouis vel quocunque alio die certo 
+   <lb ed="#B" n="94"/>mihi reddendum: &amp; tu vltra diem assignatum equum 
+   <lb ed="#B" n="95"/>detinuisti. si quid ei tunc acciderit: teneberis: etiam 
+   <lb ed="#B" n="96"/>si culpa leuissima, vel a fortuna illud acciderit 
+  </p>
+      <p xml:id="jMqv4a-d1e856-d1e744">
+       <lb ed="#B" n="97"/>⁋ Respondetur concedendo illud assumptum. si 
+   <lb ed="#B" n="98"/>fuisset instabulo non fuisset ablatus. sed cum con 
+   <lb ed="#B" n="99"/>ductor non est in dolo: &amp; adhibet operam pro custo 
+   <lb ed="#B" n="100"/>diendo equo quam diligentes adhibent: non esset 
+   <lb ed="#B" n="101"/>rationi consentaneum quod equus peritet in mant 
+   <lb ed="#B" n="102"/>eius &amp; non in manu domini: quia argumentum pro 
+   <lb ed="#B" n="103"/>baret eodem modo de casu fortuito sicut de leuis 
+   <lb ed="#B" n="104"/>sima culpa. nam Sortes ducit equum in pulchro 
+   <lb ed="#B" n="105"/>itinere cum aliis equitibus: &amp; equus vacillando fran 
+   <lb ed="#B" n="106"/>git collum: quare peribit in manu conductoris: qua 
+   <lb ed="#B" n="107"/>tuor duodeni etiam tantum valent in die cum peri 
+   <lb ed="#B" n="108"/>culo leuissimae culpae &amp; casus fortuiti: quantum 
+   <lb ed="#B" n="109"/>vsus valet conductori. Stat etiam quando dolo 
+   <lb ed="#B" n="110"/>vel culpa equus in manu conductoris perit, vbi con 
+   <!--0355.xml-->
+   <pb ed="#B" n="162-r"/>
+       <cb ed="#B" n="a"/>
+       <lb ed="#B" n="1"/>ductor tenetur ad reparationem equi pereuntis: quod 
+   <lb ed="#B" n="2"/>equus in stabulo locantis periisset: &amp; tunc locans n 
+   <lb ed="#B" n="3"/>hil habuisset.
+  </p>
+      <p xml:id="jMqv4a-d1e856-d1e790">
+   ⁋ Ad secundum argumentum concedo 
+   <lb ed="#B" n="4"/>intecedens: &amp; nego consequentiam. &amp; ad probationem 
+   <lb ed="#B" n="5"/>de illis tribus casibus assumptis qui sunt contra na 
+   <lb ed="#B" n="6"/>turam locationis: dico quod non sunt contram eius sul 
+   <lb ed="#B" n="7"/>stantiam. Vnde aliqua sunt contra substantiam alicuius 
+   <lb ed="#B" n="8"/>contractus: hoc est contra entitatem contractus: ita quod 
+   <lb ed="#B" n="9"/>si illa conditio alicui contractui addatur: ponit co 
+   <lb ed="#B" n="10"/>tractum ipsum: vel totum aggregatum in aliam
+   spe<lb ed="#B" n="11" break="no"/>ciem contractus mutat. Declaro exemplariter. si dicam. do 
+   <lb ed="#B" n="12"/>no tibi equum ea conditione vt des mihi. xx. aureos 
+   <lb ed="#B" n="13"/>nummos &amp; non aliter: illa conditio facit quod ille contra 
+   <lb ed="#B" n="14"/>ctus nullo pacto sit donationis: sed emptionis &amp; 
+   <lb ed="#B" n="15"/>venditionis: quia in donatione donatarius nihil te 
+   <lb ed="#B" n="16"/>netur dare donatori. Similiter si dicam do tibiequum 
+   <lb ed="#B" n="17"/>meum commodato quatuor diebus pro. xiiii. duode 
+   <lb ed="#B" n="18"/>nis: per hoc quod ego addo. xiiii. duodenos pro merce 
+   <lb ed="#B" n="19"/>de: non est commodatio: sed locatio &amp; conductio 
+   <lb ed="#B" n="20"/>&amp; alia species contractus. Alia sunt contra natu 
+   <lb ed="#B" n="21"/>ram contractus: hoc est sunt contra illa quae alicu 
+   <lb ed="#B" n="22"/>contractui ex iure gentium, vel iure humano multum in ratio 
+   <lb ed="#B" n="23"/>ne fundato convenire dicuntur: sed si contractui addam 
+   <lb ed="#B" n="24"/>tur non variant specien contractus: quae interdum
+   con<lb ed="#B" n="25" break="no"/>tractum faciunt licitum: interdum vero illicitum. 
+   <lb ed="#B" n="26"/>Exempli causa: de natura mutui est quod fiat gratis: 
+   <lb ed="#B" n="27"/>si addatur ei haec conditio quod capiatur lucrum vi
+   mu<lb ed="#B" n="28" break="no"/>tui: iam illa conditio adiecta non mutat specien mu 
+   <lb ed="#B" n="29"/>tui: sed mutuum licitum in illicitum mutat. Prima autem 
+   <lb ed="#B" n="30"/>quaestione de vsura probare nisi sumus quod mutuum
+   de<lb ed="#B" n="31" break="no"/>bet esse contractus gratuitus de iure naturae. &amp;
+   li<lb ed="#B" n="32" break="no"/>cet in illis rationibus possit esse aliqua tergiuersa 
+   <lb ed="#B" n="33"/>tio: tamen pro sua materia morali probationes sunt 
+   <lb ed="#B" n="34"/>sufficientes: nec possumus facile probare multas
+   ali<lb ed="#B" n="35" break="no"/>as proprietates multorum aliorum contractuum 
+   <lb ed="#B" n="36"/>esse ita naturales. Sed si ponatur: mutuo tibi centum 
+   <lb ed="#B" n="37"/>rreuocabiliter: ita vt nullum ius maneat penes me 
+   <lb ed="#B" n="38"/>ad reuocanda illa centum: iam illa conditio adiecta est 
+   <lb ed="#B" n="39"/>contra substantiam mutui. Aliqua etiam contingen 
+   <lb ed="#B" n="40"/>ter alicui contractui adduntur: quae nec sunt de eius 
+   <lb ed="#B" n="41"/>natura: nec contra eius naturam, quemadmodum in 
+   <lb ed="#B" n="42"/>philosophia dicimus quod calor repugnat naturae
+   a<lb ed="#B" n="43" break="no"/>quae: hoc est: contra naturalem dispositionem aquae est: 
+   <lb ed="#B" n="44"/>&amp; si suae naturae aqua reliquatur: calorem expellit: 
+   <lb ed="#B" n="45"/>&amp; tamen non repugnat calor substantiae aquae. sic in 
+   <lb ed="#B" n="46"/>proposito si non adderentur istae conditiones adie 
+   <lb ed="#B" n="47"/>ctae: capiamus vnam quod conductor in se suscipiat 
+   <lb ed="#B" n="48"/>omne peri culum in culpa leuissima &amp; in casu for 
+   <lb ed="#B" n="49"/>tuito: vi contractus periculum esset penes locatorem. licet 
+   <lb ed="#B" n="50"/>possit non insulse dici quod illud pactum continet alium 
+   <lb ed="#B" n="51"/>contractum in substantia a locatione &amp; conductione innomniatum 
+   <lb ed="#B" n="52"/>nomine speciali. Conductor autem in se suscipit omne 
+   <lb ed="#B" n="53"/>periculum ratione diminutionis precii: puta dicen 
+   <lb ed="#B" n="54"/>do: suscipio omne periculum in me etiam ex culpa 
+   <lb ed="#B" n="55"/>leuissima &amp; casu fortuito pro hoc die, si mihi. viii. 
+   <!--0355.xml-->
+   <cb ed="#B" n="b"/> 
+       <!-- 162-r b -->
+       <lb ed="#B" n="56"/>turonos vel Carolum dederis: quia peccaret
+   loca<lb ed="#B" n="57" break="no"/>tor contra conductorem si vellet eum in se omne 
+   <lb ed="#B" n="58"/>periculum suscipere, ad quod non tenetur, eum oneram 
+   <lb ed="#B" n="59"/>do: nisi refunderet in aequiualenti illi periculo ad quod 
+   <lb ed="#B" n="60"/>non obligatur: vtpote minus de praecio capiendo: vel 
+   <lb ed="#B" n="61"/>dando ei aliquid aequiualens tali oneri: forte caro 
+   <lb ed="#B" n="62"/>lum. si. n. equus moriatur: ducentos carolos &amp; vltra amit 
+   <lb ed="#B" n="63"/>teret. sed in ducentis vel trecentis diebus non perit 
+   <lb ed="#B" n="64"/>vnus equus casu fortuito vel in casu aliquo in quo 
+   <lb ed="#B" n="65"/>non tenetur conductor. Etiam ipse erit diligentis 
+   <lb ed="#B" n="66"/>simus in equo custodiendo: &amp; sic cauebit ne in
+   cul<lb ed="#B" n="67" break="no"/>pam leuissimam incidat. 
+  </p>
+      <p xml:id="jMqv4a-d1e856-d1e938">
+       <lb ed="#B" n="68"/>⁋ Tertio arguitur. si aliquis
+   aroma<lb ed="#B" n="69" break="no"/>tarius tibi vel alteri vasa sua argentea in doctora 
+   <lb ed="#B" n="70"/>tu vel in alio prandio locauerit: qualitercunque
+   ali<lb ed="#B" n="71" break="no"/>quod vas perit: ad restitutionem teneberis: aliquos 
+   <lb ed="#B" n="72"/>enim in nostra facultate magistros hoc expertos
+   fuis<lb ed="#B" n="73" break="no"/>se nouimus.
+  </p>
+      <p xml:id="jMqv4a-d1e856-d1e954">
+   ⁋ Respondetur. aliquae sunt res quae diligen 
+   <lb ed="#B" n="74"/>tissimam curam exigunt. vt vasa argentea vel au 
+   <lb ed="#B" n="75"/>rea: in quibus contractui ex circumstantia rei inest
+   il<lb ed="#B" n="76" break="no"/>lud quod conductor tenetur leuissima culpa. &amp; hoc pa 
+   <lb ed="#B" n="77"/>tet in. l. Si merces. S. qui colunnam .lit. de locato. vbi 
+   <lb ed="#B" n="78"/>dicitur. Culpa autem abest si omnia facta sunt quae dili 
+   <lb ed="#B" n="79"/>gentissimus quisque obseruaturus fuisset. Simile 
+   <lb ed="#B" n="80"/>potest esse circa lapidum praeciosorum laborem: aut
+   cir<lb ed="#B" n="81" break="no"/>ca vitra praeciosa aut consimilia. Sed si res locanda 
+   <lb ed="#B" n="82"/>talis non fuerit: puta nec facile corruptibilis nec 
+   <lb ed="#B" n="83"/>magni momenti: quae potest facile clanculum tolli: 
+   <lb ed="#B" n="84"/>homo non tenetur ad leuissimam culpam. Et ad  
+   <lb ed="#B" n="85"/>illud quod dicitur de facultate nostra: aliqui pru 
+   <lb ed="#B" n="86"/>dentius faciunt dando aromatario ipsi omne per 
+   <lb ed="#B" n="87"/>culum suorum vasorum pro certa pecuniae quan 
+   <lb ed="#B" n="88"/>titate vt praesens sit vel aliquis famulorum eius. His 
+   <lb ed="#B" n="89"/>nouissimis annis tamen multo melius actum est 
+   <lb ed="#B" n="90"/>vitris: quae sunt tam munda &amp; honesta quam vasa ar 
+   <lb ed="#B" n="91"/>gentea: nec cibariorum appositionem impediunt:  
+   <lb ed="#B" n="92"/>&amp; horum vsum maximi honoris insignibus deco 
+   <lb ed="#B" n="93"/>randus quatuor vel quinque solidis habebit. 
+  </p>
+      <p xml:id="jMqv4a-d1e856-d1e1000">
+       <lb ed="#B" n="94"/>⁋ Quarto arouitur ad indem. proba 
+   <lb ed="#B" n="95"/>do quod homo teneatur ad leuissimam culpam: &amp; hoc 
+   <lb ed="#B" n="96"/>sic. quando locator aestimat rem locatam: &amp; sic eam 
+   <lb ed="#B" n="97"/>aestimatam conductori tradit: vt pote aestimat equum 
+   <lb ed="#B" n="98"/>locatitium decem vel duodecim francis: si ex le 
+   <lb ed="#B" n="99"/>uissima culpa perit equus, conductor tenetur eum 
+   <lb ed="#B" n="100"/>refundere.
+  </p>
+      <p xml:id="jMqv4a-d1e856-d1e1018">
+   ⁋ Respondetur tenendo opinionem 
+   <lb ed="#B" n="101"/>loan. Andreae, quae in hac parte placet, negando 
+   <lb ed="#B" n="102"/>quod teneatur conductor post aestimationem ad
+   leuis<lb ed="#B" n="103" break="no"/>simam culpam: quia sicut dicit loan. &amp; erudite: re 
+   <lb ed="#B" n="104"/>cipiens non plus tenetur quam exposcat natura con 
+   <lb ed="#B" n="105"/>tractus: sed aestimatio solum hoc operatur vt scia 
+   <lb ed="#B" n="106"/>tur verum precium rei in casu quo res perderetur 
+   <lb ed="#B" n="107"/>aut deterior efficeretur: vt sic dominus rei
+   releue<lb ed="#B" n="108" break="no"/>tur ab onere probandi verum precium rei. Et hunc 
+   <lb ed="#B" n="109"/>modum Panor. insequitur in ca. vnico superius abl 
+   <!--0356.xml-->
+   <pb ed="#B" n="162-v"/>
+       <cb ed="#B" n="a"/>
+       <lb ed="#B" n="1"/>legato.
+  </p>
+      <p xml:id="jMqv4a-d1e856-d1e1050">
+   ⁋ Ecce quid est locatio &amp; conductio: in
+   qui<lb ed="#B" n="2" break="no"/>bus vsus rei pro mercede venditur &amp; emitur, proprietate 
+   <lb ed="#B" n="3"/>penes locatorem manente. &amp; quod locatio &amp; coductio 
+   <lb ed="#B" n="4"/>est politiae humanae admodum vtilis. Quamuis autem 
+   <lb ed="#B" n="5"/>vsus rei metaphysice loquendo fit proprietas
+   reali<lb ed="#B" n="6" break="no"/>ter &amp; identice: tamen moraliter loquendo (nisi haec
+   dif<lb ed="#B" n="7" break="no"/>ficultas vel consimilis tangatur, non expedit illo mo 
+   <lb ed="#B" n="8"/>do loquendi vti. Praeterea patet quod licet mutuum in 
+   <lb ed="#B" n="9"/>manu mutuatarii semper pereat qui est dominus
+   mu<lb ed="#B" n="10" break="no"/>tui: tamen res locatitia, cuius locator est proprietarius 
+   <lb ed="#B" n="11"/>non semper perit in manu locantis sed locatarii: vt 
+   <lb ed="#B" n="12"/>quando locatarius est in dolo, lata culpa: vel leui. 
+   <lb ed="#B" n="13"/>Et ex dictis facile deprehendere potes quomodo culpa 
+   <lb ed="#B" n="14"/>accipiatur, &amp; per quid dolus ab omnibus speciebus 
+   <lb ed="#B" n="15"/>culpae segregetur. Vlterius habes: quo modo aliquid est 
+   <lb ed="#B" n="16"/>de substantia contractus: &amp; aliquid est contractui 
+   <lb ed="#B" n="17"/>naturale: non semper de lege naturae: sed crebro de 
+   <lb ed="#B" n="18"/>lege humana. Aliquid etiam est contractui
+   acciden<lb ed="#B" n="19" break="no"/>tale. &amp; sic aliquid est contra substantiam contractus: 
+   <lb ed="#B" n="20"/>&amp; aliquid cotra naturam eius. sed contractus commu 
+   <lb ed="#B" n="21"/>niter est indifferens ad haec accidentia &amp; sua oppo 
+   <lb ed="#B" n="22"/>sita: sicut metaphysice loquendo contingit de
+   sub<lb ed="#B" n="23" break="no"/>iecto &amp; accidentibus eius. Rursus diximus quod
+   in<lb ed="#B" n="24" break="no"/>aliquibus rebus locatis leuissima culpa conductori 
+   <lb ed="#B" n="25"/>imputabitur ob preciositatem rei locatae: vel
+   faci<lb ed="#B" n="26" break="no"/>lem eius corruptibilitatem. si enim ita non fieret: 
+   <lb ed="#B" n="27"/>harum rerum possessores &amp; proprietarii eas non lo 
+   <lb ed="#B" n="28"/>carent.
+  </p>
+      <p xml:id="jMqv4a-d1e856-d1e1111">
+   ⁋ Ex his patet quod stat dare aliquem.
+   con<lb ed="#B" n="29" break="no"/>tractum in sua naturali puritate: hoc est sine
+   pa<lb ed="#B" n="30" break="no"/>ctis existentibus contra naturalia illius contractus. 
+   <lb ed="#B" n="31"/>aliquando fit impure: hoc est cum circumstantiis 
+   <lb ed="#B" n="32"/>contra naturalia ipsius contractus. Secundo sequi 
+   <lb ed="#B" n="33"/>tur, inane esse locatori pacisci cum conductore de 
+   <lb ed="#B" n="34"/>conditionibus naturalibus contractus. probatur: 
+   <lb ed="#B" n="35"/>quia naturalia contractus tacite ex eius natura
+   in<lb ed="#B" n="36" break="no"/>sunt: ergo inaniter fit de eis conuentio. &amp; eodem 
+   <lb ed="#B" n="37"/>modo in conductione, &amp; in reliquis
+   contracti<lb ed="#B" n="38" break="no"/>bus. Tertio sequitur non propterea aliquem
+   con<lb ed="#B" n="39" break="no"/>tractum esse illicitum quod ei apponitur conditio vel con 
+   <lb ed="#B" n="40"/>ditiones praeter vel cotra naturam ipsius: vt si
+   condu<lb ed="#B" n="41" break="no"/>ctor teneatur poena leuissima ex pacto: dummodo lo 
+   <lb ed="#B" n="42"/>cator conductorem releuet in aliquo illi oneri
+   aequa<lb ed="#B" n="43" break="no"/>li. immo dato quod esset contra substantiam contra 
+   <lb ed="#B" n="44"/>ctus: &amp; esset mutatio in alium contractum ob pa 
+   <lb ed="#B" n="45"/>ctum oppositum: non propterea sequitur quod contractus 
+   <lb ed="#B" n="46"/>erit illicitus. stat etiam quod ille secundus contractus 
+   <lb ed="#B" n="47"/>sit licitus: vt si dicam, dono tibi hunc equum. xx. 
+   <lb ed="#B" n="48"/>aureis &amp; non aliter: iam mutuatio mutatur in emptio 
+   <lb ed="#B" n="49"/>nem licitam. Quarto sequitur quod si quis teneatur siue 
+   <lb ed="#B" n="50"/>vi contractus: siue ex pacto de culpa leuissima: etiam 
+   <lb ed="#B" n="51"/>superioribus erit obnoxius scilicet culpa leui &amp; 
+   <lb ed="#B" n="52"/>ascendendo: inferius enim includit superius. Ex his 
+   <lb ed="#B" n="53"/>quae de mutuo, emptione, locatione, &amp; conductione 
+   <lb ed="#B" n="54"/>dicta sunt: multi animalium contractus dilui pos 
+   <!--0356.xml-->
+   <cb ed="#B" n="b"/> 
+       <!-- 162-v b -->
+       <lb ed="#B" n="55"/>sunt. Sed adhuc pro maiori intelligentia deciditur 
+   <lb ed="#B" n="56"/>super hoc quaestio sequens.
+  </p>
+    </div>
+   </body>
+  </text>
+</TEI>

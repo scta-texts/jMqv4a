@@ -1,0 +1,263 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 7</title>
+      <author ref="#JohnMair">John Mair</author>
+      <respStmt>
+       <name>Jeffrey C. Witt</name>
+       <resp>TEI Encoder</resp>
+      </respStmt>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 7</title>
+       <date when="2020-06-09">June 27, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="B" n="cod-Bda113">Badius 1516</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+     guidelines for a diplomatic edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-06-27" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+      <pb ed="#B" n="56-r"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="jMqv4a-d1e297"> <!-- l4d10q7 -->
+      <head xml:id="jMqv4a-d1e297-Hd1e104">Quaestio 7</head>
+      <head xml:id="jMqv4a-d1e297-Hd1e107" type="question-title">An sit essentialis ordo inter modum essendi 
+  sacramentaliter, et sub modo naturali</head>
+      <p xml:id="jMqv4a-d1e297-d1e110">
+       <lb ed="#B" n="21"/>Eptimo &amp; vltimo
+   cir<lb ed="#B" n="22" break="no"/>ca hanc decimam
+   distinctio<lb ed="#B" n="23" break="no"/>nem quaeritur: an sit
+   essentiali<lb ed="#B" n="24" break="no"/>prdo inter modum essendi sa 
+   <lb ed="#B" n="25"/>cramentaliter: &amp; sub modo 
+   <lb ed="#B" n="26"/>naturali. Respondetur ad titulum 
+   <lb ed="#B" n="27"/>quaestionis affirmatiue.
+   Pro<lb ed="#B" n="28" break="no"/>batur conclusio. isti duo modi: scilicet esse sacramen 
+   <lb ed="#B" n="29"/>taliter &amp; esse occupatiue in loco, distinguuntur ad bo 
+   <lb ed="#B" n="30"/>num sensum: nec vnus ab alio dependet: ergo vterque 
+   <lb ed="#B" n="31"/>potest esse sine reliquo. Dixi ad bonum sensum: quia isti 
+   <lb ed="#B" n="32"/>duo modi se habendi corporis Christi nihil aliud 
+   <lb ed="#B" n="33"/>sunt quam corpus Christi: quod realiter est idem. sed volo 
+   <lb ed="#B" n="34"/>dicere quod potest corpus Christi esse vno modo sine alio: &amp; 
+   <lb ed="#B" n="35"/>hoc est idem cum conclusione quam ponimus. clarius tamen rem 
+   <lb ed="#B" n="36"/>explicat: quod nobis sufficit secundum materiam subie 
+   <lb ed="#B" n="37"/>cta. Quia corpus Christi potest esse sub modo natural 
+   <lb ed="#B" n="38"/>absque hoc quod sit sub modo sacramentali, probatur. ita 
+   <lb ed="#B" n="39"/>fuit triginta tribus annis completis antequam hoc sacra 
+   <lb ed="#B" n="40"/>mentum Christus instituit. ergo modus naturalis non 
+   <lb ed="#B" n="41"/>dependet essentialiter a modo sacramentali. Alia pars, 
+   <lb ed="#B" n="42"/>quod corpus Christi potest esse sub modo sacramentali 
+   <lb ed="#B" n="43"/>&amp; non sub modo naturali, patet. Christus enim potest fa 
+   <lb ed="#B" n="44"/>cere suum corpus desinere esse in caelo absque hoc quod 
+   <lb ed="#B" n="45"/>desinat esse in sacramento: ergo tunc corpus Christ 
+   <lb ed="#B" n="46"/>erit sub modo sacramentali &amp; non sub modo
+   natu<lb ed="#B" n="47" break="no"/>rali. Confirmatur haec ratio: si esset globus caereus positus 
+   <lb ed="#B" n="48"/>in duobus locis variis figuris figuratus, quod est pos 
+   <lb ed="#B" n="49"/>sibile: posset deus facere illu globum desinere esse sub 
+   <lb ed="#B" n="50"/>vna figura absque hoc quod desinat esse sub alia, &amp; 
+   <lb ed="#B" n="51"/>absque hoc quod desinat esse simpliciter: sicut anima desi 
+   <!--0143.xml-->
+   <cb ed="#B" n="b"/> 
+       <!-- 56-r b -->
+       <lb ed="#B" n="52"/>nit informare digitum digito abscisso: absque hoc quod 
+   <lb ed="#B" n="53"/>anima simpliciter desinat esse. Praeterea arguitutr ad 
+   <lb ed="#B" n="54"/>idem: poterat deus assumere idem corpus ante 
+   <lb ed="#B" n="55"/>christiferam virginem natum ad centum annos
+   prae<lb ed="#B" n="56" break="no"/>cedentes: vel ad quotcumque volueris, sub modo
+   sa<lb ed="#B" n="57" break="no"/>cramentali. Quod patet. nam materia quam accepitu 
+   <lb ed="#B" n="58"/>Christus in vtero virginali, fuit ante diuam virgi 
+   <lb ed="#B" n="59"/>nem: quia ab orbe condito producta est omnis mate 
+   <lb ed="#B" n="60"/>ria capiendo materiam pro altera parte compositi. sic 
+   <lb ed="#B" n="61"/>materia sanguinis diuae virginis ex qua corpous 
+   <lb ed="#B" n="62"/>Christi est plasmatum: non quod forma sanguinis
+   con<lb ed="#B" n="63" break="no"/>positionem corporis ingrediatur quae fuit creata in  
+   <lb ed="#B" n="64"/>principio mundi. Potet etiam deus creasse illam eandem 
+   <lb ed="#B" n="65"/>anima quam nunc habet ad centum annos ante christi 
+   <lb ed="#B" n="66"/>feram virginem: vel ab aetemo si voluisset: &amp;
+   pote<lb ed="#B" n="67" break="no"/>rat secunda persona in diuinis assumere illas partes 
+   <lb ed="#B" n="68"/>in prima earum coniunctione mutua: &amp; sic fuisset 
+   <lb ed="#B" n="69"/>idem corpus Christi ante diuam virginem: habens 
+   <lb ed="#B" n="70"/>esse sacramentale ante esse naturale. &amp; licet ponatur 
+   <lb ed="#B" n="71"/>forma corporeitatis vel mixti, hoc obicem. nullum 
+   <lb ed="#B" n="72"/>praestat. Poterat illam etiam producere quando voluit: &amp; insti 
+   <lb ed="#B" n="73"/>tuere ministros qui in prolatione verborum fecissent cor 
+   <lb ed="#B" n="74"/>pus Christi esse sub modo sacramentali in euchari 
+   <lb ed="#B" n="75"/>stia. Insuper potest minister convertere panem in non 
+   <lb ed="#B" n="76"/>existens sicut existens. sicut in generatione aquae  
+   <lb ed="#B" n="77"/>ex aere convertitur aer in aquam. ergo in prolatione prae 
+   <lb ed="#B" n="78"/>uia verborum poterat deus facere quod panis conuer 
+   <lb ed="#B" n="79"/>teretur in corpus possibile nondum productum. No 
+   <lb ed="#B" n="80"/>tanter (deus) quia minister virtute sua nihil facit 
+   <lb ed="#B" n="81"/>ad transubstantiationem: sed solum
+   ministeriali<lb ed="#B" n="82" break="no"/>ter verba profert: &amp; deus conuertit. 
+  </p>
+      <p xml:id="jMqv4a-d1e297-d1e253">
+       <lb ed="#B" n="83"/>⁋ Contra istud arguitur ponendo 
+   <lb ed="#B" n="84"/>corpus Christi fuisse ad centum annos sub modo sa 
+   <lb ed="#B" n="85"/>cramentali antequam beata virgo Christum genuisset: &amp; 
+   <lb ed="#B" n="86"/>quod ipsa in hoc instanti genuisset Christum. ex illo se 
+   <lb ed="#B" n="87"/>quit quod beata virgo non esset mater Christi.
+  </p>
+      <p xml:id="jMqv4a-d1e297-d1e267">
+   ⁋ Vlte 
+   <lb ed="#B" n="88"/>rius sequitur quod res existens incipiat esse, quod implicat. 
+  </p>
+      <p xml:id="jMqv4a-d1e297-d1e272">
+       <lb ed="#B" n="89"/>⁋ Tertio arguitur. Si deus corpus Chisti produ 
+   <lb ed="#B" n="90"/>xisset ad duos dies in eucharistia antequam natus est 
+   <lb ed="#B" n="91"/>in vtero virginali, conseruando eucharistiam ad 
+   <lb ed="#B" n="92"/>xxx. annum vitae Christi: sequeretur quod corpus
+   Chri<lb ed="#B" n="93" break="no"/>sti creuisset in eucharistia sine alimento ad
+   quanti<lb ed="#B" n="94" break="no"/>tatem corporis Christi in terra, quod non videtur
+   di<lb ed="#B" n="95" break="no"/>cendum cum non assumat cibum.
+  </p>
+      <p xml:id="jMqv4a-d1e297-d1e290">
+   ⁋ Ad primum
+   ad<lb ed="#B" n="96" break="no"/>mitto casum: &amp; dico quod beata virgo nihilominus 
+   <lb ed="#B" n="97"/>set mater Christi: quia genuisset Christum sub modo  
+   <lb ed="#B" n="98"/>naturali: quod ad maternitatem sufficit: ad
+   materni<lb ed="#B" n="99" break="no"/>tatem inquam simpliciter vel secundum quid: non  
+   <lb ed="#B" n="100"/>refert.
+  </p>
+      <p xml:id="jMqv4a-d1e297-d1e303">
+   ⁋ Ad secundum dicitur quod non sequit: quia
+   cor<lb ed="#B" n="101" break="no"/>pus Christi non inciperet esse in diua virgine: sed  
+   <lb ed="#B" n="102"/>inciperet esse sub modo naturali: sub quo prius 
+   <lb ed="#B" n="103"/>non erat. Sicut si deus easdem partes ex quibus 
+   <lb ed="#B" n="104"/>sortes est formatus &amp; genitus in vtero materno 
+   <lb ed="#B" n="105"/>produxisset penetratiue ante matrem eius, conseruan 
+   <!--0144.xml-->
+   <pb ed="#B" n="56-v"/>
+       <cb ed="#B" n="a"/>
+       <lb ed="#B" n="1"/>do sortem penetratiue: sortes in matre inciperet esse 
+   <lb ed="#B" n="2"/>sub modo naturali &amp; quantitatiuo: sed no simplici 
+   <lb ed="#B" n="3"/>ter: queadmodum nunc corpus Christi incipit accipere 
+   <lb ed="#B" n="4"/>esse in eucharistia de nouo: sed non incipit accipere 
+   <lb ed="#B" n="5"/>esse. Si tamen res aliqua vt sortes fuisset ante matre 
+   <lb ed="#B" n="6"/>suam, &amp; postea corruptus vel annihilatus ad aliquod 
+   <lb ed="#B" n="7"/>tempus: tuc potest incipere esse licet prius fuerit. Nam 
+   <lb ed="#B" n="8"/>eius exponentes sunt verae: sortes nunc est: &amp; sortes 
+   <lb ed="#B" n="9"/>non immediate ante hoc instans fuit: ergo &amp; expo 
+   <lb ed="#B" n="10"/>nibilis.
+  </p>
+      <p xml:id="jMqv4a-d1e297-d1e344">
+   ⁋ Tertium argumentum tangit vnum simile. si 
+   <lb ed="#B" n="11"/>deus produceret vnum paruulum quem poneret in duobus 
+   <lb ed="#B" n="12"/>locis: &amp; in vno loco detur ei quod comedat: &amp; nihil 
+   <lb ed="#B" n="13"/>in alio loco: sed solum eum conseruet sine cibo in ta 
+   <lb ed="#B" n="14"/>li loco: non oportet si crescat in vno loco, quod crescat 
+   <lb ed="#B" n="15"/>in alio. sed per primum cibum conuersum in substan 
+   <lb ed="#B" n="16"/>tiam aliti in vno loco: non erit idem metaphysice cum 
+   <lb ed="#B" n="17"/>alio: sed numeraliter alius. &amp; quanto plus alimenti 
+   <lb ed="#B" n="18"/>convertitur in substantiam aliti: tanto erit maior alietas: 
+   <lb ed="#B" n="19"/>nam materiae alietas in parte vel in toto sufficit ad aliae 
+   <lb ed="#B" n="20"/>tatem numeralem: cum identitatem metaphysicam expella 
+   <lb ed="#B" n="21"/>Bamen tamen verum est quod est eadem anima nunero.
+  </p>
+      <p xml:id="jMqv4a-d1e297-d1e370">
+   ⁋ Vides igil 
+   <lb ed="#B" n="22"/>ex dictis quod corpus Christi potest esse sub modo natural 
+   <lb ed="#B" n="23"/>non existendo sub modo sacramentali, &amp; econverso 
+   <lb ed="#B" n="24"/>&amp; potest esse sub vtroque sicut iam de facto est: vel sub 
+   <lb ed="#B" n="25"/>neutro, sicut ante incarnationem fuit. 
+   <lb ed="#B" n="26"/>Ircaham cbreuem quaestio nem 
+   <lb ed="#B" n="27"/>dubitatur. an corpus Christi videatur in eu 
+   <lb ed="#B" n="28"/>charistia. &amp; ratio dubitandi est. Nam
+   vul<lb ed="#B" n="29" break="no"/>gares dicunt se corpus Christi &amp; deum vt 
+   <lb ed="#B" n="30"/>disse in manibus sacerdotis leuatum. In oppositum 
+   <lb ed="#B" n="31"/>arguitur. corpus Christi non est obiectum
+   poten<lb ed="#B" n="32" break="no"/>tiae visus: sed solummodo color est obiectum visus 
+   <lb ed="#B" n="33"/>extendendo colorem ad lucem &amp; lumen, nec est obiectum per 
+   <lb ed="#B" n="34"/>accidens: puta subiectum coloris: vt Diari filius videin 
+   <lb ed="#B" n="35"/>secundo de anima. quia color eius videtur, nec videtur tanum 
+   <lb ed="#B" n="36"/>contentum in continente: vt homo in armis vel vestibus: 
+   <lb ed="#B" n="37"/>&amp; vinum in vase, quia hostia non est locus eucharistiae: 
+   <lb ed="#B" n="38"/>sed aer hostiam circunstans: licet circumscriptiue hostiam 
+   <lb ed="#B" n="39"/>&amp; definitiue corpus Christi locet. Nec videntur esse 
+   <lb ed="#B" n="40"/>plures modi videndi. sed nullo istorum modorum
+   vi<lb ed="#B" n="41" break="no"/>detur. igitur.
+  </p>
+      <p xml:id="jMqv4a-d1e297-d1e417">
+   ⁋ Respondetur. corpus Christi videtur in  
+   <lb ed="#B" n="42"/>eucharistia. Probatio. mundus ita loquitur: &amp; scriptu 
+   <lb ed="#B" n="43"/>ra talem modum loquendi insequitur: &amp; nominia ad
+   placi<lb ed="#B" n="44" break="no"/>tum vtentium significant. ergo absolute illa est conce 
+   <lb ed="#B" n="45"/>denda. Ex his quae diximus patet aliquid videri apud 
+   <lb ed="#B" n="46"/>loquentes: quod immediate &amp; per se non terminat visum: 
+   <lb ed="#B" n="47"/>vt patet de substantia. immo si maneret eadem albedo 
+   <lb ed="#B" n="48"/>diuersis subiectis inhaerens: eadem visione diceretur 
+   <lb ed="#B" n="49"/>quaelibet earum substantiarum videri. sicut in dist. xlix. 
+   <lb ed="#B" n="50"/>huius dicemus. Ad partem negatiuam. Respondeo quod non 
+   <lb ed="#B" n="51"/>enumerasti sufficienter modos quibus videre
+   dici<lb ed="#B" n="52" break="no"/>mut, quando enim sunt duo coniuncta certitudinaliter certi 
+   <lb ed="#B" n="53"/>tudine morali, dicimus si vnum videamus aliud
+   vide<lb ed="#B" n="54" break="no"/>mus: vt angelus videtur quia corpus assumptum videtur: 
+   <!--0144.xml-->
+   <cb ed="#B" n="b"/> 
+       <!-- 56-v b -->
+       <lb ed="#B" n="55"/>&amp; corpus ratione albedinis. legitur enim ludicum. xiii. 
+   <lb ed="#B" n="56"/>Intellexit Manue angelum domini esse: &amp; dixit ad vxo 
+   <lb ed="#B" n="57"/>rem suam: morte moriemur quia vidimus dominum. &amp;
+   Ba<lb ed="#B" n="58" break="no"/>ruch. iii. de deo dicitur. post hoc in terris visus est: &amp; 
+   <lb ed="#B" n="59"/>cum hominibus conversatus. &amp; Ioannis vltimo. Quia vi 
+   <lb ed="#B" n="60"/>disti me Thoma credidisti. illic (me) pro Christo 
+   <lb ed="#B" n="61"/>supponit: &amp; non pro humanitate.
+  </p>
+      <p xml:id="jMqv4a-d1e297-d1e469">
+   ⁋ Colligendo
+   reso<lb ed="#B" n="62" break="no"/>lutionem huius dubitationis dicitur quod vulgus vere di 
+   <lb ed="#B" n="63"/>cit. vidi deum leuatum. patet. videt Christum: ergo deum. 
+   <lb ed="#B" n="64"/>Antecedens patet. quia videt humanitatem Christi:  
+   <lb ed="#B" n="65"/>ergo Christum &amp; deum: vt auctoritate scripturae
+   proba<lb ed="#B" n="66" break="no"/>uimus. illud vltimum antecedens patet: quia videt
+   eu<lb ed="#B" n="67" break="no"/>charistiam corpori Christi inseparabiliter coniunctam. 
+   <lb ed="#B" n="68"/>non aliter enim videtur deus vel angelus. Nec refert si 
+   <lb ed="#B" n="69"/>non consecret sacerdos: licet tunc populus dicat
+   fal<lb ed="#B" n="70" break="no"/>sum. quia non mentitur: nec impeditur communis modus
+   lo<lb ed="#B" n="71" break="no"/>quendi propter illud quod est rarum: quemadmodum si esset 
+   <lb ed="#B" n="72"/>vnum dolium plenum aqua, exterius delinitum vino:
+   in<lb ed="#B" n="73" break="no"/>ter caetera dolia vini supputaretur a vulgo. Aliud  
+   <lb ed="#B" n="74"/>exemplum. dicimus, Petrus vidit Christum: quia vidit
+   hu<lb ed="#B" n="75" break="no"/>manitatem assumptam a verbo: &amp; humanitatem assum 
+   <lb ed="#B" n="76"/>ptam vidit, quia albedinem ei inhaerentem vidit vltima 
+   <lb ed="#B" n="77"/>te tanquam obiectum per se visus. Et idem est ac si esset 
+   <lb ed="#B" n="78"/>vna facies quae haberet albedinem ei semper extrin 
+   <lb ed="#B" n="79"/>sece propinquam &amp; non ei inhaerentem: illa enim dicere 
+   <lb ed="#B" n="80"/>tur videri. Et per consequens ex toto habetur quod 
+   <lb ed="#B" n="81"/>corpus Christi videtur a vulgo, &amp; deus: quod
+   principa<lb ed="#B" n="82" break="no"/>liter intendimus in hac dubitatione.
+  </p>
+    </div>
+   </body>
+  </text>
+</TEI>

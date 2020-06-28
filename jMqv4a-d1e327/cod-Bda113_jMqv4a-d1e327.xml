@@ -1,0 +1,446 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 2</title>
+      <author ref="#JohnMair">John Mair</author>
+      <respStmt>
+       <name>Jeffrey C. Witt</name>
+       <resp>TEI Encoder</resp>
+      </respStmt>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 2</title>
+       <date when="2020-06-09">June 27, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="B" n="cod-Bda113">Badius 1516</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+     guidelines for a diplomatic edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-06-27" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+      <pb ed="#B" n="61-v"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="jMqv4a-d1e327"> <!-- l4d12q2 -->
+      <head xml:id="jMqv4a-d1e327-Hd1e104">Quaestio 2</head>
+      <head xml:id="jMqv4a-d1e327-Hd1e107" type="question-title">An quantitas distinguatur a re quanta</head>
+      <p xml:id="jMqv4a-d1e327-d1e110">
+   <!--0154.xml-->
+       <cb ed="#B" n="b"/> 
+       <!-- 61-v b -->
+       <lb ed="#B" n="52"/>Ecundo loco: inuxta 
+   <lb ed="#B" n="53"/>d quod promisi, inquiram an  
+   <lb ed="#B" n="54"/>quatitas distinguatur a re quan 
+   <lb ed="#B" n="55"/>ta, nec alienum hic quaero a theo 
+   <lb ed="#B" n="56"/>logia. tum quod Ricardus Medil 
+   <lb ed="#B" n="57"/>ltonus: doctor subtilis, &amp;
+   ple<lb ed="#B" n="58" break="no"/>Qrique alii idipsum hoc loco inqui 
+   <lb ed="#B" n="59"/>rant. Tum secudo. quod ad intelligendam materiam quam tra 
+   <lb ed="#B" n="60"/>ctamus, plurimum conducat.
+  </p>
+      <p xml:id="jMqv4a-d1e327-d1e139">
+   ⁋ Circa hanc materiam 
+   <lb ed="#B" n="61"/>duas ponam positiones cum earum solutionibus, &amp; 
+   <lb ed="#B" n="62"/>succincte: cu metaphysicam tractemus. Positio vna 
+   <lb ed="#B" n="63"/>tenet: quod quantitas distinguitur a re quanta: &amp; est vnum 
+   <lb ed="#B" n="64"/>accidens suum subiectum extendens &amp; quantum
+   denomi<lb ed="#B" n="65" break="no"/>nans: sicut albedo rem albam denominat: &amp; caetera
+   ac<lb ed="#B" n="66" break="no"/>cidentia: sicut materia &amp; totum compositum denominam 
+   <lb ed="#B" n="67"/>tur quanta: vel quia ei inhaeret inhaesiue quantitas vt 
+   <lb ed="#B" n="68"/>aliquibus placet: vel quia inhaeret eidem subiecto cui 
+   <lb ed="#B" n="69"/>quatitas inhaeret. Probatur haec positio auctoritate 
+   <lb ed="#B" n="70"/>Arist. primo Physicorum. Si substantia &amp; quantum 
+   <lb ed="#B" n="71"/>sunt duo sunt quae sunt: &amp; non vnum est quod est. ergo  
+   <lb ed="#B" n="72"/>realiter distinguuntur. Non valet dicere. si quantum est 
+   <lb ed="#B" n="73"/>plura sunt: quia pars extra partem est. &amp; per consequens plu 
+   <lb ed="#B" n="74"/>ra sunt. quia tunc inaniter dixisset philosophus: si 
+   <lb ed="#B" n="75"/>substantia &amp; quantum sunt: cum suffecisset dicere: si 
+   <lb ed="#B" n="76"/>quantum est. Tum secundo Arist. debuit probare distin  
+   <lb ed="#B" n="77"/>ctionem specificam rerum: &amp; non numeralem: oppositum 
+   <lb ed="#B" n="78"/>enim num qui vlli sapientes voluerunt: ergo intentio
+   phi<lb ed="#B" n="79" break="no"/>sophi erat dicere quod substantia nulla est quantitas. 
+   <lb ed="#B" n="80"/>hoc idem tenet vulgaris opinio tam nominalium 
+   <lb ed="#B" n="81"/>aliquorum quam realium vtrobique. 
+  </p>
+      <p xml:id="jMqv4a-d1e327-d1e188">
+       <lb ed="#B" n="82"/>⁋ Contra hanc opinionem arguitur 
+   <lb ed="#B" n="83"/>probando quod quantitas ista est superflua: notum est quod 
+   <lb ed="#B" n="84"/>ipsa non ponitur vt res quanta habeat partes: quia de 
+   <lb ed="#B" n="85"/>facto intrinsece sine quantitate habet plures partes. 
+   <lb ed="#B" n="86"/>Sed dices. superadditur rei quantae vt extendat
+   par<lb ed="#B" n="87" break="no"/>tes eius: vt lignum pedale extenditur pedaliter ratio 
+   <lb ed="#B" n="88"/>ne quantitatis.
+  </p>
+      <p xml:id="jMqv4a-d1e327-d1e206">
+   ⁋ Sed contra hoc arguitur. separet 
+   <lb ed="#B" n="89"/>deus totam illam quantitatem: partibus ligni in eisdem
+   si<lb ed="#B" n="90" break="no"/>tibus conseruatis: iam illud lignum est pedaliter
+   ex<lb ed="#B" n="91" break="no"/>tensum sine illa quantitate. ergo superflue ipsa ponitur. 
+   <lb ed="#B" n="92"/>mirum est dictu quod deus non possit separare quanti 
+   <lb ed="#B" n="93"/>tatem a substantia: partibus substantiae conseruatis: 
+   <lb ed="#B" n="94"/>potissimum cum sint duo absoluta: quorum nullum est 
+   <lb ed="#B" n="95"/>pars alterius. Sed hic potest dici admisso casu quod 
+   <lb ed="#B" n="96"/>quaelibet pars erit penetratiue cum alia: &amp; erit pene 
+   <lb ed="#B" n="97"/>tratiue in loco magno vel paruo, prout deo pla 
+   <lb ed="#B" n="98"/>cebit: quia naturaliter non loquimur. &amp; ratio est 
+   <lb ed="#B" n="99"/>quia quantitas solam substantia extendit per
+   funda<lb ed="#B" n="100" break="no"/>mentu: ergo ipsa sublata / substantia non erit
+   exten<lb ed="#B" n="101" break="no"/>sa. bene autem est extemsibilis per nouae quantitatis apu 
+   <lb ed="#B" n="102"/>positionem. Potest etiam dici quod quantitas datur
+   sub<lb ed="#B" n="103" break="no"/>stantiae vt eam faciat occupare locum: &amp; non vt eam ex 
+   <lb ed="#B" n="104"/>tendat. occupare enim locum est alteri corpori resiste 
+   <lb ed="#B" n="105"/>re nae suum locum ingrediatur. &amp; hoc convenit ei na- 
+   <!--0155.xml-->
+   <pb ed="#B" n="62-r"/>
+       <cb ed="#B" n="a"/>
+       <lb ed="#B" n="1"/>turaliter pro lege viae. secus est pro lege patriae: in 
+   <lb ed="#B" n="2"/>qua est penetratio corporum beatorum secundum legem 
+   <lb ed="#B" n="3"/>dei communem: quemadmodum est alia lex communis 
+   <lb ed="#B" n="4"/>puniendi peccata post vitam: &amp; alia in vita.
+  </p>
+      <p xml:id="jMqv4a-d1e327-d1e260">
+   ⁋ Sed 
+   <lb ed="#B" n="5"/>contra illud arguitur: quia ex hac solutione
+   sequi<lb ed="#B" n="6" break="no"/>tur: quod equus cuius tota quantitas esset ablata non  
+   <lb ed="#B" n="7"/>posset ferre vnam fabam. consequens est inconveniens. 
+   <lb ed="#B" n="8"/>&amp; quod sequatur, sic patet. faba est grauis appetens 
+   <lb ed="#B" n="9"/>descendere: &amp; non habet resistentiam: ergo faba
+   per<lb ed="#B" n="10" break="no"/>transibit totum equum. Immo sequitur quod si tota
+   quanti<lb ed="#B" n="11" break="no"/>tas sphaerae terrae esset ablata: tota terra descenderet 
+   <lb ed="#B" n="12"/>ad centrum. cum enim quaelibet portio terrae sit grauis: &amp; 
+   <lb ed="#B" n="13"/>appetat descendere: &amp; non habeat impedimentum: non 
+   <lb ed="#B" n="14"/>quiescet ante centrum.
+  </p>
+      <p xml:id="jMqv4a-d1e327-d1e284">
+   ⁋ Respondetur. Illud non demon 
+   <lb ed="#B" n="15"/>strat contra positionem quis concederetur totum illatum, 
+   <lb ed="#B" n="16"/>quod inconveniens est. Admisso tamen illo supernaturali: 
+   <lb ed="#B" n="17"/>dicetur secundo / quod qualitates non sunt actiuae seclu 
+   <lb ed="#B" n="18"/>sa quantitate: &amp; sic grauitas non aget. Dici etiam potest 
+   <lb ed="#B" n="19"/>tertio, quod quando quantitas tollitur ab aliquo
+   cor<lb ed="#B" n="20" break="no"/>pore: partes superiores non appetunt descendere in in  
+   <lb ed="#B" n="21"/>feriores in corruptionem totius. secus est in alio 
+   <lb ed="#B" n="22"/>corpore.
+  </p>
+      <p xml:id="jMqv4a-d1e327-d1e304">
+   ⁋ Secundo arguitur. capto vno corpori 
+   <lb ed="#B" n="23"/>bipedali: ab altera medietate seperetur tota quantitas: 
+   <lb ed="#B" n="24"/>quantitate in alia medietate manete. istae duae medie 
+   <lb ed="#B" n="25"/>tates adhuc continuantur, &amp; sine quantitate: ergo ipsa 
+   <lb ed="#B" n="26"/>est inanis. quod continuentur patet: quia non separantur &amp; 
+   <lb ed="#B" n="27"/>segregantur partes a se inuicem: quia si sic, continuum 
+   <lb ed="#B" n="28"/>in omnem suam partem diuideretur: quod non est dicendum. 
+  </p>
+      <p xml:id="jMqv4a-d1e327-d1e320">
+       <lb ed="#B" n="29"/>⁋ Respondetur. illud argumentum non concludit: quod 
+   <lb ed="#B" n="30"/>sic declarari potest: quia similis difficultas omnino pot 
+   <lb ed="#B" n="31"/>duci contra opinionem oppositam: capiendo corpus bi 
+   <lb ed="#B" n="32"/>pedale cuius quantitas per te est sua substantia. Deus 
+   <lb ed="#B" n="33"/>enim potest per te ponere vnam medietatem penetratiue in 
+   <lb ed="#B" n="34"/>loco cum qualibet alia parte eius: reliqua medietate 
+   <lb ed="#B" n="35"/>stante extensa: &amp; tunc quaero abs te: quae erit illic
+   conti<lb ed="#B" n="36" break="no"/>nuatio, vel partium separatio: &amp; qualitercumque tu di 
+   <lb ed="#B" n="37"/>xeris, sic illic dici poterit. Pro vtraque via dicitur quod 
+   <lb ed="#B" n="38"/>est entitatiua continuatio partium / &amp; non quantitatiua 
+  </p>
+      <p xml:id="jMqv4a-d1e327-d1e345">
+       <lb ed="#B" n="39"/>⁋ Tertio arguitur. ex hac positione sequitur quod si al 
+   <lb ed="#B" n="40"/>bedo esset separata a quatitate, esset insensibilis. 
+   <lb ed="#B" n="41"/>consequens est falsum. quod sequatur patet: quia non ha 
+   <lb ed="#B" n="42"/>bet partes extensas.
+  </p>
+      <p xml:id="jMqv4a-d1e327-d1e356">
+   ⁋ Respondetur secundum duas ima 
+   <lb ed="#B" n="43"/>ginationes praedictas. Secundum priorem vno modo 
+   <lb ed="#B" n="44"/>respondetur quod requiritur modus quantitatiuus ad 
+   <lb ed="#B" n="45"/>hoc vt agat ad visionem. Secundo modo nego quod 
+   <lb ed="#B" n="46"/>non videatur si deus ad visionem actione general 
+   <lb ed="#B" n="47"/>concurrat: &amp; hoc si albedo extensionem habeat: hoc 
+   <lb ed="#B" n="48"/>enim stat cum partium penetratione: vtpote si capiatur 
+   <lb ed="#B" n="49"/>albedo palmalis: &amp; ponatur quaelibet pars cum qua 
+   <lb ed="#B" n="50"/>libet per totam illam partem palmalem: iam illa
+   vi<lb ed="#B" n="51" break="no"/>debitur. Tertio, tenendo secundam imaginationem 
+   <lb ed="#B" n="52"/>quod quantitas continua solum facit resistentiam ne 
+   <lb ed="#B" n="53"/>aliud corpus ingrediatur locum eius, &amp; non
+   extem<lb ed="#B" n="54" break="no"/>sionem: tunc non requiritur quantitas ad hoc vllo 
+   <lb ed="#B" n="55"/>modo vt sentiatur: sed nulli corpori resistit: quia 
+   <!--0155.xml-->
+   <cb ed="#B" n="b"/> 
+       <!-- 62-r b -->
+       <lb ed="#B" n="56"/>non coniungitur quantitati quae est causa alteri cor 
+   <lb ed="#B" n="57"/>pori resistendi. quo fit: quod si tota quantitas
+   sepa<lb ed="#B" n="58" break="no"/>raretur a mari in loco profundissimo: &amp; poneretur 
+   <lb ed="#B" n="59"/>in illo gleba terrae vel piscis, subito descenderet: 
+   <lb ed="#B" n="60"/>sicut in vacuo. 
+  </p>
+      <p xml:id="jMqv4a-d1e327-d1e404">
+       <lb ed="#B" n="61"/>⁋ Alia nominalium positio est quod quam 
+   <lb ed="#B" n="62"/>titas nulla distinguitur a re quanta vel rebus quam 
+   <lb ed="#B" n="63"/>tis: sed quantitas materiae est materia ipsa: &amp;
+   quan<lb ed="#B" n="64" break="no"/>titas formae substantialis est sua forma: &amp;
+   quanti<lb ed="#B" n="65" break="no"/>tas albedinis materiae inhaerentis est ipsa albedo.  
+  </p>
+      <p xml:id="jMqv4a-d1e327-d1e417">
+       <lb ed="#B" n="66"/>⁋ Ex hac autem positione sequuntur propositiones. 
+   <lb ed="#B" n="67"/>quarum Prima est. Aliqua quatitas est substantia, 
+   <lb ed="#B" n="68"/>&amp; aliqua quantitas est qualitas. Secundo sequitur, quod 
+   <lb ed="#B" n="69"/>in transubstantiatione panis in sacramento
+   Eucha<lb ed="#B" n="70" break="no"/>ristiae manet quantitas &amp; qualitas: non tamen quantitas 
+   <lb ed="#B" n="71"/>substantiae panis: sicut si virga viridis arescat: quan 
+   <lb ed="#B" n="72"/>titas substantia manet: quia materia &amp; quantitas 
+   <lb ed="#B" n="73"/>substantia vna desinit esse: scilicet forma vegeta-: 
+   <lb ed="#B" n="74"/>tiua: &amp; alia quantitas acquiritur. Tertio sequitur quod 
+   <lb ed="#B" n="75"/>plura corpora de praedicamento quatitatis
+   na<lb ed="#B" n="76" break="no"/>turaliter sunt simul, &amp; est talium corporum naturalis 
+   <lb ed="#B" n="77"/>penetratio: non autem corporum de praedicamento substam 
+   <lb ed="#B" n="78"/>tiae. Videmus enim quod equus non igreditur locum foe 
+   <lb ed="#B" n="79"/>ni nisi foeno sublato. ratione &amp; experimento id
+   co<lb ed="#B" n="80" break="no"/>gnoscimus. Ex isto manifeste sequitur quod
+   dimen<lb ed="#B" n="81" break="no"/>sionum informatiue vel inhaesiue se habentium
+   possi<lb ed="#B" n="82" break="no"/>bilis est peneti atio cum suo subiecto: &amp; non aliter per 
+   <lb ed="#B" n="83"/>naturam: quia nullum agens, penetrationem
+   dimensio<lb ed="#B" n="84" break="no"/>num facere potest nisi producendo vnum in alio informa 
+   <lb ed="#B" n="85"/>tiue vel inhaesiue. Quarto sequitur quod aliquae sub 
+   <lb ed="#B" n="86"/>stantiae sunt quantitates: quarum nulla est quantitas. pa 
+   <lb ed="#B" n="87"/>tet de binario angelorum. irrationabile autem puto te 
+   <lb ed="#B" n="88"/>nere quod quantitas discreta distinguatur a re
+   quanta<lb ed="#B" n="89" break="no"/>Quinto sequitur. quod aliqua est quantitas: quae nec est 
+   <lb ed="#B" n="90"/>substantia nec accidens. patet de angelo &amp; eius
+   no<lb ed="#B" n="91" break="no"/>titia. &amp; sic aliqua est quatitas quae nec est substantia 
+   <lb ed="#B" n="92"/>&amp; accidens copulatim: nec accidentia &amp; substantiae. 
+   <lb ed="#B" n="93"/>quod patet de pluribus accidentibus &amp; vna substan 
+   <lb ed="#B" n="94"/>tia indiuisibili. Sexto sequitur: quod numerus par 
+   <lb ed="#B" n="95"/>est numerus impar. patet de Sorte. &amp; licet nume 
+   <lb ed="#B" n="96"/>rus impar non possit diuidi in duo aequalia secundum  
+   <lb ed="#B" n="97"/>illam dimensionem: bene tamen in duo aequalia simpli 
+   <lb ed="#B" n="98"/>citer. Septimo sequitur quod aliquis numerus est
+   cu<lb ed="#B" n="99" break="no"/>iuscumque speciei numerorum numerus. patet de Sor 
+   <lb ed="#B" n="100"/>te qui est binarius suarum partium: ternarius suarum
+   per<lb ed="#B" n="101" break="no"/>tium: &amp; sic consequenter, tenendo totum esse suas pat 
+   <lb ed="#B" n="102"/>tes. Octauo sequitur quod a. bipedalitas erit quanti 
+   <lb ed="#B" n="103"/>tas, quando nulla quantitas erit a. bipedalitas. patet 
+   <lb ed="#B" n="104"/>si a. bipedale condensetur ad subduplum: inam a. de 
+   <lb ed="#B" n="105"/>sinit esse bipedalitas: &amp; tamen a, non desinit esse quan 
+   <lb ed="#B" n="106"/>titas. Nono sequitur quod quantitatem deus non potenst 
+   <lb ed="#B" n="107"/>facere quin ipsa erit quantitas: licet quantitatem con 
+   <lb ed="#B" n="108"/>tinuam facere possit quando non erit continua: vt si 
+   <lb ed="#B" n="109"/>omnes partes penetratiue simul ponantur. tunc enim 
+   <!--0156.xml-->
+   <pb ed="#B" n="62-v"/>
+       <cb ed="#B" n="a"/>
+       <lb ed="#B" n="1"/>stando in terminis potest dici non esse continua 
+   <lb ed="#B" n="2"/>cum partes non extendantur. Decimo sequitur 
+   <lb ed="#B" n="3"/>quod quantitas est actiua actione reali. patet. haec qua 
+   <lb ed="#B" n="4"/>litas est actiua actione reali: haec qualitas est quan 
+   <lb ed="#B" n="5"/>titas: ergo haec quantitas est actiua actione
+   reali<lb ed="#B" n="6" break="no"/>sed hoc non est ratione quantitatis: sed ratione qua 
+   <lb ed="#B" n="7"/>litatis. Vndecima propositio. quantitas suscipit 
+   <lb ed="#B" n="8"/>magis &amp; minus: sed hoc est ratione qualitatis. 
+   <lb ed="#B" n="9"/>Duodecima propositio. alteratio est motus ad 
+   <lb ed="#B" n="10"/>quantitatem: sed non acquiritur quantitas ratio 
+   <lb ed="#B" n="11"/>ne alterationis. 
+  </p>
+      <p xml:id="jMqv4a-d1e327-d1e545">
+       <lb ed="#B" n="12"/>⁋ Contra hanc conclusionem arguitur. 
+   <lb ed="#B" n="13"/>Catera vesicae non possunt comprimi: nec latera
+   fol<lb ed="#B" n="14" break="no"/>lis. &amp; hoc non est ratione materiae aeris: quae nullius 
+   <lb ed="#B" n="15"/>actiuitatis est: nec formae aeris: quae potest
+   conden<lb ed="#B" n="16" break="no"/>sari: &amp; per consequens non est ratione totius. &amp; patet / 
+   <lb ed="#B" n="17"/>quia est maior aer in campis: qui tamen non resistit 
+   <lb ed="#B" n="18"/>volationi muscae. relinquitur ergo quod sit ratione 
+   <lb ed="#B" n="19"/>alicuius alterius tertii ab his distincti: scilicet quan 
+   <lb ed="#B" n="20"/>titatis: ergo quantitas distinguitur a re quanta- 
+  </p>
+      <p xml:id="jMqv4a-d1e327-d1e567">
+       <lb ed="#B" n="21"/>⁋ Respodetur: hoc argumentum non potest iuuare ad 
+   <lb ed="#B" n="22"/>uersarios. tum quia quatitas non est de numero 
+   <lb ed="#B" n="23"/>actiuorum secundum eos. tum secundo etiam in condensa 
+   <lb ed="#B" n="24"/>tione &amp; rarefactione tenendo oppositum non producil 
+   <lb ed="#B" n="25"/>noua quantitas secundum saniorem viam de
+   rarefa<lb ed="#B" n="26" break="no"/>ctione. Respondetur ergo quod totus ille aer resistit 
+   <lb ed="#B" n="27"/>ne condensetur: sed motus localis non est
+   conden<lb ed="#B" n="28" break="no"/>satiuus aeris. si autem vesica poneretur in aqua diu: 
+   <lb ed="#B" n="29"/>condensaretur, &amp; facile latera eius applicarentur si 
+   <lb ed="#B" n="30"/>mul: vel magis appropinquarent. Nihil est quod ar 
+   <lb ed="#B" n="31"/>gumentum assumit de aere in campo muscae non re 
+   <lb ed="#B" n="32"/>sistente: quia illic cedit &amp; liberumhabet exitum: sed non 
+   <lb ed="#B" n="33"/>potest egredi latera vesice vel follis si foramina 
+   <lb ed="#B" n="34"/>claudantur. nihil autem hic resistit nisi aer ipse ratione 
+   <lb ed="#B" n="35"/>formae suae: quam quantitatem etiam dicimus. Eodem 
+   <lb ed="#B" n="36"/>modo dicatur de vrinali pleno aere, orificio posi 
+   <lb ed="#B" n="37"/>to super ignem: dum frangitur vitrum: quod nullo modo 
+   <lb ed="#B" n="38"/>frangitur a quantitate, quae est nullius actiuitatis: sed  
+   <lb ed="#B" n="39"/>ab aere &amp; eius forma. cum enim rarefiat a calore, ma 
+   <lb ed="#B" n="40"/>iorem locum occupet oportet: &amp; quia non potest penetra 
+   <lb ed="#B" n="41"/>re latera vrinalis, totum frangit. sicut olla tua non  
+   <lb ed="#B" n="42"/>plena lacte frigido vel aqua cum bene calefit, rate 
+   <lb ed="#B" n="43"/>fit liquor &amp; operculum pellit quod si non habeat
+   obsta<lb ed="#B" n="44" break="no"/>culum clausum: vas ipsum aeneum successu tempo 
+   <lb ed="#B" n="45"/>ris dissoluet &amp; rumpet: nisi eius resistentia fuerit ma 
+   <lb ed="#B" n="46"/>ior, quam actiuitas corporis rarefacti capaciores
+   pe<lb ed="#B" n="47" break="no"/>tentis agros.
+  </p>
+      <p xml:id="jMqv4a-d1e327-d1e629">
+   ⁋ Secundo arguitur. Propositio in qua 
+   <lb ed="#B" n="48"/>negatur vnum genus generalissimum de alio, est im 
+   <lb ed="#B" n="49"/>mediata. primo posteriorum. sed omnis talis est vera: 
+   <lb ed="#B" n="50"/>ergo haec est vera: nulla substantia est quantitas.
+   pa<lb ed="#B" n="51" break="no"/>ri forma nulla quantitas est qualitas.
+  </p>
+      <p xml:id="jMqv4a-d1e327-d1e640">
+   ⁋
+   Responde<lb ed="#B" n="52" break="no"/>tur. Propositio dicitur immediata duobus
+   mo<lb ed="#B" n="53" break="no"/>dis. vno modo laxato vocabulo omnis illa
+   proposi<lb ed="#B" n="54" break="no"/>tio quae ratione extremorum suorum resolui in aliam 
+   <!--0156.xml-->
+   <cb ed="#B" n="b"/> 
+       <!-- 62-v b -->
+       <lb ed="#B" n="55"/>priorem non potest: siue sit vera siue falsa. Alio 
+   <lb ed="#B" n="56"/>modo proprie: sicut Arist. capit in definitione 
+   <lb ed="#B" n="57"/>scire, primo posteriorum. pro illa scilicet qua nulla est 
+   <lb ed="#B" n="58"/>prior quo ad euidentiam. primo modo capit
+   Ari<lb ed="#B" n="59" break="no"/>sto. in illo loco. 
+  </p>
+      <p xml:id="jMqv4a-d1e327-d1e666">
+       <lb ed="#B" n="60"/>⁋ Nunc respondendum est ad
+   ar<lb ed="#B" n="61" break="no"/>gumentum Aristo. in principio quaestionis assum  
+   <lb ed="#B" n="62"/>ptum: quo nisi sumus probare positionem
+   opposi<lb ed="#B" n="63" break="no"/>tam <name xml:id="jMqv4a-d1e327-Nd1e676" ref="#Aristotle">Aristotelis.</name> Dico igitur quod sufficit <name xml:id="jMqv4a-d1e327-Nd1e680" ref="#Aristotle">Aristoteli</name> 
+       <lb ed="#B" n="64"/>probare pluralitatem numeralem rerum. Secundo loqui 
+   <lb ed="#B" n="65"/>tur de substantia impartibili &amp; quantitate quae specie 
+   <lb ed="#B" n="66"/>distinguuntur. supponebat enim aliquas substantias 
+   <lb ed="#B" n="67"/>indiuisibiles. Tertio dico, quod non sequitur: Aristo. 
+   <lb ed="#B" n="68"/>tenuit oppositum: ergo illud non est probabile: immo 
+   <lb ed="#B" n="69"/>tat quod sit probabilius opinione eius. cum hoc tamen 
+   <lb ed="#B" n="70"/>quamlibet talem opinionem &amp; eius oppositam
+   niti<lb ed="#B" n="71" break="no"/>mut viae Aristit conformare.
+  </p>
+      <p xml:id="jMqv4a-d1e327-d1e701">
+   ⁋ Nunc vidimus de 
+   <lb ed="#B" n="72"/>quantitate an distinguatur a re quanta nec ne. &amp; li 
+   <lb ed="#B" n="73"/>cet vtraque positio sit sustentabilis: pars negatiua est 
+   <lb ed="#B" n="74"/>apparentior. tum quod ita facile &amp; facilius soluit
+   ar<lb ed="#B" n="75" break="no"/>gumenta aduersariorum quam contra. tum secundo quod non 
+   <lb ed="#B" n="76"/>multiplicat res perperam. De quantitate autem 
+   <lb ed="#B" n="77"/>discreta &amp; impartibilibus in quantitate, alibi
+   lo<lb ed="#B" n="78" break="no"/>quor. quae nullo modo distingui a re quanta iu 
+   <lb ed="#B" n="79"/>dico. Ex his autem nescis improbare numerum
+   de<lb ed="#B" n="80" break="no"/>narium praedicamentorum: cum praedicamenta 
+   <lb ed="#B" n="81"/>penes modos significandi vocabulorum, &amp; non 
+   <lb ed="#B" n="82"/>distinctionem rerum distinguantur: vt in logicis 
+   <lb ed="#B" n="83"/>satis protritum est 
+  </p>
+      <p xml:id="jMqv4a-d1e327-d1e730">
+       <lb ed="#B" n="84"/>⁋ Reliquu est videre an accidentia 
+   <lb ed="#B" n="85"/>alia quantitati inhaereant. Potest hic bifariam
+   dici<lb ed="#B" n="86" break="no"/>primo quod nullum accidens est subiectum acciden 
+   <lb ed="#B" n="87"/>tis. dicit enim <name xml:id="jMqv4a-d1e327-Nd1e740" ref="#Aristotle">Aristote.</name> in vltima proprietate
+   sub<lb ed="#B" n="88" break="no"/>stantiae. Maxime proprium est substantiae cum sit vna 
+   <lb ed="#B" n="89"/>&amp; eadem numero, quod sit susceptiua cotrariorum. 
+   <lb ed="#B" n="90"/>lbi enim maxime capitur aduerbialiter: ita vt ei so 
+   <lb ed="#B" n="91"/>li conueniat. Et si dicas. proprium est superficiei 
+   <lb ed="#B" n="92"/>primo colorari. quinto topicorum. Et in
+   praedica<lb ed="#B" n="93" break="no"/>mento quantitatis dicit philosophus. Quata fuerit 
+   <lb ed="#B" n="94"/>superficies tantum album fore dices. Dico substantiam 
+   <lb ed="#B" n="95"/>quo ad partem superiorem esse superficiem. &amp; in 
+   <lb ed="#B" n="96"/>lud patet quarto Metaphysicae ex philosopho di 
+   <lb ed="#B" n="97"/>cente. Accidens non accidit accidenti: nisi quia am 
+   <lb ed="#B" n="98"/>bo accidunt eidem subiecto. Si dicas: Arist.
+   di<lb ed="#B" n="99" break="no"/>cit octauo Physicorum textu commenti quinquage 
+   <lb ed="#B" n="100"/>simi. Quantitas primo inest: deinde alia accidentia. 
+   <lb ed="#B" n="101"/>Et Auicenna secundo Metaphysicae dicit quod vnum 
+   <lb ed="#B" n="102"/>accidens est subiectum alterius. Respondetur 
+   <lb ed="#B" n="103"/>Philosophus intellexit quod vnum accidens aliud prae 
+   <lb ed="#B" n="104"/>supponit: &amp; praesuppositum reputatur subiectum 
+   <lb ed="#B" n="105"/>alterius. sic etiam intelligatur Auicenna. sicut
+   dici<lb ed="#B" n="106" break="no"/>mus quod priuilegium clericale fundatur in prima 
+   <lb ed="#B" n="107"/>tonsura, vel corona. Et adhuc probatur quod dici- 
+   <!--0157.xml-->
+   <pb ed="#B" n="63-r"/>
+       <cb ed="#B" n="a"/>
+       <lb ed="#B" n="1"/>mus ratione suasiua: quia plus videtur quantitas 
+   <lb ed="#B" n="2"/>a substantia dependere: quam qualitas a quantitate: cum 
+   <lb ed="#B" n="3"/>substantia sit basis &amp; prima causa respectu
+   acci<lb ed="#B" n="4" break="no"/>dentium. septimo Metaphysicae. quantitas autem 
+   <lb ed="#B" n="5"/>solum est dispositio media: ergo si quantitas est 
+   <lb ed="#B" n="6"/>sine subiecto, idem erit de qualitate. Praeterea.
+   qua<lb ed="#B" n="7" break="no"/>litas est perfectior quantitate. ergo si quantitati non 
+   <lb ed="#B" n="8"/>repugnat esse sine subiecto: nec qualitati repugna 
+   <lb ed="#B" n="9"/>bit. Perfectio qualitatis super quantitatem sic oster 
+   <lb ed="#B" n="10"/>ditur. qualitas est actiua actione reali: qua caret 
+   <lb ed="#B" n="11"/>quantitas tenendo eius distinctionem a
+   qualitate<lb ed="#B" n="12" break="no"/>vel secundum aliam positionem, inquantum quantitas. 
+   <lb ed="#B" n="13"/>Secundo. angelis &amp; animabus substantiis nobi 
+   <lb ed="#B" n="14"/>libus perfectis respondent qualitates, non sic quan 
+   <lb ed="#B" n="15"/>titates: quia non oportet nobiliorem substantiam ma 
+   <lb ed="#B" n="16"/>iorem habere quantitatem, quod patet de elementis 
+   <lb ed="#B" n="17"/>quae maiorem habent quantitatem: &amp; tamen inter 
+   <lb ed="#B" n="18"/>substantias sunt infima. etiam per qua litates sub 
+   <lb ed="#B" n="19"/>stantiae perfectae suos fines attingunt: vt beati spiri 
+   <lb ed="#B" n="20"/>tus per visionem &amp; dilectionem dei: non autem per
+   quanti<lb ed="#B" n="21" break="no"/>tatem. Item Magister absolute in litera dicit acci 
+   <lb ed="#B" n="22"/>dentia esse extra subiectum: &amp; ecclesia vtitur in 
+   <lb ed="#B" n="23"/>festo corporis Christi tali modo loquendi: ergo 
+   <lb ed="#B" n="24"/>rationabilius est dicere hic omnia accidentia esse 
+   <lb ed="#B" n="25"/>extra subiectum. Potest tamen defendi non impro 
+   <lb ed="#B" n="26"/>babiliter: quod reliqua accidentia quantitati inhaereant 
+  </p>
+      <p xml:id="jMqv4a-d1e327-d1e851">
+       <lb ed="#B" n="27"/>⁋ Ex quo hae colligendae sunt propositiones. Cum 
+   <lb ed="#B" n="28"/>species panis &amp; vini maneant eaedem post
+   conse<lb ed="#B" n="29" break="no"/>crationem quae fuerunt ante consecrationem (vt i 
+   <lb ed="#B" n="30"/>experientiam sensuum cognoscitur) &amp; cum illa ad 
+   <lb ed="#B" n="31"/>cidentia non inhaereant substantiae panis &amp; vinit 
+   <lb ed="#B" n="32"/>quia non sunt: nec corpori Christi inhaerent: vt Ma 
+   <lb ed="#B" n="33"/>gister in litera dicit: &amp; bene. quia dato opposito 
+   <lb ed="#B" n="34"/>oportet qualitates contrarias inhaerere eidem sub 
+   <lb ed="#B" n="35"/>lecto primo etiam in summo, quod inconuenit. qui 
+   <lb ed="#B" n="36"/>autem simul sint in eodem loco, non est inconue 
+   <lb ed="#B" n="37"/>niens. quia sic oportet dicere de calore &amp; frigore 
+   <lb ed="#B" n="38"/>in corpore Christi secundum recitata in distinctio 
+   <lb ed="#B" n="39"/>ne decima. Nec ista accidentia possunt poni in
+   ae<lb ed="#B" n="40" break="no"/>re, quod patet de accidentibus interioribus hostiae 
+   <lb ed="#B" n="41"/>ergo necessarium est dicere quod aliquod accidens 
+   <lb ed="#B" n="42"/>illic est extra subiectum. scilicet quantitas in pat 
+   <lb ed="#B" n="43"/>te centrali hostiae: vel prope centrum hostiae. &amp; 
+   <lb ed="#B" n="44"/>cum ita sit de aliquibus accidentibus: similiter de 
+   <lb ed="#B" n="45"/>omnibus dicendum est: &amp; sic qualitates coassi 
+   <lb ed="#B" n="46"/>stunt quantitati: &amp; cum ipsa miscentur: sicut cum 
+   <lb ed="#B" n="47"/>substantia ante miscebantur. sed ei non inhaerent secun 
+   <lb ed="#B" n="48"/>dum vnum modum praelibatum. Secundum alium autem non 
+   <lb ed="#B" n="49"/>improbabilem qualitates quantitati inhaerent: &amp; sola 
+   <lb ed="#B" n="50"/>quantitas est extra subiectum.
+  </p>
+    </div>
+   </body>
+  </text>
+</TEI>

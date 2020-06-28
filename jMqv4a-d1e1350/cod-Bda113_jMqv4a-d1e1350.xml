@@ -1,0 +1,305 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 6</title>
+      <author ref="#JohnMair">John Mair</author>
+      <respStmt>
+       <name>Jeffrey C. Witt</name>
+       <resp>TEI Encoder</resp>
+      </respStmt>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 6</title>
+       <date when="2020-06-09">June 27, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="B" n="cod-Bda113">Badius 1516</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+     guidelines for a diplomatic edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-06-27" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+      <pb ed="#B" n="253-v"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="jMqv4a-d1e1350"> <!-- l4d25q6 -->
+      <head xml:id="jMqv4a-d1e1350-Hd1e104">Quaestio 6</head>
+      <head xml:id="jMqv4a-d1e1350-Hd1e107" type="question-title">An possit esse pactio in spiritualibus</head>
+      <p xml:id="jMqv4a-d1e1350-d1e110">
+       <lb ed="#B" n="23"/>⁋ Distinctionis Vigesimae quintae 
+   <lb ed="#B" n="24"/>Quaestio Sexta. 
+   <lb ed="#B" n="25"/>Exto quaeritur: An  
+   <lb ed="#B" n="26"/>possit esse pactio in spiritu 
+   <lb ed="#B" n="27"/>alibus. Respondetur per duas 
+   <lb ed="#B" n="28"/>conclusiones: quarum prior est. 
+   <lb ed="#B" n="29"/>Res spiritualis potest
+   pa<lb ed="#B" n="30" break="no"/>ctione duci pro re
+   spirituali<lb ed="#B" n="31" break="no"/>patet de permutatione
+   eccle<lb ed="#B" n="32" break="no"/>siarum: vt do tibi titulum ecclesiae meae: &amp; accipio ti 
+   <lb ed="#B" n="33"/>tulum ecclesiae tuae: ex quaestione praecedente. Secundo.  
+   <lb ed="#B" n="34"/>duo assueti celebrare: Sortes hora octaua, &amp; Pla 
+   <lb ed="#B" n="35"/>to decima, propter impedimentum possunt licite pa 
+   <lb ed="#B" n="36"/>cisci, quod si Plato hora octaua celebret, Sortes ho 
+   <lb ed="#B" n="37"/>ra decima celebrabit. In super episcopus confert
+   ali<lb ed="#B" n="38" break="no"/>cui ecclesiam curatam sub conditione si resignet
+   pri<lb ed="#B" n="39" break="no"/>mam: quae collatio valet. tacite enim inest quod per re 
+   <lb ed="#B" n="40"/>ceptionem secunde ecclesiae curatae vacat prima.
+   ca<lb ed="#B" n="41" break="no"/>De multa. de praeben. immo valet collatio benefi 
+   <lb ed="#B" n="42"/>cii sub conditione quod beneficiatus deberet quot 
+   <lb ed="#B" n="43"/>die missam de beata virgine celebrare. c. Signifi 
+   <lb ed="#B" n="44"/>catum. de praeb. Praeterea religiosi patres promittunt 
+   <lb ed="#B" n="45"/>alicui iuueni quod si bene studuerit biennio vel trien 
+   <lb ed="#B" n="46"/>nio, eum in religionem recipient. Et episcopus ho 
+   <lb ed="#B" n="47"/>neste dicit iuueni. Si bene studueris &amp; probum 
+   <lb ed="#B" n="48"/>te ostenderis, prouidebo tibi de beneficio. etiam 
+   <lb ed="#B" n="49"/>licite promittit quod si vitiosam vitam in bonam mu 
+   <lb ed="#B" n="50"/>tauerit, dabit ei beneficium.
+  </p>
+      <p xml:id="jMqv4a-d1e1350-d1e173">
+   ⁋ Secunda conclusio. 
+   <lb ed="#B" n="51"/>Res remporalis ecclesiae licite applicatur adiecto 
+   <lb ed="#B" n="52"/>onere spirituali: &amp; contra spirituale pro temporali 
+   <lb ed="#B" n="53"/>promittitur: quia in traditione rei suae potest qui- 
+   <!--0538.xml-->
+   <cb ed="#B" n="b"/> 
+       <!-- 253-v b -->
+       <lb ed="#B" n="54"/>libet sibi legem praefigere quam vult. l. In
+   traditio<lb ed="#B" n="55" break="no"/>nibus. citur de pac. etiam si traditio fiat ecclesiae. 
+   <lb ed="#B" n="56"/>ad hoc est textus in cap. Verum. de condi. appo. 
+   <lb ed="#B" n="57"/>in spon. Hoc modo multa coenobia &amp; multae ec 
+   <lb ed="#B" n="58"/>cle iae dotatae sunt: temporalia capientes cum onete, 
+   <lb ed="#B" n="59"/>vt pro reliquentibus &amp; eorum posteris religiosi vel 
+   <lb ed="#B" n="60"/>sacerdotes praesentes &amp; successuri orarent. Sicut 
+   <lb ed="#B" n="61"/>enim aurum res profana ecclesiae traditur: vt fiat 
+   <lb ed="#B" n="62"/>calix vt deseruiat in diuino officio: sic est de
+   pe<lb ed="#B" n="63" break="no"/>cunia relicta pro anniuersariis: &amp; in multis aliis si 
+   <lb ed="#B" n="64"/>milibus. Rursus videmus probos curatos haben 
+   <lb ed="#B" n="65"/>tes rationabilem causam per quam abesse coguntur 
+   <lb ed="#B" n="66"/>ab ecclesia / substituentes bonos vicarios:
+   conue<lb ed="#B" n="67" break="no"/>nientes cum eis in certa quota pro seruitio quod
+   im<lb ed="#B" n="68" break="no"/>pendunt. Praeterea presbyter potest pro sex
+   par<lb ed="#B" n="69" break="no"/>uis albis celebrare, ex quaest. secunda huius dist. ergo  
+   <lb ed="#B" n="70"/>llud potest deduci in conditionem. Sed dicis &amp;
+   be<lb ed="#B" n="71" break="no"/>ne, consequentia est nulla. quia collator beneficit 
+   <lb ed="#B" n="72"/>potest capere palafredum post collationem benefi 
+   <lb ed="#B" n="73"/>cii gratis. &amp; tamen non potest hoc in conditionem 
+   <lb ed="#B" n="74"/>deduci. Propterea aliter arguitur. Omne illud quod 
+   <lb ed="#B" n="75"/>est licitum sine conditione / nec illicitum &amp; diffor 
+   <lb ed="#B" n="76"/>me ex parte conditionis prouenit, potest in condi 
+   <lb ed="#B" n="77"/>tione poni: sed sic est in proposito. vt patet ex ab 
+   <lb ed="#B" n="78"/>legatis ad primam conclusionem. Amplius: possum 
+   <lb ed="#B" n="79"/>licite in conditione apponere illud quod tacite inest 
+   <lb ed="#B" n="80"/>sed me substituente alium pro me spiritualiter la 
+   <lb ed="#B" n="81"/>borantem, tacite inest quod detur ei sustentatio in par 
+   <lb ed="#B" n="82"/>te vel in toto: vt patet primae ad Corinth. ix. ergo  
+   <lb ed="#B" n="83"/>possum sic pacisci: si celebres pro me, quandocum 
+   <lb ed="#B" n="84"/>quod eris dispositus: dabo tibi victum &amp; vestitum. Item 
+   <lb ed="#B" n="85"/>ex concilio Agathensi sic scribitur, prout
+   habe<lb ed="#B" n="86" break="no"/>tur in cap. Clerici. i. qui. ii. Clerici omnes qui
+   eccle<lb ed="#B" n="87" break="no"/>siae fideliter vigilanterque deseruiunt stipendia sanctis 
+   <lb ed="#B" n="88"/>laboribus debita secundum seruitii sui meritum per or 
+   <lb ed="#B" n="89"/>dinationem canonum a sacerdotibus consequantur. 
+   <lb ed="#B" n="90"/>Et cum licitum sit capere stipendium pro sanctis la 
+   <lb ed="#B" n="91"/>boribus: nec videatur aliqua deformitas inuolui in  
+   <lb ed="#B" n="92"/>pactione, illud est licitum 
+  </p>
+      <p xml:id="jMqv4a-d1e1350-d1e274">
+       <lb ed="#B" n="93"/>⁋ Contra insta arguitur: &amp;
+   potissi<lb ed="#B" n="94" break="no"/>mum contra secundam conclusionem. est simonia quod 
+   <lb ed="#B" n="95"/>rei profanae onus spirituale annectitur.
+   Respon<lb ed="#B" n="96" break="no"/>detur negando quod sit simonia, vt patet ex dictis 
+   <lb ed="#B" n="97"/>quaest. secunda. Vnde glossa in. c. Significatum. de 
+   <lb ed="#B" n="98"/>praeben. dat cautelam ad simoniam euitandam: 
+   <lb ed="#B" n="99"/>quae est haec. vt onera diuinorum celebandorum
+   ap<lb ed="#B" n="100" break="no"/>ponantur rei: &amp; postmodum res tradantur simplici 
+   <lb ed="#B" n="101"/>ter: tunc transibit res cum illis oneribus. Et dicit 
+   <lb ed="#B" n="102"/>Innocentius. Onus temporale potest apponi: non 
+   <lb ed="#B" n="103"/>autem spirituale / excepta redemptione captiuorum 
+   <lb ed="#B" n="104"/>x. q. ii. S. Hoc ius. xii. q. ii. Aurum. Innocentium 
+   <lb ed="#B" n="105"/>Panor. insequitur. Hoc non valet. Si enim illa pia 
+   <lb ed="#B" n="106"/>causa annecti potest, captiuos redimere: a fortio 
+   <!--0539.xml-->
+   <pb ed="#B" n="254-r"/>
+       <cb ed="#B" n="a"/>
+       <lb ed="#B" n="1"/>re apponi potest redimere animas a purgatorio 
+   <lb ed="#B" n="2"/>&amp; ad gloriam dei. Illa autem auctoritas est Ambrosii 
+   <lb ed="#B" n="3"/>in libro de officiis dicentis. Aurum ecclesia habet 
+   <lb ed="#B" n="4"/>non vt seruet: sed vt eroget &amp; subueniat in necessi 
+   <lb ed="#B" n="5"/>tatibus. Quid est opus custodire quod nihil
+   adiu<lb ed="#B" n="6" break="no"/>uat? An ignoramus quantum auri atque argenti de tem 
+   <lb ed="#B" n="7"/>plo domini Assyrii sustulerunt? Nonne melius conflat 
+   <lb ed="#B" n="8"/>sacerdos pro alimonia pauperum si aliqua subsidia 
+   <lb ed="#B" n="9"/>desunt quam si sacrilegus contaminat &amp; asportat
+   ho<lb ed="#B" n="10" break="no"/>stis: &amp; quae sequuntur. Vbi beatus Ambrosius non so 
+   <lb ed="#B" n="11"/>lum dicit opes ecclesiae pro redemptione captiuorum esse 
+   <lb ed="#B" n="12"/>dandas: sed etiam pro pauperum alimonia &amp;
+   sepultu<lb ed="#B" n="13" break="no"/>ra: concludens in his tribus generibus vasa ecclesiae 
+   <lb ed="#B" n="14"/>etiam initiata, licere confringere, conflare, &amp; vendere. 
+   <lb ed="#B" n="15"/>&amp; non solum intelligit de istis sed de omnibus similibus 
+   <lb ed="#B" n="16"/>piis caunsis: contra ecclesiae praelatos neotericos, &amp; con 
+   <lb ed="#B" n="17"/>tra aliquos suae tempestatis. modo sicut dicebam / plus 
+   <lb ed="#B" n="18"/>est animam liberare a purgatorio quam corpus a capti 
+   <lb ed="#B" n="19"/>uitate. Numquid praebendae annectitur onus docendis 
+   <lb ed="#B" n="20"/>Textus ad hoc est expssus in. c. penul. de magisti. 
+   <lb ed="#B" n="21"/>Nec etiam opus est cautela glossae. Non video quin 
+   <lb ed="#B" n="22"/>in datione rei temporalis &amp; prophane possit condi 
+   <lb ed="#B" n="23"/>tio spiritualis &amp; ptia apponi. Et ad simoniam non
+   re<lb ed="#B" n="24" break="no"/>fert, siue ante, siue tempore dationis onus spiritua 
+   <lb ed="#B" n="25"/>le annectatur. Et idem patet de dissensione inter 
+   <lb ed="#B" n="26"/>quendam nostratem abbatem de Melros, &amp; quendam 
+   <lb ed="#B" n="27"/>nobilem de Foresta, nomine Alanum. vbi pontifex 
+   <lb ed="#B" n="28"/>respexit intentionem patris istius Alani de
+   con<lb ed="#B" n="29" break="no"/>ditione apposita. 
+  </p>
+      <p xml:id="jMqv4a-d1e1350-d1e376">
+       <lb ed="#B" n="30"/>⁋ Contra ista rursus arguitur. ex
+   co<lb ed="#B" n="31" break="no"/>clusionibus &amp; earum probationibus sequitur quod aliquis 
+   <lb ed="#B" n="32"/>posset dare bona ecclesiae adiecta conditione, quod si 
+   <lb ed="#B" n="33"/>ecclesia non faciat sicut promittit, poterit illa bona 
+   <lb ed="#B" n="34"/>reuocare: vel haeredes etiam propria auctoritate vel 
+   <lb ed="#B" n="35"/>successorum. hoc est inconveniens. igitur. Et quod
+   se<lb ed="#B" n="36" break="no"/>quatur patet ex probationibus ad primam conclu 
+   <lb ed="#B" n="37"/>sionem.
+  </p>
+      <p xml:id="jMqv4a-d1e1350-d1e396">
+   ⁋ Respondetur. Donator potest multifa 
+   <lb ed="#B" n="38"/>tiam aliquid dare ecclesiae. Vno modo sic, do hoc 
+   <lb ed="#B" n="39"/>ecclesiae. licet intendat quod minister bene viuat &amp;
+   su<lb ed="#B" n="40" break="no"/>perflua in pios vsus elargiatur. Secundo modo  
+   <lb ed="#B" n="41"/>sic. do talem possessionem ecclesiae vt quotannis ta 
+   <lb ed="#B" n="42"/>li die celebretur anniuersarium: addens, si non seruetur 
+   <lb ed="#B" n="43"/>llud: ego &amp; haeredes mei reuocare possumus. Ter 
+   <lb ed="#B" n="44"/>tio sic: reuocare possumus sine auctoritate
+   supe<lb ed="#B" n="45" break="no"/>rioris, immo propria auctoritate. Primo modo do  
+   <lb ed="#B" n="46"/>natio valet, nec reuocari potest modo non serua 
+   <lb ed="#B" n="47"/>to. hoc modo dotatae sunt ecclesiae in beneficiis. 
+   <lb ed="#B" n="48"/>nam dotantes ecclesiam dederunt fructus Christo 
+   <lb ed="#B" n="49"/>&amp; ministris eius expendendos. In secundo modo 
+   <lb ed="#B" n="50"/>res reuocari possunt si non adimpleatur conditio. 
+   <lb ed="#B" n="51"/>Ad hoc est textus expressus in. c. Verum. de condi 
+   <lb ed="#B" n="52"/>tio. appo. in despon. vel in aliis contrac. vbi
+   Ro<lb ed="#B" n="53" break="no"/>manus pontifex dicit. Verum cum alicui ecclesiae pos 
+   <lb ed="#B" n="54"/>fessio qualibet interposita conditione donatur: a 
+   <!--0539.xml-->
+   <cb ed="#B" n="b"/> 
+       <!-- 254-r b -->
+       <lb ed="#B" n="55"/>donatore donum postea reuocari non potest: nisi 
+   <lb ed="#B" n="56"/>forte tali sit conditione collatum quod ea cessante de 
+   <lb ed="#B" n="57"/>beat reuocari. Et hoc modo concessa sunt
+   stipen<lb ed="#B" n="58" break="no"/>dia pro anniuersariis celebrandis: quia ita a communi 
+   <lb ed="#B" n="59"/>hominum consuetudinem iudicatur, nisi fuerit
+   ratio<lb ed="#B" n="60" break="no"/>nabile impedimentum. Vnde <name xml:id="jMqv4a-d1e1350-Nd1e454" ref="#Augustine">Augustinus</name> ad Casu 
+   <lb ed="#B" n="61"/>lanum inquit. De quibus nil certi statuit diuina
+   scri<lb ed="#B" n="62" break="no"/>ptura: mos populi dei &amp; instituta maiorum pro lege 
+   <lb ed="#B" n="63"/>sunt tenenda. Si dicas. quae semel dicata sunt eccle 
+   <lb ed="#B" n="64"/>siis, non debent in vsus prophanos reuocari. hoc 
+   <lb ed="#B" n="65"/>est verum, si categorice collata sint. Circa tertium 
+   <lb ed="#B" n="66"/>menbrum est dubium. Sed teneo partem illam quod non po 
+   <lb ed="#B" n="67"/>test reuocare propria auctoritate, sed auctoritate iu 
+   <lb ed="#B" n="68"/>dicis: alioquin esset sacrilegium. c. Quicumque militum. 
+   <lb ed="#B" n="69"/>&amp;. c. Nulli. xii. q. ii. Et hoc est propter multos ma 
+   <lb ed="#B" n="70"/>los qui nimis terrenis bonis afficiuntur: qui
+   finge<lb ed="#B" n="71" break="no"/>rent de non causa causam. Si petas. quomodo istud 
+   <lb ed="#B" n="72"/>capitulum potest obligare successores ad celebrandum 
+   <lb ed="#B" n="73"/>anniuersarium? Respondetur. res transit cum onere. &amp; 
+   <lb ed="#B" n="74"/>peneficium datur propter officium. c. finali. de rescrip. 
+   <lb ed="#B" n="75"/>lib. vi. sic ob stipendium, quod est beneficium pro hoc an 
+   <lb ed="#B" n="76"/>niuersario officio. Qui enim capit emolumentum 
+   <lb ed="#B" n="77"/>pariter debet subire onus.
+  </p>
+      <p xml:id="jMqv4a-d1e1350-d1e495">
+   ⁋ Concludendo dico: 
+   <lb ed="#B" n="78"/>quod spiritualia cum spiritualibus permutanda sunt: 
+   <lb ed="#B" n="79"/>&amp; conditio spiritualis rei prophanae addi potest 
+   <lb ed="#B" n="80"/>dummodo ipsa sit rationabilis: cuius ratio a iure 
+   <lb ed="#B" n="81"/>scripto colligitur, &amp; ex consequentibus ex eo, vel in  
+   <lb ed="#B" n="82"/>lumine naturali a iudicio prudentum. Aliquae autem 
+   <lb ed="#B" n="83"/>conditiones essent inhonestae &amp; contra rationem. 
+   <lb ed="#B" n="84"/>vtpote si beneficium semper detur vni cognatorum 
+   <lb ed="#B" n="85"/>cum collator teneatur magis idoneo conferre. 
+   <lb ed="#B" n="86"/>ldem autem est in effectu, addere conditionem rei de 
+   <lb ed="#B" n="87"/>anniuersario quotannis celebrando: &amp; postea illan 
+   <lb ed="#B" n="88"/>rem cum onere ecclesiae dare, &amp; annectere
+   conditio<lb ed="#B" n="89" break="no"/>nem tempore donationis. Quod probatur. vel condi 
+   <lb ed="#B" n="90"/>tio erat licita a principio: vel illicita. Non secundum, vt 
+   <lb ed="#B" n="91"/>notum est secundum eos. Si primum: potest addi in  
+   <lb ed="#B" n="92"/>transsatione rei sicut ante translationem. Nec est 
+   <lb ed="#B" n="93"/>opus dicere. nos relinquimus vobis tot redditus 
+   <lb ed="#B" n="94"/>quotannis ex talibus agris colligendos: &amp;
+   roga<lb ed="#B" n="95" break="no"/>mus vos amore dei vt quotannis pro nobis
+   cele<lb ed="#B" n="96" break="no"/>bretis anniuersarium officium tali die. Dixi non opus 
+   <lb ed="#B" n="97"/>esse. nam mos ille dicendi est bonus: &amp; a consuetudi 
+   <lb ed="#B" n="98"/>ne hominum posset fieri obligatio. sed volo
+   dice<lb ed="#B" n="99" break="no"/>re quod conditio potest apponi &amp; satis distincte: vel 
+   <lb ed="#B" n="100"/>institui missa in honorem corporis Christi: vel vt 
+   <lb ed="#B" n="101"/>cantetur Salue regina, quolibet die sabbatino 
+   <lb ed="#B" n="102"/>ante nostram dominam, apponendo conditionem: si non 
+   <lb ed="#B" n="103"/>adimpleant officium, non recipient redditus. Illic 
+   <lb ed="#B" n="104"/>enim datur eis calcar bene faciendi quatenus implo 
+   <lb ed="#B" n="105"/>retur auxilium christiferae virginis: sicut pueri ad 
+   <lb ed="#B" n="106"/>studium vel ad sanctos mores alliciuntur munuscu 
+   <lb ed="#B" n="107"/>lis. Non secus institutae sunt distributiones
+   no<lb ed="#B" n="108" break="no"/>cturnae &amp; diurme in ecclesia. Quare de iis mirandum 
+   <lb ed="#B" n="109"/>est qui hoc in dubium vertunt: &amp; etiam de aliis: quo 
+   <!--0540.xml-->
+   <pb ed="#B" n="254-v"/>
+       <cb ed="#B" n="a"/>
+       <lb ed="#B" n="1"/>modo varias ( vt dicunt) cautelas excogitarunt pro 
+   <lb ed="#B" n="2"/>euitanda simonia: cum sit eadem sententia: vt cognosci 
+   <lb ed="#B" n="3"/>tur ab hominum consuetudine: &amp; hoc in foro contra 
+   <lb ed="#B" n="4"/>dictorio declaratetur. Si autem haeredes defuncti red 
+   <lb ed="#B" n="5"/>ditus recuperare vellent: vel si ecclesia officium inium 
+   <lb ed="#B" n="6"/>ctum perficere nollet: semper homines intelligunt quod illud  
+   <lb ed="#B" n="7"/>spirituale officium non datur pro illis temporalibus bonis 
+   <lb ed="#B" n="8"/>vltimate &amp; pro praecio adaequato. Nec damnandi sunt 
+   <lb ed="#B" n="9"/>simplices quocumque modo loqundi vtantur: suam fidem 
+   <lb ed="#B" n="10"/>&amp; modum assentiendi conformantes formaliter vel 
+   <lb ed="#B" n="11"/>virtualiter ecclesiae. Si enim fieret eis obiectio quod 
+   <lb ed="#B" n="12"/>male iudicarent illic esse emptionem vel huiusmodi 
+   <lb ed="#B" n="13"/>dicerent se putare habere melius, scilicet spirituale pro 
+   <lb ed="#B" n="14"/>temporali: &amp; ad gloriam dei &amp; ad salutem animarum sua 
+   <lb ed="#B" n="15"/>tum &amp; parentum, haec factitare: &amp; sibi ostendi cuperent 
+   <lb ed="#B" n="16"/>qualiter loqui in hac parte oporteat. Immo aliqui 
+   <lb ed="#B" n="17"/>fundant obitus plurimos, assignantes redditus fra 
+   <lb ed="#B" n="18"/>tribus minoribus peccantibus illos redditus assu 
+   <lb ed="#B" n="19"/>mendo, cum sit contra eorum professionem. absit autem quod pie 
+   <lb ed="#B" n="20"/>redditus fundantes peccarent nisi super hoc essent 
+   <lb ed="#B" n="21"/>edocti: quemadmodum vulgus dans eis pecuniam non 
+   <lb ed="#B" n="22"/>peccat: quia non cognoscit eorum regulam nec scire te 
+   <lb ed="#B" n="23"/>netur. Secus est de docto qui peccat, quia pecca 
+   <lb ed="#B" n="24"/>to recipientum cooperatur scienter vel ignoranter 
+   <lb ed="#B" n="25"/>vincibiliter, quod enim vni est ignorantia vincibilis: 
+   <lb ed="#B" n="26"/>alteri est inuincibilis. 
+  </p>
+    </div>
+   </body>
+  </text>
+</TEI>

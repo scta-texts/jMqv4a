@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 2</title>
+      <author ref="#JohnMair">John Mair</author>
+      <respStmt>
+       <name>Jeffrey C. Witt</name>
+       <resp>TEI Encoder</resp>
+      </respStmt>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 2</title>
+       <date when="2020-06-09">June 27, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="B" n="cod-Bda113">Badius 1516</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+     guidelines for a diplomatic edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-06-27" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+      <pb ed="#B" n="288-v"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="jMqv4a-d1e1541"> <!-- l4d35q2 -->
+      <head xml:id="jMqv4a-d1e1541-Hd1e104">Quaestio 2</head>
+      <head xml:id="jMqv4a-d1e1541-Hd1e107" type="question-title">An aliquis possit mulierem sibi matrimonio 
+  coniungere quam per adulterium polluit</head>
+      <p xml:id="jMqv4a-d1e1541-d1e110">
+       <lb ed="#B" n="99"/>Distinctionis Trigesimae quintae 
+   <lb ed="#B" n="100"/>Quaestio Secunda. 
+   <lb ed="#B" n="101"/>N tertio capitulo 
+   <lb ed="#B" n="102"/>nuius distinctionis Magi 
+   <lb ed="#B" n="103"/>ster quaerit: An aliquis possit 
+   <lb ed="#B" n="104"/>mulierem sibi matrimonio 
+   <lb ed="#B" n="105"/>coniungere quam per adulte 
+   <lb ed="#B" n="106"/>rium polluit: vel si proprian 
+   <lb ed="#B" n="107"/>&amp;a Tvxorem occidit vt aliam ducat 
+   <!--0609.xml-->
+   <pb ed="#B" n="289-r"/>
+       <cb ed="#B" n="a"/>
+       <lb ed="#B" n="1"/>idipsum secundo loco in hac distinctione
+   inquiran<lb ed="#B" n="2" break="no"/>Respondetur. Aliqua sunt crimina personas aliquas. 
+   <lb ed="#B" n="3"/>inhabiles efficientia ad contrahendum inter
+   se<lb ed="#B" n="4" break="no"/>quae personas illas non prohibent contrahere cum 
+   <lb ed="#B" n="5"/>aliis.
+  </p>
+      <p xml:id="jMqv4a-d1e1541-d1e149">
+   ⁋ Et in proposito sunt duo casus quos in
+   lite<lb ed="#B" n="6" break="no"/>ra tangit magister. Prior est: si quis cum aliqua con 
+   <lb ed="#B" n="7"/>trahat per verba de praesenti viuente vxore propria, 
+   <lb ed="#B" n="8"/>vel econuerso vxor cum alio: vel fidem de contrahen 
+   <lb ed="#B" n="9"/>do dedit: &amp; ad quidlibet istorum sequutum est adulte 
+   <lb ed="#B" n="10"/>rium. vt in cap. fi. de eo qui dux. in matri. quam pol 
+   <lb ed="#B" n="11"/>per adul. Hic requiritur quod vterque sciat alterum habere 
+   <lb ed="#B" n="12"/>coniugem: quia si cum ignorante aliquis contraheret: 
+   <lb ed="#B" n="13"/>posset esse matrimonium inter eos post mortem prime 
+   <lb ed="#B" n="14"/>vxoris. vt paret per cap. primum huius tituli. &amp; hoc si 
+   <lb ed="#B" n="15"/>supinducta fuit ignorans toto tempore vitae vxoris. 
+   <lb ed="#B" n="16"/>Dicitur autem ignorans quamdiu non habet
+   certitudi<lb ed="#B" n="17" break="no"/>nem vel probabilem opinionem. vt in cap.
+   Inquisi<lb ed="#B" n="18" break="no"/>tioni. de senten. excommuni. alioqui si certior reddi 
+   <lb ed="#B" n="19"/>ta de vita primae vxoris permitteret se cognosci non 
+   <lb ed="#B" n="20"/>posset inter eos esse matrimonium. vt habet dictum ca. 
+   <lb ed="#B" n="21"/>fi. Et idem est quando data fide sequitur adulterium: 
+   <lb ed="#B" n="22"/>quia illud cap. dicit? parificantur). Secundo requiritur quod 
+   <lb ed="#B" n="23"/>sit fides data de ea in coniugem accipienda. quia sine 
+   <lb ed="#B" n="24"/>fide data nullum esset impedimentum. sola enim fides 
+   <lb ed="#B" n="25"/>sine adulterio: &amp; solum adulterium sine fide non efficit 
+   <lb ed="#B" n="26"/>hoc impedimentum. vt dicitur in cap. Significasti.
+   ti<lb ed="#B" n="27" break="no"/>tulo quem tractamus. &amp;. xxxi. q. i. ca. i. Statutum autem 
+   <lb ed="#B" n="28"/>hoc est rationabile. nam alioquin plerique vxores 
+   <lb ed="#B" n="29"/>occiderent: vt alias haberent: &amp; ediuerso vxores vi 
+   <lb ed="#B" n="30"/>ros. ad quod vitandum haec inhabilitas lata est.
+  </p>
+      <p xml:id="jMqv4a-d1e1541-d1e207">
+   ⁋ Secun 
+   <lb ed="#B" n="31"/>dus casus vel impedimentum est, cum alter coniugum 
+   <lb ed="#B" n="32"/>machinatus est mortem alicuius: vt possit in virum 
+   <lb ed="#B" n="33"/>vel vxorem / alterum vel alteram habere, interueniente 
+   <lb ed="#B" n="34"/>adulterio. ca. Super hoc. eodem ti. Sed si adulterium 
+   <lb ed="#B" n="35"/>non interuenit: oportet quod ambo, scilicet coniuga 
+   <lb ed="#B" n="36"/>tus / &amp; illa quam vult habere vxorem / sint machinati 
+   <lb ed="#B" n="37"/>mortem alterius: &amp; quod mors sequatur cum effectu. 
+   <lb ed="#B" n="38"/>Nam si vnus solum machinatus fuit mortem alterius cum 
+   <lb ed="#B" n="39"/>effectu: non est impedimentum quin illum habe 
+   <lb ed="#B" n="40"/>re possit propter quem habendum mortem alteri 
+   <lb ed="#B" n="41"/>us sollicitauit. vt colligitur ex di. ca. Super hoc. Si ve 
+   <lb ed="#B" n="42"/>ro fuerit adulterium: sufficit machinatio vnius tantnm 
+   <lb ed="#B" n="43"/>cum effectu: vt sit illud impedimentum. Ad hoc
+   fa<lb ed="#B" n="44" break="no"/>cit ca. Si quis viuente. xxxi. qui. i. Sed si effectus
+   ho<lb ed="#B" n="45" break="no"/>micidii non interuenit: machinatio etiam cum
+   adul<lb ed="#B" n="46" break="no"/>terio non inducit impedimentum. vt dicit Ioannes
+   An<lb ed="#B" n="47" break="no"/>dreas in dicto cap. Super hoc 
+  </p>
+      <p xml:id="jMqv4a-d1e1541-d1e246">
+       <lb ed="#B" n="48"/>⁋ Contra primum impedimentum 
+   <lb ed="#B" n="49"/>per modum conclusionis positum arguitur sic. po 
+   <lb ed="#B" n="50"/>nendo quod Sortes promittat Bertae si sibi consentiat: 
+   <lb ed="#B" n="51"/>post mortem suae vxoris ducet vxorem illam quam 
+   <lb ed="#B" n="52"/>Teberga amica Bertae sibi consulet ducendam: &amp; 
+   <lb ed="#B" n="53"/>mortua vxore Sortis / Teberga consulit Sorti con 
+   <lb ed="#B" n="54"/>trahere cum Berta: sequitur quod Sortes possit con- 
+   <!--0609.xml-->
+   <cb ed="#B" n="b"/> 
+       <!-- 289-r b -->
+       <lb ed="#B" n="55"/>trahere cum Berta. cum enim edictum de matrimo 
+   <lb ed="#B" n="56"/>nio sit prohibitiorum, quod non est prohibitum, est 
+   <lb ed="#B" n="57"/>concessum. sed non prohibetur matrimonium in 
+   <lb ed="#B" n="58"/>ter Sortem &amp; Bertam: cum non dederit ei fidem. 
+  </p>
+      <p xml:id="jMqv4a-d1e1541-d1e279">
+       <lb ed="#B" n="59"/>⁋ Respondetur. si non faciat hoc Sortes in frau 
+   <lb ed="#B" n="60"/>dem legis: verum est matrimonium: vt argumer 
+   <lb ed="#B" n="61"/>tum tangit. si vero fecerint hoc ex industria per
+   cir<lb ed="#B" n="62" break="no"/>cuitum: sunt personae inhabiles: &amp; nullum est ma 
+   <lb ed="#B" n="63"/>trimonium.
+  </p>
+      <p xml:id="jMqv4a-d1e1541-d1e292">
+   ⁋ Secundo arguitur. ponendo quod
+   Sor<lb ed="#B" n="64" break="no"/>tes dedit fidem Bertae quod eam ducet vxorem: sed 
+   <lb ed="#B" n="65"/>Bertam non cognouit. vxore sua mortua contra 
+   <lb ed="#B" n="66"/>hat cum loanna tertia muliere, qua viuente cogno 
+   <lb ed="#B" n="67"/>scat Bertam. ex dictis sequitur quod mortua loanna 
+   <lb ed="#B" n="68"/>non posset contrahere cum Berta: cum dederit ei fi 
+   <lb ed="#B" n="69"/>dem &amp; eam cognouerit. Respondetur. potest cum 
+   <lb ed="#B" n="70"/>Berta contrahere: quia licet ei fidem promiserit: ab 
+   <lb ed="#B" n="71"/>illa tamen discessit: contrahendo cum loanna.
+  </p>
+      <p xml:id="jMqv4a-d1e1541-d1e312">
+   ⁋
+   Con<lb ed="#B" n="72" break="no"/>tra secundum impedimentum loco conclusionis positum 
+   <lb ed="#B" n="73"/>arguitur sic. Dauid cognouit Bersabeam &amp;
+   machi<lb ed="#B" n="74" break="no"/>natus est mortem virieius scilicet Vriae: &amp; tamen postea 
+   <lb ed="#B" n="75"/>cum ea contraxit. Respondetur. ista prohibitio est 
+   <lb ed="#B" n="76"/>solum positiua pontificia: in qua pontifex potest 
+   <lb ed="#B" n="77"/>dispensare. In diebus autem Dauidis non erat haec 
+   <lb ed="#B" n="78"/>prohibitio contractum irritans. Ecce duo
+   crimi<lb ed="#B" n="79" break="no"/>na positiua quae impediunt matrimonium contra 
+   <lb ed="#B" n="80"/>hendum: &amp; dirimunt contractum: scilicet datio
+   fi<lb ed="#B" n="81" break="no"/>dei, hoc est promissionis nudae, quae crebro fides 
+   <lb ed="#B" n="82"/>vocatur, secuto adulterio. requiritur autem quod
+   reue<lb ed="#B" n="83" break="no"/>ra sit matrimonium: quia si prima vxor no sit
+   le<lb ed="#B" n="84" break="no"/>gitima, non erit impedimentum. perinde namque est 
+   <lb ed="#B" n="85"/>vxorem illegitimam habere, &amp; non habere vxorem. 
+   <lb ed="#B" n="86"/>alterum impedimentum est cum alter machinatus 
+   <lb ed="#B" n="87"/>est mortem alterius eo modo quo iam dictum est. 
+  </p>
+      <p xml:id="jMqv4a-d1e1541-d1e349">
+       <lb ed="#B" n="88"/>⁋ Dubitatur: an grauius sit crimen 
+   <lb ed="#B" n="89"/>coniugem occidere, an alterum parentem. Respon 
+   <lb ed="#B" n="90"/>detur. grauius est parentem occidere quam vxorem. nam 
+   <lb ed="#B" n="91"/>esse naturale &amp; morale a parentibus habet proles: 
+   <lb ed="#B" n="92"/>quale ab vxore non habet. grauior autem poenitentia 
+   <lb ed="#B" n="93"/>pro vxoricidio quam matricidio statuta non arguit
+   gra<lb ed="#B" n="94" break="no"/>uitatem sceleris: sed procliuitatem. viri enim sunt 
+   <lb ed="#B" n="95"/>procliuiores ad vxores perimendas quam matres,
+   pro<lb ed="#B" n="96" break="no"/>pterea acerbior poenitentia constituitur. vt patet 
+   <lb ed="#B" n="97"/>xxxiii. q. ii. ca. Admonere. Graue tamen est pecca 
+   <lb ed="#B" n="98"/>tum &amp; abominabile vxorem propriam occidere: 
+   <lb ed="#B" n="99"/>nec in nece mariti, nec in adulterio deprehensam. 
+   <lb ed="#B" n="100"/>Et licet in his deprehendatur: eam tamen
+   occide<lb ed="#B" n="101" break="no"/>re est viro etiam graue peccatum. xxxiii. q. ii. cap. 
+   <lb ed="#B" n="102"/>Inter haec. vbi Canon dicit nemini licere
+   vxo<lb ed="#B" n="103" break="no"/>rem in adulterio deprehensam occidere: licet
+   secun<lb ed="#B" n="104" break="no"/>dum mundanam legem aliter habeatur. vbi
+   glos<lb ed="#B" n="105" break="no"/>in verbo ( liceat) dicit. Hoc licet secundum lege
+   Lon<lb ed="#B" n="106" break="no"/>bardam: sed non Romanam. lIgnoscitur tamen
+   mari<lb ed="#B" n="107" break="no"/>to (inquit) si vxorem in adulterio deprehensam oc 
+   <lb ed="#B" n="108"/>ciderit, quo ad poenae mitigationem. C. ad. l. Iuli. 
+   <!--0610.xml-->
+   <pb ed="#B" n="289-v"/>
+       <cb ed="#B" n="a"/>
+       <lb ed="#B" n="1"/>de adul. l. Gracchus. Licet autem magna
+   poeniten<lb ed="#B" n="2" break="no"/>tia pro matricidio imponatur. vt decennis. xxxiii. 
+   <lb ed="#B" n="3"/>qu. ii. Latorem. ratissime tamen auditum est viros 
+   <lb ed="#B" n="4"/>luas matres occidere. Nam quod iuuenis Ninus ma 
+   <lb ed="#B" n="5"/>trem Semiramidem occiderit: quid mirum / pro foe 
+   <lb ed="#B" n="6"/>do matrimonio inito: quod Alcmaeon matrem Friphpy 
+   <lb ed="#B" n="7"/>len iugulauerit: in parte danda erat venia: quod patrem 
+   <lb ed="#B" n="8"/>ad bellum in quo eum occumbere rata est / miserat. quo 
+   <lb ed="#B" n="9"/>non obstante turpiter &amp; inique egit. Oresti multo 
+   <lb ed="#B" n="10"/>maior venia danda est, quod esset vindex necis Aga 
+   <lb ed="#B" n="11"/>mennonis patris: cuius mater Clytemnestra auctor 
+   <lb ed="#B" n="12"/>erat. Breuiter sunt monstra hominum / matrum occi 
+   <lb ed="#B" n="13"/>sores. Quamuis autem in. xxxvii. distinctione loqua  
+   <lb ed="#B" n="14"/>tur magister de ordinatis non potentibus contra 
+   <lb ed="#B" n="15"/>here: &amp; in secundo capitulo de vxorum suarum i 
+   <lb ed="#B" n="16"/>terfectoribus: malui tamen hanc dubitatiunculam 
+   <lb ed="#B" n="17"/>ob conuenientiam cum materia quam tractamus. 
+   <lb ed="#B" n="18"/>hic inserere. 
+  </p>
+    </div>
+   </body>
+  </text>
+</TEI>

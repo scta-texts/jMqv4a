@@ -1,0 +1,535 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 1</title>
+      <author ref="#JohnMair">John Mair</author>
+      <respStmt>
+       <name>Jeffrey C. Witt</name>
+       <resp>TEI Encoder</resp>
+      </respStmt>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 1</title>
+       <date when="2020-06-09">June 27, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="B" n="cod-Bda113">Badius 1516</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+     guidelines for a diplomatic edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-06-27" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+      <pb ed="#B" n="171-r"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="jMqv4a-d1e910"> <!-- l4d17q1 -->
+      <head xml:id="jMqv4a-d1e910-Hd1e104">Quaestio 1</head>
+      <head xml:id="jMqv4a-d1e910-Hd1e107" type="question-title">Quo iure confessio vocalis sit introducta</head>
+      <p xml:id="jMqv4a-d1e910-d1e110">
+       <lb ed="#B" n="18"/>⁋ Distinctionis Decimaeseptimae 
+   <lb ed="#B" n="19"/>Quaestio Prima. 
+   <lb ed="#B" n="20"/>Irca hanc
+   di<lb ed="#B" n="21" break="no"/>stinctionem quaeritur 
+   <lb ed="#B" n="22"/>Primo: quo iur 
+   <lb ed="#B" n="23"/>confessio vocalis 
+   <lb ed="#B" n="24"/>sit introducta. 
+  </p>
+      <p xml:id="jMqv4a-d1e910-d1e128">
+       <lb ed="#B" n="25"/>⁋ Respondetur per 
+   <lb ed="#B" n="26"/>conclusiones. Qua 
+   <lb ed="#B" n="27"/>rum prima est. Cor 
+   <lb ed="#B" n="28"/>fessio vocalis pri 
+   <lb ed="#B" n="29"/>mo introducta es 
+   <lb ed="#B" n="30"/>aliquo iure.
+  </p>
+      <p xml:id="jMqv4a-d1e910-d1e145">
+   ⁋ Se 
+   <lb ed="#B" n="31"/>cunda conclusio. ipsa 
+   <lb ed="#B" n="32"/>non est primo introducta iure naturae.
+  </p>
+      <p xml:id="jMqv4a-d1e910-d1e152">
+   ⁋ Tertia 
+   <lb ed="#B" n="33"/>conclusio. ipsa non est primo introducta iure
+   hu<lb ed="#B" n="34" break="no"/>mano.
+  </p>
+      <p xml:id="jMqv4a-d1e910-d1e159">
+   ⁋ Quarta conclusio. ipsa non est primo
+   in<lb ed="#B" n="35" break="no"/>troducta iure diuino legis Mosaicae.
+  </p>
+      <p xml:id="jMqv4a-d1e910-d1e164">
+   ⁋ Quinta 
+   <lb ed="#B" n="36"/>conclusio. Confessio vocalis primo introducta 
+   <lb ed="#B" n="37"/>est iure diuino legis gratiae.
+  </p>
+      <p xml:id="jMqv4a-d1e910-d1e171">
+   ⁋ Prima conclusio sic 
+   <lb ed="#B" n="38"/>probatur. quilibet adultus tenetur confiteri pro loco 
+   <lb ed="#B" n="39"/>&amp; tempore: vt in quaestione sequenti dicetur. ergo ad 
+   <lb ed="#B" n="40"/>hoc tenetur aliquo iure. consequentia tenet saltem de 
+   <lb ed="#B" n="41"/>iure scripto vel non scripto: hoc est consuetudine 
+  </p>
+      <p xml:id="jMqv4a-d1e910-d1e182">
+       <lb ed="#B" n="42"/>⁋ Secunda conclusio probatur. ipsa non est principium 
+   <lb ed="#B" n="43"/>practicum ex terminis euidens: nec conclusio inde 
+   <lb ed="#B" n="44"/>euidenter deducta: ergo non est de iure naturae. conse 
+   <lb ed="#B" n="45"/>quentia tenet ex terminis. &amp; antecedens patet: quia 
+   <lb ed="#B" n="46"/>dato opposito pro quolibet tempore quilibet fuisset 
+   <lb ed="#B" n="47"/>obligatus ad confessionem vocalem: quod constat esse 
+   <lb ed="#B" n="48"/>falsum vt ex dicendis amplius patebit.
+  </p>
+      <p xml:id="jMqv4a-d1e910-d1e201">
+   ⁋ Tertia 
+   <lb ed="#B" n="49"/>conclusio probatur: quia non est introducta primo iure 
+   <lb ed="#B" n="50"/>humano Caesareo vel laico: quia tale ius de
+   pec<lb ed="#B" n="51" break="no"/>catis se non ingerit, nec iure ecclesiastico, quod patet: 
+   <lb ed="#B" n="52"/>quia nusquam de tali iure constat, non per illud. Omnis 
+   <!--0373.xml-->
+   <cb ed="#B" n="b"/> 
+       <!-- 171-r b -->
+       <lb ed="#B" n="53"/>vtriusque sexus. de poeni. &amp; remissi. quia statutum 
+   <lb ed="#B" n="54"/>illud factum est sub Innocentio tertio in concilio
+   La<lb ed="#B" n="55" break="no"/>teranensi. sed confessio vocalis longe praecessit: vt
+   con<lb ed="#B" n="56" break="no"/>stat per Magistrum sententiarum qui Innocentium praecessit: 
+   <lb ed="#B" n="57"/>&amp; per doctores ecclesiae qui octingentos annos In  
+   <lb ed="#B" n="58"/>nocentium praecesserunt, vt patet ex Augusti. in libro 
+   <lb ed="#B" n="59"/>de vera &amp; falsa poenitentia. &amp; paulo inferius vide 
+   <lb ed="#B" n="60"/>bitur in vltimae conclusionis probatione. Apparatus 
+   <lb ed="#B" n="61"/>tamen de poenitentia dist. v. c. In poenitentia. dicit quod con 
+   <lb ed="#B" n="62"/>fessio vocalis est introducta iure humano. &amp; licet 
+   <lb ed="#B" n="63"/>non possit dari locus illius institutionis ab ecclesia 
+   <lb ed="#B" n="64"/>factae: tamen est consuetudo ecclesiae: &amp; praesupponitur quod 
+   <lb ed="#B" n="65"/>confessionem instituerit licet in iure scripto non habe 
+   <lb ed="#B" n="66"/>atur. Et Panor. in. c. allegato. Omnis vtriusque sexus. 
+   <lb ed="#B" n="67"/>dicit sibi multum placere opinionem glossae. &amp; inferi 
+   <lb ed="#B" n="68"/>quod Graeci non obligantur ad hanc vocalem confessionem: 
+   <lb ed="#B" n="69"/>quemadmodum nec eorum sacerdotes ad continentiam. 
+   <lb ed="#B" n="70"/>Sed contra hoc arguit quidam doctor dicens quod
+   itra<lb ed="#B" n="71" break="no"/>tionabile est dicere aliquid esse de vniuersali
+   tradi<lb ed="#B" n="72" break="no"/>tione ecclesiae: &amp; non posse inueniti illud in canone. 
+   <lb ed="#B" n="73"/>Quemadmodum turpe est theologo dicere aliquid esse 
+   <lb ed="#B" n="74"/>de iure diuino, &amp; illius iuris nescire assignare locum 
+   <lb ed="#B" n="75"/>Sed huic obijcitur. Nescis ostendere vbi primo intro 
+   <lb ed="#B" n="76"/>ductum sit ieiunium quadragesimae: nec vbi sabbatum 
+   <lb ed="#B" n="77"/>diei dominico cessit: &amp; tamen sunt de iure ecclesiae. Se 
+   <lb ed="#B" n="78"/>cundo doctor iste incidit in hoc in quo alios carpit 
+   <lb ed="#B" n="79"/>quia locos ab aliis doctoribus datos refellit, pro 
+   <lb ed="#B" n="80"/>bans illos non ostendere confessionem vocalem esse de iu 
+   <lb ed="#B" n="81"/>re diuino. &amp; concludendo dicit. Licet non habeatur
+   lo<lb ed="#B" n="82" break="no"/>cus in biblia concludens confessionem vocalem esse de 
+   <lb ed="#B" n="83"/>iure diuino: ipsa tamen est de iure diuino: secundum illud 
+   <lb ed="#B" n="84"/>Ioannis vltimo. Multa quidem signa fecit Iesus quae non 
+   <lb ed="#B" n="85"/>sunt scripta in libro hoc. ergo non dat locum particus 
+   <lb ed="#B" n="86"/>larem plus quam alii. igitur. Praeterea arguit ad hoc idem 
+   <lb ed="#B" n="87"/>doctor. Quilibet tenetur recuperare gratiam perditam 
+   <lb ed="#B" n="88"/>via faciliori qua potest. si enim via facili relicta dis 
+   <lb ed="#B" n="89"/>ficilem adeat: exponit se periculo peccati: &amp; in hoc 
+   <lb ed="#B" n="90"/>videtur proprie salutis contemptor. sed hoc fit per
+   confes<lb ed="#B" n="91" break="no"/>sionem vocalem. igitur. Dico hoc argumentum propter tria 
+   <lb ed="#B" n="92"/>non concludere. primo: quia homo non tenetur semper 
+   <lb ed="#B" n="93"/>ad viam faciliorem &amp; meliorem, vt patet de operibus supe 
+   <lb ed="#B" n="94"/>erogationis, nec hoc est vllo modo exponere se 
+   <lb ed="#B" n="95"/>periculo peccati. Secundo. per detestationem pecca 
+   <lb ed="#B" n="96"/>torum peccata tolluntur: quae requiritur ad eorum deletio 
+   <lb ed="#B" n="97"/>nem, &amp; ipsa confessione vocali est longe facilior. Ter 
+   <lb ed="#B" n="98"/>tio. si confessio vocalis non est ex institutione Chri 
+   <lb ed="#B" n="99"/>sti: minor est petitoria principii: quia in ea assumitur 
+   <lb ed="#B" n="100"/>quod debet probari. Probo ergo tertia conclusionem sic 
+   <lb ed="#B" n="101"/>Ante omne ius humanum legitur confessio introducta: 
+   <lb ed="#B" n="102"/>ergo ipsa non est primo introducta iure humano. 
+   <lb ed="#B" n="103"/>antecedens patet, quia de illo non constat, nec in proposito ad 
+   <lb ed="#B" n="104"/>consuetudinem confugere potes: quia non est verosimile 
+   <lb ed="#B" n="105"/>quod aliquid adeo difficile hominibus homines
+   instituis<lb ed="#B" n="106" break="no"/>sent: nisi illud fuisset traditum literis cum maximo l 
+   <lb ed="#B" n="107"/>bramine &amp; discussione, &amp; forte cum aliquorum oppo 
+   <!--0374.xml-->
+   <pb ed="#B" n="171-v"/>
+       <cb ed="#B" n="a"/>
+       <lb ed="#B" n="1"/>sitione. sicut de sacerdotum caelibatu: vt distin 
+   <lb ed="#B" n="2"/>ctione. xxiiii. elucescet. Item si esset de iure humi 
+   <lb ed="#B" n="3"/>no, essent deobligati a confessione hac per totam suam 
+   <lb ed="#B" n="4"/>vitam illi apud quos est consuetudo no confitendi 
+   <lb ed="#B" n="5"/>quod non videtur dicendum. Praeterea probatio vltimae
+   con<lb ed="#B" n="6" break="no"/>clusionis hanc conclusionem infert.
+  </p>
+      <p xml:id="jMqv4a-d1e910-d1e357">
+   ⁋ Quarta
+   conclu<lb ed="#B" n="7" break="no"/>sio patet: quia ad hoc non habetur locus in lege Mo 
+   <lb ed="#B" n="8"/>saica: ergo non est de illa lege. consequentia est nota 
+   <lb ed="#B" n="9"/>saltem in primo gradu &amp; indubitato illius legis. &amp; 
+   <lb ed="#B" n="10"/>antecedens patet: quia ipso negato det aduersarius 
+   <lb ed="#B" n="11"/>locum in illa lege in quo hoc contineatur. Insuper Hi 
+   <lb ed="#B" n="12"/>braei corticem illius legis seruantes nullo modo aur 
+   <lb ed="#B" n="13"/>culariter confitentur: ergo non est de illa lege in aliquo 
+   <lb ed="#B" n="14"/>gradu. licet autem ista cosequentia sit apparens: non tame 
+   <lb ed="#B" n="15"/>est solida vtrobique, vt patet de Messiae aduentu quo 
+   <lb ed="#B" n="16"/>ex lege Mosaica deduci potest: licet illi proterue 
+   <lb ed="#B" n="17"/>reluctentur. Et quia haec conclusio ab omnibus concedi 
+   <lb ed="#B" n="18"/>nec est magnae vtilitatis: idcirco alias probationes 
+   <lb ed="#B" n="19"/>non adduco.
+  </p>
+      <p xml:id="jMqv4a-d1e910-d1e388">
+   ⁋ Quinta conclusio: quamquam aliqua in eius 
+   <lb ed="#B" n="20"/>probationem in tertiae conclusionis probatione addu 
+   <lb ed="#B" n="21"/>cta fuere: adhuc probatur per illud quod scribitur Iacobi. ii 
+   <lb ed="#B" n="22"/>Confitemini alterutrum peccata vestra. qua aucto 
+   <lb ed="#B" n="23"/>ritate praemissa sic argumentor. Omnia illa quae eodem 
+   <lb ed="#B" n="24"/>contextu promulgantur, eandem vim obligandi ha 
+   <lb ed="#B" n="25"/>bent. sed beatus lacobus illic extremam vnctionem 
+   <lb ed="#B" n="26"/>praeceptiue promulgat: cui in capite praefato
+   confes<lb ed="#B" n="27" break="no"/>sionem adiugit, sic inquiens. Infirmatur quis inter 
+   <lb ed="#B" n="28"/>vos: inducat presbyteros. &amp; postea subiugit.
+   Con<lb ed="#B" n="29" break="no"/>fitemini alterutrum peccata vestra. Alii non refellum 
+   <lb ed="#B" n="30"/>hanc auctoritatem quin propositum probet, per hoc quod 
+   <lb ed="#B" n="31"/>subiungitur, Orate pro vobis inuicem. quia sic de 
+   <lb ed="#B" n="32"/>bent confessor &amp; confitens saltem debito congruita 
+   <lb ed="#B" n="33"/>tis: &amp; probi confessores sic dicunt confitentibus in re 
+   <lb ed="#B" n="34"/>cessu. Oremus pro nobis inuicem. Insuper loan. xx. 
+   <lb ed="#B" n="35"/>scribitur post Christi passionem. Accipite spiritum 
+   <lb ed="#B" n="36"/>sanctum: quorum remiseritis peccata remittuntur eis. 
+   <lb ed="#B" n="37"/>&amp; hoc non potest fieri nisi alii eis peccata reserent 
+   <lb ed="#B" n="38"/>ergo tenentur eis peccata detegere. Auctoritate 
+   <lb ed="#B" n="39"/>autem introductae sunt legis gratiae. ergo confessio es 
+   <lb ed="#B" n="40"/>de lege gratiae. Praeterea confessio est de aliquo iu 
+   <lb ed="#B" n="41"/>re vt patet per primam conclusionem. &amp; non de iure 
+   <lb ed="#B" n="42"/>naturae vel humano per secundam &amp; tertiam
+   conclusio<lb ed="#B" n="43" break="no"/>nes: nec de iure diuino Mosaico per quartam. ergo 
+   <lb ed="#B" n="44"/>est de lege gratiae. Vlterius arguitur ad idem. hoc sem 
+   <lb ed="#B" n="45"/>per a principio nascentis ecclesiae ab omnibus ten 
+   <lb ed="#B" n="46"/>tum est tamquam diuinum oraculum. ergo grande nefas 
+   <lb ed="#B" n="47"/>est illud viro potissimum erudito ab institutioni 
+   <lb ed="#B" n="48"/>Christitollere. Vnde dicit Ambrosius in libro de 
+   <lb ed="#B" n="49"/>paradiso. Non potest quisquam iustificari nisi peccatum 
+   <lb ed="#B" n="50"/>ante fuerit confessus. &amp; recitatur de poeni. disti. i c 
+   <lb ed="#B" n="51"/>Non potest. Et in eodem loco dicit Ioannes Chri 
+   <lb ed="#B" n="52"/>sostomus. Non potest quisquam gratiam vitae caelesti 
+   <lb ed="#B" n="53"/>accipere nisi purgatus fuerit ab omni sorde pec 
+   <lb ed="#B" n="54"/>cati per poenitentiae confessionem. Et <name xml:id="jMqv4a-d1e910-Nd1e466" ref="#Augustine">Augustini</name> in libro 
+   <lb ed="#B" n="55"/>de poeni. Agite poenitentiam qualis agitur in eccle 
+   <!--0374.xml-->
+   <cb ed="#B" n="b"/> 
+       <!-- 171-v b -->
+       <lb ed="#B" n="56"/>sia, vt oret pro vobis ecclesia. &amp; quae sequuntur. &amp; 
+   <lb ed="#B" n="57"/>per hoc concludit claues datas in ecclesia dei. Idem 
+   <lb ed="#B" n="58"/>quoque <name xml:id="jMqv4a-d1e910-Nd1e484" ref="#Augustine">Augustini</name>. vt habetur in. c. Quem poenitet. eadem 
+   <lb ed="#B" n="59"/>distin. sic ait. Lazarum de monumento iam susci 
+   <lb ed="#B" n="60"/>tatum obtulit dominus discipulis soluendum: per 
+   <lb ed="#B" n="61"/>hoc ostendens potestatem soluendi concessam
+   sacer<lb ed="#B" n="62" break="no"/>dotibus. Ex istis sequitur quod inscite Apparatus 
+   <lb ed="#B" n="63"/>&amp; Panor. in hac parte loquutur: confessionem vo 
+   <lb ed="#B" n="64"/>calem a solo iure humano asserentes, &amp; graecos 
+   <lb ed="#B" n="65"/>excusantes. Secundo sequitur quod nullus mos non 
+   <lb ed="#B" n="66"/>confitendi potest indulgere homini vt num quam con 
+   <lb ed="#B" n="67"/>fiteatur, quod probatur: quia contra ius diuinu num quam 
+   <lb ed="#B" n="68"/>est consuetudo excusans. 
+  </p>
+      <p xml:id="jMqv4a-d1e910-d1e510">
+       <lb ed="#B" n="69"/>⁋ Contra secundam conclusionem arguitur 
+   <lb ed="#B" n="70"/>sic. Confessio est de iure naturae, quod probatur: quia 
+   <lb ed="#B" n="71"/>per eam Adam &amp; Cain reprehenduntur. vt patet Gen. 
+   <lb ed="#B" n="72"/>iii. &amp;. iiii. iunctis glossis. Illi enim erant prostatu legis 
+   <lb ed="#B" n="73"/>naturae.
+  </p>
+      <p xml:id="jMqv4a-d1e910-d1e523">
+   ⁋ Secundo arguitur ad idem. de iure naturae 
+   <lb ed="#B" n="74"/>est quod viro displiceat suum malum: ergo confessio est 
+   <lb ed="#B" n="75"/>de iure naturae.
+  </p>
+      <p xml:id="jMqv4a-d1e910-d1e530">
+   ⁋ Ad primum respondetur quod illa &amp;
+   si<lb ed="#B" n="76" break="no"/>milia non sunt ad propositum confessionis auricularis. 
+   <lb ed="#B" n="77"/>Adam enim &amp; Cain debebant confiteri sua
+   pec<lb ed="#B" n="78" break="no"/>cata deo interroganti qui scrutatur corda &amp; renes 
+   <lb ed="#B" n="79"/>&amp; non sub friuolarum excusationum velamine se prote 
+   <lb ed="#B" n="80"/>gere.
+  </p>
+      <p xml:id="jMqv4a-d1e910-d1e544">
+   ⁋ Secundum argumentum est de detestatione
+   pec<lb ed="#B" n="81" break="no"/>cati: hoc est de cotritione peccati post peccatum 
+   <lb ed="#B" n="82"/>commissum: quam dico de iure naturae. sed cor 
+   <lb ed="#B" n="83"/>tritio ante legem gratiae non tot praesupponebat quot 
+   <lb ed="#B" n="84"/>nunc. nam antequam aliquis nunc habeat veram contritionem: 
+   <lb ed="#B" n="85"/>requiritur confessio vocalis in voto: quod ante hanc 
+   <lb ed="#B" n="86"/>legem non requirebatur. 
+  </p>
+      <p xml:id="jMqv4a-d1e910-d1e560">
+       <lb ed="#B" n="87"/>⁋ Contra quartam conclusionem
+   ar<lb ed="#B" n="88" break="no"/>guitur. Leuitici. xvi. scribitur quod Aaron debuit 
+   <lb ed="#B" n="89"/>confiteri peccata filiorum Israel. &amp; losue dixit 
+   <lb ed="#B" n="90"/>ad Achan. Fili mi da gloriam domino deo
+   Israel<lb ed="#B" n="91" break="no"/>&amp; confitere, atque indica mihi quid feceris: ne
+   abs<lb ed="#B" n="92" break="no"/>condas. losue. vii.
+  </p>
+      <p xml:id="jMqv4a-d1e910-d1e576">
+   ⁋ Respondeo. istae
+   auctorita<lb ed="#B" n="93" break="no"/>tes intelliguntur de confessione deo facienda vel 
+   <lb ed="#B" n="94"/>publica. Achan enim publice confessus est
+   deli<lb ed="#B" n="95" break="no"/>ctum suum de furto cum super eum nutu diuino 
+   <lb ed="#B" n="96"/>cecidit sors: &amp; dedit gloriam domino deo: sicut 
+   <lb ed="#B" n="97"/>praecepit losue. sic Esaiae. xliii. Narra si quid
+   ha<lb ed="#B" n="98" break="no"/>bes vt iustificeris. &amp; Prouerbio. xxviii. Qui abs 
+   <lb ed="#B" n="99"/>condit scelera sua / non dirigetur: qui autem
+   con<lb ed="#B" n="100" break="no"/>fessus fuerit, &amp; reliquerit ea, misericordiam
+   con<lb ed="#B" n="101" break="no"/>sequetur. Sic ergo intelligantur auctoritates legis 
+   <lb ed="#B" n="102"/>Mosaicae quod homo debebat in generali confiteri 
+   <lb ed="#B" n="103"/>culpam: vel coram aliis, vel mentaliter. &amp; hoc erat 
+   <lb ed="#B" n="104"/>confiteri pro tempore illius legis. sicut enim non 
+   <lb ed="#B" n="105"/>eodem modo se habet contritio pro hac lege &amp; pro illa, 
+   <lb ed="#B" n="106"/>sic nec confessio. 
+  </p>
+      <p xml:id="jMqv4a-d1e910-d1e609">
+       <lb ed="#B" n="107"/>⁋ Contra quintam conclusionem arguitur 
+   <!--0375.xml-->
+   <pb ed="#B" n="172-r"/>
+       <cb ed="#B" n="a"/>
+       <lb ed="#B" n="1"/>sic. Si confessio vocalis esset de iure diuino: obl 
+   <lb ed="#B" n="2"/>garet omnes. consequens est falsum, quia non obligat 
+   <lb ed="#B" n="3"/>infideles. Doctores enim omnes dicunt quod si infidelis 
+   <lb ed="#B" n="4"/>adultus convertatur ad fidem: non tenetur confiteri
+   pec<lb ed="#B" n="5" break="no"/>cata ante baptismum commissa. &amp; de hoc distin. iiii 
+   <lb ed="#B" n="6"/>loquuti sumus. Capio igitur vnum Mahumetanum 
+   <lb ed="#B" n="7"/>adultum qui plura peccata fecit, &amp; convertatur ad fidem, 
+   <lb ed="#B" n="8"/>&amp; recipiat baptismum: postea moriatur ante aliquod 
+   <lb ed="#B" n="9"/>mortale commissum. Tunc sic. iste non tenetur confiteri 
+   <lb ed="#B" n="10"/>peccata mortalia sua post baptismum commissa: quia 
+   <lb ed="#B" n="11"/>nulla sunt ex supposito: nec peccata ante bapti 
+   <lb ed="#B" n="12"/>smum commissa vt dicunt communiter doctores. ergo 
+   <lb ed="#B" n="13"/>vel confessio non est de iure diuino: vel ius diuinum 
+   <lb ed="#B" n="14"/>legis gratiae non obligat omnes ad ipsum suscipiendum in 
+   <lb ed="#B" n="15"/>omnibus suis praeceptis. Secundum no est dicendum: quia si 
+   <lb ed="#B" n="16"/>vnum praeceptum legis gratiae non obliget omnes: eadem
+   ra<lb ed="#B" n="17" break="no"/>tione nullum praeceptum positiuum diuinum obligabit 
+   <lb ed="#B" n="18"/>omnes. ergo primum est dicendum.
+  </p>
+      <p xml:id="jMqv4a-d1e910-d1e659">
+   ⁋ Respondetur. huis 
+   <lb ed="#B" n="19"/>argumento sufficienter responsum est loco inter
+   ar<lb ed="#B" n="20" break="no"/>guendum recitato. hoc solum restat addere: quod sufficit 
+   <lb ed="#B" n="21"/>in peri culo probab ili mortis ex institutione Christi 
+   <lb ed="#B" n="22"/>peccata confiteri. quapropter moriens non confitens 
+   <lb ed="#B" n="23"/>in tota vita sua, peccat peccato omissionis:
+   con<lb ed="#B" n="24" break="no"/>fessionem omittendo. 
+  </p>
+      <p xml:id="jMqv4a-d1e910-d1e675">
+       <lb ed="#B" n="25"/>⁋ Secundo arguitur. Matthaei. xi. dicit 
+   <lb ed="#B" n="26"/>Christus. lugum meum suaue est &amp; onus meum leue. 
+   <lb ed="#B" n="27"/>sed confessio vt dicebatur inter arguendum, est diffi 
+   <lb ed="#B" n="28"/>cilis. ergo non est ex institutione Christi.
+  </p>
+      <p xml:id="jMqv4a-d1e910-d1e687">
+   ⁋ Respon 
+   <lb ed="#B" n="29"/>deo. aliquae auctoritates legem Christi insinuant fa 
+   <lb ed="#B" n="30"/>cilem: aliquae vero difficilem. vt Quam angusta porta &amp; 
+   <lb ed="#B" n="31"/>arcta via est, quae ducit ad vitam: &amp; pauci sunt qui inue 
+   <lb ed="#B" n="32"/>niunt eam. Matthaei. vii. Amantibus autem deum &amp; prudi 
+   <lb ed="#B" n="33"/>tibus, ipsa est facilis: vt exponit <name xml:id="jMqv4a-d1e910-Nd1e700" ref="#Augustine">Augustinus</name> Ioan. v. 
+   <lb ed="#B" n="34"/>super illo verbo. Mandata eius grauia no sunt. Etian 
+   <lb ed="#B" n="35"/>ipsa sicut est relicta a Christo, est lege Mosaica fa 
+   <lb ed="#B" n="36"/>cilior: iudicio beati Petri Actuum. xv. dicentis. 
+   <lb ed="#B" n="37"/>Quid tentatis imponere iugum super ceruicem discipulo 
+   <lb ed="#B" n="38"/>rum quod nec nos nec patres notri portare potuimus? 
+   <lb ed="#B" n="39"/>Imprudentibus tamen ipsa est difficilis: difficultate in  
+   <lb ed="#B" n="40"/>quam non proueniente ex parte legis. Vel sic. Principium 
+   <lb ed="#B" n="41"/>legis gratiae, quia ad virtutem dirigit, est arctum. oppo 
+   <lb ed="#B" n="42"/>sito aut modo est de perditionis via: vt in litera Pytha 
+   <lb ed="#B" n="43"/>gorae notari solet. sed cum quis in lege gratiae
+   parum<lb ed="#B" n="44" break="no"/>per studiose versatus fuerit: eam facilem inueniet. 
+   <lb ed="#B" n="45"/>lstud tamen reputo vnum difficillimum in lege gratiae: &amp; 
+   <lb ed="#B" n="46"/>in hoc cum conterraneo in fine tertii sentio. Et addo 
+   <lb ed="#B" n="47"/>quod est praeceptum optimum &amp; generi humano maxime 
+   <lb ed="#B" n="48"/>propitium, &amp; retractiuum multum a peccatis. Homines enim 
+   <lb ed="#B" n="49"/>in secreto / solo de o cognoscente peccare non
+   eru<lb ed="#B" n="50" break="no"/>bescunt. sed causa quaedam occasionalis non peccandi in 
+   <lb ed="#B" n="51"/>verecundia qua homo afficitur in confessione: &amp; ille 
+   <lb ed="#B" n="52"/>actus non est malus. nam licet Hector vt dicitur. iii. 
+   <lb ed="#B" n="53"/>Ethicorum, non fecerit actum fortitudinis, nolendo aufu 
+   <lb ed="#B" n="54"/>gere a bello ne dedecus incurreret: tamen fecit actum 
+   <!--0375.xml-->
+   <cb ed="#B" n="b"/> 
+       <!-- 172-r b -->
+       <lb ed="#B" n="55"/>virtutis. Secundo est causa restitutionum. plerique 
+   <lb ed="#B" n="56"/>enim putant multos contractus iniquos / licitos, &amp;
+   re<lb ed="#B" n="57" break="no"/>stitutioni se non obnoxios: qui contrarium in confessio 
+   <lb ed="#B" n="58"/>ne deprehendunt. &amp; etiam notitiam peccatorum quae ante con 
+   <lb ed="#B" n="59"/>fessionem licita putabant, illic assequuntur. homo etiam 
+   <lb ed="#B" n="60"/>fragilitatem propriam cognoscit per peccatorum repetitio 
+   <lb ed="#B" n="61"/>nem: ac per hoc ad humilitatem mouetur. ergo haec confes 
+   <lb ed="#B" n="62"/>sio vocalis est hominum multitudini admodum vti 
+   <lb ed="#B" n="63"/>lis, &amp; forum secretissimum. quare prudenti non est diffi 
+   <lb ed="#B" n="64"/>cilis, ob secretum seruandum &amp; vtilitatem inde prouenien 
+   <lb ed="#B" n="65"/>tem, nec decuit in lege Mosaica hanc legem perfectam 
+   <lb ed="#B" n="66"/>instituere: quia vt ad Hebraeos. xi. dicitur. Nihil 
+   <lb ed="#B" n="67"/>ad perfectum adducit lex. 
+  </p>
+      <p xml:id="jMqv4a-d1e910-d1e784">
+       <lb ed="#B" n="68"/>⁋ Tertio arouitur. aliqui sunt muti 
+   <lb ed="#B" n="69"/>qui non possunt facere confessionem vocalem: vt sunt 
+   <lb ed="#B" n="70"/>omnes nati surdi qui nullum idioma loquuntur, &amp; 
+   <lb ed="#B" n="71"/>multi non surdi elingues. Idem patet de detentis in  
+   <lb ed="#B" n="72"/>carcere apud Mahumetanos tota vita. modo ad 
+   <lb ed="#B" n="73"/>impossibile nemo obligatur.
+  </p>
+      <p xml:id="jMqv4a-d1e910-d1e800">
+   ⁋ Quarto arguitur. 
+   <lb ed="#B" n="74"/>Petrus non confessus est. sic enim scribit Ambrosius 
+   <lb ed="#B" n="75"/>super Lucam. Peccatum Petri lego: confessionem autem eius 
+   <lb ed="#B" n="76"/>non lego.
+  </p>
+      <p xml:id="jMqv4a-d1e910-d1e809">
+   ⁋ Ad tertium respodetur quod praeceptum Christi 
+   <lb ed="#B" n="77"/>est rationabile: &amp; non obligat ad impossibile
+   quen<lb ed="#B" n="78" break="no"/>piam. Qui enim potest scripto sua peccata patefacere 
+   <lb ed="#B" n="79"/>&amp; non verbo: non tenetur sua peccata occulta confiteri 
+   <lb ed="#B" n="80"/>saltem in absentia sacerdotis: quia istud forum debet esse 
+   <lb ed="#B" n="81"/>secretissimum: &amp; scriptum de se inter absentes est pu 
+   <lb ed="#B" n="82"/>blicum: &amp; potest vergere in infamiam peccatoris: cuius 
+   <lb ed="#B" n="83"/>oppositum deus percipit, puta seruare famam via lici 
+   <lb ed="#B" n="84"/>ta. &amp; illud est de iure naturae: quod ius in cordibus no 
+   <lb ed="#B" n="85"/>stris scripsit deus. modo quando sunt duae leges quam
+   vi<lb ed="#B" n="86" break="no"/>dentur oppositae: lex minor maiori cedit, &amp; per regem 
+   <lb ed="#B" n="87"/>maiorem exponenda est: sic vt inter illas leges non 
+   <lb ed="#B" n="88"/>sit pugna. Sed si confessor fuerit praesens: &amp; confitens 
+   <lb ed="#B" n="89"/>sciat scribere &amp; non possit loqui, debet chartam
+   tra<lb ed="#B" n="90" break="no"/>dere sacerdoti: &amp; lectam minutatim lacerare. vel pro 
+   <lb ed="#B" n="91"/>securitate in propria manu tenere / dum sacerdos legit. 
+   <lb ed="#B" n="92"/>Si vero per nutus sciat confiteri &amp; non per verba: vt si 
+   <lb ed="#B" n="93"/>religiosus fiat elinguis qui nutu suam mentem
+   expli<lb ed="#B" n="94" break="no"/>cet: tenetur per nutus confiteri. In omnibus enim istis seruatl 
+   <lb ed="#B" n="95"/>ratio legis: &amp; detectio peccati in foro secretissimo, 
+   <lb ed="#B" n="96"/>hoc est soli sacerdoti. Ex istis patet quod non debet per 
+   <lb ed="#B" n="97"/>interpretem confiteri: quia forum non esset
+   secretissi<lb ed="#B" n="98" break="no"/>mun. Secundo sequitur quod confessio vocatur voca 
+   <lb ed="#B" n="99"/>lis non quod quaelibet fiat in voce: quandam enim nutu, quaedam  
+   <lb ed="#B" n="100"/>scripto fit: vt iam diximus, sed quia vox inter
+   il<lb ed="#B" n="101" break="no"/>la quae representant conceptum mentis nostrae, obtinet
+   pri<lb ed="#B" n="102" break="no"/>matum. vt dicit Augu. primo de doctrina christia 
+   <lb ed="#B" n="103"/>na. Confessio enim in absoluto modo loquendi
+   vo<lb ed="#B" n="104" break="no"/>catur vocalis, sicut Arist. primo Peri hermenias 
+   <lb ed="#B" n="105"/>dicit: nomen est vox. simiter de verbo &amp; oratione loquitur 
+   <lb ed="#B" n="106"/>Et tamen nomen mentale est nomen verissimum. Si vero 
+   <lb ed="#B" n="107"/>more angelico nos intelligeremus: confessio mentalis 
+   <lb ed="#B" n="108"/>sufficeret.
+  </p>
+      <p xml:id="jMqv4a-d1e910-d1e881">
+   ⁋ Sed contra istud de foro secretissimo 
+   <!--0376.xml-->
+   <pb ed="#B" n="172-v"/>
+       <cb ed="#B" n="a"/>
+       <lb ed="#B" n="1"/>arguitur. multi sacerdotes possunt audire vnum 
+   <lb ed="#B" n="2"/>in confessione: &amp; quilibet eum absoluere: quae confessio 
+   <lb ed="#B" n="3"/>est sufficiens: &amp; tamen forum non est secretissimum. Quia mul 
+   <lb ed="#B" n="4"/>i possint vnum absoluere: probatur: quia multi pos 
+   <lb ed="#B" n="5"/>sunt eundem baptizare, &amp; eandem hostia consecrare: pro 
+   <lb ed="#B" n="6"/>ut in de baptismo &amp; Eucharistia dictum est. eodem 
+   <lb ed="#B" n="7"/>modo potest fieri in confirmatione: &amp; in collatione 
+   <lb ed="#B" n="8"/>ordinum: ergo &amp; in poenitentia. Et potest probari
+   ra<lb ed="#B" n="9" break="no"/>tione: quia illic est confessor, confitens, &amp; intentio 
+   <lb ed="#B" n="10"/>sufficiens. In super vnus absoluit: &amp; qua ratione vnus i 
+   <lb ed="#B" n="11"/>quilibet, supposito quod simul desinant proferre. 
+  </p>
+      <p xml:id="jMqv4a-d1e910-d1e914">
+       <lb ed="#B" n="12"/>⁋ Respondetur dupliciter. Primo. adhuc illud fo 
+   <lb ed="#B" n="13"/>rum est secretissimum quia sacerdotale, &amp; quilibet
+   te<lb ed="#B" n="14" break="no"/>netur seruare secretu vt alter: &amp; quilibet absoluit 
+   <lb ed="#B" n="15"/>siue successiue vt in casibus reseruatis: vel de
+   eis<lb ed="#B" n="16" break="no"/>dem peccatis: siue multi sacerdotes simul. vt
+   pro<lb ed="#B" n="17" break="no"/>bauimus in aliis sacramentis. Secundo dico quod non 
+   <lb ed="#B" n="18"/>expedit sic confiteri pluribus simul, etiam pro meliori 
+   <lb ed="#B" n="19"/>consilio habendo. Potest enim homo conferre de
+   pec<lb ed="#B" n="20" break="no"/>catis suis cum doctis extra confessionem ac si essent 
+   <lb ed="#B" n="21"/>aliorum casus: vel confiteri successiue doctis viris. 
+   <lb ed="#B" n="22"/>Sed contra hoc adhuc arguitur. sint multi in vna na 
+   <lb ed="#B" n="23"/>ui statim submergenda: confessor illic non potest au 
+   <lb ed="#B" n="24"/>dire omnes successiue: ergo cum quilibet eorum teneatur 
+   <lb ed="#B" n="25"/>confiteri sacerdoti: istud forum non debet esse secretum. 
+   <lb ed="#B" n="26"/>&amp; sic probatio de confessione facienda per chartam in  
+   <lb ed="#B" n="27"/>absentia fuit nulla. quod quilibet teneatur confiteri, pa 
+   <lb ed="#B" n="28"/>tet: quia est copia confessoris: &amp; quilibet est
+   pecca<lb ed="#B" n="29" break="no"/>to implicitus. &amp; pone quod sint aliqui infideles numqua 
+   <lb ed="#B" n="30"/>antea confessi qui primo fidem profiteantur. quod autem licitu 
+   <lb ed="#B" n="31"/>sit sic confiteri: probatur: quia ita interdum actum est: &amp; re 
+   <lb ed="#B" n="32"/>ferunt quod quilibet oblitus est peccata alterius cum 
+   <lb ed="#B" n="33"/>ad portum maris peruenerint. Respondeo, non confi 
+   <lb ed="#B" n="34"/>terer in illo casu in publico. sed adeat Sortes in 
+   <lb ed="#B" n="35"/>secreto confessorem: &amp; deinde successiue alii. Si 
+   <lb ed="#B" n="36"/>autem interea submergantur: sufficit detestatio pecca 
+   <lb ed="#B" n="37"/>torum omnium &amp; confessio in voto. hoc est, quisque 
+   <lb ed="#B" n="38"/>quantum in se est / paratus sit confiteri: quia si omnes
+   inci<lb ed="#B" n="39" break="no"/>perent confiteri: forte submergerentur ante dimidiam 
+   <lb ed="#B" n="40"/>confessionem. sed omnes erunt salui si sint contriti: quem 
+   <lb ed="#B" n="41"/>admodum sacerdos ille qui alios audit &amp; nulli con 
+   <lb ed="#B" n="42"/>fitetur: vel perpetuo detentus in carcere apud Ma 
+   <lb ed="#B" n="43"/>humetanos, cui nunquam patet copia sacerdotis. Et 
+   <lb ed="#B" n="44"/>sacerdos existens in naui debet eis recitare
+   con<lb ed="#B" n="45" break="no"/>fessionem in generali magnam vel paruam secundum te 
+   <lb ed="#B" n="46"/>poris penuriam vel magnitudinem in eorum
+   idioma<lb ed="#B" n="47" break="no"/>te: &amp; hortari eos vt habeant firmum propositum rest 
+   <lb ed="#B" n="48"/>tuendi aliena si quae habeant cum primum poterunt: &amp; 
+   <lb ed="#B" n="49"/>displiceant eis peccata sua perpetrata quibus deum 
+   <lb ed="#B" n="50"/>offenderunt, &amp; committant se prorectioni diuinae
+   di<lb ed="#B" n="51" break="no"/>centes. In manus tuas domine commendo spiritum 
+   <lb ed="#B" n="52"/>meum. &amp; hoc potest facere prudens laicus. Non tamen 
+   <lb ed="#B" n="53"/>nego: vbi plures simul confiterentur sacerdoti quo 
+   <lb ed="#B" n="54"/>rum peccata intelligeret: omnes esse absolutos vnica 
+   <lb ed="#B" n="55"/>absolutione: quemadmodum dicimus dae multitudi- 
+   <!--0376.xml-->
+   <cb ed="#B" n="b"/> 
+       <!-- 172-v b -->
+       <lb ed="#B" n="56"/>ne hostiarum consecrata.
+  </p>
+      <p xml:id="jMqv4a-d1e910-d1e1022">
+   ⁋ Ad vltimum argumentum 
+   <lb ed="#B" n="57"/>de confessione Petri qui peccauit mortaliter
+   in<lb ed="#B" n="58" break="no"/>tante passione: stat quod postea confessus sit. nam locus 
+   <lb ed="#B" n="59"/>a non legitur / negatiue non valet. Secundo Christus quoi 
+   <lb ed="#B" n="60"/>praesens erat, post passionem remisit ei omnem culpa 
+   <lb ed="#B" n="61"/>mortalem. Eius namque virtus non est sacramentis alli 
+   <lb ed="#B" n="62"/>gata. Tertio dico magis ad propositum quod confessio 
+   <lb ed="#B" n="63"/>nondum erat praeceptorie instituta, sed post
+   resurre<lb ed="#B" n="64" break="no"/>ctionem. &amp; nemo tenebatur confiteri de peccatis
+   an<lb ed="#B" n="65" break="no"/>te commissis. Praecepta enim positiua respiciunt futu 
+   <lb ed="#B" n="66"/>ta: vt dicitur de costitu. c. ii. &amp;. c. vltimo.
+  </p>
+      <p xml:id="jMqv4a-d1e910-d1e1046">
+   ⁋ Ecce quod 
+   <lb ed="#B" n="67"/>confessio auricularis est ex institutione Christi. 
+   <lb ed="#B" n="68"/>vocatur autem auricularis quia fit in secreto &amp; 
+   <lb ed="#B" n="69"/>n aure. &amp; licet aqua mediet / dummodo illis
+   so<lb ed="#B" n="70" break="no"/>lis constet, est auricularis. est sacramentum saluti
+   ho<lb ed="#B" n="71" break="no"/>minum necessarium omnes adultos vtentes ratione 
+   <lb ed="#B" n="72"/>obligans quantum est ex parte eorum: ita vt non stet 
+   <lb ed="#B" n="73"/>per illos quin confiteantur: nisi impotentia simplici 
+   <lb ed="#B" n="74"/>ter eos excuset: vel aliquid quod secretum istius 
+   <lb ed="#B" n="75"/>fori impediat. 
+  </p>
+    </div>
+   </body>
+  </text>
+</TEI>

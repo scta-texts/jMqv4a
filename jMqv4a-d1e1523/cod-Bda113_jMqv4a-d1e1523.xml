@@ -1,0 +1,663 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 2</title>
+      <author ref="#JohnMair">John Mair</author>
+      <respStmt>
+       <name>Jeffrey C. Witt</name>
+       <resp>TEI Encoder</resp>
+      </respStmt>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 2</title>
+       <date when="2020-06-09">June 27, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="B" n="cod-Bda113">Badius 1516</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+     guidelines for a diplomatic edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-06-27" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+      <pb ed="#B" n="285-v"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="jMqv4a-d1e1523"> <!-- l4d34q2 -->
+      <head xml:id="jMqv4a-d1e1523-Hd1e104">Quaestio 2</head>
+      <head xml:id="jMqv4a-d1e1523-Hd1e107" type="question-title">An maleficiatus possit contrahere</head>
+      <p xml:id="jMqv4a-d1e1523-d1e110">
+       <lb ed="#B" n="32"/>⁋ Distinctionis Trigesimae quarta 
+   <lb ed="#B" n="33"/>Quaestio Secunda. 
+   <lb ed="#B" n="34"/>Ecundo circa eandem. 
+   <lb ed="#B" n="35"/>distinctionem quaeritur. An ma 
+   <lb ed="#B" n="36"/>leficiatus possit contrahere. 
+   <lb ed="#B" n="37"/>Respondetur per duas
+   conclu<lb ed="#B" n="38" break="no"/>siones. quarum prior est. Ali 
+   <lb ed="#B" n="39"/>quae sunt mulieres malefici 
+   <lb ed="#B" n="40"/>&amp; magicae. patet. contra tales 
+   <lb ed="#B" n="41"/>grauissimae poenae tam a sacris literis quam ab humanis 
+   <lb ed="#B" n="42"/>legibus constitutae sunt. quae poenae pro chimeris non 
+   <lb ed="#B" n="43"/>costituuntur. igitur. Vnde Leuitici. xx. scribitur. Ani 
+   <lb ed="#B" n="44"/>ma quae declinauerit ad magos &amp; ad ariolos: &amp;
+   for<lb ed="#B" n="45" break="no"/>nicata fuerit cum eis: ponam facien meam contra eam: &amp; in 
+   <lb ed="#B" n="46"/>terficiam illam de medio populi sui. Et in fine eiusdem 
+   <lb ed="#B" n="47"/>cap. Vir siue mulier in quibus phytonicus vel di 
+   <lb ed="#B" n="48"/>umationis fuerit spiritus, morte moriantur.
+   la<lb ed="#B" n="49" break="no"/>pidibus obtuent eos, sanguis eorum sit super illos. 
+   <lb ed="#B" n="50"/>Propter hoc peccatum Ochozias aegrotus mor 
+   <lb ed="#B" n="51"/>tuus est. quarti Regum primo. &amp; Saul. primi Para 
+   <lb ed="#B" n="52"/>lipo. x. Poena autem capitis secundum leges sunt ple 
+   <lb ed="#B" n="53"/>ctendi. &amp; si accedant domum alterius: debent cre- 
+   <!--0602.xml-->
+   <cb ed="#B" n="b"/> 
+       <!-- 285-v b -->
+       <lb ed="#B" n="54"/>mari: &amp; eorum bona omnia publicari. C. de malefic. l 
+   <lb ed="#B" n="55"/>Nemo. &amp;. l. Culpa. Virgilius etiam quarto Aeneidos 
+   <lb ed="#B" n="56"/>hanc artem vitandam docet, vbi Dido sororem sic
+   al<lb ed="#B" n="57" break="no"/>loquitur. Testor chara deos &amp; te germana, tuumque 
+   <lb ed="#B" n="58"/>Dulce caput: magicas inuitam accingier artes. 
+  </p>
+      <p xml:id="jMqv4a-d1e1523-d1e178">
+       <lb ed="#B" n="59"/>⁋ Secunda conclusio. Maleficiatus perpetuo, non  
+   <lb ed="#B" n="60"/>potest contrahere. Probatur conclusio. Nam primo 
+   <lb ed="#B" n="61"/>est impotens mulierem cognoscere: &amp; mulier potest 
+   <lb ed="#B" n="62"/>auribus viri intonare, volo esse mater: licet hoc non 
+   <lb ed="#B" n="63"/>impediat matrimonium. modo enim possit vir
+   mu<lb ed="#B" n="64" break="no"/>lierem cognoscere, non requiritur maternitas.
+   Secun<lb ed="#B" n="65" break="no"/>do probatur per rubricam quam tractamus, &amp; cap. 
+   <lb ed="#B" n="66"/>allegata, vbi frigiditati semper perpetuum
+   malefi<lb ed="#B" n="67" break="no"/>cium coniungitur. 
+  </p>
+      <p xml:id="jMqv4a-d1e1523-d1e201">
+       <lb ed="#B" n="68"/>⁋ Contra primorem conclusionem
+   ar<lb ed="#B" n="69" break="no"/>guitur. Nullus est maleficus: ergo. quaestio
+   praesup<lb ed="#B" n="70" break="no"/>ponit falsum. Antecedens patet. xxvi. quaest. v.
+   c<lb ed="#B" n="71" break="no"/>Episcopi. &amp; est ex concilio Acquirensi
+   deprom<lb ed="#B" n="72" break="no"/>ptum. vbi sic dicitur. Illud etiam non est omittendum quod 
+   <lb ed="#B" n="73"/>quaedam sceleratae mulieres retro post sathanam
+   con<lb ed="#B" n="74" break="no"/>uersae, daemonu illusionibus &amp; phantasmatibus 
+   <lb ed="#B" n="75"/>seductae credunt se, &amp; profitentur cum Diana
+   noctur<lb ed="#B" n="76" break="no"/>nis horis dea Paganorum, vel cum Herodiade, vel 
+   <lb ed="#B" n="77"/>cum innumera multitudine mulierum equitare super 
+   <lb ed="#B" n="78"/>quasdam bestias: &amp; multarum terrarum spatia
+   intem<lb ed="#B" n="79" break="no"/>pestae noctis silentio pertransire: eiusque iussionibus 
+   <lb ed="#B" n="80"/>obedire velut dominae: &amp; certis noctibus ad eius 
+   <lb ed="#B" n="81"/>seruitium euocari. Paulo post scribitur. Quapropter 
+   <lb ed="#B" n="82"/>sacerdotes per ecclesias sibi commissas populo dei 
+   <lb ed="#B" n="83"/>omni instantia predicare debent: vt nouerint haec 
+   <lb ed="#B" n="84"/>omnino falsa esse: &amp; non a diuino sed a maligno  
+   <lb ed="#B" n="85"/>spiritu talia phantasmata mentibus fidelium irroga 
+   <lb ed="#B" n="86"/>ri arbitramur. Et paulo inferius. Quisquis ergo  
+   <lb ed="#B" n="87"/>credit posse fieri aliquam creaturam, aut in melius aut  
+   <lb ed="#B" n="88"/>in deterius immutari: aut transformari in aliam spe 
+   <lb ed="#B" n="89"/>ciem, vel in aliam similitudinem nisi ab ipso
+   creato<lb ed="#B" n="90" break="no"/>re qui omnia fecit, &amp; per quem omnia facta sunt: procul 
+   <lb ed="#B" n="91"/>dubio infidelis est &amp; pagano deterior.
+  </p>
+      <p xml:id="jMqv4a-d1e1523-d1e256">
+   ⁋
+   Respon<lb ed="#B" n="92" break="no"/>detur. hoc cap. propterea non vult negare sicut 
+   <lb ed="#B" n="93"/>nec debet, quin viri &amp; mulieres &amp; alia bruta a dae 
+   <lb ed="#B" n="94"/>monibus reuera deducantur localiter per spatia. 
+   <lb ed="#B" n="95"/>Cuius possibilitas declaratur. Nam angelus Thobie 
+   <lb ed="#B" n="96"/>corpus assumpsit: &amp; Thobiam in Rages Medorum 
+   <lb ed="#B" n="97"/>asportauit: ille enim angelus corpus assumptum mo 
+   <lb ed="#B" n="98"/>uebat. Idem fecit daemon de humanitate Christi. 
+   <lb ed="#B" n="99"/>Matthaei. iiii. Et angelus transportauit Abacuc a 
+   <lb ed="#B" n="100"/>ludaea in Babylonem: vt Danieli cibum ministraret. 
+   <lb ed="#B" n="101"/>Danielis. xi iii. Angelus item mouet caelum ab oriente 
+   <lb ed="#B" n="102"/>in occidentem in. xxiiii. horis. &amp; anima mouet
+   cor<lb ed="#B" n="103" break="no"/>pus. Quare ergo angelus bonus vel malus non 
+   <lb ed="#B" n="104"/>poterit mouere homines, lupos, equos, vel alia 
+   <lb ed="#B" n="105"/>corpora: quorum resistentia non est aequalis potentia 
+   <lb ed="#B" n="106"/>motiuae eius si sibi relinquatur? Sed vult illud cap 
+   <lb ed="#B" n="107"/>dicere, quod non omnis qui putat se. deferri localiter- 
+   <!--0603.xml-->
+   <pb ed="#B" n="286-r"/>
+       <cb ed="#B" n="a"/>
+       <lb ed="#B" n="1"/>sic defertur crebro enim est error, quod patet per simile 
+   <lb ed="#B" n="2"/>de patiente incubum: vbi est sanguis coadunatus 
+   <lb ed="#B" n="3"/>circa cor dormientis resupine post splendidam coe 
+   <lb ed="#B" n="4"/>nam: si sit humoribus plenus. videtur namque viro 
+   <lb ed="#B" n="5"/>quod sit reuera magna mole externa praessus, vel
+   mu<lb ed="#B" n="6" break="no"/>lieri: &amp; tamen nihil externum est. Nec debet aliquis 
+   <lb ed="#B" n="7"/>asserere se esse localiter motum nisi aliunde
+   docea<lb ed="#B" n="8" break="no"/>tur. sicut somnians se esse super trabem non debet 
+   <lb ed="#B" n="9"/>illud asserere, nisi rationes valde probabiles ad hoc 
+   <lb ed="#B" n="10"/>habeat. &amp; vbi sunt rationes hincinde oppositae: 
+   <lb ed="#B" n="11"/>dicere debet sicut Apostolus secundae ad Corinth. 
+   <lb ed="#B" n="12"/>xii. Nescio an in corpore, an extra corpus, deus 
+   <lb ed="#B" n="13"/>scit. homo enim non debet assentiri visis in somno 
+   <lb ed="#B" n="14"/>nisi vigilans de hoc doceatur. Vbi vero in alia per 
+   <lb ed="#B" n="15"/>te dicitur non posse aliquid mutari de specie in spe 
+   <lb ed="#B" n="16"/>ciem, non est hic sermo de specie essentiali &amp; quidita 
+   <lb ed="#B" n="17"/>tiua, non enim credo cum losepho de
+   Nabuchodo<lb ed="#B" n="18" break="no"/>nosor quod deus possit facere hominem, bouem, vel 
+   <lb ed="#B" n="19"/>equum, quia hoc implicat. sermo est illic de creatio 
+   <lb ed="#B" n="20"/>ne proprie dicta: de qua in prima quaestione primae 
+   <lb ed="#B" n="21"/>dist. huius quarti loquuti sumus: quae creaturae non 
+   <lb ed="#B" n="22"/>competit, non enim potest facere creaturas quas deus. 
+   <lb ed="#B" n="23"/>ipse namque potest formam substantialem producere &amp; 
+   <lb ed="#B" n="24"/>corpus: &amp; partes coniungere, totum compositum
+   producen<lb ed="#B" n="25" break="no"/>do: quod non potest facere angelus. bene tamen potest 
+   <lb ed="#B" n="26"/>coniungere actiua passiuis: vt agentia naturalia pro 
+   <lb ed="#B" n="27"/>ducantur. vt dicit glossa <name xml:id="jMqv4a-d1e1523-Nd1e357" ref="#Augustine">Augustini</name> Exodi. vii. 
+   <lb ed="#B" n="28"/>Daemones quamuis mali, naturam suam non amiserunt. 
+   <lb ed="#B" n="29"/>ldeo dum per incantationem eorum, malefici aliquid  
+   <lb ed="#B" n="30"/>efficere conantur, discurrunt per mundum: &amp; subito
+   se<lb ed="#B" n="31" break="no"/>mina eorum de quibus hoc agitur, afferunt: sicque de 
+   <lb ed="#B" n="32"/>illis permittente deo nouas rerum species producunt. 
+   <lb ed="#B" n="33"/>Nihil autem hic faciunt nisi quod actiua passiuis
+   appli<lb ed="#B" n="34" break="no"/>cant: sicut Vulcanus in formatione ignis. &amp; hoc 
+   <lb ed="#B" n="35"/>in creaturis imperfectis. Etiam de animalibus perfe 
+   <lb ed="#B" n="36"/>ctissimis, scilicet homine: glossa marginalis
+   Ge<lb ed="#B" n="37" break="no"/>neseos. vi. tenet hoc non esse improbabile: vt pote 
+   <lb ed="#B" n="38"/>de gigantibus a daemonibus incubis genitis. Quia  
+   <lb ed="#B" n="39"/>vero daemon possit semen viri impedire si sibi re 
+   <lb ed="#B" n="40"/>linquatur: patet multis modis. Primo modo inter 
+   <lb ed="#B" n="41"/>virum &amp; mulierem. nam potest impedire meatus per quos 
+   <lb ed="#B" n="42"/>fluit semen in corpore. licet enim sit spiritus: potest: 
+   <lb ed="#B" n="43"/>corpus mouere expulsiue: vt patet ex dictis.
+   er<lb ed="#B" n="44" break="no"/>go potest impedire semen ne per meatus naturales 
+   <lb ed="#B" n="45"/>currat: etiam si ab omnibus partibus corporis
+   diffun<lb ed="#B" n="46" break="no"/>datur: vt dixerunt antiqui ante <name xml:id="jMqv4a-d1e1523-Nd1e402" ref="#Aristotle">Aristotelem.</name> quia 
+   <lb ed="#B" n="47"/>erit per totum corpus existens. multo magis potest se 
+   <lb ed="#B" n="48"/>minis diffusionem impedire si a determinatis
+   parti<lb ed="#B" n="49" break="no"/>bus corporis diffundatur: &amp; magis seminis
+   ge<lb ed="#B" n="50" break="no"/>nerationem. Aliquae autem sunt haerbae spermatis
+   nu<lb ed="#B" n="51" break="no"/>tritiuae &amp; calefactiuae, vt apud auctores notum est. 
+   <lb ed="#B" n="52"/>sed exemplificare non conducit. Aliquae sunt
+   frigefa<lb ed="#B" n="53" break="no"/>ctiuae: quae febricitantibus in aestate conceduntur. Influem 
+   <lb ed="#B" n="54"/>tia etiam caeli ad hoc multum facit. <name xml:id="jMqv4a-d1e1523-Nd1e422" ref="#Aristotle">Aristoteles</name> in pro 
+   <lb ed="#B" n="55"/>blematibus dicit. viros in hyeme &amp; in tempore fri- 
+   <!--0603.xml-->
+   <cb ed="#B" n="b"/> 
+       <!-- 286-r b -->
+       <lb ed="#B" n="56"/>gido veneris magis appetentes: &amp; minus in
+   aesta<lb ed="#B" n="57" break="no"/>e. opposito modo de foeminis. Cum itaque
+   homi<lb ed="#B" n="58" break="no"/>nes illa experimento nouerint: multo melius
+   dae<lb ed="#B" n="59" break="no"/>mones ea capiunt. Non ergo mirabere si daemones 
+   <lb ed="#B" n="60"/>possint carnalem copulam impedire: &amp; veneficae mu 
+   <lb ed="#B" n="61"/>lieres daemonum auxilio adiutae. 
+  </p>
+      <p xml:id="jMqv4a-d1e1523-d1e448">
+       <lb ed="#B" n="62"/>⁋ Secundo arguitur contra eandem 
+   <lb ed="#B" n="63"/>conclusionem. Magicae mulieres &amp; daemones per
+   di<lb ed="#B" n="64" break="no"/>cta non possunt rem de vna specie essentiali in aliam 
+   <lb ed="#B" n="65"/>mutare: sed tanta est apparentia quod rem de specie 
+   <lb ed="#B" n="66"/>essentiali in aliam transmutent: quata de quibuscum 
+   <lb ed="#B" n="67"/>quod aliis transmutationibus: ergo non habes dicere 
+   <lb ed="#B" n="68"/>quod aliquid faciant. Respondetur. licet multa de trans 
+   <lb ed="#B" n="69"/>formatis legantur: &amp; aliqua apud poetas: vt apud 
+   <lb ed="#B" n="70"/>Nasonem in Metamorphosi: poetarum figmenta 
+   <lb ed="#B" n="71"/>sunt: &amp; intelligentiam latentem &amp; moralem habent. vt 
+   <lb ed="#B" n="72"/>de multis in porcos mutatis: qui in viros
+   sordi<lb ed="#B" n="73" break="no"/>dos luxui deditos &amp; in gradum bestialitatis vitii 
+   <lb ed="#B" n="74"/>descenderunt. Poetarum namque mos est sub nube
+   alle<lb ed="#B" n="75" break="no"/>goriam seu moralitatem includere: vt apud
+   Aeso<lb ed="#B" n="76" break="no"/>pum &amp; alios intueri licet. Alia ad literam aliquo 
+   <lb ed="#B" n="77"/>modo verum habent: iudicio tamen plurimum erroneo 
+   <lb ed="#B" n="78"/>nominum. vt videre est apud <name xml:id="jMqv4a-d1e1523-Nd1e487" ref="#Augustine">Augustinum</name>. xviii. 
+   <lb ed="#B" n="79"/>de ciuitate dei. ca. xvii. de sociis Diomedis in aues 
+   <lb ed="#B" n="80"/>conuersis. Et apud poetam dicentem. Carminibus 
+   <lb ed="#B" n="81"/>Circe socios mutauit Vlyssis. nam sublatis sociis 
+   <lb ed="#B" n="82"/>Diomedis loco eorum corpora auium daemones ad  
+   <lb ed="#B" n="83"/>ducere poterant. Sed quia plerique hominum dicuntur 
+   <lb ed="#B" n="84"/>in bestias mutari: delusio erat in hominum visibus 
+   <lb ed="#B" n="85"/>Quaedam enim fertur esse haerba quae accensa fumigans 
+   <lb ed="#B" n="86"/>facit trabes, serpentes apparere.
+  </p>
+      <p xml:id="jMqv4a-d1e1523-d1e508">
+   ⁋ Sed haec illusio 
+   <lb ed="#B" n="87"/>potest ex parte obiecti, medii, potentiae exterioris vel 
+   <lb ed="#B" n="88"/>interioris prouenire. Ex parte obiecti, daemon potest 
+   <lb ed="#B" n="89"/>assumere corpus equi: vel fabricare corpus equi 
+   <lb ed="#B" n="90"/>&amp; ponere circa corpus hominis: &amp; hominem trudere 
+   <lb ed="#B" n="91"/>super terram: vt incedat manibus &amp; pedibus: &amp;
+   au<lb ed="#B" n="92" break="no"/>ferre ei vocem. hoc enim homo nouit facere:
+   ponen<lb ed="#B" n="93" break="no"/>do corpus rotundum in ore alterius: &amp; postea porta 
+   <lb ed="#B" n="94"/>re totum ipsae daemon. Et sic venefica mulier potest 
+   <lb ed="#B" n="95"/>equitare super hominem in equum conversum: &amp; cogere 
+   <lb ed="#B" n="96"/>eu ire ad molendinum cum graui pondere quod tres equi 
+   <lb ed="#B" n="97"/>ferre non possent. quia daemon haec facit: vt
+   Gre<lb ed="#B" n="98" break="no"/>gorius primo libro Dialogorum refert de daemone 
+   <lb ed="#B" n="99"/>qui in specie lactucae moniali: &amp; in massa auri bea 
+   <lb ed="#B" n="100"/>to Antonio apparuit. Hinc Iob cum illo plurimum 
+   <lb ed="#B" n="101"/>versatus recte dicebat. Non est super terram potestas 
+   <lb ed="#B" n="102"/>quae comparetur ei. Iob. xli.
+  </p>
+      <p xml:id="jMqv4a-d1e1523-d1e545">
+   ⁋ Potest esse fascinatio 
+   <lb ed="#B" n="103"/>ex parte medii. nam potest impedire species ne deue 
+   <lb ed="#B" n="104"/>niant ad organum astantium: quae species licet corporales 
+   <lb ed="#B" n="105"/>fuerint: non possunt naturaliter ab homine videri 
+   <lb ed="#B" n="106"/>sed solum sunt medium per quod homo videt. Daemodo 
+   <lb ed="#B" n="107"/>autem potest has species expellere ab vna parte 
+   <lb ed="#B" n="108"/>medii ad aliam. &amp; sic vnus assistens videbit ad quem 
+   <lb ed="#B" n="109"/>deuenient species, &amp; non alter. daemon quoque tam 
+   <!--0604.xml-->
+   <pb ed="#B" n="286-v"/>
+       <cb ed="#B" n="a"/>
+       <lb ed="#B" n="1"/>corpus quam animam: vel superior daemon inferiorem a 
+   <lb ed="#B" n="2"/>suo loco pellere potest: quamuis sint spiritus quibus non 
+   <lb ed="#B" n="3"/>repugnant esse simul in eodem loco si velint. Sicut enim 
+   <lb ed="#B" n="4"/>fortior potest debiliorem prosternere, &amp; a sua sede tru 
+   <lb ed="#B" n="5"/>dere: sic potest daemon species omnes versus obiectum 
+   <lb ed="#B" n="6"/>tendem: es repellere, vt nemo assistens videat: non mo 
+   <lb ed="#B" n="7"/>uendo accidens de subiecto in subiectum: sed aerem, &amp; 
+   <lb ed="#B" n="8"/>totum simul repellendo. Et si teneatur positio quam mi 
+   <lb ed="#B" n="9"/>nus rationabilem existimo quod non sunt ponendae
+   spe<lb ed="#B" n="10" break="no"/>cies in medio: potest impedimentum ne oblectum videatur 
+   <lb ed="#B" n="11"/>efficere. sicut iam vnum obiectum opacum alterius obie 
+   <lb ed="#B" n="12"/>cti visionem impedit. In super potest facere quod vnum
+   ob<lb ed="#B" n="13" break="no"/>iectum alterius coloris vni appareat quam alteri: ispeeies 
+   <lb ed="#B" n="14"/>immiscendo quo ad aliquos: &amp; non quo ad alios. 
+   <lb ed="#B" n="15"/>Sicut idem obiectum alterius coloris videtur, quando 
+   <lb ed="#B" n="16"/>super ipsum pannus tenuis ponitur. &amp; aliter videmus per 
+   <lb ed="#B" n="17"/>vitrum rubrum quam sine illo. Et a somno modo excita 
+   <lb ed="#B" n="18"/>tus aliter iudicat de lride circa candelam quam iandu 
+   <lb ed="#B" n="19"/>dum vigilans: &amp; in propinquitate aliter quam in distantia. 
+   <lb ed="#B" n="20"/>&amp; vnus iudicat propter situm visus &amp; varios colores 
+   <lb ed="#B" n="21"/>plures colores, vt in collo columbae vel lride, quam sint. 
+  </p>
+      <p xml:id="jMqv4a-d1e1523-d1e615">
+       <lb ed="#B" n="22"/>⁋ Potest insuper esse praestigium in potentia tam exteriore 
+   <lb ed="#B" n="23"/>qui interiore. na Maniacus &amp; phreneticus ob
+   hu<lb ed="#B" n="24" break="no"/>mores cadentes circa potentias iudicat serpentes 
+   <lb ed="#B" n="25"/>vel daemones in domo qui non sunt. &amp; oculus
+   pa<lb ed="#B" n="26" break="no"/>rum a sua sede eleuatus facit vnum obiectum duo ap 
+   <lb ed="#B" n="27"/>parere: vt pisum digitis cancellatis tactum duo ap 
+   <lb ed="#B" n="28"/>parere facit. Et quando sensus circa suum sensibile 
+   <lb ed="#B" n="29"/>errat: intellectus non reperiens rationem fortiorem ad 
+   <lb ed="#B" n="30"/>sensum castigandum, illuditur &amp; aberrat. hic autem 
+   <lb ed="#B" n="31"/>hoc deprehendere non potest. Beatus tamen Macharius 
+   <lb ed="#B" n="32"/>vtiin vitis patrum legimus, iuuenculam reuera vidit:  
+   <lb ed="#B" n="33"/>quam alii in equam conversam putarunt: sed miraculo 
+   <lb ed="#B" n="34"/>se adiutus. Porro in somno ob species fortiter 
+   <lb ed="#B" n="35"/>mouentes &amp; complexionem, homo iudicat quod rem vi 
+   <lb ed="#B" n="36"/>det, intuendo rerum ad extra simulacra in memoria 
+   <lb ed="#B" n="37"/>recondita: quam nullo modo intuetur. experientia namqui 
+   <lb ed="#B" n="38"/>hoc in nobis deprehendimus. Phlegmaticus. enim 
+   <lb ed="#B" n="39"/>plerumque se iudicat submersum esse in aquis, vel 
+   <lb ed="#B" n="40"/>prope eas: &amp; quod apprehendit arbores crescentes in  
+   <lb ed="#B" n="41"/>ripa fluminis. sic cholericus de bello: melancholi 
+   <lb ed="#B" n="42"/>cus de cacodaemonibus &amp; nigris somniat. de
+   qui<lb ed="#B" n="43" break="no"/>bus in morbo prudens medicus inquirit. &amp; simi 
+   <lb ed="#B" n="44"/>les species omnino in memoria reconditas habent: &amp; 
+   <lb ed="#B" n="45"/>hoc est propter alias dispositiones in corpore, &amp; spi 
+   <lb ed="#B" n="46"/>cies fortius potentiae obiectas: &amp; aliquas optime 
+   <lb ed="#B" n="47"/>potentiae applicatas.
+  </p>
+      <p xml:id="jMqv4a-d1e1523-d1e675">
+   ⁋ Omnia siquidem haec nouit facere 
+   <lb ed="#B" n="48"/>daemon sibi relictus: vt puta potest sensationes 
+   <lb ed="#B" n="49"/>&amp; intellectiones &amp; earum species intuitiue
+   cogno<lb ed="#B" n="50" break="no"/>scere. Potest aliquas melius potentiae applicare quam 
+   <lb ed="#B" n="51"/>alias, vel tollere alias quae obicem mouendi potentia 
+   <lb ed="#B" n="52"/>praestant. Et licet teneatur positio aliorum quod sibi
+   reli<lb ed="#B" n="53" break="no"/>ctus non possit cognoscere intellectiones,
+   intelle<lb ed="#B" n="54" break="no"/>ctus species, vel habitus, non refert: tamen percipit dae 
+   <lb ed="#B" n="55"/>mon per exteriora, circa quae illicita aliquis mouetur, 
+   <!--0604.xml-->
+   <cb ed="#B" n="b"/> 
+       <!-- 286-v b -->
+       <lb ed="#B" n="56"/>citius quam quicumque homo. sicut peritus medicus per 
+   <lb ed="#B" n="57"/>pulsum, vrinam, &amp; superfluum primae digestionis mul 
+   <lb ed="#B" n="58"/>ta nouit, super quibus imperitus miratur. Considerat 
+   <lb ed="#B" n="59"/>namque caute &amp; malitiose circa quae illicita homo
+   ver<lb ed="#B" n="60" break="no"/>setur: vtpote si circa mulierem hanc pulchram, coniugen 
+   <lb ed="#B" n="61"/>vel aliquid tale: &amp; species talis mulieris optime 
+   <lb ed="#B" n="62"/>potentiae applicat &amp; nocte &amp; interdiu, sic vt tentatus 
+   <lb ed="#B" n="63"/>cogitationes actuales crebro habeat: quibus
+   appre<lb ed="#B" n="64" break="no"/>hensis homo ex negligentia &amp; debilitate pleruque 
+   <lb ed="#B" n="65"/>succumbit. sed quando illae species cum potentia
+   appli<lb ed="#B" n="66" break="no"/>catae naturaliter producunt cogitationem mulieris de 
+   <lb ed="#B" n="67"/>qua loquimur: no est peccatum vllum: si homo non 
+   <lb ed="#B" n="68"/>consentiat, sed diuertat se quam primum commode potest ab 
+   <lb ed="#B" n="69"/>illa cogitatione periculosa. nam potest convertendo se ad  
+   <lb ed="#B" n="70"/>alia obiecta sancta &amp; salutifera, vtpote ad passio 
+   <lb ed="#B" n="71"/>nem Christi, &amp; ad horrendum extremum iudiciu, illas 
+   <lb ed="#B" n="72"/>cogitationes naturaliter extinguere. licet enim
+   intel<lb ed="#B" n="73" break="no"/>lectus &amp; sensus possint plures sensationes vel in  
+   <lb ed="#B" n="74"/>tellectiones actuales habere remissas: tamen capacitas 
+   <lb ed="#B" n="75"/>actiua &amp; sensus &amp; intellectus terminatur. &amp; quando  
+   <lb ed="#B" n="76"/>vna potentia multum intense &amp; profunde circa vnum 
+   <lb ed="#B" n="77"/>obiectum immergitur: facit alias potentias a suis
+   co<lb ed="#B" n="78" break="no"/>gitationibus cessare: ita vt nullas habeat circa alia 
+   <lb ed="#B" n="79"/>obiecta. alioquin actiua capacitas sensus vel
+   in<lb ed="#B" n="80" break="no"/>tellectus non haberet statum: quod est falsum. Voluntas 
+   <lb ed="#B" n="81"/>enim cum sit libera, non potest moueri nisi consentiat, a 
+   <lb ed="#B" n="82"/>daemone vllo, nec se solo potest daemon in volunta 
+   <lb ed="#B" n="83"/>tem actum producere.
+  </p>
+      <p xml:id="jMqv4a-d1e1523-d1e762">
+   ⁋ Quare corollarie infero quod 
+   <lb ed="#B" n="84"/>diabolus nullum vincit peccando nisi volentem.
+   Si<lb ed="#B" n="85" break="no"/>gnanter (peccando) quia deo permittente potest hominem 
+   <lb ed="#B" n="86"/>&amp; laedere &amp; occidere sine hominis peccato. Interdum nam 
+   <lb ed="#B" n="87"/>quod obfessio daemonis est poena peccati inexisten 
+   <lb ed="#B" n="88"/>tis, forte infidelitatis: &amp; deus illam poenam permittit, 
+   <lb ed="#B" n="89"/>secundum illud Psalmographi Psal. xc. Quoniam in me 
+   <lb ed="#B" n="90"/>sperauit, liberabo eum. ergo per locum a contrario
+   sen<lb ed="#B" n="91" break="no"/>su, quia non sperauit in me, non liberabo eum. Interdum 
+   <lb ed="#B" n="92"/>est poena peccat i praecedentis, nonnum quam ad patientiam in  
+   <lb ed="#B" n="93"/>homine experienda. vt in Iob. Aliqui autem dubitant 
+   <lb ed="#B" n="94"/>an daemones sint: vt Saducaei in lege. sed
+   pro<lb ed="#B" n="95" break="no"/>pter incredulos deus permittit eos cognosci. Semper 
+   <lb ed="#B" n="96"/>iudica quod deus permittat haec ob bonum finem: licet 
+   <lb ed="#B" n="97"/>nos lateat. ludicia enim dei abyssus multa. Psal. 
+   <lb ed="#B" n="98"/>xxxii. Preterea infero quod interdum visus non decipi 
+   <lb ed="#B" n="99"/>tur. hoc est, videns circa obiectum per se ad extra:
+   be<lb ed="#B" n="100" break="no"/>ne tamen circa obiectum per accidens. vt quando homo propter 
+   <lb ed="#B" n="101"/>figuram equi externam iudicatur equus. Vltimo infertur 
+   <lb ed="#B" n="102"/>quod aliquis delusus putat se videre asinum: qui nullum 
+   <lb ed="#B" n="103"/>asinum videt. vt somnians qui solum species rei sen 
+   <lb ed="#B" n="104"/>satae percipit iudicans se asinum sensatum videre. similiter 
+   <lb ed="#B" n="105"/>homo qui putatur in brutum conversus: qui tamen nullo 
+   <lb ed="#B" n="106"/>modo brutum effici potest. Si dicas. Danieles. iiii.
+   Nabu<lb ed="#B" n="107" break="no"/>chodonosor conversus est in brutum. Illic enim
+   scri<lb ed="#B" n="108" break="no"/>bitur. Cor eius ab humano commutetur: &amp; cor ferae 
+   <lb ed="#B" n="109"/>detur ei. Et paulo post in eodem cap. scribitur. Foenum 
+   <lb ed="#B" n="110"/>vt bos comedit &amp; rore caeli corpus eius infectum 
+   <!--0605.xml-->
+   <pb ed="#B" n="287-r"/>
+       <cb ed="#B" n="a"/>
+       <lb ed="#B" n="1"/>est, donec capilli eius in similitudinem aquilarum 
+   <lb ed="#B" n="2"/>crescerent: &amp; vngues eius quasi vngues auium. 
+   <lb ed="#B" n="3"/>Respondetur, non est reuera factus bos: prout
+   lo<lb ed="#B" n="4" break="no"/>sephus existimat: sed amens inter pecora currens. 
+   <lb ed="#B" n="5"/>sicut stulti cum canibus &amp; brutis currunt. Deus namque 
+   <lb ed="#B" n="6"/>in suam gloriam, &amp; ad confundendam superbiam Nabucho 
+   <lb ed="#B" n="7"/>donosor hoc fecit. glandibus quidemi fructibus ne 
+   <lb ed="#B" n="8"/>moris &amp; haerbis vescebatur. nam deus potest conseruare 
+   <lb ed="#B" n="9"/>hominem sine comestione, vel cum comestione
+   gra<lb ed="#B" n="10" break="no"/>minis: sicut nunc viuit homo fructus &amp; porros 
+   <lb ed="#B" n="11"/>comedendo. praeseruauit tamen eum a morte naturali: &amp; 
+   <lb ed="#B" n="12"/>ne a bestiis occideretur. cum autem sui &amp; ipse hoc
+   futu<lb ed="#B" n="13" break="no"/>rum ad annos septem audiuerunt a Daniele, cui ob 
+   <lb ed="#B" n="14"/>sanctimoniam &amp; stupenda miracula fidem
+   adhibue<lb ed="#B" n="15" break="no"/>runt: permiserunt eum currere &amp; vagari quoquouer 
+   <lb ed="#B" n="16"/>sum: certo scientes quod rediret ad sceptra regni: &amp; 
+   <lb ed="#B" n="17"/>conseruaretur a deo: vt addisceret dei potentiam &amp; ho 
+   <lb ed="#B" n="18"/>minum infirmitatem. 
+   <lb ed="#B" n="19"/>lIrca insta dubitatur. An Fauni 
+   <lb ed="#B" n="20"/>l&amp; homines syluestres sint daemones. 
+  </p>
+      <p xml:id="jMqv4a-d1e1523-d1e873">
+       <lb ed="#B" n="21"/>⁋⁋ Secundo dubitatur: quare sint plures 
+   <lb ed="#B" n="22"/>mulieres veneficae quam viri.
+  </p>
+      <p xml:id="jMqv4a-d1e1523-d1e880">
+   ⁋ Tertio dubitatur: an li 
+   <lb ed="#B" n="23"/>ceat maleficium per maleficium tollere.
+  </p>
+      <p xml:id="jMqv4a-d1e1523-d1e885">
+   ⁋ Respondetur. 
+   <lb ed="#B" n="24"/>Daemon interdum assumit corpus humanum vt ab 
+   <lb ed="#B" n="25"/>quem fallat: quod creberrime videre est in vitis patrum. 
+   <lb ed="#B" n="26"/>Sunt vero nonulli qui deuotionis vel tristitiae gra 
+   <lb ed="#B" n="27"/>tia mundum relinquentes per nemora discurrunt, nudi 
+   <lb ed="#B" n="28"/>&amp; hirsuti. foliis tecti, vitam eremiticam ducentes, ali 
+   <lb ed="#B" n="29"/>quando pro bestiis in retibus a venatoribus capti. 
+   <lb ed="#B" n="30"/>Sunt &amp; mostra rationalia effigies ferinas habentia 
+   <lb ed="#B" n="31"/>vt satyri. quod habere possunt ab influentia caeli. nam 
+   <lb ed="#B" n="32"/>videmus aliquos conterraneos toruis vultibus: &amp; 
+   <lb ed="#B" n="33"/>alios pulchros. sic esse potest de istis. Mirabile mor 
+   <lb ed="#B" n="34"/>strum &amp; rationale vidit diuus Antonius cum Paulum 
+   <lb ed="#B" n="35"/>primum eremitam quaesiuit: vt scribit Hieronymus. Qum 
+   <lb ed="#B" n="36"/>praemisso signo crucis, cum quisnam esset interrogasset 
+   <lb ed="#B" n="37"/>respondit Satyrus ille. mortalis ego sum, vnus ex 
+   <lb ed="#B" n="38"/>accolis eremi: quos vano errore delusa antiquitas 
+   <lb ed="#B" n="39"/>Faunos, Satyrosque &amp; incubos appellat: legatione 
+   <lb ed="#B" n="40"/>fungor gregis mei, praecamurque vt commune dominum 
+   <lb ed="#B" n="41"/>pro nobis depceris: quem pro salute mundi olim venis 
+   <lb ed="#B" n="42"/>se cognouimus: et in omnem terram exiuit sonus eius. 
+   <lb ed="#B" n="43"/>Hunc virum <name xml:id="jMqv4a-d1e1523-Nd1e930" ref="#Jerome">Hieronymus</name> describens ait. Erat autem
+   ho<lb ed="#B" n="44" break="no"/>muncio aduncis natibus: &amp; fronte cornibus aspera 
+   <lb ed="#B" n="45"/>cuius extrema corporis in caprarum pedes desine 
+   <lb ed="#B" n="46"/>bant. Aliqui praeterea sunt ferme stolidi &amp; ferini, na 
+   <lb ed="#B" n="47"/>ti sub polis &amp; in insulis recentet ab hesperiis inuen 
+   <lb ed="#B" n="48"/>tis prope aequatorem. fortasse enim sicut mula ab equa 
+   <lb ed="#B" n="49"/>&amp; asino generatur: sic potest animal rationale ab homine 
+   <lb ed="#B" n="50"/>&amp; pecore: &amp; si sic, quod mirum quod habeat effigiem quo 
+   <lb ed="#B" n="51"/>dammodo brutalem &amp; quodammodo humanam: vt mula 
+   <lb ed="#B" n="52"/>cum equa &amp; asino participans?
+  </p>
+      <p xml:id="jMqv4a-d1e1523-d1e954">
+   ⁋ Ad secundam dubi 
+   <lb ed="#B" n="53"/>tationem respondetur quod mulieres sunt dicaces &amp;
+   do<lb ed="#B" n="54" break="no"/>cent seinuicem: nec possunt silere de maleficio si quod 
+   <!--0605.xml-->
+   <cb ed="#B" n="b"/> 
+       <!-- 287-r b -->
+       <lb ed="#B" n="55"/>habent. viri autem sunt secreti &amp; silere nouerunt. Secundo  
+   <lb ed="#B" n="56"/>mulieres sunt maxime appetitiuae vindictae: &amp; qua 
+   <lb ed="#B" n="57"/>runt vlcisci in eos qui sibi multum displicuerunt. Hine 
+   <lb ed="#B" n="58"/>dicitur Ecclesiastici. xxv. Commorari leoni &amp;
+   craco<lb ed="#B" n="59" break="no"/>ni placebit quam habitare cum muliere nemquam. Non enim 
+   <lb ed="#B" n="60"/>est malitia super malitiam mulieris. &amp; cum. xires non ha 
+   <lb ed="#B" n="61"/>beant: daemonis opem sollicitant: &amp; cum eo pactum fa 
+   <lb ed="#B" n="62"/>ciunt, eum colendo &amp; sibi conciliando. Illae autem haber 
+   <lb ed="#B" n="63"/>tes pactum explicitum cum daemone docent alias ver 
+   <lb ed="#B" n="64"/>ba aliqua &amp; signa: quam si faciant, promittunt, quod
+   habe<lb ed="#B" n="65" break="no"/>bunt intentum: vt quas daemon solus capere ne 
+   <lb ed="#B" n="66"/>quit: ope istarum malarum capiat, intendens sine pa 
+   <lb ed="#B" n="67"/>cto explicito ab initio alias superinducere vt se 
+   <lb ed="#B" n="68"/>colant: &amp; de fide Christiana male sentiant: vt tan 
+   <lb ed="#B" n="69"/>dem damnentur. sed pedetentim &amp; caute procediti 
+   <lb ed="#B" n="70"/>etiam aliquas promissiones eis seruando vt fallat. nam 
+   <lb ed="#B" n="71"/>sine causa apparentiae non committitur fallacia: vt ex 
+   <lb ed="#B" n="72"/>libris Elenchorum perspicuum est. Fidem enim totius 
+   <lb ed="#B" n="73"/>salutis fundamentum euertere student. Mulieres autem 
+   <lb ed="#B" n="74"/>propter carnis fluxibilitatem sunt maxime leues 
+   <lb ed="#B" n="75"/>&amp; instabiles. vnde Ecclesiastici. xix. Qui credit ci 
+   <lb ed="#B" n="76"/>to, leuis corde est, &amp; minorabitur.
+  </p>
+      <p xml:id="jMqv4a-d1e1523-d1e1016">
+   ⁋ Ad tertium 
+   <lb ed="#B" n="77"/>dicitur quod nullo modo licet maleficium. vnum per 
+   <lb ed="#B" n="78"/>aliud maleficium tollere: quia non suint facienda 
+   <lb ed="#B" n="79"/>mala vt bona eueniant. ad Romanns. iii. Licitum 
+   <lb ed="#B" n="80"/>tamen est maleficium viis licitis e medio tollere i 
+   <lb ed="#B" n="81"/>vt per licitum exorcismum, per aquae benedictae asper 
+   <lb ed="#B" n="82"/>sionem, sanctorum intercessionem, per poenitentiam 
+   <lb ed="#B" n="83"/>veram, per Eucharistiae deuotam sumptionem. nam 
+   <lb ed="#B" n="84"/>potest homo his munimentis contra daemonum 
+   <lb ed="#B" n="85"/>versutias procedere. 
+  </p>
+      <p xml:id="jMqv4a-d1e1523-d1e1038">
+       <lb ed="#B" n="86"/>⁋ Hactenus de maleficis qui daemo 
+   <lb ed="#B" n="87"/>num ope omnia mala perpetrant: quorum potestas 
+   <lb ed="#B" n="88"/>ad grandines / tempestates / laesionem / &amp; mortem
+   exten<lb ed="#B" n="89" break="no"/>ditur, nisi a deo impediantur. &amp; cum a deo prohibentur 
+   <lb ed="#B" n="90"/>ei gratiae immensae super hoc reddendae sunt. licet enim 
+   <lb ed="#B" n="91"/>magis vellent daemones nocere insontibus quam son 
+   <lb ed="#B" n="92"/>tibus: tamen hoc passim a deo non permittitur. Legi 
+   <lb ed="#B" n="93"/>mus siquidem de septem viris occisis, cum Sara gratia 
+   <lb ed="#B" n="94"/>voluptatis matrimonio iunctis. Thobiae. vi. Et 
+   <lb ed="#B" n="95"/>plerumque vel propter peccatum praesens vel praecedens haec 
+   <lb ed="#B" n="96"/>obfessio permittitur. Et quamuis bonus lob tam in bonis 
+   <lb ed="#B" n="97"/>fortunae: qui in corpore &amp; in filiis a daemonibus ve 
+   <lb ed="#B" n="98"/>xaretur: tamen ei demum ad gloriam cessit. Summe autem 
+   <lb ed="#B" n="99"/>cauendum est cum daemonibus habere commercium 
+   <lb ed="#B" n="100"/>Audiui e quodam religiosissimo patre de aliquibus 
+   <lb ed="#B" n="101"/>mulieribus multum vexatis a daemonibus: quos 
+   <lb ed="#B" n="102"/>in magna poenitentia expellere nequibant: quia 
+   <lb ed="#B" n="103"/>aditum ipsis initio dederant. modo vno
+   inconvenien<lb ed="#B" n="104" break="no"/>te dato multa mala contingunt. Non satis
+   mulie<lb ed="#B" n="105" break="no"/>res hae in deo confidebant: nec eum timebant: impetu 
+   <lb ed="#B" n="106"/>foemineo &amp; temerario ausae pactionem cum
+   dae<lb ed="#B" n="107" break="no"/>monibus fallacissimis inire. Vlterius cauendum 
+   <lb ed="#B" n="108"/>est ab omnibus suspectis modis operandi circa cue 
+   <!--0606.xml-->
+   <pb ed="#B" n="287-v"/>
+       <cb ed="#B" n="a"/>
+       <lb ed="#B" n="1"/>ras hominum vel brutorum. Suspectos modos vo 
+   <lb ed="#B" n="2"/>co qui sunt praeter communem ecclesiae consuetudinem: 
+   <lb ed="#B" n="3"/>vel verba ambigua imponentes. vt tangendo ter 
+   <lb ed="#B" n="4"/>terram: &amp; tangendo toties genam inflatam cum
+   oratio<lb ed="#B" n="5" break="no"/>nibus. Illa enim tactio est inutilis: sicut alii
+   chara<lb ed="#B" n="6" break="no"/>cteres. &amp; propter specien mali ne simplicibus detui 
+   <lb ed="#B" n="7"/>occasio sic faciendi, multa alia in se licita sunt omit 
+   <lb ed="#B" n="8"/>tenda. Et idem intelligitur in somniis, &amp; auguriis 
+   <lb ed="#B" n="9"/>auium, geomantia, necromantia, pyromantia,
+   chi<lb ed="#B" n="10" break="no"/>romantia. de nominibus enim non refert. Potest tamen 
+   <lb ed="#B" n="11"/>homo aliquos effectus naturales per manus
+   depre<lb ed="#B" n="12" break="no"/>hendere: vt ex multitudine longorum lineamento 
+   <lb ed="#B" n="13"/>rum in manu, cognoscimus ingeniosum virum 
+   <lb ed="#B" n="14"/>&amp; delicatam carnem. nam molles carne aptos mente di 
+   <lb ed="#B" n="15"/>cimus. secundo de anima. Sed iudicare per linea 
+   <lb ed="#B" n="16"/>menta ex transuerso ducta bonam fortunam vel ma 
+   <lb ed="#B" n="17"/>lam, est commentum vanum nullam causam naturalem 
+   <lb ed="#B" n="18"/>habens. Sic in fascinatione, vbi aliqua mulier ma 
+   <lb ed="#B" n="19"/>lis humoribus plena odio vel ira agitata,
+   humo<lb ed="#B" n="20" break="no"/>res ad oculos dirigit: &amp; teneros oculos paruulorum 
+   <lb ed="#B" n="21"/>inficit per aerem infectum intermedium: paruuli enim 
+   <lb ed="#B" n="22"/>facile laeduntur. Et sicut <name xml:id="jMqv4a-d1e1523-Nd1e1144" ref="#Aristotle">Aristoteles</name> recitat de ocu 
+   <lb ed="#B" n="23"/>lo menstruatae quod speculum mundum inficit, non autem 
+   <lb ed="#B" n="24"/>vetus. sic de agno &amp; non de oue, secundum illud
+   Vir<lb ed="#B" n="25" break="no"/>gilianum. Nescio quis teneros oculus mihi
+   fasci<lb ed="#B" n="26" break="no"/>nat agnos. Cruditatem autem humorum muliebrium per 
+   <lb ed="#B" n="27"/>menstruum ex Plinio libro. vii. naturalis historiae 
+   <lb ed="#B" n="28"/>intelligere potes, sic dicente. Nihil facile reperitur 
+   <lb ed="#B" n="29"/>mulierum profluuio magis monstriferum: acescunt super 
+   <lb ed="#B" n="30"/>uentu musta: orta sterilescunt, fruges moriuntur, 
+   <lb ed="#B" n="31"/>hortorum germina &amp; fructus arborum quibus
+   inse<lb ed="#B" n="32" break="no"/>dere decidunt, speculorum fulgor aspectu ipso
+   he<lb ed="#B" n="33" break="no"/>betatur, acies ferri praestringitur, eborisque nitor,. 
+   <lb ed="#B" n="34"/>aluei apum moriuntur, odorque dirus aera corrum: 
+   <lb ed="#B" n="35"/>pit, &amp; in rabiem aguntur gustato eo canes, atque insana 
+   <lb ed="#B" n="36"/>bilis veneno morsus infigitur. Sic epidimia
+   infe<lb ed="#B" n="37" break="no"/>ctus aerem inficit: quo infecto alius susceptiuus in  
+   <lb ed="#B" n="38"/>ficitur. sicut prior videns lupum, fit raucus, vt aiutem. 
+   <lb ed="#B" n="39"/>Et egreditur sanguis a vulnere recenter occisi ob 
+   <lb ed="#B" n="40"/>humores ab occisoris commoto organo ad
+   vul<lb ed="#B" n="41" break="no"/>nus vsque egredientes. Et vt Solinus natrat, quaedam in  
+   <lb ed="#B" n="42"/>Aphrica hominium familie sunt voce atque lingua
+   ef<lb ed="#B" n="43" break="no"/>fascinantes: quae si impensius forte laudauerint
+   pul<lb ed="#B" n="44" break="no"/>chras arbores / segentes laetiores / infantes amoenio 
+   <lb ed="#B" n="45"/>res / egregios equos / pecudens pastu atque cultu opi 
+   <lb ed="#B" n="46"/>mas: emoriuntur repente. Hic signum est maleficii quando 
+   <lb ed="#B" n="47"/>propter laudem aliquid mali alicui istorum contingit: quia 
+   <lb ed="#B" n="48"/>nulla causa naturalis motiuum suppeditat. Apud  
+   <lb ed="#B" n="49"/>nostrates ad huc vulgatissimus est mos, si equum 
+   <lb ed="#B" n="50"/>laudaueris, eum subito verbo benedicunt. Existi 
+   <lb ed="#B" n="51"/>mant enim laudem tuam fore eius mortis causam. vel 
+   <lb ed="#B" n="52"/>si praecium competens pro eo offeratur, non audent equum tene 
+   <lb ed="#B" n="53"/>re, ne subito moriatur. forte enim a maleficio originem 
+   <lb ed="#B" n="54"/>illa duxerunt: quod aliqui equi laudati, vel pro quibus 
+   <lb ed="#B" n="55"/>competens praecium offerebatur, mortui sunt. &amp; ex illo 
+   <!--0606.xml-->
+   <cb ed="#B" n="b"/> 
+       <!-- 287-v b -->
+       <lb ed="#B" n="56"/>error plebeius pullulat. Sane abhinc quinquenmnium 
+   <lb ed="#B" n="57"/>cum multis mercatoribus per Angliam proficiscens,
+   la<lb ed="#B" n="58" break="no"/>res patrios reuisurus, hoc inter eos omnes comperi 
+   <lb ed="#B" n="59"/>iuxta morem antiquum meae pueritiae, vt opinatus 
+   <lb ed="#B" n="60"/>sum. Sed haec vana sunt. Similiter vertere clauem
+   in<lb ed="#B" n="61" break="no"/>ter duos digitos pro furto deprehendendo, dicendo. Si 
+   <lb ed="#B" n="62"/>videbas furem &amp; currebas cum eo. &amp; caetera. vel
+   scri<lb ed="#B" n="63" break="no"/>pto, nomina eorum de quibus dubitas ponendo in vas 
+   <lb ed="#B" n="64"/>plenum aqua: vel percutiendo facien suspecti in pariete 
+   <lb ed="#B" n="65"/>quae laedetur si furtu fecerit. Haec enim sine arte daemo 
+   <lb ed="#B" n="66"/>nis fieri nequeunt: cum causam naturalem habeant nul 
+   <lb ed="#B" n="67"/>lam. Sed de auium cantu naturaliter aliqua deprehendi 
+   <lb ed="#B" n="68"/>mus. nam scimus aliquas aues tempore tempestatis fu 
+   <lb ed="#B" n="69"/>turae mare relinquere, petentes rura. tunc autem pro 
+   <lb ed="#B" n="70"/>gnosticamur pluuiam futuram. sicut teste <name xml:id="jMqv4a-d1e1523-Nd1e1257" ref="#Aristotle">Aristotele</name> 
+       <lb ed="#B" n="71"/>in Meteoris ex pulicibus mordentibus, &amp; bobus 
+   <lb ed="#B" n="72"/>a campis redeuntibus vel per humorem lapidum-. 
+  </p>
+      <p xml:id="jMqv4a-d1e1523-d1e1265">
+       <lb ed="#B" n="73"/>⁋ Eodem modo dicatur de somniis: quae
+   multi<lb ed="#B" n="74" break="no"/>fariam eueniunt in somno. Interdum somnia sunt 
+   <lb ed="#B" n="75"/>causa alicuius effectus futuri. vt Galenus de quo 
+   <lb ed="#B" n="76"/>dam recitat somniante: quod si minueretur ei sanguis inter 
+   <lb ed="#B" n="77"/>duos digitos, sanatet, quod postridie faciens sanatus 
+   <lb ed="#B" n="78"/>est. &amp; forte illud erat ex dei reuelatione. vt somnium 
+   <lb ed="#B" n="79"/>Ioseph. Genesis. xxvii. de quo dicebat. Audite 
+   <lb ed="#B" n="80"/>somnium meum quod vidi. Et Daniele. vii. ostenditur quod 
+   <lb ed="#B" n="81"/>somnium prophetae coepit a cogitatione, &amp;
+   termina<lb ed="#B" n="82" break="no"/>batur in reuelatione. secundum illud Numeri. xii. Si quis 
+   <lb ed="#B" n="83"/>fuerit inter vos propheta domini, in visione apparebo ei:  
+   <lb ed="#B" n="84"/>vel per somnium loquar ad illum. Interdum somnium est 
+   <lb ed="#B" n="85"/>signum alicuius humoris in dormiente abundantis, nonnum 
+   <lb ed="#B" n="86"/>uam illusione daemonis. Interdum a casu &amp; fortuna 
+   <lb ed="#B" n="87"/>euenit quod somniatur: &amp; sic facile fallitur homo. Inter 
+   <lb ed="#B" n="88"/>dum de his circa quae homo versatur somniat. vt doctus 
+   <lb ed="#B" n="89"/>circa suam artem &amp; theoricas. quocirca studiosorum 
+   <lb ed="#B" n="90"/>somnia laudabilia esse dicit philosophus secundo Ethicorum. 
+   <lb ed="#B" n="91"/>Nam mihiipsi noctu dormienti: sensibus exterioribus 
+   <lb ed="#B" n="92"/>clausis &amp; speciebus non turbatis, in materia ancipiti 
+   <lb ed="#B" n="93"/>interdum occurrit quod mihi visum erat dicendum: &amp; vi 
+   <lb ed="#B" n="94"/>gilando in illo iudicio tandem constiti. secundum illud
+   Ca<lb ed="#B" n="95" break="no"/>tonis. Sonnia ne cures: nam mens humana quod optat 
+   <lb ed="#B" n="96"/>Dum vigilat sperat: per somnum cernit idipsum. Hinc 
+   <lb ed="#B" n="97"/>auarus de auro: &amp; lubricus de luxu somniat. Vnde 
+   <lb ed="#B" n="98"/>virgilius in Bucolicis. An qui amant ipsi fibi somnia 
+   <lb ed="#B" n="99"/>fingunt? In omnibus his quando cama est naturalis vel putatur 
+   <lb ed="#B" n="100"/>naturalis, secundum illud potes iudicare. alioquin iudi 
+   <lb ed="#B" n="101"/>care de somno est vanum. secundum illud Ecclesiastici 
+   <lb ed="#B" n="102"/>xxxiiii. Multos errare fecerunt somnia: &amp;
+   excide<lb ed="#B" n="103" break="no"/>runt sperantes in ipsis. &amp; Ecclesiastes. v. dicitur. Vbi mul 
+   <lb ed="#B" n="104"/>ta sunt somnia, plurimae sunt vanitates &amp; sermo 
+   <lb ed="#B" n="105"/>nes innumeri. Et Leuitici. xix. Non augurabimi 
+   <lb ed="#B" n="106"/>ni: nec obseruabitis somnia. Et Deuteronomii 
+   <lb ed="#B" n="107"/>xiii. Propheta autem ille, aut fictor somniorum
+   inter<lb ed="#B" n="108" break="no"/>ficietur.
+  </p>
+      <p xml:id="jMqv4a-d1e1523-d1e1346">
+   ⁋ Summatim concludendo possumus
+   lici<lb ed="#B" n="109" break="no"/>te prognosticari de futuris quando habetur causa 
+   <lb ed="#B" n="110"/>naturalis. In aliis autem vti possumus oratio- 
+   <!--0607.xml-->
+   <pb ed="#B" n="288-r"/>
+       <cb ed="#B" n="a"/>
+       <lb ed="#B" n="1"/>nibus deuotis cum cerimoniis in ecclesia consuetis: 
+   <lb ed="#B" n="2"/>ab aliis verbis obscuris &amp; vetularum signis, &amp;
+   car<lb ed="#B" n="3" break="no"/>minibus cauentes. licet mulieres aliquae interdum ex 
+   <lb ed="#B" n="4"/>simplicitate talia facientes, vbi non docentur de op 
+   <lb ed="#B" n="5"/>posito, non videantur peccare. Verbi gratia. si Bei 
+   <lb ed="#B" n="6"/>ta videat matrem suam habitam probam dicentem
+   quin<lb ed="#B" n="7" break="no"/>quies Pater noster, &amp; quinquies tangentem vbera 
+   <lb ed="#B" n="8"/>vaccae a buffone infecta: per naturam aut vacca sa 
+   <lb ed="#B" n="9"/>netur: &amp; putent mater Bertae &amp; Berta hoc prouenire 
+   <lb ed="#B" n="10"/>acausa naturali orationis, &amp; tactus vberum: vel a 
+   <lb ed="#B" n="11"/>causa meritoria, sicut de exorcismo creditur: cum 
+   <lb ed="#B" n="12"/>a sapientibus non doceatur de opposito: nec sit scriprum 
+   <lb ed="#B" n="13"/>oppositum in corde istius bonae ruralis mulieris, 
+   <lb ed="#B" n="14"/>alioquin probe viuentis: durum est dicere hanc sim 
+   <lb ed="#B" n="15"/>plicem propterea delinquere. 
+  </p>
+    </div>
+   </body>
+  </text>
+</TEI>

@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 1</title>
+      <author ref="#JohnMair">John Mair</author>
+      <respStmt>
+       <name>Jeffrey C. Witt</name>
+       <resp>TEI Encoder</resp>
+      </respStmt>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 1</title>
+       <date when="2020-06-09">June 27, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="B" n="cod-Bda113">Badius 1516</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+     guidelines for a diplomatic edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-06-27" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+      <pb ed="#B" n="187-v"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="jMqv4a-d1e998"> <!-- l4d18q1 -->
+      <head xml:id="jMqv4a-d1e998-Hd1e104">Quaestio 1</head>
+      <head xml:id="jMqv4a-d1e998-Hd1e107" type="question-title">An sacerdos evangelicus virtute sacramenti 
+  poenitentiae tollat aliquid de culpa</head>
+      <p xml:id="jMqv4a-d1e998-d1e110">
+   <!--0406.xml-->
+       <pb ed="#B" n="187-v"/>
+       <cb ed="#B" n="a"/>
+       <lb ed="#B" n="1"/>⁋ Distinctionis Decimaeoctauae 
+   <lb ed="#B" n="2"/>Quaestio Prima. 
+   <lb ed="#B" n="3"/>MAgister in de 
+   <lb ed="#B" n="4"/>cimaoctaua distin 
+   <lb ed="#B" n="5"/>ctione &amp; sequente 
+   <lb ed="#B" n="6"/>tractat de clauibus. 
+   <lb ed="#B" n="7"/>&amp; conformiter ad 
+   <lb ed="#B" n="8"/>ea quae prosequii 
+   <lb ed="#B" n="9"/>aliquot quaestiones in 
+   <lb ed="#B" n="10"/>nac distinctione propo 
+   <lb ed="#B" n="11"/>nam. Primo quaeredo 
+   <lb ed="#B" n="12"/>cum Magistro in  
+   <lb ed="#B" n="13"/>capitulo Quinto hu 
+   <lb ed="#B" n="14"/>ius distinctionis: 
+   <lb ed="#B" n="15"/>sacerdos virtute sacramenti poenitentiae aliquid 
+   <lb ed="#B" n="16"/>tollat de culpa. &amp; quia in quartadecima distinctioe 
+   <lb ed="#B" n="17"/>super hoc loquutus sum: paucis quaestionem expediam 
+   <lb ed="#B" n="18"/>Secundo inquiram: quid possit clauis ecclesiae in excom 
+   <lb ed="#B" n="19"/>catione. circa quam materiam triplicem propone 
+   <lb ed="#B" n="20"/>re intendo quaestionem. Accedendo ad primam: 
+   <lb ed="#B" n="21"/>propositus est talis titulus quaestionis. An sacer 
+   <lb ed="#B" n="22"/>dos euangelicus virtute sacramenti poenitentiae tol 
+   <lb ed="#B" n="23"/>lat aliquid de culpa.
+  </p>
+      <p xml:id="jMqv4a-d1e998-d1e169">
+   ⁋ Circa hanc quaestionem va 
+   <lb ed="#B" n="24"/>riae sunt opiniones. vna est <ref xml:id="jMqv4a-d1e998-Rd1e173">
+        <name xml:id="jMqv4a-d1e998-Nd1e175" ref="#HughOfStVictor">Hugonis de sancto 
+   <lb ed="#B" n="25"/>Victore</name> libro secundo de sacramentis: parte. xiiii. 
+   <lb ed="#B" n="26"/>cap. viii.</ref> tenentis quod per contritionem obduratio seu 
+   <lb ed="#B" n="27"/>excaecatio mentis, collata gratia tollitur: sed
+   rea<lb ed="#B" n="28" break="no"/>tus aeternae damnationis sine confessione non
+   de<lb ed="#B" n="29" break="no"/>letur. &amp; per consequens concedit quod aliquis est re 
+   <lb ed="#B" n="30"/>conciliatus deo per gratiam: &amp; nihilominus est fi 
+   <lb ed="#B" n="31"/>lius irae &amp; aeternae perditionis: &amp; ita est dignus
+   vi<lb ed="#B" n="32" break="no"/>ta eterna: quam tamen per impedimentum debiti non potest si 
+   <lb ed="#B" n="33"/>ne confessione effectualiter consequi,
+   quemadmo<lb ed="#B" n="34" break="no"/>dum &amp; sancti patres deo gratissimi nullum
+   ha<lb ed="#B" n="35" break="no"/>bentes peccatum purgandum: caelestia regna an 
+   <lb ed="#B" n="36"/>te precii exsolutionem ingredi non poterant. Haec 
+   <lb ed="#B" n="37"/>opinio est multum irrationabilis: cuius refutatio 
+   <lb ed="#B" n="38"/>facilis erit cuilibet intelligenti eam relinquendam 
+   <lb ed="#B" n="39"/>Nullus enim est in gratia, quin si in ea decedat,
+   tan<lb ed="#B" n="40" break="no"/>dem habebit gloriam.
+  </p>
+      <p xml:id="jMqv4a-d1e998-d1e215">
+   ⁋ Alia est opinio quae
+   te<lb ed="#B" n="41" break="no"/>net quod attritio cum sacramento tollit culpam. hanc 
+   <lb ed="#B" n="42"/>opinionem late recitauimus in. xiiii. distinctione 
+   <lb ed="#B" n="43"/>&amp; eam reprobauimus.
+  </p>
+      <p xml:id="jMqv4a-d1e998-d1e224">
+   ⁋ Tertia est opinio cuius 
+   <lb ed="#B" n="44"/>dam valentis theologi viuentis: qui in suo
+   quar<lb ed="#B" n="45" break="no"/>to tenet quod requiritur intensissimus actus
+   volun<lb ed="#B" n="46" break="no"/>tatis: &amp; hoc idem tenet in suis Quodlibetis quaestio 
+   <lb ed="#B" n="47"/>ne quinta in tertio articulo: ponens hanc
+   conclu<lb ed="#B" n="48" break="no"/>sionem. mortale peccatum non remittitur adulto 
+   <lb ed="#B" n="49"/>sine magno dolore intellectiui appetitus puta vo 
+   <lb ed="#B" n="50"/>luntatis. Et respondendo ad quoddam argumen 
+   <lb ed="#B" n="51"/>tum domini quodlibetarii, quod est hoc. intensio seu au 
+   <lb ed="#B" n="52"/>gmentum est circumstantia actus non trahens in aliam 
+   <!--0406.xml-->
+   <cb ed="#B" n="b"/> 
+       <!-- 187-v b -->
+       <lb ed="#B" n="53"/>specien, vt manifestum est: nulla autem circumstantia 
+   <lb ed="#B" n="54"/>quae speciem non mutat, potest actus conditionem 
+   <lb ed="#B" n="55"/>in infinitum meliorem vel deteriorem facere. ergo  
+   <lb ed="#B" n="56"/>si displicentia magna promeretur peccati deletionem 
+   <lb ed="#B" n="57"/>&amp; gratiam: idem erit de quantumlibet parua
+   displicen<lb ed="#B" n="58" break="no"/>tia: &amp; ita quaelibs videtur reponere ad statum gratiae. Ad 
+   <lb ed="#B" n="59"/>hoc inquam argumentum respondendo, in sentem 
+   <lb ed="#B" n="60"/>tia dicit quod licet actus paruus &amp; magnus sint eius 
+   <lb ed="#B" n="61"/>dem speciei tam in genere naturae quam in genere mo 
+   <lb ed="#B" n="62"/>ris: tamen hoc non sufficit: cum vnus sit de
+   praece<lb ed="#B" n="63" break="no"/>pto, scilicet magnus: &amp; non alter, scilicet minor. Sed  
+   <lb ed="#B" n="64"/>contra hoc arguitur sic. vel requiritur intensissimus actu 
+   <lb ed="#B" n="65"/>voluntatis peccati detestatiuus ad quem aliquis
+   ho<lb ed="#B" n="66" break="no"/>mo potest pertingere: &amp; si sic: rudis qui non potest habe 
+   <lb ed="#B" n="67"/>illum intensissimum actum, non est in statu salutis. 
+   <lb ed="#B" n="68"/>vel requiritur intensissimus actus quem iste potest ha 
+   <lb ed="#B" n="69"/>bere: vel hoc est in optima dipositione ei possibi 
+   <lb ed="#B" n="70"/>li: vel in optima dispositione pronunc. Si primum 
+   <lb ed="#B" n="71"/>sequitur ferme idem quod prius. Si secundum, quaertitur 
+   <lb ed="#B" n="72"/>quare hoc dicis, &amp; quid te mouet: cum color
+   auctori<lb ed="#B" n="73" break="no"/>tatum in apparentiori materia hoc non
+   conclu<lb ed="#B" n="74" break="no"/>dat: vt superius diximus. Si dicas, requiritur actus 
+   <lb ed="#B" n="75"/>intensus, sed sufficit aliquis intensus gradualis
+   ci<lb ed="#B" n="76" break="no"/>tra summum: non potes illius assertionis dare rationem 
+   <lb ed="#B" n="77"/>Praeterea arguitur ad idem. sicut contra modum
+   do<lb ed="#B" n="78" break="no"/>ctoris subtilis argumentatus sum. Quilibet
+   con<lb ed="#B" n="79" break="no"/>sensus deliberatus in materiam prohibitam sufficit 
+   <lb ed="#B" n="80"/>ad peccandum: ergo quilibet dissensus quantuncumque re 
+   <lb ed="#B" n="81"/>missus bene circumstantionatus sufficit ad resurgendum. 
+   <lb ed="#B" n="82"/>ltem quaelibet dilectio dei rite circumstantionata 
+   <lb ed="#B" n="83"/>quantuncumque remissa sufficit ad impletionem praecepti: le prae 
+   <lb ed="#B" n="84"/>tipiatur quod debeamus diligere deum ex toto corde &amp; 
+   <lb ed="#B" n="85"/>tota mente.
+  </p>
+      <p xml:id="jMqv4a-d1e998-d1e324">
+   ⁋ Alius est modus dicendi doctoris 
+   <lb ed="#B" n="86"/>subtilis quem in. xiiii. dist. recitauimus, &amp; refellimus. 
+   <lb ed="#B" n="87"/>contra quem doctor iste in quarto in materia de poe 
+   <lb ed="#B" n="88"/>nitentia sic dicit. Doctor subtilis qui omnium
+   mi<lb ed="#B" n="89" break="no"/>tissime in hac materia loquutus est (vtinam tam 
+   <lb ed="#B" n="90"/>vere quam pie. xiiii. distinctione quarti, quaestione. ii 
+   <lb ed="#B" n="91"/>art. ii. admittit poenitentiam attritionem per omnia de 
+   <lb ed="#B" n="92"/>bite circumstantionatam tempore praecedere ipsam culpae
+   re<lb ed="#B" n="93" break="no"/>missionem tamquam meritum cogrui. addit, propter quod deus 
+   <lb ed="#B" n="94"/>in aliquo instanti termino temporis quantu deus ad hoc prae 
+   <lb ed="#B" n="95"/>fixerit, gratiam infundit. Sed certe sine fundamento 
+   <lb ed="#B" n="96"/>&amp; absque ratione est quod solus temporis tractus seu mora 
+   <lb ed="#B" n="97"/>hoc efficeret vel mereretur quod deus suam gratiam
+   infun<lb ed="#B" n="98" break="no"/>dat: quoniam ex tempore nihil bonitatis actui accrescit. 
+   <lb ed="#B" n="99"/>Sed dico conterranei opinionem non esse
+   mitissi<lb ed="#B" n="100" break="no"/>man inter opiniones hic currentes. Et arguo tanqem 
+   <lb ed="#B" n="101"/>examinator: quod istius doctoris opinio est mitior: &amp; 
+   <lb ed="#B" n="102"/>hoc sic. Non requiritur nisi dolor intensissimus vo 
+   <lb ed="#B" n="103"/>luntatis ad expiationem peccati: per dolorem au 
+   <lb ed="#B" n="104"/>tem debet intelligere actum peccati detestatiuum 
+   <lb ed="#B" n="105"/>sed actus voluntatis facillime est in potestate
+   vo<lb ed="#B" n="106" break="no"/>luntatis: nec requiritur continuatio illius actus per 
+   <lb ed="#B" n="107"/>tempus, secundum eum. Praeterea dico quod non  
+   <!--0407.xml-->
+   <pb ed="#B" n="188-r"/>
+       <cb ed="#B" n="a"/>
+       <lb ed="#B" n="1"/>sufficienter dicit contra doctorem subtilem vbi inquit. 
+   <lb ed="#B" n="2"/>Sed certe sine fundamento &amp; absque ratione est quod sol 
+   <lb ed="#B" n="3"/>temporis tractus seu mora hoc efficeret vel mereretur &amp;c 
+   <lb ed="#B" n="4"/>Nunquid ipse arguens dicit quod intensus dolor
+   suffi<lb ed="#B" n="5" break="no"/>citad remissione peccatorum &amp; non remissus: quare
+   al<lb ed="#B" n="6" break="no"/>ter non dicit ita rationabiliter quod requiritur aliquod tempus:
+   cu<lb ed="#B" n="7" break="no"/>ius medietas non sufficit ad hoc? Et apparentius 
+   <lb ed="#B" n="8"/>obiicio. Nam multi diuturma praece impetrant aliquid 
+   <lb ed="#B" n="9"/>tam a deo quam ab hominibus, quod prima fronte non 
+   <lb ed="#B" n="10"/>impetrant. Notum est apud omnem scholam quod actus 
+   <lb ed="#B" n="11"/>libere continuatus per magnum. tempus est magis 
+   <lb ed="#B" n="12"/>meritorius quam idem continuatus per breue tempus 
+   <lb ed="#B" n="13"/>Hoc enim cuilibet theologo adeo est clarum vt sua 
+   <lb ed="#B" n="14"/>sione non egeat. Sed licet nunc in hoc, &amp; in aliis 
+   <lb ed="#B" n="15"/>materiis circa initium huius nouissimi quarti discussis 
+   <lb ed="#B" n="16"/>prius quam eius quartum conspexissem alier saepicule
+   opi<lb ed="#B" n="17" break="no"/>ner qui iste venerandus doctor: omnia tamen eius discret 
+   <lb ed="#B" n="18"/>oni &amp; iudicio relinquo. Modus autem scholasticus i 
+   <lb ed="#B" n="19"/>&amp; laudabilis vt quilibet libere dicat quod sentit: hono 
+   <lb ed="#B" n="20"/>re tamen semper seruato tam apud maiores quam apud aeo 
+   <lb ed="#B" n="21"/>les. alioquin theologum dedecet.
+  </p>
+      <p xml:id="jMqv4a-d1e998-d1e426">
+   ⁋ Alia e opinio 
+   <lb ed="#B" n="22"/>magistri in hac distinctione tenentis quod confessio 
+   <lb ed="#B" n="23"/>sacramentalis nihil remittit quo ad culpam: sed deus 
+   <lb ed="#B" n="24"/>totam culpam remittit: &amp; actus detestatiuus peccat 
+   <lb ed="#B" n="25"/>meritorie siue tanquam meritum. de condigno / an con 
+   <lb ed="#B" n="26"/>gruo, non refert: quia hoc dependet ab alio proble 
+   <lb ed="#B" n="27"/>mate, An scilicet gratia concurrat ad illam
+   detesta<lb ed="#B" n="28" break="no"/>tionem in primo instanti quo infunditur. Quam sen 
+   <lb ed="#B" n="29"/>tentiam insequitur <ref xml:id="jMqv4a-d1e998-Rd1e445">
+        <name xml:id="jMqv4a-d1e998-Nd1e447" ref="#AlexanderOfHales">Alexander Halensis</name> in quarta parte 
+   <lb ed="#B" n="30"/>suae summae</ref>, &amp; multi alii. Quam &amp; ego vbique sequar 
+   <lb ed="#B" n="31"/>quia eam aequiorem iudico: &amp; <name xml:id="jMqv4a-d1e998-Nd1e455" ref="#Augustine">Augustinus</name> &amp;
+   Hiero<lb ed="#B" n="32" break="no"/>nymo conformiorem. vt in litera <name xml:id="jMqv4a-d1e998-Nd1e461" ref="#Lombard">Magistri</name> quis 
+   <lb ed="#B" n="33"/>intueri potest.
+  </p>
+      <p xml:id="jMqv4a-d1e998-d1e467">
+   ⁋ Concludendo dico quod quaelibet
+   dete<lb ed="#B" n="34" break="no"/>statio peccatorum propter deum recte
+   circumstan<lb ed="#B" n="35" break="no"/>tionata quantumlibet remissa: in quanto libet tempore ve 
+   <lb ed="#B" n="36"/>in instanti elicita, est sufficienter expiatiua peccatorum 
+   <lb ed="#B" n="37"/>&amp; detestatio requiritur theologice loquendo. hoc est 
+   <lb ed="#B" n="38"/>si peccatum mortale deleatur: requiritur detestatio
+   il<lb ed="#B" n="39" break="no"/>lius: vt in. xiiii. distinctione tam theologice quam
+   lo<lb ed="#B" n="40" break="no"/>gice prosequuti sumus. lege Magistrum in ha 
+   <lb ed="#B" n="41"/>distinctione: quia in hanc sententia sanctorum
+   au<lb ed="#B" n="42" break="no"/>ctoritates eleganter adducit: &amp; oppositum sonan 
+   <lb ed="#B" n="43"/>tes eluit 
+  </p>
+    </div>
+   </body>
+  </text>
+</TEI>

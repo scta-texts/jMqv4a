@@ -1,0 +1,463 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 8</title>
+      <author ref="#JohnMair">John Mair</author>
+      <respStmt>
+       <name>Jeffrey C. Witt</name>
+       <resp>TEI Encoder</resp>
+      </respStmt>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 8</title>
+       <date when="2020-06-09">June 27, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="B" n="cod-Bda113">Badius 1516</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+     guidelines for a diplomatic edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-06-27" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+      <pb ed="#B" n="299-r"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="jMqv4a-d1e1596"> <!-- l4d38q8 -->
+      <head xml:id="jMqv4a-d1e1596-Hd1e104">Quaestio 8</head>
+      <head xml:id="jMqv4a-d1e1596-Hd1e107" type="question-title">An paupertatis votum in communi, in religione expediat</head>
+      <p xml:id="jMqv4a-d1e1596-d1e110">
+       <lb ed="#B" n="60"/> Distinctionis Trigesimaeoctauae 
+   <lb ed="#B" n="61"/>Quaestio Octaua. 
+   <lb ed="#B" n="62"/>Ctauo in hac distin  
+   <lb ed="#B" n="63"/>ctione, &amp; tertio loco
+   praeci<lb ed="#B" n="64" break="no"/>puo de votis, materiam
+   reli<lb ed="#B" n="65" break="no"/>giosorum in se absolute
+   ag<lb ed="#B" n="66" break="no"/>grediendo, aliqua per ordinem 
+   <lb ed="#B" n="67"/>quam inquiram. &amp; primo de voto 
+   <lb ed="#B" n="68"/>paupertatis, contra quod
+   reli<lb ed="#B" n="69" break="no"/>giosi saepius peccant, quaera sex. Primo, an pauper 
+   <lb ed="#B" n="70"/>tatis votum in communi in religione expediat. Secun 
+   <lb ed="#B" n="71"/>do quomodo cognoscatur seruari in religionibus 
+   <lb ed="#B" n="72"/>non mendicantium. Tertio, an expediat monachos 
+   <lb ed="#B" n="73"/>habere bona in communi &amp; non in proprio. Quarto, 
+   <lb ed="#B" n="74"/>an licite sint aliqui religiosi mendicantes. Quinto, 
+   <lb ed="#B" n="75"/>an religiosi mendicantes possint habere redditus 
+   <lb ed="#B" n="76"/>perpetuos ex quibus viuant sine mendicitate. 
+   <lb ed="#B" n="77"/>Sexto, quis sit dominus bonorum fratrum minorum. 
+  </p>
+      <p xml:id="jMqv4a-d1e1596-d1e152">
+       <lb ed="#B" n="78"/>⁋ Primo igitur quaero, an votum pauptatis cuili 
+   <lb ed="#B" n="79"/>bet religioso expediat. Quaestio suppoit quemlibet 
+   <lb ed="#B" n="80"/>religiosum vouere paupertatem. sed nunc loquar 
+   <lb ed="#B" n="81"/>de paupertate eorum qui habent redditus ex qui 
+   <lb ed="#B" n="82"/>bus in communi viuunt: de aliis posterius
+   loquu<lb ed="#B" n="83" break="no"/>turus. 
+  </p>
+      <p xml:id="jMqv4a-d1e1596-d1e169">
+       <lb ed="#B" n="84"/>⁋ Pro solutione quaestionis ponam ali. 
+   <lb ed="#B" n="85"/>quas conclusiones. quarum Prima est. multis diuitiae 
+   <lb ed="#B" n="86"/>sunt occasio peccati. Probatur: quia pariunt
+   superbiam<lb ed="#B" n="87" break="no"/>rixas, auaritiam, luxum, &amp; caetera modostra. de superbia 
+   <lb ed="#B" n="88"/>patet Prouerbiorum. xxviii. Sapiens sibi videtur 
+   <lb ed="#B" n="89"/>vir diues. nam opinatur suo marte has opes
+   conge<lb ed="#B" n="90" break="no"/>stas: &amp; pauperes opprimit. Psalmo. ix. Sedet in  
+   <lb ed="#B" n="91"/>insidiis cum diuitibus. Item homo est totus anxius 
+   <lb ed="#B" n="92"/>pro eis conseruandis &amp; augendis: quia magnitudo  
+   <lb ed="#B" n="93"/>opum non satiat habentem: sed torquet eum vt plura ad 
+   <lb ed="#B" n="94"/>quirat: more eius qui aquam salsam bibit: cuius si 
+   <lb ed="#B" n="95"/>tis ad calendas grecas extinguetur. De rixis ma 
+   <lb ed="#B" n="96"/>nifestum est. Nam cu <name xml:id="jMqv4a-d1e1596-Nd1e199" ref="#Abraham">Abraham</name> &amp; Loth facti sunt
+   di<lb ed="#B" n="97" break="no"/>uites: pastores eorum non poterant simul cohabitare. 
+   <lb ed="#B" n="98"/>Geneseos. xiii. &amp; si in altis cedris libani hoc
+   conti<lb ed="#B" n="99" break="no"/>git: quid erit in humili haerba deserti? Hoc videmus. 
+   <lb ed="#B" n="100"/>passim: quod nec duo potentes reges finitimi cum mu 
+   <lb ed="#B" n="101"/>tua beneuolentia sine iniuriis degunt: nec duo opu 
+   <lb ed="#B" n="102"/>lenti viri sub eodem principe. nam opes habens do  
+   <lb ed="#B" n="103"/>mos erigit &amp; arces: dominia emit: nec finem nec 
+   <lb ed="#B" n="104"/>modum cupiditati ponens. hinc enim efficitur auarus. 
+   <lb ed="#B" n="105"/>deinde habens omnia ad manum incontinens efficitur. Haec 
+   <lb ed="#B" n="106"/>pericula videns sapiens Prouerbiorum. xxx. rogauit 
+   <lb ed="#B" n="107"/>deum dicens. Diuitias ne dederis mihi. Et primae ad  
+   <!--0630.xml-->
+   <pb ed="#B" n="299-v"/>
+       <cb ed="#B" n="a"/>
+       <lb ed="#B" n="1"/>Timotheum. vi. Qui volunt fieri diuites, incidunt 
+   <lb ed="#B" n="2"/>in tentationem &amp; in laqueum diaboli. &amp; Lucae. vi. Vae 
+   <lb ed="#B" n="3"/>vobis diuitibus. Et Matth. xix. Facilius est
+   ca<lb ed="#B" n="4" break="no"/>melum per foramen acus transire quam diuitem intrare in re 
+   <lb ed="#B" n="5"/>gnum caelorum, quod exponens Mircus aut verius Chri 
+   <lb ed="#B" n="6"/>stus per os Marci decimo cap. inquit. Quam difficile 
+   <lb ed="#B" n="7"/>qui pecunias habent, in regnum dei introibunt.
+  </p>
+      <p xml:id="jMqv4a-d1e1596-d1e248">
+   ⁋ Se 
+   <lb ed="#B" n="8"/>cunda conclusio. Voluntatia paupertas est apprime 
+   <lb ed="#B" n="9"/>ab omnibus sapientibus laudata. hoc est: habere ne 
+   <lb ed="#B" n="10"/>cessaria vitae &amp; non habere sollicitudinem acquirenda 
+   <lb ed="#B" n="11"/>rum opum. Hinc dixit luuenalis. Cantabit
+   vacuu<lb ed="#B" n="12" break="no"/>coram latrone viator. Socrates namque, Diogenes do 
+   <lb ed="#B" n="13"/>lio pro palatio contentus, Anaxagoras, Crates, Ari 
+   <lb ed="#B" n="14"/>stides, Homerus, &amp; huiusmodi gentiles paucis com 
+   <lb ed="#B" n="15"/>tenti ad astra a sapientibus efferuntur. Philostratus 
+   <lb ed="#B" n="16"/>primo libro vitae Apollonii Tyanei recitat quo 
+   <lb ed="#B" n="17"/>modo Damis audiuit Apollonium sic orantem. 
+   <lb ed="#B" n="18"/>Odii concedite mihi pauca habere: &amp; nullius indi 
+   <lb ed="#B" n="19"/>gere. Et Lucanus. v. Pharsaliae, cum Caesar curarum 
+   <lb ed="#B" n="20"/>plenus accessit domum Amyclae, ostendit quomodo 
+   <lb ed="#B" n="21"/>paupertas sit munus deorum immortalium vix satis 
+   <lb ed="#B" n="22"/>notu dicens. Securus belli praedam ciuilibus armis 
+   <lb ed="#B" n="23"/>Scit non esse casam: o vitae tuta facultas Pauperis 
+   <lb ed="#B" n="24"/>angustique laris, O munera nondum Intellecta deum. 
+   <lb ed="#B" n="25"/>ldem videre licet apud Philostratum li. iii. de larcha 
+   <lb ed="#B" n="26"/>Indo &amp; Bragmanis philosophis. Hoc ipsum
+   insi<lb ed="#B" n="27" break="no"/>nuat apologus Aesopi de mure rustico dicente ab 
+   <lb ed="#B" n="28"/>teri muri. Rodere malo fabam quam cura perpete ro 
+   <lb ed="#B" n="29"/>di. hoc est: habere pauca in quiete, quam multa in con 
+   <lb ed="#B" n="30"/>tinua sollicitudine. Item plebeius est versiculus. 
+   <lb ed="#B" n="31"/>Paupertas si laeta venit ditissima res est. Apud sa 
+   <lb ed="#B" n="32"/>cras quoque literas paupertas est commendatissima. 
+   <lb ed="#B" n="33"/>Edent pauperes &amp; saturabuntur &amp; laudabunt
+   do<lb ed="#B" n="34" break="no"/>minum. Psal. xxi. &amp; Psal. ix. Patientia pauperum non  
+   <lb ed="#B" n="35"/>peribit in finem. &amp; desiderium pauperum exaudiuit 
+   <lb ed="#B" n="36"/>dominus. Christus ipsa veritas: Apostoli, &amp; patres cae 
+   <lb ed="#B" n="37"/>lo digni tam in veteri testamento quam in nouo hanc co 
+   <lb ed="#B" n="38"/>luerunt. Quanto autem quis plus terrae appropinquat 
+   <lb ed="#B" n="39"/>opes acquirendo, licet sit in maiore fama in terra: 
+   <lb ed="#B" n="40"/>tanto distantior est a caelo &amp; minus illic cognitus, &amp; 
+   <lb ed="#B" n="41"/>econverso, quemadmodum luna, quae quanto magis a 
+   <lb ed="#B" n="42"/>sole elongatur, magis illuminata ab hominibus in 
+   <lb ed="#B" n="43"/>terra putatur: &amp; tamen reuera minus illuminatur: cum 
+   <lb ed="#B" n="44"/>magis distet a causa luminis productiua. in coniunt 
+   <lb ed="#B" n="45"/>ctione enim nihil luminis eius percipitur in terras 
+   <lb ed="#B" n="46"/>&amp; tamen vere magis illuminatur etiam versus caelum. Sic 
+   <lb ed="#B" n="47"/>est de homine opes &amp; terrena conculcante per
+   respe<lb ed="#B" n="48" break="no"/>ctum ad mundum &amp; solem iustitiae. &amp; tamen homo debet
+   cae<lb ed="#B" n="49" break="no"/>lum terra posthabita inquirere suapte natura, dicente 
+   <lb ed="#B" n="50"/>OQuidio in primo Metamor. Pronaque cum spectent 
+   <lb ed="#B" n="51"/>animalia caetera terram: Os homini sublime dedit, 
+   <lb ed="#B" n="52"/>caelumque videre lussit: &amp; erectos ad sydera tollere 
+   <lb ed="#B" n="53"/>vultus.
+  </p>
+      <p xml:id="jMqv4a-d1e1596-d1e350">
+   ⁋ Arguitur ad conclusionem duplici ratione. 
+   <lb ed="#B" n="54"/>Primo ex regula <name xml:id="jMqv4a-d1e1596-Nd1e354" ref="#Aristotle">Aristotelis</name> Topica. Illud est 
+   <lb ed="#B" n="55"/>eligendum quod vir sapiens in omni lege peritus eli- 
+   <!--0630.xml-->
+   <cb ed="#B" n="b"/> 
+       <!-- 299-v b -->
+       <lb ed="#B" n="56"/>git, &amp; non quod stultus eligit. sed mediocritatem 
+   <lb ed="#B" n="57"/>&amp; frugalitatem vitae elegerunt isti prudentes. ergo  
+   <lb ed="#B" n="58"/>ipsa est eligenda non curando de stultorum electione. 
+   <lb ed="#B" n="59"/>Secundo sic arguitur. quando sunt duae viae quarum 
+   <lb ed="#B" n="60"/>vna securius &amp; solidius ducit ad terminum ad quem quam 
+   <lb ed="#B" n="61"/>altera: illa potius est eligenda. hoc enim quilibet 
+   <lb ed="#B" n="62"/>nouit in ratione naturali. modo hic non habemus 
+   <lb ed="#B" n="63"/>manentem ciuitatem, sed futuram inquirimus. ad  
+   <lb ed="#B" n="64"/>Hebraeos vltimo. Tnmimn enim viatores sumus. termi 
+   <lb ed="#B" n="65"/>nus ad quem est caeleste regnum: ad quod paupertas
+   se<lb ed="#B" n="66" break="no"/>curius ducit quam opes: igitur. Et ostendo exemplo de 
+   <lb ed="#B" n="67"/>quodam farcimina in abundantia portante per vrbem: 
+   <lb ed="#B" n="68"/>ex quibus quilibet vnum vel vnius partem sine
+   quie<lb ed="#B" n="69" break="no"/>te portantis rapuit: tandem omnibus abiectis quietus in 
+   <lb ed="#B" n="70"/>cessit. Paupere autem ante diuitis domum continuo can 
+   <lb ed="#B" n="71"/>tante cum diues ex industria magnum auri pondus pra 
+   <lb ed="#B" n="72"/>fenestram illius clanculum iniecisset, auro comperto no 
+   <lb ed="#B" n="73"/>cecinit amplius, semper sollicitus &amp; anxius quid 
+   <lb ed="#B" n="74"/>auro emeret: vbi ipsum ante eimptionem reconderet:  
+   <lb ed="#B" n="75"/>an in vno loco: an in pluribus, secundum verbum
+   euan<lb ed="#B" n="76" break="no"/>gelii Matthaei. vi. Vbi est thesaurus tuus, ibi est &amp; 
+   <lb ed="#B" n="77"/>cor tuum. Praeterca, illa via est acceptanda quae est bre 
+   <lb ed="#B" n="78"/>uior: sic est de paupertate quae per lineam rectam ad caelum 
+   <lb ed="#B" n="79"/>tendit. Rectum enim secundum Euclidem, est cuius medium 
+   <lb ed="#B" n="80"/>non exit ab extremis., quod cognoscimus per latomum 
+   <lb ed="#B" n="81"/>dirigentem filum cum plumbo ad terram: si enim aliqua pars 
+   <lb ed="#B" n="82"/>fili ab extremis distet, murum obliquum iudicat. sed 
+   <lb ed="#B" n="83"/>extrema hominis / pauperies est: nascitur enim pauper, &amp; 
+   <lb ed="#B" n="84"/>moritur pauper: medium ergo debet extremis
+   re<lb ed="#B" n="85" break="no"/>spondere. modo inter omnes lineas a puncto ad punctum 
+   <lb ed="#B" n="86"/>ductas, linea recta est breuissima. Propterea Bra 
+   <lb ed="#B" n="87"/>uardinus in sua parua geometria ad illam petitionem 
+   <lb ed="#B" n="88"/>Euclidis, a puncto ad punctum lineam rectam ducere, 
+   <lb ed="#B" n="89"/>addidit, &amp; eam esse breuissimam. Diues autem oblique 
+   <lb ed="#B" n="90"/>ad caelum cum multis impedimentis in itinere tendit:  
+   <lb ed="#B" n="91"/>vt ex prima conclusione patet. opposito modo pau 
+   <lb ed="#B" n="92"/>per ad caelum tendit: igitur conclusio vera. Sed
+   reli<lb ed="#B" n="93" break="no"/>giosus habet necessaria vitae omnia sine
+   sollicitudi<lb ed="#B" n="94" break="no"/>ne cibum vestes &amp; omnia quae oportet in religione 
+   <lb ed="#B" n="95"/>habere: nec oportet debilitatem stomachi &amp; aegritu 
+   <lb ed="#B" n="96"/>dines formidare. in omnibus enim istis in religione ei 
+   <lb ed="#B" n="97"/>prouidebitur: &amp; charitatiue a religiosis sociis tra 
+   <lb ed="#B" n="98"/>ctabitur: siue domi, siue foris.
+  </p>
+      <p xml:id="jMqv4a-d1e1596-d1e460">
+   ⁋ Ex duabus praece 
+   <lb ed="#B" n="99"/>dentibus conclusionibus consequitur tertia: quae est haec 
+   <lb ed="#B" n="100"/>quod paupertas magis est eligenda quam diuitiae. Nam 
+   <lb ed="#B" n="101"/>vera paupertas ad caelum promouet: diuitiae tamquam 
+   <lb ed="#B" n="102"/>spinae nocent habenti. testis est Christus Matth. 
+   <lb ed="#B" n="103"/>xiii. dicens. Alia autem ceciderunt in spinas: &amp; cre 
+   <lb ed="#B" n="104"/>uerunt spinae: &amp; suffocauerunt ea. vbi glossa inter 
+   <lb ed="#B" n="105"/>linearis. diuitiae occupant mentem: &amp; fructus spiri 
+   <lb ed="#B" n="106"/>tualis in ea proficere non potest. Et ipsa veritas 
+   <lb ed="#B" n="107"/>in eodem ca. id exponens sic dicit. Qui autem se 
+   <lb ed="#B" n="108"/>minatus est in spinis: hic est qui verbum dei
+   au<lb ed="#B" n="109" break="no"/>dit. sed sollicitudo istius saeculi &amp; fallacia
+   diuitia<lb ed="#B" n="110" break="no"/>rum suffocat verbum, &amp; sine fructu efficitur. 
+   <!--0631.xml-->
+   <pb ed="#B" n="300-r"/>
+       <cb ed="#B" n="a"/>
+      </p>
+      <p xml:id="jMqv4a-d1e1596-d1e495">
+       <lb ed="#B" n="1"/>⁋ Quarta conclusio ad titulum quaestionis respon 
+   <lb ed="#B" n="2"/>siua. Maxime vtile est paupertatem voto firmare. 
+   <lb ed="#B" n="3"/>Haec conclusio ex prima quaestione voti &amp; praecedenti 
+   <lb ed="#B" n="4"/>bus conclusionibus huius quaestionis sequitur. &amp; probatur 
+   <lb ed="#B" n="5"/>lterum sic. Vita pauper est bona &amp; eligenda, &amp;
+   bre<lb ed="#B" n="6" break="no"/>uiter ad caelum ducens: sed expedit firmare in bono 
+   <lb ed="#B" n="7"/>propositum: &amp; hoc fit in paupertatis voto: igitur. Et 
+   <lb ed="#B" n="8"/>
+       <ref xml:id="jMqv4a-d1e1596-Rd1e514">
+        <name xml:id="jMqv4a-d1e1596-Nd1e516">Gregorius</name> quarto Moralium</ref>, Sunt, inquit, nonnulli 
+   <lb ed="#B" n="9"/>iustorum qui ad comprehendendum culmen perfectio 
+   <lb ed="#B" n="10"/>nis accincti dum altiora interius appetunt, exterius 
+   <lb ed="#B" n="11"/>cuncta derelinquunt. 
+  </p>
+      <p xml:id="jMqv4a-d1e1596-d1e528">
+       <lb ed="#B" n="12"/>⁋ Contra primam conclusionem &amp; eius 
+   <lb ed="#B" n="13"/>probationem arguitur. videtur quod diuitiae hac via sint 
+   <lb ed="#B" n="14"/>damnandae: &amp; eas homo sine periculo salutis te 
+   <lb ed="#B" n="15"/>nere non possit. consequens est falsum: quia si omnes. 
+   <lb ed="#B" n="16"/>essent pauperes quid de mundo fieret? &amp; ad quid 
+   <lb ed="#B" n="17"/>argentum / aurum / vestes preciosae / gemmae essent pro 
+   <lb ed="#B" n="18"/>ductae si eis vti non liceat?
+  </p>
+      <p xml:id="jMqv4a-d1e1596-d1e547">
+   ⁋ Praeterea Iob /
+   Abra<lb ed="#B" n="19" break="no"/>ham / lsaac / Iacob / Dauid / Ezechias / losias, &amp; multi 
+   <lb ed="#B" n="20"/>Christiani reges opulenti fuerunt boni: ergo bo 
+   <lb ed="#B" n="21"/>nitati diuitiae non obsunt, sed hominum malitia 
+  </p>
+      <p xml:id="jMqv4a-d1e1596-d1e556">
+       <lb ed="#B" n="22"/>⁋ Ad primum negatur quod sint damnandae tamquam vitia 
+   <lb ed="#B" n="23"/>quia aliqui possunt eis bene vti &amp; male. &amp; quamuis 
+   <lb ed="#B" n="24"/>quilibet esset pauper ad hunc sensum quod non
+   tene<lb ed="#B" n="25" break="no"/>ret superflua: mundus bene se haberet. auro enim &amp;
+   ar<lb ed="#B" n="26" break="no"/>gento licet vti cum moderamine. Sed quantum ad  
+   <lb ed="#B" n="27"/>multas praeciosas vestes: dico eas curiositate vana 
+   <lb ed="#B" n="28"/>hominum inuentas.
+  </p>
+      <p xml:id="jMqv4a-d1e1596-d1e574">
+   ⁋ Ad secundum concedo quod
+   diui<lb ed="#B" n="29" break="no"/>tiae non repugnant bonitati: sed sunt grandia onera 
+   <lb ed="#B" n="30"/>&amp; spinae contra bonitatem pugentes: &amp; multo plutes 
+   <lb ed="#B" n="31"/>incomparabiliter per opes ceciderunt quam in paupertate-. 
+   <lb ed="#B" n="32"/>Dauid enim in paupertate &amp; vexatione non sic pec 
+   <lb ed="#B" n="33"/>cauit vt in prosperitate cum Bersabea, &amp; in morte 
+   <lb ed="#B" n="34"/>Vriae: &amp; in supputatione populi ex tumore. Das 
+   <lb ed="#B" n="35"/>mihi paucos diuites bonos qui diuitiis bene vsi 
+   <lb ed="#B" n="36"/>sunt. sed quot reges ludaeae / Israelis &amp; aliorum regno  
+   <lb ed="#B" n="37"/>rum dare potes qui ob diuitias perierunt? Et
+   quan<lb ed="#B" n="38" break="no"/>do dicis hoc non prouenire a natura diuitiarum, sed  
+   <lb ed="#B" n="39"/>hominum malitia: hoc fateor. sed quia homines 
+   <lb ed="#B" n="40"/>creberrime per opes suc cumbunt, nec vincunt dif 
+   <lb ed="#B" n="41"/>ficile vt facile: diuitiae relinquendae sunti: &amp;
+   pau<lb ed="#B" n="42" break="no"/>pertas tamquam securior amplectenda, ab illo scilicet 
+   <lb ed="#B" n="43"/>cui non est praeceptum de opposito: sicut esse po 
+   <lb ed="#B" n="44"/>test in casu.
+  </p>
+      <p xml:id="jMqv4a-d1e1596-d1e611">
+   ⁋ Tertio arguitur. Episcopi habent 
+   <lb ed="#B" n="45"/>diuitias &amp; opes: &amp; tamen sunt in statu
+   perfectio<lb ed="#B" n="46" break="no"/>nis &amp; in altiore statu quam religiosi, ex dictis superius 
+   <lb ed="#B" n="47"/>ergo habere diuitias non arguit statum periculo 
+   <lb ed="#B" n="48"/>sum. Respondetur. episcopi non habent diuitias 
+   <lb ed="#B" n="49"/>pro se: illarum enim non sunt domini: vt in dist. 
+   <lb ed="#B" n="50"/>xxiiii. diximus: sed tenentur illas in pios vsus 
+   <lb ed="#B" n="51"/>conferre more abbatum. Secundo. Episcopi sunt 
+   <lb ed="#B" n="52"/>in statu perfectionis acquisitae: diuitiis ergo bene 
+   <lb ed="#B" n="53"/>vtentur: &amp; hoc si virtutem acquisitam ante episco 
+   <lb ed="#B" n="54"/>patum adeptum habuerint. alioquin sunt eis peri- 
+   <!--0631.xml-->
+   <cb ed="#B" n="b"/> 
+       <!-- 300-r b -->
+       <lb ed="#B" n="55"/>culosae sicut &amp; aliis. 
+  </p>
+      <p xml:id="jMqv4a-d1e1596-d1e644">
+       <lb ed="#B" n="56"/>⁋ Arguitur cotra secundam
+   conclu<lb ed="#B" n="57" break="no"/>sionem. multi sunt pauperes in quotidiana
+   sollici<lb ed="#B" n="58" break="no"/>tudine, non plus merentes quam diuites: vt passim
+   vi<lb ed="#B" n="59" break="no"/>demus. Respondetur. multitariam capitur paupertas: 
+   <lb ed="#B" n="60"/>Vvno modo pro carentia diuitiarum: &amp; sic paupertas 
+   <lb ed="#B" n="61"/>non dicit aliud quam diuitiarum carentiantita vt
+   pauper<lb ed="#B" n="62" break="no"/>tas sit homo diuitiis carens. &amp; haec non est virtus. 
+   <lb ed="#B" n="63"/>nec vitium: potest tamen esse materia virtutis &amp; viti 
+   <lb ed="#B" n="64"/>secundum libertarem habentis. Secundo modo pauper 
+   <lb ed="#B" n="65"/>tas capitur pro proposito non congregandi superflua sed  
+   <lb ed="#B" n="66"/>solum necessaria vel conducentia statui habentis. &amp; 
+   <lb ed="#B" n="67"/>hoc modo paupertas cum diuitiis magnis in
+   perso<lb ed="#B" n="68" break="no"/>na publica non repugnat. quo modo Dauid tempore 
+   <lb ed="#B" n="69"/>regni completi lstaelis &amp; ludae erat pauper &amp; diues 
+   <lb ed="#B" n="70"/>Pauper sum ego &amp; in laboribus a iuuentute mea. 
+   <lb ed="#B" n="71"/>Psalmo. lxxxvii. &amp; iterum. Diuitiae si affluant nolite 
+   <lb ed="#B" n="72"/>cor apponere. psalmo. lxi. Tertio modo capitur 
+   <lb ed="#B" n="73"/>paupertas pro proposito contemnendi diuitias ob finem 
+   <lb ed="#B" n="74"/>honestum, quia eas reputat quis ad peccatum induce 
+   <lb ed="#B" n="75"/>re, &amp; reddere homines magis terrenos &amp; sollicitos
+   cir<lb ed="#B" n="76" break="no"/>ca temporalia. &amp; illa acceptio est bona: quam multi 
+   <lb ed="#B" n="77"/>philosophi habuerunt: &amp; erat in eis vera virtus mo 
+   <lb ed="#B" n="78"/>ralis, nec oportet quod actualiter in deum hunc contemptum 
+   <lb ed="#B" n="79"/>referant prout multi putant. si autem aliqui eorum hoc 
+   <lb ed="#B" n="80"/>fecerint ob inanem gloriam: ex parte finis actus depra 
+   <lb ed="#B" n="81"/>uabatur, &amp; erat malus. Quarto modo capitur
+   pau<lb ed="#B" n="82" break="no"/>pertas pro proposito relinquendi omnia bona mundi pro 
+   <lb ed="#B" n="83"/>pter deum, &amp; nihil capiendi vltra necessitatem. &amp; haec 
+   <lb ed="#B" n="84"/>est paupertas euangelica &amp; actus optimus &amp; per 
+   <lb ed="#B" n="85"/>consequens optimae virtutis generatiuus. Et habet 
+   <lb ed="#B" n="86"/>haec acceptio gradus. quia vno modo quis
+   relin<lb ed="#B" n="87" break="no"/>quit omnia sine voto. secundo modo cum voto. secundum  
+   <lb ed="#B" n="88"/>autem est priore melius. &amp; adhuc diuiditur: quia vel in 
+   <lb ed="#B" n="89"/>religione, vel extra religionem. primum est secundo 
+   <lb ed="#B" n="90"/>melius. Adhuc in religione tripliciter. vno modo  
+   <lb ed="#B" n="91"/>manibus opeando pro sustentatione. Secundo modo so 
+   <lb ed="#B" n="92"/>la necessaria vitae per mendicitatem propter Christum acqui 
+   <lb ed="#B" n="93"/>rendo. Tertio modo vacando contemplationi, &amp; deuo 
+   <lb ed="#B" n="94"/>uendo se penitus deo: capiendo necessaria ex
+   commu<lb ed="#B" n="95" break="no"/>nitate. &amp; quodlibet istorum est bonum. sed quod eorum 
+   <lb ed="#B" n="96"/>sit melius: maior est quaestio: &amp; tangit difficultatem
+   illan<lb ed="#B" n="97" break="no"/>an sit melius profiteri religionem mendicantium: an
+   ha<lb ed="#B" n="98" break="no"/>bentium bona in communi: de quo impresentiarum super 
+   <lb ed="#B" n="99"/>sedemus.
+  </p>
+      <p xml:id="jMqv4a-d1e1596-d1e742">
+   ⁋ Secundo arguitur. <name xml:id="jMqv4a-d1e1596-Nd1e744" ref="#Aristotle">Aristoteles</name> dicit 
+   <lb ed="#B" n="100"/>primo Ethicorum: quod organice diuitiae deseruiunt ad  
+   <lb ed="#B" n="101"/>felicitatem. Respondetur. <name xml:id="jMqv4a-d1e1596-Nd1e751" ref="#Aristotle">Aristoteles</name> apud
+   Grae<lb ed="#B" n="102" break="no"/>cos talem modum qualem nostri religiosi habent, 
+   <lb ed="#B" n="103"/>non percepit. Vnde hic dico quod si ex republica
+   fu<lb ed="#B" n="104" break="no"/>issent empti redditus ad subueniendum eis qui
+   con<lb ed="#B" n="105" break="no"/>templationi dei modo quo in lumine naturali
+   ha<lb ed="#B" n="106" break="no"/>beri poterat, insisterent: multi gentiles illam viam 
+   <lb ed="#B" n="107"/>tamquam optimam elegissent. Constat enim multos
+   su<lb ed="#B" n="108" break="no"/>as opes reliquisse, etiam mendicitati obnoxios- 
+   <!--0632.xml-->
+   <pb ed="#B" n="300-v"/>
+       <cb ed="#B" n="a"/>
+      </p>
+      <p xml:id="jMqv4a-d1e1596-d1e778">
+       <lb ed="#B" n="1"/>⁋ Tertio arguitur. Prouerbiorum. xxx. scribitur. 
+   <lb ed="#B" n="2"/>Mendicitatem &amp; diuitias ne dederis mihi. Respon 
+   <lb ed="#B" n="3"/>deo. non loquitur de mendicitate &amp; paupertate 
+   <lb ed="#B" n="4"/>nostra, sed inuoluntatia paupertate &amp; auarorum men 
+   <lb ed="#B" n="5"/>te, quod patet per verba sequentia. Ne forte egestate 
+   <lb ed="#B" n="6"/>compulsus furer, &amp; periure nomen dei mei. modo 
+   <lb ed="#B" n="7"/>voluntarius pauper non facit haec: &amp; potissimum in re 
+   <lb ed="#B" n="8"/>ligione in qua omnia necessaria ei suppeditantur. 
+  </p>
+      <p xml:id="jMqv4a-d1e1596-d1e798">
+       <lb ed="#B" n="9"/>⁋ Quarto arguitur. virtus consistit in medio, secundo  
+   <lb ed="#B" n="10"/>Ethicorum. sed ille qui omnia sponte relinquit, non stat 
+   <lb ed="#B" n="11"/>in medio, sed in extremo. igitur paupertas non est 
+   <lb ed="#B" n="12"/>virtus, nec eius actus. Distinguitur maior. vel circa 
+   <lb ed="#B" n="13"/>medium obiecti: &amp; sic non oportet. vel secundum men 
+   <lb ed="#B" n="14"/>tem regulae. &amp; sic conceditur. Vnde pro regula teneto 
+   <lb ed="#B" n="15"/>Quandocumque dictamen prudentiale dictat aliquid 
+   <lb ed="#B" n="16"/>esse licitum, faciendum, vel omittendum: illic est medium. 
+   <lb ed="#B" n="17"/>modo ostensum est quod spontanea paupertas est 
+   <lb ed="#B" n="18"/>huiusmodi.
+  </p>
+      <p xml:id="jMqv4a-d1e1596-d1e822">
+   ⁋ Quinto arguitur. paupertas pri 
+   <lb ed="#B" n="19"/>uat hominem actibus liberalitatis / munificentiae / &amp; 
+   <lb ed="#B" n="20"/>eleemosynae: ergo non est acceptanda. Respondetur 
+   <lb ed="#B" n="21"/>multipliciter. Primo, paupertas priuat hominem 
+   <lb ed="#B" n="22"/>paruis virtutibus, vt maiora adipiscatur. sicut in  
+   <lb ed="#B" n="23"/>simili, virginitas priuat aliquem actibus castitatis 
+   <lb ed="#B" n="24"/>coniugalis bonis: sed melius assumit. Secundo 
+   <lb ed="#B" n="25"/>dico quod pauper potest procurare eleemosynam
+   dan<lb ed="#B" n="26" break="no"/>dam egentibus. Tertio potest habere actus
+   inte<lb ed="#B" n="27" break="no"/>riores, &amp; pauperibus compati: &amp; tantum mereri quan 
+   <lb ed="#B" n="28"/>tum diues. na actus exterior nihil bonitatis actui 
+   <lb ed="#B" n="29"/>interiori superaddit. Dico quarto quod est magis
+   li<lb ed="#B" n="30" break="no"/>beralis &amp; munificus quam diues qui paulatim sua
+   bo<lb ed="#B" n="31" break="no"/>na tribuit: magnam partem sibi &amp; suis reseruando.  
+   <lb ed="#B" n="32"/>pauper autem de quo loquor omnia simul dat,
+   ni<lb ed="#B" n="33" break="no"/>hil sibi retinendo. &amp; potest propositum habere quod 
+   <lb ed="#B" n="34"/>si esset adeo diues vt Croesus vel Crassus: omnia 
+   <lb ed="#B" n="35"/>propter Christum relinqueret, quare plus meretur 
+   <lb ed="#B" n="36"/>dando. vt <name xml:id="jMqv4a-d1e1596-Nd1e863" ref="#Jerome">Hieronymus</name> contra Vigilantium
+   di<lb ed="#B" n="37" break="no"/>cit: qui tenendo contrarium conuictus est
+   hereti<lb ed="#B" n="38" break="no"/>cus. Et in lib. de ecclesiasticis dogmatibus dicitur. 
+   <lb ed="#B" n="39"/>Bonum est facultates cum dispensatione
+   patperi<lb ed="#B" n="40" break="no"/>bus erogare: melius est pro intentione sequendi do 
+   <lb ed="#B" n="41"/>minum simul donare: &amp; absolutum in solitudine ege 
+   <lb ed="#B" n="42"/>re cum Christo. Quinto dico quod sicut diues suis 
+   <lb ed="#B" n="43"/>opibus potest mereri bene eas elargiendo: sic po 
+   <lb ed="#B" n="44"/>test delinquare male distrahendo: &amp; erunt ei occasio 
+   <lb ed="#B" n="45"/>peccati. Argumentum autem solum assumit appa 
+   <lb ed="#B" n="46"/>rentiam boni quod potest facere diues si bene rebus 
+   <lb ed="#B" n="47"/>fortunae vtatur: &amp; non affert mala. sed talis
+   argu<lb ed="#B" n="48" break="no"/>mentatio est sophistica.
+  </p>
+      <p xml:id="jMqv4a-d1e1596-d1e893">
+   ⁋ Ecce quam periculosae sunt 
+   <lb ed="#B" n="49"/>opes, fortunae dona, aliter bona fortunae: quae pilur 
+   <lb ed="#B" n="50"/>acquiruntur &amp; coalescunt sub manu caeci quam ratione 
+   <lb ed="#B" n="51"/>videntis. sunt enim solum terrena: &amp; hominem terre 
+   <lb ed="#B" n="52"/>num faciunt: more lunae mobilia: &amp; possessorem in  
+   <lb ed="#B" n="53"/>quietum reddentia, nec sunt vera bona: teste Biante 
+   <lb ed="#B" n="54"/>qui vt Ciceto in Paradoxis recitat, domo exusta 
+   <lb ed="#B" n="55"/>cum interrogaretur quare sua non secum asporta- 
+   <!--0632.xml-->
+   <cb ed="#B" n="b"/> 
+       <!-- 300-v b -->
+       <lb ed="#B" n="56"/>ret, omnia, inquit, mea mecum porto. hoc est bona 
+   <lb ed="#B" n="57"/>animae &amp; corporis, &amp; potissimum animae. Insuper 
+   <lb ed="#B" n="58"/>paupertatem euangelicam, pulchram diximus esse vir 
+   <lb ed="#B" n="59"/>turem: quam pauci mendicantes habent voces inex 
+   <lb ed="#B" n="60"/>plebiles emittentes pro bonis fortunae obtinendis:  
+   <lb ed="#B" n="61"/>non contenti sufficientia suae sortis. Praeterea religiosi 
+   <lb ed="#B" n="62"/>multi ex communi viuentes, hanc paupertatem non ha 
+   <lb ed="#B" n="63"/>pent: qui ingrediuntur coenobium vt laute viuant 
+   <lb ed="#B" n="64"/>sicut porci ad nemmora aguntur vt glandes
+   colli<lb ed="#B" n="65" break="no"/>gant. hi bonis fortunae sese temere implicant: &amp; 
+   <lb ed="#B" n="66"/>paupertate vera relicta, Christum negligunt:
+   cor<lb ed="#B" n="67" break="no"/>nua superbiae ei opponentes: sicut luna sua
+   cor<lb ed="#B" n="68" break="no"/>nua semper opposita soli tendit. Sicque minus amant 
+   <lb ed="#B" n="69"/>deum secundum illud beati <name xml:id="jMqv4a-d1e1596-Nd1e947" ref="#Augustine">Augustini</name> primo
+   confes<lb ed="#B" n="70" break="no"/>sionum. Minus te amat qui recum aliquid amat. 
+   <lb ed="#B" n="71"/>Tertio religiosi mendicates habentes necessaria 
+   <lb ed="#B" n="72"/>suo statui qui modicus esse debet: ac plura quaerens 
+   <lb ed="#B" n="73"/>tes: negligunt hanc paupertatem. 
+  </p>
+    </div>
+   </body>
+  </text>
+</TEI>

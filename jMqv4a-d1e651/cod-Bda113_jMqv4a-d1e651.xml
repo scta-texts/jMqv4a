@@ -1,0 +1,412 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 22</title>
+      <author ref="#JohnMair">John Mair</author>
+      <respStmt>
+       <name>Jeffrey C. Witt</name>
+       <resp>TEI Encoder</resp>
+      </respStmt>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 22</title>
+       <date when="2020-06-09">June 27, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="B" n="cod-Bda113">Badius 1516</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+     guidelines for a diplomatic edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-06-27" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+      <pb ed="#B" n="122-r"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="jMqv4a-d1e651"> <!-- l4d15q22 -->
+      <head xml:id="jMqv4a-d1e651-Hd1e104">Quaestio 22</head>
+      <head xml:id="jMqv4a-d1e651-Hd1e107" type="question-title">An homo damnatus ad mortem possit aufugere licite</head>
+      <p xml:id="jMqv4a-d1e651-d1e110">
+   <!--0275.xml-->
+       <pb ed="#B" n="122-r"/>
+       <cb ed="#B" n="a"/>
+       <lb ed="#B" n="1"/>QVaeritur quarto adhuc 
+   <lb ed="#B" n="2"/>continuando materiam belli &amp; 
+   <lb ed="#B" n="3"/>Thomicidii: An hodamnatus ad 
+   <lb ed="#B" n="4"/>mortem possit aufugere licite. 
+   <lb ed="#B" n="5"/>Pro quaestionis solutione scite 
+   <lb ed="#B" n="6"/>a quod aliquis interdum est iniuste da 
+   <lb ed="#B" n="7"/>mnatus, &amp; hoc potest esse multifa 
+   <lb ed="#B" n="8"/>riam. vno modo quia iudex iniuste procedit. alio modo 
+   <lb ed="#B" n="9"/>quia est probatus nocens testibus omni exceptione
+   ma<lb ed="#B" n="10" break="no"/>ioribus: &amp; iudex scit oppositum vt persona priuata 
+   <lb ed="#B" n="11"/>iam secundum opinionem probabiliorem inste est iuste con 
+   <lb ed="#B" n="12"/>demnatus a iudice: sed iniustitia venit a testibus tantenm. 
+  </p>
+      <p xml:id="jMqv4a-d1e651-d1e145">
+       <lb ed="#B" n="13"/>⁋ Pro omnibus his modis ponitur haec conclusio: quod sic 
+   <lb ed="#B" n="14"/>damnatus ad mortem debet aufugere. iuxta illo 
+   <lb ed="#B" n="15"/>Maronis secundo Aeneidos. Fripui (fateor) leto me 
+   <lb ed="#B" n="16"/>&amp; vincula rupi. Probatur conclusio. Quilibet tenetur 
+   <lb ed="#B" n="17"/>seruare suam vitam: nisi constet quod occurrit causa
+   ab<lb ed="#B" n="18" break="no"/>soluendi se a conseruatione vitae: sed in proposito 
+   <lb ed="#B" n="19"/>hoc non contingit: quia semper sententia est iniqua, vel ex 
+   <lb ed="#B" n="20"/>parte iudicis, vel ex parte testium: nec est in casu fidei vt 
+   <lb ed="#B" n="21"/>martyres: qui interdum de praecepto erant absoluti: in  
+   <lb ed="#B" n="22"/>terdum de cosilio: vt post hac distinctione. xlix.
+   hu<lb ed="#B" n="23" break="no"/>ius dicemus. Sed vbi quis iuste est condemnatus: est 
+   <lb ed="#B" n="24"/>maior difficultas: &amp; opinor illam partem probabilem qui 
+   <lb ed="#B" n="25"/>potest aufugere dummodo nulli inferat iniuriam. cui asti 
+   <lb ed="#B" n="26"/>pulari videtur Canon Innocens. xxii. q. iiii. vb 
+   <lb ed="#B" n="27"/>dicitur quod licet reo corrumpere aliquem pro vita 
+   <lb ed="#B" n="28"/>conseruanda. Idem patet. itur. de bo. eorum qui mor 
+   <lb ed="#B" n="29"/>sibi consci. l. i. vbi dicit lex. Ignoscendum censuerunt 
+   <lb ed="#B" n="30"/>ei qui sanguinem suum qualitercumque redemptum
+   vo<lb ed="#B" n="31" break="no"/>luit. &amp; hoc vbi putatur esse mors aut mutilatio. 
+  </p>
+      <p xml:id="jMqv4a-d1e651-d1e190">
+       <lb ed="#B" n="32"/>⁋ Sed contra hoc arguitur. lste non habet
+   domi<lb ed="#B" n="33" break="no"/>nium sui corporis, sed lex &amp; respublica. ergo
+   au<lb ed="#B" n="34" break="no"/>fugiendo illud tollit quod est legis.
+  </p>
+      <p xml:id="jMqv4a-d1e651-d1e199">
+   ⁋ Insuper sequitur 
+   <lb ed="#B" n="35"/>si hoc sit verum quod possit infringere carcerem vt 
+   <lb ed="#B" n="36"/>euadat: cum in extrema necessitate omnia sint ei 
+   <lb ed="#B" n="37"/>communia, vt dictum est ad succurrendum suae 
+   <lb ed="#B" n="38"/>vitae: si non potest aliter euadere, nisi frangat ostium 
+   <lb ed="#B" n="39"/>ergo hoc est ei licitum, quod si concedas: potest
+   in<lb ed="#B" n="40" break="no"/>surgere &amp; bellare contra custodem carceris eum 
+   <lb ed="#B" n="41"/>occidendo pro liberatione suae vitae: cum aliter 
+   <lb ed="#B" n="42"/>non possi: suae vitae succurrere, quod si iterum
+   con<lb ed="#B" n="43" break="no"/>cedas, contra. bellum est iniustum ex parte eius 
+   <lb ed="#B" n="44"/>&amp; iustum ex parte custodis.
+  </p>
+      <p xml:id="jMqv4a-d1e651-d1e223">
+   ⁋ Ad primum con 
+   <lb ed="#B" n="45"/>cedo quod non plenum dominium sui corporis ha 
+   <lb ed="#B" n="46"/>bet actu: saltem tunc non habet vsum sui
+   corpo<lb ed="#B" n="47" break="no"/>ris: sed alius eum tenens. postum autem aufugit, ple 
+   <lb ed="#B" n="48"/>num dominium habet. Et est analogia de seruo. 
+   <lb ed="#B" n="49"/>Institu. de re. diui. S. Item ea quae ex hostibus
+   ca<lb ed="#B" n="50" break="no"/>pimus, iure gentium statim nostra fiunt: adeo 
+   <!--0275.xml-->
+   <cb ed="#B" n="b"/> 
+       <!-- 122-r b -->
+       <lb ed="#B" n="51"/>quidem vt &amp; liberi homines in seruitutem
+   no<lb ed="#B" n="52" break="no"/>stramdeducantur: qui tamen si euaserint a nostra 
+   <lb ed="#B" n="53"/>potestate: &amp; ad suos reuersi fuerint: pristinum sta 
+   <lb ed="#B" n="54"/>tum recipiunt. lstud patet.liter. de cap. l. Nihil. &amp; iu 
+   <lb ed="#B" n="55"/>re postliminii hoc recipiunt. Insti. quibus mo. ius 
+   <lb ed="#B" n="56"/>pa. po. soluitur. S. Si ab hostibus. Et nego quod tollit 
+   <lb ed="#B" n="57"/>illud quod est legis: immo nec legi facit iniuriam. si 
+   <lb ed="#B" n="58"/>cut dominus conclauis quod inhabito hoc est
+   pro<lb ed="#B" n="59" break="no"/>prietarius, potest ipsum vendere vel aliter aliena 
+   <lb ed="#B" n="60"/>re: non autem ego habens solum vsum eius. sic 
+   <lb ed="#B" n="61"/>anima istius solum habet dominium super corpus 
+   <lb ed="#B" n="62"/>post deum: ergo anima tenetur &amp; nutrite &amp;
+   con<lb ed="#B" n="63" break="no"/>seruare corpus in esse quantum potest: saltem potest hoc face 
+   <lb ed="#B" n="64"/>re. ludex aut quo ad aliquas operationes habent dominium 
+   <lb ed="#B" n="65"/>in corpusci ie. detinendo in carcere &amp; condemnando. &amp; pro 
+   <lb ed="#B" n="66"/>pterea non licet ei frangere carcerem: nec resistere si in 
+   <lb ed="#B" n="67"/>uadatur: quia bellum esset iniustum ex parte eius. Idem 
+   <lb ed="#B" n="68"/>censeo si custos deberet facere iacturam ex eius fu 
+   <lb ed="#B" n="69"/>ga. Sic autem aufugiendo: nec custodi, nec
+   iudi<lb ed="#B" n="70" break="no"/>cimec reipub. facit iniuriam: sed intendit emendare 
+   <lb ed="#B" n="71"/>delictum perpetratum, profitendo religionem vel
+   san<lb ed="#B" n="72" break="no"/>cte viuendo. lstud enim debet habie. alioquin si intendat 
+   <lb ed="#B" n="73"/>euadere vt sit grassator, &amp; perperam viuat: peccat vo 
+   <lb ed="#B" n="74"/>endo abire propter illum finem. Sed rogas. si illo malo 
+   <lb ed="#B" n="75"/>fine euaserit: an redire teneatur. Respondetur quod non, sed 
+   <lb ed="#B" n="76"/>poeniteat de mala voluntate mutando propositum in 
+   <lb ed="#B" n="77"/>bonum. potest dari analogia de fera quam habes: quam si 
+   <lb ed="#B" n="78"/>animum redeundi deserat: non amplius tua est. ita 
+   <lb ed="#B" n="79"/>vt obiectiones currentes aequaliter pungant contra 
+   <lb ed="#B" n="80"/>iura in hoc exemplo.
+  </p>
+      <p xml:id="jMqv4a-d1e651-d1e310">
+   ⁋ Ad secundum argumentum. 
+   <lb ed="#B" n="81"/>nego quod potest infringere carcerem: vel occidere cu 
+   <lb ed="#B" n="82"/>stodem. licet enim cuncta qui homo habet: dabit pro anima 
+   <lb ed="#B" n="83"/>sua. Iob. ii. iuxta illud poetae. Vt vitam redimas 
+   <lb ed="#B" n="84"/>ferrum patieris &amp; ignes: non tamen debet alteri nocere. nam 
+   <lb ed="#B" n="85"/>bellum esset iniustum exparte eius: vt dictum est. Eodem modo 
+   <lb ed="#B" n="86"/>effringere carcerem eet violare remp. licet sit argumen 
+   <lb ed="#B" n="87"/>tum quod non: quia in extrema necessitate homo capit &amp; 
+   <lb ed="#B" n="88"/>rapit cibum: vestem: &amp; illa quae sunt necessaria pro sustenta 
+   <lb ed="#B" n="89"/>tione suae vitae. ergo si iste carcere detentus frangat car 
+   <lb ed="#B" n="90"/>cerem potest illud licite facere pro saluanda sua vita, 
+   <lb ed="#B" n="91"/>potissimum si intendat eum reparare. Ad quod respondetur quod 
+   <lb ed="#B" n="92"/>non est simile: quia iste non est omnino liber. Aliquod enim dominiu 
+   <lb ed="#B" n="93"/>in corpus istius habet respu. immo si e carcere fui 
+   <lb ed="#B" n="94"/>giat: de iure ciuili est poena capitali puniendus: vt 
+   <lb ed="#B" n="95"/>icitur. de effrac. l. i. &amp;. ii. Immo si quis iurauerit
+   redi<lb ed="#B" n="96" break="no"/>re ad carcerem tenetur seruare iuramentum etiam si sub 
+   <lb ed="#B" n="97"/>sit periculum mortis: saltem si mors non fuerit
+   iniu<lb ed="#B" n="98" break="no"/>riosa. vt dicit glossa in Cle. Pastoralis. de sen. &amp; re 
+   <lb ed="#B" n="99"/>iudi. s. Numquid. versi. Per violentam iniuriam. exemplo 
+   <lb ed="#B" n="100"/>Marci Reguli qui ad poenas rediit post iuramentum 
+   <lb ed="#B" n="101"/>quamuis peteretur ad mortem. Sed si esset in quiete in termind 
+   <lb ed="#B" n="102"/>ad quem: acquireret plenam libertatem sicut seruus
+   ma<lb ed="#B" n="103" break="no"/>numissus. alio tamen eum persequente antequam terminum 
+   <lb ed="#B" n="104"/>ad quemattingat: redire debet: quia ex parte eius bel 
+   <!--0276.xml-->
+   <pb ed="#B" n="122-v"/>
+       <cb ed="#B" n="a"/>
+       <lb ed="#B" n="1"/>lum esset iniustum. Sed an damnatus ad mortem 
+   <lb ed="#B" n="2"/>iuste: cui pats via abeundi, teneatur discedere, maior 
+   <lb ed="#B" n="3"/>est difficultas. &amp; probabilius iudico quod non tenetur: quia 
+   <lb ed="#B" n="4"/>rationabilem excusationem habent de hoc vt ab illo praecepto 
+   <lb ed="#B" n="5"/>sit absolutus: sicut tempore martyrii de consilio. Et idem di 
+   <lb ed="#B" n="6"/>co: si homo sic iudicet ad mortem ne vnquam comedat: &amp; 
+   <lb ed="#B" n="7"/>ponatur cibus prope eum: potest abstinere nihil comedendo 
+   <lb ed="#B" n="8"/>sicut potest non aufugere. Et quicquid alii dicant / idem est 
+   <lb ed="#B" n="9"/>nec discrimen vllum video. sed si sortes iuste damnetur 
+   <lb ed="#B" n="10"/>ad amissionem bonorum fortumae: non est licitum aliquid de 
+   <lb ed="#B" n="11"/>eis capere vltra illud quod potest succurrere suae vitae: 
+   <lb ed="#B" n="12"/>quia acquisitio talium est de iure positiuo. Aliud enim do 
+   <lb ed="#B" n="13"/>minium habent in suam vitam: scilicet dominium naturale. 
+   <lb ed="#B" n="14"/>irca hanc materiam
+   moue<lb ed="#B" n="15" break="no"/>Quamquam bo aliquas dubitationes. Prima
+   dubita<lb ed="#B" n="16" break="no"/>ltio. Sortes habet vnum pedem in compedibus 
+   <lb ed="#B" n="17"/>quaes frangere nequit: ponitur seorsum ab aliis 
+   <lb ed="#B" n="18"/>&amp; prope eum cultellus: si tibia / manum / vel aliud membrum 
+   <lb ed="#B" n="19"/>ibscindat potest abire, &amp; suae vitae succurrere. si ma 
+   <lb ed="#B" n="20"/>neat, morietur fame in compedibus: quid opus est facto? Raspon 
+   <lb ed="#B" n="21"/>deo, non video aliquod nisi vt membrum frangat: sicut chi 
+   <lb ed="#B" n="22"/>rurgus abscidit membrum putridum reliquam inficiens vt to 
+   <lb ed="#B" n="23"/>tum copositum viuat. de duobus enim malis poenae
+   mi<lb ed="#B" n="24" break="no"/>nus est eligendum.
+  </p>
+      <p xml:id="jMqv4a-d1e651-d1e423">
+   ⁋ Secundo dubitatur. Sacerdos
+   vi<lb ed="#B" n="25" break="no"/>det vnum paruulum baptizandum: &amp; tyrannus est eum occi 
+   <lb ed="#B" n="26"/>surus si expectet: si aufugiat paruulus morietur: quia 
+   <lb ed="#B" n="27"/>ponatur in periculo vitae, vel quod tyranus occidet paruui uam 
+   <lb ed="#B" n="28"/>uid debet sacerdos in isto casu facere? Respondetur:
+   ba<lb ed="#B" n="29" break="no"/>tizabit paruulum. &amp; ratio est: quia si sacerdos sit in bona 
+   <lb ed="#B" n="30"/>dispositione: solum morietur corpore. si vero non sit in
+   bo<lb ed="#B" n="31" break="no"/>na dispositione: potest in breui tempore se disponere. par 
+   <lb ed="#B" n="32"/>uulus autem perpetuo damnabitur: quod magis cauendum est. 
+  </p>
+      <p xml:id="jMqv4a-d1e651-d1e443">
+       <lb ed="#B" n="33"/>⁋ Tertio dubitatur. sit vnus asser in naue fracta: qui 
+   <lb ed="#B" n="34"/>aegre duos / sed vnum sustinere potest: an possim sociu 
+   <lb ed="#B" n="35"/>meum pellere ne asserem lucretur. Respondetur. a principio 
+   <lb ed="#B" n="36"/>possum elaborare asserem primo obtinere: sed ipsd 
+   <lb ed="#B" n="37"/>ab alio obtento, non debeo eum eijcere. 
+  </p>
+      <p xml:id="jMqv4a-d1e651-d1e457">
+       <lb ed="#B" n="38"/>⁋ Quarto dubitatur: an liceat
+   occi<lb ed="#B" n="39" break="no"/>dere innocentem pro defendenda vita propria. &amp;
+   pro<lb ed="#B" n="40" break="no"/>batur quod sic: posito quod esset nauis hominibus
+   refer<lb ed="#B" n="41" break="no"/>ta: sic scilicet vt a principio non percipiatur quod hominium. 
+   <lb ed="#B" n="42"/>nimia grauitas ponet nauim sub aquas, eam
+   sub<lb ed="#B" n="43" break="no"/>mergendo: sed temporis successu illud
+   depraehen<lb ed="#B" n="44" break="no"/>ditur. tunc sic. licet sorti eijcere Platonem suae vi 
+   <lb ed="#B" n="45"/>tae succurrendo. sint quatuor gratia exempli in na 
+   <lb ed="#B" n="46"/>ui vel in nauicula: quia aequa est difficultas de mil 
+   <lb ed="#B" n="47"/>le in magna naui: sed breuitati insistendo sint isti
+   qua<lb ed="#B" n="48" break="no"/>tuor a. b. c. d. melius est quod duo maneant incolumes 
+   <lb ed="#B" n="49"/>scilicet a. &amp; bce. quam omnes quatuor submergantur. sed non o 
+   <lb ed="#B" n="50"/>mnes possunt esse superstites ex hypothesi: ergo 
+   <lb ed="#B" n="51"/>licitum erit duobus eijcere alios duos. Non
+   va<lb ed="#B" n="52" break="no"/>let dicere: implorandum esse diuinum auxilium 
+   <!--0276.xml-->
+   <cb ed="#B" n="b"/> 
+       <!-- 122-v b -->
+       <lb ed="#B" n="53"/>&amp; expectandum quousque omnes submergantur. hoc 
+   <lb ed="#B" n="54"/>inqua non valet: quia debent modo humano suc 
+   <lb ed="#B" n="55"/>currere vitae suae omni modo licito. Non aliter
+   nan<lb ed="#B" n="56" break="no"/>puer <name xml:id="jMqv4a-d1e651-Nd1e506" ref="#Abraham">Abraham</name> Sarram vxorem dicebat esse sororem 
+   <lb ed="#B" n="57"/>ne mulieris gratia occideretur. Genesis. xii. Fodem 
+   <lb ed="#B" n="58"/>modo argumentari potes de duobus attingenti 
+   <lb ed="#B" n="59"/>bus costam nauis fractae: quos sustinet costa a pri 
+   <lb ed="#B" n="60"/>cipio: sed non in fine ob raritatem aquae: vel mino 
+   <lb ed="#B" n="61"/>rem profunditatem: vel vnam partem costae fractam.
+  </p>
+      <p xml:id="jMqv4a-d1e651-d1e521">
+   ⁋ Raspon 
+   <lb ed="#B" n="62"/>deo. debent mittere sortem sicut factum est cum
+   lo<lb ed="#B" n="63" break="no"/>na propheta: &amp; illi super quos cadet sors, patien 
+   <lb ed="#B" n="64"/>ter nabent ferre vt proiiciatur in mare. Sed si omnes 
+   <lb ed="#B" n="65"/>renitantur de sorte mittenda: &amp; dicant se velle expe 
+   <lb ed="#B" n="66"/>ctare euentum rei &amp; voluntatem dei: iam quaestio est an a. &amp; b. 
+   <lb ed="#B" n="67"/>possint eijcere c. &amp; d. Voco posse quod de iure pateot. 
+   <lb ed="#B" n="68"/>si sic, licebit occidere innocentem scitum esse talem.
+   Respon<lb ed="#B" n="69" break="no"/>detur. satius est duos submergi quam omnes. Propterea ap 
+   <lb ed="#B" n="70"/>paret quod a. &amp; b. patet eijcere c. &amp; de pro seruanda sua 
+   <lb ed="#B" n="71"/>vita: sed eos non sponte occidunt. etiam si omnes
+   man<lb ed="#B" n="72" break="no"/>sissent in naui, omnes periissent. Nec hoc est contra di 
+   <lb ed="#B" n="73"/>cta vbi dicebatur quod quis potest occidere inuasorem
+   iniu<lb ed="#B" n="74" break="no"/>ste pro defendenda sua vita: quia hic agitur vbi quis oe 
+   <lb ed="#B" n="75"/>cidit innocentem vt saluet vitam propria. vt patet de 
+   <lb ed="#B" n="76"/>a. eijciente c. vbi eadem ratione c. pot occidere a. se inua 
+   <lb ed="#B" n="77"/>dentem. Sed contra istud arguitur. ex isto sequitur quod si 
+   <lb ed="#B" n="78"/>tyrannus sub poena mortis praeciperet mihi
+   occide<lb ed="#B" n="79" break="no"/>re sortem: hoc possem pro saluanda mea vita: dummodo 
+   <lb ed="#B" n="80"/>assentiam quod tyrannus hoc faciet: quod concedere vi 
+   <lb ed="#B" n="81"/>detur durum. &amp; probo consequentiam ex eodem fonte ex quo 
+   <lb ed="#B" n="82"/>scatet solutio principalis. Etiam qua ratione pota. 
+   <lb ed="#B" n="83"/>eijcere c. potest ipsum occidere: quia quid refert proiicere eum 
+   <lb ed="#B" n="84"/>in mare in quo submergetur: &amp; ferro perimeret 
+   <lb ed="#B" n="85"/>Respondetur. color est in concessione omnium illatorum. sed  
+   <lb ed="#B" n="86"/>ne locum carnificibus demus: potest dici non esse simile: quia 
+   <lb ed="#B" n="87"/>multi proiecti in mare euadunt natando, vbi est mi 
+   <lb ed="#B" n="88"/>hi dubium an natare sciat. Item ego sum in partia 
+   <lb ed="#B" n="89"/>li possessione nauis: secus est de vita alterius. Si 
+   <lb ed="#B" n="90"/>haec solutio tibi nimis pia videatur: dic quod voles. 
+  </p>
+      <p xml:id="jMqv4a-d1e651-d1e586">
+       <lb ed="#B" n="91"/>⁋ Quinto dubitatur: an clericus com 
+   <lb ed="#B" n="92"/>misso homicidio perdat beneficium. Sexto
+   du<lb ed="#B" n="93" break="no"/>bitatur. vtrum aliquis sit torquendus licite vt ex 
+   <lb ed="#B" n="94"/>sua confessione inferatur mors.
+  </p>
+      <p xml:id="jMqv4a-d1e651-d1e597">
+   ⁋ Ad quintam dubi 
+   <lb ed="#B" n="95"/>tationem respondetur quod homicidium superueniens
+   ha<lb ed="#B" n="96" break="no"/>benti beneficium non priuat beneficiatum suo
+   bene<lb ed="#B" n="97" break="no"/>ficio ipso facto: sed opus est sententia. ad hoc est
+   te<lb ed="#B" n="98" break="no"/>xtus in. c. Clericis, ne clerici vel monachi. sed si homi 
+   <lb ed="#B" n="99"/>cidium seu illa irregularitas positiua humana praecessit 
+   <lb ed="#B" n="100"/>collationem: non tenet collatio, quia facta indigno &amp;
+   im<lb ed="#B" n="101" break="no"/>habili ad executionem officii. vt in cap. finali. de
+   ten<lb ed="#B" n="102" break="no"/>po. ordinam.
+  </p>
+      <p xml:id="jMqv4a-d1e651-d1e617">
+   ⁋ Ad sextam dubitationem dcitur quod duo  
+   <lb ed="#B" n="103"/>requiruntur ad torturam vel ad quaestiones quod idem 
+   <lb ed="#B" n="104"/>est. primo quod veritas aliter haberi non possit: quia 
+   <lb ed="#B" n="105"/>quaestio fit causa indagandae veritatis: &amp; in
+   sub<lb ed="#B" n="106" break="no"/>uidium. v. qui. v. in cap. Illi. Secundo requiritur quod 
+   <!--0277.xml-->
+   <pb ed="#B" n="123-r"/>
+       <cb ed="#B" n="a"/>
+       <lb ed="#B" n="1"/>praecedant aliquam indicia siue praesumptiones vel semiple 
+   <lb ed="#B" n="2"/>nae probationes. sine indiciis enim non est inferenda e 
+   <lb ed="#B" n="3"/>stio: vt litur. de quaesti. in. i. Ex libero. &amp; de regulis iuris 
+   <lb ed="#B" n="4"/>ca. Cum in contemplatione. vbi dicit pontifex. In ipso cau 
+   <lb ed="#B" n="5"/>sae initio non est a quaestionibus inchoandum. vnus autem
+   te<lb ed="#B" n="6" break="no"/>stis est sufficiens ad faciendam semiplenam probationem 
+   <lb ed="#B" n="7"/>&amp; per consequens ad torquendum. si nullus fuerit testis 
+   <lb ed="#B" n="8"/>indicia arbitrio iudicis relinquantur. Sed confessio 
+   <lb ed="#B" n="9"/>tormentis erit nulla nisi in confessione perseueret extra 
+   <lb ed="#B" n="10"/>torturam: quia videtur fecisse metu tormentorum. vt. xv 
+   <lb ed="#B" n="11"/>qui. vi. ca. primo. &amp;. xxxi. q. ii. ca. Lotharius. Si vero pe 
+   <lb ed="#B" n="12"/>seueret in confessione: tunc sibi praeiudicat. Dicitur aut 
+   <lb ed="#B" n="13"/>perseuerare quando iterum confitetur crimen ratificando prio 
+   <lb ed="#B" n="14"/>rem confessionem extra locum tormentorum: ita vt non vide 
+   <lb ed="#B" n="15"/>at tormenta. si vero tunc neget / non debet amplius 
+   <lb ed="#B" n="16"/>torquanri nisi reperiantur noua indicia: vtpote si in meda 
+   <lb ed="#B" n="17"/>cio sit compertus: vel veniant praesumptiones alium 
+   <lb ed="#B" n="18"/>de. Ex quo patet quod condemnans hominem per suam
+   confes<lb ed="#B" n="19" break="no"/>sionem in tortura, male agit. nam aliqui magnos cru 
+   <lb ed="#B" n="20"/>ciatus in tantum abhorrent: vt occidi malint. Alio 
+   <lb ed="#B" n="21"/>tamen simplices credunt non esse peccatum confiteri falsum 
+   <lb ed="#B" n="22"/>vtrobique autem quando non constat de causa sanguinis 
+   <lb ed="#B" n="23"/>reus est liberandus: &amp; potissimum vbi alias fuit bo 
+   <lb ed="#B" n="24"/>nae conuersationis: vel reipu. videbitur vtilis. Pra 
+   <lb ed="#B" n="25"/>terea patet, &amp; est de iure naturae quod non debet
+   ni<lb ed="#B" n="26" break="no"/>mis grauiter torqunri suspectus de crimine: &amp; potissi 
+   <lb ed="#B" n="27"/>mun si fuerit talis conditionis de qua loquimur. Multa 
+   <lb ed="#B" n="28"/>item alia positiua pabet circa materiam homicidii inquiri 
+   <lb ed="#B" n="29"/>quae de iure Caesareo &amp; pontificio tanguntur: sed non  
+   <lb ed="#B" n="30"/>sunt theologicae considerationis. 
+  </p>
+      <p xml:id="jMqv4a-d1e651-d1e700">
+       <lb ed="#B" n="31"/>⁋ Vltimo dubitatur circa hanc quaestio 
+   <lb ed="#B" n="32"/>nem: quare sit quod aliquae regiones summa beniuolem 
+   <lb ed="#B" n="33"/>tia sese prosequantur: &amp; aliquae maliuolentia. Respondetur 
+   <lb ed="#B" n="34"/>plerumque regiones vicinae non prosequuntur sese mu 
+   <lb ed="#B" n="35"/>tuo amore. &amp; causa non est remota: quia certant dila 
+   <lb ed="#B" n="36"/>tare suos terminos &amp; sua imperia: quod non potest esse sini 
+   <lb ed="#B" n="37"/>iactura vera vel apparente alterius. Certant enim de 
+   <lb ed="#B" n="38"/>honore pari: &amp; quia sunt vicini: honos vnius in
+   de<lb ed="#B" n="39" break="no"/>decus alterius redundare videtur vulgo: cum
+   oppo<lb ed="#B" n="40" break="no"/>sita iuxta se posita clarius elucescant. iurgia auti 
+   <lb ed="#B" n="41"/>vicinorum subditorum ignem belligerandi praebet. Fac 
+   <lb ed="#B" n="42"/>namque inductionem per totius Europae regna vicina: &amp; 
+   <lb ed="#B" n="43"/>cones maliuolentia iter illa inuenies. Hic verum habet vei 
+   <lb ed="#B" n="44"/>bum poetae. Inuidet figulus figulo. Et non modo in variis 
+   <lb ed="#B" n="45"/>regnis hoc prouenit: sed nec duo domini vicini in eodem 
+   <lb ed="#B" n="46"/>regno aequales bene conveniunt. Interdum tamen a prude 
+   <lb ed="#B" n="47"/>tibus regibus ob matrimonium / vel inimicitiam in ter 
+   <lb ed="#B" n="48"/>tium vt <name xml:id="jMqv4a-d1e651-Nd1e741" ref="#Aristotle">Aristoteles</name> loquitur de solertia, fit pax ad tem 
+   <lb ed="#B" n="49"/>pus.
+  </p>
+      <p xml:id="jMqv4a-d1e651-d1e748">
+   ⁋ Ex quo sequitur quod hellum plerumque fieri inter haec 
+   <lb ed="#B" n="50"/>duo regna, non arguit hunc populum esse fallacem vl 
+   <lb ed="#B" n="51"/>malum plus quam alium. Si enim omnes homines essent boni, 
+   <lb ed="#B" n="52"/>inter illos non contingerent bella. sed non arguitur 
+   <lb ed="#B" n="53"/>specialis malitia: quia non consequitur: Galli cum
+   Hunga<lb ed="#B" n="54" break="no"/>ris conveniunt: galli non sic vnionem habent cum Ita 
+   <!--0277.xml-->
+   <cb ed="#B" n="b"/> 
+       <!-- 123-r b -->
+       <lb ed="#B" n="55"/>lis: ergo ltali sunt peiores Hungaris.
+  </p>
+      <p xml:id="jMqv4a-d1e651-d1e770">
+   ⁋ Secundo patet quai 
+   <lb ed="#B" n="56"/>solorum prudentum regum est scire nutrire pacem in regnis 
+   <lb ed="#B" n="57"/>vicinis. Cum enim magnae sint inclinationes ad bellum, 
+   <lb ed="#B" n="58"/>difficile est illis obuiare. Hoc autem imprudentibus &amp; teme 
+   <lb ed="#B" n="59"/>rariis non est datum: et si nullum interstitium mediet, vt 
+   <lb ed="#B" n="60"/>mare, montes, vel obstacula, tanto difficilius est. 
+  </p>
+      <p xml:id="jMqv4a-d1e651-d1e783">
+       <lb ed="#B" n="61"/>⁋ Tertio patet. quod reges debent ad hoc summo 
+   <lb ed="#B" n="62"/>pere niti. Nam regum est procurare illud quod
+   condu<lb ed="#B" n="63" break="no"/>cit ad bonum animae &amp; corporis in subditis &amp; in seipi 
+   <lb ed="#B" n="64"/>sis: sed hoc per pacem fit. In tempore namque belli
+   deuo<lb ed="#B" n="65" break="no"/>tio nulla: omnia sunt in motu: iactura bonorum
+   for<lb ed="#B" n="66" break="no"/>tunae sine mensura. &amp; plus reges in hoc laeduntur quam re 
+   <lb ed="#B" n="67"/>liqui. nam malefactores fugientes iustitiam de vna
+   re<lb ed="#B" n="68" break="no"/>gione in aliam vagantur: reges sua expendunt: nunc laeti 
+   <lb ed="#B" n="69"/>si sui victores extiterint: cras ob suos victos
+   ta<lb ed="#B" n="70" break="no"/>bescent: ita vt extrema gaudii luctus occupet. 
+  </p>
+      <p xml:id="jMqv4a-d1e651-d1e807">
+       <lb ed="#B" n="71"/>⁋ Quarto patet quod inter regna vicina est
+   potissi<lb ed="#B" n="72" break="no"/>ma causa dispensandi pro matrimonio: ita vt hic 
+   <lb ed="#B" n="73"/>pontifex possit dispensare in omnibus gradibus non 
+   <lb ed="#B" n="74"/>prohibitis de iure naturae. Hic enim est auctoritas 
+   <lb ed="#B" n="75"/>dispensantis &amp; rationabilis causa. Vlterius patet:  
+   <lb ed="#B" n="76"/>nihil ponderis habere quod hic populus gentem 
+   <lb ed="#B" n="77"/>vicina instabilem &amp; malam reputat &amp; contra. ratio est 
+   <lb ed="#B" n="78"/>sortes a. regni sibi &amp; suis afficitur facile credens ma 
+   <lb ed="#B" n="79"/>la quae de hoste dicuntur ob piam affectionem ad vnam 
+   <lb ed="#B" n="80"/>partem, &amp; prauam ad oppositam.
+  </p>
+    </div>
+   </body>
+  </text>
+</TEI>

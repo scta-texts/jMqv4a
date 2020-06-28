@@ -1,0 +1,445 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 3</title>
+      <author ref="#JohnMair">John Mair</author>
+      <respStmt>
+       <name>Jeffrey C. Witt</name>
+       <resp>TEI Encoder</resp>
+      </respStmt>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 3</title>
+       <date when="2020-06-09">June 27, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="B" n="cod-Bda113">Badius 1516</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+     guidelines for a diplomatic edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-06-27" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+      <pb ed="#B" n="324-v"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="jMqv4a-d1e1734"> <!-- l4d40q3 -->
+      <head xml:id="jMqv4a-d1e1734-Hd1e104">Quaestio 3</head>
+      <head xml:id="jMqv4a-d1e1734-Hd1e107" type="question-title">An Romanus pontifex possit dispensare 
+  ut contrahatur matrimonium in gradibus lege prohibitis</head>
+      <p xml:id="jMqv4a-d1e1734-d1e110">
+       <lb ed="#B" n="32"/>⁋ Distinctionis Quadragesimae 
+   <lb ed="#B" n="33"/>Quaestio Tertia. 
+   <lb ed="#B" n="34"/>Ertio. circa materiam 
+   <lb ed="#B" n="35"/>quadragesimae distinctionis 
+   <lb ed="#B" n="36"/>quaeritur. an Romanus pon 
+   <lb ed="#B" n="37"/>prostifex possit dispensare vt con 
+   <lb ed="#B" n="38"/>A trahatur matrimonium in gra 
+   <lb ed="#B" n="39"/>ldibus lege prohibitis. Pro solu 
+   <lb ed="#B" n="40"/>i tione quaestionis pono conclu 
+   <lb ed="#B" n="41"/>siones: quarum Prima est. Romanus pontifex
+   po<lb ed="#B" n="42" break="no"/>test dispensare in omnibus gradibus lege humana
+   prohi<lb ed="#B" n="43" break="no"/>bitis. Probatur: quia in qualibet lege sua dispensare po 
+   <lb ed="#B" n="44"/>test. modo haec prohibitio coniunctionis gradumum con 
+   <lb ed="#B" n="45"/>sanguinitatis a lege pontificis prouenit: &amp; si a
+   con<lb ed="#B" n="46" break="no"/>cilio: adhuc in statutis ecclesiae dispensat. Praeterea 
+   <lb ed="#B" n="47"/>passim (vt videmus) in talibus dispensat: &amp; nec 
+   <lb ed="#B" n="48"/>dispensati / nec alii in hoc faciunt conscientiam. igitur. 
+   <lb ed="#B" n="49"/>Amplius. seclusa lege humana homines possunt in  
+   <lb ed="#B" n="50"/>illis gradibus consanguinitatis contrahere. praeueniam 
+   <lb ed="#B" n="51"/>igitur omnem legem: &amp; simus in tempore ante legem huma 
+   <lb ed="#B" n="52"/>nam: tunc licite contrahitur. Idem autem est postqui lata est. 
+   <!--0680.xml-->
+   <cb ed="#B" n="b"/> 
+       <!-- 324-v b -->
+       <lb ed="#B" n="53"/>praedecessor enim istius pontificis non poterat istum liga 
+   <lb ed="#B" n="54"/>re: quia par in parem non habet imperium. Rursus, 
+   <lb ed="#B" n="55"/>rex potest dispensare etiam licite pro rationabili causa 
+   <lb ed="#B" n="56"/>in sua lege positiua humana. ergo &amp; maximus
+   pon<lb ed="#B" n="57" break="no"/>tifex.
+  </p>
+      <p xml:id="jMqv4a-d1e1734-d1e175">
+   ⁋ Secunda conclusio. nulla lex positiua diui 
+   <lb ed="#B" n="58"/>na nunc vetat matrimonium inter aliquas personas. 
+   <lb ed="#B" n="59"/>Probatur. vel illa lex esset Mosaica Leuitici: &amp; hoc 
+   <lb ed="#B" n="60"/>non, quia iudicialia legis sunt extincta: vel lex euange 
+   <lb ed="#B" n="61"/>lica: &amp; illa dari non potest. igitur.
+  </p>
+      <p xml:id="jMqv4a-d1e1734-d1e187">
+   ⁋ Tertia conclusio, 
+   <lb ed="#B" n="62"/>aliquae personae prohibentur omnino contrahere omni lege
+   hu<lb ed="#B" n="63" break="no"/>mana seclusa. hoc patet apud gentiles &amp; omnes. 
+  </p>
+      <p xml:id="jMqv4a-d1e1734-d1e194">
+       <lb ed="#B" n="64"/>⁋ Sed quia hic sunt doctorum contrariae sententiae:
+   ali<lb ed="#B" n="65" break="no"/>qua commemorare libebit. Petrus Paludanus distin. 
+   <lb ed="#B" n="66"/>ii. iiii. qui. i. art. ii. in quadam dubitatione dicit quod lege na 
+   <lb ed="#B" n="67"/>turae solum duae personae prohibentur. Et hoc potest robo 
+   <lb ed="#B" n="68"/>rari. nam Antoninus recitat quosdam dixisse
+   Marti<lb ed="#B" n="69" break="no"/>num quintum dispensasse vt quidam suam sororem 
+   <lb ed="#B" n="70"/>vxorem teneret / propter maximum scandalum eui 
+   <lb ed="#B" n="71"/>tandum. Alii autem dicunt omnes personas Leuiti 
+   <lb ed="#B" n="72"/>ci. xviii. prohibitas, esse de iure naturae vetitas, quod 
+   <lb ed="#B" n="73"/>melius credo esse dictum. Pro cuius intelligentia
+   il<lb ed="#B" n="74" break="no"/>las personas ponam. sic habet litera. Omnis homo 
+   <lb ed="#B" n="75"/>ad proximum sanguinis sui non accedet. vbi pulchra 
+   <lb ed="#B" n="76"/>glossa interlinearis super hoc verbo ( homo. Qui 
+   <lb ed="#B" n="77"/>enim accedit / non est homo sed iumentum. Illic hae per 
+   <lb ed="#B" n="78"/>sone prohibentur, mater / nouerca / soror / siue ex par 
+   <lb ed="#B" n="79"/>tre siue ex matre: neptis / soror patris aut matris. 
+   <lb ed="#B" n="80"/>quas personas glossa in. c. Literas. de resti. spo.
+   enu<lb ed="#B" n="81" break="no"/>merat in his carminibus. Nata / soror / neptis /
+   mater<lb ed="#B" n="82" break="no"/>tera / fratris &amp; vxor: Et patrui coniunx / mater /
+   pri<lb ed="#B" n="83" break="no"/>uigna / nouerca: Vxorisque soror / priuigni nata /
+   nu<lb ed="#B" n="84" break="no"/>rusque, Atque soror patris coiungi lege vetantur. Duo 
+   <lb ed="#B" n="85"/>decim sunt personae illic prohibitae, quod autem dicit de 
+   <lb ed="#B" n="86"/>vxore fratris: paulo inferius attingam, dicturus quod 
+   <lb ed="#B" n="87"/>llud male ponatur in carmine.
+  </p>
+      <p xml:id="jMqv4a-d1e1734-d1e249">
+   ⁋ Quarta
+   conclu<lb ed="#B" n="88" break="no"/>sio. Aliquae personae prohibentur contrahere de iure 
+   <lb ed="#B" n="89"/>naturae. probatur. pater prohibetur contrahere cum filia: 
+   <lb ed="#B" n="90"/>&amp; filius cum matre. Refert siquidem philosophus. viii. 
+   <lb ed="#B" n="91"/>de animalibus quod quidam equus absconsis oculis / cum 
+   <lb ed="#B" n="92"/>matrem cogeretur cognoscere: vt primum agnouit 
+   <lb ed="#B" n="93"/>seipsum praecipitauit ac scelus expiauit. Et quidam 
+   <lb ed="#B" n="94"/>camelus simile faciens actorem interemit. Si autem 
+   <lb ed="#B" n="95"/>hoc sit contra naturam brutorum bene sentientium: 
+   <lb ed="#B" n="96"/>quis non videt illud esse contra legem naturae
+   homi<lb ed="#B" n="97" break="no"/>nibus inditam: Hinc Ninus matrem Semiramidem tru 
+   <lb ed="#B" n="98"/>cidauit. &amp; Cyniras rex filiam Myrrham perimere
+   ten<lb ed="#B" n="99" break="no"/>tauit, quae patris congressum furtim sollicitauit 
+   <lb ed="#B" n="100"/>vt videre est apud Ouidium. x.
+   Metamorpho<lb ed="#B" n="101" break="no"/>seos. hic locum habet illud Geneseos. ii. Relinquet 
+   <lb ed="#B" n="102"/>homo patrem &amp; matrem: &amp; adhaerebit vxori suae 
+  </p>
+      <p xml:id="jMqv4a-d1e1734-d1e284">
+       <lb ed="#B" n="103"/>⁋ Quinta conclusio. aliquae personae nunc vltra du 
+   <lb ed="#B" n="104"/>as prohibentur contrahere matrimonium probatur. nam 
+   <lb ed="#B" n="105"/>frater prohibetur contrahere cum sorore: ergo plures pro 
+   <lb ed="#B" n="106"/>hibentur. consequentia est nota. Antecedens
+   proba<lb ed="#B" n="107" break="no"/>tur: quia sapientes &amp; legissatores in solo lumine na 
+   <!--0681.xml-->
+   <pb ed="#B" n="325-r"/>
+       <cb ed="#B" n="a"/>
+       <lb ed="#B" n="1"/>turali loquentes &amp; philosophi ita dixerunt: &amp; in hoc 
+   <lb ed="#B" n="2"/>convenerunt. igitur. Et vt a philosophorum principe int 
+   <lb ed="#B" n="3"/>tium loquendi sumam: patet impugnando politia
+   So<lb ed="#B" n="4" break="no"/>cratis &amp; Platonis secundo Politicorum de vxorum plu 
+   <lb ed="#B" n="5"/>ralitate. illic enim infert vt absonum quod frater
+   soro<lb ed="#B" n="6" break="no"/>rem / et filius matrem cognosceret, quod grande scelus 
+   <lb ed="#B" n="7"/>existimabat. Et quia ab illo iussit socrates abstinere 
+   <lb ed="#B" n="8"/>ne vnquam commixtio tantae propinquitatis foret: et ne 
+   <lb ed="#B" n="9"/>esset nimis excessiuus amor inter coniuges: Aristo 
+   <lb ed="#B" n="10"/>teles dicit esse disconveniens quod propter solam illam 
+   <lb ed="#B" n="11"/>causam esset talis commixtio vetita. debent enim sibi 
+   <lb ed="#B" n="12"/>ita propinqui quandam charitatiuam amicitiam mu 
+   <lb ed="#B" n="13"/>tuo: quae tollitur per carnis commixtionem. Insuper 
+   <lb ed="#B" n="14"/>Ouidius. ix. metamorphoseos describens
+   quo<lb ed="#B" n="15" break="no"/>modo Byblis caeco amore ardebat in concupiscentiam 
+   <lb ed="#B" n="16"/>fratris: refert eius lamentationes de Cauno quod esset 
+   <lb ed="#B" n="17"/>sibi frater: quem ipsa sanguinem exosa, non fratren 
+   <lb ed="#B" n="18"/>sed dominum vocauit: indicans quod fraternitas ob 
+   <lb ed="#B" n="19"/>staret cmmuniugio. sic enim inquit poeta. la dominum appellat:  
+   <lb ed="#B" n="20"/>iam nominia sanguinis odit. Et dum illud colorare nite 
+   <lb ed="#B" n="21"/>retur de diis qui suas sorores habuerunt vxores:
+   di<lb ed="#B" n="22" break="no"/>cebat / aliam legem esse mortalibus. Dii melius: dii nen 
+   <lb ed="#B" n="23"/>pe suas habuere sorores. Sic Saturnus Opem ium 
+   <lb ed="#B" n="24"/>ctam sibi sanguine duxit: Oceanus Tethyn:
+   luno<lb ed="#B" n="25" break="no"/>nem rector olympi. Sunt superis sua iura. quid ad 
+   <lb ed="#B" n="26"/>caelestia ritus Exigere humanos / diuersaque foedera 
+   <lb ed="#B" n="27"/>teto? Assumpsit autem dictum a vulgo admissum, quod 
+   <lb ed="#B" n="28"/>viri belial vt lupiter &amp; huiusmodi homines
+   flagitio<lb ed="#B" n="29" break="no"/>si essent admissi in numerum diuum: sciens hoc hominibus 
+   <lb ed="#B" n="30"/>non licere. Parthorum quoque coniugia qui sorores / fi 
+   <lb ed="#B" n="31"/>lias / matres quoque ipsas sibi matrimonio
+   copula<lb ed="#B" n="32" break="no"/>pant, vt barbarica ac detestabilia, prorsusque ferina 
+   <lb ed="#B" n="33"/>sic suggillat &amp; execratur Lentulus apud Lucanum 
+   <lb ed="#B" n="34"/>in octauo Pharsaliae. Num Barbata nobis Est igno 
+   <lb ed="#B" n="35"/>ta Venus: quae ritus caeca ferarum Polluit inume 
+   <lb ed="#B" n="36"/>ris leges &amp; foedera taede Coniugibus: thalamique 
+   <lb ed="#B" n="37"/>patent secreta nefandi. Inter mille nurus epulis ve 
+   <lb ed="#B" n="38"/>sana meroque Regia non vllis exceptos legibus hor 
+   <lb ed="#B" n="39"/>ret Concubitus. tot foemineis complexibus vnum 
+   <lb ed="#B" n="40"/>Non lassat nox vna marem. iacuere sorores In fra 
+   <lb ed="#B" n="41"/>trum thalamis: sacrataque pignora matrum.
+   Tro<lb ed="#B" n="42" break="no"/>glodytae item vltra Aethiopes carnibus serpentum 
+   <lb ed="#B" n="43"/>viuentes ( vt Plinius scribit) hoc vitio ab homini 
+   <lb ed="#B" n="44"/>bus notati sunt quod more brutorum sanguinis
+   ra<lb ed="#B" n="45" break="no"/>tionem non haberent. Praeterea si inter fratrem &amp; 
+   <lb ed="#B" n="46"/>sororem esset admissum coniugium: esset superfluus 
+   <lb ed="#B" n="47"/>amor, &amp; confunderetur ordo inter eos institutus. 
+   <lb ed="#B" n="48"/>quod est absurdum. Hoc ostendi potest de Byblide: 
+   <lb ed="#B" n="49"/>&amp; item Artemisia, quae Mausoli fratris &amp; communiugis
+   ci<lb ed="#B" n="50" break="no"/>neres in potu hausit. Hinc philosophus octaui Ethicorum 
+   <lb ed="#B" n="51"/>xii. sic dicit. Fratres autem sese mutumo diligunt quod 
+   <lb ed="#B" n="52"/>ex eisdem sint orti. identitas enim quae est ad illos /i 
+   <lb ed="#B" n="53"/>idem inter ipsos facit. quapropter eundem
+   sangui<lb ed="#B" n="54" break="no"/>nem dicunt &amp; stirpem &amp; talia sunt. igitur.
+   quodammo<lb ed="#B" n="55" break="no"/>do idem &amp; in diuisis. magnum autem ad amicitiam est 
+   <!--0681.xml-->
+   <cb ed="#B" n="b"/> 
+       <!-- 325-r b -->
+       <lb ed="#B" n="56"/>&amp; enutritos simul esse &amp; aetatis aequalis. Aequalis 
+   <lb ed="#B" n="57"/>enim aequalem delectat. &amp; ipsi familiares sodales 
+   <lb ed="#B" n="58"/>sunt: idcirco fraterna amicitia sodalitiae similis est. 
+   <lb ed="#B" n="59"/>probarunt se mutuo in moribus: &amp; amicitia longo 
+   <lb ed="#B" n="60"/>tempore parta est. Hinc vbi videmus duos sese ve 
+   <lb ed="#B" n="61"/>nementer amare: dicimus. diligunt se more duorum 
+   <lb ed="#B" n="62"/>fratrum. frater enim est fere alter. hinc in religioni 
+   <lb ed="#B" n="63"/>bus pro nutrienda amicitia dicuntur fratres. idem. 
+   <lb ed="#B" n="64"/>est de sorore. nam frater de praedicamento relatio 
+   <lb ed="#B" n="65"/>nis sororem complectitur. Caeterum dum comes 
+   <lb ed="#B" n="66"/>Armeniacus omni via sororem habere in vxoren 
+   <lb ed="#B" n="67"/>apud pontificem maximum laboraret: nihil vnquam 
+   <lb ed="#B" n="68"/>impetrare potuit. Cum igitur gentiles in omi po 
+   <lb ed="#B" n="69"/>litia bene instituta recusarint fratris &amp; sororis con 
+   <lb ed="#B" n="70"/>nubium: credo illud esse omnino illicitum: nec ho 
+   <lb ed="#B" n="71"/>minem purum posse istic dispensare. Auctor
+   ta<lb ed="#B" n="72" break="no"/>men naturae deus cum Cain dispensauit quatenus 
+   <lb ed="#B" n="73"/>propriam haberet sororem: quia nulla alia erat. Et 
+   <lb ed="#B" n="74"/>probabilius est idem de omnibus personis Leuitici 
+   <lb ed="#B" n="75"/>xviii. ca. prohibitis, quod pontifex dispensare nequeat. 
+  </p>
+      <p xml:id="jMqv4a-d1e1734-d1e473">
+       <lb ed="#B" n="76"/>⁋ Contra hanc vltimam conclusionem 
+   <lb ed="#B" n="77"/>arguitur. Prohibetur frater accipere relictam fratris, 
+   <lb ed="#B" n="78"/>Leuitici. xviii. &amp; tamen in hoc dispensare potest Ro 
+   <lb ed="#B" n="79"/>manus pontifex. Nam <name xml:id="jMqv4a-d1e1734-Nd1e483">Henricus octauus</name> nunc in 
+   <lb ed="#B" n="80"/>Anglia regnans habet relictam fratris sui Arthu 
+   <lb ed="#B" n="81"/>ri, dispensante lulio secundo. &amp; Emanuel
+   Lusita<lb ed="#B" n="82" break="no"/>nus habuit nunc successiue duas germanas sorores 
+   <lb ed="#B" n="83"/>filias Ferdinandi regis Hispaniae dispensante
+   Ale<lb ed="#B" n="84" break="no"/>xandro sexto. &amp; Innocentius tertius cum quodam 
+   <lb ed="#B" n="85"/>Liuoniensi dispensauit: vt patet de diuor. ca.
+   vlti<lb ed="#B" n="86" break="no"/>mo. ergo male dictum est.
+  </p>
+      <p xml:id="jMqv4a-d1e1734-d1e503">
+   ⁋ Respondetur. illae per-:  
+   <lb ed="#B" n="87"/>onae nullo modo erant prohibitae lege Mosaica 
+   <lb ed="#B" n="88"/>contrahere matrimonium: sed scriptorum errore 
+   <lb ed="#B" n="89"/>est in plerisque libris hoc suppositum. nam id repu 
+   <lb ed="#B" n="90"/>gnat legi de suscitando semine fratri defuncto, Deu 
+   <lb ed="#B" n="91"/>teronomii. xv. quod intelligitur sicut dicit glossa
+   mar<lb ed="#B" n="92" break="no"/>ginalis, si frater habeat semen: vel de vxore
+   repu<lb ed="#B" n="93" break="no"/>diata: vel de fratre viuete: quod minus placet
+   glos<lb ed="#B" n="94" break="no"/>sae, &amp; bene: quia illae prohibentur per adulterium. 
+   <lb ed="#B" n="95"/>Nec valet obiicere per illud quod Ioannes
+   Hero<lb ed="#B" n="96" break="no"/>di dixit, non licet tibi vxorem fratris tui habere. 
+   <lb ed="#B" n="97"/>quia frater Herodis adhuc viuebat.
+  </p>
+      <p xml:id="jMqv4a-d1e1734-d1e530">
+   ⁋ Secundo 
+   <lb ed="#B" n="98"/>arguitur. Thamar dixit Amodo fratri suo. pete me 
+   <lb ed="#B" n="99"/>a patre meo &amp; dabit me tibi. Respondetur:
+   Tha<lb ed="#B" n="100" break="no"/>mar non erat filia ipsius Dauidis sed alicuius vxo 
+   <lb ed="#B" n="101"/>ris Dauidis. propterea vocabatur eius filia &amp;
+   so<lb ed="#B" n="102" break="no"/>ror Amon. secundo mulier imprudens poterat hoc 
+   <lb ed="#B" n="103"/>putare licitum.
+  </p>
+      <p xml:id="jMqv4a-d1e1734-d1e546">
+   ⁋ Tertio arguitur. Abraham
+   ha<lb ed="#B" n="104" break="no"/>puit filiam fratris scilicet Saram quae erat filia Aram: 
+   <lb ed="#B" n="105"/>&amp; Othoniel tempore legis habebat Axam filiam 
+   <lb ed="#B" n="106"/>fratris. ludicum primo. ergo aliquis potest habere 
+   <lb ed="#B" n="107"/>amitam vel materteram: quia distant eodem gradu com 
+   <lb ed="#B" n="108"/>sanguinitatis: scilicet secundo in linea collaterali: &amp; 
+   <lb ed="#B" n="109"/>tamen prohibetur matrimonium cum matertera 
+   <!--0682.xml-->
+   <pb ed="#B" n="325-v"/>
+       <cb ed="#B" n="a"/>
+       <lb ed="#B" n="1"/>vel amita: Leuitici. xviii. ergo quinta conclusio cum 
+   <lb ed="#B" n="2"/>llic dictis sunt falsa.
+  </p>
+      <p xml:id="jMqv4a-d1e1734-d1e572">
+   ⁋ Respondetur concedendo ante 
+   <lb ed="#B" n="3"/>cedens quod illud erat licitum in lege: videlicet quod vir in 
+   <lb ed="#B" n="4"/>linea ascendente accipere poterat neptem ex soro 
+   <lb ed="#B" n="5"/>re vel fratre in linea descendente. sed consequentia 
+   <lb ed="#B" n="6"/>est nulla: quia in ascendente peruertitur ordo
+   na<lb ed="#B" n="7" break="no"/>turae: quod scilicet mulier altera mater sit vxor &amp; sub 
+   <lb ed="#B" n="8"/>viri imperio quemadmodum mulierem decet esse: non 
+   <lb ed="#B" n="9"/>curando de multitudine annorum mulieris super
+   vi<lb ed="#B" n="10" break="no"/>rum, sed de ipsis gradibus, quando autem quis accipit 
+   <lb ed="#B" n="11"/>neptem ex fratre vxoris quae est subiecta in
+   gra<lb ed="#B" n="12" break="no"/>du / est etiam subiecta vi officii vxorii. Vides ergo 
+   <lb ed="#B" n="13"/>non esse idem in omnibus gradibus. &amp; patet
+   alium<lb ed="#B" n="14" break="no"/>de. nam viro ducere matrem multo magis iniquum 
+   <lb ed="#B" n="15"/>est quam accipere filiam: &amp; tamen est idem gradus.
+  </p>
+      <p xml:id="jMqv4a-d1e1734-d1e603">
+   ⁋ Quarto 
+   <lb ed="#B" n="16"/>arguitur per argumentum Myrthae conquerentis 
+   <lb ed="#B" n="17"/>de natura humana quod non permisit hominibus
+   con<lb ed="#B" n="18" break="no"/>mixtionem parentum cum filiis sicut brutis. quae  
+   <lb ed="#B" n="19"/>cum recitasset quomodo bruta non discernunt
+   co<lb ed="#B" n="20" break="no"/>pulam, inquit. Felices quibus ista licent: humana 
+   <lb ed="#B" n="21"/>malignas Cura dedit leges: &amp; quod natura remittit. 
+   <lb ed="#B" n="22"/>Inuida iura negant. fabulam late prosequitur Ouid. x 
+   <lb ed="#B" n="23"/>metamor.
+  </p>
+      <p xml:id="jMqv4a-d1e1734-d1e623">
+   ⁋ Respondetur. brutis legem naturalem 
+   <lb ed="#B" n="24"/>quam habent, hoc est illum instinctum naturae deus 
+   <lb ed="#B" n="25"/>dedit. hominibus autem instinctum ad generatio 
+   <lb ed="#B" n="26"/>nem secundum rectam rationem. bruta enim
+   co<lb ed="#B" n="27" break="no"/>eunt solum vt foetum habeant: deinde non coha 
+   <lb ed="#B" n="28"/>bitant. homines vero requirunt certas personas
+   qui<lb ed="#B" n="29" break="no"/>bus cohabitent, &amp; vt sibi inuicem inseruiant, tam 
+   <lb ed="#B" n="30"/>ante generationem quam post generationem pro edu 
+   <lb ed="#B" n="31"/>candis liberis. Quod bene notauit <name xml:id="jMqv4a-d1e1734-Nd1e642" ref="#Aristotle">Aristoteles.</name> viii. 
+   <lb ed="#B" n="32"/>Ethicorum. xii. ca. inquiens. Atque caeterorum quidem 
+   <lb ed="#B" n="33"/>animalium hic societatis est terminus ( ante loquu 
+   <lb ed="#B" n="34"/>tus erat de procreatione communi animalibus),
+   ho<lb ed="#B" n="35" break="no"/>mines autem coniugium subeunt non solum
+   pro<lb ed="#B" n="36" break="no"/>creationis causa: sed eorum etiam quae ad ipsam
+   co<lb ed="#B" n="37" break="no"/>ferunt vitam. officia namque continuo sunt diuisa: at 
+   <lb ed="#B" n="38"/>quod alia viri / alia sunt vxoris. opem itaque sibi mutuc 
+   <lb ed="#B" n="39"/>ferunt: res proprias in commune ponentes. Et. vii 
+   <lb ed="#B" n="40"/>Politicorum dicit idem. Si quis eat nisi ad suam con 
+   <lb ed="#B" n="41"/>iugem / grauiter est puniendus secundum leges. pro 
+   <lb ed="#B" n="42"/>pterea vocatur (inquit) coniugium. ac si diceret, cum 
+   <lb ed="#B" n="43"/>lla debet vir iungi: &amp; cum nulla alia: &amp; econverso. 
+   <lb ed="#B" n="44"/>Demens autem illa Myrtha toti posteritati
+   fabu<lb ed="#B" n="45" break="no"/>la bene vidit illud esse contra naturam humanam 
+   <lb ed="#B" n="46"/>nam, vt pulchre scribit poeta, dicebat alias leges 
+   <lb ed="#B" n="47"/>dedisse deum hominibus: alias vero brutis.
+   Con<lb ed="#B" n="48" break="no"/>queritur autem &amp; Plinius libro septimo de
+   natu<lb ed="#B" n="49" break="no"/>ra humana dicens. Natura creauit bruta cum pilis i: 
+   <lb ed="#B" n="50"/>cum cornibus, cum plumis: quorum aliqua statim 
+   <lb ed="#B" n="51"/>sibi succurrere nouerunt: aliqua quambreuissime. solus 
+   <lb ed="#B" n="52"/>homo nudus / eiulans / sine armis / sine vestibus
+   pro<lb ed="#B" n="53" break="no"/>ducitur. Cui respondeo quod deus dedit &amp; inclinatio 
+   <lb ed="#B" n="54"/>nem &amp; rationem parentibus filios in iuuentute mo 
+   <lb ed="#B" n="55"/>derandi vt filii magis amarent deum / &amp; parentes 
+   <!--0682.xml-->
+   <cb ed="#B" n="b"/> 
+       <!-- 325-v b -->
+       <lb ed="#B" n="56"/>quibus sic essent deuincti. primos autem parentes 
+   <lb ed="#B" n="57"/>adultos tam corpore quam ratione produxit. Praeter 
+   <lb ed="#B" n="58"/>ea deus hominem ad beatitudinem / sui capaces
+   pro<lb ed="#B" n="59" break="no"/>duxit: bruta vero caduca &amp; mortalia cum terra peri 
+   <lb ed="#B" n="60"/>tura: secundum illud Ouidii primo metamorpho 
+   <lb ed="#B" n="61"/>seos. Pronaque cum spectent animalia caetera terram: 
+   <lb ed="#B" n="62"/>Os homini sublime dedit, caelumque videre lussit: 
+   <lb ed="#B" n="63"/>&amp; erectos ad sydera tollere vultus. Potiores ergo  
+   <lb ed="#B" n="64"/>partes &amp; meliores homini dedit vt sit memor illius 
+   <lb ed="#B" n="65"/>Aristotelici. ix. Ethicorum. Diis parentibus &amp; ma 
+   <lb ed="#B" n="66"/>gistris nemo potest referre gratiam ad condignum. 
+  </p>
+      <p xml:id="jMqv4a-d1e1734-d1e728">
+       <lb ed="#B" n="67"/>⁋ Ostensum est igitur esse contra ius naturae quod
+   im<lb ed="#B" n="68" break="no"/>ter parentes &amp; liberos sit matrimonium. ad quod  
+   <lb ed="#B" n="69"/>Myrrha nullum colorem inuenire poterat nisi per 
+   <lb ed="#B" n="70"/>pruta. Est etiam contra ius naturae / fratrem contra 
+   <lb ed="#B" n="71"/>here cum sorore: vel virum cum nouerca. &amp; sic de 
+   <lb ed="#B" n="72"/>aliis personis Leuitici. xviii. ca. nominatis. Et isti sunt 
+   <lb ed="#B" n="73"/>gradus in quibus non contrahere Innocentius
+   ter<lb ed="#B" n="74" break="no"/>tius in ca. Literas. de resti. spolia. vocat de iure
+   di<lb ed="#B" n="75" break="no"/>uino: in quo nec pontifex pot / nec consueuit
+   dispen<lb ed="#B" n="76" break="no"/>sare: quia de iure naturae si in istis esset matrimoni 
+   <lb ed="#B" n="77"/>um, confunderentur nomina propinquissimi sangui 
+   <lb ed="#B" n="78"/>nis &amp; coniugii. &amp; hoc graphice notat poeta ex per 
+   <lb ed="#B" n="79"/>sona byblidis dicens. Oego si liceat mutato nomi 
+   <lb ed="#B" n="80"/>ne iungi: Quam bene Caune tuo poteram nurus
+   es<lb ed="#B" n="81" break="no"/>se parenti. Quam bene Caune tuo poteras gener esse 
+   <lb ed="#B" n="82"/>parenti. Et Myrtha seipsam sic alloquitur. Tu ne 
+   <lb ed="#B" n="83"/>eris &amp; matris pellex, &amp; adultera patris ? Tu ne
+   so<lb ed="#B" n="84" break="no"/>ror nati, genitrixque vocabere fratris? Simile facinus 
+   <lb ed="#B" n="85"/>abominabile in natura curiosi de expositione car 
+   <lb ed="#B" n="86"/>minis huius proponunt. Salue nepos frater, filio 
+   <lb ed="#B" n="87"/>dixit sua mater. quod sine vitio naturae / nomninia con 
+   <lb ed="#B" n="88"/>fundendo fieri non potest: vtpote si ludas
+   Sca<lb ed="#B" n="89" break="no"/>riothes vel Mahumetus arabs ex matre sua genuis 
+   <lb ed="#B" n="90"/>set filiam Bertam: &amp; postea ex Berta genuisset fi 
+   <lb ed="#B" n="91"/>lium: Berta filio viro dicere poterat, salue nepos 
+   <lb ed="#B" n="92"/>frater fili. primo est filius Bertae. secundo est nepos 
+   <lb ed="#B" n="93"/>ex fratre. nam Mahumetus est frater Bertae. immo 
+   <lb ed="#B" n="94"/>ludas erit auus filii &amp; auunculus Bertae. auus filiii 
+   <lb ed="#B" n="95"/>quia pater Bertae. auunculus / quia frater Bertae. 
+   <lb ed="#B" n="96"/>Vbitatur: quare insti gradus 
+   <lb ed="#B" n="97"/>consanguinitatis a matrimonio prohi 
+   <lb ed="#B" n="98"/>ui beantur. Respondetur. hoc fit duplici 
+   <lb ed="#B" n="99"/>de causa. Vna est, ne supersluus amor contrahatur 
+   <lb ed="#B" n="100"/>in coniugio. nam cum amore coniugali accederet 
+   <lb ed="#B" n="101"/>amor sanguinis. Alia causa est ad dilatandam cha 
+   <lb ed="#B" n="102"/>ritatem &amp; amicitiam in republica: &amp; ad tollenda be 
+   <lb ed="#B" n="103"/>la. regum enim &amp; principum filiae pacem inter discor 
+   <lb ed="#B" n="104"/>des familias nutriunt. Numquid lulia tamquam lsthmos 
+   <lb ed="#B" n="105"/>pacem inter lulium Caesarem patrem &amp; Pompeium 
+   <lb ed="#B" n="106"/>Magnum suum maritum tenuit: qua de medio si 
+   <lb ed="#B" n="107"/>ne liberis sublata horrida bella ciuilia inter eos ex 
+   <lb ed="#B" n="108"/>orta sunt. Qua de re Lucanus in primo Pharsa 
+   <lb ed="#B" n="109"/>liae sic perbelle canit. nam pignora iuncti Sangui 
+   <!--0683.xml-->
+   <pb ed="#B" n="326-r"/>
+       <cb ed="#B" n="a"/>
+       <lb ed="#B" n="1"/>nis, &amp; diro ferales omine taedas Abstulit ad
+   ma<lb ed="#B" n="2" break="no"/>nes parcarum lulia saeua Intercepta manu. quod si tibus 
+   <lb ed="#B" n="3"/>fata dedissent Maiores in lucae moras: tu sola furen 
+   <lb ed="#B" n="4"/>tem Inde virum poteras, atque hinc retinere paren 
+   <lb ed="#B" n="5"/>tem: Armatasque manus excusso iungere ferro. Vt 
+   <lb ed="#B" n="6"/>generos soceris mediae iunxere Sabinae. Morte tua 
+   <lb ed="#B" n="7"/>discussa fides: bellumque mouere Permissum duci 
+   <lb ed="#B" n="8"/>bus. stimulos dedit aemula virtus.
+  </p>
+      <p xml:id="jMqv4a-d1e1734-d1e849">
+   ⁋ Dubitatur se 
+   <lb ed="#B" n="9"/>cundo an praescriptio locum habeat in
+   matrimo<lb ed="#B" n="10" break="no"/>nio. Dico quod non. nam praescriptio dat ius ex con 
+   <lb ed="#B" n="11"/>stitutione hominum: &amp; secundum eorum intentum 
+   <lb ed="#B" n="12"/>ius reddit. modo casus matrimonialis eximitur a 
+   <lb ed="#B" n="13"/>praescriptione. vt patet de consangui. &amp; affi. cap 
+   <lb ed="#B" n="14"/>Non debet.
+  </p>
+      <p xml:id="jMqv4a-d1e1734-d1e865">
+   ⁋ Dubitatur tertio. ponatur Berta co 
+   <lb ed="#B" n="15"/>gnita a sorte / postea contrahens matrimonium cum 
+   <lb ed="#B" n="16"/>Platone fratre Sortis, iuris ignara / vel aliter ex ma 
+   <lb ed="#B" n="17"/>litia. ipsa ad cor rediens confitetur peccatum Ciceroni 
+   <lb ed="#B" n="18"/>curato suo. An Berta teneatur reddere debitum Pla 
+   <lb ed="#B" n="19"/>toni, vel prodere suum peccatum occultum. lste 
+   <lb ed="#B" n="20"/>casus his diebus proximis Parisiis vt
+   intellexi<lb ed="#B" n="21" break="no"/>mus / accidit. Respondetur, non est verosimile quod 
+   <lb ed="#B" n="22"/>cum ea dispensabitur. Nam de principibus pro pa 
+   <lb ed="#B" n="23"/>ce communi illud reuocatur in dubium: an papa 
+   <lb ed="#B" n="24"/>possit. dico ergo quod non debet reddere debitum: 
+   <lb ed="#B" n="25"/>quia scit ipsum non esse virum suum: &amp; fingat
+   ali<lb ed="#B" n="26" break="no"/>quid incompossibile reddendo debito, nec ipsa
+   ha<lb ed="#B" n="27" break="no"/>bebit aliam pacem / quousque casum officiali &amp; vi 
+   <lb ed="#B" n="28"/>ris grauibus &amp; secretis ostendat: cogeturque redire 
+   <lb ed="#B" n="29"/>ad virum / nisi excipiat per affinitatem. &amp; sic crimen 
+   <lb ed="#B" n="30"/>occultum propalabitur 
+  </p>
+    </div>
+   </body>
+  </text>
+</TEI>

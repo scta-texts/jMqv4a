@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 2</title>
+      <author ref="#JohnMair">John Mair</author>
+      <respStmt>
+       <name>Jeffrey C. Witt</name>
+       <resp>TEI Encoder</resp>
+      </respStmt>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 2</title>
+       <date when="2020-06-09">June 27, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="B" n="cod-Bda113">Badius 1516</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+     guidelines for a diplomatic edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-06-27" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+      <pb ed="#B" n="208-v"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="jMqv4a-d1e1110"> <!-- l4d23q2 -->
+      <head xml:id="jMqv4a-d1e1110-Hd1e104">Quaestio 2</head>
+      <head xml:id="jMqv4a-d1e1110-Hd1e107" type="question-title">An aqua benedicta aliquid in ecclesia valeat</head>
+      <p xml:id="jMqv4a-d1e1110-d1e110">
+       <lb ed="#B" n="7"/>⁋ Distinctionis Vigesimaetertiae 
+   <lb ed="#B" n="8"/>Quaestio Secunda. 
+   <lb ed="#B" n="9"/>N aqua benedicta
+   ali<lb ed="#B" n="10" break="no"/>lquid in ecclesia valeat: &amp; ad quod 
+   <lb ed="#B" n="11"/>Respondetur per conclusio 
+   <lb ed="#B" n="12"/>nes sequentes. quarum
+   Pri<lb ed="#B" n="13" break="no"/>lma est: Aqua benedicta
+   ali<lb ed="#B" n="14" break="no"/>quid valet. Probatur: quia tota 
+   <lb ed="#B" n="15"/>ecclesia aqua benedicta vtiur 
+   <lb ed="#B" n="16"/>u sed si nihil valeret / ecclesia ab 
+   <lb ed="#B" n="17"/>uteretur, quod non est dicendum.
+  </p>
+      <p xml:id="jMqv4a-d1e1110-d1e136">
+   ⁋ Secunda conclu 
+   <lb ed="#B" n="18"/>sio. aqua benedicta non confert gratiam virtute 
+   <lb ed="#B" n="19"/>operis operati. Probatur conclusio., nam ex eius
+   op<lb ed="#B" n="20" break="no"/>posito sequitur quod aqua benedicta esset
+   sacramen<lb ed="#B" n="21" break="no"/>tum: quia sacramentum est sensibile signum: vir 
+   <lb ed="#B" n="22"/>tute cuius ex opere operato confertur gratia. sed fal 
+   <lb ed="#B" n="23"/>sum est quod sit sacramentum, quod patet: quia omne 
+   <lb ed="#B" n="24"/>sacramentum est a Christo institutum: hoc /
+   demon<lb ed="#B" n="25" break="no"/>strando aquam benedictam / non est a Christo in  
+   <lb ed="#B" n="26"/>stitutum: ergo non est sacramentum. Consequen 
+   <lb ed="#B" n="27"/>tia tenet in Baroco. &amp; minor patet: quia in nullo lo 
+   <lb ed="#B" n="28"/>co iuris diuini continetur: nec ex aliquo nec aliqui 
+   <lb ed="#B" n="29"/>bus sequitur. Item aquam benedictam instituit
+   Ale<lb ed="#B" n="30" break="no"/>xander Romanus pontifex a Petro quintus. &amp; 
+   <lb ed="#B" n="31"/>quia de isto a nullo ambigitur: non eget corrobo 
+   <lb ed="#B" n="32"/>ratione.
+  </p>
+      <p xml:id="jMqv4a-d1e1110-d1e172">
+   ⁋ Tertia conclusio. virtute operis operan 
+   <lb ed="#B" n="33"/>tis confert gratiam. hoc est existens in charitate 
+   <lb ed="#B" n="34"/>sumens aquam benedictam cum intentione
+   de<lb ed="#B" n="35" break="no"/>bita habebit augmentum gratiae. Sed quia diceres 
+   <lb ed="#B" n="36"/>ita esse de verrente pauimentum coenobii: ponitur 
+   <lb ed="#B" n="37"/>quarta conclusio.
+  </p>
+      <p xml:id="jMqv4a-d1e1110-d1e185">
+   ⁋ Aqua benedicta tollit peccata 
+   <lb ed="#B" n="38"/>venialia. de consecra. dist. iii. cap. Aquam sale. &amp; 
+   <lb ed="#B" n="39"/>dist. iiii. c. Nec quemquam. Sed dices. illae auctoritates 
+   <lb ed="#B" n="40"/>sunt hominium / quibus non est credendum. hoc non 
+   <lb ed="#B" n="41"/>valet: quia in probabilibus vbi non potes contrarium 
+   <lb ed="#B" n="42"/>ostendere: probis &amp; eruditis viris credendum est. 
+   <lb ed="#B" n="43"/>ltem probatur ratione. nam probabiliter indulgentiae possunt. 
+   <lb ed="#B" n="44"/>tollere venialia si homini non placeant. quia
+   tollen<lb ed="#B" n="45" break="no"/>do poenam eis debitam venialia auferuntur. lde 
+   <lb ed="#B" n="46"/>faciunt boni motus interiores.
+  </p>
+      <p xml:id="jMqv4a-d1e1110-d1e207">
+   ⁋ Quita
+   conclu<lb ed="#B" n="47" break="no"/>sio. spiritus immundos aqua benedicta fugat: &amp;
+   ter<lb ed="#B" n="48" break="no"/>ram sterilem fertilem facit: &amp; phantasmata expellit. 
+   <lb ed="#B" n="49"/>patet per auctoritates inductas: quarum vna sufficit 
+   <lb ed="#B" n="50"/>scilicet Aquam sale. &amp; probatur ratione sic. si homo mu 
+   <lb ed="#B" n="51"/>niat se signo sanctae crucis deuote: vel pronunciet 
+   <lb ed="#B" n="52"/>hoc vocabulum Iesus, confidenter: deus non per- 
+   <!--0448.xml-->
+   <cb ed="#B" n="b"/> 
+       <!-- 208-v b -->
+       <lb ed="#B" n="53"/>mittit ipsum a spiritu vexari nisi suae saluti
+   con<lb ed="#B" n="54" break="no"/>ducat. sed in aquae benedictae confectione potri 
+   <lb ed="#B" n="55"/>guntur praeces deo / &amp; rogatur ipse quatinus haec fa 
+   <lb ed="#B" n="56"/>ciat, quando autem deus pie &amp; perseueranter rogatur / exau 
+   <lb ed="#B" n="57"/>dit. Inuocate (dicit) nomen meum super filios 
+   <lb ed="#B" n="58"/>Israel: &amp; ego benedicam eis. Numeri. vi. &amp;
+   psal<lb ed="#B" n="59" break="no"/>mographus ait. Inuocabant dominum &amp; ipse exaudi 
+   <lb ed="#B" n="60"/>ebat eos. Psal. xcviii. sed in benedictione aquae be 
+   <lb ed="#B" n="61"/>nedictae petit ecclesia daemones abiici &amp; morbos 
+   <lb ed="#B" n="62"/>pelli: vt liquet ex oratione seu collecta, Deus qui ad  
+   <lb ed="#B" n="63"/>salutem humani generis. de aqua benedicta faci 
+   <lb ed="#B" n="64"/>enda. Si ergo oratio viuis valet ad impetranda 
+   <lb ed="#B" n="65"/>spiritualia, vel temporalia pro quanto ad spiritualia 
+   <lb ed="#B" n="66"/>conducunt: a fortiore oratio totius ecclesiae rogam 
+   <lb ed="#B" n="67"/>tis: vt aqua benedicta daemones / phantasmata / &amp; 
+   <lb ed="#B" n="68"/>morbos pellat. speciales quoque missae ab ecclesia 
+   <lb ed="#B" n="69"/>institutae sunt tam pro hominum quam pro
+   bruto<lb ed="#B" n="70" break="no"/>rum morbis expellendis semper cum aquae
+   bene<lb ed="#B" n="71" break="no"/>dictae aspersione. propterea prope lectos ad phanta 
+   <lb ed="#B" n="72"/>smata pellenda ipsam religiosi homines
+   collo<lb ed="#B" n="73" break="no"/>cant. 
+  </p>
+      <p xml:id="jMqv4a-d1e1110-d1e275">
+       <lb ed="#B" n="74"/>⁋ Contra quartam conclusionem
+   ar<lb ed="#B" n="75" break="no"/>guitur. si peccata venialia aqua benedicta tollat: 
+   <lb ed="#B" n="76"/>maior aquae aspersio plura peccata tollit, quod patet vbi 
+   <lb ed="#B" n="77"/>quod in his quae culpam vel poenam diminuunt,
+   que<lb ed="#B" n="78" break="no"/>dmodum est contritio vel indulgentia. Et si ma 
+   <lb ed="#B" n="79"/>or aqua benedicta plura peccata tollat: non solum 
+   <lb ed="#B" n="80"/>caput est aqua aspergendum / sed &amp; pedes, &amp; crebro 
+   <lb ed="#B" n="81"/>aqua benedicta assumenda.
+  </p>
+      <p xml:id="jMqv4a-d1e1110-d1e295">
+   ⁋ Respondetur, non 
+   <lb ed="#B" n="82"/>sequitur nisi ponatur actus interioris intentio: quia 
+   <lb ed="#B" n="83"/>forte aqua benedicta non tollit venialia ratione 
+   <lb ed="#B" n="84"/>operis operati sine actu interiore: tamen quia ordinatur 
+   <lb ed="#B" n="85"/>ab ecclesia religiosissimo rituiam continuato:
+   spe<lb ed="#B" n="86" break="no"/>cialiter peccata diminuit. nam si virtute operis operati 
+   <lb ed="#B" n="87"/>diminueret: aqua proiecta super dormientem vel 
+   <lb ed="#B" n="88"/>inaduertentem eius peccata aboleret, quod non  
+   <lb ed="#B" n="89"/>videtur dicendum. &amp; quia maior madefactio faciei 
+   <lb ed="#B" n="90"/>&amp; partium corporis est poenalior quam parua: ipsa 
+   <lb ed="#B" n="91"/>est magis meritoria, dummodo recte &amp; debite su 
+   <lb ed="#B" n="92"/>matur. &amp; sic de actus frequentia. Si vero eam quis 
+   <lb ed="#B" n="93"/>sumat ridicule: iam non prodest ei quicquam: sicut 
+   <lb ed="#B" n="94"/>nec aliae bonae operationes. &amp; potest esse quod
+   toti<lb ed="#B" n="95" break="no"/>ens homo se aqua benedicta irroret: vt omnia 
+   <lb ed="#B" n="96"/>venialia sua aboleantur.
+  </p>
+      <p xml:id="jMqv4a-d1e1110-d1e330">
+   ⁋ Colligendo summatim 
+   <lb ed="#B" n="97"/>quae diximus: certum est aquam benedictam esse 
+   <lb ed="#B" n="98"/>in ecclesia vtilem. Secundo dico: quod licet quis etiam 
+   <lb ed="#B" n="99"/>mediocriter institutus, vt Ioannes bicleffus Oxo 
+   <lb ed="#B" n="100"/>niensis baccalaureus nesciat ad quid aqua benedi 
+   <lb ed="#B" n="101"/>cta sit vtilis: debet tamen eam vtilem iudicare: quia de 
+   <lb ed="#B" n="102"/>bet ritum ecclesiasticum tot annis a valentibus
+   pa<lb ed="#B" n="103" break="no"/>tribus approbatum iudicare vtilem. sic autem est 
+   <lb ed="#B" n="104"/>de aqua benedicta. Item haec consequentia est nul 
+   <lb ed="#B" n="105"/>a. ego nescio ad quid aqua benedicta sit vtilis: er 
+   <lb ed="#B" n="106"/>go aqua benedicta non est vtilis, quemadmodum 
+   <!--0449.xml-->
+   <pb ed="#B" n="209-r"/>
+       <cb ed="#B" n="a"/>
+       <lb ed="#B" n="1"/>de multis instrumentis artificum ego dubito ad 
+   <lb ed="#B" n="2"/>quid valeant, vel ad quae sint ordinata: &amp; tamen 
+   <lb ed="#B" n="3"/>scio quod ad aliquid valent. Simili modo de
+   praela<lb ed="#B" n="4" break="no"/>torum benedictionibus dicatur. Et quamquam bona
+   ve<lb ed="#B" n="5" break="no"/>tula cauillabatur benedictionem abbatis / minus 
+   <lb ed="#B" n="6"/>valere denario, eo quod illo auare negato benedictio 
+   <lb ed="#B" n="7"/>nem vltro concessit: sciebat ipsa vel scit prudens 
+   <lb ed="#B" n="8"/>eam aliquid valere: dummodo bona intentione 
+   <lb ed="#B" n="9"/>suscipiatur. Nam si Esau &amp; Iacob studiose
+   labo<lb ed="#B" n="10" break="no"/>rauerunt pro benedictione paterna Isaac: quare 
+   <lb ed="#B" n="11"/>has benedictiones in lege gratiae tam a patribus spi 
+   <lb ed="#B" n="12"/>ritualibus reuerenter &amp; gratiose non suscipiemus 
+   <lb ed="#B" n="13"/>tanquam a malo ex obedientia praeseruatiuas?
+   Opti<lb ed="#B" n="14" break="no"/>mus erat mos apud nostrates saltem apud rurales 
+   <lb ed="#B" n="15"/>dum ephebus eram / quolibet vespere dum ibamus 
+   <lb ed="#B" n="16"/>cubitum, extensis palmis benedictiones parentum 
+   <lb ed="#B" n="17"/>suppliciter expetere: quas syncerissime filiis
+   pa<lb ed="#B" n="18" break="no"/>rentes impartiebant: dei optimi maximique bene 
+   <lb ed="#B" n="19"/>dictionem sanctissimam addentes.
+  </p>
+      <p xml:id="jMqv4a-d1e1110-d1e403">
+   ⁋ Concludem 
+   <lb ed="#B" n="20"/>do ergo dico aquam benedictam: panem benedi 
+   <lb ed="#B" n="21"/>ctum: benedictiones in cibi assumptione / superio 
+   <lb ed="#B" n="22"/>rum benedictiones tam spiritualium quam
+   tempora<lb ed="#B" n="23" break="no"/>lium &amp; potissimum deuotorum esse petendas.
+   il<lb ed="#B" n="24" break="no"/>le enim religiosus est ritus de reuerendis
+   parenti<lb ed="#B" n="25" break="no"/>bus carnalibus. modo in lege Mosaica scribitur, 
+   <lb ed="#B" n="26"/>qui honorauerit parentes, erit longaeuus super
+   ter<lb ed="#B" n="27" break="no"/>ram. &amp; illud est in lege gratiae morale. De nuben 
+   <lb ed="#B" n="28"/>tium benedictione fortasse postea nonnihil dice 
+   <lb ed="#B" n="29"/>mus. Vlterius notum est quod benedictiones
+   vesti<lb ed="#B" n="30" break="no"/>um / virginum / altarium consecrationes: vnctio 
+   <lb ed="#B" n="31"/>nes regum, vt nunc inunguntur, non sunt
+   sacra<lb ed="#B" n="32" break="no"/>menta: sed ab hominibus adinuentae: licet
+   figu<lb ed="#B" n="33" break="no"/>ram ex lege Mosaica nonnunquam habeant. &amp; ex con 
+   <lb ed="#B" n="34"/>sequente concedendum est quod sunt mutabiles: &amp; 
+   <lb ed="#B" n="35"/>pro tempore, si homines velint, auferibiles. Sed 
+   <lb ed="#B" n="36"/>quia sunt rationabiles, pro suo cursu eas seruare 
+   <lb ed="#B" n="37"/>oportet. Etiam non est suffocanda sed fouenda de 
+   <lb ed="#B" n="38"/>uotio mulierum: finita missa adducentium
+   sacer<lb ed="#B" n="39" break="no"/>cerdotem ad sepulchrum mariti vel propinqui
+   de<lb ed="#B" n="40" break="no"/>functi: vt aqua benedicta aspersa orationes
+   ali<lb ed="#B" n="41" break="no"/>quas dicat orando pro defuncto. Et licet quo ad 
+   <lb ed="#B" n="42"/>phantasmata ab eo pellenda non conducat: potest 
+   <lb ed="#B" n="43"/>tamen aliter conducere ne daemon corpus
+   surri<lb ed="#B" n="44" break="no"/>piat: &amp; ad alia. quod sufficit. Illa nanque quae
+   reli<lb ed="#B" n="45" break="no"/>giose fieri possunt: licet nescias ob quos fines 
+   <lb ed="#B" n="46"/>admittere debes. 
+   <!--0449.xml-->
+   <cb ed="#B" n="b"/> 
+       <!-- 209-r b -->
+      </p>
+    </div>
+   </body>
+  </text>
+</TEI>

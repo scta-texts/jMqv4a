@@ -1,0 +1,817 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 3</title>
+      <author ref="#JohnMair">John Mair</author>
+      <respStmt>
+       <name>Jeffrey C. Witt</name>
+       <resp>TEI Encoder</resp>
+      </respStmt>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 3</title>
+       <date when="2020-06-09">June 27, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="B" n="cod-Bda113">Badius 1516</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+     guidelines for a diplomatic edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-06-27" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+      <pb ed="#B" n="213-r"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="jMqv4a-d1e1134"> <!-- l4d24q3 -->
+      <head xml:id="jMqv4a-d1e1134-Hd1e104">Quaestio 3</head>
+      <head xml:id="jMqv4a-d1e1134-Hd1e107" type="question-title">An Petrus et successores eius primatum habeant 
+  in terra ex institutione Christi tam in spiritualibus 
+  quam in temporalibus</head>
+      <p xml:id="jMqv4a-d1e1134-d1e110">
+       <lb ed="#B" n="68"/>⁋ Distinctionis Vigesimae quartae 
+   <lb ed="#B" n="69"/>Quaestio Tertia. 
+   <lb ed="#B" n="70"/>Ertio circa hanc
+   disti<lb ed="#B" n="71" break="no"/>ctionem quaero: an Petrus &amp;
+   suc<lb ed="#B" n="72" break="no"/>cessores eius primatum habeant 
+   <lb ed="#B" n="73"/>in terra ex institutione Christi 
+   <lb ed="#B" n="74"/>tam in spiritualibus quam in tempo 
+   <lb ed="#B" n="75"/>ralibus.
+  </p>
+      <p xml:id="jMqv4a-d1e1134-d1e130">
+   ⁋ Responoetur. licet 
+   <lb ed="#B" n="76"/>circa vtrumque membrum varie a 
+   <lb ed="#B" n="77"/>variis respondeatur: &amp; multi 
+   <lb ed="#B" n="78"/>sint dicentes quod nullus episcopus ex institutione 
+   <lb ed="#B" n="79"/>Christi habet superiorem in spiritualibus: &amp; quemadmo 
+   <lb ed="#B" n="80"/>dum quilibet rex in suo regno est supremus
+   monar<lb ed="#B" n="81" break="no"/>cha: &amp; superiorem in temporalibus non agnoscit: ita esse 
+   <lb ed="#B" n="82"/>iactant isti de quolibet episcopo in suo
+   episcopa<lb ed="#B" n="83" break="no"/>tu. Et si romanus pontifex superioritatem habeat: dicunt 
+   <lb ed="#B" n="84"/>quod illam ab hominibus acceperit: vel de facto. 
+  </p>
+      <p xml:id="jMqv4a-d1e1134-d1e153">
+       <lb ed="#B" n="85"/>⁋ Sed pona conclusiones sequentes 
+   <lb ed="#B" n="86"/>quid sentiam explicantes. Quarum prima est. Petrus 
+   <lb ed="#B" n="87"/>ex institutione Christi est institutus apostolorum 
+   <lb ed="#B" n="88"/>vertex &amp; caput / &amp; supra quemlibet alium, siue particu 
+   <lb ed="#B" n="89"/>larem ecclesiam. Impraesentiarum enim de praeminentia seu 
+   <lb ed="#B" n="90"/>superioritate inter maximum pontificem &amp; vniuersa 
+   <lb ed="#B" n="91"/>le concilium loqui non propono. probatur conclusio. loan 
+   <lb ed="#B" n="92"/>nis vltimo Christus dicit Petro. Pasce oues meas. 
+   <lb ed="#B" n="93"/>pasce agnos meos. Dicis sicut alii dicunt, non est 
+   <lb ed="#B" n="94"/>data ei per illa verba auctoritas super aliquem apo 
+   <lb ed="#B" n="95"/>stolorum: quia illa intelliguntur de pastu spirituali &amp; 
+   <lb ed="#B" n="96"/>corporali si essent in necessitate. etiam indefinite
+   pro<lb ed="#B" n="97" break="no"/>tulit ad cuius veritatem sufficit veritas vnius singu 
+   <lb ed="#B" n="98"/>laris: licet enim illa sit oratio imperatiui modi: &amp; per 
+   <lb ed="#B" n="99"/>consequens non propositio: tamen loco futuri indicati 
+   <lb ed="#B" n="100"/>ui capitur. Contra. pascere in scriptura capitur vt 
+   <lb ed="#B" n="101"/>tantum valet quantum potestatiue alere. vt Ezechi. 
+   <lb ed="#B" n="102"/>xxxiiii. Ve pastoribus Israel qui pascebant
+   semet<lb ed="#B" n="103" break="no"/>ipsos. &amp; Ioannis. x. Qui non intrat per ostium non 
+   <lb ed="#B" n="104"/>est pastor ouium. Praeterea. aeque expediens erat 
+   <lb ed="#B" n="105"/>populo Christi habere pastorem potestatiuum vt
+   pa<lb ed="#B" n="106" break="no"/>storem qui verbo vitae &amp; corporaliter pasceret.
+   er<lb ed="#B" n="107" break="no"/>go sicut vnum concedis: reliquum concedere de- 
+   <!--0458.xml-->
+   <pb ed="#B" n="213-v"/>
+       <cb ed="#B" n="a"/>
+       <lb ed="#B" n="1"/>bes: Quod dicis Christum indefinite locutum: nihil 
+   <lb ed="#B" n="2"/>valet: quemadmodum enim in concessione beneficii: vel 
+   <lb ed="#B" n="3"/>priuilegii concessio indefinite &amp; simpliciter facta in  
+   <lb ed="#B" n="4"/>telligitur generaliter. de priuileg. c. Quia circa. sic 
+   <lb ed="#B" n="5"/>commissio potestatis vel officii indefinite &amp;
+   simpli<lb ed="#B" n="6" break="no"/>citer facta debet intelligi vniuersaliter: vt scilicet 
+   <lb ed="#B" n="7"/>omnia intelligantur concessa quae non sunt prohibita, &amp; 
+   <lb ed="#B" n="8"/>de quibus est committendi ratio: de quibus non est 
+   <lb ed="#B" n="9"/>verosimile quod concedens / vnum committeret alicui &amp; 
+   <lb ed="#B" n="10"/>aliud seruaret. quia qui nihil excepit &amp; potuit exci 
+   <lb ed="#B" n="11"/>pere: totum commisisse videtur.
+  </p>
+      <p xml:id="jMqv4a-d1e1134-d1e236">
+   ⁋ Secundo arguitur ad idem. 
+   <lb ed="#B" n="12"/>Christus legissator optimus optimam politiam in 
+   <lb ed="#B" n="13"/>ecclesia instituit. sed illa est regalis. vt patet. viii. 
+   <lb ed="#B" n="14"/>Ethicorum. &amp;. iii. Politicorum ex philosopho, nec videtui 
+   <lb ed="#B" n="15"/>cui alteri a Petro hanc potestatem commisit. igitur. 
+   <lb ed="#B" n="16"/>insuper Matth. xvi. Christus dixit Petro. Tu es pe 
+   <lb ed="#B" n="17"/>trus: &amp; super hanc petram aedificabo ecclesiam meam: &amp; 
+   <lb ed="#B" n="18"/>portae inferi non praeualebunt aduersus eam: &amp; tibi da 
+   <lb ed="#B" n="19"/>bo claues regni caelorum: &amp; quodcumque ligaueris super ter 
+   <lb ed="#B" n="20"/>terram erit ligatum &amp; in caelis: &amp; quodcumque solueris super 
+   <lb ed="#B" n="21"/>terram erit solutum &amp; in caelis. Sed dicis. per pronomen 
+   <lb ed="#B" n="22"/>hanc / non demonstrauit Simonem petrum sed seipsum 
+   <lb ed="#B" n="23"/>quem Petrus confessus est: quia quesiuit Christus ex 
+   <lb ed="#B" n="24"/>Petro. Quem dicunt homines esse filium hominis? &amp; 
+   <lb ed="#B" n="25"/>paulopost respondit Petrus. tu es Christus filius 
+   <lb ed="#B" n="26"/>dei viui. Cui Christus. super hanc petram quam
+   con<lb ed="#B" n="27" break="no"/>fessus es / aedificabo ecclesiam mea. &amp; hoc patet per 
+   <lb ed="#B" n="28"/>glossam interlinearem &amp; <name xml:id="jMqv4a-d1e1134-Nd1e275" ref="#Augustine">Augustinum</name> in libro
+   retra<lb ed="#B" n="29" break="no"/>ctationum sic dicentem. Dixi in quodam loco de aposto 
+   <lb ed="#B" n="30"/>lo Petro quod in illo tanquam in petra aedificata sit
+   eccle<lb ed="#B" n="31" break="no"/>sia: sed scio me postea scripsisse: me sic
+   exposuis<lb ed="#B" n="32" break="no"/>se quia a domino dictum est. Tu es petrus &amp; super hanc 
+   <lb ed="#B" n="33"/>petram aedificabo ecclesiam meam. &amp; super hunc intellige 
+   <lb ed="#B" n="34"/>retur quem confessus est Petrus &amp;c. Bene in his
+   ver<lb ed="#B" n="35" break="no"/>bis ( dicunt) Petro promittuntur claues: sed non convin 
+   <lb ed="#B" n="36"/>citur ex ipsis quod eas sup alios habuerit apostolos. 
+   <lb ed="#B" n="37"/>quia Ioannis. xx. iudifferenter omnibus dixit. Accipi 
+   <lb ed="#B" n="38"/>te spiritum sanctum: quorum remiseritis peccata &amp;c.- 
+   <lb ed="#B" n="39"/>Hoc non valet: nam licet quis scripturam pro Petro 
+   <lb ed="#B" n="40"/>adductam per aliam scripturam sic exponere laboret: 
+   <lb ed="#B" n="41"/>hoc non sufficit. &amp; ratio est: Nam quando sunt multi
+   sen<lb ed="#B" n="42" break="no"/>sus scripturae: &amp; dubitatur in quo sensu scriptura
+   in<lb ed="#B" n="43" break="no"/>telligatur: ille sensus est indubitatus qui a viris omni 
+   <lb ed="#B" n="44"/>exceptione maioribus colligitur. sed sic est in proposito. 
+   <lb ed="#B" n="45"/>Anacletus enim apstolorum cotemporaneus. xxii. dist. c. 
+   <lb ed="#B" n="46"/>Sacrosancta romana. sic inquit. Sacrosancta roma 
+   <lb ed="#B" n="47"/>na &amp; apostolica ecclesia non ab apostolis: sed ab ipso 
+   <lb ed="#B" n="48"/>domino &amp; saluatore ntmo primatum obtinuit. ldem
+   osten<lb ed="#B" n="49" break="no"/>ditur testimonio Marcelli papae &amp; martyris. xxiiii. qui. 
+   <lb ed="#B" n="50"/>i. c. Rogamus. &amp; ita tenuerunt in tota illa aetate: &amp; 
+   <lb ed="#B" n="51"/>postea exercitatissimi &amp; fundatissimi doctores: quibus 
+   <lb ed="#B" n="52"/>contraire in hac parte extremae temeritatis est. 
+  </p>
+      <p xml:id="jMqv4a-d1e1134-d1e331">
+       <lb ed="#B" n="53"/>⁋ Sed contra hanc conclusionem arguitur. 
+   <lb ed="#B" n="54"/>Petrus non erat supra Paulum: ergo non super quemlibet 
+   <!--0458.xml-->
+   <cb ed="#B" n="b"/> 
+       <!-- 213-v b -->
+       <lb ed="#B" n="55"/>constitutus est a Christo. Antecedens probatur: quia ad  
+   <lb ed="#B" n="56"/>Galathas. ii. sic dicit Apostols. Mihi enim qui videbantur 
+   <lb ed="#B" n="57"/>esse aliquid nihil contulerunt: sed contra / cum vidissent quod 
+   <lb ed="#B" n="58"/>treditum est mihi euangelium praeputii, sicut &amp; Petro 
+   <lb ed="#B" n="59"/>circuncisionis. Qui enim operatus est Petro in aposto 
+   <lb ed="#B" n="60"/>latum circuncisionis: operatus est &amp; mihi inter gentes. 
+   <lb ed="#B" n="61"/>Ex istis formatur argumentum. si petrus fuisset institu 
+   <lb ed="#B" n="62"/>tus vniuersalis pastor ecclesiae, poterat aeque immedia 
+   <lb ed="#B" n="63"/>te suum officium in quolibet loco exercere: &amp; sic praedi 
+   <lb ed="#B" n="64"/>care gentibus.
+  </p>
+      <p xml:id="jMqv4a-d1e1134-d1e366">
+   ⁋ Respondetur. argumentum nihil aliud 
+   <lb ed="#B" n="65"/>probat nisi quod officium euangelizadi seu apostolatus non 
+   <lb ed="#B" n="66"/>accepit a Petro: sed missus fuit a deo priusquam
+   Pe<lb ed="#B" n="67" break="no"/>trum adiret. omnes enim erant Petro pares quamtu ad ordinem 
+   <lb ed="#B" n="68"/>&amp; episcopatum. Ad illud de determinato loco dicitur 
+   <lb ed="#B" n="69"/>quod in pluribus locis Petrus praedicabat ludaeis: inter 
+   <lb ed="#B" n="70"/>dum gentilibus, vt Centurioni. &amp; cum ab Antiochia 
+   <lb ed="#B" n="71"/>transiret Romam: non est verosimile quin
+   transeun<lb ed="#B" n="72" break="no"/>do seminauerit verbum dei. Et licet Paulus dicatur
+   do<lb ed="#B" n="73" break="no"/>ctor gentium quia gentium conversioni &amp; eruditioni plu 
+   <lb ed="#B" n="74"/>rimum inuigilauit: interdum tamen etiam iudaeis verbum dei 
+   <lb ed="#B" n="75"/>effudit. vt patet Actuum. vii. &amp;. xiii. Petrus tamen si vo 
+   <lb ed="#B" n="76"/>luisset, suum officium in quocumque loco poterat exerce 
+   <lb ed="#B" n="77"/>re.
+  </p>
+      <p xml:id="jMqv4a-d1e1134-d1e397">
+   ⁋ Secundo arguitur. Anacletus papa vt scribitur 
+   <lb ed="#B" n="78"/>xxi. dist. c. In nouo. dicit sic. Caeteri vaero apostoli 
+   <lb ed="#B" n="79"/>cum eodem pari consortio honorem &amp; potestatem
+   accepe<lb ed="#B" n="80" break="no"/>runt: ipsumque principem eorum esse voluerunt. Et con 
+   <lb ed="#B" n="81"/>firmatur haec auctoritas a signo. quia graeci sequuntur 
+   <lb ed="#B" n="82"/>contradictorium conclusionis nostrae: &amp; no est dicendum 
+   <lb ed="#B" n="83"/>quod tantus populus in re tam ardua erraret: popsls
+   in<lb ed="#B" n="84" break="no"/>quam qui fidem ante romanos suscepit: &amp; plerasque ec 
+   <lb ed="#B" n="85"/>clesiae bases habuit.
+  </p>
+      <p xml:id="jMqv4a-d1e1134-d1e417">
+   ⁋ Ad secundum respondet glos 
+   <lb ed="#B" n="86"/>sa quod secundario volebant Petrum esse caput ceterorum: 
+   <lb ed="#B" n="87"/>sed hoc primo a Christo habuerunt. na si Christus 
+   <lb ed="#B" n="88"/>politiam aristocraticam in spiritualibus reliquisset: non 
+   <lb ed="#B" n="89"/>potuissent apostoli eam in regalem mutare. Ad aliud 
+   <lb ed="#B" n="90"/>non est verosimile quod primi illi magni graeci
+   tenue<lb ed="#B" n="91" break="no"/>rint oppositum. de haereticis autem Bonemis &amp;
+   poste<lb ed="#B" n="92" break="no"/>rioribus graecis loqui non oportet. Hic potest fieri argu 
+   <lb ed="#B" n="93"/>mentum de Indis &amp; christianis in aliis locis
+   separa<lb ed="#B" n="94" break="no"/>tis: qui si reliqua necessaria ad fidem crederent: nescii quod 
+   <lb ed="#B" n="95"/>tomanus pontifex sit caput ecclesiae: durum est dicere 
+   <lb ed="#B" n="96"/>quod sint in statu damnationis. Oclcam in fine tertiae partis 
+   <lb ed="#B" n="97"/>dialogi probabile putat quod politia regalis ecclesiae potest 
+   <lb ed="#B" n="98"/>per vrgentissima ca duobus ex aequo communicari. licet glo. 
+   <lb ed="#B" n="99"/>in. c. Non autem. vii. qui. i. teneat oppositum: quia est vna ec 
+   <lb ed="#B" n="100"/>clesia catholica. Hoc idem tenet Armacanus lib. vii. 
+   <lb ed="#B" n="101"/>ad Armenios ca. xv. Sed ratio glossae est nulla. ecclesia 
+   <lb ed="#B" n="102"/>tnmtum non dicitur vna ab vnitate capitis ministerialis: 
+   <lb ed="#B" n="103"/>sed a Christo &amp; vnitate fidei: vt videre est post mor 
+   <lb ed="#B" n="104"/>tem papae ante creationem alterius. porro si essent duo 
+   <lb ed="#B" n="105"/>vterque posset absoluere quemlibet sibi subiectum. An 
+   <lb ed="#B" n="106"/>autem ita fieri possit ab hominibus pro vrgentissima causa 
+   <lb ed="#B" n="107"/>ius diuinum exponendo / non insisto. loquor de facto 
+   <lb ed="#B" n="108"/>nunc.
+  </p>
+      <p xml:id="jMqv4a-d1e1134-d1e470">
+   ⁋ Tertio arguitur, non est vnum caput in
+   tempora<lb ed="#B" n="109" break="no"/>libus cui reges sint subiecti omnes: ergo hoc no con- 
+   <!--0459.xml-->
+   <pb ed="#B" n="214-r"/>
+       <cb ed="#B" n="a"/>
+       <lb ed="#B" n="1"/>gruit in spiritualibus. Respondetur. consequentia est 
+   <lb ed="#B" n="2"/>nulla. Nam primo summus pontificatus est ex inst 
+   <lb ed="#B" n="3"/>tutione Christi: nulla tamen monarchia in temporalibus est 
+   <lb ed="#B" n="4"/>ex eius institutione: &amp; hoc est rationabile. nam cum mo 
+   <lb ed="#B" n="5"/>dica impensa / gladio spirituali vtitur pontifex: vt ex 
+   <lb ed="#B" n="6"/>communicatione / &amp; interdicto &amp; caeteris canonicis poe 
+   <lb ed="#B" n="7"/>nis. gladius autem impratoris debet esse magnus exer 
+   <lb ed="#B" n="8"/>citus: qui si perdatur: victus habebitur contemptui. nam
+   euen<lb ed="#B" n="9" break="no"/>tus belli est dubius: &amp; nunc hunc nunc illum consumii 
+   <lb ed="#B" n="10"/>gladius. Secundo. bona spiritualia in nullius posses 
+   <lb ed="#B" n="11"/>sione sunt: sed sunt communitatis ecclesiasticae:
+   quan<lb ed="#B" n="12" break="no"/>propter congruum est habere vnum caput pro illorum bo 
+   <lb ed="#B" n="13"/>norum administratione. bona vero laicorum sunt sin  
+   <lb ed="#B" n="14"/>gulorum: secundum quod homines iustis titulis sua bona acc 
+   <lb ed="#B" n="15"/>runt / emptione / haereditate / vel alia via. quare non est 
+   <lb ed="#B" n="16"/>opus vno capite pro illis. Insuper variarum regio 
+   <lb ed="#B" n="17"/>num diuersi sunt mores in temporalibus: ergo con 
+   <lb ed="#B" n="18"/>gruum est habere caput secundum morum exigen 
+   <lb ed="#B" n="19"/>tiam. Sed duobus regibus contendentibus, quis li 
+   <lb ed="#B" n="20"/>tem dirimet? satius ergo est habere vnum caput in  
+   <lb ed="#B" n="21"/>temporalibus. Respondeo. quis pacem inter Federicum 
+   <lb ed="#B" n="22"/>tertium, &amp; Matthiam Pannonie regem composuit, cum 
+   <lb ed="#B" n="23"/>imperatorem a Vienna sui ducatus primaria vrbe
+   <lb ed="#B" n="24" break="no"/>eiecit Matthias? In nullo enim senatu pro regnorum par 
+   <lb ed="#B" n="25"/>titione disputatur: sed finem litis de regnis partiundis 
+   <lb ed="#B" n="26"/>gladius imponere solet. loquor de facto. Dicis. quis 
+   <lb ed="#B" n="27"/>finem materiae litigiosae inter romanum pontificem 
+   <lb ed="#B" n="28"/>&amp; alium inferiorem ponet? Si dicatur acquiescendum 
+   <lb ed="#B" n="29"/>esse capiti: sic dices de impratore &amp; rege. dico non 
+   <lb ed="#B" n="30"/>esse idem. vt patet ex discrimine superius tacto. 
+  </p>
+      <p xml:id="jMqv4a-d1e1134-d1e546">
+       <lb ed="#B" n="31"/>⁋ Secunda conclusio. Episcopi
+   reli<lb ed="#B" n="32" break="no"/>qui a maximo pontifice sunt ex institutione
+   Chri<lb ed="#B" n="33" break="no"/>sti sicut maximus pontifex. probatur. nam. xxi 
+   <lb ed="#B" n="34"/>distin. c. In nouo testamento. scribitur. Caeteri vero 
+   <lb ed="#B" n="35"/>apostoli cum eodem pari consortio honorem &amp; pote 
+   <lb ed="#B" n="36"/>statem acceperunt. &amp; intelligo de sacerdotio &amp; episco 
+   <lb ed="#B" n="37"/>patu: &amp; non de iurisdictione. si enim tunc non fuissent 
+   <lb ed="#B" n="38"/>episcopi / non fuissent Petro pares in honore. Et in  
+   <lb ed="#B" n="39"/>eo. ca. Ipsis quoque decedentibus in loco eorum
+   sur<lb ed="#B" n="40" break="no"/>rexerunt episcopi. Idem patet. xxi. distin. c. i. in ver. 
+   <lb ed="#B" n="41"/>Simpliciter. vbi dicitur. Simpliciter vero maiorum &amp; 
+   <lb ed="#B" n="42"/>minorum sacerdotum discretio in nouo testamento ab 
+   <lb ed="#B" n="43"/>ipso Christo sumpsit exordium: qui. xii. apostolos 
+   <lb ed="#B" n="44"/>tanquam maiores sacerdotes. lxxii. discipulos quasi 
+   <lb ed="#B" n="45"/>minores sacerdotes instituit: Petrum vero quasi 
+   <lb ed="#B" n="46"/>summum sacerdotem elegit. &amp;c. Praeterea glossa
+   mar<lb ed="#B" n="47" break="no"/>ginalis Lucae. x. dicit. sicut in apostolis est forma 
+   <lb ed="#B" n="48"/>episcoporum: sic in. lxxii. discipulis est forma
+   pres<lb ed="#B" n="49" break="no"/>byterorum. hoc est curatorum. Et ex istis potest iteri 
+   <lb ed="#B" n="50"/>sic formari argumentum. presbyteri hoc est curati 
+   <lb ed="#B" n="51"/>sunt ex institutione Christi: ergo &amp; episcopi. Am 
+   <lb ed="#B" n="52"/>plius. de summa trinitate &amp; fid. catho. c. i. S. Vna. 
+   <lb ed="#B" n="53"/>dicitur. quod sacramentum eucharistiae nemo potest con 
+   <lb ed="#B" n="54"/>ficere nisi sacerdos qui rite fuerit ordinatus secun 
+   <!--0459.xml-->
+   <cb ed="#B" n="b"/> 
+       <!-- 214-r b -->
+       <lb ed="#B" n="55"/>dum claues ecclesiae quas ipse concessit apostolis 
+   <lb ed="#B" n="56"/>eorumque successoribus Iesus Christus. sed sacerdos 
+   <lb ed="#B" n="57"/>non ordinatur a claue sacerdotali sed solum episco 
+   <lb ed="#B" n="58"/>pali: ergo Christus claues apostolis tradidit episco 
+   <lb ed="#B" n="59"/>pales. Rursus, dato opposito, scilicet quod episcopa 
+   <lb ed="#B" n="60"/>tus &amp; curati non sunt ex institutione Christi, sed  
+   <lb ed="#B" n="61"/>ex institutione summi pontificis: ita quod Petrus sua 
+   <lb ed="#B" n="62"/>auctoritate instituit apostolos / episcopos: &amp; maxi 
+   <lb ed="#B" n="63"/>mi pontificis auctoritate instituuntur alii
+   episco<lb ed="#B" n="64" break="no"/>pi: ego romanus pontifex potest vnumquemque
+   epi<lb ed="#B" n="65" break="no"/>scopum &amp; curatum &amp; omnes destituere de potentia sua 
+   <lb ed="#B" n="66"/>absoluta / non creando nouos: quia quos vnus
+   pon<lb ed="#B" n="67" break="no"/>tifex sua auctoritate creat / non obligat suos
+   poste<lb ed="#B" n="68" break="no"/>riores siue successores continuare. nam par in paren 
+   <lb ed="#B" n="69"/>non habet auctoritatem. &amp; omnis res per quascumque 
+   <lb ed="#B" n="70"/>causas oritur: per easdem dissoluitur. de regu. iur. 
+   <lb ed="#B" n="71"/>Omnes. sed hoc concedere non reputo conveniens. igitur 
+   <lb ed="#B" n="72"/>Insuper idem habetur de consuetu. c. Quanto. ltem
+   con<lb ed="#B" n="73" break="no"/>muniter tenetur quod episcopi possunt confirmare 
+   <lb ed="#B" n="74"/>&amp; non simplices sacerdotes vllo pacto. sed non
+   vi<lb ed="#B" n="75" break="no"/>deo quod maximus pontifex possit hanc potestatem 
+   <lb ed="#B" n="76"/>episcopalem plusquam sacramenta instituere. Si dicas. 
+   <lb ed="#B" n="77"/>Petrus fuit minister creando reliquos apostolos 
+   <lb ed="#B" n="78"/>episcopos: &amp; deus hanc potestatem dedit, quod possent 
+   <lb ed="#B" n="79"/>cofirmare &amp; dare ordines: sicut sacerdos baptizat 
+   <lb ed="#B" n="80"/>&amp; deus characterem baptismalem infundit: iam habeo 
+   <lb ed="#B" n="81"/>intentum. Postquam haec scripsi ante impressionem occurrit 
+   <lb ed="#B" n="82"/>mihi alia probatio istius conclusionis. Nam primus arti 
+   <lb ed="#B" n="83"/>culus fratris Ioannis Angeli praedicatus Tornaci 
+   <lb ed="#B" n="84"/>fuit iste. Fratres praesentati episcopo &amp; admissi 
+   <lb ed="#B" n="85"/>sunt proprii sacerdotes &amp; veri curati, &amp; melius quam 
+   <lb ed="#B" n="86"/>presbyteri parochiales: quia facultatem suam habent 
+   <lb ed="#B" n="87"/>a summo pontifice: &amp; dicti presbyteri ab episcopo 
+   <lb ed="#B" n="88"/>duntaxat. Ecce examinationem facultatis nostrae a 
+   <lb ed="#B" n="89"/>xxxiiii. annis praeteritis. Quicquid sit de prima 
+   <lb ed="#B" n="90"/>parte propter aequiuocationem istius termini
+   pro<lb ed="#B" n="91" break="no"/>prii: dicit tamen facultas quod propositio in se &amp; quo 
+   <lb ed="#B" n="92"/>ad omnes reliquas partes &amp; probationem partis vl 
+   <lb ed="#B" n="93"/>timae qua dicitur (ab episcopo duntaxat) est
+   scan<lb ed="#B" n="94" break="no"/>dalosa / in fide erronea / hierarchici ordinis
+   destru<lb ed="#B" n="95" break="no"/>ctiua / &amp; pro conseruatione eiusdem ordinis
+   publi<lb ed="#B" n="96" break="no"/>ce reuocanda &amp; abiuranda. 
+  </p>
+      <p xml:id="jMqv4a-d1e1134-d1e698">
+       <lb ed="#B" n="97"/>⁋ Tertia conclusio. maximus ponti 
+   <lb ed="#B" n="98"/>fex non habet dominium temporale super reges.
+   proba<lb ed="#B" n="99" break="no"/>tur. nam dato opposito sequitur quod reges sunt eius 
+   <lb ed="#B" n="100"/>vasalli: &amp; eos ad nutum a regno trudere potest de 
+   <lb ed="#B" n="101"/>facto: licet peccet sine causa eos expellendo:
+   quen<lb ed="#B" n="102" break="no"/>admodum fortassis contingit de multis eius offi 
+   <lb ed="#B" n="103"/>cialibus &amp; subiectis in temporalibus. sed hoc non est 
+   <lb ed="#B" n="104"/>concedendum. Secundo arguitur ad idem. nullum ti 
+   <lb ed="#B" n="105"/>tulum habet super regnum Francorum, vel
+   Hispania<lb ed="#B" n="106" break="no"/>rum in temporalibus: ergo non sunt ei subiecta in tem 
+   <lb ed="#B" n="107"/>poralibus. antecedens patet. Nam quaero quem titulunt 
+   <lb ed="#B" n="108"/>Si dicas. succedit Christo, &amp; Christus est dominus 
+   <!--0460.xml-->
+   <pb ed="#B" n="214-v"/>
+       <cb ed="#B" n="a"/>
+       <lb ed="#B" n="1"/>omnium. Contra. probare non potes quod Christus
+   se<lb ed="#B" n="2" break="no"/>cundum humanitatem sit dominus omnium: cum dixerit Pilato 
+   <lb ed="#B" n="3"/>Regnum meum non est de hoc mundo. &amp; illo dato consi 
+   <lb ed="#B" n="4"/>quentia est inualida: &amp; impossibile est eam probare. 
+   <lb ed="#B" n="5"/>crebro enim vicarius non est tantae auctoritatis quantae 
+   <lb ed="#B" n="6"/>est superior cuius est vicarius. nam Christus instituit 
+   <lb ed="#B" n="7"/>sacramenta: dedit legemn gratiae: &amp; potest reuocare omne 
+   <lb ed="#B" n="8"/>ius diuinum positiuum: hoc tamen non potest pontifex 
+   <lb ed="#B" n="9"/>Tertio arguitur. dato opposito sequitur haec conclusio 
+   <lb ed="#B" n="10"/>Constantinus nihil dedit Syluestro: sed solum rest 
+   <lb ed="#B" n="11"/>tuit ei debitum. cuius contrarium dicitur. xcvi. distin. c. 
+   <lb ed="#B" n="12"/>Constantinus. &amp;. xii. q. i. c. Futuram. Praeterea ipsi pon 
+   <lb ed="#B" n="13"/>tifices fatentur ad se non spectare iurisdictionem tempo 
+   <lb ed="#B" n="14"/>ralem, nec velle iuri regum detrahere: vt Innocentius 
+   <lb ed="#B" n="15"/>Tertius. in. c. Nouit. de iudiciis. &amp; Alexander
+   Ter<lb ed="#B" n="16" break="no"/>tius. in. c. Causam. qui filii sint legitimi. &amp; in illo
+   fa<lb ed="#B" n="17" break="no"/>mato. c. Per venerabilem. eo. ti. Innocentius Tertius 
+   <lb ed="#B" n="18"/>dicit quod rex Francorum superiorem in temporalibus
+   mi<lb ed="#B" n="19" break="no"/>nime recognoscit, propterea cum filio tanquam cum inferio 
+   <lb ed="#B" n="20"/>re dispensare poterat. Sed dicis cum glossa, non
+   reco<lb ed="#B" n="21" break="no"/>gnoscit de facto: debet tamen de iure. hanc glo probo 
+   <lb ed="#B" n="22"/>esse Aurelianensem, &amp; textus corruptiuam. quia si sic: 
+   <lb ed="#B" n="23"/>romanus pontifex non sufficienter respondisset illi nobi 
+   <lb ed="#B" n="24"/>li de Monte Pessulamo petenti dispensationem pro sue 
+   <lb ed="#B" n="25"/>spurio: quo modo rex cum suo illegitimo filio dispensa 
+   <lb ed="#B" n="26"/>ret. Nam dixit romanus pontifex. rex Francorum est suf 
+   <lb ed="#B" n="27"/>mus in suo regno in temporalibus. si loquutus fuisset de 
+   <lb ed="#B" n="28"/>facto, responsio fuisset nulla. poterant enim sic ille nobili 
+   <lb ed="#B" n="29"/>respondere. ego non cognosco vel non cognoscam
+   amo<lb ed="#B" n="30" break="no"/>do superiorem de facto. Quito arguitur. oppositum
+   asse<lb ed="#B" n="31" break="no"/>rens / &amp; maximum pontificem &amp; reges offendit &amp; eis
+   no<lb ed="#B" n="32" break="no"/>cumentum praestat: ergo sapiens non debet illud asse 
+   <lb ed="#B" n="33"/>rere. quod non prosit pontificibus manifestum est: quia facit 
+   <lb ed="#B" n="34"/>eos quitum in se est sollicitos, vt illud Mathematicum 
+   <lb ed="#B" n="35"/>imperium in temporalibus manuteneant, quia non patiuntur di 
+   <lb ed="#B" n="36"/>minutionem in temporalibus ad se spectantibus vere vel ab 
+   <lb ed="#B" n="37"/>parenter: &amp; sic ministratur eis materia rapiendi alieni 
+   <lb ed="#B" n="38"/>imperii: quod nunquam ad finem deducere poterunt: vt le 
+   <lb ed="#B" n="39"/>gimus de Bonifacio octauo contra Philippum
+   Pul<lb ed="#B" n="40" break="no"/>chrum &amp; aliis variis. Similiter est nocumentum
+   regi<lb ed="#B" n="41" break="no"/>bus in temporalibus pro suis regnis defendendis: &amp; 
+   <lb ed="#B" n="42"/>in spiritualibus: quia multa mala tempore belli commit 
+   <lb ed="#B" n="43"/>tuntur. propterea <name xml:id="jMqv4a-d1e1134-Nd1e825" ref="#JeanGerson">Ioannes Gerson</name> asserentes talia 
+   <lb ed="#B" n="44"/>blandientes appellat. Sexto arguitur. multi
+   deuo<lb ed="#B" n="45" break="no"/>ti reges a pontificibus maximis canonizati nunt 
+   <lb ed="#B" n="46"/>romanos pontifices supra se in temporalibus admi 
+   <lb ed="#B" n="47"/>serunt: &amp; in hoc mortui sunt: ergo signum est o 
+   <lb ed="#B" n="48"/>romani pontifices non habent dominium omnium in tem 
+   <lb ed="#B" n="49"/>poralibus. Septimo arguitur. papa non est dominus 
+   <lb ed="#B" n="50"/>omnium bonorum ecclesiae: ergo non est dominus omnium 
+   <lb ed="#B" n="51"/>bonorum temporalium. antecedens patebit paulo
+   infe<lb ed="#B" n="52" break="no"/>rius in hac distinctione. &amp; consequentia est nota. 
+  </p>
+      <p xml:id="jMqv4a-d1e1134-d1e849">
+       <lb ed="#B" n="53"/>⁋ Contra secun dam conclusionem
+   ar<lb ed="#B" n="54" break="no"/>guitur. probando quod solus Petrus est institutus po 
+   <!--0460.xml-->
+   <cb ed="#B" n="b"/> 
+       <!-- 214-v b -->
+       <lb ed="#B" n="55"/>tifex a Christo: &amp; omnes alii instituti pontifices a 
+   <lb ed="#B" n="56"/>Petro: argumentis aduersariorum scilicet Petri Palu 
+   <lb ed="#B" n="57"/>dani in tractatu de potestate ecclesiae: &amp; Ioannis de 
+   <lb ed="#B" n="58"/>turre cremata cardinalis sancti Sixti, quibus tenent 
+   <lb ed="#B" n="59"/>oppositum. Primo arguitur per. c. Porro. lxvi. distin 
+   <lb ed="#B" n="60"/>vbi dicitur. Porro hierosolymitanus primus archie 
+   <lb ed="#B" n="61"/>piscopus beatus lacobus, qui iustus dicebatur: 
+   <lb ed="#B" n="62"/>&amp; secudum carnem frater: domini nuncupatus est 
+   <lb ed="#B" n="63"/>a Petro, Iacobo, &amp; loanne apostolis est ordinatus. 
+   <lb ed="#B" n="64"/>ergo <name xml:id="jMqv4a-d1e1134-Nd1e883">Iacobus alphei</name> non est ordinatus episcopus 
+   <lb ed="#B" n="65"/>a Christo immediate.
+  </p>
+      <p xml:id="jMqv4a-d1e1134-d1e889">
+   ⁋ Ad hoc argumentum respondet 
+   <lb ed="#B" n="66"/>glossa multifariam: cuius aliquamd expositiones sufficiunt. 
+   <lb ed="#B" n="67"/>vna quod non ordinarunt eum episcopum sed archieprsum: &amp; 
+   <lb ed="#B" n="68"/>sic ordinauerunt eum in administrationem alicuius cer 
+   <lb ed="#B" n="69"/>ti loci. prius enim erat episcopus sine titulo. Sed 
+   <lb ed="#B" n="70"/>contra hoc replicant isti. si haec non erat vera ordina 
+   <lb ed="#B" n="71"/>tio episcopi facta: non conuenienter susceperunt ex 
+   <lb ed="#B" n="72"/>ea formam ordinationis episcoporum in ecclesia:
+   con<lb ed="#B" n="73" break="no"/>tra Anacletum in dicto. c. In nouo. distin. xxi. Re 
+   <lb ed="#B" n="74"/>sponsio. quaeritur ab aliis quis ordinauerit Petrum: 
+   <lb ed="#B" n="75"/>&amp; non dabunt tres. dico ergo esse constitutionem hu 
+   <lb ed="#B" n="76"/>manam quod episcopus ordinetur a tribus. Paulus 
+   <lb ed="#B" n="77"/>enim non quaesiuit duos pro ordinatione Titi, &amp; 
+   <lb ed="#B" n="78"/>Timothei. Nam primae ad Timotheum. iiii. dicit. 
+   <lb ed="#B" n="79"/>Noli negligere gratiam, quae in te est, quae est tibi data 
+   <lb ed="#B" n="80"/>per prophetiam cum impositione manuum
+   pres<lb ed="#B" n="81" break="no"/>byteri. glossa autem marginalis dicens (presbyters 
+   <lb ed="#B" n="82"/>pro presbyterorum) est voluntatia magis literae repu 
+   <lb ed="#B" n="83"/>gnans quam eam explicans. Rursus romanus
+   ponti<lb ed="#B" n="84" break="no"/>fex si ve lit potest solus episcopum aliquem ordina 
+   <lb ed="#B" n="85"/>re sine duorum ope. vt <name xml:id="jMqv4a-d1e1134-Nd1e934">Hugo</name>, &amp; multi alii
+   con<lb ed="#B" n="86" break="no"/>cedunt. Praeterea Rusticus, &amp; Eleutherius qui cum 
+   <lb ed="#B" n="87"/>beato Dionysio ad Gallias venerunt, non erant 
+   <lb ed="#B" n="88"/>episcopi: sed Galliae episcopos solus <name xml:id="jMqv4a-d1e1134-Nd1e944">Dionysius</name> 
+       <lb ed="#B" n="89"/>ordinauit. Ecclesia tamen vtitur nunc tribus
+   epi<lb ed="#B" n="90" break="no"/>scopis in pontificum creatione ad imitationem 
+   <lb ed="#B" n="91"/>Petri, Ioannis, &amp; Iacobi maioris, qui Iacobum 
+   <lb ed="#B" n="92"/>Alphei creauerunt. vt dicitur in. c. Porro. Item in  
+   <lb ed="#B" n="93"/>capi. Archiepiscopus: eiusdem distinctionis,
+   ha<lb ed="#B" n="94" break="no"/>betur quod archiepiscopus ab omnibus suae prouin 
+   <lb ed="#B" n="95"/>ciae episcopis ordinetur. &amp; si aliter praesumptum 
+   <lb ed="#B" n="96"/>fuerit: viribus carere non dubium est: quia irrita erit 
+   <lb ed="#B" n="97"/>ordinatio. sed istud non requiritur de necessitate: 
+   <lb ed="#B" n="98"/>ergo nec aliud ei adiunctum.
+  </p>
+      <p xml:id="jMqv4a-d1e1134-d1e969">
+   ⁋ Secundo
+   argui<lb ed="#B" n="99" break="no"/>tur. in ca. In nouo. dicitur quod primo Petro in eccle 
+   <lb ed="#B" n="100"/>sia pontificatus datus est. Respondetur. hoc non po 
+   <lb ed="#B" n="101"/>test adiuuare aduersarios quia immediate ante illa 
+   <lb ed="#B" n="102"/>verba dicitur. a Petro sacerdotalis exit ordo. &amp;
+   ta<lb ed="#B" n="103" break="no"/>men isti alii concedunt omnes apostolos esse factos 
+   <lb ed="#B" n="104"/>sacerdotes a Christo. pro talibus ergo omnibus dica 
+   <lb ed="#B" n="105"/>tur quod Petrus erat primo / dignitate episcopus &amp;
+   sa<lb ed="#B" n="106" break="no"/>cerdos quia generalis pastor ecclesiae. est etiam
+   verosi<lb ed="#B" n="107" break="no"/>mile quod prius Christus incepit a petro, vt in lotione 
+   <lb ed="#B" n="108"/>pedum, quod convincitur ex his verbis. Non lauabis mi 
+   <lb ed="#B" n="109"/>hi pedes in aeternum. nam si ab aliquo alio incepisset: 
+   <!--0461.xml-->
+   <pb ed="#B" n="215-r"/>
+       <cb ed="#B" n="a"/>
+       <lb ed="#B" n="1"/>verosimile est quod ille sicut Petrus recusasset: &amp; pai 
+   <lb ed="#B" n="2"/>sim inter apostolos ab euangelistis primus
+   nume<lb ed="#B" n="3" break="no"/>ratur. Sed Christus dando ei ordines &amp;
+   episcopa<lb ed="#B" n="4" break="no"/>tum, etiam alios ordinauit.
+  </p>
+      <p xml:id="jMqv4a-d1e1134-d1e1011">
+   ⁋ Tertio arguitur. nihil est 
+   <lb ed="#B" n="5"/>asserendum de diuinis nisi quod ex diuinarum
+   scriptu<lb ed="#B" n="6" break="no"/>rarum testimonio vel ratione probari potest. sed
+   apo<lb ed="#B" n="7" break="no"/>stolos alios a Petro fuisse ordinatos a Christo nec 
+   <lb ed="#B" n="8"/>auctoritate nec ratione convinci potest. Respondeo. mi 
+   <lb ed="#B" n="9"/>nor non est sufficienter probata. nam sufficit ex
+   maio<lb ed="#B" n="10" break="no"/>tibus nostris habere fundamentum. Porro Anacletum 
+   <lb ed="#B" n="11"/>apostolorum vicinum vel contemporaneum introducimus 
+   <lb ed="#B" n="12"/>ad hoc conuincendum. c. In nouo. &amp; refellitur argu 
+   <lb ed="#B" n="13"/>mentum quaerendo ab aduersariis. vbi est factus Pe 
+   <lb ed="#B" n="14"/>trus episcopus: non Matthaei. xvi quando dixit Christus 
+   <lb ed="#B" n="15"/>Quodcuque ligaueris &amp;c. quia nondum erat sacerdos. 
+   <lb ed="#B" n="16"/>&amp; da vnum locum: idem dicam de aliis apostolis. per 
+   <lb ed="#B" n="17"/>ista autem verba Ioannis vltimo. Pasce oues meas 
+   <lb ed="#B" n="18"/>&amp;c. ordinatus est vicarius dei generalis. Si dicas. 
+   <lb ed="#B" n="19"/>constat quod Petrus est factus episcopus licet
+   euan<lb ed="#B" n="20" break="no"/>gelistae non allegent determinatum locum. hoc eadem 
+   <lb ed="#B" n="21"/>facilitate dicam de aliis. Sed pro omnibus dicitur quod pri 
+   <lb ed="#B" n="22"/>mo erant apostoli: &amp; postea sacerdotes ordinati 
+   <lb ed="#B" n="23"/>in coena: quia ante coenam nondum corpus Christi 
+   <lb ed="#B" n="24"/>consecratu erat sub speciebus panis &amp; vini: &amp; in  
+   <lb ed="#B" n="25"/>illa coena fecit eos sacerdotes cum dixit, Hoc facite 
+   <lb ed="#B" n="26"/>in meam commemorationem. Lucae. xxii. nam satis
+   eran<lb ed="#B" n="27" break="no"/>ab eo examinati sacerdotio digni. &amp; est verosimi 
+   <lb ed="#B" n="28"/>le quod omnes ordines eis contulerit: videlicet &amp; alios
+   sa<lb ed="#B" n="29" break="no"/>cros, &amp; minores. etiam dedit eis in coena potestatem 
+   <lb ed="#B" n="30"/>super corpus suum verum: &amp; vt aliquibus placet etiam super 
+   <lb ed="#B" n="31"/>corpus Christi mysticum in foro interiori: quia si non de 
+   <lb ed="#B" n="32"/>disset eis potestatem super corpus Christi mysticum in 
+   <lb ed="#B" n="33"/>coena: non fuissent completi sacerdotes, quod reputa 
+   <lb ed="#B" n="34"/>tur inconveniens. siue autem per eadem verba dedii 
+   <lb ed="#B" n="35"/>eis potestatem super vtrumque: siue per alia, non refert, quia 
+   <lb ed="#B" n="36"/>vtrumque facere poterat. secus est de episcopis
+   no<lb ed="#B" n="37" break="no"/>stris potentiam delegatam &amp; subordinatam habentibus. 
+   <lb ed="#B" n="38"/>oppositum tamen est communius super corpus Christi 
+   <lb ed="#B" n="39"/>mysticum: &amp; credo illud esse rationabilius. Post
+   re<lb ed="#B" n="40" break="no"/>surrectionem vero ordinauit eos episcopos omes 
+   <lb ed="#B" n="41"/>Ioannis. xx per illa verba. Sicut misit me pater &amp; 
+   <lb ed="#B" n="42"/>ego mitto vos. &amp; cum dixisset: insufflauit &amp; dixit 
+   <lb ed="#B" n="43"/>eis. Accipite spiritum sanctum. quorum remiseritis per 
+   <lb ed="#B" n="44"/>cata remittuntur eis: &amp; quorum retinueritis / retenta 
+   <lb ed="#B" n="45"/>sunt, nec obstat quod post immediate subiungitur 
+   <lb ed="#B" n="46"/>Thomas non erat cum illis: quia Christus poterat eum 
+   <lb ed="#B" n="47"/>ordinare episcopum absentem, quemadmodum vt scribi 
+   <lb ed="#B" n="48"/>tur Numeri. xi. super Heldad, &amp; Medad requeuit spi 
+   <lb ed="#B" n="49"/>ritus absentes. etiam deus est vbique. Et quod istud sit 
+   <lb ed="#B" n="50"/>rationabile ostendo. nam in coena fecit eos sacerdo 
+   <lb ed="#B" n="51"/>tes: ergo habebant potestatem super corpus Christi ve 
+   <lb ed="#B" n="52"/>rum &amp; secundum aliquos super corpus Christi
+   mysti<lb ed="#B" n="53" break="no"/>cum. ergo per illa verba loan. xx. dedit eis aliam
+   po<lb ed="#B" n="54" break="no"/>testatem constituendi eos magnos sacerdotes. i 
+   <lb ed="#B" n="55"/>episcopos. Nec obstat quod hoc dicatur sacerdotibus. 
+   <!--0461.xml-->
+   <cb ed="#B" n="b"/> 
+       <!-- 215-r b -->
+       <lb ed="#B" n="56"/>quia idipsum dicitur in creatione episcoporum. Etiam 
+   <lb ed="#B" n="57"/>in aliis ordinibus non habes forma adaequatam qua 
+   <lb ed="#B" n="58"/>vsus est Christus quando ordines contulit. quare 
+   <lb ed="#B" n="59"/>arguere de ipso vt de episcopis nostris / est debile 
+   <lb ed="#B" n="60"/>argumentum. In super tu ipse da formam qua vsus est 
+   <lb ed="#B" n="61"/>Christus / creando Petrum episcopum.
+  </p>
+      <p xml:id="jMqv4a-d1e1134-d1e1143">
+   ⁋ Quarto
+   ar<lb ed="#B" n="62" break="no"/>guitur. Barnabbas &amp; Paulus non sunt creati
+   episco<lb ed="#B" n="63" break="no"/>pi a Christo: ergo nec alii. antecedens patet. quia 
+   <lb ed="#B" n="64"/>Actuum. xiii. dicitur. Tunc ieiunantes, &amp; orantes, impoi est 
+   <lb ed="#B" n="65"/>tesque eis manus dimiserunt illos. ergo illic facti erant 
+   <lb ed="#B" n="66"/>episcopi. Respondetur. consequentia est nulla: quia 
+   <lb ed="#B" n="67"/>non erant de sacro apostolorum numero
+   duodena<lb ed="#B" n="68" break="no"/>rio: sed apostoli separatim. Si dicas. ludas fuit episco 
+   <lb ed="#B" n="69"/>pus ante mortem. Nam psalmo. cviii. &amp; Actuum pri 
+   <lb ed="#B" n="70"/>mo dicitur. Et episcopatu eius accipiat alter. &amp; tamen 
+   <lb ed="#B" n="71"/>ipse non erat ordinatus post vltimam coenam. ergo apo 
+   <lb ed="#B" n="72"/>stoli erant creati episcopi ante resurrectione.
+   Re<lb ed="#B" n="73" break="no"/>spondetur. hoc non iuuat aduersarios. ludas enim 
+   <lb ed="#B" n="74"/>nunquam fuit episcopus. Ad verbum autem allegatum 
+   <lb ed="#B" n="75"/>dicitur quod per episcopatum apostolatus
+   intelligi<lb ed="#B" n="76" break="no"/>tur. Tenedo etiam viam communem non fuit complete 
+   <lb ed="#B" n="77"/>sacerdos: quia super corpus Christi mysticu nul 
+   <lb ed="#B" n="78"/>lam accepit potestatem. 
+  </p>
+      <p xml:id="jMqv4a-d1e1134-d1e1182">
+       <lb ed="#B" n="79"/>⁋ Contra tertiam conclusionem
+   ar<lb ed="#B" n="80" break="no"/>guitur sic. Pontifex comparatur soli. de Maio. &amp; obe. 
+   <lb ed="#B" n="81"/>Solitae. &amp; imperator lunae. modo luna lumen capit 
+   <lb ed="#B" n="82"/>a sole. igitur.
+  </p>
+      <p xml:id="jMqv4a-d1e1134-d1e1193">
+   ⁋ Secundo arguitur. Tacharias pa 
+   <lb ed="#B" n="83"/>pa deposuit regem Francorum, &amp; instituit Pipinum pa 
+   <lb ed="#B" n="84"/>trem Caroli magni. vt habetur. xv. q. vi. c. Alius. 
+   <lb ed="#B" n="85"/>vbi Gelasius papa Anastasio imperatori scribit. 
+   <lb ed="#B" n="86"/>Alius item Roma. ponti. Aacharias scilicet, regen 
+   <lb ed="#B" n="87"/>Francorum non tam pro suis iniquitatibus quam pro eo qui 
+   <lb ed="#B" n="88"/>tantae potestati erat inutilis, a regno deposuit: &amp; 
+   <lb ed="#B" n="89"/>Pipinum Caroli imperatoris patrem in eius locum 
+   <lb ed="#B" n="90"/>substituit: omnesque francigenas a iuramento fide, 
+   <lb ed="#B" n="91"/>litatis absoluit, quod etiam ex auctoritate frequenti 
+   <lb ed="#B" n="92"/>agit sancta ecclesia, cum milites absoluit a vincule 
+   <lb ed="#B" n="93"/>iuramenti.
+  </p>
+      <p xml:id="jMqv4a-d1e1134-d1e1219">
+   ⁋ Ad primum dicitur quod ex mystica theo 
+   <lb ed="#B" n="94"/>logia debile capitur argumentu. vt dicit Augusti 
+   <lb ed="#B" n="95"/>nus ad Vincentium Donatistam, &amp; Dionysius in
+   epi<lb ed="#B" n="96" break="no"/>stola ad Titum, dicens quod symbolica theologia non 
+   <lb ed="#B" n="97"/>est argumentatiua. Item vulgo dicimus. argumen 
+   <lb ed="#B" n="98"/>tum a simili claudicat vno pede. sed sufficit aliqualis 
+   <lb ed="#B" n="99"/>similitudo. nam sicut sol lumen suum. lunae commuicat:  
+   <lb ed="#B" n="100"/>iquod patet ex cornibus eius oppositis soli ipsi in quamdris. 
+   <lb ed="#B" n="101"/>&amp; plenilunio in oppositione) sic fidem &amp;
+   illustratio<lb ed="#B" n="102" break="no"/>nem in ambiguis fidei imperator a maximo pontifice 
+   <lb ed="#B" n="103"/>accipit. &amp; hoc sufficit quo ad aliqualem similitudi 
+   <lb ed="#B" n="104"/>nem. Et reflectitur argumentum in arguentes. luna
+   ali<lb ed="#B" n="105" break="no"/>quod lumen ex se habet: vt videmus in deliquio
+   lu<lb ed="#B" n="106" break="no"/>nae cum sol est in capite draconis: &amp; luna in cauda 
+   <lb ed="#B" n="107"/>vel contra. &amp; dato quod luna nihil luminis habeat nisi 
+   <lb ed="#B" n="108"/>a sole: tamen influentiam aliam habet super humida: 
+   <lb ed="#B" n="109"/>cum medullae ossium sint in cremento lunae maiores. 
+   <!--0462.xml-->
+   <pb ed="#B" n="215-v"/>
+       <cb ed="#B" n="a"/>
+       <lb ed="#B" n="1"/>eriti etiam hortorum cultores in inserendis arboribus 
+   <lb ed="#B" n="2"/>hoc nouerunt. Idem patet de fluxu &amp; refluxu
+   ma<lb ed="#B" n="3" break="no"/>ris. &amp; hoc per solam suam influentiam occultam ha 
+   <lb ed="#B" n="4"/>bet. immo est mirabile dictu: quod cum est ex altera 
+   <lb ed="#B" n="5"/>parte terrae, faciat mare fiuere &amp; refluere in parte op 
+   <lb ed="#B" n="6"/>posita, nec ab hac influentia impeditur a tota sphae 
+   <lb ed="#B" n="7"/>ra terrae: &amp; sol forte influentiam talem ob sphaera
+   ter<lb ed="#B" n="8" break="no"/>rae non habet. Sic dicitur in proposito. quod reges non ha 
+   <lb ed="#B" n="9"/>bent suas potestates immediate a romano
+   ponti<lb ed="#B" n="10" break="no"/>fice: nec influentiam ab eo vllam in temporalibus 
+   <lb ed="#B" n="11"/>suscipiunt: sed consensu populi / successione / emptio 
+   <lb ed="#B" n="12"/>ne / donatione / vel alio titulo habent regna.
+   Pote<lb ed="#B" n="13" break="no"/>stas enim terrena non sic dependet a potestate spiritua 
+   <lb ed="#B" n="14"/>i maximi pontificis vt centurio a principe mili 
+   <lb ed="#B" n="15"/>tiae: sed sunt duae potestates non subordinatae: quarum 
+   <lb ed="#B" n="16"/>neutra dependet ab altera. nam regnum possidens 
+   <lb ed="#B" n="17"/>non est vasallus Ro. pon, nec imperator illo modo 
+   <lb ed="#B" n="18"/>est ei subiectus saltem quo ad terras quas non
+   ha<lb ed="#B" n="19" break="no"/>bet ab ecclesia, non enim loquor de terris quas in Ita 
+   <lb ed="#B" n="20"/>lia habet: quas tenet vel tenere debet ( vti referunt) 
+   <lb ed="#B" n="21"/>vt ecclesiae obsequatur.
+  </p>
+      <p xml:id="jMqv4a-d1e1134-d1e1308">
+   ⁋ Sed contra hoc arguitur. 
+   <lb ed="#B" n="22"/>ergo totus mundus monstrosus erit: cum non
+   ha<lb ed="#B" n="23" break="no"/>beat vnum caput. Item quomodo aliter maximus 
+   <lb ed="#B" n="24"/>pontifex erit caput ecclesiae? Respondetur. mundus 
+   <lb ed="#B" n="25"/>multas aequiuocationes habet. capiendo autem mun 
+   <lb ed="#B" n="26"/>dum pro vniuerso, deus est caput eius. &amp; mortuo 
+   <lb ed="#B" n="27"/>pontifice / manet caput sicut &amp; corpus. Secundo 
+   <lb ed="#B" n="28"/>dico quod romanus pontifex est caput ecclesiae,
+   im<lb ed="#B" n="29" break="no"/>mo totius vniuersi vel esse debet. per romanum au 
+   <lb ed="#B" n="30"/>tem pontificem semper maximum pontificem intelli 
+   <lb ed="#B" n="31"/>go. Et sicut anima corpori praestat: licet aliquid possit 
+   <lb ed="#B" n="32"/>corpus quod non potest anima, tamen anima dicitur
+   simpli<lb ed="#B" n="33" break="no"/>citer perfectior. sicut facile est dare duo indiuidua  
+   <lb ed="#B" n="34"/>se habentia vt excedens &amp; excessum: &amp; tamen quia 
+   <lb ed="#B" n="35"/>vnum habet conditiones perfectiores: simpliciter 
+   <lb ed="#B" n="36"/>dicitur alio perfectius. Exemplum. quantitas conti 
+   <lb ed="#B" n="37"/>nua immediatius inhaeret substantiae quam qualitas: &amp; 
+   <lb ed="#B" n="38"/>sic quandam perfectionem supra qualitatem habet. sed 
+   <lb ed="#B" n="39"/>quia aliquas proprietates multo nobiliores habet 
+   <lb ed="#B" n="40"/>qualitas: quia agit: quod &amp; substantiis nobilissimis 
+   <lb ed="#B" n="41"/>conuenit: simpliciter dicitur esse perfectior. simili 
+   <lb ed="#B" n="42"/>liter peccatum Euae in comestione pomi vetiti habe 
+   <lb ed="#B" n="43"/>bat circumstantiam aggrauantem: quia instigauit virum: &amp; 
+   <lb ed="#B" n="44"/>plus voluit: sed quia plus rationis habebat protoparens 
+   <lb ed="#B" n="45"/>Adam, datur alia circumstantia peccatum Adae
+   aggra<lb ed="#B" n="46" break="no"/>uans: quo non obstante vnum peccatum dicitur esse 
+   <lb ed="#B" n="47"/>maius alio simpliciter. Simpliciter dico quod sine ad 
+   <lb ed="#B" n="48"/>dito dico. primo priorum. Sic rex potest dispensare 
+   <lb ed="#B" n="49"/>in temporalibus cum illegitime natis vt in haereditate 
+   <lb ed="#B" n="50"/>succedant: &amp; non pontifex: vt ipsimet pontifices 
+   <lb ed="#B" n="51"/>ingenue fatentur: &amp; eorum auctoritates sunt
+   ma<lb ed="#B" n="52" break="no"/>gis contra eos quam pro eis. Nec valet dicere quod hoc di 
+   <lb ed="#B" n="53"/>cant ob humilitatem. quia non deberent illud facere: 
+   <lb ed="#B" n="54"/>vt patet de veracitate quarto Ethicorum. &amp; eius
+   extre<lb ed="#B" n="55" break="no"/>mis. Secundo, non est verosimile quod vellent id fa- 
+   <!--0462.xml-->
+   <cb ed="#B" n="b"/> 
+       <!-- 215-v b -->
+       <lb ed="#B" n="56"/>cere in suam iacturam temporalem. Tertio. quicquod 
+   <lb ed="#B" n="57"/>ipsi dicant vel posteriores: restabit probare quo 
+   <lb ed="#B" n="58"/>iure spectet ad eos aliorum regnum.
+  </p>
+      <p xml:id="jMqv4a-d1e1134-d1e1398">
+   ⁋ Ad
+   secun<lb ed="#B" n="59" break="no"/>dum respondet glos. quod non oportet vti illo
+   voca<lb ed="#B" n="60" break="no"/>pulo (deposuit) in significatione qua capitur
+   pri<lb ed="#B" n="61" break="no"/>ma fronte: sed sic exponit, deponentibus
+   consen<lb ed="#B" n="62" break="no"/>sit. &amp; hoc cognoscitur ex Francorum annalibus. 
+   <lb ed="#B" n="63"/>Nam cum Hildericus totus deses &amp; inutilis regna 
+   <lb ed="#B" n="64"/>ret apud Gallos: &amp; Pipinus habenas reipublicae 
+   <lb ed="#B" n="65"/>strenue moderaretur: optimates Franciae miserunt 
+   <lb ed="#B" n="66"/>legationem ad pontificem maximum: quia vniuer 
+   <lb ed="#B" n="67"/>sitas Parisiensis nondum florebat: sciscitantes ab 
+   <lb ed="#B" n="68"/>eo an ille deberet regnare qui ocio torpebat: an ille 
+   <lb ed="#B" n="69"/>qui aestum diei portabat. quibus cum
+   respondis<lb ed="#B" n="70" break="no"/>et pontifex quod posterior regnare deberet:
+   primo<lb ed="#B" n="71" break="no"/>res regni Pipinum Regem crearunt. &amp; sic Tacha 
+   <lb ed="#B" n="72"/>rias deposuit: hoc est, erat aliquam causa motiua
+   qua<lb ed="#B" n="73" break="no"/>re regni proceres regem deposuerunt. sicut
+   appli<lb ed="#B" n="74" break="no"/>cans actiua passiuis dicitur producere ignem.
+   In<lb ed="#B" n="75" break="no"/>super ex talibus factis singularibus quae ex deuo 
+   <lb ed="#B" n="76"/>tione ad ecclesiam &amp; non debito iuris fiunt: non est 
+   <lb ed="#B" n="77"/>trahendum aliquid in consequentiam,
+   quemadmo<lb ed="#B" n="78" break="no"/>dum nec ex multis aliis: vt vbi imperatores elege 
+   <lb ed="#B" n="79"/>runt maximos pontifices. similiter quod aliqui
+   ma<lb ed="#B" n="80" break="no"/>ximi pontifices depositi sunt per imperatores: &amp; 
+   <lb ed="#B" n="81"/>sicut recitat ecclesiastica historia: multi sacerdotes 
+   <lb ed="#B" n="82"/>apud Constantinum magnum suas querelas
+   depone<lb ed="#B" n="83" break="no"/>bant. ex quibus nullum potest sumi argumentum. 
+  </p>
+      <p xml:id="jMqv4a-d1e1134-d1e1455">
+       <lb ed="#B" n="84"/>⁋ Tertio arguitur. per Bernardum ad Eugenium 
+   <lb ed="#B" n="85"/>papam libro quarto dicentem. Quid tibi denuo 
+   <lb ed="#B" n="86"/>gladium vsurpare tentas, quem semel iussus es 
+   <lb ed="#B" n="87"/>reponere in vaginam: quem tamen qui tuum
+   ne<lb ed="#B" n="88" break="no"/>gat, non satis videtur attendere verbum domini 
+   <lb ed="#B" n="89"/>sic dicentis. Conuerte gladium tuum in vaginam. 
+   <lb ed="#B" n="90"/>tuus est ergo: &amp; forsitan ipse tuo nutu &amp; si non  
+   <lb ed="#B" n="91"/>tua manu euaginandus. alioquin si ad te nullo 
+   <lb ed="#B" n="92"/>modo pertineret: apostolis dicentibus Ecce
+   gla<lb ed="#B" n="93" break="no"/>dii duo: non respondisset dominus. satis est. sed  
+   <lb ed="#B" n="94"/>nimis. Item est vulgare dictum. vnum gladium 
+   <lb ed="#B" n="95"/>habet maximus pontifex actu: alium in habitu 
+  </p>
+      <p xml:id="jMqv4a-d1e1134-d1e1484">
+       <lb ed="#B" n="96"/>⁋ Quarto maximus pontifex potest dispensare in  
+   <lb ed="#B" n="97"/>pirutualibus: ergo &amp; in temporalibus. Nam qui potest in maius, 
+   <lb ed="#B" n="98"/>potest in minus.
+  </p>
+      <p xml:id="jMqv4a-d1e1134-d1e1493">
+   ⁋ Ad tertium. illud de gladiis est 
+   <lb ed="#B" n="99"/>hyperbolice dictum: quare ex ipso non potest trahi 
+   <lb ed="#B" n="100"/>efficax argumentum. Secundo ipse ponit
+   forsitan<lb ed="#B" n="101" break="no"/>&amp; hoc sufficit pro toto. Tertio dicitur quod vnum 
+   <lb ed="#B" n="102"/>gladium habet actu: scilicet spiritualem: cum
+   in<lb ed="#B" n="103" break="no"/>terdicit &amp; excommunicat: alium habet in habitum. i 
+   <lb ed="#B" n="104"/>potest rogare principes terrenos, quatinus sint
+   si<lb ed="#B" n="105" break="no"/>bi subsidio. &amp; sic habet alium in habitu. i. in
+   poten<lb ed="#B" n="106" break="no"/>tia, nec capitur hic (habitu) vt capitur ab
+   Aristo<lb ed="#B" n="107" break="no"/>te. ii. Ethicorum.
+  </p>
+      <p xml:id="jMqv4a-d1e1134-d1e1515">
+   ⁋ Ad quartum conceditur quando minus
+   in<lb ed="#B" n="108" break="no"/>cluditur in illo maiori: alioquin non oportet. homo 
+   <lb ed="#B" n="109"/>enim potest ratiocinari: non autem volare. Et concluden 
+   <lb ed="#B" n="110"/>do dicam quod hic potest esse vna disputatio verbalis 
+   <!--0463.xml-->
+   <pb ed="#B" n="216-r"/>
+       <cb ed="#B" n="a"/>
+       <lb ed="#B" n="1"/>&amp; alia realis. Nam si dicatur maximus pontifex esse 
+   <lb ed="#B" n="2"/>dominus omnium: &amp; omnes alii principes eius vasalli: 
+   <lb ed="#B" n="3"/>&amp; posse eos instituere &amp; destituere ad suum nutum: 
+   <lb ed="#B" n="4"/>licet inique faciat: hoc iudico falsum: &amp;
+   contradi<lb ed="#B" n="5" break="no"/>ctionem huius sensus posui in conclusione. Si vero 
+   <lb ed="#B" n="6"/>dicatur quod nullo modo potest legitimare in temporali 
+   <lb ed="#B" n="7"/>bus quo ad successione in terris regum: &amp; si legiti 
+   <lb ed="#B" n="8"/>met vel legitimare conetur: nihil agit: &amp; quod reges non 
+   <lb ed="#B" n="9"/>sunt eius vasalli, sed aliquod dominium habet: petatui 
+   <lb ed="#B" n="10"/>in quo sensu. hoc dixerim quia interdum inuenimus. 
+   <lb ed="#B" n="11"/>verbosas positiones / in sententia convenientes &amp; so 
+   <lb ed="#B" n="12"/>lum verbis discrepantes. Si enim intelligatur habere 
+   <lb ed="#B" n="13"/>dominium in temporalibus casualiter: &amp; multum posse 
+   <lb ed="#B" n="14"/>agere ad depositionem regum / suadendo / consultando /  
+   <lb ed="#B" n="15"/>immo alios ad gladium prouocando in eos /
+   quan<lb ed="#B" n="16" break="no"/>do sunt labefactatores fidei: &amp; reipublicae
+   christia<lb ed="#B" n="17" break="no"/>nae prorsus inutiles: hoc mitius ferendum est: nec 
+   <lb ed="#B" n="18"/>est alienum a dictis nostris. Si vero aliqui reges cum 
+   <lb ed="#B" n="19"/>populo se tradiderunt romanis pontificibus / vt
+   fer<lb ed="#B" n="20" break="no"/>tur de Anglis: nihil ad nos. collector namque
+   roma<lb ed="#B" n="21" break="no"/>ni pontificis pecuniam in Anglia colligit / ex quaelibet 
+   <lb ed="#B" n="22"/>domo denarium vt intellexi: qui denarius papalis
+   di<lb ed="#B" n="23" break="no"/>citur. sed illic oportet videre: an solus rex regnum pon 
+   <lb ed="#B" n="24"/>tifici subdidit: vel rex &amp; populus. Non tamen opinor 
+   <lb ed="#B" n="25"/>quod Angli vllo modo permitterent pontificem desti 
+   <lb ed="#B" n="26"/>tuere suum regem, &amp; alium constituere: nunquam enim aliquem 
+   <lb ed="#B" n="27"/>romanorum pontificum hoc facere permiserunt. 
+  </p>
+      <p xml:id="jMqv4a-d1e1134-d1e1589">
+       <lb ed="#B" n="28"/>⁋ Hactenus quomodo Petrus ex institutione Christi est 
+   <lb ed="#B" n="29"/>caput ecclesiae &amp; quilibet eius successor: quamuis de
+   suc<lb ed="#B" n="30" break="no"/>cessore in euangelio non legatur. Nam Christus
+   legis<lb ed="#B" n="31" break="no"/>lator optimus politiam regalem &amp; optimam instituit: non 
+   <lb ed="#B" n="32"/>pro vno sed toto tempore ad diem iudicii vsque. Et tam 
+   <lb ed="#B" n="33"/>episcopi quam curati sunt ex institutione Christi: vt 
+   <lb ed="#B" n="34"/>Petrus. Caeterum Petrus aut successor eius ex institu 
+   <lb ed="#B" n="35"/>tione Christi non habet dominium in temporalibus: sed  
+   <lb ed="#B" n="36"/>solum in illis quae principes saeculi illi benigne &amp; 
+   <lb ed="#B" n="37"/>gratis contulerunt &amp; conferunt. Dico tamen de iure 
+   <lb ed="#B" n="38"/>naturae esse quod pascatur &amp; sustineatur / si nihil habeat) se 
+   <lb ed="#B" n="39"/>cundum decentiam capitis pro quanto vigilat &amp; laborai 
+   <lb ed="#B" n="40"/>pro se &amp; reliqua parte corporis. Quamuis autem leges 
+   <lb ed="#B" n="41"/>ciuiles de praescriptionibus tollat, vt in. c. fi. de prae 
+   <lb ed="#B" n="42"/>script. vel aliquas alias: hoc non arguit pontificem 
+   <lb ed="#B" n="43"/>habere dominium super reges: sed idcirco facit quod lex 
+   <lb ed="#B" n="44"/>illa nutrit peccatum: &amp; quod actus ille non est iurisdictio 
+   <lb ed="#B" n="45"/>nis ciuilis sed ecclesiasticae: ad quam spectat singula 
+   <lb ed="#B" n="46"/>peccata salubri remedio cohibere. alioquin nullam 
+   <lb ed="#B" n="47"/>legem ciuilem tollere potest: vt dicit glos. in regula 
+   <lb ed="#B" n="48"/>Possessor. de regu. iuris lib. vi. Habet tamen ponti 
+   <lb ed="#B" n="49"/>fex dominium in terris ecclesiae a Constantino datis 
+   <lb ed="#B" n="50"/>quas in ltalia tenet. Nam Constantinus &amp;
+   popu<lb ed="#B" n="51" break="no"/>lus in illam donationem consensit. &amp; quicquid sit: 
+   <lb ed="#B" n="52"/>iam in terris illis praescripsit: &amp; peccat terras illas 
+   <lb ed="#B" n="53"/>auferre tentans nunc ab ecclesia. Sed licet nullus 
+   <lb ed="#B" n="54"/>rex superiorem in temporalibus agnoscat: omnium
+   ta<lb ed="#B" n="55" break="no"/>men regum caput est pontifex, quia est eorum ca- 
+   <!--0463.xml-->
+   <cb ed="#B" n="b"/> 
+       <!-- 216-r b -->
+       <lb ed="#B" n="56"/>put in spiritualibus. Alibi autem prolixius materiam 
+   <lb ed="#B" n="57"/>inter imperatorem &amp; reges deduco: an vllam praemi 
+   <lb ed="#B" n="58"/>nentiam imperator habeat super reges. Praeterea
+   re<lb ed="#B" n="59" break="no"/>liquos apostolos episcopos factos a Christo dixi 
+   <lb ed="#B" n="60"/>mus post resurrectionem: &amp; per consequens tam epi 
+   <lb ed="#B" n="61"/>scopi quam curati / sunt de iure diuino quemadmodum 
+   <lb ed="#B" n="62"/>romanus pontifex, nec aliquis purus homo potest 
+   <lb ed="#B" n="63"/>llud ius &amp; illas potestates tollere ab ecclesia / plusquam 
+   <lb ed="#B" n="64"/>summum pontificatum. licet Petrus Paludanus &amp; de 
+   <lb ed="#B" n="65"/>turre cremata tencant oppositum. Sed hoc quod ipsi
+   te<lb ed="#B" n="66" break="no"/>nent: censuit in fide haeresim facultas nostra. &amp; hoc 
+   <lb ed="#B" n="67"/>idem aliis rationibus muniuimus. 
+  </p>
+    </div>
+   </body>
+  </text>
+</TEI>

@@ -1,0 +1,322 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 2</title>
+      <author ref="#JohnMair">John Mair</author>
+      <respStmt>
+       <name>Jeffrey C. Witt</name>
+       <resp>TEI Encoder</resp>
+      </respStmt>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 2</title>
+       <date when="2020-06-09">June 27, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="B" n="cod-Bda113">Badius 1516</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+     guidelines for a diplomatic edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-06-27" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+      <pb ed="#B" n="283-r"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="jMqv4a-d1e1512"> <!-- l4d33q2 -->
+      <head xml:id="jMqv4a-d1e1512-Hd1e104">Quaestio 2</head>
+      <head xml:id="jMqv4a-d1e1512-Hd1e107" type="question-title">An libellus repudii in lege Mosaica fuerit licite permissus</head>
+      <p xml:id="jMqv4a-d1e1512-d1e110">
+       <lb ed="#B" n="86"/>⁋ Distinctionis Trigesimae tertiae 
+   <lb ed="#B" n="87"/>Quaestio Secunda. 
+   <lb ed="#B" n="88"/>Ecundo quaeritur
+   cir<lb ed="#B" n="89" break="no"/>ca eandem distinctionem. An  
+   <lb ed="#B" n="90"/>graeu 
+   <lb ed="#B" n="91"/>libellus repudii in lege
+   Mo<lb ed="#B" n="92" break="no"/>saica fuerit licite permissus. 
+   <lb ed="#B" n="93"/>Pro quaestionis solutione
+   me<lb ed="#B" n="94" break="no"/>moriae mandabis, quadrifa 
+   <lb ed="#B" n="95"/>tiam aliquid esse permissum. 
+   <lb ed="#B" n="96"/>Primo modo minus bonum 
+   <lb ed="#B" n="97"/>maioris boni comparatione. hoc modo matrimo 
+   <lb ed="#B" n="98"/>nium respectu virginitatis est permissum. &amp; illud  
+   <lb ed="#B" n="99"/>est licitum. Secundo modo aliquid est permissum 
+   <lb ed="#B" n="100"/>quia non punitum. &amp; sic nullum positiuum
+   dicit<lb ed="#B" n="101" break="no"/>sed solum impunitatem. &amp; dicitur dissimulatio: 
+   <lb ed="#B" n="102"/>permissio simplex / fiue tolerantia: quia non
+   pu<lb ed="#B" n="103" break="no"/>nitur / sed non tollitur culpa. hoc modo deus per 
+   <lb ed="#B" n="104"/>mittit peccata in hoc mundo: quia ea non
+   sem<lb ed="#B" n="105" break="no"/>per hic punit: sed in futuro puniturus est si in eis 
+   <!--0598.xml-->
+   <pb ed="#B" n="283-v"/>
+       <cb ed="#B" n="a"/>
+       <lb ed="#B" n="1"/>quis decedat. Tertio modo permissio capitur vt duo 
+   <lb ed="#B" n="2"/>dicit, scilicet impunitatem, &amp; prohibitione impeditio 
+   <lb ed="#B" n="3"/>nis. &amp; hoc modo quis dicitur permittere aliquid 
+   <lb ed="#B" n="4"/>quando illud non punit: &amp; prohibet eos qui volunt
+   im<lb ed="#B" n="5" break="no"/>pedire facientes tale malum, quemadmodum
+   ec<lb ed="#B" n="6" break="no"/>clesia permittit ludaeis vti suis cerimonialibus,
+   qua<lb ed="#B" n="7" break="no"/>bus vti est mortale peccatum: id est ecclesia non
+   pu<lb ed="#B" n="8" break="no"/>nitieos pro illo peccato. &amp; cum hoc prohibet
+   chri<lb ed="#B" n="9" break="no"/>stianis ne in hoc eos infestent, vel eos ab hoc pec 
+   <lb ed="#B" n="10"/>cato impediant. vt patet in cap. Qui syncera. xlv. 
+   <lb ed="#B" n="11"/>distinctione. Quarto vt tria dicit: primo impuni 
+   <lb ed="#B" n="12"/>tatem: secundo prohibitionem impeditionis: &amp; 
+   <lb ed="#B" n="13"/>cum hoc promotionem. hoc est, assistit aliquid facien 
+   <lb ed="#B" n="14"/>ti, auxilium praestans vt illud assequatur. hoc modo 
+   <lb ed="#B" n="15"/>lex Caesarea aliquas permittit vsuras quia eas non 
+   <lb ed="#B" n="16"/>punit: &amp; prohibet ne quis impediat exercere
+   vo<lb ed="#B" n="17" break="no"/>lentes: &amp; dat eis actionem in foro contradictorio vt 
+   <lb ed="#B" n="18"/>eis in vsura soluatur. Hoc quarto modo tam licitum 
+   <lb ed="#B" n="19"/>quam illicitum ab imprudentibus superioribus permittitur. bo 
+   <lb ed="#B" n="20"/>na hoc modo permittuntur &amp; mala. 
+  </p>
+      <p xml:id="jMqv4a-d1e1512-d1e206">
+       <lb ed="#B" n="21"/>⁋ Hoc praenotato dico ad quaestio 
+   <lb ed="#B" n="22"/>nemi, duas esse positiones oppositas: sed pars
+   af<lb ed="#B" n="23" break="no"/>firmatiua est probabilis, quae probatur. nam Deuteronomii 
+   <lb ed="#B" n="24"/>xxiiii. scribitur. Si acceperit homo vxorem, &amp;
+   habue<lb ed="#B" n="25" break="no"/>rit eam, &amp; non inuenerit gratiam ante oculos ei 
+   <lb ed="#B" n="26"/>propter aliquam foeditatem: scribet libellum repudi 
+   <lb ed="#B" n="27"/>&amp; dabit in manu illius: &amp; dimittet eam de doe 
+   <lb ed="#B" n="28"/>sua. Ecce libellum repudii permissum &amp; formam 
+   <lb ed="#B" n="29"/>libelli traditam. ergo libellus repudii non erat illici 
+   <lb ed="#B" n="30"/>tus. Sed dicis consequentiam inualidam. nam potest legis 
+   <lb ed="#B" n="31"/>lator statuere legem &amp; formam de modo soluendi 
+   <lb ed="#B" n="32"/>meretricibus sine peccato. &amp; etiam accedentes eas sol 
+   <lb ed="#B" n="33"/>uere possunt sine peccato: tamen actus per quem 
+   <lb ed="#B" n="34"/>pecunia acquiritur / est peccatum. ergo licet possit for 
+   <lb ed="#B" n="35"/>ma scribi sine peccato: repudiare tamen mulieren 
+   <lb ed="#B" n="36"/>est peccatum. Secundo arguitur ad idem. Si repudiatio 
+   <lb ed="#B" n="37"/>vxoris esset mala: hoc esset / quia vinculum
+   matri<lb ed="#B" n="38" break="no"/>monii est indissolubile de lege naturae. sed hoc non 
+   <lb ed="#B" n="39"/>obstat: quia in lumine naturali multi diuortium 
+   <lb ed="#B" n="40"/>admisere. Patet. itur. de diuor. &amp;. C. eodem titulo. 
+   <lb ed="#B" n="41"/>Ostenditur idem de regina Vasthi / consilio sapientum 
+   <lb ed="#B" n="42"/>Persarum &amp; Medorum separata. Secundo,
+   quamui<lb ed="#B" n="43" break="no"/>esset contra legem naturalem: vt Valerius
+   librose<lb ed="#B" n="44" break="no"/>cundo cap. xxxiiii. de repudio dicere videtur 
+   <lb ed="#B" n="45"/>cum inquit. Inter virum &amp; vxorema condita vrbe vs 
+   <lb ed="#B" n="46"/>quod ad vigesimum &amp; quingentesimum annum nullum
+   inter<lb ed="#B" n="47" break="no"/>cessit. Primus autem opurius Carbilius vxorem steri 
+   <lb ed="#B" n="48"/>litatis causa dimisit, quamquamquam tolerabili ratione
+   mo<lb ed="#B" n="49" break="no"/>tus videbatur: reprehensione tamen non caruit: quia nec cu 
+   <lb ed="#B" n="50"/>piditatem quidem liberorum, coniugali fidei prae 
+   <lb ed="#B" n="51"/>poni debuisse arbitrabantur Non plurimum ab hat 
+   <lb ed="#B" n="52"/>sententia Aulus Gellius libro iiii. cap. iii.
+   discre<lb ed="#B" n="53" break="no"/>pat. Hoc tamen non sufficit. nam licet
+   indissolubili<lb ed="#B" n="54" break="no"/>tas matrimonii sit multo rationabilior quam eius disso 
+   <!--0598.xml-->
+   <cb ed="#B" n="b"/> 
+       <!-- 283-v b -->
+       <lb ed="#B" n="55"/>lubilitas: deus tamen potest in diuortio dispensare, si 
+   <lb ed="#B" n="56"/>cut in vxorum pluralitate. sed vnum fecit ex quaestio 
+   <lb ed="#B" n="57"/>ne praecedente: ergo &amp; alterum facere poterat.
+   Ter<lb ed="#B" n="58" break="no"/>tio arguitur. Si reuera non erat diuortium, &amp; ma 
+   <lb ed="#B" n="59"/>trimonium ruptum: sequitur quod contrahens cum re 
+   <lb ed="#B" n="60"/>pudiata nullo modo contrahebat, quod est contra 
+   <lb ed="#B" n="61"/>illud quod scribitur Deuteronomii. xxiiii. Cumque egres 
+   <lb ed="#B" n="62"/>sa alterum maritum duxerit / &amp; ille quoque oderit 
+   <lb ed="#B" n="63"/>eam: dederitque ei libellum repudii / &amp; dimiserit de
+   do<lb ed="#B" n="64" break="no"/>mo sua, vel certe mortuus fuerit: non poterit pri 
+   <lb ed="#B" n="65"/>or maritus recipere eam in vxorem: quia polluta est &amp; 
+   <lb ed="#B" n="66"/>abominabilis facta coram domino. ergo textus vult 
+   <lb ed="#B" n="67"/>dicere quod ipsa contraxit reuera cum secundo, nec pri 
+   <lb ed="#B" n="68"/>or maritus poterat iterato eam recipere: ne homi 
+   <lb ed="#B" n="69"/>nes redderentur propensi suas repudiare vxores. Item 
+   <lb ed="#B" n="70"/>Matthaei. xix. scribitur. Quicunque dimiserit vxoren 
+   <lb ed="#B" n="71"/>suam nisi ob fornicatione / &amp; aliam duxerit, moechatur. 
+   <lb ed="#B" n="72"/>ergo per locum a contrario sensu, quam dimiserit vxo 
+   <lb ed="#B" n="73"/>rem suam ex causa fornicationis &amp; aliam duxerit. 
+   <lb ed="#B" n="74"/>non moechatur. Sed illud dices non esse magni
+   pon<lb ed="#B" n="75" break="no"/>deris: quia vir potest aliam ducere etiam vinculo 
+   <lb ed="#B" n="76"/>matrimonii manente cum priore. Quarto arguitur. 
+   <lb ed="#B" n="77"/>Si vxorem repudiare fuisset illicitum: hoc debuit 
+   <lb ed="#B" n="78"/>per legem ostendi: secundum illud Esaiae. lviii. An  
+   <lb ed="#B" n="79"/>nuncia populo meo scelera eorum. sed nec per Mor 
+   <lb ed="#B" n="80"/>sen / nec posteriores prophetas hoc ostenditur: im 
+   <lb ed="#B" n="81"/>mo potius oppositum. nam Malachiae secundo 
+   <lb ed="#B" n="82"/>cap. scribitur. Cum odio habueris eam: dimitte 
+   <lb ed="#B" n="83"/>dicit dominus deus Israel. Aliter tamen erat de 
+   <lb ed="#B" n="84"/>vsura. Quinto Chrysostomus super Matthaeum 
+   <lb ed="#B" n="85"/>dicit. Sicut apostoli permiserunt secundas nuptias 
+   <lb ed="#B" n="86"/>ita Moyses permisit libellum repudii. sed secundae
+   nu<lb ed="#B" n="87" break="no"/>ptiae sunt licitae: ergo &amp; libellus repudii. Dices. ar 
+   <lb ed="#B" n="88"/>gumentum a simili claudicat vno pede. At licet non 
+   <lb ed="#B" n="89"/>omnes rationes adductae opinionem demonstrent: videtur 
+   <lb ed="#B" n="90"/>tamen illa pars apparentior. 
+  </p>
+      <p xml:id="jMqv4a-d1e1512-d1e368">
+       <lb ed="#B" n="91"/>⁋ Contra hanc conclusionem arguitur 
+   <lb ed="#B" n="92"/>per illud quod respondit Christus Matthaei. xix. 
+   <lb ed="#B" n="93"/>ad quaestionem Pharisaeorum. vbi sic scribitur. 
+   <lb ed="#B" n="94"/>Et accesserunt ad eum Pharisaei tentantes eum 
+   <lb ed="#B" n="95"/>&amp; dicentes. Si licet homini dimittere vxorem 
+   <lb ed="#B" n="96"/>suam quacunque ex causa? Qui respondens ait 
+   <lb ed="#B" n="97"/>eis: Non legistis: quia qui fecit hominem
+   abiini<lb ed="#B" n="98" break="no"/>tio: masculum &amp; foeminam fecit eos? Et dixit. 
+   <lb ed="#B" n="99"/>Propter hoc dimittet homo patrem &amp; matrem 
+   <lb ed="#B" n="100"/>&amp; adhaerebit vxori suae: &amp; erunt duo in carne 
+   <lb ed="#B" n="101"/>vna? Iraque iam non sunt duo, sed vna caro. Quod 
+   <lb ed="#B" n="102"/>ergo deus coniunxit, homo non separet. ergo 
+   <lb ed="#B" n="103"/>ex his verbis videtur veritas voluisse dicere
+   li<lb ed="#B" n="104" break="no"/>bellum repudii illicitum. &amp; ita Pharisaei intellexe 
+   <lb ed="#B" n="105"/>runt: vt videtur per eorum obiectionem contra 
+   <lb ed="#B" n="106"/>responsionem eius. nam sequitur in litera. Dicunt illi 
+   <lb ed="#B" n="107"/>Quid ergo Moyses mandauit dari libellum repudii 
+   <lb ed="#B" n="108"/>&amp; dimittere? acsi more scholastico dixissent. Contra 
+   <!--0599.xml-->
+   <pb ed="#B" n="284-r"/>
+       <cb ed="#B" n="a"/>
+       <lb ed="#B" n="1"/>hoc est auctoritas Moysi. Ait illis. Quoniam Moy 
+   <lb ed="#B" n="2"/>ses ad duritiam cordis vestri permisit vobis
+   dimi<lb ed="#B" n="3" break="no"/>tere vxores vestras. ab initio autem nonfuit sic. vb 
+   <lb ed="#B" n="4"/>glossa interlinearis superverbo (Moyses) non di 
+   <lb ed="#B" n="5"/>us. ac si diceret. separatio matrimonii erat contra 
+   <lb ed="#B" n="6"/>voluntatem dei: sed ad maius malum euitandum per 
+   <lb ed="#B" n="7"/>mittebatur. Etiam ex verbis Christi hoc videi 
+   <lb ed="#B" n="8"/>haberi. Et ita discipuli Christi intellexerunt: sicut 
+   <lb ed="#B" n="9"/>Pharisaei, dicentes. Si ita est causa hominis cum 
+   <lb ed="#B" n="10"/>vxore: non expedit nubere. ac si dicerent. Si vicu 
+   <lb ed="#B" n="11"/>lum matrimonii est indissolubile: non expedit nu 
+   <lb ed="#B" n="12"/>bere.
+  </p>
+      <p xml:id="jMqv4a-d1e1512-d1e442">
+   ⁋ Respondetur. obiectum est apparens ex 
+   <lb ed="#B" n="13"/>responsione Christi. Et quod res fuerit intricata: pa 
+   <lb ed="#B" n="14"/>tet a signo. Numquam enim Pharisaei in lege exercitati, 
+   <lb ed="#B" n="15"/>proposuerunt Christo quaestionem nisi ancipitem &amp; 
+   <lb ed="#B" n="16"/>problematicam: vt quicquid responderet / locus re 
+   <lb ed="#B" n="17"/>staret obiectioni: more disputationis vici strami 
+   <lb ed="#B" n="18"/>nis vel sorbonici actus, quicquid dicatur impugnam 
+   <lb ed="#B" n="19"/>do, non tamen addentes, secundum laudabilem
+   con<lb ed="#B" n="20" break="no"/>suetudinem huius almae vniuersitatis. Si enim
+   di<lb ed="#B" n="21" break="no"/>xisset libellum repudii fuisse licitum: expresse
+   obiecis<lb ed="#B" n="22" break="no"/>sent illa quae Christus adduxit a principio de Adam 
+   <lb ed="#B" n="23"/>&amp; Eua: &amp; bona aequitate naturali in oppositum.
+   Re<lb ed="#B" n="24" break="no"/>spondeo igitur quod Christus non reprobauit libel 
+   <lb ed="#B" n="25"/>lum repudii. nam cum ipso esse licito stat tota Chri 
+   <lb ed="#B" n="26"/>sti responsio: quod non sic erat a principio: sed propter 
+   <lb ed="#B" n="27"/>duritiam cordis, hoc est, ludaeis propensis ad vxo 
+   <lb ed="#B" n="28"/>rum caedem deus permisit &amp; sic propter duritiam 
+   <lb ed="#B" n="29"/>cordis permisit licitu. Ad glossam respondetur quod 
+   <lb ed="#B" n="30"/>non erat dei imperium, sed a deo permissum.
+   alio<lb ed="#B" n="31" break="no"/>quin Moyses hanc viam eis non aperuisset. Analo 
+   <lb ed="#B" n="32"/>tiam accipito. Si aliquis Romanus pontifex sub 
+   <lb ed="#B" n="33"/>traheret duos dies quadragesimae in hebdomada 
+   <lb ed="#B" n="34"/>qualibet / scilicet diem iouis &amp; martis propter hominium 
+   <lb ed="#B" n="35"/>duritiam &amp; malitiam non ieiunantium: non ieiunan 
+   <lb ed="#B" n="36"/>tes illis duobus diebus non peccarent: &amp; tamen
+   re<lb ed="#B" n="37" break="no"/>laxatio dierum fieret ob duritiam cordis.
+  </p>
+      <p xml:id="jMqv4a-d1e1512-d1e499">
+   ⁋
+   Con<lb ed="#B" n="38" break="no"/>tra hoc probatur quod solutio stare non potest. peccat 
+   <lb ed="#B" n="39"/>repudiatam ducens: ergo non separabatur vinculum 
+   <lb ed="#B" n="40"/>matrimonii. antecedens patet per verba Christi 
+   <lb ed="#B" n="41"/>Dico autem vobis / quia quicunque dimiserit vxoren 
+   <lb ed="#B" n="42"/>suam nisi ob fornicationem / &amp; aliam duxerit / moechatur 
+   <lb ed="#B" n="43"/>Et sequitur neruus argumenti. Et qui dimissam du 
+   <lb ed="#B" n="44"/>xerit / moechatur. hoc est, quam contrahit cum repudia 
+   <lb ed="#B" n="45"/>ta / moechatur. &amp; hoc non nisi quod est vxor prioris ma 
+   <lb ed="#B" n="46"/>riti: &amp; vinculum matrimonii adhuc manet cum 
+   <lb ed="#B" n="47"/>priore viro qui eam repudiat.
+  </p>
+      <p xml:id="jMqv4a-d1e1512-d1e523">
+   ⁋ Respondetur. Chri 
+   <lb ed="#B" n="48"/>stus dicebat vxorem non esse dimittendam nisi 
+   <lb ed="#B" n="49"/>ob: fornicationem. sic solum libellus repudii fuit 
+   <lb ed="#B" n="50"/>licitus. Sed vt dicit glossa interlinearis super illo ver 
+   <lb ed="#B" n="51"/>siculo. Si ita est causa hominis. Pharisaei multi 
+   <lb ed="#B" n="52"/>ad nutum aliter illum locum exponentes dixerunt 
+   <lb ed="#B" n="53"/>illud licere ob turpitudinem vel aliam displicentiam 
+   <lb ed="#B" n="54"/>vel ad nutum. Sed sic exponendus est. Quicunque 
+   <lb ed="#B" n="55"/>vxorem dimiserit nisi ob fornicationem, &amp; aliam 
+   <!--0599.xml-->
+   <cb ed="#B" n="b"/> 
+       <!-- 284-r b -->
+       <lb ed="#B" n="56"/>duxerit, moechatur. hoc est, vxor non est
+   dimit<lb ed="#B" n="57" break="no"/>tenda vllo modo nisi ob fornicationem. Illic enim 
+   <lb ed="#B" n="58"/>nisi) capitur exceptiue. fornicationem ergo
+   ex<lb ed="#B" n="59" break="no"/>cipit. sed qui dimittit vxorem ob aliam causam: vt 
+   <lb ed="#B" n="60"/>pote pro turpitudine / vel alia displicentia, &amp; aliam 
+   <lb ed="#B" n="61"/>duxerit / moechatur cum secunda: quia vinculum non 
+   <lb ed="#B" n="62"/>est solutum cum priore. Et qui dimissam duxerit / moe 
+   <lb ed="#B" n="63"/>chatur: hoc est qui ducit dimissam aliterquam per
+   for<lb ed="#B" n="64" break="no"/>nicationem / moechatur. Dedit autem ex industria 
+   <lb ed="#B" n="65"/>versipellibus &amp; vafris pharisaeis solutionem inuo 
+   <lb ed="#B" n="66"/>lutam: ita vt vix caperent in quo sensu
+   respon<lb ed="#B" n="67" break="no"/>sionem dederit: vt confusi discederent, quia dolose 
+   <lb ed="#B" n="68"/>disputabant. Apostolis autem / discipulis / &amp; sim 
+   <lb ed="#B" n="69"/>plici plebi seorsum lucidas proposuit responsio 
+   <lb ed="#B" n="70"/>nes cum analogiis rudibus. sicut ingeniosus homo 
+   <lb ed="#B" n="71"/>in mensa sedens inter magnos viros, aliter
+   respon<lb ed="#B" n="72" break="no"/>det sophistae cauillanti ac inanem gloriolam captam 
+   <lb ed="#B" n="73"/>ti: &amp; allier bono viro seriose quaerenti. Si autem 
+   <lb ed="#B" n="74"/>clare apostolis coram pharisaeis respondisset: illum 
+   <lb ed="#B" n="75"/>subito dolose impugnassent, quemadmodum in  
+   <lb ed="#B" n="76"/>Sorbona respondens, primis arguentibus, quos 
+   <lb ed="#B" n="77"/>non timet / intellectum suarum positionum reseraret: 
+   <lb ed="#B" n="78"/>nisi vereretur ingeniosos secuturos.
+  </p>
+      <p xml:id="jMqv4a-d1e1512-d1e599">
+   ⁋ Ecce
+   libel<lb ed="#B" n="79" break="no"/>lum repudii licitum. qui propterea dictus est
+   libel<lb ed="#B" n="80" break="no"/>lus / quia mulier habebat libellum a marito datum: in  
+   <lb ed="#B" n="81"/>quo dabatur sibi facultas abeundi vt alium
+   duce<lb ed="#B" n="82" break="no"/>re posset. In libello scribebatur secundum
+   lose<lb ed="#B" n="83" break="no"/>phum. Promitto tibi quod non plus conueniam te 
+   <lb ed="#B" n="84"/>cum. Simile ferme ponitur in lege ciuililiter. de diuor. 
+   <lb ed="#B" n="85"/>l. ii. Tuas res tibi habeto. vel tuas res agito. aucto 
+   <lb ed="#B" n="86"/>ritas autem Christi quae sola stringere videtur in op 
+   <lb ed="#B" n="87"/>positum, soluta est ad literam. Ad auctoritates
+   eo<lb ed="#B" n="88" break="no"/>rum qui oppositum tenuerunt, respondere non
+   opor<lb ed="#B" n="89" break="no"/>tet: nisi rationes pro se adducant, vel auctoritates irrefra 
+   <lb ed="#B" n="90"/>gabiles. Cum enim Deuteronomii. xxiiii. libellus re 
+   <lb ed="#B" n="91"/>pudii sit aptus: nec a Moyse vel a propheta quo 
+   <lb ed="#B" n="92"/>quam posteriore sit reprobatus tanquam malus: immo Ma 
+   <lb ed="#B" n="93"/>lachias inter nouissimos post reditum a
+   captiuita<lb ed="#B" n="94" break="no"/>te Babylonica eum admittat: non erat reprobandus 
+   <lb ed="#B" n="95"/>pro tempore illius legis. Nunc autem Christus in
+   le<lb ed="#B" n="96" break="no"/>ge gratiae repudium vetuit / legem de non repudiam 
+   <lb ed="#B" n="97"/>do primae institutioni coniungens: &amp; repudium
+   le<lb ed="#B" n="98" break="no"/>gis Mosaicae e medio tollens tanquam minus perfe 
+   <lb ed="#B" n="99"/>ctum. vt patet Matthaei. xix. &amp; primae ad Corin. 
+   <lb ed="#B" n="100"/>vii. vbi dicit Apostolus. His autem qui matrimonio ium 
+   <lb ed="#B" n="101"/>cti sunt praecipio non ego sed dominus / vxorem 
+   <lb ed="#B" n="102"/>a viro non discedere. quod si discesserit: manere innu 
+   <lb ed="#B" n="103"/>ptam, aut viro suo reconciliari. Vlterius patet. quod 
+   <lb ed="#B" n="104"/>apud gentiles vxoris repudium est iniquius
+   iu<lb ed="#B" n="105" break="no"/>dicatum quam vxorum pluralitas. 
+  </p>
+    </div>
+   </body>
+  </text>
+</TEI>

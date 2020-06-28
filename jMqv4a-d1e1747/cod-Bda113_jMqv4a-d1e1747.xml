@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 1</title>
+      <author ref="#JohnMair">John Mair</author>
+      <respStmt>
+       <name>Jeffrey C. Witt</name>
+       <resp>TEI Encoder</resp>
+      </respStmt>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 1</title>
+       <date when="2020-06-09">June 27, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="B" n="cod-Bda113">Badius 1516</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+     guidelines for a diplomatic edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-06-27" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+      <pb ed="#B" n="327-r"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="jMqv4a-d1e1747"> <!-- l4d42q1 -->
+      <head xml:id="jMqv4a-d1e1747-Hd1e104">Quaestio 1</head>
+      <head xml:id="jMqv4a-d1e1747-Hd1e107" type="question-title">Utrum cognatio spiritualis et legalis impediat matrimonium</head>
+      <p xml:id="jMqv4a-d1e1747-d1e110">
+       <lb ed="#B" n="38"/>⁋ Distinctionis Quadragesimae secundae. 
+   <lb ed="#B" n="39"/>Quaestio Vnica. 
+   <lb ed="#B" n="40"/>Agister in hac 
+   <lb ed="#B" n="41"/>distinctione loquitur 
+   <lb ed="#B" n="42"/>le cognatione spiri 
+   <lb ed="#B" n="43"/>tuali / adoptione, &amp; ar 
+   <lb ed="#B" n="44"/>rogatione: nos
+   succi<lb ed="#B" n="45" break="no"/>cte materiam tangemus 
+   <lb ed="#B" n="46"/>uaerendo. Vtrum cogna 
+   <lb ed="#B" n="47"/>tio spiritualis &amp;
+   la<lb ed="#B" n="48" break="no"/>galis impediant
+   ma<lb ed="#B" n="49" break="no"/>trimonium. Pro horum 
+   <lb ed="#B" n="50"/>intelligentia
+   aduer<lb ed="#B" n="51" break="no"/>tendum est quod aliud  
+   <!--0685.xml-->
+   <cb ed="#B" n="b"/> 
+       <!-- 327-r b -->
+       <lb ed="#B" n="52"/>est impedimentum matrimonii in cognatione spi 
+   <lb ed="#B" n="53"/>rituali. quod impedimentum declarat Bonifacius 
+   <lb ed="#B" n="54"/>papa de cogna. spiritua. cap. Nedum. lib. vi. Con 
+   <lb ed="#B" n="55"/>trahitur autem haec cognatio spiritualis in duobus 
+   <lb ed="#B" n="56"/>sacramentis: scilicet baptismo &amp; confirmatione. 
+   <lb ed="#B" n="57"/>baptizare tamen in necessitate nihil prohibet. nam 
+   <lb ed="#B" n="58"/>patri licet suum filium baptizare in necessitate.
+   Pa<lb ed="#B" n="59" break="no"/>rinus autem vocatur leuans, quia antiquitus
+   ba<lb ed="#B" n="60" break="no"/>ptizans immergebat baptizandum in aquam, &amp; 
+   <lb ed="#B" n="61"/>patrinus leuabat eum de aqua. nam tunc adulti 
+   <lb ed="#B" n="62"/>baptizabantur. Et licet propter periculum mortis 
+   <lb ed="#B" n="63"/>in paruulo hoc abiit in dissuetudinem: nomen le 
+   <lb ed="#B" n="64"/>uantis adhuc est in honore. Viginti autem personae 
+   <lb ed="#B" n="65"/>simul prohibentur. decem in baptismo: &amp; totidem 
+   <lb ed="#B" n="66"/>in confirmatione. propterea decem declaratis in ba 
+   <lb ed="#B" n="67"/>ptismo / mox reliquae decem cognoscentur in con 
+   <lb ed="#B" n="68"/>firmatione. Primae personae prohibitae in proposi 
+   <lb ed="#B" n="69"/>to sunt leuans &amp; baptizatus. Secundae sunt leuans 
+   <lb ed="#B" n="70"/>&amp; parentes leuati. Tertiae baptizatus &amp; filii vel fi 
+   <lb ed="#B" n="71"/>liae leuantis. Quartae leuatus &amp; vxor leuantis prius 
+   <lb ed="#B" n="72"/>cognita. Quintae vxor prius cognita leuantis, &amp; 
+   <lb ed="#B" n="73"/>parentes leuati. Fodem modo quinque personae
+   pro<lb ed="#B" n="74" break="no"/>hibentur inter baptizantem &amp; baptizatum.
+   Toti<lb ed="#B" n="75" break="no"/>dem quoque inter confirmantem &amp; confirmatum: 
+   <lb ed="#B" n="76"/>&amp; quinque inter confirmatum &amp; leuantem in confir 
+   <lb ed="#B" n="77"/>matione. &amp; sic prohibentur viginti personae
+   compu<lb ed="#B" n="78" break="no"/>tando vnum leuantem solum. Sed quia solent es 
+   <lb ed="#B" n="79"/>se tres leuantes / duo mares &amp; vna mulier respectu 
+   <lb ed="#B" n="80"/>masculi: vel duae foeminae &amp; vnus vir respectu foe 
+   <lb ed="#B" n="81"/>minae ex consuetudine: proportionabiliter multi 
+   <lb ed="#B" n="82"/>plicentur personae. Dictum est de vxore cognita 
+   <lb ed="#B" n="83"/>quia nihil prohibet virum habere duas commatres 
+   <lb ed="#B" n="84"/>iuccessiue.
+  </p>
+      <p xml:id="jMqv4a-d1e1747-d1e221">
+   ⁋ Ex quibus palam est quod ego non pos 
+   <lb ed="#B" n="85"/>sum habere filiam Sortis leuantis me de fontibus: 
+   <lb ed="#B" n="86"/>sed frater meus potest illam habere: &amp; omnes filii 
+   <lb ed="#B" n="87"/>Sortis meam sororem possunt habere.
+  </p>
+      <p xml:id="jMqv4a-d1e1747-d1e231">
+   ⁋ Secun 
+   <lb ed="#B" n="88"/>do sequitur quod Sortes &amp; Berta leuantes possunt 
+   <lb ed="#B" n="89"/>contrahere inter se. similiter vir &amp; vxor.
+  </p>
+      <p xml:id="jMqv4a-d1e1747-d1e238">
+   ⁋ Tertio 
+   <lb ed="#B" n="90"/>sequitur quod filia mea spiritualis potest contrahere 
+   <lb ed="#B" n="91"/>cum filio filii mei: cum hic non sit processus in gra 
+   <lb ed="#B" n="92"/>libus. sic pater potest contrahere cum illa quam 
+   <lb ed="#B" n="93"/>filius suus leuauit.
+  </p>
+      <p xml:id="jMqv4a-d1e1747-d1e249">
+   ⁋ Quarto sequitur quod filius epi 
+   <lb ed="#B" n="94"/>scopi carnalis nullam potest habere in vxorem 
+   <lb ed="#B" n="95"/>quam episcopus baptizauit vel confirmauit: cum 
+   <lb ed="#B" n="96"/>baptismus sit ianua multorum sacramentorum. 
+   <lb ed="#B" n="97"/>Non baptizatus autem ista non incurrit: cum
+   ba<lb ed="#B" n="98" break="no"/>ptismus sit ianua ad istam cognationem spiritua 
+   <lb ed="#B" n="99"/>lem: vt communiter putatur. secus est si
+   baptiza<lb ed="#B" n="100" break="no"/>us filium vel filiam non baptizati leuauerit.
+  </p>
+      <p xml:id="jMqv4a-d1e1747-d1e267">
+   ⁋ Hic autem 
+   <lb ed="#B" n="101"/>sunt paternitas, compaternitas, &amp; fraternitas. 
+   <lb ed="#B" n="102"/>nam leuans respectu leuati est pater spiritualis. 
+   <lb ed="#B" n="103"/>quia sicut pater carnalis istum genuit: ita patri 
+   <lb ed="#B" n="104"/>nus eum regenerat. Patrinus autem respectu pa 
+   <lb ed="#B" n="105"/>tris carnalis vocatur compater, id est simul pa 
+   <lb ed="#B" n="106"/>ter. vnus enim est carnalis: &amp; alius spiritualis. 
+   <!--0686.xml-->
+   <pb ed="#B" n="327-v"/>
+       <cb ed="#B" n="a"/>
+       <lb ed="#B" n="1"/>&amp; baptizatus respectu filiorum leuantis vocatui 
+   <lb ed="#B" n="2"/>confrater. Inter leuantes autem simul non est co 
+   <lb ed="#B" n="3"/>gnatio spiritualis. propterea nihil obstat quod vir &amp; 
+   <lb ed="#B" n="4"/>vxor leuent eundem.
+  </p>
+      <p xml:id="jMqv4a-d1e1747-d1e298">
+   ⁋ Est praeterea cognatio legalis qua in 
+   <lb ed="#B" n="5"/>pedit. de cogna. lega. cap. vnico. sed ista cognatio 
+   <lb ed="#B" n="6"/>legalis est perrara. pauci enim arrogant vel adoptant 
+   <lb ed="#B" n="7"/>sibi filios propterea parum insisto. Etiam post eman 
+   <lb ed="#B" n="8"/>cipationem cum fiiiis vel filiabus adoptantis con 
+   <lb ed="#B" n="9"/>trahitur matrimonium. secus est inter adoptantem 
+   <lb ed="#B" n="10"/>&amp; adoptatum. Pontifex tamen potest hic dispensare per 
+   <lb ed="#B" n="11"/>totum: qui a est ius positiuum humanum ipsi pon 
+   <lb ed="#B" n="12"/>tifici relictum. 
+  </p>
+    </div>
+   </body>
+  </text>
+</TEI>

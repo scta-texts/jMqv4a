@@ -1,0 +1,526 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 46</title>
+      <author ref="#JohnMair">John Mair</author>
+      <respStmt>
+       <name>Jeffrey C. Witt</name>
+       <resp>TEI Encoder</resp>
+      </respStmt>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 46</title>
+       <date when="2020-06-09">June 27, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="B" n="cod-Bda113">Badius 1516</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+     guidelines for a diplomatic edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-06-27" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+      <pb ed="#B" n="162-v"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="jMqv4a-d1e867"> <!-- l4d15q46 -->
+      <head xml:id="jMqv4a-d1e867-Hd1e104">Quaestio 46</head>
+      <head xml:id="jMqv4a-d1e867-Hd1e107" type="question-title">An contractus Socidarum quibus rustici in animalibus innituntur sit licitus</head>
+      <p xml:id="jMqv4a-d1e867-d1e110">
+       <lb ed="#B" n="57"/>AN contractus socida 
+   <lb ed="#B" n="58"/>rum quibus rustici in animali 
+   <lb ed="#B" n="59"/>bus innituntur / sit licitus.
+   Re<lb ed="#B" n="60" break="no"/>spondetur. multifariam
+   ru<lb ed="#B" n="61" break="no"/>stici contrahere possunt: &amp; 
+   <lb ed="#B" n="62"/>antequam damnetur vel
+   repro<lb ed="#B" n="63" break="no"/>betur aliquis talis contractus: 
+   <lb ed="#B" n="64"/>considerandum est sub qua specie contractus
+   inclu<lb ed="#B" n="65" break="no"/>datur: &amp; an sit contractus purus &amp; simplex, puta 
+   <lb ed="#B" n="66"/>nihil habens contra naturalia illius. &amp; tunc facilius 
+   <lb ed="#B" n="67"/>erit iudicare: an habeat conditiones contra naturam 
+   <lb ed="#B" n="68"/>contractus. Videatur itaque: an si vnus obligetur ad 
+   <lb ed="#B" n="69"/>aliquid contra naturam contractus: alter tunm eum 
+   <lb ed="#B" n="70"/>releuet: an non si secundum: dicatur contractus
+   il<lb ed="#B" n="71" break="no"/>licitus. si primum, contractus est licitus, dummo 
+   <lb ed="#B" n="72"/>do non addatur aliqua alia circumstantia contra: 
+   <lb ed="#B" n="73"/>ctum inficiens. Audiat autem confessor vel alius 
+   <lb ed="#B" n="74"/>prudens extra confessionem contractum ipsum 
+   <lb ed="#B" n="75"/>cum omnibus circumstantiis requisitis: &amp; inquirat 
+   <lb ed="#B" n="76"/>a confitente vel alio consulente de circunstantiis 
+   <lb ed="#B" n="77"/>quae contractum iustificare vel inficere possunt. &amp; 
+   <lb ed="#B" n="78"/>ante omnia audita: non praecipitet sententiam: nec 
+   <lb ed="#B" n="79"/>eum pudeat geminam audire relationem more
+   sa<lb ed="#B" n="80" break="no"/>pientis respondentis tam in theologia quam in
+   arti<lb ed="#B" n="81" break="no"/>bus: primo argumentum integre &amp; nitide
+   recitan<lb ed="#B" n="82" break="no"/>tis, &amp; secundo ad formam respondentis. &amp; si casus 
+   <lb ed="#B" n="83"/>potissimum in confessione fuerit implicitus &amp;
+   dif<lb ed="#B" n="84" break="no"/>ficilis: capiat inducias a respondente bidui vel tri 
+   <lb ed="#B" n="85"/>dui secundum ipsius difficultatis exigentiam: &amp; 
+   <lb ed="#B" n="86"/>interea induciarum tempore &amp; mortuos &amp; viuos 
+   <lb ed="#B" n="87"/>doctores consulat: ne caecus caecum in foueam du 
+   <lb ed="#B" n="88"/>cat. &amp; nisi diligentiam super eiusmodi negociis
+   fe<lb ed="#B" n="89" break="no"/>cerit, erit ei crassa ignorantia &amp; vincibilis: neminem 
+   <lb ed="#B" n="90"/>a culpa excusans. Et licet absoluat confitentem &amp; 
+   <lb ed="#B" n="91"/>casum iustificet a casu: adhuc non excusatur: quia 
+   <lb ed="#B" n="92"/>licet iustum faciat: non tamen iuste,
+   quemadmo<lb ed="#B" n="93" break="no"/>dum. ii. Ethico. dicit philosophus quod quis loquitur 
+   <lb ed="#B" n="94"/>grammaticam &amp; non grammatice: quia non ex ha 
+   <lb ed="#B" n="95"/>bitu artis. Haec dixerim propter aliquos pauca prim 
+   <lb ed="#B" n="96"/>cipia in theologia habentes: qui casus more loro 
+   <lb ed="#B" n="97"/>tum Gordii implicitos mox absoluunt vel repro 
+   <lb ed="#B" n="98"/>bant: tam in confessione quam extra confessionem: 
+   <lb ed="#B" n="99"/>quod est etiam peccato secluso contra viri famam: 
+   <lb ed="#B" n="100"/>quia inquisitione posterius facta ( vt plerunque fit)  
+   <lb ed="#B" n="101"/>resolutionis eius inuenietur oppositum. Vlterius 
+   <lb ed="#B" n="102"/>considerabis: si opulenti passim ac inopes tali con 
+   <lb ed="#B" n="103"/>tractu vtantur: nam si ita compertum fuerit: liciti 
+   <!--0357.xml-->
+   <pb ed="#B" n="163-r"/>
+       <cb ed="#B" n="a"/>
+       <lb ed="#B" n="1"/>contractus indicium est: &amp; quod non solum pressi ob 
+   <lb ed="#B" n="2"/>inopiam illum contractum ineant. Vltra haec con 
+   <lb ed="#B" n="3"/>siderandum est an vtentes tali contractu non de 
+   <lb ed="#B" n="4"/>pauperentur. si enim vnam pars contrahens
+   plerun<lb ed="#B" n="5" break="no"/>quod deterior fiat: &amp; alia melior: argumentum est quod 
+   <lb ed="#B" n="6"/>est iniquus. Sane dum lares patrios abhic quadri 
+   <lb ed="#B" n="7"/>ennium viserem &amp; essem apud coenobium
+   Mel<lb ed="#B" n="8" break="no"/>ros de quo Beda in libro ecclesiae gentis
+   Anglo<lb ed="#B" n="9" break="no"/>rum mentionem facit: hunc casum percrebrum 
+   <lb ed="#B" n="10"/>inueni. Nam abbas illius locilocat sibi subiectis 
+   <lb ed="#B" n="11"/>oues. sunt enim illic optima pascua: &amp; conductoribus 
+   <lb ed="#B" n="12"/>earum apponitur conditio omnis periculi
+   subeun<lb ed="#B" n="13" break="no"/>di. me autem ex religiosis &amp; aliis rogante: an con 
+   <lb ed="#B" n="14"/>ductores essent ita opulenti vt ante istum contra: 
+   <lb ed="#B" n="15"/>ctum: a nouissimis abbatibus compertum est vbi 
+   <lb ed="#B" n="16"/>quondam erant opulenti &amp; egregii pastores ouii 
+   <lb ed="#B" n="17"/>artem patriarcharum imitantes: nunc esse penitus 
+   <lb ed="#B" n="18"/>depauperatos: &amp; dira pressos inopia sine sua
+   cul<lb ed="#B" n="19" break="no"/>pa: &amp; multos cessisse loco. illud certe euidentissime 
+   <lb ed="#B" n="20"/>apud rudes debuit contractum ostendere
+   ini<lb ed="#B" n="21" break="no"/>quum. 
+  </p>
+      <p xml:id="jMqv4a-d1e867-d1e266">
+       <lb ed="#B" n="22"/>⁋ His praeambulis vtcumque in genes 
+   <lb ed="#B" n="23"/>rali positis quae ingenioso quodammodo suffice 
+   <lb ed="#B" n="24"/>rent: in speciali aliquos casus citabo: ex quorum 
+   <lb ed="#B" n="25"/>solutionibus similes enodare poteris. In primis no 
+   <lb ed="#B" n="26"/>tum esse debet quod sicut frequenter quis in praedii 
+   <lb ed="#B" n="27"/>suis retenta eorum proprietate pro mercede
+   con<lb ed="#B" n="28" break="no"/>cedit alteri vsumfructuum seu ius vtendi &amp; fruen 
+   <lb ed="#B" n="29"/>di illis seu percipiendi commoditates &amp; fructus eo 
+   <lb ed="#B" n="30"/>rum: salua eorum substantia: &amp; ita locare dicitur, 
+   <lb ed="#B" n="31"/>&amp; alter conducere, ex quaestione praecedente: sic po 
+   <lb ed="#B" n="32"/>test fieri in animalibus: quia etiam ex eis salua eo 
+   <lb ed="#B" n="33"/>rum substantia fructus admodum vtiles haberi 
+   <lb ed="#B" n="34"/>solent: vt in bobus, ouibus, capris, equis, asinis, &amp; 
+   <lb ed="#B" n="35"/>caeteris id genus. hae enim opes sunt naturales
+   qui<lb ed="#B" n="36" break="no"/>bus patres nostri ab initio orbis conditi, &amp; postea 
+   <lb ed="#B" n="37"/>patriarchae, Iob/ &amp; caeteri boni viri vsi sunt. Ex oui 
+   <lb ed="#B" n="38"/>bus nanque animalibus mansuetissimis (quibus 
+   <lb ed="#B" n="39"/>Christus comparatus est) Iac &amp; ex consequenti
+   bu<lb ed="#B" n="40" break="no"/>tyrum &amp; caseum: lanam &amp; carnes habes: pariter fi 
+   <lb ed="#B" n="41"/>mum ad terram impinguandam vtilissimum. ob 
+   <lb ed="#B" n="42"/>hoc enim agriculturae periti in campo sterili inclu 
+   <lb ed="#B" n="43"/>dunt oues septis / aliquot diebus quoad terra imi 
+   <lb ed="#B" n="44"/>pinguetur: &amp; postea ad consimile solum sterile
+   eas<lb ed="#B" n="45" break="no"/>dem cum septis ad terrae impinguationem
+   trans<lb ed="#B" n="46" break="no"/>ferunt. similes ex bobus commoditates habes: ex 
+   <lb ed="#B" n="47"/>vaccis lac: &amp; ex boum tergoribus calceos: sicut ex 
+   <lb ed="#B" n="48"/>ouium lana vestes. solis etiam bobus in plerisque 
+   <lb ed="#B" n="49"/>locis vt in vtroque regno Britannorum colitur ter 
+   <lb ed="#B" n="50"/>ta. Animalium commoditates ita agricolis nota 
+   <lb ed="#B" n="51"/>sunt: vt eas apud ipsos recitare sit superuacuum. 
+  </p>
+      <p xml:id="jMqv4a-d1e867-d1e335">
+       <lb ed="#B" n="52"/>⁋ Sed animalia tradens retinet crebro eorum do 
+   <lb ed="#B" n="53"/>minium: &amp; conducenti rustico pro certa mercede 
+   <!--0357.xml-->
+   <cb ed="#B" n="b"/> 
+       <!-- 163-r b -->
+       <lb ed="#B" n="54"/>vsumfructum concedit: &amp; ita est locatio ex parte 
+   <lb ed="#B" n="55"/>tradentis, &amp; conductio ex parte recipientis. &amp; ille 
+   <lb ed="#B" n="56"/>est primus modus.
+  </p>
+      <p xml:id="jMqv4a-d1e867-d1e355">
+   ⁋ Secundo interdum est loca 
+   <lb ed="#B" n="57"/>tio personae ex parte rustici recipientis animalia: 
+   <lb ed="#B" n="58"/>&amp; conductio personae ex parte tradentis ea: hoc 
+   <lb ed="#B" n="59"/>est, animalia tradens conducit rusticum in
+   ratio<lb ed="#B" n="60" break="no"/>ne pastoris pro mercede vt oues ad pascua minet 
+   <lb ed="#B" n="61"/>pascat, &amp; custodiat. nam opera hominis est eius 
+   <lb ed="#B" n="62"/>fructus. vt. l.iii. fif. de ope. seruorum. Interdum 
+   <lb ed="#B" n="63"/>pascuntur in terra tradentis animalia: interdum in  
+   <lb ed="#B" n="64"/>terra rustici. Primum apud Britannos est frequens: 
+   <lb ed="#B" n="65"/>vbi inuenies virum quater vel quinquies mille 
+   <lb ed="#B" n="66"/>francos &amp; eo amplius in redditibus annuis
+   haben<lb ed="#B" n="67" break="no"/>tem: supra septem milia ouium Iob: nonnunquam
+   de<lb ed="#B" n="68" break="no"/>cem milia possidentem. &amp; hoc bene fit in plerisque 
+   <lb ed="#B" n="69"/>locis vbi terra est montosa: tritico inidonea. Ou 
+   <lb ed="#B" n="70"/>frigora enim nullibi in Britannia crescunt vites: 
+   <lb ed="#B" n="71"/>quamobrem congruit illic pascere oues &amp;
+   vac<lb ed="#B" n="72" break="no"/>cas: quibus terra non est minus vtilis quam sit triticum: 
+   <lb ed="#B" n="73"/>&amp; montosa aliis terris melior. nam vnum miliare 
+   <lb ed="#B" n="74"/>montis, quatuor vel quinque miliaris pascuorum 
+   <lb ed="#B" n="75"/>valet ob montium altitudinem: &amp; ad montium 
+   <lb ed="#B" n="76"/>maximas altitudines oues &amp; caprae illaesae conscen 
+   <lb ed="#B" n="77"/>dunt &amp; descendunt. talia enim pascua sunt anima 
+   <lb ed="#B" n="78"/>libus istis optima: vt per caseos Arueniae
+   Pari<lb ed="#B" n="79" break="no"/>siis videre est: qui inter caseos gallicos primas
+   par<lb ed="#B" n="80" break="no"/>tes habere dicuntur. Tunc autem solet dominus 
+   <lb ed="#B" n="81"/>seni alicui artis pascendi oues perito: duos vel tres 
+   <lb ed="#B" n="82"/>puium greges ( quadringentas autem &amp;
+   octogin<lb ed="#B" n="83" break="no"/>ta oues grex continere dicitur) pro mercede dare, 
+   <lb ed="#B" n="84"/>addens pastori facultatem pascendi centum vel 
+   <lb ed="#B" n="85"/>ducentas oues pro ipso. aliquot item vaccas cum 
+   <lb ed="#B" n="86"/>equis vel equabus &amp; earum foetibus: &amp; aliquot 
+   <lb ed="#B" n="87"/>agellos pro eius grege nutriendo. Nonnunqui
+   eti<lb ed="#B" n="88" break="no"/>am pascuntur oues in terra rustici: terra inquam 
+   <lb ed="#B" n="89"/>quam habet conductitiam: &amp; tunc nutrimentum 
+   <lb ed="#B" n="90"/>&amp; labores animalibus ministrat.
+  </p>
+      <p xml:id="jMqv4a-d1e867-d1e431">
+   ⁋ Tertio
+   aliquan<lb ed="#B" n="91" break="no"/>do contrahunt sic. tradens animalia recipientem obli 
+   <lb ed="#B" n="92"/>gat ad restituendum ea post lapsum alicuius tem 
+   <lb ed="#B" n="93"/>poris: vtpote post duos vel tres annos tot anima 
+   <lb ed="#B" n="94"/>lia &amp; eiusdem valoris, etiam si apud recipientem 
+   <lb ed="#B" n="95"/>periissent casu fortuito vel qualitercunque. &amp;
+   tem<lb ed="#B" n="96" break="no"/>pore intermedio pro quo fit traditio, recipiens ani 
+   <lb ed="#B" n="97"/>malia potest ea distrahere aut aliter eis vti ad
+   libi<lb ed="#B" n="98" break="no"/>tum. &amp; aliquando tradendo ea aestimat vt eorum 
+   <lb ed="#B" n="99"/>cognoscatur valor. &amp; hic apparet esse mutuatio: 
+   <lb ed="#B" n="100"/>quia si sic ea tibi tradidero, de meo facio tuum /
+   trans<lb ed="#B" n="101" break="no"/>ferendo in te dominium &amp; proprietatem: quatenus 
+   <lb ed="#B" n="102"/>possis eis vti ad vsum qui est eorum consumptio: 
+   <lb ed="#B" n="103"/>&amp; obligo te vt illa restituas: non secundum nume 
+   <lb ed="#B" n="104"/>ralem identitatem: sed secundum identitatem 
+   <lb ed="#B" n="105"/>specificam. ista autem sunt substantialia &amp; naturalia 
+   <lb ed="#B" n="106"/>mutuationis: igitur ibi est mutuatio. nam pinde est ac si 
+   <lb ed="#B" n="107"/>tradens animalia daret ipsi recipienti animalia tantam pecuniam 
+   <!--0358.xml-->
+   <pb ed="#B" n="163-v"/>
+       <cb ed="#B" n="a"/>
+       <lb ed="#B" n="1"/>quantam valent animalia: sed si tantam pecuniam 
+   <lb ed="#B" n="2"/>praedicto modo daret: esset vera mutuatio. Nec 
+   <lb ed="#B" n="3"/>potes per hoc effugere quod animalia non sunt res mu 
+   <lb ed="#B" n="4"/>tuabiles: eo quod res mutuabilis debet habere vsum 
+   <lb ed="#B" n="5"/>qui est eius cosumptio. Sic enim est in proposito: quia 
+   <lb ed="#B" n="6"/>datur tibi facultas ad distrahenda ipsa animalia. si 
+   <lb ed="#B" n="7"/>cut enim pecunia distractione consumitur: sic ani 
+   <lb ed="#B" n="8"/>malia: quia comestio animalium est eorum consum 
+   <lb ed="#B" n="9"/>ptio: &amp; ad talem vsum conceduntur in isto casu 
+  </p>
+      <p xml:id="jMqv4a-d1e867-d1e496">
+       <lb ed="#B" n="10"/>⁋ Quarto interdum conueniunt vt alter pro
+   ali<lb ed="#B" n="11" break="no"/>nuo temporali animalia sua tradat alteri, transferen 
+   <lb ed="#B" n="12"/>do eorum dominium in alterum, faciendo alium 
+   <lb ed="#B" n="13"/>condominum: &amp; alter tot animalia vicissim tradat 
+   <lb ed="#B" n="14"/>vel aequiualens.
+  </p>
+      <p xml:id="jMqv4a-d1e867-d1e509">
+   ⁋ Quito vnus retinet sibiipsi pro 
+   <lb ed="#B" n="15"/>prietatem animalium suorum: &amp; communicat au 
+   <lb ed="#B" n="16"/>teri vsum ipsorum: &amp; facit eum consuarium: hoc 
+   <lb ed="#B" n="17"/>est: recipiens transfert simili modo aliquid tempo 
+   <lb ed="#B" n="18"/>rale in tradentem: faciendo ipsum participem in eo 
+   <lb ed="#B" n="19"/>dem temporali: quod sibi vicissim communicat: 
+   <lb ed="#B" n="20"/>etiam non abdicando a se illud temporale. &amp; hic 
+   <lb ed="#B" n="21"/>contractus est societas: quia societas est contractus 
+   <lb ed="#B" n="22"/>in quo aliquis res suas communicat alteri /
+   facien<lb ed="#B" n="23" break="no"/>do eum participem dominii vel vsusfructus
+   earun<lb ed="#B" n="24" break="no"/>dem / pro aliquo alio temporali sibi simili modo
+   con<lb ed="#B" n="25" break="no"/>municando, non enim est mutuatio / locatio / condu 
+   <lb ed="#B" n="26"/>ctio / aut permutatio: &amp; sic de aliis contractibus: &amp; 
+   <lb ed="#B" n="27"/>est contractus simplex: ergo a sufficiente diuisio 
+   <lb ed="#B" n="28"/>ne est societas. Multa hic quae in facto consistunt 
+   <lb ed="#B" n="29"/>recitauimus.
+  </p>
+      <p xml:id="jMqv4a-d1e867-d1e544">
+   ⁋ Sed ad respondendum de tribus 
+   <lb ed="#B" n="30"/>primis modis nihil oportet vltra dicta addere. nam 
+   <lb ed="#B" n="31"/>nomo potest locare corpus suum ad operandum, 
+   <lb ed="#B" n="32"/>&amp; ad animalia custodienda: &amp; hoc alter licite
+   con<lb ed="#B" n="33" break="no"/>ducere potest. similiter homo potest locare sua
+   ani<lb ed="#B" n="34" break="no"/>malia: &amp; alter conducere. si ergo seruetur iustitia
+   con<lb ed="#B" n="35" break="no"/>mutatiua secundum iudicium prudentum: contra 
+   <lb ed="#B" n="36"/>ctus est licitus. semper intelligo prudentes in illa 
+   <lb ed="#B" n="37"/>materia. in variis naque materiis variae sunt pruden 
+   <lb ed="#B" n="38"/>tiae. senes autem pastores &amp; rustici qui in his versa 
+   <lb ed="#B" n="39"/>ti sunt: in hac materia prudentes sunt. Si vero aliquid  
+   <lb ed="#B" n="40"/>capiatur in tertio contractu: est vsura: quia reputo 
+   <lb ed="#B" n="41"/>illum contractum mutuum, propter circumstantias 
+   <lb ed="#B" n="42"/>additas. recipiens enim tenetur de omni periculo, 
+   <lb ed="#B" n="43"/>&amp; potest distrahere animalia interea: ergo non
+   te<lb ed="#B" n="44" break="no"/>netur ad restituenda eadem: sed completo tempo 
+   <lb ed="#B" n="45"/>re pactionis tenetur restituere similia. modo ista es 
+   <lb ed="#B" n="46"/>sentialiter mutuum aedificant: sicut partes homi 
+   <lb ed="#B" n="47"/>nis hominem. De societate autem in quaestione se 
+   <lb ed="#B" n="48"/>quenti tractabimus. 
+  </p>
+      <p xml:id="jMqv4a-d1e867-d1e589">
+       <lb ed="#B" n="49"/>⁋ Ponamus nunc aliquos casus Cvt 
+   <lb ed="#B" n="50"/>aiunt) practicandos: eorum morem imitantes qui 
+   <lb ed="#B" n="51"/>ob logicas regulas plenius intelligendas sophisma 
+   <lb ed="#B" n="52"/>ta composuerunt: &amp; similiter in medicina specula 
+   <lb ed="#B" n="53"/>tiua &amp; practica. Primus sit iste. Sortes tradit Pla 
+   <lb ed="#B" n="54"/>toni centum oues: aut quot volueris ad annum vs 
+   <!--0358.xml-->
+   <cb ed="#B" n="b"/> 
+       <!-- 163-v b -->
+       <lb ed="#B" n="55"/>quod: tali conditione vt Plato teneatur eas &amp; earum 
+   <lb ed="#B" n="56"/>foetus cum diligentia pascere &amp; seruare expensis 
+   <lb ed="#B" n="57"/>suis: &amp; foetuum fideliter Sorti dimidium assigna 
+   <lb ed="#B" n="58"/>bit: &amp; in fine temporis easdem oues vel similes. di 
+   <lb ed="#B" n="59"/>uini iudicii vel casus fortuiti periculum sortes sub 
+   <lb ed="#B" n="60"/>ibit: reliqua ipse Plato. Cum doctus vidit contra 
+   <lb ed="#B" n="61"/>ctum seclusis circunstantiis esse licitum: quaerat a 
+   <lb ed="#B" n="62"/>confitente vel prudente rustico: an dimidia pars 
+   <lb ed="#B" n="63"/>foetuum expensis Platonis &amp; laboribus cum
+   one<lb ed="#B" n="64" break="no"/>re periculi aequiualeat, nec ne: &amp; secundum hoc re 
+   <lb ed="#B" n="65"/>spodeat.
+  </p>
+      <p xml:id="jMqv4a-d1e867-d1e635">
+   ⁋ Secundus casus. aliquis locat alteri ani 
+   <lb ed="#B" n="66"/>malia ficta: vtpote Sortes pauper rusticus a
+   diui<lb ed="#B" n="67" break="no"/>te petit mutuum. cui diues ait. Non mutuabo sed  
+   <lb ed="#B" n="68"/>abs te vnam vaccam emam: &amp; sic habebis pecu 
+   <lb ed="#B" n="69"/>niam: quam vaccam tibi mox locabo: &amp; dimittan 
+   <lb ed="#B" n="70"/>eam apud te tanquam meam pro certa annua merce 
+   <lb ed="#B" n="71"/>de. Cum diues sciat pauperem non habere vaccam: 
+   <lb ed="#B" n="72"/>non potest vaccam ab eo emere: &amp; per consequens 
+   <lb ed="#B" n="73"/>non potest locare ei vaccam, ratione cuius annuam 
+   <lb ed="#B" n="74"/>pensionem recipiat: sed est mutuatio vsuraria. cum 
+   <lb ed="#B" n="75"/>enim diues nihil dederit pauperi nisi pecuniam: se 
+   <lb ed="#B" n="76"/>quitur quod ex pecunia tradita annuam pensionem 
+   <lb ed="#B" n="77"/>recipit: igitur de pecunia mutuata recipit lucrum. 
+   <lb ed="#B" n="78"/>&amp; eodem modo dicatur de praediis fictis emptis. 
+   <lb ed="#B" n="79"/>non tamen peccaret si putaret pauperem habere 
+   <lb ed="#B" n="80"/>vaccam capiendo pensionem iustam.
+  </p>
+      <p xml:id="jMqv4a-d1e867-d1e670">
+   ⁋ Tertius 
+   <lb ed="#B" n="81"/>casus. Sortes tradit Platoni. xx. vaccas hoc
+   mo<lb ed="#B" n="82" break="no"/>do vt vaccae sint firmae: sic scilicet vt velit eas vel 
+   <lb ed="#B" n="83"/>earum valorem habere si pereant quomodocun 
+   <lb ed="#B" n="84"/>quod, vel deteriores efficiantur. cum hoc vult quod Pla 
+   <lb ed="#B" n="85"/>to habeat omne lucrum vel emolumentum inde 
+   <lb ed="#B" n="86"/>proueniens, sicut vult omne damnum &amp;
+   pericu<lb ed="#B" n="87" break="no"/>um esse Platonis, nec vult aliquid ratione istius 
+   <lb ed="#B" n="88"/>contractus habere a Platone. lste contractus est li 
+   <lb ed="#B" n="89"/>citus: &amp; mutuum, ac si Sortes daret tantam pecu 
+   <lb ed="#B" n="90"/>niam Platoni quantam valent. xx. vaccae ad tem 
+   <lb ed="#B" n="91"/>pus: post quod vult suam pecuniam repetere eti 
+   <lb ed="#B" n="92"/>am si in manu Platonis periisset.
+  </p>
+      <p xml:id="jMqv4a-d1e867-d1e699">
+   ⁋ Quartus ca 
+   <lb ed="#B" n="93"/>sus. a. tradit duo animalia b. per annum, volens 
+   <lb ed="#B" n="94"/>habere ab eo aliquot sextarios frumenti vel ali 
+   <lb ed="#B" n="95"/>quam aliam vtilitatem in pecunia vel in rebus con 
+   <lb ed="#B" n="96"/>sistentem: &amp; omne periculum illorum animalium 
+   <lb ed="#B" n="97"/>imponit b. ita vt b. debeat solus sustinere pericu 
+   <lb ed="#B" n="98"/>lum tam deprauationis quam mortis animalium: non 
+   <lb ed="#B" n="99"/>tantum eius deprauationis &amp; mortis quae ex cul 
+   <lb ed="#B" n="100"/>pa lata vel leui prouenerit: sed etiam eius quae ex 
+   <lb ed="#B" n="101"/>eius leuissima culpa: immo etiam quae sine culpa: 
+   <lb ed="#B" n="102"/>si scilicet fortuna vel diuino iudicio mors anima 
+   <lb ed="#B" n="103"/>libus contigerit.
+  </p>
+      <p xml:id="jMqv4a-d1e867-d1e725">
+   ⁋ Hunc contractum Conradus vsu 
+   <lb ed="#B" n="104"/>rarium dicit: &amp; loquitur quando in tempore in  
+   <lb ed="#B" n="105"/>termedio quo b. vtitur animalibus: non potest 
+   <lb ed="#B" n="106"/>ea distrahere. Argumenta autem contra se facit 
+   <lb ed="#B" n="107"/>quinibus nullo pacto satisfacit. Ego quam breuissi 
+   <lb ed="#B" n="108"/>me vt in tota ista materia institui: rem
+   expedi<lb ed="#B" n="109" break="no"/>am. Dico igitur illum contractum nullo modo  
+   <!--0359.xml-->
+   <pb ed="#B" n="164-r"/>
+       <cb ed="#B" n="a"/>
+       <lb ed="#B" n="1"/>vsurarium. sed est contractus locationis &amp; conductionis 
+   <lb ed="#B" n="2"/>cum b non possit distrahere animalia / vendere &amp; 
+   <lb ed="#B" n="3"/>comedere ante finem temporis de restitutione, nec 
+   <lb ed="#B" n="4"/>vllo pacto est mutuum. Et licet respondendo ad 
+   <lb ed="#B" n="5"/>primum argumentum quod facit contra se, dicat. 
+   <lb ed="#B" n="6"/>quis a. vocaliter non tradat ei ea ad vsum qui sii 
+   <lb ed="#B" n="7"/>eorum consumptio: tamen ipse sic ei ea tradit. nam 
+   <lb ed="#B" n="8"/>pro quanto omne periculum imponit b. videtur 
+   <lb ed="#B" n="9"/>ei ea concedere vt eis vtatur etiam eo vsu quo
+   per<lb ed="#B" n="10" break="no"/>eant &amp; consumantur. lstud nihil est. tum quia con 
+   <lb ed="#B" n="11"/>tra casum. tum quia commodator est dominus rei 
+   <lb ed="#B" n="12"/>commodatae: &amp; tamen potest pacisci quod
+   commo<lb ed="#B" n="13" break="no"/>datarius ad casum fortuitum &amp; ad omne
+   pericu<lb ed="#B" n="14" break="no"/>lum teneatur: vt dicit Romanus pontifex in capi 
+   <lb ed="#B" n="15"/>Cum gratia sui. de commodato. ergo b suscipere 
+   <lb ed="#B" n="16"/>omne periculum in se, non arguit ipsum esse do  
+   <lb ed="#B" n="17"/>minum rei: &amp; per consequens non est mutuum. Nec 
+   <lb ed="#B" n="18"/>potest eis vti post mortem comedendo vel venden 
+   <lb ed="#B" n="19"/>do: vt si bos submergeretur: quia distraheret alie 
+   <lb ed="#B" n="20"/>num: &amp; faceret furtum. Multo minus valet quod  
+   <lb ed="#B" n="21"/>dicit respondendo ad illud idem primum argumen 
+   <lb ed="#B" n="22"/>tum, vbi secundo dicit. dato quod a. vellet expresse 
+   <lb ed="#B" n="23"/>b. ea non consumere: sed tantummodo eis
+   vtere<lb ed="#B" n="24" break="no"/>tur in laboribus: &amp; nihilominus sic ei omne
+   pericu<lb ed="#B" n="25" break="no"/>lum imposuisset: non propter hoc posset a.
+   excu<lb ed="#B" n="26" break="no"/>sari ab iniquo contractu: quia etsi non posset
+   da<lb ed="#B" n="27" break="no"/>mnati vsurariae prauitatis: vt puta quia non
+   pos<lb ed="#B" n="28" break="no"/>set satis apparenter conuinci de mutuo animalium: 
+   <lb ed="#B" n="29"/>tamen minus iuste ageret cum b. nam si ea ad omnem 
+   <lb ed="#B" n="30"/>vsum concessisset vel mutuasset, &amp; aliquid accipe 
+   <lb ed="#B" n="31"/>ret nomine mercedis ab eo: diceretur inique agere 
+   <lb ed="#B" n="32"/>contra b. ergo multo magis condemnandus est
+   a<lb ed="#B" n="33" break="no"/>iniquitatis: quando ei non ad omnem vsum: sed 
+   <lb ed="#B" n="34"/>ad restrictiorem vsum concedit: &amp; nihilominus vult 
+   <lb ed="#B" n="35"/>habere mercedem ab eo. Hoc inquam minus va 
+   <lb ed="#B" n="36"/>let: &amp; ratio est: quia tunc esset verum mutuum: gra 
+   <lb ed="#B" n="37"/>tia cuius nihil licet accipere vltra sortem. nunc au 
+   <lb ed="#B" n="38"/>tem est locatio impura: hoc est habet conditionem 
+   <lb ed="#B" n="39"/>adiectam contra sua naturalia. vel est duorum
+   con<lb ed="#B" n="40" break="no"/>tractuum mixtio. &amp; idem est in sententia. modo li 
+   <lb ed="#B" n="41"/>cet aliquid capere ratione locationis secundum 
+   <lb ed="#B" n="42"/>omnes. Nec valet quod tertio dicit: quod etsi non pos 
+   <lb ed="#B" n="43"/>set conuinci a. mutuasse animalia: tamen
+   conuin<lb ed="#B" n="44" break="no"/>ceretur aequiualenter pecuniam aequiualentem ani 
+   <lb ed="#B" n="45"/>malibus mutuasse. Si probetur contractus loca 
+   <lb ed="#B" n="46"/>tionis, vel mixtio duorum contractuum licitorum 
+   <lb ed="#B" n="47"/>tam separatim qui coniunctorum: non pontes per 
+   <lb ed="#B" n="48"/>virtuale mutuum aufugere. &amp; si proteruiendo quis 
+   <lb ed="#B" n="49"/>euadere studeat: dabitur occasio sic cum dyscolia 
+   <lb ed="#B" n="50"/>quoscunque casus licitos reprobandi ratione
+   vir<lb ed="#B" n="51" break="no"/>tualis mutui. Dico ergo sicut dicebam a pricipio 
+   <lb ed="#B" n="52"/>quod est duorum casuum licitorum mixtio: vel loca 
+   <lb ed="#B" n="53"/>tio impura. hoc est cum conditionibus contra na 
+   <lb ed="#B" n="54"/>turam locationis. quod idem valet. nam a. locat 
+   <lb ed="#B" n="55"/>duo animalia ipsi b. vt habeat. xii. sextarios frumen- 
+   <!--0359.xml-->
+   <cb ed="#B" n="b"/> 
+       <!-- 164-r b -->
+       <lb ed="#B" n="56"/>ti, gratia exempli: tunc doli &amp; latae culpae tenetur 
+   <lb ed="#B" n="57"/>b. virtute contractus locationis. a. paciscitur &amp;
+   fa<lb ed="#B" n="58" break="no"/>cit nouum contractum cum b. vel addit aliqua non  
+   <lb ed="#B" n="59"/>pugnantia cum contractu locationis. ac si diceret. 
+   <lb ed="#B" n="60"/>domine b. tu teneris mihi restituere meos duos 
+   <lb ed="#B" n="61"/>boues vel eorum valorem si dolo vel lata culpa 
+   <lb ed="#B" n="62"/>pereant: &amp; dare mihi etiam ratione mercedis in
+   lo<lb ed="#B" n="63" break="no"/>catione. xii. sextarios frumenti: gratia exempli hoc 
+   <lb ed="#B" n="64"/>pono: &amp; quod sit iustum precium. sum contentus di 
+   <lb ed="#B" n="65"/>minuere vnam portionem precii ea lege vt ome 
+   <lb ed="#B" n="66"/>periculum boum suscipias: ita quod qualitercumque per 
+   <lb ed="#B" n="67"/>eant: mihi ad restitutionem teneberis. potest autem 
+   <lb ed="#B" n="68"/>fieri vt ratissime boues in tali loco pereant sine do.  
+   <lb ed="#B" n="69"/>lo. quare, cur licite non possint pacisci mutuo
+   su<lb ed="#B" n="70" break="no"/>per diminutione precii dandi ipsi a, non video: 
+   <lb ed="#B" n="71"/>cum hoc quod b. omne periculum subibit: ita vt
+   iu<lb ed="#B" n="72" break="no"/>dicio prucentum colonorum iudicetur casus b 
+   <lb ed="#B" n="73"/>melior vel tam bonus ratione diminutionis
+   mer<lb ed="#B" n="74" break="no"/>cedis quam ratione oneris quod subit. &amp; cum nec sit 
+   <lb ed="#B" n="75"/>mutuum nec contra iudicium prudentum
+   colo<lb ed="#B" n="76" break="no"/>norum: illud est licitum censendum. Facile est osten 
+   <lb ed="#B" n="77"/>dere quod nullum argumentum quod contra se
+   fa<lb ed="#B" n="78" break="no"/>cit in parte soluant. Sed ne in hoc incidam in quo 
+   <lb ed="#B" n="79"/>alios de verborum prodigalitate (vbi res paucis 
+   <lb ed="#B" n="80"/>expediri potest) arguere soleo: singulas eius solu 
+   <lb ed="#B" n="81"/>tiones refellere est inutile.
+  </p>
+      <p xml:id="jMqv4a-d1e867-d1e929">
+   ⁋ Nunc soluam duo eius 
+   <lb ed="#B" n="82"/>argumenta quibus probat intentum suum: finem 
+   <lb ed="#B" n="83"/>impositurus. Arguit sic. a. censetur praedicta
+   ani<lb ed="#B" n="84" break="no"/>malia mutuasse b. ex quo a. vult esse immunis ab 
+   <lb ed="#B" n="85"/>omni periculo animalium: non minus quam si tantum 
+   <lb ed="#B" n="86"/>dem pecuniae mutuasset b. &amp; omne periculum
+   im<lb ed="#B" n="87" break="no"/>posuisset b. quale mutuatarius tantae pecuniae ha 
+   <lb ed="#B" n="88"/>beret subire. Ad istud argumentum iam
+   respon<lb ed="#B" n="89" break="no"/>sum est: quod nullo pacto est mutuatio. Secundo at 
+   <lb ed="#B" n="90"/>guit. tenendo oppositum aperitur via vsurariis. 
+   <lb ed="#B" n="91"/>nam cum homines videant sibi non licere mutua 
+   <lb ed="#B" n="92"/>re suas pecunias sub certa mercede: omnem suam 
+   <lb ed="#B" n="93"/>pecuniam expendent pro animalibus emendis vel 
+   <lb ed="#B" n="94"/>pro domibus: &amp; dicent se huiusmodi locare aliis 
+   <lb ed="#B" n="95"/>pro certa mercede. atta men illis imponent omne 
+   <lb ed="#B" n="96"/>periculum eodem modo ac si tantam pecuniam 
+   <lb ed="#B" n="97"/>quantam expenderunt pro animalibus vel domi 
+   <lb ed="#B" n="98"/>bus: eis mutuassent. Respondetur negando quod 
+   <lb ed="#B" n="99"/>aperitur via vsurariis. certe multo magis
+   aperie<lb ed="#B" n="100" break="no"/>tur admittendo quod liceat capere ratione lucri cessan 
+   <lb ed="#B" n="101"/>tis vltra sortem: &amp; ratione poenae conuentionalis 
+   <lb ed="#B" n="102"/>vel sollicitudinis quam homo habet ex suae pecu 
+   <lb ed="#B" n="103"/>niae carentia. quod ipse &amp; recte opinione mea inse 
+   <lb ed="#B" n="104"/>quitur sicut &amp; ego. &amp; nulli dubium est quin
+   pru<lb ed="#B" n="105" break="no"/>dens tantum lucretur sine vsura quantum impru 
+   <lb ed="#B" n="106"/>dens vsurarius cum foenore. hoc patet in
+   emen<lb ed="#B" n="107" break="no"/>dis agris irredimibilibus vel redditibus. Ad oculum 
+   <lb ed="#B" n="108"/>exemplificabo de duobus primariis collegiorum 
+   <lb ed="#B" n="109"/>moderatoribus: quorum vnus procurat bonos
+   re<lb ed="#B" n="110" break="no"/>gentes: &amp; bonam politiam seruat in collegio vt 
+   <!--0360.xml-->
+   <pb ed="#B" n="164-v"/>
+       <cb ed="#B" n="a"/>
+       <lb ed="#B" n="1"/>habeat lucrum: illic praecise sistendo. alter facit vt 
+   <lb ed="#B" n="2"/>bene pascat gregem sibi commissum: &amp; non ob spem 
+   <lb ed="#B" n="3"/>lucri: iucrum tamen occurrens non recusat. secun 
+   <lb ed="#B" n="4"/>dus hic tantum lucratur quantum prior. Sed for 
+   <lb ed="#B" n="5"/>te iterum argumentaris. si a concessisset b. animalia sic 
+   <lb ed="#B" n="6"/>scilicet vt b. posset illa distrahere quandocumque vellet: &amp; 
+   <lb ed="#B" n="7"/>cum hoc obligaretur subire omne periculum &amp;
+   co<lb ed="#B" n="8" break="no"/>geretur restituere similia animalia si perirent: iam 
+   <lb ed="#B" n="9"/>esset mutuum: &amp; esset vsura si caperetur aliquid
+   ra<lb ed="#B" n="10" break="no"/>tione istius contractus: ergo eodem modo si non  
+   <lb ed="#B" n="11"/>possit distrahere illa animalia. Respondeo. vides con 
+   <lb ed="#B" n="12"/>sequentiam nullam ex dictis: cum in vno sit mu 
+   <lb ed="#B" n="13"/>tuum: non autem in alio. Et eodem modo consi 
+   <lb ed="#B" n="14"/>quenter dicendum est: si a. tradit b. xx. animalia aesti 
+   <lb ed="#B" n="15"/>mata. xx. libris: &amp; b. debet habere medietatem me 
+   <lb ed="#B" n="16"/>dietatis fructuum &amp; foetuum prouenientium: ita 
+   <lb ed="#B" n="17"/>tamen vt b. teneatur a. reddere dimidiam partem illo 
+   <lb ed="#B" n="18"/>rum animalium in valore qualitercunque pereant. 
+   <lb ed="#B" n="19"/>vbi ipse dicit esse duos contractus, scilicet societa 
+   <lb ed="#B" n="20"/>tis &amp; mutui. nam a. censetur mutuasse. xx. anima 
+   <lb ed="#B" n="21"/>lia de praedicto numero b. pro quanto vult a. b. pos 
+   <lb ed="#B" n="22"/>se repetere decem animalia vel eorum valorem qua 
+   <lb ed="#B" n="23"/>litercunque pereant. Dico illud esse falsum: &amp; cose 
+   <lb ed="#B" n="24"/>quenter ad illa quae iam dixi: sunt duo contractus 
+   <lb ed="#B" n="25"/>quorum vnus nullo modo est mutuum virtute
+   il<lb ed="#B" n="26" break="no"/>lius casus sed vnus est locatio: &amp; alter est contract 
+   <lb ed="#B" n="27"/>innominatus: scilicet dabo tibi quartam partem fru 
+   <lb ed="#B" n="28"/>ctus istorum animalium ea lege vt subeas pericu 
+   <lb ed="#B" n="29"/>lum de eis restituendis qualitercunque pereant. &amp; si 
+   <lb ed="#B" n="30"/>illud lucrum iudicetur a prudentibus rusticis tam 
+   <lb ed="#B" n="31"/>expetibile quam est onus periculi fugibile: contractus 
+   <lb ed="#B" n="32"/>non est reprobandus. Et ita plerique alii casus cori 
+   <lb ed="#B" n="33"/>formiter ad istos in materia socidarum &amp; societa 
+   <lb ed="#B" n="34"/>tis terminandi sunt: opposito modo ad aliorum di 
+   <lb ed="#B" n="35"/>cendi modum: quia hoc quod nunc diximus est ad  
+   <lb ed="#B" n="36"/>multa alia dicenda radix &amp; clauis.
+  </p>
+    </div>
+   </body>
+  </text>
+</TEI>

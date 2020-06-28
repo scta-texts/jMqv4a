@@ -1,0 +1,674 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 3</title>
+      <author ref="#JohnMair">John Mair</author>
+      <respStmt>
+       <name>Jeffrey C. Witt</name>
+       <resp>TEI Encoder</resp>
+      </respStmt>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 3</title>
+       <date when="2020-06-09">June 27, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="B" n="cod-Bda113">Badius 1516</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+     guidelines for a diplomatic edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-06-27" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+      <pb ed="#B" n="12-v"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="jMqv4a-d1e6425"> <!-- l4d1q3 -->
+      <head xml:id="jMqv4a-d1e6425-Hd1e104">Quaestio 3</head>
+      <head xml:id="jMqv4a-d1e6425-Hd1e107" type="question-title">An sacramenta novae legis causalitatem aliquam habeant respectu characteris vel ornatus in anima</head>
+      <p xml:id="jMqv4a-d1e6425-d1e110">
+   <!--0056.xml-->
+       <cb ed="#B" n="b"/> 
+       <!-- 12-v b -->
+       <lb ed="#B" n="55"/>Distinctionis Primae. Quaestio Tertia. 
+   <lb ed="#B" n="56"/>QVaeritur tertio circa 
+   <lb ed="#B" n="57"/>hanc distinctionem. vtrum sa 
+   <lb ed="#B" n="58"/>cramenta nouae legis
+   causa<lb ed="#B" n="59" break="no"/>litatem aliquam habeant respe 
+   <lb ed="#B" n="60"/>ctu characteris vel ornatus 
+   <lb ed="#B" n="61"/>in anima. Pro solutione
+   quae<lb ed="#B" n="62" break="no"/>stionis notabis partitam esse 
+   <lb ed="#B" n="63"/>positionem. Doctores antiqui tenuerunt sacramenta 
+   <lb ed="#B" n="64"/>nullam actiuitatem habere: sed esse causas sine
+   qui<lb ed="#B" n="65" break="no"/>bus non. Quidam doctor in quarta parte quaestione 
+   <lb ed="#B" n="66"/>viii. menbro. iii. articulo. v. quem sequitur alius &amp; eius 
+   <lb ed="#B" n="67"/>schola, tenet sacramenta habere causalitatem proprie 
+   <lb ed="#B" n="68"/>dictam.
+  </p>
+      <p xml:id="jMqv4a-d1e6425-d1e149">
+   ⁋ Pro intelligentia illius positionis notabis 
+   <lb ed="#B" n="69"/>quod duo sunt effectus sacramenti. Vnus est
+   chara<lb ed="#B" n="70" break="no"/>cter in tribus sacramentis impressus: vel
+   orna<lb ed="#B" n="71" break="no"/>tus in quatuor aliis impressus. Alius est gratia. 
+   <lb ed="#B" n="72"/>Respectu autem characteris vel ornatus sacramen 
+   <lb ed="#B" n="73"/>ta causalitatem proprie dictam habent &amp; non respe 
+   <lb ed="#B" n="74"/>ctu gratiae. Coloratur positio. nam instrumentum 
+   <lb ed="#B" n="75"/>dum mouetur a principali agente recipit ab eo 
+   <lb ed="#B" n="76"/>virtutem aliquam per quam producit aliquid vltra illud 
+   <lb ed="#B" n="77"/>quod secundum suam naturam produceret. Illud autem est
+   quan<lb ed="#B" n="78" break="no"/>doque forma vltima: quandoque aliqua dispositio pra 
+   <lb ed="#B" n="79"/>uia. Declaratur exemplariter. calor ex natura sua 
+   <lb ed="#B" n="80"/>producit calorem: sed pro quanto est instrumentum 
+   <lb ed="#B" n="81"/>formae substantialis cocurrit ad productionem formae 
+   <lb ed="#B" n="82"/>substantialis: virtus autem in semine non attingit 
+   <lb ed="#B" n="83"/>productionem formae substantialis animae ratio 
+   <lb ed="#B" n="84"/>nalis: sed dispositionem praeuiam. modo sacramenta 
+   <lb ed="#B" n="85"/>sunt instrumenta dei: &amp; recipiunt ab eo quendam  
+   <lb ed="#B" n="86"/>influxum per quem agunt vltra actionem sibi natura 
+   <lb ed="#B" n="87"/>lem: vt aqua in baptismo madefacit &amp; mundat 
+   <lb ed="#B" n="88"/>ex propria natura: &amp; per influxum inhaerentem aquae con 
+   <lb ed="#B" n="89"/>currit ad productione characteris in anima bapti 
+   <lb ed="#B" n="90"/>zati: secundum illud beati <name xml:id="jMqv4a-d1e6425-Nd1e198" ref="#Augustine">Augustini</name> Homilia. lxxx. 
+   <lb ed="#B" n="91"/>super loannem. Quae est ista virtus aquae quae
+   cor<lb ed="#B" n="92" break="no"/>pus tangit &amp; cor abluitus 
+  </p>
+      <p xml:id="jMqv4a-d1e6425-d1e208">
+       <lb ed="#B" n="93"/>⁋ Contra instam positionem
+   argumen<lb ed="#B" n="94" break="no"/>tor. vel iste influxus sacramento inhaerens est
+   ac<lb ed="#B" n="95" break="no"/>cidens corporeum: vel incorporeum. si secundum 
+   <lb ed="#B" n="96"/>non apparet quod potest inhaerere subiecto totaliter 
+   <lb ed="#B" n="97"/>corporeo: si primum: non apparet quomodo agit 
+   <lb ed="#B" n="98"/>in animam characterem. Etiam virtus corporea 
+   <lb ed="#B" n="99"/>in maiori subiecto est maior: sed in maiori
+   sub<lb ed="#B" n="100" break="no"/>ecto haec virtus est aequalis: igitur. &amp; est contra 
+   <lb ed="#B" n="101"/>beatum <name xml:id="jMqv4a-d1e6425-Nd1e229" ref="#Augustine">Augustinum</name>. vi. Musicae. quod corpus potest: 
+   <lb ed="#B" n="102"/>agere in spiritum. Hac via tenebo quod ignis infer 
+   <lb ed="#B" n="103"/>ni potest causare quandam qualitatem spirituale 
+   <lb ed="#B" n="104"/>nociuam daemoni &amp; animae damnatae. quod non 
+   <lb ed="#B" n="105"/>admittunt bene intelligentes: nec tenentes illam 
+   <lb ed="#B" n="106"/>positionem. Rursus, vel iste influxus inhaeret 
+   <!--0057.xml-->
+   <pb ed="#B" n="13-r"/>
+       <cb ed="#B" n="a"/>
+       <lb ed="#B" n="1"/>verbis: &amp; sic accidentis est accidens: contra Aristo 
+   <lb ed="#B" n="2"/>telem in sexta proprietate substantiae: in qua dicit 
+   <lb ed="#B" n="3"/>Maxime proprium est substantiae cum sit vna 
+   <lb ed="#B" n="4"/>&amp; eadem numero quod sit susceptiua contrariorum, 
+   <lb ed="#B" n="5"/>Si inhaereat verbis &amp; aquae in baptismo, hoc vi 
+   <lb ed="#B" n="6"/>detur extraneum quod vnum accidens inhaereat
+   duo<lb ed="#B" n="7" break="no"/>bus subiectis specie distinctis non facientibus ali 
+   <lb ed="#B" n="8"/>quod vnum. Et quaeritur: an inhaereat toti aquae  
+   <lb ed="#B" n="9"/>maris syncategorematice: posito quod quis baptizetur i 
+   <lb ed="#B" n="10"/>mari: &amp; cuilibet syllabae illius orationis ego te ba 
+   <lb ed="#B" n="11"/>ptizo: vel vltimae syllabae. si nouissimae syllabae 
+   <lb ed="#B" n="12"/>aliae partes superfiuunt.
+  </p>
+      <p xml:id="jMqv4a-d1e6425-d1e277">
+   ⁋ Praeterea. cum Sortes con 
+   <lb ed="#B" n="13"/>trahit cum Berta per verba de praesenti, capio te in mean 
+   <lb ed="#B" n="14"/>&amp; contra: vel illa verba effectiue concurrunt ad orna 
+   <lb ed="#B" n="15"/>tum matrimonii, vel non. Si secundum / positio nulla. 
+   <lb ed="#B" n="16"/>Si primum, ponatur nutus / vel taciturnitas: vt pat 
+   <lb ed="#B" n="17"/>in verecunda puella / aut ponatur matrimonium 
+   <lb ed="#B" n="18"/>contractum inter Sortem in Britannia &amp; Bertam in 
+   <lb ed="#B" n="19"/>Liuonia. Et quaeritur quomodo possint verba illa ad tam 
+   <lb ed="#B" n="20"/>tam distantiam causare onatum.
+  </p>
+      <p xml:id="jMqv4a-d1e6425-d1e297">
+   ⁋ Non puto has 
+   <lb ed="#B" n="21"/>rationes radicitus posse dissolui: quiqui duo solemnes 
+   <lb ed="#B" n="22"/>doctores hanc positionem posuerunt cum suis
+   se<lb ed="#B" n="23" break="no"/>quacibus. Vtcunque tamen respondere conabimur. &amp; 
+   <lb ed="#B" n="24"/>quiqui colluctantur viri illius positionis: aliquibus di 
+   <lb ed="#B" n="25"/>centibus accidens esse corporeum, aliquibus
+   oppo<lb ed="#B" n="26" break="no"/>situm: dicam ipsum esse incorporeum. Non enim admit 
+   <lb ed="#B" n="27"/>timus quod corpus agat aliquam actionem vltra 
+   <lb ed="#B" n="28"/>notitiam in substantiam impartibilem. Et dico non 
+   <lb ed="#B" n="29"/>inconuenire accidens impartibile inhaerere subie 
+   <lb ed="#B" n="30"/>cto diuisibili, quod patet in relationibus intrinsed 
+   <lb ed="#B" n="31"/>aduenientibus pariter &amp; extrinsecus. Paternitas 
+   <lb ed="#B" n="32"/>enim inhaeret toti patri: &amp; nulli parti eius: &amp; pater 
+   <lb ed="#B" n="33"/>est corporeus. Et si dicas vnam partem sortis esse in 
+   <lb ed="#B" n="34"/>diuisibilem, accipito brunellum patrem totaliter 
+   <lb ed="#B" n="35"/>diuisibilem. Idem patet in accidentibus absolutis 
+   <lb ed="#B" n="36"/>Quantitas enim discreta est accidens indiuisibile: 
+   <lb ed="#B" n="37"/>&amp; subiecto diuisibili inhaeret. taceo de secundis in 
+   <lb ed="#B" n="38"/>tentionibus habentibus esse diminutum existenti 
+   <lb ed="#B" n="39"/>bus quasi in denominato.
+  </p>
+      <p xml:id="jMqv4a-d1e6425-d1e341">
+   ⁋ Ad secundum dicitur 
+   <lb ed="#B" n="40"/>quod iste influxus in baptismo inhaeret verbis &amp; aqua  
+   <lb ed="#B" n="41"/>copulatim: &amp; non est improbabile consequenter 
+   <lb ed="#B" n="42"/>quod ministro, verbis, &amp; aquae inhaereat, tenendo quoi 
+   <lb ed="#B" n="43"/>numerus formalis distinguitur a rebus
+   numera<lb ed="#B" n="44" break="no"/>tis: &amp; quod est accidens indiuisibile inhaerens
+   pluri<lb ed="#B" n="45" break="no"/>bus subiectis copulatim &amp; non copulatiue: quia 
+   <lb ed="#B" n="46"/>nisi sic, dabis eandem rem naturaliter esse motam ad
+   di<lb ed="#B" n="47" break="no"/>uersas differentias positionum: vel moueri &amp; quie 
+   <lb ed="#B" n="48"/>scere. patet. Capto numero quaternario hominium
+   mo<lb ed="#B" n="49" break="no"/>uentium ad partes oppositas / vel duobus
+   quiescenti<lb ed="#B" n="50" break="no"/>bus &amp; duobus motis / magis illud accidens
+   capitin<lb ed="#B" n="51" break="no"/>haesionem in vltima syllaba formae verborum: &amp; in 
+   <lb ed="#B" n="52"/>aqua proxime tangenti baptizatum. accidens autem 
+   <lb ed="#B" n="53"/>inhaeret accidenti tanquam subiecto quo: sed non ta 
+   <lb ed="#B" n="54"/>quam subiecto quod. Naturaliter enim vltimate accidens 
+   <lb ed="#B" n="55"/>inhaeret eidem subiecto cui inhaeret accidens in  
+   <!--0057.xml-->
+   <cb ed="#B" n="b"/> 
+       <!-- 13-r b -->
+       <lb ed="#B" n="56"/>quo est: vt similitudo inhaeret albedini fundamento 
+   <lb ed="#B" n="57"/>proximo: &amp; eidem subiecto radicaliter cui albedo 
+   <lb ed="#B" n="58"/>nhaeret. idem patet de quaelitate &amp; quantitate. Et sicut 
+   <lb ed="#B" n="59"/>non datur locus adaequatus in quo est numerus 
+   <lb ed="#B" n="60"/>formalis: ita non datur locus adaequatus in quo 
+   <lb ed="#B" n="61"/>est illud accidens: sed copulatim est in multis: ec 
+   <lb ed="#B" n="62"/>modo quo ei competit esse in loco.
+  </p>
+      <p xml:id="jMqv4a-d1e6425-d1e400">
+   ⁋ Ad aliud 
+   <lb ed="#B" n="63"/>argumetum de matrimonio dicitur quod verba
+   haec<lb ed="#B" n="64" break="no"/>ego capio te in meam &amp;c. causant ornatus quos 
+   <lb ed="#B" n="65"/>dam in animabus coniugum: &amp; si fuerint nutus &amp; non 
+   <lb ed="#B" n="66"/>verba / idem faciunt: &amp; si fuerint in distantia mille
+   leu<lb ed="#B" n="67" break="no"/>carum idem faciunt: quia non requiritur tactus
+   mathema<lb ed="#B" n="68" break="no"/>ticus ad talem actionem. hoc non inconvenit in
+   instru<lb ed="#B" n="69" break="no"/>mento dei. Vel verbum causat ornatum in anima proferen 
+   <lb ed="#B" n="70"/>tis. In confirmatione autem/ ordine / &amp; extrema
+   vn<lb ed="#B" n="71" break="no"/>ctione virtus inhaeret verbo / &amp; materiae per quam 
+   <lb ed="#B" n="72"/>illa instrumenta conferuntur: &amp; vt apparet melius ipsi 
+   <lb ed="#B" n="73"/>ministro: cum sit necessarius ad collationem
+   sacra<lb ed="#B" n="74" break="no"/>menti. In poenitentia / ministro / &amp; verbis. In sacra 
+   <lb ed="#B" n="75"/>mento Eucharistiae verba causant omatum in anima. 
+  </p>
+      <p xml:id="jMqv4a-d1e6425-d1e431">
+       <lb ed="#B" n="76"/>⁋ Ecce quomodo datur via euadendi. &amp; facilius est 
+   <lb ed="#B" n="77"/>his qui sunt de secta realium abire sine inconvenienti 
+   <lb ed="#B" n="78"/>reputato, quam nominalibus. Pro me tamen multa quae dicebam 
+   <lb ed="#B" n="79"/>soluendo puto commenta, nec enim opinor quantita 
+   <lb ed="#B" n="80"/>tem discretam distingui a rebus numeratis: nec pono 
+   <lb ed="#B" n="81"/>secundas intentiones distinctas a terminis: nec re 
+   <lb ed="#B" n="82"/>lationes distinctas a fundamentis. 
+   <lb ed="#B" n="83"/>Propterea teneo antiquam
+   opiio<lb ed="#B" n="84" break="no"/>nem cum aliis neotericis: nec hoc est contradicere 
+   <lb ed="#B" n="85"/>sanctis. Quidam vtramque positionem recitans
+   decli<lb ed="#B" n="86" break="no"/>nat in hanc quod sacramenta nouae legis nullam causali 
+   <lb ed="#B" n="87"/>tatem habent respectu characteris vel ornatus. &amp; dicit 
+   <lb ed="#B" n="88"/>eam fauere pietati fidei: &amp; quadrare rationi. sed  
+   <lb ed="#B" n="89"/>sunt solummodo causae sicut denarius plumbeus 
+   <lb ed="#B" n="90"/>respectu eleemosynae regis / vel panis habendi. 
+   <lb ed="#B" n="91"/>Sicut enim quando panis fracta pecunia emitur, 
+   <lb ed="#B" n="92"/>venditor dat signum plumbeum pro habendo alio pane: 
+   <lb ed="#B" n="93"/>vt qui illud signum affert habeat panem: simiter de
+   ele<lb ed="#B" n="94" break="no"/>emosynatio regis: sic ex pacto diuino qui capit sa 
+   <lb ed="#B" n="95"/>cramenta habebit gratiam a deo creatam / nisi sit obex 
+   <lb ed="#B" n="96"/>&amp; deus etiam characteres in sacramentis
+   initerabi<lb ed="#B" n="97" break="no"/>libus creat. Cui suffragatur illd beati Bernardi in ser 
+   <lb ed="#B" n="98"/>mone de coena dominidicentis. Sicut canonicus
+   inue<lb ed="#B" n="99" break="no"/>stitur per librum: abbas per baculum &amp; annulum: sic
+   di<lb ed="#B" n="100" break="no"/>uersae gratiae diuersis sunt traditae sacramentis. 
+   <lb ed="#B" n="101"/>Non pono autem tales ornatus in sacramentis ite 
+   <lb ed="#B" n="102"/>rabilibus: nec ad sacramentorum iterationem opor 
+   <lb ed="#B" n="103"/>tet hos ornatus multiplicare. Et quaeritur an specie
+   dif<lb ed="#B" n="104" break="no"/>ferant a characteribus in sacramentis
+   initerabili<lb ed="#B" n="105" break="no"/>bus impressis, nec ne. Quia igritur nec ratione / nec aucto 
+   <lb ed="#B" n="106"/>ritate aliqua isti ornatus sunt stabiliti: contra com 
+   <lb ed="#B" n="107"/>munem modum hos ornatus omnes nego: virtutes 
+   <lb ed="#B" n="108"/>autem &amp; earum actus animam ornant. Nec per causalitatem
+   sa<lb ed="#B" n="109" break="no"/>cramenta nouae legis a sacramentis veteris legis di 
+   <!--0058.xml-->
+   <pb ed="#B" n="13-v"/>
+       <cb ed="#B" n="a"/>
+       <lb ed="#B" n="1"/>stinguuntur: sed per maiorem gratiam &amp; apertionem 
+   <lb ed="#B" n="2"/>ianuae: &amp; sic baptismus est solum causa sine qua 
+   <lb ed="#B" n="3"/>non, characteris &amp; gratiae: &amp; ita in aliis
+   sacramen<lb ed="#B" n="4" break="no"/>tis. Rationes aliorum nihil momenti habent. Instru 
+   <lb ed="#B" n="5"/>mentum enim dum mouetur ab agente, vt securis, nihil 
+   <lb ed="#B" n="6"/>in se recipit per motum localem. nulla. n. virtus recipitur in 
+   <lb ed="#B" n="7"/>mobili: vt dicitur octauo Physicorum. Probabile est 
+   <lb ed="#B" n="8"/>dicere quod motus localis non distinguitur a mobili quod 
+   <lb ed="#B" n="9"/>mouetur, cum est corpus durum pellit minutatim aliud  
+   <lb ed="#B" n="10"/>corpus ab eodem loco: cum non possunt simul
+   ma<lb ed="#B" n="11" break="no"/>nere: &amp; resistentia corporis duri est maior in magna 
+   <lb ed="#B" n="12"/>arte quam parua: propterea difficilius est magnam
+   expel<lb ed="#B" n="13" break="no"/>lere: quidlibet corpus quantum potest, resistit suae 
+   <lb ed="#B" n="14"/>corruptioni &amp; diuisioni. Successu temporis secu 
+   <lb ed="#B" n="15"/>ris vel serra quaercum diuidit: nimirum ferreus assiduo 
+   <lb ed="#B" n="16"/>consumitur annulus vsu, &amp; gutta cadens in stillici 
+   <lb ed="#B" n="17"/>dio partem lapidis aufert, secundum illud.
+   Gut<lb ed="#B" n="18" break="no"/>ta cauat lapidem non vi, sed saepe cadendo. Nec est 
+   <lb ed="#B" n="19"/>danda aliqua virtus securi vel serrae inhaerens: nec 
+   <lb ed="#B" n="20"/>aliud accidens tempore motus quam antemotum, extendem 
+   <lb ed="#B" n="21"/>do terminum instrumenti ad causam quae ab alia
+   de<lb ed="#B" n="22" break="no"/>pendet: quomodo quaelibet creatura potest dici instrumen 
+   <lb ed="#B" n="23"/>tum dei: &amp; calor ignis est instrumentum formae sub 
+   <lb ed="#B" n="24"/>stantialis ignis: nullum ergo accidens suscipitur 
+   <lb ed="#B" n="25"/>quod non habebat ante actionem. 
+  </p>
+      <p xml:id="jMqv4a-d1e6425-d1e569">
+       <lb ed="#B" n="26"/>⁋ Sed forte dicis: ignis corporeus 
+   <lb ed="#B" n="27"/>inferni causat tristitiam in animam damnati tamquam in  
+   <lb ed="#B" n="28"/>strumentum punitiuum dei: ergo hoc non est negandum 
+   <lb ed="#B" n="29"/>a sacramentis. Insuper Adam in semine si non
+   peccas<lb ed="#B" n="30" break="no"/>set transfudisset iustitiam originalem in animam: &amp; 
+   <lb ed="#B" n="31"/>tamen semen est corporeum: &amp; anima quae est
+   suscepti<lb ed="#B" n="32" break="no"/>ua iustitiae originalis, impartibilis: igitur.
+  </p>
+      <p xml:id="jMqv4a-d1e6425-d1e587">
+   ⁋ Ad pri 
+   <lb ed="#B" n="33"/>mum patebit respo imo in. xliiii. distinctione de 
+   <lb ed="#B" n="34"/>modo puniendi in inferis. Ad secundum dicitur 
+   <lb ed="#B" n="35"/>quod si Adam non peccasset deus creasset iustitiam 
+   <lb ed="#B" n="36"/>originalem in animam ex pacto diuino.
+  </p>
+      <p xml:id="jMqv4a-d1e6425-d1e598">
+   ⁋
+   Am<lb ed="#B" n="37" break="no"/>plius, illud quod fit per accidens dimittitur ab ar 
+   <lb ed="#B" n="38"/>te: nec ponitur in definitione: vt dicitur. vi.
+   Me<lb ed="#B" n="39" break="no"/>taphysicae / sicut aedificator per se aedificat: &amp; album 
+   <lb ed="#B" n="40"/>per accidens. i. Physicorum: sed doctores ponunt 
+   <lb ed="#B" n="41"/>in definitione sacramenti, Sacramentum est inui 
+   <lb ed="#B" n="42"/>sibilis gratiae visibilis forma: vt eius imaginem 
+   <lb ed="#B" n="43"/>gerat / &amp; causa existat. Respondetur. illud quod est 
+   <lb ed="#B" n="44"/>per accidens impertinens relinquendum est ab
+   ar<lb ed="#B" n="45" break="no"/>te, sicut musica respectu aedificatoris: sed quod  
+   <lb ed="#B" n="46"/>plerunque, vel semper ponitur: non est sic per acci 
+   <lb ed="#B" n="47"/>dens: modo indigne suscipienti sacramentum
+   com<lb ed="#B" n="48" break="no"/>fertur gratia: &amp; sic est causa sine qua non gratiae. 
+   <lb ed="#B" n="49"/>Secundo dico quod non reperitur hoc positum in  
+   <lb ed="#B" n="50"/>definitione sacramenti ante Magistrum: qui se ex 
+   <lb ed="#B" n="51"/>ponens dicit in litera: quod homo non quaerit salutem 
+   <lb ed="#B" n="52"/>in sacramentis quasi ab eis. 
+  </p>
+      <p xml:id="jMqv4a-d1e6425-d1e635">
+       <lb ed="#B" n="53"/>⁋ Sed adhuc arguitur: quod sacramen- 
+   <!--0058.xml-->
+   <cb ed="#B" n="b"/> 
+       <!-- 13-v b -->
+       <lb ed="#B" n="54"/>ta proprie erant causae gratiae: &amp; hoc sic. Non
+   ali<lb ed="#B" n="55" break="no"/>ter arguebat <name xml:id="jMqv4a-d1e6425-Nd1e650" ref="#Aristotle">Aristoteles</name> solem in obliquo
+   circu<lb ed="#B" n="56" break="no"/>lo Cii. de generatione) esse causam in istis
+   inferi<lb ed="#B" n="57" break="no"/>pribus, nisi quia videbat quando sol intrauit Arie 
+   <lb ed="#B" n="58"/>tem: terram in istis climatibus inferioribus pullula 
+   <lb ed="#B" n="59"/>re, et sole existente in Capricomo omnia fieri
+   ari<lb ed="#B" n="60" break="no"/>da. Non aliter probatur duplex accessus solis in  
+   <lb ed="#B" n="61"/>Dia Meroes: &amp; inter tropicum cancri &amp; capricorni 
+   <lb ed="#B" n="62"/>esse causam quare bis colligantur segetes, vel duas 
+   <lb ed="#B" n="63"/>esse vmbras in austrum / &amp; aquilonem proiectas, 
+   <lb ed="#B" n="64"/>&amp; sole existente in signis septentrionalibus sex
+   men<lb ed="#B" n="65" break="no"/>sibus vmbram in austrum proiici: &amp; totidem in  
+   <lb ed="#B" n="66"/>Boream in signis meridionalibus: &amp; ita vmbras 
+   <lb ed="#B" n="67"/>varietatem accipere a magnitudine temporis
+   se<lb ed="#B" n="68" break="no"/>cundum accessum vel recessum ab aequatore: er 
+   <lb ed="#B" n="69"/>go cum ad praesentiam solis sequitur iste effectus 
+   <lb ed="#B" n="70"/>&amp; ad eius absentiam quocumque alio secluso non
+   se<lb ed="#B" n="71" break="no"/>quitur: oportet quod sol aliquid causalitatis habeat 
+   <lb ed="#B" n="72"/>sed sic est in istis sacramentis.
+  </p>
+      <p xml:id="jMqv4a-d1e6425-d1e691">
+   ⁋ Forte dices, hoc 
+   <lb ed="#B" n="73"/>non est ex natura rei quemadmodum est de sole 
+   <lb ed="#B" n="74"/>Si enim baptismus qui est realiter aqua, vel aqua 
+   <lb ed="#B" n="75"/>verba &amp; intentio causaret gratiam ex naturis
+   re<lb ed="#B" n="76" break="no"/>rum, a principio mundi causasset, quod est
+   fal<lb ed="#B" n="77" break="no"/>sum. Contra, nec est ex natura rei quod calor causat 
+   <lb ed="#B" n="78"/>calorem. patet in camino ignis. Danielis. iii. vbi deus 
+   <lb ed="#B" n="79"/>impediuit calorem ignis ne calefaceret, sed deus 
+   <lb ed="#B" n="80"/>non potest agere contra naturas rerum: igitur. Item 
+   <lb ed="#B" n="81"/>non potest tibi constare quin deus semper ad prae 
+   <lb ed="#B" n="82"/>sentiam ignis producit calorem: &amp; ita cum
+   qua<lb ed="#B" n="83" break="no"/>libet alia causa / quam tu vocas secundam: ergo  
+   <lb ed="#B" n="84"/>quaelibet causa talis est causa sine qua non.
+  </p>
+      <p xml:id="jMqv4a-d1e6425-d1e720">
+   ⁋ Re 
+   <lb ed="#B" n="85"/>spondetur negando quod calor non calefacit ex na 
+   <lb ed="#B" n="86"/>tura rei: quia deus suspendebat eius actionem mi 
+   <lb ed="#B" n="87"/>raculose ibidem: vel non concurrebat cum igne 
+   <lb ed="#B" n="88"/>id producendum calorem in pueros, licet actiue 
+   <lb ed="#B" n="89"/>conseruabat entitatem ipsius ignis: modo nulla 
+   <lb ed="#B" n="90"/>causa potest agere qualitercumque nisi prima causa 
+   <lb ed="#B" n="91"/>secum coagat. Ad aliud vbi dicis: non potest m i 
+   <lb ed="#B" n="92"/>hi constare quin nulla sit causa secunda proprie di 
+   <lb ed="#B" n="93"/>cta: Respondetur, de facto hoc est verum, non  
+   <lb ed="#B" n="94"/>est mihi euidens. Semper enim dicetur: licet ad
+   prae<lb ed="#B" n="95" break="no"/>sentiam ignis passum calefiat: tamen illud deus facit 
+   <lb ed="#B" n="96"/>ad praesentiam ignis: &amp; non quia ignis ex sua natura 
+   <lb ed="#B" n="97"/>calefacit: quemadmodum de sacramentis respectu 
+   <lb ed="#B" n="98"/>gratiae. Homo huius aetatis quidam dictus <name xml:id="jMqv4a-d1e6425-Nd1e752">Gabriel</name> 
+       <lb ed="#B" n="99"/>dicit se velle ponere vnum modum: quem lecto 
+   <lb ed="#B" n="100"/>ri offert prima quaestio. iiii. &amp; dicit quod licet
+   verba<lb ed="#B" n="101" break="no"/>liter ab aliis distat: parum tamen in re. Modus
+   il<lb ed="#B" n="102" break="no"/>le est quod nulla est causa secunda ex natura rei: sed ex 
+   <lb ed="#B" n="103"/>voluntate dei: ita quod deus potest facere calorem 
+   <lb ed="#B" n="104"/>frigefacere: &amp; frigus calefacere: non per antipari 
+   <lb ed="#B" n="105"/>stasim: sed actione directa. nihil hic loquitur. Nam 
+   <lb ed="#B" n="106"/>si in sententia cum aliis convenit &amp; solo verbo dif 
+   <lb ed="#B" n="107"/>fert, inaniter laborat quid offerendum sit lectori. 
+   <lb ed="#B" n="108"/>
+       <name xml:id="jMqv4a-d1e6425-Nd1e777">Gregorius</name> &amp; aliqui alii illud idem habent dicere 
+   <!--0059.xml-->
+   <pb ed="#B" n="14-r"/>
+       <cb ed="#B" n="a"/>
+       <lb ed="#B" n="1"/>quos prae manibus habebat. Et non habent pro 
+   <lb ed="#B" n="2"/>inconuenienti quod iudicium huius, Antichristus 
+   <lb ed="#B" n="3"/>erit, postquam causatur a deo sit assensus sui contra 
+   <lb ed="#B" n="4"/>dictorii. &amp; sic non maius haberent inconueniens 
+   <lb ed="#B" n="5"/>dicere quod notitia sortis repraesentat vnum asinum 
+   <lb ed="#B" n="6"/>respectu dei: &amp; quod calor potest frigefacere. immo 
+   <lb ed="#B" n="7"/>dicere habent consequenter quod si deus voluerit: 
+   <lb ed="#B" n="8"/>calor potest frigefacere. Sed ex isto remouetur omni 
+   <lb ed="#B" n="9"/>causalitas a causis secundis. Propterea aliter respon 
+   <lb ed="#B" n="10"/>detur, licet non sit mihi euidens: habeo tamen
+   cer<lb ed="#B" n="11" break="no"/>titudinem sufficientem quod calor suapte natura ca 
+   <lb ed="#B" n="12"/>lefacit: &amp; sacramentum non causat gratiam. Omnis 
+   <lb ed="#B" n="13"/>enim calor &amp; semper, passo applicato causat ca 
+   <lb ed="#B" n="14"/>lorem: ergo si semel vel raro sit impedimentum 
+   <lb ed="#B" n="15"/>oportet ascribere miraculo. Sed no est sic de
+   sa<lb ed="#B" n="16" break="no"/>cramentis: quia non quaelibet aqua sufficit ad po 
+   <lb ed="#B" n="17"/>sitionem gratiae: &amp; semper. &amp; hoc debet mihi
+   suffi<lb ed="#B" n="18" break="no"/>cere quod calor calorem producit: &amp; albedo non albe 
+   <lb ed="#B" n="19"/>dinem producit. si autem deus ab aetemo ad praesentiam 
+   <lb ed="#B" n="20"/>albedinis produceret albedinem: &amp; mihi non
+   consta<lb ed="#B" n="21" break="no"/>ret de opposito, dicerem quod albedo producit albed 
+   <lb ed="#B" n="22"/>nem.
+  </p>
+      <p xml:id="jMqv4a-d1e6425-d1e836">
+   ⁋ Sed contra dicta arguitur. deus potest
+   im<lb ed="#B" n="23" break="no"/>pedire calorem ne calefaciat contra eius naturam 
+   <lb ed="#B" n="24"/>ergo potest calorem facere frigefacere, probo conse 
+   <lb ed="#B" n="25"/>quentiam: quia vtrumque est contra naturam caloris: &amp; 
+   <lb ed="#B" n="26"/>vtrumque aequaliter in potestate dei: ergo vnum non est 
+   <lb ed="#B" n="27"/>magis negandum quam alterum.
+  </p>
+      <p xml:id="jMqv4a-d1e6425-d1e849">
+   ⁋ Et confirmatur. angelus 
+   <lb ed="#B" n="28"/>potest itueri arcana cordis: vt doctor Subtilis tenet 
+   <lb ed="#B" n="29"/>cum quo conuenio in hac parte, in secundo: &amp; ta 
+   <lb ed="#B" n="30"/>men impeditur a tota specie a deo: &amp; solus deus hoc 
+   <lb ed="#B" n="31"/>cognoscit. ii. Paralipomenon. vi. Tu solus
+   no<lb ed="#B" n="32" break="no"/>sti corda filiorum hominum. ergo eodem modo 
+   <lb ed="#B" n="33"/>&amp; eadem facilitate dicetur quod albedo potest produce 
+   <lb ed="#B" n="34"/>re albedinem ex natura: &amp; quilibes res creata pott
+   simile<lb ed="#B" n="35" break="no"/>in specie producere: sed deus res aliquas impedit. 
+   <lb ed="#B" n="36"/>ltem. iiii. Regum. xx. Deus curauit morbu Eze 
+   <lb ed="#B" n="37"/>chiae per ficus quae erant nutritiuae morbi. ergo po 
+   <lb ed="#B" n="38"/>test facere contrarium producere oppositum.
+  </p>
+      <p xml:id="jMqv4a-d1e6425-d1e875">
+   ⁋
+   Re<lb ed="#B" n="39" break="no"/>spondetur negando cosequentiam. &amp; ratio est. Ances enim 
+   <lb ed="#B" n="40"/>constat nobis ex fide, nec est contra naturam ca 
+   <lb ed="#B" n="41"/>loris non calefacere: quia deo non agente / hoc est 
+   <lb ed="#B" n="42"/>impossibile. Si enim calor suae naturae relinquatur 
+   <lb ed="#B" n="43"/>passo quocumque applicato mille annos: &amp; deus non  
+   <lb ed="#B" n="44"/>coagat: nunqui calor calefaciet: quia ad omnem actio 
+   <lb ed="#B" n="45"/>nem requiritur concursus causae primae: ergo non 
+   <lb ed="#B" n="46"/>est contra naturam caloris non calefacere deo non 
+   <lb ed="#B" n="47"/>concurrente cum calore: immo oppositum est ita con 
+   <lb ed="#B" n="48"/>tra eius naturam vt sit ei impossibile. Et conces 
+   <lb ed="#B" n="49"/>so consequente aufert omnem causalitatem natura 
+   <lb ed="#B" n="50"/>lem naturalem a causis secundis, quam tamen sancti post 
+   <lb ed="#B" n="51"/>philosophos eis tribuunt. Vnde <ref xml:id="jMqv4a-d1e6425-Rd1e905">
+        <name xml:id="jMqv4a-d1e6425-Nd1e907">Ioannes Dama 
+   <lb ed="#B" n="52"/>scenus</name> libro. ii. cap. vii. de Orthodoxa fide</ref> loqueni 
+   <lb ed="#B" n="53"/>quomodo luna lumen a sole accipiat: dicit quod s 
+   <lb ed="#B" n="54"/>causalitatem causae secundae (licet omnia solus possit effi 
+   <lb ed="#B" n="55"/>cere) ad nos docendos quod debeamus nos inuicem 
+   <!--0059.xml-->
+   <cb ed="#B" n="b"/> 
+       <!-- 14-r b -->
+       <lb ed="#B" n="56"/>iuuare, deus hoc sinat. Et licet possit impedire con 
+   <lb ed="#B" n="57"/>cursum cuiuscunque causae secundae non cum ea
+   agen<lb ed="#B" n="58" break="no"/>do: non tamen potest facere aliquam creaturam posi 
+   <lb ed="#B" n="59"/>tiue facere contra eius naturalem inclinationem: vt nul 
+   <lb ed="#B" n="60"/>lo modo notitia sortis potest repraesentare asinum. 
+  </p>
+      <p xml:id="jMqv4a-d1e6425-d1e938">
+       <lb ed="#B" n="61"/>⁋ Ad confirmationem conceditur antecedens: &amp; negatur 
+   <lb ed="#B" n="62"/>consequentia: secus est de albedine: quia nullam
+   ex<lb ed="#B" n="63" break="no"/>perientiam nec rationem apparentem habemus pro no 
+   <lb ed="#B" n="64"/>bis ad concludendum quod albedo producat albedinem: &amp; 
+   <lb ed="#B" n="65"/>rationes validas habemus quod angelus relictus suae 
+   <lb ed="#B" n="66"/>naturae potest hominum secreta intueri: magni 
+   <lb ed="#B" n="67"/>ponderis ad soluendum: &amp; fide nobis constat quod deus 
+   <lb ed="#B" n="68"/>eos impedit: ergo oportet dicere quod aliquas causas 
+   <lb ed="#B" n="69"/>impedit: alias vero non. Ad aliud de Exechia di 
+   <lb ed="#B" n="70"/>cendum est quod deus miraculose curauit eum: &amp; ad  
+   <lb ed="#B" n="71"/>hoc magis manifestandum ficus fecit apponi quae 
+   <lb ed="#B" n="72"/>erant morbi nutritiuae. ficus enim nullam actionem 
+   <lb ed="#B" n="73"/>in illa cura habebant. 
+  </p>
+      <p xml:id="jMqv4a-d1e6425-d1e969">
+       <lb ed="#B" n="74"/>⁋ Secundo arguitur contra illud ar 
+   <lb ed="#B" n="75"/>gumentum quo philosophi repererunt aliquam esse 
+   <lb ed="#B" n="76"/>causam respectu alterius. quia ex illo sol non esset 
+   <lb ed="#B" n="77"/>causa asini. consequens est falsum. Sol enim &amp; homo ge 
+   <lb ed="#B" n="78"/>nerant hominem. ii. Physicorum. Fodem modo sol &amp; 
+   <lb ed="#B" n="79"/>asinus generant asinum. Sed probo quod non. siue sol sit 
+   <lb ed="#B" n="80"/>raesens siue non: non minus generatur homo. vide 
+   <lb ed="#B" n="81"/>mus enim homines genitos sole existente in signis me 
+   <lb ed="#B" n="82"/>ridionalibus apud Taprobanenses &amp; auream Cher 
+   <lb ed="#B" n="83"/>sonnesum: sicut in septentrionalibus: ergo pespeontia so 
+   <lb ed="#B" n="84"/>lis nihil facit: ergo a sole negabitur talis
+   causali<lb ed="#B" n="85" break="no"/>tas respectu animalium. Si dicas: requiritur quod sol sit 
+   <lb ed="#B" n="86"/>in rerum natura, eodem modo debes dicere quod quae 
+   <lb ed="#B" n="87"/>libet pars caeli cuiussibet effectus esset causa secundum  
+   <lb ed="#B" n="88"/>philosophos: immo &amp; materia prima. Forte
+   di<lb ed="#B" n="89" break="no"/>cis. requiritur influentia. Fodem modo tibi dicam quod 
+   <lb ed="#B" n="90"/>requiritur influentia respectu alterius partis
+   cae<lb ed="#B" n="91" break="no"/>li.
+  </p>
+      <p xml:id="jMqv4a-d1e6425-d1e1011">
+   ⁋ Et confirmatur. per illud medium habes di 
+   <lb ed="#B" n="92"/>cere quod forma remissa est causa efficiens
+   respe<lb ed="#B" n="93" break="no"/>ctu formae intensae: quia ipsa requiritur ad hoc 
+   <lb ed="#B" n="94"/>vt forma intensa sit.
+  </p>
+      <p xml:id="jMqv4a-d1e6425-d1e1021">
+   ⁋ Respondetur:
+   opinio<lb ed="#B" n="95" break="no"/>ne mea quicquid dicat Aristoteles,
+   naturali<lb ed="#B" n="96" break="no"/>ter bene possumus negare omnem causalitatem 
+   <lb ed="#B" n="97"/>respectu animalium a sole: vt argumentum convin 
+   <lb ed="#B" n="98"/>cit: sed non respectu haerbarum quae producuntur ad  
+   <lb ed="#B" n="99"/>eius praesentiam. etiam nimia praesentia solis in 
+   <lb ed="#B" n="100"/>terdum impedit. Videmus enim quod quando sol est in 
+   <lb ed="#B" n="101"/>Tauro in septimo climate: &amp; in postclimatibus 
+   <lb ed="#B" n="102"/>haerbae multae generantur: quae non generarentur 
+   <lb ed="#B" n="103"/>sole existente in Cancro, cum est nobis vicinior. 
+   <lb ed="#B" n="104"/>Fortasse dicis: si haerbae non essent productae so 
+   <lb ed="#B" n="105"/>existente in Tauro, illas produceret dum est in Can 
+   <lb ed="#B" n="106"/>ero. de hoc non insisto. Clarum est quod nimia eius 
+   <lb ed="#B" n="107"/>approximatio ad terram generationem indispo 
+   <lb ed="#B" n="108"/>nit. vt in Libya. Hinc datur apparens ratio quod sol 
+   <lb ed="#B" n="109"/>ob terrae vicinitatem in opposito augis eccentri 
+   <!--0060.xml-->
+   <pb ed="#B" n="14-v"/>
+       <cb ed="#B" n="a"/>
+       <lb ed="#B" n="1"/>sci reddit zonam terrae inhabitabilem inter tropi 
+   <lb ed="#B" n="2"/>cum capricorni: &amp; circulum antarcticum, &amp; non in auge 
+   <lb ed="#B" n="3"/>inter tropicum caneri &amp; circulum arcticum. Etiam mihi
+   suf<lb ed="#B" n="4" break="no"/>ficit quod eius praesentia &amp; absentia est causa haerbarum. 
+  </p>
+      <p xml:id="jMqv4a-d1e6425-d1e1071">
+       <lb ed="#B" n="5"/>⁋ Ad confirmationem respondetur quod argumentum non est con 
+   <lb ed="#B" n="6"/>tra me. Non dicitur quod hic moous arguendi valet, hoc 
+   <lb ed="#B" n="7"/>non potest esse sine illo: &amp; potest esse cum illo: ergo illud 
+   <lb ed="#B" n="8"/>habent aliquid causalitatis respectu huius: quia tunc quaelibet 
+   <lb ed="#B" n="9"/>pars essentialis esset causa efficiens respectu totius compe 
+   <lb ed="#B" n="10"/>siti: &amp; quaelibet pars caeli &amp; materia prima naturaliter lo 
+   <lb ed="#B" n="11"/>quendo / respectu cuiuslibet effectus. Sed sic argue 
+   <lb ed="#B" n="12"/>batur: illo posito ponitur talis effectus, ipso non 
+   <lb ed="#B" n="13"/>posito &amp; quolibet alio posito non ponitur talis
+   effe<lb ed="#B" n="14" break="no"/>ctus: &amp; hoc ex natura rei: nec apparet ratio negam 
+   <lb ed="#B" n="15"/>dae causalitatis ab illo: &amp; extollenda est natura vbi 
+   <lb ed="#B" n="16"/>non constat de opposito. ii. de Generatione: ergo 
+   <lb ed="#B" n="17"/>hoc est causa illius. Sic solem in zodiaco probam 
+   <lb ed="#B" n="18"/>esse actiuum respectu fructuum terrae. Sed licet ad 
+   <lb ed="#B" n="19"/>praesentiam partis caeli solis prope corpus solis hoc 
+   <lb ed="#B" n="20"/>ponatur: hoc non sufficit: cu nulla ratio causalita 
+   <lb ed="#B" n="21"/>tis emineat. Sic etiam partialem causam volitio 
+   <lb ed="#B" n="22"/>nis notitiam arguimus: &amp; obiectum notitiae
+   intuiti<lb ed="#B" n="23" break="no"/>uae / &amp; abstractiuae proprie dictae. Capimus item
+   ali<lb ed="#B" n="24" break="no"/>quod medium ad concludendum quod habitus aliquis 
+   <lb ed="#B" n="25"/>causalitatis habet: quia promptius eximus in actum 
+   <lb ed="#B" n="26"/>post habitum quam ante: ergo aliquid causalitatis
+   ha<lb ed="#B" n="27" break="no"/>bet. De charitate probamus causalitatem: quia quod 
+   <lb ed="#B" n="28"/>perfectionis est in aliis, a tam nobili qualitate non 
+   <lb ed="#B" n="29"/>est negandum, vbi non constat de opposito: ergo 
+   <lb ed="#B" n="30"/>ei dabitur aliquid causalitatis. &amp; sic in aliis locis 
+   <lb ed="#B" n="31"/>secundum materiae exigentiam concludimus.
+  </p>
+      <p xml:id="jMqv4a-d1e6425-d1e1132">
+   ⁋ Ex
+   o<lb ed="#B" n="32" break="no"/>mnibus patet, quod perdifficile est concludere aliquid 
+   <lb ed="#B" n="33"/>esse causam propriem dictam respectu alterius: &amp; signum 
+   <lb ed="#B" n="34"/>est: quod frequenter illud quod vocatur causa proprie 
+   <lb ed="#B" n="35"/>dicta: apud alios causa sine qua non / vel
+   disposi<lb ed="#B" n="36" break="no"/>tio vocatur: vt patet de notitia respectu actus
+   vo<lb ed="#B" n="37" break="no"/>luntatis, &amp; accidentis vt caloris, frigoris respectu 
+   <lb ed="#B" n="38"/>formae substantialis producendae: super quibus 
+   <lb ed="#B" n="39"/>inter philosophos contenditur. Potes tamen sic 
+   <lb ed="#B" n="40"/>dicere: vt nuperrime meminimus: illo posito poni 
+   <lb ed="#B" n="41"/>tur illud: &amp; hoc semper: hoc est aeternaliter si non si 
+   <lb ed="#B" n="42"/>impedimentum: ipso non posito non ponitur in 
+   <lb ed="#B" n="43"/>lud: quolibet alio posito: nec apparet ratio quare  
+   <lb ed="#B" n="44"/>debeant negari causalitates ab hoc: ergo hoc est 
+   <lb ed="#B" n="45"/>causa illius partialis vel toralis. An ista debeant ex 
+   <lb ed="#B" n="46"/>poni per dum, si, vel quia, non insisto. Dixi (aeternaliter 
+   <lb ed="#B" n="47"/>ad excludenda sacramenta. Prius enim erat aqua: &amp; 
+   <lb ed="#B" n="48"/>similia materialia: sed non causabant gratiam: &amp; loquor 
+   <lb ed="#B" n="49"/>secundum legem: vt nos discrimen cognoscamus. Hoc 
+   <lb ed="#B" n="50"/>dixerim ne sophista omnia &amp; seipsum
+   confun<lb ed="#B" n="51" break="no"/>dens ponat sacramenta fuisse ab aetenmo: &amp; gratis 
+   <lb ed="#B" n="52"/>contulisse sicut modo conferunt, qua rudi Minerua secundi 
+   <lb ed="#B" n="53"/>legem &amp; secundum quod materia patitur loqui propone 
+   <lb ed="#B" n="54"/>Ponitur (si non sit impedimentum) vel ex parte 
+   <lb ed="#B" n="55"/>passi vel medii, quod fide partim dignoscitur. Ad 
+   <!--0060.xml-->
+   <cb ed="#B" n="b"/> 
+       <!-- 14-v b -->
+       <lb ed="#B" n="56"/>ditur, nec apparet ratio quare debeant negari 
+   <lb ed="#B" n="57"/>&amp;c. propter materiam primam quae nullius ponitur acti 
+   <lb ed="#B" n="58"/>uitatis realis: vel ad excludendas partes remissas 
+   <lb ed="#B" n="59"/>formae: cum sint partes totius / modo non est apu 
+   <lb ed="#B" n="60"/>parens ratio: quod pars causet totum: nec quod quaelibs 
+   <lb ed="#B" n="61"/>pars caeli fructus generet. 
+  </p>
+      <p xml:id="jMqv4a-d1e6425-d1e1206">
+       <lb ed="#B" n="62"/>⁋ His praelibatis accedendo ad
+   ti<lb ed="#B" n="63" break="no"/>tulum quaestionis de discrimine inter sacramenta 
+   <lb ed="#B" n="64"/>veteris legis &amp; nouae de collatione gratiae: Magi 
+   <lb ed="#B" n="65"/>ster dicit quod circuncisio auferebat culpam &amp; non
+   co<lb ed="#B" n="66" break="no"/>ferebat gratiam. &amp; male: licet aliquarum auctorita 
+   <lb ed="#B" n="67"/>tum voces ad hoc introducat.
+  </p>
+      <p xml:id="jMqv4a-d1e6425-d1e1222">
+   ⁋ Sed petitur quomodo confe 
+   <lb ed="#B" n="68"/>rebat gratiam: cum num quam post peccatum primi parentis 
+   <lb ed="#B" n="69"/>fuerit aliquis quin esset in originalii vel mortali / vel 
+   <lb ed="#B" n="70"/>gratia: non quod sit oppositio formalis, sed solum de le 
+   <lb ed="#B" n="71"/>ge. Si enim deus poterat creare Adam sine
+   peccato<lb ed="#B" n="72" break="no"/>&amp; sine gratia: sicut secundum aliquos eum creauit: simiter 
+   <lb ed="#B" n="73"/>potest nunc facere sortem post peccatum. Non vals illud 
+   <lb ed="#B" n="74"/>quod dicunt: quod sicut ante nonum diem catulus nec est caecus 
+   <lb ed="#B" n="75"/>nec videns: secus est post nonum diem: sic in proposito. 
+   <lb ed="#B" n="76"/>Si enim sortes in nullo peccato existens habeat gra 
+   <lb ed="#B" n="77"/>tiam: deus potest illam gratiam remittere de potentia
+   ab<lb ed="#B" n="78" break="no"/>soluta: &amp; totam auferre, sine peccato.
+  </p>
+      <p xml:id="jMqv4a-d1e6425-d1e1248">
+   ⁋ Ad ista 
+   <lb ed="#B" n="79"/>dicitur: quod circuncisio paruam gratiam contulit respectu 
+   <lb ed="#B" n="80"/>baptismi: modo parua gratia in respectu nulla repu 
+   <lb ed="#B" n="81"/>tatur. Est enim talis modus loquendi hominium: &amp; scriptu 
+   <lb ed="#B" n="82"/>rae. Genesis. xix. Nec possum in modote saluari ne 
+   <lb ed="#B" n="83"/>forte appraehendat me malum: &amp; moriar. Nam per modo 
+   <lb ed="#B" n="84"/>tem vt Hebraei dicunt, Loth <name xml:id="jMqv4a-d1e6425-Nd1e1263" ref="#Abraham">Abraham</name> intellexit,
+   vo<lb ed="#B" n="85" break="no"/>lens dicere, in Sodoma ego videor bonus: prope 
+   <lb ed="#B" n="86"/>Abraham malus. Similem loquendi modum habemus 
+   <lb ed="#B" n="87"/>iii. Regum. xvii. de muliere Sareptana quae dixit ad 
+   <lb ed="#B" n="88"/>Heliam: ingressus es ad me: vt recordarentur
+   iniqui<lb ed="#B" n="89" break="no"/>tates meae, &amp; interficeres filium meum. Simili modo 
+   <lb ed="#B" n="90"/>vtitur philosophus. vi. Physicorum. Pallidum com 
+   <lb ed="#B" n="91"/>paratum ad nigrum est album: &amp; ad album nigrum. Et. v. 
+   <lb ed="#B" n="92"/>Ethicorum, minus de malo pro bono dixit. Aliter 
+   <lb ed="#B" n="93"/>dicunt aliqui quod si circuncisio inuenit gratiam intensam 
+   <lb ed="#B" n="94"/>in aliquo, forte nullam gratiam conferebat virtute 
+   <lb ed="#B" n="95"/>operis operati: sed defectus non erat ex parte sacramenti 
+   <lb ed="#B" n="96"/>quin esset signum efficax: sed quia recipiens
+   sa<lb ed="#B" n="97" break="no"/>cramentum habuit gratiam intensam in tali gra 
+   <lb ed="#B" n="98"/>du / vltra quem nihil circuncisio conferebat. Hoc 
+   <lb ed="#B" n="99"/>est dubium quod virtute operis operati non
+   confere<lb ed="#B" n="100" break="no"/>bat gratiam habenti magnam gratiam, sicut habenti
+   par<lb ed="#B" n="101" break="no"/>uam. Et si dicas: aliquibus, vtputa virgini Mariae 
+   <lb ed="#B" n="102"/>disposuit tantam gratiam in primo instanti sui 
+   <lb ed="#B" n="103"/>esse, quantam vnquam daturus ei erat: Hoc non valet 
+   <lb ed="#B" n="104"/>quia tunc idem esset de baptismo. Et sic non
+   po<lb ed="#B" n="105" break="no"/>nit discrimen inter circuncisionem &amp; baptismum. 
+   <lb ed="#B" n="106"/>ltem inconueniens est dicere quod sacramentum 
+   <lb ed="#B" n="107"/>virtute operis operati habenti paruam gratiam: 
+   <lb ed="#B" n="108"/>gratiam daret / vel non habenti: &amp; tamen nihil da 
+   <lb ed="#B" n="109"/>ret habenti magnam gratiam. Item hoc temere 
+   <!--0061.xml-->
+   <pb ed="#B" n="15-r"/>
+       <cb ed="#B" n="a"/>
+       <lb ed="#B" n="1"/>dicitur de beata virgine: Christus tamen non ha 
+   <lb ed="#B" n="2"/>buit gratiam intensiorem in fine. xxxiii. annorum 
+   <lb ed="#B" n="3"/>completorum suae peregrinationis secundum carnem 
+   <lb ed="#B" n="4"/>quam habuit a principio. Ideo ponitur ratio de
+   bapti<lb ed="#B" n="5" break="no"/>smo &amp; eius effectu Maiores: quoniam etsi
+   origi<lb ed="#B" n="6" break="no"/>nalis culpa remittebatur per circuncisionis
+   myste<lb ed="#B" n="7" break="no"/>tium: &amp; damnationis periculum vitabatur: non tamen pro 
+   <lb ed="#B" n="8"/>mouebatur ad regnum caelorum: quod vsque ad  
+   <lb ed="#B" n="9"/>mortem Christi omnibus fuit obseratum: sed per
+   sa<lb ed="#B" n="10" break="no"/>cramentum baptismi Christi sanguine rubefacti 
+   <lb ed="#B" n="11"/>culpa remittitur: vitatur periculum: &amp; ad regnum caelo 
+   <lb ed="#B" n="12"/>rum mox peruenitur: cuius inanuam Christi sanguis fi 
+   <lb ed="#B" n="13"/>delibus suis misericorditer reserauit.
+  </p>
+      <p xml:id="jMqv4a-d1e6425-d1e1357">
+   ⁋ Sed contra 
+   <lb ed="#B" n="14"/>istud arguitur: si maior gratia conferatur in
+   bapti<lb ed="#B" n="15" break="no"/>smo quam in circuncisione, eodem modo maior
+   gra<lb ed="#B" n="16" break="no"/>tia conferri debebat in circuncisione quam in
+   sacra<lb ed="#B" n="17" break="no"/>mentis legis naturae. Et si sic, maior gratia dabatur 
+   <lb ed="#B" n="18"/>eis qui erant de domo Abrahae, quam ipsi lob: &amp; aliis 
+   <lb ed="#B" n="19"/>virtute operis operati. Sed quod sequatur patet: quia 
+   <lb ed="#B" n="20"/>deus perfecte agens ab imperfecto ad perfectum 
+   <lb ed="#B" n="21"/>transit: vt dictum est de sacramentis: ergo simiter cum 
+   <lb ed="#B" n="22"/>gratia quam dat: dando scilicet maiorem gratiam
+   vir<lb ed="#B" n="23" break="no"/>tute operis operati in sacramentis posterioribus: quam 
+   <lb ed="#B" n="24"/>in prioribus. Quod concedimus.
+  </p>
+    </div>
+   </body>
+  </text>
+</TEI>

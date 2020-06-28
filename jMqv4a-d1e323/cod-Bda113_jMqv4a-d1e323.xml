@@ -1,0 +1,295 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 1</title>
+      <author ref="#JohnMair">John Mair</author>
+      <respStmt>
+       <name>Jeffrey C. Witt</name>
+       <resp>TEI Encoder</resp>
+      </respStmt>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 1</title>
+       <date when="2020-06-09">June 27, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="B" n="cod-Bda113">Badius 1516</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+     guidelines for a diplomatic edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-06-27" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+      <pb ed="#B" n="60-v"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="jMqv4a-d1e323"> <!-- l4d12q1 -->
+      <head xml:id="jMqv4a-d1e323-Hd1e104">Quaestio 1</head>
+      <head xml:id="jMqv4a-d1e323-Hd1e107" type="question-title">An omne accidens possit esse sine subiecto</head>
+      <p xml:id="jMqv4a-d1e323-d1e110">
+       <lb ed="#B" n="77"/>IN duodeci 
+   <lb ed="#B" n="78"/>ma distinctione 
+   <lb ed="#B" n="79"/>magister
+   loqui<lb ed="#B" n="80" break="no"/>tur de subiecto 
+   <lb ed="#B" n="81"/>accidentium in 
+   <lb ed="#B" n="82"/>Euc haristia. Con 
+   <lb ed="#B" n="83"/>formiter ad hoc 
+   <lb ed="#B" n="84"/>quaeram aliquas. 
+   <lb ed="#B" n="85"/>quaestiones. Pri 
+   <lb ed="#B" n="86"/>ma erit. an
+   om<lb ed="#B" n="87" break="no"/>ne accidens pos 
+   <lb ed="#B" n="88"/>sit seruari sine 
+   <lb ed="#B" n="89"/>V(subiecto. Secur 
+   <lb ed="#B" n="90"/>da erit de quantitate. Quia enim est multorum 
+   <lb ed="#B" n="91"/>opinio quod accidentia reliqua a quantitate: quan 
+   <lb ed="#B" n="92"/>titati inhaereant: propterea secundo loco
+   quaere<lb ed="#B" n="93" break="no"/>tur, an quantitas distinguatur a re quanta: &amp; an  
+   <lb ed="#B" n="94"/>de facto alia accidentia sint extra subiectum. Tei 
+   <lb ed="#B" n="95"/>tio quaeram de accidentium actiuitate tam in or 
+   <lb ed="#B" n="96"/>dine accidentium quam substantiarum. Quarto in  
+   <lb ed="#B" n="97"/>ram: quomodo accidentia separata pati possint. 
+   <lb ed="#B" n="98"/>Et quia magister in vltimo capitulo huius distin 
+   <lb ed="#B" n="99"/>ctionis quaerit: an pluries in die celebrare contin 
+   <lb ed="#B" n="100"/>gat: quaeram quinto id idem. Sexto vtrum cleri 
+   <lb ed="#B" n="101"/>cus quolibet die teneatur dicere horas. Septimo an 
+   <lb ed="#B" n="102"/>sufficiat distracte dicere horas. Octauo an
+   satis<lb ed="#B" n="103" break="no"/>faciat quis praecepto de dicendis horis audiendo 
+   <lb ed="#B" n="104"/>missam quae est de praecepto. 
+   <!--0153.xml-->
+   <pb ed="#B" n="61-r"/>
+       <cb ed="#B" n="a"/>
+      </p>
+      <p xml:id="jMqv4a-d1e323-d1e180">
+       <lb ed="#B" n="1"/>⁋ Circa primum mouetur talis
+   quae<lb ed="#B" n="2" break="no"/>stionis titulus. an omne accidens possit esse sine 
+   <lb ed="#B" n="3"/>subiecto. Pro solutione quaestionis pono hanc conclu 
+   <lb ed="#B" n="4"/>sionem. Deus potest ponere omne accidens sine
+   sub<lb ed="#B" n="5" break="no"/>iecto. Probatur: pronunc praesupponendo quod accidentis 
+   <lb ed="#B" n="6"/>solum subiectum sit substantia. accidens enim nec est pars 
+   <lb ed="#B" n="7"/>substantiae: nec deus: ergo potest deus accidens
+   conser<lb ed="#B" n="8" break="no"/>uare sine subiecto. Secundo arguitur ad idemi 
+   <lb ed="#B" n="9"/>deus potest conseruare posterius sine priori: sed  
+   <lb ed="#B" n="10"/>accidens est posterius substantia. vii. Metaphysicae. 
+   <lb ed="#B" n="11"/>Substantia est primum omnium caeterorum entium cognitio 
+   <lb ed="#B" n="12"/>ne &amp; tempore. Tertio sic arguitur. Aliquod accidens 
+   <lb ed="#B" n="13"/>de facto deus conseruat sine substantia: vt patet de 
+   <lb ed="#B" n="14"/>quantitate in Eucharistia secundum omnes fideles: ergo quod 
+   <lb ed="#B" n="15"/>libet accidens potest conseruare sine subiecto. cosequan 
+   <lb ed="#B" n="16"/>tia tenet: quia vnum est deo ita facile vt aliud: ergo si 
+   <lb ed="#B" n="17"/>potest vnum accidens seruare sine subiecto: quidlibet ad 
+   <lb ed="#B" n="18"/>cidens seruare potest sine subiecto. 
+  </p>
+      <p xml:id="jMqv4a-d1e323-d1e223">
+       <lb ed="#B" n="19"/>⁋ Contra hanc conclusionem arguitur 
+   <lb ed="#B" n="20"/>Accidens definitur per subiectum. vii. Metaphysicae 
+   <lb ed="#B" n="21"/>cap. iii. Sed impossibile est quod alicui conveniat de 
+   <lb ed="#B" n="22"/>finitum nisi ei competat definitio.
+  </p>
+      <p xml:id="jMqv4a-d1e323-d1e234">
+   ⁋ Respondetur.
+   acci<lb ed="#B" n="23" break="no"/>dens non definitur per subiectum cui actu inhaeret: sed  
+   <lb ed="#B" n="24"/>cui aptitudine inhaeret: accidens enim est res apta na 
+   <lb ed="#B" n="25"/>ta inhaerere subiecto: &amp; siue insit siue non, semper 
+   <lb ed="#B" n="26"/>est apta nata inhaerere. 
+  </p>
+      <p xml:id="jMqv4a-d1e323-d1e245">
+       <lb ed="#B" n="27"/>⁋ Secundo arguitur. substantia non  
+   <lb ed="#B" n="28"/>potest esse quin per se existat: ergo accidens non potes 
+   <lb ed="#B" n="29"/>esse quin inhaereat.
+  </p>
+      <p xml:id="jMqv4a-d1e323-d1e254">
+   ⁋ Respondetur. consequentia est nul 
+   <lb ed="#B" n="30"/>la. quia essentiale est substantiae per se existere: sic quod 
+   <lb ed="#B" n="31"/>nulli innitatur tamquam subiecto: &amp; indem est de omnibus partibus 
+   <lb ed="#B" n="32"/>substantiae: potest tamen quaelibet substantia creata a deo sus 
+   <lb ed="#B" n="33"/>tentari: sed hoc non est inhaerere subiecto: non autem est 
+   <lb ed="#B" n="34"/>essentiale accidenti subiecto inhaerere. patet
+   mani<lb ed="#B" n="35" break="no"/>feste de quantitate in Eucharistia. 
+  </p>
+      <p xml:id="jMqv4a-d1e323-d1e270">
+       <lb ed="#B" n="36"/>⁋ Tertio arouitur. deus non potest: 
+   <lb ed="#B" n="37"/>facere substantiam sine accidente: ergo nec facere potest 
+   <lb ed="#B" n="38"/>accidens sine substantia. consequentia tenet convenienti 
+   <lb ed="#B" n="39"/>similitudine. Antecedens patet: quia dato eius op 
+   <lb ed="#B" n="40"/>posito erit homo sine quantitate / figura / calore / fri 
+   <lb ed="#B" n="41"/>ore / &amp; huiusmodi.
+  </p>
+      <p xml:id="jMqv4a-d1e323-d1e286">
+   ⁋ Respondetur negando
+   antece<lb ed="#B" n="42" break="no"/>daens. &amp; ad eius probationem dico quod argumentum assu 
+   <lb ed="#B" n="43"/>mit dubia: videlicet an quantitas sit res quanta. de 
+   <lb ed="#B" n="44"/>quo inferius. Figura autem non distinguitur a re
+   figu<lb ed="#B" n="45" break="no"/>rata. potest tamen deus si voluerit hominis omnes partes
+   pe<lb ed="#B" n="46" break="no"/>netratiue ponere mutuo, cum hoc quod anima
+   parte<lb ed="#B" n="47" break="no"/>informet: &amp; iam pridem hoc patuit in distinctione 
+   <lb ed="#B" n="48"/>decima. Potes tamen dicere si partes sic se habeant: non 
+   <lb ed="#B" n="49"/>sunt amplius figura: quia terminus figura partium 
+   <lb ed="#B" n="50"/>ordinem in ordine ad totum vel locum verum 
+   <lb ed="#B" n="51"/>vel imaginarium connotat. 
+  </p>
+      <p xml:id="jMqv4a-d1e323-d1e311">
+       <lb ed="#B" n="52"/>⁋ Quarto arguitur. simitas nasi est 
+   <!--0153.xml-->
+   <cb ed="#B" n="b"/> 
+       <!-- 61-r b -->
+       <lb ed="#B" n="53"/>accidens quod non potest fieri sine naso: ergo aliquod  
+   <lb ed="#B" n="54"/>est accides quod non potest fieri sine subiecto. hoc
+   pa<lb ed="#B" n="55" break="no"/>tet de aquilinitate nasi &amp; crispitudine pilorum. 
+  </p>
+      <p xml:id="jMqv4a-d1e323-d1e329">
+       <lb ed="#B" n="56"/>⁋ Respodetur distinguendo antecedens: vel capiendo  
+   <lb ed="#B" n="57"/>prime intentionaliter accidens pro illo quod nec per se na 
+   <lb ed="#B" n="58"/>turaliter existit, nec est pars rei naturaliter per se
+   exi<lb ed="#B" n="59" break="no"/>stentis: &amp; sic nego: vel capiendo accidens secunde, in  
+   <lb ed="#B" n="60"/>tentionaliter &amp; logice: &amp; sic concedo. Sed concessio 
+   <lb ed="#B" n="61"/>huius membri non obuiat conclusioni, in qua de acci 
+   <lb ed="#B" n="62"/>dente reali loquimur: sed solum prout est aliquod
+   ac<lb ed="#B" n="63" break="no"/>cidens logice loquendo: quod vni determinatae
+   sub<lb ed="#B" n="64" break="no"/>stantiae competit, scilicet naso, &amp; ex consequente toti
+   compo<lb ed="#B" n="65" break="no"/>sito. Et licet simitas sit nasus simus realiter: tamen ac 
+   <lb ed="#B" n="66"/>cidentaliter naso convenit: siue transmutabiliter siue 
+   <lb ed="#B" n="67"/>intransmutabiliter naturaliter loquendo: non refert. 
+   <lb ed="#B" n="68"/>Sed dico quod naturaliter per tumorem partis mediae in 
+   <lb ed="#B" n="69"/>naso: vel depressionem partium extremarum ne me 
+   <lb ed="#B" n="70"/>dium transcendant: erit non simitas. vnde simitas est ter 
+   <lb ed="#B" n="71"/>minus connotatiuus pro naso primo supponens: &amp; 
+   <lb ed="#B" n="72"/>ex consequenti pro illo quod est totum respectu nasi, quem 
+   <lb ed="#B" n="73"/>admodum est facies &amp; homo: connotando quod partes 
+   <lb ed="#B" n="74"/>mediae nasi sint depressae &amp; decliues respectu
+   par<lb ed="#B" n="75" break="no"/>tium extremarum eius. ergo vides quod simitas realiter 
+   <lb ed="#B" n="76"/>est substantia Metaphysice: &amp; accidens solum lo 
+   <lb ed="#B" n="77"/>gice loquendo.  
+  </p>
+      <p xml:id="jMqv4a-d1e323-d1e379">
+       <lb ed="#B" n="78"/>⁋ Quinto arguitur. deus non potest 
+   <lb ed="#B" n="79"/>facere notitiam sine subiecto: ergo non pot facere 
+   <lb ed="#B" n="80"/>omne accidens sine subiecto. Antecedens patet. si
+   po<lb ed="#B" n="81" break="no"/>natur extra subiectum: iam non est notitia: cum nullus 
+   <lb ed="#B" n="82"/>per talem quaelitatem noscat. eodem modo argumentari po 
+   <lb ed="#B" n="83"/>tes de volitione, odio, vel huiusmodi.
+  </p>
+      <p xml:id="jMqv4a-d1e323-d1e395">
+   ⁋ Ad quin 
+   <lb ed="#B" n="84"/>tum concedo antecedens: &amp; nego consequentiam. nam ad 
+   <lb ed="#B" n="85"/>bene arguendum oportet praeponere notitiam) copulae. 
+   <lb ed="#B" n="86"/>propositionis: quia dico quod licet deus non possit
+   fa<lb ed="#B" n="87" break="no"/>cere notitiam sine subiecto, tamen notitiam potest 
+   <lb ed="#B" n="88"/>facere esse sine subiecto: quia hanc qualitatem potest fa 
+   <lb ed="#B" n="89"/>cere esse sine subiecto: haec qualitas est vel potest 
+   <lb ed="#B" n="90"/>esse notitia: ergo notitiam potest facere sine subiecto. 
+   <lb ed="#B" n="91"/>&amp; sic dico quod nihil est notitia nisi fuerit in
+   subie<lb ed="#B" n="92" break="no"/>cto apto nato cognoscere ex communi modo vtem 
+   <lb ed="#B" n="93"/>do vocabulo. modo quando est extra subiectum non
+   con<lb ed="#B" n="94" break="no"/>uenit ei haec proprietas. Proportionabiliter de
+   voli<lb ed="#B" n="95" break="no"/>tione dicere potes: quod volitionem deus facere pons 
+   <lb ed="#B" n="96"/>sine subiecto: sed no potest facere volitionem si 
+   <lb ed="#B" n="97"/>ne subiecto. &amp; sic odium dei deus potest ponere 
+   <lb ed="#B" n="98"/>extra subiectum: sed tunc non erit odium: nec actus ma 
+   <lb ed="#B" n="99"/>lus moraliter: nec bonus moraliter. sed quamquam non 
+   <lb ed="#B" n="100"/>potest fieri bonus moraliter, erit tamen
+   entitati<lb ed="#B" n="101" break="no"/>ue bonus. 
+  </p>
+      <p xml:id="jMqv4a-d1e323-d1e437">
+       <lb ed="#B" n="102"/>⁋ Sexto arguitur. deus non, potest 
+   <lb ed="#B" n="103"/>facere paternitatem sine subiecto: &amp; tamen paternitas 
+   <lb ed="#B" n="104"/>est accidens. ergo aliquod accidens deus non potest 
+   <lb ed="#B" n="105"/>facere sine subiecto. maior probatur: quia paternitas 
+   <lb ed="#B" n="106"/>est subiectum: puta substantia quae est pater: paternitas 
+   <!--0154.xml-->
+   <pb ed="#B" n="61-v"/>
+       <cb ed="#B" n="a"/>
+       <lb ed="#B" n="1"/>autem &amp; pater sunt termini synonymi.
+  </p>
+      <p xml:id="jMqv4a-d1e323-d1e459">
+   ⁋ Ad
+   mi<lb ed="#B" n="2" break="no"/>norem dico: licet parternitas sit accidens secunde 
+   <lb ed="#B" n="3"/>intentionaliter &amp; logice loquendo: non tamen est 
+   <lb ed="#B" n="4"/>accidens prime intentionaliter. &amp; hoc tenendo po 
+   <lb ed="#B" n="5"/>sitionem nominalium quae vtrobique Parisiis tenes 
+   <lb ed="#B" n="6"/>tur. Realisando namque aliter dicendum foret:
+   videli<lb ed="#B" n="7" break="no"/>cet quod accidens respectiuum deus non possit facere 
+   <lb ed="#B" n="8"/>sine subiecto de potentia sua absoluta. quia de eius 
+   <lb ed="#B" n="9"/>essentia est fundamento suo inhaerere: &amp; terminum 
+   <lb ed="#B" n="10"/>respondentem habere &amp; relationem mutuam, nisi 
+   <lb ed="#B" n="11"/>aliud extremum non sit susceptiuum accidentis: vt est 
+   <lb ed="#B" n="12"/>in vnione hypostatica humanitati Christi
+   inhae<lb ed="#B" n="13" break="no"/>rente, cui nulla in verbo respondet.
+  </p>
+      <p xml:id="jMqv4a-d1e323-d1e489">
+   ⁋ Sed dicis, quid 
+   <lb ed="#B" n="14"/>quid deus potest producere mediante quacunque 
+   <lb ed="#B" n="15"/>causa secunda: deus potest producere se solo: sed  
+   <lb ed="#B" n="16"/>paternitatem potest producere mediante causa se 
+   <lb ed="#B" n="17"/>cunda: scilicet mediante fundamento &amp; termino 
+   <lb ed="#B" n="18"/>ergo paternitatem potest producere se solo.
+  </p>
+      <p xml:id="jMqv4a-d1e323-d1e502">
+   ⁋ Respon 
+   <lb ed="#B" n="19"/>detur concedendo praemissas cum conclusione: 
+   <lb ed="#B" n="20"/>quod paternitatem deus se solo potest producere. 
+   <lb ed="#B" n="21"/>hoc est potest supplere actiuitatem fundamenti 
+   <lb ed="#B" n="22"/>vel termini: vel cuiuscumque creaturae ad illam
+   rela<lb ed="#B" n="23" break="no"/>tionem effectiue concurrentis: sed non potest
+   pro<lb ed="#B" n="24" break="no"/>ducere paternitatem qualitercumque: quia non in sub 
+   <lb ed="#B" n="25"/>iecto quod non genuit: esto sit eiusdem speciei speci 
+   <lb ed="#B" n="26"/>alissimae cum illo qui genuit: licet illud puro
+   no<lb ed="#B" n="27" break="no"/>minali videatur extraneum. Coloratur sic: sicut 
+   <lb ed="#B" n="28"/>nominalis dicit nullum posse esse patrem nisi ge 
+   <lb ed="#B" n="29"/>nuerit &amp; taliter se habuerit: sic dicetur secundum hac 
+   <lb ed="#B" n="30"/>positionem quod in quocunque est paternitas ille est 
+   <lb ed="#B" n="31"/>pater &amp; contra: sed forte potest paternitatem
+   pro<lb ed="#B" n="32" break="no"/>ducere extra subiectum. Realium vero tenendo
+   prin<lb ed="#B" n="33" break="no"/>cipia cum omnipotentia dei dicerem quod deus non 
+   <lb ed="#B" n="34"/>potest producere paternitatem in eo qui non genuit 
+   <lb ed="#B" n="35"/>nec ab eo qui genuit potest tollere paternitatem 
+   <lb ed="#B" n="36"/>manente fundamento &amp; termino relationis:
+   be<lb ed="#B" n="37" break="no"/>ne tamen potest producere relationem extra subie 
+   <lb ed="#B" n="38"/>ctum. Ad hoc enim habetur illaesa potentia dei: nec 
+   <lb ed="#B" n="39"/>aliquid positionis destructiuum, non enim concluditur 
+   <lb ed="#B" n="40"/>ex illo quod aliquis est pater sine paternitate: nec quod 
+   <lb ed="#B" n="41"/>paternitas alicui inhaeret qui non est pater. Quid 
+   <lb ed="#B" n="42"/>multi alii realisantes super hoc sentiant, mea non 
+   <lb ed="#B" n="43"/>interest.
+  </p>
+      <p xml:id="jMqv4a-d1e323-d1e559">
+   ⁋ Epilogando dico: quod quodlibet
+   acci<lb ed="#B" n="44" break="no"/>dens deus potest conseruare sine dependentia ad 
+   <lb ed="#B" n="45"/>vllum subiectum eius: &amp; per consequens quodlibet 
+   <lb ed="#B" n="46"/>tale potest conseruare extra subiectum ta in corpo 
+   <lb ed="#B" n="47"/>ralibus quam in spiritualibus: nec instantia est aliqua 
+   <lb ed="#B" n="48"/>de relatione intrinsecus vel extrinsecus adueniem 
+   <lb ed="#B" n="49"/>te. satius enim est nullas tales ponere: cum omnia sine 
+   <lb ed="#B" n="50"/>eis tam in theologia quam philosophia optime &amp; facil 
+   <lb ed="#B" n="51"/>lime a logico &amp; ingenioso defendantur.
+  </p>
+    </div>
+   </body>
+  </text>
+</TEI>

@@ -1,0 +1,435 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 4</title>
+      <author ref="#JohnMair">John Mair</author>
+      <respStmt>
+       <name>Jeffrey C. Witt</name>
+       <resp>TEI Encoder</resp>
+      </respStmt>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 4</title>
+       <date when="2020-06-09">June 27, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="B" n="cod-Bda113">Badius 1516</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+     guidelines for a diplomatic edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-06-27" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+      <pb ed="#B" n="15-r"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="jMqv4a-d1e7704"> <!-- l4d1q4 -->
+      <head xml:id="jMqv4a-d1e7704-Hd1e104">Quaestio 4</head>
+      <head xml:id="jMqv4a-d1e7704-Hd1e107" type="question-title">Utrum pro cuiuslibet legis tempore debeant esse alia et alia sacramenta</head>
+      <p xml:id="jMqv4a-d1e7704-d1e110">
+       <lb ed="#B" n="25"/>UTrum pro
+   tem<lb ed="#B" n="26" break="no"/>ore cuiustibet legis: vel 
+   <lb ed="#B" n="27"/>vt rectius petatur, pro
+   cuius<lb ed="#B" n="28" break="no"/>libet legis tempore
+   debe<lb ed="#B" n="29" break="no"/>ant esse alia &amp; alia sacra 
+   <lb ed="#B" n="30"/>menta. Pro cuius quaestionis 
+   <lb ed="#B" n="31"/>dissolutione duo termini 
+   <lb ed="#B" n="32"/>declarabuntur. Postea respo 
+   <lb ed="#B" n="33"/>debitur ad quaestionem. Pri 
+   <lb ed="#B" n="34"/>mus terminus est tempus. Circa entitatem temporis duae 
+   <lb ed="#B" n="35"/>sunt opiniones famatae: nec super hoc mireris: cum 
+   <lb ed="#B" n="36"/>beatus <name xml:id="jMqv4a-d1e7704-Nd1e138" ref="#Augustine">Augustinus</name> libro. xi. Confessionum, qua 
+   <lb ed="#B" n="37"/>circa huius quaestionis intelligentiam maximope 
+   <lb ed="#B" n="38"/>re insudauit: subiungat in fine. Confiteor me 
+   <lb ed="#B" n="39"/>domine ignorare adhuc quid sit tempus. &amp; cum 
+   <lb ed="#B" n="40"/>consideraueris philosophorum Principem. iiii. 
+   <lb ed="#B" n="41"/>Physicorum: erit perdifficile cognitum: quam rem 
+   <lb ed="#B" n="42"/>tempus appellauerit.
+  </p>
+      <p xml:id="jMqv4a-d1e7704-d1e155">
+   ⁋ Hoc non obstante duae 
+   <lb ed="#B" n="43"/>sunt positiones vulgares: quarum vna
+   nomina<lb ed="#B" n="44" break="no"/>lium, nullam rem successiuam a permanentibus 
+   <lb ed="#B" n="45"/>distinctam asserit: &amp; dicit quod idem numero est tem 
+   <lb ed="#B" n="46"/>pus &amp; instans: puta caelum: primum mobile, vel cae 
+   <lb ed="#B" n="47"/>lum solis: sed alia est ratio quare est tempus: &amp; qua 
+   <lb ed="#B" n="48"/>re est instans. Dicitur enim instans: quia respicit aliquid  
+   <lb ed="#B" n="49"/>quod non immediate respiciebat: nec immediate post 
+   <lb ed="#B" n="50"/>hoc respiciet.
+  </p>
+      <p xml:id="jMqv4a-d1e7704-d1e176">
+   ⁋ Ex hac opinione infero aliqua  
+   <lb ed="#B" n="51"/>Sequitur quod dies est annus: probatur: aliquid est dies vel 
+   <lb ed="#B" n="52"/>nihil: secundum non est dicendum: detur primum: est
+   pri<lb ed="#B" n="53" break="no"/>mum mobile: &amp; tunc expositorie arguo: hoc cae- 
+   <!--0061.xml-->
+   <cb ed="#B" n="b"/> 
+       <!-- 15-r b -->
+       <lb ed="#B" n="54"/>lum est dies: &amp; hoc caelum est annus: ergo annus 
+   <lb ed="#B" n="55"/>est dies. Ex eodem sequitur quod septimana est
+   di<lb ed="#B" n="56" break="no"/>es. Secundo sequitur quod dies non est pars mensis. 
+   <lb ed="#B" n="57"/>robatur: nihil est pars suiipsius: sed dies est men 
+   <lb ed="#B" n="58"/>sis ex primo illato. igitur. Tertio. dies natalis Chri 
+   <lb ed="#B" n="59"/>sti erit festum paschae. probatur. Hoc erit festum 
+   <lb ed="#B" n="60"/>paschae, demonstrando primum mobile: &amp; hoc 
+   <lb ed="#B" n="61"/>est vel erit festum natalis Christi: igitur. Et eodem 
+   <lb ed="#B" n="62"/>modo probatur, quod quadragesima erit tempus 
+   <lb ed="#B" n="63"/>carnispriuii. Quarto sequitur quod cras
+   Antichri<lb ed="#B" n="64" break="no"/>stus erit. Probatur, hoc caelum cras erit: hoc
+   cae<lb ed="#B" n="65" break="no"/>lum est vel erit crastina dies: ergo crastina die
+   An<lb ed="#B" n="66" break="no"/>tichristus erit: maiore de obliquo: minore de recto 
+   <lb ed="#B" n="67"/>eandem obliquitatem concludendo. Propter has 
+   <lb ed="#B" n="68"/>rationes non pessum it haec positio. lstas enim 
+   <lb ed="#B" n="69"/>conclusiones concedere oportet. Circa secundam 
+   <lb ed="#B" n="70"/>tamen propositionem dico: quod connotatio huius 
+   <lb ed="#B" n="71"/>termini dies: est partialis ad connotationem huius 
+   <lb ed="#B" n="72"/>termini annus. Dies enim supponit pro caelo: con 
+   <lb ed="#B" n="73"/>notando quod semel moueatur circa terram cum tam 
+   <lb ed="#B" n="74"/>ta parte quantam sol motu proprio describit
+   con<lb ed="#B" n="75" break="no"/>tra primu mobile. &amp; loquor de die naturali.
+   An<lb ed="#B" n="76" break="no"/>nus autem connotat quod caelum faciat circuitionem 
+   <lb ed="#B" n="77"/>circa terram tercenties sexagesies quiquies cum 
+   <lb ed="#B" n="78"/>aliqua fractione. Tertia quamquam concedit quod dies
+   na<lb ed="#B" n="79" break="no"/>talis erit festum paschae: non tamen conceditur 
+   <lb ed="#B" n="80"/>vnquam quod dies natalis est pascha: nec illa est sua de 
+   <lb ed="#B" n="81"/>inesse: quia oportet tollere subiectum: &amp; ponere 
+   <lb ed="#B" n="82"/>illum terminum caelum: vel pronomen hoc. &amp; ex 
+   <lb ed="#B" n="83"/>altera propositione tertiae adiecta non sequitur: 
+   <lb ed="#B" n="84"/>quod licet comedere carnes in quadragesima.
+   Cir<lb ed="#B" n="85" break="no"/>ca quartam dico quod licet crastina die Antichristus 
+   <lb ed="#B" n="86"/>erit: tamen non erit Antichristus cras: sed sequi 
+   <lb ed="#B" n="87"/>tur quod dies naturalis est dies artificialis. Item 
+   <lb ed="#B" n="88"/>haec opinio concedit voces, accidentia
+   successi<lb ed="#B" n="89" break="no"/>ua: &amp; sic argumenta Ocltam in reales, sunt
+   en<lb ed="#B" n="90" break="no"/>sis Aiacis. 
+   <lb ed="#B" n="91"/>Alia positio est quod tempus est
+   acci<lb ed="#B" n="92" break="no"/>dens caelo inhaerens, habens plures partes simul 
+   <lb ed="#B" n="93"/>ad diuisionem subiecti extensum in caelo: &amp; ei in  
+   <lb ed="#B" n="94"/>haerens sicut albendo inhaeret parieti: &amp; nihil aliud 
+   <lb ed="#B" n="95"/>est quam motus primi mobilis: sed per nulla duo in
+   <lb ed="#B" n="96" break="no"/>stantia remanet idem motus, vel tempus numero 
+   <lb ed="#B" n="97"/>sed partibus aliquibus abeuntibus succedunt aliae 
+   <lb ed="#B" n="98"/>&amp; sicut motus quo caelum mouetur vno die, est 
+   <lb ed="#B" n="99"/>pars motus quo caelum mouetur vno mense vel 
+   <lb ed="#B" n="100"/>anno / sic dies de virtute sermonis est pars
+   anni<lb ed="#B" n="101" break="no"/>&amp; pars mensis. Et quemadmodum motus quo caelum 
+   <lb ed="#B" n="102"/>mouetur in die natalis, no est motus quo mouetur 
+   <lb ed="#B" n="103"/>in diae paschae: neque haec de futuro vnqu conceditur: fe 
+   <lb ed="#B" n="104"/>stum natalis Christi erit festum paschae. Ad saluandam 
+   <lb ed="#B" n="105"/>autem talem, annus est carus / oportet vti supponne synecdo 
+   <lb ed="#B" n="106"/>chica. nam aequaliter currit contra omnes opiniones 
+   <lb ed="#B" n="107"/>quia nec motus caeli est carus: nec ipsum caelum. In  
+   <!--0062.xml-->
+   <pb ed="#B" n="15-v"/>
+       <cb ed="#B" n="a"/>
+       <lb ed="#B" n="1"/>talibus dies est pulchra: dies est turbulenta, dies ca 
+   <lb ed="#B" n="2"/>pitur pro aere: quia quando est serenus vel lucidus: 
+   <lb ed="#B" n="3"/>bene caelum videmus. &amp; sic dicimus: est pulchra 
+   <lb ed="#B" n="4"/>dies. Vtraque autem harum positionum est defensabilis 
+   <lb ed="#B" n="5"/>sufficit quod dictum est raptim pro terminorum enuclea 
+   <lb ed="#B" n="6"/>tione: vt theologi vtuntur tempore.
+  </p>
+      <p xml:id="jMqv4a-d1e7704-d1e328">
+   ⁋ Et quantum ad 
+   <lb ed="#B" n="7"/>ppositum pertinet Triplex est tempus. Quoddam legis na 
+   <lb ed="#B" n="8"/>turae: quod durauit ab Adam &amp; ad Moysen vsque, quo 
+   <lb ed="#B" n="9"/>usque accepit legem scriptam in monte. Exodi. xx. 
+   <lb ed="#B" n="10"/>&amp; sequentibus. Sed tempus legis Mosaicae scriptae 
+   <lb ed="#B" n="11"/>durauit a Moyse ad aduentum Christi vsque: &amp; tunc i 
+   <lb ed="#B" n="12"/>choabatur tertium tempus / scilicet legis gratiae, vel legis 
+   <lb ed="#B" n="13"/>euangelicae: quae durat inaeternum. Et adhuc istud
+   to<lb ed="#B" n="14" break="no"/>tale tepus diuiditur a principio mundi vel Adae ad 
+   <lb ed="#B" n="15"/>tempus vsque in quo peccauit, quod valde paruum 
+   <lb ed="#B" n="16"/>erat: &amp; istud tempus vocatur tempus naturae integrae 
+   <lb ed="#B" n="17"/>totum residuum tempus naturae lapsae. 
+  </p>
+      <p xml:id="jMqv4a-d1e7704-d1e354">
+       <lb ed="#B" n="18"/>⁋ Secundus terminus est lex: &amp; di 
+   <lb ed="#B" n="19"/>citur a ligando: quia ligat subditos: &amp; est duplex 
+   <lb ed="#B" n="20"/>increata scilicet deus: &amp; creata, quae sic definitur. Lex 
+   <lb ed="#B" n="21"/>obligatoria est signum rationi conforme, vel vo 
+   <lb ed="#B" n="22"/>luntas rationi conformis: creaturam rationis ca 
+   <lb ed="#B" n="23"/>pacem ad aliquid agendum, vel non agendum obligans 
+   <lb ed="#B" n="24"/>An dei voluntas sit prima lex obligatoria in contin 
+   <lb ed="#B" n="25"/>gentibus: &amp; creaturarum voluntates
+   proportiona<lb ed="#B" n="26" break="no"/>biliter lex secundaria, an intellectus vel eius actus 
+   <lb ed="#B" n="27"/>in proposito non refert. Sed de signo legissatoris 
+   <lb ed="#B" n="28"/>mentem insinuante apte loquendum est, siue fue 
+   <lb ed="#B" n="29"/>rit mentale, vocale, vel scriptum. Dicebatur (ra- 
+   <lb ed="#B" n="30"/>tioni conforme) alioquin principum instituta
+   ir<lb ed="#B" n="31" break="no"/>rationabilia dicerentur leges: quod non est dicen 
+   <lb ed="#B" n="32"/>dum. Nonnunquam tamen sunt leges positiuae
+   op<lb ed="#B" n="33" break="no"/>positae in variis iocis in eodem tempore: sed quae 
+   <lb ed="#B" n="34"/>libet illarum est alicui rationi conformis, quod sufficit. 
+   <lb ed="#B" n="35"/>Dicebatur (creaturam rationis capacem) &amp; non creaturanm 
+   <lb ed="#B" n="36"/>rationalem, propter amentes &amp; pueros qui proprie non 
+   <lb ed="#B" n="37"/>ligantur: sed solum illi proprie ligantur qui ad aliquid sub 
+   <lb ed="#B" n="38"/>poena noui peccati, vel poenae astringuntur.
+   Qua<lb ed="#B" n="39" break="no"/>re paruuli proprie non obligantur ad baptisma: sed 
+   <lb ed="#B" n="40"/>est statutum solum vniuersale, quod qui non est conceptus 
+   <lb ed="#B" n="41"/>in gratia vel originali iustitia: est in originali pec 
+   <lb ed="#B" n="42"/>cato. Per (obligas) consilia secluduntur. Et sicut haec 
+   <lb ed="#B" n="43"/>definitio proprie conscientiae erroneae non convenit: ita 
+   <lb ed="#B" n="44"/>nec definitum: licet homo in casu obligetur ad
+   conformi<lb ed="#B" n="45" break="no"/>ter agendum secundum eam, vel eam deponere. 
+  </p>
+      <p xml:id="jMqv4a-d1e7704-d1e417">
+       <lb ed="#B" n="46"/>⁋ Insuper trifariam lex scinditur. in le 
+   <lb ed="#B" n="47"/>gem naturalem, diuinam, &amp; humanam. Tripliciter capitur 
+   <lb ed="#B" n="48"/>lex naturae. vno modo pro inclinatione naturali rei: si 
+   <lb ed="#B" n="49"/>ue inclinatio dicat actum positiuum in animalibus
+   distin<lb ed="#B" n="50" break="no"/>ctum / siue non. hoc modo aquam ad centrum grauitatis
+   fiu<lb ed="#B" n="51" break="no"/>ere: vel ad locum decliuiorem, est de lege naturae: vt 
+   <lb ed="#B" n="52"/>Prouerbiorum. viii. Quando circundabat mari terminum 
+   <lb ed="#B" n="53"/>suum: &amp; legem ponebat aquis: ne transirent fines suos. 
+   <!--0062.xml-->
+   <cb ed="#B" n="b"/> 
+       <!-- 15-v b -->
+       <lb ed="#B" n="54"/>hoc ipsum de caelestium motu contingit: secundum 
+   <lb ed="#B" n="55"/>illud Psalmi. cxlviii. Praeceptum posuit &amp; non praeteri 
+   <lb ed="#B" n="56"/>bit. Sic carnis inclinatio ad actum generationis si 
+   <lb ed="#B" n="57"/>ue licitum siue illicitum, potest dici lex naturae. Sed 
+   <lb ed="#B" n="58"/>si ad illicitum tendat / est lex membrorum appropria 
+   <lb ed="#B" n="59"/>te: vt ad Roma. vii. Video aliam legem in menbris me 
+   <lb ed="#B" n="60"/>is repugnantem legi mentis meae. Hoc modo ignem 
+   <lb ed="#B" n="61"/>calefacere est de lege naturae: vt. v. Ethico. Aristo 
+   <lb ed="#B" n="62"/>teles declarat de igne apud Persas &amp; Graecos. 
+  </p>
+      <p xml:id="jMqv4a-d1e7704-d1e463">
+       <lb ed="#B" n="63"/>⁋ Secundo modo capitur lex naturae: &amp; commu 
+   <lb ed="#B" n="64"/>nius apud theologos: quando quaerunt an deus potest 
+   <lb ed="#B" n="65"/>contra praecepta legis naturae dispensare: vt con 
+   <lb ed="#B" n="66"/>uertitur cum iure getium apud legistas. Et sic de
+   Exocec<lb ed="#B" n="67" break="no"/>finitur. lus gentium siue ius naturae proprit sumptum 
+   <lb ed="#B" n="68"/>est principium practicum ex terminis notu: vel 
+   <lb ed="#B" n="69"/>conclusio euidenter ab illo prie: pio deducta. licet 
+   <lb ed="#B" n="70"/>assensum talium legem naturae vocare possimus: 
+   <lb ed="#B" n="71"/>&amp; proponnem ipsam obiectum legis naturae vel
+   propon<lb ed="#B" n="72" break="no"/>nem de lege naturae. practicum aut quando propo ipsa ratione 
+   <lb ed="#B" n="73"/>terminorum importat aliquid operandum vel non opandum  
+   <lb ed="#B" n="74"/>vt caste viuendum est. Nullus est occidendus. Sicut enim 
+   <lb ed="#B" n="75"/>in speculabilibus sunt aliquam proponnes per se notae: quaerum 
+   <lb ed="#B" n="76"/>notitia terminorum intuitiua vel abstractiua captiuat 
+   <lb ed="#B" n="77"/>intellectum terminos apprehendentem ad sibi assentiendum 
+   <lb ed="#B" n="78"/>sicut sunt communes animi conceptiones / &amp; dignitates spe 
+   <lb ed="#B" n="79"/>culatiuae: ita est in operabilibus. Haec enim principia sunt 
+   <lb ed="#B" n="80"/>per se nota: nullum malu est faciendum: omne bonum verum pro 
+   <lb ed="#B" n="81"/>ioco &amp; tempore est prosequendum. hoc modo multa praecepta de 
+   <lb ed="#B" n="82"/>calogi euidenter deducuntur in sensibus in quibus sunt 
+   <lb ed="#B" n="83"/>praecepta vel prohibitiones. Ex hoc principio practi 
+   <lb ed="#B" n="84"/>co in lumine naturali noto: non debeo velle aliis 
+   <lb ed="#B" n="85"/>quod mihinollem rationabiliter fieri. Lex naturae qua 
+   <lb ed="#B" n="86"/>&amp; ius gentium: inferioritatem habet respectu primae ac 
+   <lb ed="#B" n="87"/>ceptionis: quia solis creaturis rationalibus
+   coue<lb ed="#B" n="88" break="no"/>nit. lus autem naturae primaeuum animalibus &amp; ple 
+   <lb ed="#B" n="89"/>risque aliis. Et hoc est quod legisperitus <name xml:id="jMqv4a-d1e7704-Nd1e523">Vlpianus</name> ilitur. 
+   <lb ed="#B" n="90"/>de Institutis &amp; iure. lege. ii. dicit. lus gentium est ouo 
+   <lb ed="#B" n="91"/>gentes humanae vtuntur, quod a naturali recedere 
+   <lb ed="#B" n="92"/>facile intelligere licet: quia omnibus illud animalibus: hoc 
+   <lb ed="#B" n="93"/>solis hominibus inter secommune sit. Sed ius gentium deo &amp; 
+   <lb ed="#B" n="94"/>angelis etiam conuenit: &amp; ius naturae primaeuum 
+   <lb ed="#B" n="95"/>omnibus rebus naturalibus. Cum enim proponnibus per se notis 
+   <lb ed="#B" n="96"/>apprehensis terminis protinus assentimur: ille assensus 
+   <lb ed="#B" n="97"/>dicitur ex instinctu naturae. vnde <ref xml:id="jMqv4a-d1e7704-Rd1e544">
+        <name xml:id="jMqv4a-d1e7704-Nd1e546" ref="#Boethius">Boetius</name> lib. iii prosa 
+   <lb ed="#B" n="98"/>ii. de Consolatione philosophica</ref>. Inserta est naturalite 
+   <lb ed="#B" n="99"/>mentibus hominium veri summique boni cupiditas. Con 
+   <lb ed="#B" n="100"/>uenienter ergo haec acceptio assignata est inferior 
+   <lb ed="#B" n="101"/>ad praecedentem. Ex isto patet quod non vocatur ius gentium: 
+   <lb ed="#B" n="102"/>quia est apud omnes gentes. licet enim baptismus esset apud 
+   <lb ed="#B" n="103"/>omnes: non tamen esset de iure gentium.
+  </p>
+      <p xml:id="jMqv4a-d1e7704-d1e564">
+   ⁋ Tertio modo capitur 
+   <lb ed="#B" n="104"/>ius naturae vel ius gentium extensius pro propositione 
+   <lb ed="#B" n="105"/>practica: cui quilibet habens clara naturalia &amp; non 
+   <lb ed="#B" n="106"/>deprauata appraehensis terminis mox
+   assen<lb ed="#B" n="107" break="no"/>tiet: licet aliqui colluuie sordium irretiti non
+   ac<lb ed="#B" n="108" break="no"/>quiescant. Sicut comestor allii fortem odorem in  
+   <!--0063.xml-->
+   <pb ed="#B" n="16-r"/>
+       <cb ed="#B" n="a"/>
+       <lb ed="#B" n="1"/>alio non sentit: quem alius illo cibo ieiunus odo 
+   <lb ed="#B" n="2"/>ratu deprehendit. Siciter si assuetum aliena rapere in vtri 
+   <lb ed="#B" n="3"/>usque regni Britannici limitibus ceperis proponendo 
+   <lb ed="#B" n="4"/>ei rapinae &amp; furti inhonestatem: illam statim
+   nega<lb ed="#B" n="5" break="no"/>bit. Sic in Politia ecclesiastica iudicatus ab omnibus 
+   <lb ed="#B" n="6"/>sapientibus neutris plura habere quam deceat, non assen 
+   <lb ed="#B" n="7"/>tiet ipse habens: &amp; ita in caeteris id genus exemplifica 
+   <lb ed="#B" n="8"/>re potes. Quodlibet autem aliud ius a iure naturae est ius 
+   <lb ed="#B" n="9"/>positiuum siue ciuilet vt. v. Ethico. vii. exemplificat 
+   <lb ed="#B" n="10"/>Arist. mina captiuos redimi: vel capram diis: sed  
+   <lb ed="#B" n="11"/>non duas oues mactare: vt sacra Bryseidi facere. 
+   <lb ed="#B" n="12"/>In talibus sufficit illd iurisconsulti, quod principi placuit 
+   <lb ed="#B" n="13"/>legis habet vigorem. Idem patet. itur. de leg. &amp; senatus 
+   <lb ed="#B" n="14"/>consul. lege. No omnium quae constituta sunt ratio reddi 
+   <lb ed="#B" n="15"/>potest. Non enim potest dari ratio vltra voluntatem
+   legissa<lb ed="#B" n="16" break="no"/>toris: quare homo vsucapione triennio &amp;
+   praescriptio<lb ed="#B" n="17" break="no"/>ne decemnio acquint dominium rei vsucaptae vel praescripte 
+   <lb ed="#B" n="18"/>&amp; non alio tempore. Et hoc ius multifariam scinditur. 
+   <lb ed="#B" n="19"/>Nam quoddam est positiuum diuinum, quoddam positiuum cano 
+   <lb ed="#B" n="20"/>nicum, quoddam positiuum ciuile.
+  </p>
+      <p xml:id="jMqv4a-d1e7704-d1e628">
+   ⁋ lus diuinum est proposon in 
+   <lb ed="#B" n="21"/>sacro canone contenta si non sit de iudicialibus vel 
+   <lb ed="#B" n="22"/>cerimonialibus in lege Mosaica / vel ex ea in certa 
+   <lb ed="#B" n="23"/>consequentia illata. Definio legem diuinam prout 
+   <lb ed="#B" n="24"/>legi gratiae immutabili convenit.
+  </p>
+      <p xml:id="jMqv4a-d1e7704-d1e639">
+   ⁋ Ex isto patet: si
+   ali<lb ed="#B" n="25" break="no"/>quid sequitur ex vna proponne vel pluribus sacri canonis 
+   <lb ed="#B" n="26"/>in consequentia certa: illi simili certitudine assentiendum 
+   <lb ed="#B" n="27"/>est. Cognitis enim maiore &amp; minore simlul
+   cogno<lb ed="#B" n="28" break="no"/>scitur conclusio. i. Posteriorum. Non refert siue in
+   cose<lb ed="#B" n="29" break="no"/>quentia materiali siue formali sequatur: dummodo per
+   lo<lb ed="#B" n="30" break="no"/>cum intrisecumn deducatur. Hoc addo / quia alioquin oporte 
+   <lb ed="#B" n="31"/>ret dicere, quod ista / sortes possibiliter currit: &amp; quilibet 
+   <lb ed="#B" n="32"/>propon necessiria, esset de iure diuino, quod concedere non 
+   <lb ed="#B" n="33"/>solemus. Locum extrinsecum in pro posito voco 
+   <lb ed="#B" n="34"/>quando solum ob consequentis necessitatem
+   infer<lb ed="#B" n="35" break="no"/>tur. Dixi (in consequentia certa i quia si illatio fuerii 
+   <lb ed="#B" n="36"/>solum probabilis, non est illibate consequens de fide nisi 
+   <lb ed="#B" n="37"/>laxato vocabulo: &amp; secundum gradu ponendo: qui erit 
+   <lb ed="#B" n="38"/>quando aliquid a traditione apostolorum ad dies ntros 
+   <lb ed="#B" n="39"/>vsque traditur fuisse ex institutione Christi. hoc modo 
+   <lb ed="#B" n="40"/>de aliquibus sacramentis a Christo institutis
+   admi<lb ed="#B" n="41" break="no"/>niculatiuam probationem capimus: &amp; de multis
+   consue<lb ed="#B" n="42" break="no"/>tudinibus ecclesiasticis laudabilibus: vt de
+   mul<lb ed="#B" n="43" break="no"/>tis ordinibus inferioribus: &amp; de caelibatu post or 
+   <lb ed="#B" n="44"/>dines sacros susceptos. Tertius gradus est: Quam 
+   <lb ed="#B" n="45"/>do aliquis habet aliquid a deo reuelatione interi 
+   <lb ed="#B" n="46"/>ori vel exteriori, quem gradum solum illi apud 
+   <lb ed="#B" n="47"/>quos constat, accipere tenentur. patet
+   exemplari<lb ed="#B" n="48" break="no"/>ter. iii. Regum. xx. Vir quidam de filiis propheta 
+   <lb ed="#B" n="49"/>rum dixit ad socium suum in sermone domini, percu 
+   <lb ed="#B" n="50"/>te me. at ille noluit percutere, cui ait, quia noluisti
+   au<lb ed="#B" n="51" break="no"/>dire vocem domini: ecce recedas a me &amp; percutiet 
+   <lb ed="#B" n="52"/>te leo. quod &amp; factum est. quia enim socius eius
+   co<lb ed="#B" n="53" break="no"/>gnouit eum esse prophetam: ci parere debebat: non 
+   <lb ed="#B" n="54"/>autem alius qui hoc ignorauit.
+  </p>
+      <p xml:id="jMqv4a-d1e7704-d1e707">
+   ⁋ Ex omnibus 
+   <lb ed="#B" n="55"/>his patent aliquae propositiones. Prima. Licet 
+   <!--0063.xml-->
+   <cb ed="#B" n="b"/> 
+       <!-- 16-r b -->
+       <lb ed="#B" n="56"/>ius positiuum quodlibet contra ius naturae in tri 
+   <lb ed="#B" n="57"/>plici acceptione acceptum distinguatur: tamen ius diui 
+   <lb ed="#B" n="58"/>num nunc cum vnoinunc cum alio coincidit. Ter 
+   <lb ed="#B" n="59"/>tium piaeceptum decalogi in monte Sinai Moy 
+   <lb ed="#B" n="60"/>si datum erat ius positiuum diuinum: reliqua
+   o<lb ed="#B" n="61" break="no"/>mnia de iure naturali in aliqua acceptione. Secundo 
+   <lb ed="#B" n="62"/>patet quod aliquid erat de iure diuimo quod ordinabat de 
+   <lb ed="#B" n="63"/>pacifica conuersatione humana: vt patet de legi 
+   <lb ed="#B" n="64"/>bus iudicialibus in Exodo positis. Ex quo
+   sequi<lb ed="#B" n="65" break="no"/>tur quod non est de ratione legis diuinae immediate oi 
+   <lb ed="#B" n="66"/>dinare in beatitudinem. Quarto sequitur aliquid  
+   <lb ed="#B" n="67"/>incontracte sumptum esse de iure naturae vel
+   di<lb ed="#B" n="68" break="no"/>uino, cui si addatur restrictio, totum erit de iure po 
+   <lb ed="#B" n="69"/>sitiuo: interdum de nullo iure. vt confiteri
+   pecca<lb ed="#B" n="70" break="no"/>ta est de iure diuino: in festo paschae confiteri est 
+   <lb ed="#B" n="71"/>de iure humano: confiteri in Pentecoste de nullo 
+   <lb ed="#B" n="72"/>iure. Simiter punire furem &amp; reipublicae perturbato 
+   <lb ed="#B" n="73"/>rem est de iure naturae: sed punire eum hoc
+   mo<lb ed="#B" n="74" break="no"/>do, puta vltimo supplicio / vel ad restituendum 
+   <lb ed="#B" n="75"/>duplum pro furto immanifesto: &amp; quadruplum aro 
+   <lb ed="#B" n="76"/>manifesto, est solum de iure humano. Sed
+   pro<lb ed="#B" n="77" break="no"/>positio sequens ex multis propositionibus
+   di<lb ed="#B" n="78" break="no"/>uersi iutis: partem debiliorem insequitur. Et si
+   se<lb ed="#B" n="79" break="no"/>quatur ex duabus propositionibus: quarum vna 
+   <lb ed="#B" n="80"/>est de aliquo iure &amp; reliqua de nullo: conclusio si so 
+   <lb ed="#B" n="81"/>lum ab eis capit euidentiam, de nullo iure erit. com 
+   <lb ed="#B" n="82"/>clusio enim debiliorem partem insequitur si solum
+   ro<lb ed="#B" n="83" break="no"/>bur a praemissis capiat. patet exemplariter. Nullus in  
+   <lb ed="#B" n="84"/>dignus duobus beneficiis potest capere duo
+   bene<lb ed="#B" n="85" break="no"/>ficia / aut plura, sortes est indignus duobus
+   benefi<lb ed="#B" n="86" break="no"/>ciis: ergo non potest capere duo aut plura. maior 
+   <lb ed="#B" n="87"/>est nota in lumine naturali. Et sicut oportet con 
+   <lb ed="#B" n="88"/>sultare cum sapientibus qui viri idoneitatem no 
+   <lb ed="#B" n="89"/>uerunt, circa conclusionem: ita circa minorem con 
+   <lb ed="#B" n="90"/>sultandum est. 
+  </p>
+      <p xml:id="jMqv4a-d1e7704-d1e794">
+       <lb ed="#B" n="91"/>⁋ Verborum significationibus
+   pau<lb ed="#B" n="92" break="no"/>lulum late ex industria declaratis, pono titulo quae 
+   <lb ed="#B" n="93"/>stionis conclusiones aliquas responsiuas.
+  </p>
+      <p xml:id="jMqv4a-d1e7704-d1e803">
+   ⁋ Pri 
+   <lb ed="#B" n="94"/>ma est. Pro cuiuscunque legis tempore post pecca 
+   <lb ed="#B" n="95"/>tum erant aliqua sacramenta, vel vicem sacramen 
+   <lb ed="#B" n="96"/>torum supplentia: vel aliquae aliae protestationes 
+   <lb ed="#B" n="97"/>Haec probatur: quia quocunque tempore erat mor 
+   <lb ed="#B" n="98"/>bus in natura: erat medicina contra illum morbum. 
+   <lb ed="#B" n="99"/>sed quolibet tempore post peccatum Adae erat 
+   <lb ed="#B" n="100"/>morbus in natura: igitur. Discursus patet cum 
+   <lb ed="#B" n="101"/>minore. Et maior apparet: quia deus qui
+   sum<lb ed="#B" n="102" break="no"/>me est misericors, non reliquit humanum genus 
+   <lb ed="#B" n="103"/>sine remedio pro paruulis saltem. videtur aut quod
+   nul<lb ed="#B" n="104" break="no"/>lum erat aliud remedium.
+  </p>
+      <p xml:id="jMqv4a-d1e7704-d1e829">
+   ⁋ Secunda conclusio, pro 
+   <lb ed="#B" n="105"/>alia &amp; alia lege congruum fuit habere aliud &amp; aliud 
+   <lb ed="#B" n="106"/>sacramentum: &amp; ita factum est. quod congruum fuit, probatur 
+   <lb ed="#B" n="107"/>quia in processu generationis humanae semper creuit non 
+   <lb ed="#B" n="108"/>tiria veritatis: vt patet per Gregorium super Ezechielen 
+   <lb ed="#B" n="109"/>Homilia. iiii. Deus ordinate agens procedit de per 
+   <!--0064.xml-->
+   <pb ed="#B" n="16-v"/>
+       <cb ed="#B" n="a"/>
+       <lb ed="#B" n="1"/>vnius gregis discernuntur ab ouibus alterius gregis 
+   <lb ed="#B" n="2"/>per varia signa. Sic penula dabatur Romanis &amp;
+   pa<lb ed="#B" n="3" break="no"/>tri sancti Pauli: vt dicit glossa cap. Si in
+   adiuto<lb ed="#B" n="4" break="no"/>rium. distin. x. Hoc autem supponendum est, licet locus non 
+   <lb ed="#B" n="5"/>legatur in scriptura, in quo sacramenta illa institu 
+   <lb ed="#B" n="6"/>ta sunt. Et istud patet. legitur in plerisque locis
+   Ge<lb ed="#B" n="7" break="no"/>nesis ante legem institutam de modo sacrificandi. vt 
+   <lb ed="#B" n="8"/>de Caim, &amp; Abele, None, &amp; Abraham: qui non
+   tentas<lb ed="#B" n="9" break="no"/>sent illa sine praecepto dei. Similiter patres habu 
+   <lb ed="#B" n="10"/>erunt plures vxores: vt Abraham, Iacob, &amp; alii con 
+   <lb ed="#B" n="11"/>tra ius naturae in lata acceptione: quod non fecissent 
+   <lb ed="#B" n="12"/>lli boni patres sine dispensatione: &amp; tamen locus non 
+   <lb ed="#B" n="13"/>legitur in sacra scriptura: sed supponitur.
+   Scriptu<lb ed="#B" n="14" break="no"/>ra enim multum succincte procedit pro tempore legis
+   na<lb ed="#B" n="15" break="no"/>turae. Ad illud beati Gregorii potest dici, fidem
+   paren<lb ed="#B" n="16" break="no"/>tum cum applicatione signorum extrinsecorum suffice 
+   <lb ed="#B" n="17"/>re. &amp; licet adulti tempore legis naturae fuissent sal 
+   <lb ed="#B" n="18"/>uati in fide propria, sicut nunc in lege gratiae: est tamen 
+   <lb ed="#B" n="19"/>verosimile quod etiam acceperunt sacramenta illius 
+   <lb ed="#B" n="20"/>egis, sicut nunc contingit.
+  </p>
+    </div>
+   </body>
+  </text>
+</TEI>

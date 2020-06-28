@@ -1,0 +1,272 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 27</title>
+      <author ref="#JohnMair">John Mair</author>
+      <respStmt>
+       <name>Jeffrey C. Witt</name>
+       <resp>TEI Encoder</resp>
+      </respStmt>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 27</title>
+       <date when="2020-06-09">June 27, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="B" n="cod-Bda113">Badius 1516</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+     guidelines for a diplomatic edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-06-27" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+      <pb ed="#B" n="387-r"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="jMqv4a-d1e2075"> <!-- l4d49q27 -->
+      <head xml:id="jMqv4a-d1e2075-Hd1e104">Quaestio 27</head>
+      <head xml:id="jMqv4a-d1e2075-Hd1e107" type="question-title">Cuius virtutis sit actus martyrii vel illae cui 
+  debetur aureola martyrum</head>
+      <p xml:id="jMqv4a-d1e2075-d1e110">
+       <lb ed="#B" n="12"/>⁋ Distinctionis Quadragesim aenonae 
+   <lb ed="#B" n="13"/>Quaestio Vigesimaseptia et Vltima. 
+   <lb ed="#B" n="14"/>galoesimoseptimo &amp; 
+   <lb ed="#B" n="15"/>fivstimo in hac dist. quadrage 
+   <lb ed="#B" n="16"/>simanona restat inquirere, cu 
+   <lb ed="#B" n="17"/>ius virtutis sit actus martyri 
+   <lb ed="#B" n="18"/>vel ille cui debetur aureola mar 
+   <lb ed="#B" n="19"/>tyrum. Ad hanc quaestionem varii 
+   <lb ed="#B" n="20"/>vario modo opinantur: beato 
+   <lb ed="#B" n="21"/>Thoma opinante quod omne martyrium est actus
+   forti<lb ed="#B" n="22" break="no"/>tudinis: Martino dicente nullum martyrium esse actum 
+   <lb ed="#B" n="23"/>fortitudinis, sed solum spectare ad illam virtutem gra 
+   <lb ed="#B" n="24"/>tia cuius actum facit. Verum pono conclusiones.
+  </p>
+      <p xml:id="jMqv4a-d1e2075-d1e141">
+   ⁋
+   Pri<lb ed="#B" n="25" break="no"/>ma conclusio. Aliquod martyrium spectat ad
+   iusti<lb ed="#B" n="26" break="no"/>tiam. Probatur sic. aliquis est actus martyrii quem ho 
+   <lb ed="#B" n="27"/>mo tenetur facere: sed ille actus est actus iustitiae. nam 
+   <lb ed="#B" n="28"/>habitus iustitiae inclinat habentem ad dandum cuilibei 
+   <lb ed="#B" n="29"/>quod suum est: vt deo quae dei sunt, &amp; Caesari quam Caesa 
+   <lb ed="#B" n="30"/>ris sunt. sed interdum homo tenetur reddere deo hono  
+   <lb ed="#B" n="31"/>rem exteriorem: &amp; eum confiteri coram hominibus: &amp; ad 
+   <lb ed="#B" n="32"/>hoc inclinat habitus iustitiae. si autem non fuerit in vo 
+   <lb ed="#B" n="33"/>luntate tulis habitus: voluntas ex libertate sua in  
+   <lb ed="#B" n="34"/>primum actum iustitiae exit mediante dictamine pru 
+   <lb ed="#B" n="35"/>dentiali dictante, nunc dandum esse deo honorem coram 
+   <lb ed="#B" n="36"/>aliis.
+  </p>
+      <p xml:id="jMqv4a-d1e2075-d1e171">
+   ⁋ Secunda conclusio. Aliquod martyrium spectat 
+   <lb ed="#B" n="37"/>ad temperantiam. probatur. si aliqua habeat adeo
+   fir<lb ed="#B" n="38" break="no"/>mum propositum vt permittat se occidi potius ust 
+   <lb ed="#B" n="39"/>consentiat in adulterium in praesentia periculorum: iam 
+   <lb ed="#B" n="40"/>ipsa habet actum temperantiae: quia habet
+   proposi<lb ed="#B" n="41" break="no"/>tum circa venerea quae cadunt in obiectum
+   temperan<lb ed="#B" n="42" break="no"/>tiae.
+  </p>
+      <p xml:id="jMqv4a-d1e2075-d1e187">
+   ⁋ Tertia conclusio. Aliquod martyrium est act 
+   <lb ed="#B" n="43"/>charitatis. probatur de charitate infusa: quia ad omnem 
+   <lb ed="#B" n="44"/>actum meritorium concurrit charitas infusa: mar 
+   <lb ed="#B" n="45"/>tyrium est actus meritorius. igitur. immo aliquod  
+   <lb ed="#B" n="46"/>martyrium est actus charitatis acquisitae: vt patet 
+   <lb ed="#B" n="47"/>ex quaestione praecedente.
+  </p>
+      <p xml:id="jMqv4a-d1e2075-d1e200">
+   ⁋ Quarta conclusio.
+   Ali<lb ed="#B" n="48" break="no"/>quod martyrium est fortitudo. probatur. aliquod 
+   <lb ed="#B" n="49"/>martyrium est actus quo quis non vult
+   relinque<lb ed="#B" n="50" break="no"/>re opus honestum non obstante morte
+   actualite<lb ed="#B" n="51" break="no"/>illata: ergo aliquis actus martyrii est fortitudo. for 
+   <lb ed="#B" n="52"/>titudo enim est circa pericula mortis in bello. Se- 
+   <!--0805.xml-->
+   <cb ed="#B" n="b"/> 
+       <!-- 387-r b -->
+       <lb ed="#B" n="53"/>cundo ostenditur per illud Cypriani in epistola ad 
+   <lb ed="#B" n="54"/>martyres &amp; confessores. Obeati martyres quibus 
+   <lb ed="#B" n="55"/>vos laudibus praedicem. O milites fostissimi, robur 
+   <lb ed="#B" n="56"/>corporis vestri quo praeconio vocis explicem. Hoc 
+   <lb ed="#B" n="57"/>idem tenet Leo papa. &amp; illum morem ecclesia ob 
+   <lb ed="#B" n="58"/>seruat de martyribus. Forte dicis ad has
+   auctori<lb ed="#B" n="59" break="no"/>tates quod martyres non habent bellum: cum non con 
+   <lb ed="#B" n="60"/>trapugnent. hoc non obstat: quia falsum est quod re 
+   <lb ed="#B" n="61"/>quiritur contrapugnatio quae fiat manibus &amp; viri 
+   <lb ed="#B" n="62"/>bus corporis / ad bellum. Vbi autem auctores
+   po<lb ed="#B" n="63" break="no"/>nunt fortitudinem bellicam esse virtutem cardina 
+   <lb ed="#B" n="64"/>lem: sufficit expectare tempore mortis &amp; in
+   praesen<lb ed="#B" n="65" break="no"/>tia periculorum secundum dictamen rectae rauonis 
+   <lb ed="#B" n="66"/>contrapugnando ratione, vel sustinendo: vt contin 
+   <lb ed="#B" n="67"/>git de martyribus. sed non curamus de illo. Sane 
+   <lb ed="#B" n="68"/>fortitudo vt est circa ardua, per te est virtus cardi 
+   <lb ed="#B" n="69"/>nalis: ergo licet martyres non perstiterint in
+   bello<lb ed="#B" n="70" break="no"/>non habes negare eos esse fortes: &amp; habuisse actum 
+   <lb ed="#B" n="71"/>fortitudinis proprie dictae / nisi aliud occurrat. 
+  </p>
+      <p xml:id="jMqv4a-d1e2075-d1e261">
+       <lb ed="#B" n="72"/>⁋ Contra hanc quartam
+   conclusio<lb ed="#B" n="73" break="no"/>nem obiicitur rationibus Martini: &amp; in solutioni 
+   <lb ed="#B" n="74"/>bus ponentur replicationes contra eum /
+   probati<lb ed="#B" n="75" break="no"/>uae huius quartae conclusionis. In primo argumen 
+   <lb ed="#B" n="76"/>to vult probare aliquod martyrium esse iustitiam: 
+   <lb ed="#B" n="77"/>quod concedimus: &amp; aliquod esse liberalitatem: quan 
+   <lb ed="#B" n="78"/>do martyrium est opus consilii.
+  </p>
+      <p xml:id="jMqv4a-d1e2075-d1e279">
+   ⁋ Secundo
+   ar<lb ed="#B" n="79" break="no"/>guit. Volitio cum contemptu mortis &amp; cruciatuum 
+   <lb ed="#B" n="80"/>ne deseratur iustitia impatiua formaliter
+   exequu<lb ed="#B" n="81" break="no"/>tionis, aut pertinet ad iustitiam tamtum: aut ad fortitu 
+   <lb ed="#B" n="82"/>dinem tanmtum: aut ad vtrumque. si primum: habetur in 
+   <lb ed="#B" n="83"/>tentum, non secundum: quia virtus fortitudinis 
+   <lb ed="#B" n="84"/>non inclinat in actum iustitiae per se &amp; immediate 
+   <lb ed="#B" n="85"/>ille autem actus est actus iustitiae, nec potest ad vtrum 
+   <lb ed="#B" n="86"/>quod pertinere: quod probat dupliciter. Primo, ille actus 
+   <lb ed="#B" n="87"/>est vnus: ergo pertinet ad vnum genus virtutis: non 
+   <lb ed="#B" n="88"/>ad duo. Secundo: omnis actus qui fertur in
+   ali<lb ed="#B" n="89" break="no"/>qua duo / in vnum tanquam in substantiam actus, &amp; in 
+   <lb ed="#B" n="90"/>alterum tanquam in circumstantiam / pertinet ad illud  
+   <lb ed="#B" n="91"/>genus virtutis ad quod pertinet substantia actus. 
+   <lb ed="#B" n="92"/>sed ista volitio quae dicta est fertur in opus
+   iusti<lb ed="#B" n="93" break="no"/>tiae tanquam in substantiam actus, &amp; tanquam in obiectum 
+   <lb ed="#B" n="94"/>primum &amp; principale: &amp; fertur in mortem &amp;
+   cru<lb ed="#B" n="95" break="no"/>ciatus tanquam in circumstantiam actus: quia, vt poni 
+   <lb ed="#B" n="96"/>tur in casu, facienti iustitiam proponitur conditio 
+   <lb ed="#B" n="97"/>mortis &amp; cruciatuum: ergo iste actus non ad
+   for<lb ed="#B" n="98" break="no"/>titudinem sed ad solam iustitiam pertinet. Maior 
+   <lb ed="#B" n="99"/>probatur: quia alioquin idem actus posset ratione 
+   <lb ed="#B" n="100"/>substantiae setae pertinere ad vnum genus virtutis: 
+   <lb ed="#B" n="101"/>&amp; ratione huius circumstantiae ad aliud: &amp; ratione 
+   <lb ed="#B" n="102"/>alterius ad aliud. quod est omnino absurdum &amp;
+   con<lb ed="#B" n="103" break="no"/>tra omnem doctrinam philosophorum moralium, 
+   <lb ed="#B" n="104"/>&amp; sanctorum qui in doctrinis suis declarant
+   mani<lb ed="#B" n="105" break="no"/>feste actum virtutis per nullas circumstantias varia 
+   <lb ed="#B" n="106"/>re genus virtutis.
+  </p>
+      <p xml:id="jMqv4a-d1e2075-d1e342">
+   ⁋ Ad hoc argumentum respondeo quod 
+   <!--0806.xml-->
+   <pb ed="#B" n="387-v"/>
+       <cb ed="#B" n="a"/>
+       <lb ed="#B" n="1"/>pertinet ad vtrumque: &amp; ille actus in re est fortitudo&amp; 
+   <lb ed="#B" n="2"/>iustitia. &amp; concedo quod habitus fortitudinis inclinat. 
+   <lb ed="#B" n="3"/>in actum iustitae per se quando ille habitus est realiter 
+   <lb ed="#B" n="4"/>ustitia, non enim inclinat in actum iustitiae quia
+   for<lb ed="#B" n="5" break="no"/>titudo: sed quia iustitia: vt manifestum est sic syllo 
+   <lb ed="#B" n="6"/>gizando: hic habitus iustitiae per se inclinat in actum 
+   <lb ed="#B" n="7"/>iustitiae: hic habitus iustitiae est fortitudo: igitur, con 
+   <lb ed="#B" n="8"/>sequentia est lucida nisi fugias ad modalem
+   compo<lb ed="#B" n="9" break="no"/>sitam vel ad aliquid quod non impedit propositum 
+   <lb ed="#B" n="10"/>Et quando dicis, ille actus est vnus: ergo pertinet 
+   <lb ed="#B" n="11"/>ad vnum genus virtutis &amp; non ad duo genera: 
+   <lb ed="#B" n="12"/>nego consequentiam. nam vna res significatur per 
+   <lb ed="#B" n="13"/>varia praedicabilia &amp; praedicamenta: vt idem actus 
+   <lb ed="#B" n="14"/>numero spectat ad varias species luxuriae. &amp; sicut 
+   <lb ed="#B" n="15"/>iustitia est genus: sic est fortitudo &amp; temperantia? 
+   <lb ed="#B" n="16"/>neutrum tamen est genus generalissimum. Et vt habeas 
+   <lb ed="#B" n="17"/>hoc concedere: probo quod vnus actus numero spectat 
+   <lb ed="#B" n="18"/>ad duas virtutes cardinales. capio hunc actum: volo 
+   <lb ed="#B" n="19"/>expectare in acie belli, quia dictatum est a recta ratione 
+   <lb ed="#B" n="20"/>expectare, &amp; quia teneor. da mihi finem iustitiae &amp; fi 
+   <lb ed="#B" n="21"/>nem fortitudinis: ordino vnum actum propter illos 
+   <lb ed="#B" n="22"/>duos fines: &amp; quaero abs te quare citius denominabi 
+   <lb ed="#B" n="23"/>tur abvno partiali fine quam ab alio. si habeas rationem 
+   <lb ed="#B" n="24"/>in promptu edissere. Similiter idem actus
+   nume<lb ed="#B" n="25" break="no"/>to est iustitia &amp; temperantia, quod probo: quia hic actus 
+   <lb ed="#B" n="26"/>volo hodie comedere solum semel vt seruem ieiuni 
+   <lb ed="#B" n="27"/>um ad quod obligor / &amp; vt temperate comedam: est 
+   <lb ed="#B" n="28"/>temperantia &amp; iustitia: quia in ratione finis cadunt 
+   <lb ed="#B" n="29"/>iustitia &amp; temperantia. &amp; sufficit distinctio rationis: 
+   <lb ed="#B" n="30"/>hoc est, alia est ratio quare vocatur temperantia: alia 
+   <lb ed="#B" n="31"/>quare denominatur iustitia.
+  </p>
+      <p xml:id="jMqv4a-d1e2075-d1e419">
+   ⁋ Cum secundo argumen 
+   <lb ed="#B" n="32"/>tatur. omis actus qui fertur in aliqua duo / in vnum 
+   <lb ed="#B" n="33"/>tanquam in substantiam actus. &amp;c. Ocleam quem insequi 
+   <lb ed="#B" n="34"/>tur &amp; ipse abutuntur modo loquendi de
+   circumstan<lb ed="#B" n="35" break="no"/>tiis. quia circumstantia proprie actum circumstat &amp; non 
+   <lb ed="#B" n="36"/>cadit in rationem obiecti. sed hoc est luctari de non 
+   <lb ed="#B" n="37"/>mine. quare loquar vt plures. Veniendo ad rem di 
+   <lb ed="#B" n="38"/>stinguo illam maiorem. vel in circumstantiam
+   ca<lb ed="#B" n="39" break="no"/>dentem in rationem obiecti: &amp; sic negatur. vel in  
+   <lb ed="#B" n="40"/>circumstantiam circunstantem: &amp; sic conceditur. hic 
+   <lb ed="#B" n="41"/>autem obiectum fortitudinis cadit in rationem
+   ob<lb ed="#B" n="42" break="no"/>lecti: sicut obiectum iustitiae in vtrumque partialiter ca 
+   <lb ed="#B" n="43"/>dit. &amp; sic capiendo concedo quod idem actus
+   nume<lb ed="#B" n="44" break="no"/>ro potest esse temperantia / fortitudo / &amp; iustitia. Vbi 
+   <lb ed="#B" n="45"/>vero dicit illud esse contra omnem moralem
+   philo<lb ed="#B" n="46" break="no"/>sophiam &amp; doctrinam sanctorum: demitor quare hoc 
+   <lb ed="#B" n="47"/>dicat: cum morales loquentes de his materiis
+   vtan<lb ed="#B" n="48" break="no"/>tur modo dicendi opposito tanquam sibi trito: &amp;
+   san<lb ed="#B" n="49" break="no"/>cti vocent martyres fortes. quare voluntarium est 
+   <lb ed="#B" n="50"/>propter aliqua sophismata dicere sanctos capere 
+   <lb ed="#B" n="51"/>metaphorice terminos.
+  </p>
+      <p xml:id="jMqv4a-d1e2075-d1e465">
+   ⁋ Tertio argumentatur, 
+   <lb ed="#B" n="52"/>Omnis actus qui est circa duo, circa vnum / tanquam 
+   <lb ed="#B" n="53"/>circa finem / &amp; circa aliud tanquam circa id quod est ad fi 
+   <lb ed="#B" n="54"/>nem: pertinet ad illud genus virtutis ad quod parti 
+   <lb ed="#B" n="55"/>net actus ille qui est circa finem. vt velle adultera- 
+   <!--0806.xml-->
+   <cb ed="#B" n="b"/> 
+       <!-- 387-v b -->
+       <lb ed="#B" n="56"/>ri causa diuitiarum acquirendarum pertinet ad aua 
+   <lb ed="#B" n="57"/>ritiam: &amp; velle furari vt intemperate viuatur, ad in  
+   <lb ed="#B" n="58"/>temperantiam. Concedo quod pertinet ad illud genus 
+   <lb ed="#B" n="59"/>virtutis ad quod pertinet actus ille qui est circa finem: 
+   <lb ed="#B" n="60"/>ed non tamenm. vt diligo Sortem propter deum
+   eo<lb ed="#B" n="61" break="no"/>dem actu: quia ille actus realiter est vsus &amp; fruitio. 
+   <lb ed="#B" n="62"/>bene tamen volo quod potius denominetur fruitio quam vsus 
+   <lb ed="#B" n="63"/>tanquam a nobiliore vel a principaliore intento. sicut Ari 
+   <lb ed="#B" n="64"/>stoteles dicit de illo qui moechatur propter lucrum 
+   <lb ed="#B" n="65"/>quod potius est dicendus auarus quam moechus: cum
+   il<lb ed="#B" n="66" break="no"/>lud principaliter intendat. tamen non sequitur quin 
+   <lb ed="#B" n="67"/>ille actus realiter sit moechia &amp; auaritia. quia enim 
+   <lb ed="#B" n="68"/>est actus circa venerea partialiter: &amp; non est
+   casti<lb ed="#B" n="69" break="no"/>tas / est luxuria. &amp; quia cum coniugata: est moechia. 
+   <lb ed="#B" n="70"/>Non potes habere refugium nisi ad nomen
+   fugien<lb ed="#B" n="71" break="no"/>do ad causam finalem quae denominabit totum actum. 
+   <lb ed="#B" n="72"/>sed hac via abire nequis vt supra ostensum est. Etiam 
+   <lb ed="#B" n="73"/>sic nullus actus dicetur vsus &amp; fruitio copulatim &amp; 
+   <lb ed="#B" n="74"/>copulatiue: cuius oppositum clamat schola com 
+   <lb ed="#B" n="75"/>munis / saltem ponendo actum vnum, vt Martinus 
+   <lb ed="#B" n="76"/>facit cum communem opinionem, &amp; rationabiliorem 
+   <lb ed="#B" n="77"/>sequentibus. Quo fit vt licet quis patiatur pro actu 
+   <lb ed="#B" n="78"/>fidei: tamen martyrium non sit actus fidei nisi sit 
+   <lb ed="#B" n="79"/>propter denominationem finis. primum enim est 
+   <lb ed="#B" n="80"/>actus intellectus: secundum vero est actus voluntatis. 
+  </p>
+    </div>
+   </body>
+  </text>
+</TEI>

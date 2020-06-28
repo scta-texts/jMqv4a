@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 7</title>
+      <author ref="#JohnMair">John Mair</author>
+      <respStmt>
+       <name>Jeffrey C. Witt</name>
+       <resp>TEI Encoder</resp>
+      </respStmt>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 7</title>
+       <date when="2020-06-09">June 27, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="B" n="cod-Bda113">Badius 1516</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+     guidelines for a diplomatic edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-06-27" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+      <pb ed="#B" n="343-v"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="jMqv4a-d1e1839"> <!-- l4d44q7 -->
+      <head xml:id="jMqv4a-d1e1839-Hd1e104">Quaestio 7</head>
+      <head xml:id="jMqv4a-d1e1839-Hd1e107" type="question-title">An tristitia sit magna poena</head>
+      <p xml:id="jMqv4a-d1e1839-d1e110">
+       <lb ed="#B" n="77"/>⁋ Distinctio. Quadragesimae quartae 
+   <lb ed="#B" n="78"/>Quaestio Septima. 
+   <lb ed="#B" n="79"/>Eptimo igitur &amp; vel 
+   <lb ed="#B" n="80"/>imo in hac distinctione quae 
+   <lb ed="#B" n="81"/>ritur. an tristitia sit magua poe 
+   <lb ed="#B" n="82"/>na. Respondetur per aliquas com 
+   <lb ed="#B" n="83"/>clusiones. Prima est.
+   Tristi<lb ed="#B" n="84" break="no"/>tia est magna poena.
+  </p>
+      <p xml:id="jMqv4a-d1e1839-d1e130">
+   ⁋
+   Se<lb ed="#B" n="85" break="no"/>e cunda conclusio. Tristitia potest 
+   <lb ed="#B" n="86"/>esse tanta vt virum destruat &amp; tollat de rerum natura. 
+  </p>
+      <p xml:id="jMqv4a-d1e1839-d1e138">
+       <lb ed="#B" n="87"/>⁋ Tertia conclusio. Non potest dari maior poena quam tri 
+   <lb ed="#B" n="88"/>stitia. Possem magnitudinem tristitiae probare per
+   poe<lb ed="#B" n="89" break="no"/>nam inferni vel purgatorii: sed quia hoc esset vti
+   cir<lb ed="#B" n="90" break="no"/>culo in probatione: aliter procedam per notiora. Probatur 
+   <lb ed="#B" n="91"/>prima conclusio, honesta laetitia est maxime
+   expeti<lb ed="#B" n="92" break="no"/>bilis: ergo tristitia potissimum circa culpam non bene 
+   <lb ed="#B" n="93"/>detestandam / est maxime fugibilis. tenet consequen 
+   <lb ed="#B" n="94"/>tia per regulam topicam. Antecedens manifestum est: 
+   <lb ed="#B" n="95"/>quia habeat papa, rex, vel episcopus quicquid volue 
+   <lb ed="#B" n="96"/>rit in bonis quibuscumque, sine laetitia putabit se nihil 
+   <lb ed="#B" n="97"/>habere.
+  </p>
+      <p xml:id="jMqv4a-d1e1839-d1e164">
+   ⁋ Accedo ad secundam conclusionem: quia
+   pro<lb ed="#B" n="98" break="no"/>batio duarum vltimarum conclusionum ostendit primam. 
+   <lb ed="#B" n="99"/>Omne illud quod corpus notabiliter desiccat / virum 
+   <lb ed="#B" n="100"/>occidit. sed sic est de tristitia. igitur. minor patet ex 
+   <lb ed="#B" n="101"/>illo Prouerbiorum. xvii. Animus gaudens aetatem
+   fio<lb ed="#B" n="102" break="no"/>ridam facit: spiritus tristis desiccat ossa. Et prouerbiorum 
+   <lb ed="#B" n="103"/>xv. dicitur. Cor gaudens exhilarat facien: in moerore 
+   <lb ed="#B" n="104"/>animi deijcitur spiritus. In super multi tristitia victi sunt qui 
+   <lb ed="#B" n="105"/>ab hominibus vinci non poterant: &amp; seipsos interemerut 
+   <lb ed="#B" n="106"/>vt Aiax Thelamonius, Hannibal, Cato vticensis. 
+   <lb ed="#B" n="107"/>Quot sunt item qui tristitia concepta de amicis &amp; seipsis 
+   <lb ed="#B" n="108"/>mortui sunt in illa? Antiochus vt refertur. i. Machabs 
+   <!--0719.xml-->
+   <pb ed="#B" n="344-r"/>
+       <cb ed="#B" n="a"/>
+       <lb ed="#B" n="1"/>vi. incidit in languorem prae tristitia: &amp; dixit. Ecce peo 
+   <lb ed="#B" n="2"/>in tristitia magna in terra aliena. Saeculo nostro id 
+   <lb ed="#B" n="3"/>etiam in aliquibus comperimus. Praeterea tristitia nocet 
+   <lb ed="#B" n="4"/>vitae &amp; eam corripit: ergo maior tristitia magis nocet 
+   <lb ed="#B" n="5"/>ac tanta potest esse tristitia vt homo non possit dura 
+   <lb ed="#B" n="6"/>re propterea recte exponitur verbum Christi Matth. 
+   <lb ed="#B" n="7"/>xxvi. Tristis est anima mea vsque ad mortem. vtputa. si 
+   <lb ed="#B" n="8"/>tristitia esset maior / nequirem durare, naturaliter supple 
+  </p>
+      <p xml:id="jMqv4a-d1e1839-d1e214">
+       <lb ed="#B" n="9"/>⁋ Tertia conclusio probatur sic. Inuidus maxime 
+   <lb ed="#B" n="10"/>torquetur: &amp; hoc no est nisi quia maxime tristatur 
+   <lb ed="#B" n="11"/>igitur. consequentia est clara. minor patet: quia dolet de 
+   <lb ed="#B" n="12"/>rebus opimis &amp; prosperis illius cui inuidet. iuxta
+   il<lb ed="#B" n="13" break="no"/>lud Horatii Inuidus alterius macrescit rebus opimis. 
+   <lb ed="#B" n="14"/>Maior probatur. Nam passio animi eius scilicet tristitia 
+   <lb ed="#B" n="15"/>immutat vultum: &amp; facit virum deformen. Hinc
+   Oui<lb ed="#B" n="16" break="no"/>dius graphice domum Inuidiae describit. vt in. xlii. 
+   <lb ed="#B" n="17"/>distin. ii. allegauimus. Insuper laetitia mentis multo 
+   <lb ed="#B" n="18"/>magis delectat &amp; syncerius qui corporis voluptas: 
+   <lb ed="#B" n="19"/>alioquin in ea non esset beatitudo: &amp; nobilius subit 
+   <lb ed="#B" n="20"/>ctum habet nobiliorem qualitatem. sed anima
+   corpo<lb ed="#B" n="21" break="no"/>ri praestat. igitur. Tristitia autem plus torquet quam dolor 
+   <lb ed="#B" n="22"/>simplex. voco dolorem simplicem qui no habet tristi 
+   <lb ed="#B" n="23"/>tiam admixtam. Praeterea magnanimus existens in
+   cla<lb ed="#B" n="24" break="no"/>ra fama si in aliquid incidat quod suam famam laedit / deni 
+   <lb ed="#B" n="25"/>grat / lacerat: sic torquetur tristitia vt maior poena 
+   <lb ed="#B" n="26"/>adhiberi nequeat. Audiuimus de viro solum
+   me<lb ed="#B" n="27" break="no"/>diocris famae: qui cum pronunciaretur nouissimus in
+   theo<lb ed="#B" n="28" break="no"/>logiae licentia in nostra facultate Parisiana:
+   semi<lb ed="#B" n="29" break="no"/>mortuus cecidit. Quid contingerit iis qui diu litigam 
+   <lb ed="#B" n="30"/>do / pinguia beneficia: aut pugnando regna / vel impe 
+   <lb ed="#B" n="31"/>ria diuersa amiserint: nemo est qui non nouerit. &amp; se 
+   <lb ed="#B" n="32"/>cundum magnitudinem rei amissae crescit tristitia 
+   <lb ed="#B" n="33"/>Quid vero infelicius euenire possit quam amittere regnum 
+   <lb ed="#B" n="34"/>caeli: societatem beatorum spirituum cum tata laetitia: &amp; tru 
+   <lb ed="#B" n="35"/>di in carcerem erumnis plenum perpetuo? certe
+   perpetuita<lb ed="#B" n="36" break="no"/>tis consideratio nulli dubium est quin mirabilem 
+   <lb ed="#B" n="37"/>pariat tristitiam. Sed de hoc vbi de gaudiis / &amp;
+   poe<lb ed="#B" n="38" break="no"/>nis loquemur: particularius postea dicemus. 
+  </p>
+    </div>
+   </body>
+  </text>
+</TEI>

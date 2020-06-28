@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 5</title>
+      <author ref="#JohnMair">John Mair</author>
+      <respStmt>
+       <name>Jeffrey C. Witt</name>
+       <resp>TEI Encoder</resp>
+      </respStmt>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 5</title>
+       <date when="2020-06-09">June 27, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="B" n="cod-Bda113">Badius 1516</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+     guidelines for a diplomatic edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-06-27" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+      <pb ed="#B" n="348-r"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="jMqv4a-d1e1864"> <!-- l4d45q5 -->
+      <head xml:id="jMqv4a-d1e1864-Hd1e104">Quaestio 5</head>
+      <head xml:id="jMqv4a-d1e1864-Hd1e107" type="question-title">An sancti orent pro nobis</head>
+      <p xml:id="jMqv4a-d1e1864-d1e110">
+       <lb ed="#B" n="98"/>⁋ Distinctionis Quadragesimae quitae 
+   <lb ed="#B" n="99"/>Quaestio Quinta. 
+   <lb ed="#B" n="100"/>a Vinto in hac distinctio 
+   <lb ed="#B" n="101"/>lane. xlv. quaero : an sancti orent pr 
+   <lb ed="#B" n="102"/>nobis. Respondetur affirmatiue / s 
+  </p>
+      <p xml:id="jMqv4a-d1e1864-d1e123">
+       <lb ed="#B" n="103"/>⁋ eos rogemus vt pro nobis 
+   <lb ed="#B" n="104"/>sorent. Probatur haec
+   conclu<lb ed="#B" n="105" break="no"/>usio. alioquin totus ecclesie vsus 
+   <lb ed="#B" n="106"/>Hesset inanis. nam sanctum laco 
+   <!--0728.xml-->
+   <pb ed="#B" n="348-v"/>
+       <cb ed="#B" n="a"/>
+       <lb ed="#B" n="1"/>bum visitamus apud Compostellam: &amp; ntrates sanctum 
+   <lb ed="#B" n="2"/>Ninianum: &amp; ita de aliis sanctis vbicumque locorum. VPe 
+   <lb ed="#B" n="3"/>ergo sancti isti intercedunt pro nobis: vel non. si
+   se<lb ed="#B" n="4" break="no"/>cundum: frustra eos rogamus. si primum, habetur pr 
+   <lb ed="#B" n="5"/>positum. Hoc vult gentilis philosophus in lumine nam 
+   <lb ed="#B" n="6"/>turali incedens: decimi Ethicorum. viii. inquiens. Nam 
+   <lb ed="#B" n="7"/>si dii curam humanatum rerum vt existimatur aliquam ha 
+   <lb ed="#B" n="8"/>bent: rationi sane consentaneum fuerit ipsos eo gau 
+   <lb ed="#B" n="9"/>dere, quod est optimum / maxineque sibi cognatum. Et. xii. 
+   <lb ed="#B" n="10"/>Metaphy. ponit vnum primum moues: innuens
+   ali<lb ed="#B" n="11" break="no"/>quos esse beatos spiritus cum deo: quos cum vulgo de 
+   <lb ed="#B" n="12"/>os appellat. Insuper vbi quis non potest habie facilem
+   ac<lb ed="#B" n="13" break="no"/>cessum ad regem aliquem: decens est vt habeat am 
+   <lb ed="#B" n="14"/>cum regis pro se intercedentem: vt in terris vide 
+   <lb ed="#B" n="15"/>mus. sed sic est in proposito. igitur. Si neges esse si 
+   <lb ed="#B" n="16"/>mile / quia deus omnia videt &amp; omnia rationabiliter 
+   <lb ed="#B" n="17"/>petita concedit: secus autem est de terreno rege: scio 
+   <lb ed="#B" n="18"/>non esse omnino simile: nec hoc ad analogiam requiritur. 
+   <lb ed="#B" n="19"/>Deus etiam vult suos sanctos honorari, &amp; vt eo 
+   <lb ed="#B" n="20"/>rum intercessione multa impetremus. Praeterea 
+   <lb ed="#B" n="21"/>litaniis ecclesia docet / intercedere sanctos pro nobis 
+   <lb ed="#B" n="22"/>tam in bonis spiritualibus quam in aliis quae ad illa
+   au<lb ed="#B" n="23" break="no"/>xilium praestant. ergo sancti pro nobis orant. 
+  </p>
+      <p xml:id="jMqv4a-d1e1864-d1e192">
+       <lb ed="#B" n="24"/>⁋ Contra hanc conclusionem arguitur 
+   <lb ed="#B" n="25"/>Sancti distant per magnam distantiam a nobis: in qua 
+   <lb ed="#B" n="26"/>non possunt cognoscere quid petamus: quia ob 
+   <lb ed="#B" n="27"/>iectum non potest immutare potentiam ad quam 
+   <lb ed="#B" n="28"/>cunque distantiam. Et confirmatur per illud quod  
+   <lb ed="#B" n="29"/>scribitur Esaiae. lxiii. <name xml:id="jMqv4a-d1e1864-Nd1e207" ref="#Abraham">Abraham</name> nesciuit nos: &amp; Isra 
+   <lb ed="#B" n="30"/>el ignorauit nos.
+  </p>
+      <p xml:id="jMqv4a-d1e1864-d1e213">
+   ⁋ Respondetur. sancti non pabet
+   co<lb ed="#B" n="31" break="no"/>gnoscere orationes nostras mere naturaliter: sed  
+   <lb ed="#B" n="32"/>cognoscunt in verbo eaquae ad se spectant. Confirma 
+   <lb ed="#B" n="33"/>tio eodem modo soluitur.
+  </p>
+      <p xml:id="jMqv4a-d1e1864-d1e222">
+   ⁋ Secundo arguitur. Fru 
+   <lb ed="#B" n="34"/>stra deum rogant sancti pro nobis: vel nos deum. 
+   <lb ed="#B" n="35"/>nam ipse omnia nouit: ergo inane est ei mentem nostram ma 
+   <lb ed="#B" n="36"/>nifestare, vel aliquem sanctorum rogare. immo videi 
+   <lb ed="#B" n="37"/>hoc deus prohibuisse dicens. Orantes autem nolite
+   mul<lb ed="#B" n="38" break="no"/>tum loqui: sicut Ethnici faciunt. Putant enim quod in mul 
+   <lb ed="#B" n="39"/>tiloquio suo exaudiantur. Nolite ergo assimilari eis. 
+   <lb ed="#B" n="40"/>Scit enim pater vester quid opus sit vobis antequam pe 
+   <lb ed="#B" n="41"/>tatis. Matth. vi.
+  </p>
+      <p xml:id="jMqv4a-d1e1864-d1e242">
+   ⁋ Respondetur negando assumptu, quia 
+   <lb ed="#B" n="42"/>vult deus nos orare pro nostra exercitatione,
+   quai<lb ed="#B" n="43" break="no"/>tenus humiliemur, quamquam nihil eum latet. prohibuit aut 
+   <lb ed="#B" n="44"/>saluator nitur ne phaleratis verbis &amp; magna verbo 
+   <lb ed="#B" n="45"/>rum circunlocutione more Ethricorum vteremtir 
+   <lb ed="#B" n="46"/>quia humiles audit deus.
+  </p>
+      <p xml:id="jMqv4a-d1e1864-d1e255">
+   ⁋ Tertio arguitur. Deus 
+   <lb ed="#B" n="47"/>aeternaliter disposuit hunc liberare a purgatorio 
+   <lb ed="#B" n="48"/>ergo siue orem pro eo siue non, nihilominus libe 
+   <lb ed="#B" n="49"/>rabitur: ideo inaniter oro. Deus enim non potest flecti 
+   <lb ed="#B" n="50"/>ab eo quod praedestinauit: alioquin esset mutabilis, con 
+   <lb ed="#B" n="51"/>tra illud Ilacobi primo. Apud quem non est mutatio 
+   <lb ed="#B" n="52"/>nec vicissitudis obumbratio. Et Samuel ad Saul 
+   <lb ed="#B" n="53"/>dixit. Porro triumphator in Israel non parcet: &amp; 
+   <lb ed="#B" n="54"/>poenitudine non flectetur. neque enim homo est vt agat 
+   <!--0728.xml-->
+   <cb ed="#B" n="b"/> 
+       <!-- 348-v b -->
+       <lb ed="#B" n="55"/>poenitentiam. i. Reg. xv. Propterea Samuel
+   no<lb ed="#B" n="56" break="no"/>luit deum orare pro Saul.
+  </p>
+      <p xml:id="jMqv4a-d1e1864-d1e286">
+   ⁋ Respondetur. sicut deus 
+   <lb ed="#B" n="57"/>ab aetemo finem praesciuit: ita etiam ab aetemo de me 
+   <lb ed="#B" n="58"/>dio disposuit. na si media non interuenissent: nec 
+   <lb ed="#B" n="59"/>finis esset venturus. xxiii. q. iiii. Obtineri. sicut ab 
+   <lb ed="#B" n="60"/>aetemo ludae poenam inferre intendebat: sed non 
+   <lb ed="#B" n="61"/>nisi mediantibus malis meritis. Nec propterea sequi  
+   <lb ed="#B" n="62"/>tur quod sit in ptante nostra impedire ne aeternum dei 
+   <lb ed="#B" n="63"/>decretum detur executioni. quia si non oremus. 
+   <lb ed="#B" n="64"/>nunquam erat dei decretum. Sed si stante decreto id fa 
+   <lb ed="#B" n="65"/>cere posses: sequaeretur hoc quod infers, 
+  </p>
+    </div>
+   </body>
+  </text>
+</TEI>

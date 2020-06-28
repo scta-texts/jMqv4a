@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 1</title>
+      <author ref="#JohnMair">John Mair</author>
+      <respStmt>
+       <name>Jeffrey C. Witt</name>
+       <resp>TEI Encoder</resp>
+      </respStmt>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 1</title>
+       <date when="2020-06-09">June 27, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="B" n="cod-Bda113">Badius 1516</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+     guidelines for a diplomatic edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-06-27" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+      <pb ed="#B" n="326-r"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="jMqv4a-d1e1742"> <!-- l4d41q1 -->
+      <head xml:id="jMqv4a-d1e1742-Hd1e104">Quaestio 1</head>
+      <head xml:id="jMqv4a-d1e1742-Hd1e107" type="question-title">Quid sit affinitas et an impediat matrimonium</head>
+      <p xml:id="jMqv4a-d1e1742-d1e110">
+       <lb ed="#B" n="31"/>⁋ Distinctionis Quadragesimae patriae 
+   <lb ed="#B" n="32"/>Quaestio Prima. 
+   <lb ed="#B" n="33"/>Vaeritur in qua 
+   <lb ed="#B" n="34"/>dragesima prima 
+   <lb ed="#B" n="35"/>distinctione, quid  
+   <lb ed="#B" n="36"/>sit affinitas: &amp; an 
+   <lb ed="#B" n="37"/>impediat matrimo 
+   <lb ed="#B" n="38"/>nium. Affinitat 
+   <lb ed="#B" n="39"/>est personae propimqu 
+   <lb ed="#B" n="40"/>ex copula carnali 
+   <lb ed="#B" n="41"/>omnis
+   cognatio<lb ed="#B" n="42" break="no"/>nis expertes. Affi 
+   <lb ed="#B" n="43"/>nitas autem leges con 
+   <lb ed="#B" n="44"/>sanguinitatis imi 
+   <lb ed="#B" n="45"/>tatur. sed inter fratrem meum &amp; eius vxorem non est 
+   <lb ed="#B" n="46"/>affinitas: alioquin eam habere non posset: sed illi sunt 
+   <lb ed="#B" n="47"/>affinitatis vinculum, id est claudentes duas proge 
+   <lb ed="#B" n="48"/>nies seu cognationes: &amp; vxor est mihi in primo gra 
+   <lb ed="#B" n="49"/>du affinitatis: quia semper ipsa vxor fratris me 
+   <lb ed="#B" n="50"/>debet comparari in toto gradu affinitatis vni e pro 
+   <lb ed="#B" n="51"/>genie fratris me / in quoto ille est in gradu consan 
+   <lb ed="#B" n="52"/>guinitatis fratri meo. &amp; si illa vxor moriatur: frate 
+   <lb ed="#B" n="53"/>meus non potest habere vxorem citra quitum gra- 
+   <!--0683.xml-->
+   <cb ed="#B" n="b"/> 
+       <!-- 326-r b -->
+       <lb ed="#B" n="54"/>dum consanguinitatis illius mulieris: quia ipse est 
+   <lb ed="#B" n="55"/>eis omnibus affinis. &amp; sic eius vxor est omnibus 
+   <lb ed="#B" n="56"/>consanguineis fratris mei affinis, nec vllum
+   con<lb ed="#B" n="57" break="no"/>sanguineum fratris mei habere potest. Ex his
+   se<lb ed="#B" n="58" break="no"/>quitur quod filius Paridis erat in secundo gradu
+   af<lb ed="#B" n="59" break="no"/>finitatis cum Andromache vxore Hectoris. Nan 
+   <lb ed="#B" n="60"/>filius Paridis erat in secundo gradu consanguinita 
+   <lb ed="#B" n="61"/>tis cum Hectore: ergo in eodem gradu affinitatis cum 
+   <lb ed="#B" n="62"/>vxore Hectoris. &amp; ita in aliis gradibus consanguinita 
+   <lb ed="#B" n="63"/>tis gradus affinitatis inuenies proportionabiliter. 
+  </p>
+      <p xml:id="jMqv4a-d1e1742-d1e190">
+       <lb ed="#B" n="64"/>⁋ Deinde dico de secundo quaesito: quod af 
+   <lb ed="#B" n="65"/>finitas impedit matrimonium contrahendum &amp; 
+   <lb ed="#B" n="66"/>dirimit iam contractum, si matrimonium antece 
+   <lb ed="#B" n="67"/>dat: sed si superueniat matrimonio contracto per
+   ver<lb ed="#B" n="68" break="no"/>ba de praesenti non consummato / non dirimit ip 
+   <lb ed="#B" n="69"/>sum. patet in cap. primo de consangui. &amp; affini. &amp; 
+   <lb ed="#B" n="70"/>a fortiore si est consummatum. &amp; peccans potest: 
+   <lb ed="#B" n="71"/>reddere debitum vxori petenti: &amp; tenetur: petere tame 
+   <lb ed="#B" n="72"/>non potest: sed ante carnalem copulam primo red  
+   <lb ed="#B" n="73"/>dens peccat. potest autem profiteri religionem: nec 
+   <lb ed="#B" n="74"/>aliter euadere poterit peccatum / cognoscendo pri 
+   <lb ed="#B" n="75"/>mo illam mulierem / saltem sine dispesatione. sed eam 
+   <lb ed="#B" n="76"/>secundo cognoscens non peccat reddendo debitum. 
+   <lb ed="#B" n="77"/>Ex quo sequitur quod duo vel tres fratres possunt 
+   <lb ed="#B" n="78"/>habere totidem sorores. item pater &amp; filius eius
+   pos<lb ed="#B" n="79" break="no"/>sunt habere duas sorores. vel si Sortes habeat soro 
+   <lb ed="#B" n="80"/>rem Platonis: mortua vxore propria &amp; Platone po 
+   <lb ed="#B" n="81"/>test ducere vxorem Platonis. hic enim nulla est pro 
+   <lb ed="#B" n="82"/>hibitio.
+  </p>
+      <p xml:id="jMqv4a-d1e1742-d1e235">
+   ⁋ Aliud est impedimentum / publicae
+   ho<lb ed="#B" n="83" break="no"/>nestatis iustitia: impedimentum inquam positiuum 
+   <lb ed="#B" n="84"/>humanum: in quo pontifex potest dispensare per 
+   <lb ed="#B" n="85"/>totum., quod oritur ex sponsalibus. Et quia Bonifaci 
+   <lb ed="#B" n="86"/>Octaui litera in hac parte est perspicua: sufficit
+   nu<lb ed="#B" n="87" break="no"/>dam literam afferre. de sponsali. &amp; matri. capi. Ex 
+   <lb ed="#B" n="88"/>sponsalibus. lib. vi. Ex sponsalibus, inquit, puris 
+   <lb ed="#B" n="89"/>&amp; certis, etiansi consanguinitatis, affinitatis, frigidi 
+   <lb ed="#B" n="90"/>tatis, religionis, aut alia quauis ratione sint nulla, 
+   <lb ed="#B" n="91"/>dummodo non sint nulla ex defectu consensus: 
+   <lb ed="#B" n="92"/>oritur efficax ad impediendum &amp; dirimendum se 
+   <lb ed="#B" n="93"/>quentia sponsalia vel matrimonia: non autem ad praece 
+   <lb ed="#B" n="94"/>dentia dissoluendum / impedimentum iustitiae pu 
+   <lb ed="#B" n="95"/>blicae honestatis.
+  </p>
+      <p xml:id="jMqv4a-d1e1742-d1e266">
+   ⁋ Ex quo textu sequitur primo quod 
+   <lb ed="#B" n="96"/>sponsalia conditionalia antequam conditio extat non 
+   <lb ed="#B" n="97"/>inducunt publicae honestatis iustitiam. vt contrahens 
+   <lb ed="#B" n="98"/>cum Berta conditionaliter postea ducit consanguineam 
+   <lb ed="#B" n="99"/>Bertae. Secundo sequitur. Si quis contrahat cum vna per ver 
+   <lb ed="#B" n="100"/>ba de futuro caregorice: &amp; cum consanguinea illius post 
+   <lb ed="#B" n="101"/>ea perverba de paerteti: primae adhaerebit, &amp; secundam
+   ha<lb ed="#B" n="102" break="no"/>bere nequit ob publicae honestatis iustitiam. sed si con 
+   <lb ed="#B" n="103"/>trahat cum secunda per verba de praesenti, &amp; eam co 
+   <lb ed="#B" n="104"/>gnoscat: neutram habere potest, non primam, pro 
+   <lb ed="#B" n="105"/>pter affinitatem subsecutam ante contractum ma 
+   <lb ed="#B" n="106"/>trimonium: nec secundam ob publicae honestatis 
+   <lb ed="#B" n="107"/>iustitiam. Consensus autem per verba de praesen- 
+   <!--0684.xml-->
+   <pb ed="#B" n="326-v"/>
+       <cb ed="#B" n="a"/>
+       <lb ed="#B" n="1"/>ti explicatus ante carnalem copulam potius vide 
+   <lb ed="#B" n="2"/>tur causare affinitatem quam publicae honestatis iusti 
+   <lb ed="#B" n="3"/>tiam. Et quia sponsalia ante septennium nihil
+   va<lb ed="#B" n="4" break="no"/>lent: propterea ibi non est publicae honestatis iustitia. 
+   <lb ed="#B" n="5"/>Nec sponsalia contracta ante septennium / valent 
+   <lb ed="#B" n="6"/>post septenninm nisi ambo consentiant: etiam
+   li<lb ed="#B" n="7" break="no"/>cet parentes paruulorum pro ipsis contrahant. qua  
+   <lb ed="#B" n="8"/>re illic non est publicae honestatis iustitia. hoc patet 
+   <lb ed="#B" n="9"/>in ca. Si infantes. de desponsa. impube. eo. lib. 
+  </p>
+    </div>
+   </body>
+  </text>
+</TEI>

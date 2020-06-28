@@ -1,0 +1,632 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 7</title>
+      <author ref="#JohnMair">John Mair</author>
+      <respStmt>
+       <name>Jeffrey C. Witt</name>
+       <resp>TEI Encoder</resp>
+      </respStmt>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 7</title>
+       <date when="2020-06-09">June 27, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="B" n="cod-Bda113">Badius 1516</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+     guidelines for a diplomatic edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-06-27" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+      <pb ed="#B" n="181-r"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="jMqv4a-d1e963"> <!-- l4d17q7 -->
+      <head xml:id="jMqv4a-d1e963-Hd1e104">Quaestio 7</head>
+      <head xml:id="jMqv4a-d1e963-Hd1e107" type="question-title">An confessus fratribus mendicantibus sine 
+  facultate plebani tenatur illa peccata iterato 
+  proprio sacerdoti confiteri, ut satisfaciat 
+  praecepto. Omnis utriusque sexus</head>
+      <p xml:id="jMqv4a-d1e963-d1e110">
+       <lb ed="#B" n="22"/>⁋ Distinctionis Decimaeseptimae 
+   <lb ed="#B" n="23"/>Quaestio Septima. 
+   <lb ed="#B" n="24"/>Eptimo quaeritur
+   cir<lb ed="#B" n="25" break="no"/>ca eandem distinctionem. An  
+   <lb ed="#B" n="26"/>confessus fratribus
+   mendi<lb ed="#B" n="27" break="no"/>cantibus sine facultate
+   ple<lb ed="#B" n="28" break="no"/>pani teneatur illa peccata
+   ite<lb ed="#B" n="29" break="no"/>rato proprio sacerdoti
+   con<lb ed="#B" n="30" break="no"/> fiteri, vt satisfaciat praecepto 
+   <lb ed="#B" n="31"/>Omnis vtriusque sexus. in secunda quaestione
+   hu<lb ed="#B" n="32" break="no"/>ius recitato &amp; discusso.
+  </p>
+      <p xml:id="jMqv4a-d1e963-d1e136">
+   ⁋ Pro solutione
+   quaestio<lb ed="#B" n="33" break="no"/>nis ponam aliquas propositiones siue
+   conclusio<lb ed="#B" n="34" break="no"/>nes: quarum prima erit. Romanus pontifex potest 
+   <lb ed="#B" n="35"/>dare facultatem alicui sacerdoti audiendi confessiones 
+   <lb ed="#B" n="36"/>in cura alicuius plebani: non requisita facultate ple 
+   <lb ed="#B" n="37"/>bani. Probatur conclusio. Nam plebanus facultatem 
+   <lb ed="#B" n="38"/>impertitur aliis sacerdotibus audiendi
+   confessio<lb ed="#B" n="39" break="no"/>nem: vt communiter in praxi videmus: non quesita 
+   <lb ed="#B" n="40"/>alicuius superioris facultate: ergo superior illius 
+   <lb ed="#B" n="41"/>plebani potest dare facultatem audiendi
+   confessio<lb ed="#B" n="42" break="no"/>nem sine facultate inferioris. consequentia est
+   mani<lb ed="#B" n="43" break="no"/>festa in potestatibus se habentibus secundum
+   su<lb ed="#B" n="44" break="no"/>perius &amp; inferius: quicquod enim potest inferior: potest 
+   <lb ed="#B" n="45"/>superior: &amp; non contra. sicut in logicalibus pro
+   quo<lb ed="#B" n="46" break="no"/>cunque supponit inferius: pro illo supponit superius 
+   <lb ed="#B" n="47"/>&amp; non econverso. modo Romanus pontifex dat
+   re<lb ed="#B" n="48" break="no"/>ligiosis facultatem: vt patet ex Clementina Dudum. 
+   <lb ed="#B" n="49"/>de sepul. igitur. Secundo probatur idem. episcopus 
+   <lb ed="#B" n="50"/>potest aliquibus dare facultatem audiendi
+   confessio<lb ed="#B" n="51" break="no"/>nes in tota sua dioecesi. ergo Romanus pontifex 
+   <lb ed="#B" n="52"/>idem potest in tota sua dioecesi: quae est tota
+   christiani<lb ed="#B" n="53" break="no"/>tas, consequentia sano capiti probatione non indiget. 
+   <!--0393.xml-->
+   <cb ed="#B" n="b"/> 
+       <!-- 181-r b -->
+       <lb ed="#B" n="54"/>intecedens patet de episcopo Parisiensi: &amp; idem est 
+   <lb ed="#B" n="55"/>iudicium de quolibet alio episcopo. pet Innocentium 
+   <lb ed="#B" n="56"/>Tertium in generali concilio. prout recitatur cas. Inter 
+   <lb ed="#B" n="57"/>caetera. de offi. iudi. ordi. vbi praecipit episcopis: vt 
+   <lb ed="#B" n="58"/>habeant viros potentes in opere &amp; sermone ad
+   con<lb ed="#B" n="59" break="no"/>cionandum &amp; ad visitandam plaebem, dicens. Vnde praeci 
+   <lb ed="#B" n="60"/>pimus tam in cathedralibus qui in aliis conventualibus 
+   <lb ed="#B" n="61"/>ecclesiis viros idoneos ordinari: quos episcop 
+   <lb ed="#B" n="62"/>possint coadiutores &amp; cooperatores habere: non 
+   <lb ed="#B" n="63"/>solum in praedicationis officio: verum etiam in audien 
+   <lb ed="#B" n="64"/>dis confessionibus &amp; poenitentiis iniungendis: ac cae 
+   <lb ed="#B" n="65"/>teris quae ad salutem pertinent animarum. Et ratio est. 
+   <lb ed="#B" n="66"/>quia episcopus est ordinarius singulorum in totam sua 
+   <lb ed="#B" n="67"/>dioecesi. x. qui. i. Regenda. xvi. qui. vii. Omnes
+   basili<lb ed="#B" n="68" break="no"/>cae. &amp; quilibet in dioecesi est parochianus episcopi. 
+   <lb ed="#B" n="69"/>de archipresbytero. c. iii. de offi. ordi. ca. Significa 
+   <lb ed="#B" n="70"/>uit. Tertio probatur ab aliquibus sic. curatus suam
+   au<lb ed="#B" n="71" break="no"/>ctoritatem habet ab episcopo: ergo si curatus facul 
+   <lb ed="#B" n="72"/>tatem impertiri potest, poterit &amp; episcopus. Sed haec 
+   <lb ed="#B" n="73"/>ratio deficit. bene verum est quod plebano episcopus 
+   <lb ed="#B" n="74"/>dat curam: sed auctoritas plebani instituti non est ab 
+   <lb ed="#B" n="75"/>episcopo sed a deo: licet mediante aliquo actu
+   epi<lb ed="#B" n="76" break="no"/>scopi. Illud idem argumentum probaret episcopos non  
+   <lb ed="#B" n="77"/>habere auctoritatem nisi a Romano pontifice: quod 
+   <lb ed="#B" n="78"/>non concedo. Quemadmodum Romanus pontifex 
+   <lb ed="#B" n="79"/>quilibet post beatum Petrum habet tantam auctoritatem 
+   <lb ed="#B" n="80"/>quantam beatus Petrus habebat: licet mediante
+   ele<lb ed="#B" n="81" break="no"/>ctione: &amp; Petrus immediate habuit a Christo:
+   ele<lb ed="#B" n="82" break="no"/>ctores tamen non dant Romano pontifici
+   auctori<lb ed="#B" n="83" break="no"/>tatem: sed Christus mediante aliquo facto huma 
+   <lb ed="#B" n="84"/>non praerequisito. Sic curato episcopus dat curam: sed 
+   <lb ed="#B" n="85"/>auctoritas curati est a Christo: hoc est curati sunt 
+   <lb ed="#B" n="86"/>de ordine hierarchico ecclesiae sicut episcopi: &amp;
+   se<lb ed="#B" n="87" break="no"/>tuaginta duobus discipulis Christi succedunt:  
+   <lb ed="#B" n="88"/>vt dicitur. xxi. distinctione. In nouo testamento. Pro 
+   <lb ed="#B" n="89"/>terea aliter probatur siue tertio: siue quarto: non
+   re<lb ed="#B" n="90" break="no"/>fert de probationum ordine. Aliqui casus reseruantur 
+   <lb ed="#B" n="91"/>tam per maximum pontificem quam per episcopos
+   inferio<lb ed="#B" n="92" break="no"/>res a quibus plebani non possunt absoluere, etiam si at 
+   <lb ed="#B" n="93"/>tentauerint: a quibus episcopi &amp; eorum ordinarii ex 
+   <lb ed="#B" n="94"/>longa &amp; honesta consuetudine iam absoluunt. ergo  
+   <lb ed="#B" n="95"/>eodem modo poterunt absoluere omnes sibi subiectos 
+   <lb ed="#B" n="96"/>in suis dioecesibus. Quinto probatur. lex vel
+   priui<lb ed="#B" n="97" break="no"/>egium maximi pontificis rationabile sufficit subdi 
+   <lb ed="#B" n="98"/>tis: vt ea vel eo vti possint: sed hoc priuilegium a 
+   <lb ed="#B" n="99"/>maximis pontificibus concessum est, &amp;
+   approba<lb ed="#B" n="100" break="no"/>tum in Clemen. Dudum. de sepul. Quia sit
+   rationa<lb ed="#B" n="101" break="no"/>bile, probatur sic. In eo quod est ad salutem necessarium 
+   <lb ed="#B" n="102"/>non sunt homines arctandi, ne a via salutis
+   impe<lb ed="#B" n="103" break="no"/>diantur: sed arctatio videtur fore onerosa si homines 
+   <lb ed="#B" n="104"/>arctarentur ad confitendum proprio plebano: praesertim 
+   <lb ed="#B" n="105"/>vbi solus confessiones audit: vel etiam vbi ipse aliis 
+   <lb ed="#B" n="106"/>suam vicem committit. tum propter verecundos qui no 
+   <lb ed="#B" n="107"/>tis non libenter confitentur: tum stat quod sint omnes ineruditi 
+   <lb ed="#B" n="108"/>&amp; non bonae famae apud suos: &amp; confitens varios ha 
+   <!--0394.xml-->
+   <pb ed="#B" n="181-v"/>
+       <cb ed="#B" n="a"/>
+       <lb ed="#B" n="1"/>beat casus ancipites confitendos, &amp; superueniat 
+   <lb ed="#B" n="2"/>probus &amp; eruditus religiosus: tunc. n congruum est 
+   <lb ed="#B" n="3"/>vt subditus possit adire quem velit: quia melius est 
+   <lb ed="#B" n="4"/>haberem duo refugia quam vnum: sic vt ille possit cu 
+   <lb ed="#B" n="5"/>rato / vel religioso confiteri / suo curato relicto, quem 
+   <lb ed="#B" n="6"/>stat esse ad peccatum sollicitatorem vel ineruditum. 
+   <lb ed="#B" n="7"/>iniquum autem foret quod peccator tali obligaretur confi 
+   <lb ed="#B" n="8"/>teri, quod enim institutum est pro charitate: non debet con 
+   <lb ed="#B" n="9"/>tra charitatem militare. secundum Bernardum. Sexto in 
+   <lb ed="#B" n="10"/>dicta Clemen. Dudum. dicitur. Fratribus libere possunt 
+   <lb ed="#B" n="11"/>confiteri volentes, quod nihil esset si requireretur facultas 
+   <lb ed="#B" n="12"/>plebani, non enim est libertas in actu cuius dispositio 
+   <lb ed="#B" n="13"/>pendet in alieno arbitrio: vt dicitur in cap. De multa. 
+   <lb ed="#B" n="14"/>de praebem. super quo verbo ( libere) communes exposito 
+   <lb ed="#B" n="15"/>res ita interpretantur quod confitentes possunt libere ve 
+   <lb ed="#B" n="16"/>curatum vel fratres legitime praesentatos adire. In super 
+   <lb ed="#B" n="17"/>his diebus plerique habent facultatem a Romano
+   po<lb ed="#B" n="18" break="no"/>tifice vt possint confiteri quibus voluerint / non petita 
+   <lb ed="#B" n="19"/>facultate curati. ergo eodem modo dare potest fa 
+   <lb ed="#B" n="20"/>cultatem pontifex sacerdoti alios audiendi- 
+  </p>
+      <p xml:id="jMqv4a-d1e963-d1e360">
+       <lb ed="#B" n="21"/>⁋ Secunda conclusio. Parochiani 
+   <lb ed="#B" n="22"/>possunt sine facultate plebani fratres legitime ab 
+   <lb ed="#B" n="23"/>epso admissos adire: &amp; eis confiteri. probatur conclusio 
+   <lb ed="#B" n="24"/>alioquin papale priuilegium religiosorum esset eis inutile, 
+   <lb ed="#B" n="25"/>si possent per plebanos impediri, &amp; requireretur eorum facul 
+   <lb ed="#B" n="26"/>tas: vt habet expresse cap. In his. de priuilegiis. vbi 
+   <lb ed="#B" n="27"/>dicitur quod fratres prdicatores &amp; minores habent priui 
+   <lb ed="#B" n="28"/>legium quod possint in altari portatili celebrare
+   quo<lb ed="#B" n="29" break="no"/>cuque locorum venerint: quod cum quidam episcoi impedire vo 
+   <lb ed="#B" n="30"/>lentes dicerent quod poterant illud facere: facultate tamen 
+   <lb ed="#B" n="31"/>prius ab episcopis obtenta: respondit Innocentius ter 
+   <lb ed="#B" n="32"/>tius inr ca. praefato. S. Cum autem eis, quod non tenentur
+   facul<lb ed="#B" n="33" break="no"/>tatem episcoporum requirere. alioquin nihil eis conduce 
+   <lb ed="#B" n="34"/>ret indulgentia papae: cum possint hoc sine licentia pa 
+   <lb ed="#B" n="35"/>pae, annuentibus episcopis. Fodem modo omnino est 
+   <lb ed="#B" n="36"/>in proposito: cum enim facultatem a papa hi fratres ha 
+   <lb ed="#B" n="37"/>beant audiendi confessiones: nullius inferioris a pa 
+   <lb ed="#B" n="38"/>pa facultatem requirere tenentur per hoc enim quod episco 
+   <lb ed="#B" n="39"/>po praesentantur a superioribus suis prouincialibus, guardia 
+   <lb ed="#B" n="40"/>nis, vel prioribus / ipsis epscois: non capiunt facultatem ab 
+   <lb ed="#B" n="41"/>eis si reperti fuerint ad hoc idonei: quia contradicentibus 
+   <lb ed="#B" n="42"/>epsopis possunt confessiones audire. loquor de iure &amp; 
+   <lb ed="#B" n="43"/>non de facto. Haec conclusio etiam probatur auctoritate 
+   <lb ed="#B" n="44"/>Alexandri papae in quadam extrauaganti quae incipit 
+   <lb ed="#B" n="45"/>Regnans in excelsis. vbi reputat eos haereticos qui 
+   <lb ed="#B" n="46"/>astruunt &amp; tenent oppositum. Tertio arguitur ad idem. 
+   <lb ed="#B" n="47"/>omnium connexorum est idem iudicium. i. q. iii. Si quis obie 
+   <lb ed="#B" n="48"/>cerit. sed audire &amp; audiri sunt connexam. ergo si dicti 
+   <lb ed="#B" n="49"/>fratres ex priore conclusione possunt parochianos 
+   <lb ed="#B" n="50"/>sine facultate curatorum audire: parochiani possunt 
+   <lb ed="#B" n="51"/>eos sine plebanorum facultate adire. 
+  </p>
+      <p xml:id="jMqv4a-d1e963-d1e430">
+       <lb ed="#B" n="52"/>⁋ Tertia conclusio. securius melius 
+   <lb ed="#B" n="53"/>&amp; expedientius est crebro confiteri proprio plebano 
+   <lb ed="#B" n="54"/>quam religiosis, probatur. nam interdum (vt plerumque Parisiis 
+   <!--0394.xml-->
+   <cb ed="#B" n="b"/> 
+       <!-- 181-v b -->
+       <lb ed="#B" n="55"/>videmus) curatus est tam probae &amp; sanctae vitae / qua 
+   <lb ed="#B" n="56"/>religiosus factitius ( vt more <name xml:id="jMqv4a-d1e963-Nd1e449" ref="#Anselm">Anselmi</name> propter discri 
+   <lb ed="#B" n="57"/>me ponendum loquar) &amp; non modo ita eruditus: sed erudi 
+   <lb ed="#B" n="58"/>tior quocumque religioso praesentato vel praesentabili in  
+   <lb ed="#B" n="59"/>tota dioecesi. stultum autem esset si parochianus tam 
+   <lb ed="#B" n="60"/>excellenti viro relicto se illi cuius nec probitatem nec 
+   <lb ed="#B" n="61"/>vitam nouit: imprudens obiiceret. Sed dicis &amp; bene 
+   <lb ed="#B" n="62"/>vbi essent tales curati: religiosos puderet sine
+   ta<lb ed="#B" n="63" break="no"/>lium facultate se ingerere: nec vellent vti suo
+   pri<lb ed="#B" n="64" break="no"/>uilegio: licet possint de facto in praesentia eorum, quia 
+   <lb ed="#B" n="65"/>non erat intentio legissatoris quod in tali casu vterentur 
+   <lb ed="#B" n="66"/>lege, non quod fas sit etiam probis curatis, impedite
+   re<lb ed="#B" n="67" break="no"/>ligiosos ne confessiones audiant: sed ne violetur lex 
+   <lb ed="#B" n="68"/>oportet aliqua permittere. nam si eis etiam episcopis 
+   <lb ed="#B" n="69"/>praesentatos religiosos abiicere liceret: ab aliis ple 
+   <lb ed="#B" n="70"/>banis ineruditis passim id traheretur in
+   consequen<lb ed="#B" n="71" break="no"/>tiam. sed quia vulgo non sunt tales curati: propterea 
+   <lb ed="#B" n="72"/>fratres toti multitudini sunt vtiles. Aliter arguitur. 
+   <lb ed="#B" n="73"/>vbi dubium est de eruditione plebani &amp; vita: tutius 
+   <lb ed="#B" n="74"/>est illum accedere quam alium ignotum religiosum,
+   pro<lb ed="#B" n="75" break="no"/>pter multa. nam etiam dubium est de bonitate &amp;
+   eru<lb ed="#B" n="76" break="no"/>ditione religiosi, esto habitum deferat. vnde enim con 
+   <lb ed="#B" n="77"/>stat tibi an sit sacerdos: &amp; de praesentatione epso fa 
+   <lb ed="#B" n="78"/>cta per superiorem: Dicis. circa persentatione curatus, 
+   <lb ed="#B" n="79"/>&amp; episcopus de eorum ordinibus explorationem fecit 
+   <lb ed="#B" n="80"/>qui est etiam superior. detur ita esse: quod non semper est 
+   <lb ed="#B" n="81"/>verum: parua fit forte super hoc exploratio vel a
+   vi<lb ed="#B" n="82" break="no"/>cariis duntaxat. Adhuc arguitur. curatus qui nouit 
+   <lb ed="#B" n="83"/>modum viuendi totius parochiae: melius illius mo 
+   <lb ed="#B" n="84"/>res &amp; vitia cognoscit qui alter: cum corporaliter a pa 
+   <lb ed="#B" n="85"/>rochianis pascatur: &amp; ipsi sint suus grex a
+   supe<lb ed="#B" n="86" break="no"/>riore commissus: quibus sacramenta omnia in
+   qua<lb ed="#B" n="87" break="no"/>cunque necessitate ministrat, &amp; ministrare tenetur. 
+   <lb ed="#B" n="88"/>melius quoque syncerius &amp; sollicitius tuam salutem 
+   <lb ed="#B" n="89"/>curabit qui alius qui tibi hac sola vice poenitentiam 
+   <lb ed="#B" n="90"/>ministrabit. Dicis forte. sunt ita verecundi aliqui 
+   <lb ed="#B" n="91"/>vt nunquam sua peccata debite curato vel
+   coadiuto<lb ed="#B" n="92" break="no"/>ri eius noto panderent etiam si debeant damnati. &amp; 
+   <lb ed="#B" n="93"/>aliqui sunt religiosi in vrbe clarissimae famae &amp; do.  
+   <lb ed="#B" n="94"/>ctrinae: talis autem non est curatus. Contra hoc ad  
+   <lb ed="#B" n="95"/>huc argumentor. tunc tolles verecundiam que multum 
+   <lb ed="#B" n="96"/>facit ad meritum confessionis. nam confitendo illi apud 
+   <lb ed="#B" n="97"/>quem maxime erubescis, maxime mereris. &amp; confiten 
+   <lb ed="#B" n="98"/>do illi coram quo non erubescis: quem forte nunquam 
+   <lb ed="#B" n="99"/>antehac vidisti: &amp; opinaris te non amplius visurum: 
+   <lb ed="#B" n="100"/>minime mereris. Respondetur. hoc est verum quod 
+   <lb ed="#B" n="101"/>dictum est de verecundia: quod scilicet confitendo illi 
+   <lb ed="#B" n="102"/>coram quo maximam verecundiam habes / caeteris
+   pari<lb ed="#B" n="103" break="no"/>bus magis mereris: quia est maior difficultas pro 
+   <lb ed="#B" n="104"/>ueniens et si non ex parte obiecti: tamen ex par 
+   <lb ed="#B" n="105"/>te operantis: videlicet passionis naturalis quam 
+   <lb ed="#B" n="106"/>homo sine sua culpa habet. sed non est de necessita 
+   <lb ed="#B" n="107"/>te confessionis verecundiam hanc habere: vt patet 
+   <lb ed="#B" n="108"/>de confessione facta incognito de qua loquimur. 
+   <lb ed="#B" n="109"/>Secundo aliqui sunt stupidi &amp; inuerecundi vt habens 
+   <!--0395.xml-->
+   <pb ed="#B" n="182-r"/>
+       <cb ed="#B" n="a"/>
+       <lb ed="#B" n="1"/>frontem meretriciam, &amp; meretrix confitens: &amp; melius 
+   <lb ed="#B" n="2"/>est si reperiatur aliquis ita verecundus vt affert ar 
+   <lb ed="#B" n="3"/>gumentum, vt saluetur cum longe inferiori merito con 
+   <lb ed="#B" n="4"/>fitendo incognito quam damnetur confessus curato: quia 
+   <lb ed="#B" n="5"/>non omnibus morbis eisdem est similis medela
+   appii<lb ed="#B" n="6" break="no"/>canda. qui enim dosim vel absynthium capere nolue 
+   <lb ed="#B" n="7"/>rit, quod alii simili morbo laborantes capiunt, leniori 
+   <lb ed="#B" n="8"/>medicamine curandus est. Vbi dicebas de tuo
+   cu<lb ed="#B" n="9" break="no"/>rato improbo &amp; de optimo clarae famae religioso: non 
+   <lb ed="#B" n="10"/>es in casu conclusionis: sed assentior tecum. debes do 
+   <lb ed="#B" n="11"/>mum illius religiosi alatis pedibus pro confessione
+   fa<lb ed="#B" n="12" break="no"/>cienda adire, coram quo verecundiam non minorem quam 
+   <lb ed="#B" n="13"/>coram duobus curatis habebis si ei notus fueris. hoc 
+   <lb ed="#B" n="14"/>enim habet in se virtus, vt habentem in honore habe 
+   <lb ed="#B" n="15"/>ri faciat: &amp; coram ipso verecundemur de turpi. ponde 
+   <lb ed="#B" n="16"/>ra igitur verba conclusionis, &amp; quos casus excipiam. 
+  </p>
+      <p xml:id="jMqv4a-d1e963-d1e609">
+       <lb ed="#B" n="17"/>⁋ Quarta conclusio. Potestas fratrum 
+   <lb ed="#B" n="18"/>in audiendis confessionibus non est maior
+   potesta<lb ed="#B" n="19" break="no"/>te sacerdotum parochialium curatorum. patet per Clemen. 
+   <lb ed="#B" n="20"/>Dudum. S. Per huiusmodi autem. Quare non possunt 
+   <lb ed="#B" n="21"/>absoluere vi illius priuilegii Dudum. a casibus pa 
+   <lb ed="#B" n="22"/>palibus vel episcopalibus plusquam curati simplices. 
+   <lb ed="#B" n="23"/>Sane hoc in anno cum essem deputatorum nostrae
+   fa<lb ed="#B" n="24" break="no"/>cultatis vnus contra quendam praedicatorem
+   opposi<lb ed="#B" n="25" break="no"/>tum asserentem: eius propositionem sic qualificauimus. 
+   <lb ed="#B" n="26"/>haec propositio est censenda falsa. qua
+   qualificatio<lb ed="#B" n="27" break="no"/>ne tota admisit facultas / demptis mendicantibus. 
+   <lb ed="#B" n="28"/>ldem enim est de his quae non sunt &amp; non apparent:
+   mo<lb ed="#B" n="29" break="no"/>do de illo priuilegio minime docent: &amp; quantuncumque 
+   <lb ed="#B" n="30"/>eos rogaret facultas: nihil vidimus. Dicis.
+   quomo<lb ed="#B" n="31" break="no"/>do eos exclusit facultas cum multi sint curati re vel 
+   <lb ed="#B" n="32"/>spe / pars contra eos sicut econverso? Respondeo. aliqui 
+   <lb ed="#B" n="33"/>sunt in facultate curas non habentes actu: qui erant fra 
+   <lb ed="#B" n="34"/>tribus assignati: quorum nominabar vnus: qui omnes 
+   <lb ed="#B" n="35"/>contra eos conuenerunt / certe rationabiliter (opinio- 
+   <lb ed="#B" n="36"/>ne mea) moti: quia de suo priuilegio nihil docuerunt 
+   <lb ed="#B" n="37"/>vlterius dico non valere dictum eorum quod episcopus 
+   <lb ed="#B" n="38"/>non possit ab eis reseruare casus, licet a curatis
+   ca<lb ed="#B" n="39" break="no"/>sus reseruet: quia habent priuilegium a papa: curati 
+   <lb ed="#B" n="40"/>autem solum ab episcopo. nam curati sunt ex institutie 
+   <lb ed="#B" n="41"/>ne Christi. vt in. xxiiii. distinctione dicemus, a quibus 
+   <lb ed="#B" n="42"/>episcopus reseruat casus. ergo a fortiori potest re 
+   <lb ed="#B" n="43"/>seruare casus a religiosis, quam non sunt de ordine
+   hie<lb ed="#B" n="44" break="no"/>rarchico. Cum his omnibus verum est quod fratres praedicti 
+   <lb ed="#B" n="45"/>non possunt parochianis sacramentum eucharistiae / ex 
+   <lb ed="#B" n="46"/>tremae vnctionis / &amp; matrimonii solemniter ministra 
+   <lb ed="#B" n="47"/>re sine curatorum speciali permissione. vt dicitur in  
+   <lb ed="#B" n="48"/>Cle. de priuilegiis: vbi sub poena excommunicationis lati 
+   <lb ed="#B" n="49"/>ista sacramenta praefata fratribus interdicuntur: &amp; si ea 
+   <lb ed="#B" n="50"/>administrauerint: a solo papa sunt absoluendi 
+  </p>
+      <p xml:id="jMqv4a-d1e963-d1e685">
+       <lb ed="#B" n="51"/>⁋ Quinta conclusio &amp; vltima.
+   Con<lb ed="#B" n="52" break="no"/>fessi legitime fratribus praedictis non tenentur eadem. 
+   <lb ed="#B" n="53"/>peccata confiteri proprio sacerdoti quem curatum
+   vo<lb ed="#B" n="54" break="no"/>cant. voco hominem in proposito legitime confessum 
+   <!--0395.xml-->
+   <cb ed="#B" n="b"/> 
+       <!-- 182-r b -->
+       <lb ed="#B" n="55"/>quando habet omnia alia requisita hoc dempto quod 
+   <lb ed="#B" n="56"/>loco plebani fratri sufficienter episcopo praesenta: 
+   <lb ed="#B" n="57"/>to confitetur. Probatur haec conclusio. Nullus laicus 
+   <lb ed="#B" n="58"/>rite confessus tenetur eadem peccata iterato confiteri: 
+   <lb ed="#B" n="59"/>sed confessus fratribus episcopo praesentatis est 
+   <lb ed="#B" n="60"/>huiusmodi: ex duabus primis conclusionibus. igitur. 
+   <lb ed="#B" n="61"/>ltem dato opposito inane esset eorum priuilegium 
+   <lb ed="#B" n="62"/>in prima conclusione concessum: &amp; nemo confitere 
+   <lb ed="#B" n="63"/>tur illis si sciret se debere iterato confiteri suo proprio 
+   <lb ed="#B" n="64"/>curato sua peccata confessa. Tertio hoc idem proba 
+   <lb ed="#B" n="65"/>tur in extrauaganti loan. xxii. quae incipit Vas ele 
+   <lb ed="#B" n="66"/>ctionis. vbi contrariam opinionem danat tanquam a
+   ca<lb ed="#B" n="67" break="no"/>tholicis respuendam. Sicut enim stultum est dicere quod 
+   <lb ed="#B" n="68"/>papae confessus / episcopo teneatur iterato eadem 
+   <lb ed="#B" n="69"/>peccata confiteri: sic stuitum est dicere quod confessus 
+   <lb ed="#B" n="70"/>fratribus de quibus loquimur, teneatur eadem peccata 
+   <lb ed="#B" n="71"/>proprio sacerdoti confiteri. sed debent
+   huiusmo<lb ed="#B" n="72" break="no"/>di in pascha petendo eucharistiam dicere se
+   religio<lb ed="#B" n="73" break="no"/>sis confessos: &amp; si dubium sit curato: potest eis ne 
+   <lb ed="#B" n="74"/>gare eucharistiam quousque illud probauerint.
+   Vl<lb ed="#B" n="75" break="no"/>terius sicut in superiore quaestione diximus: sunt 
+   <lb ed="#B" n="76"/>in possessione &amp; vsu: adeo vt eis confessi non
+   con<lb ed="#B" n="77" break="no"/>fiteantur iterato eadem peccata. 
+  </p>
+      <p xml:id="jMqv4a-d1e963-d1e753">
+       <lb ed="#B" n="78"/>⁋ Ex his conclusionibus patet respon 
+   <lb ed="#B" n="79"/>sio ad titulum quaestionis, nec respiciendum est ad  
+   <lb ed="#B" n="80"/>verba glossae in decretali praefata. Omnis vtriusque 
+   <lb ed="#B" n="81"/>sexus. quia cuius est condete: eius est interpretari. 
+   <lb ed="#B" n="82"/>sed romani pontifices declararunt priuilegiis a se 
+   <lb ed="#B" n="83"/>concessis quod non est necesse petere facultate a
+   cura<lb ed="#B" n="84" break="no"/>tis ad hoc vt confessio valeat. igitur.
+  </p>
+      <p xml:id="jMqv4a-d1e963-d1e771">
+   ⁋ Secundo pa 
+   <lb ed="#B" n="85"/>tet quod per proprium sacerdotem non oportet intelligere 
+   <lb ed="#B" n="86"/>plebanum: sed sufficit sacerdos specialis / generalis 
+   <lb ed="#B" n="87"/>vel generalissimus / vel ab eis auctoritate habens. 
+   <lb ed="#B" n="88"/>Nec oportet contra illud allegare aliquod ius
+   anti<lb ed="#B" n="89" break="no"/>quum Clemen. Dudum praecedens: quia vetustate 
+   <lb ed="#B" n="90"/>temporis iura corruunt. de tepore enim non habemus 
+   <lb ed="#B" n="91"/>nisi nunc. quarto Physicorum.
+  </p>
+      <p xml:id="jMqv4a-d1e963-d1e790">
+   ⁋ Tertio sequitur quoi 
+   <lb ed="#B" n="92"/>confitens his religiosis non confitetur alieno sacer 
+   <lb ed="#B" n="93"/>doti, vt alienum distinguitur contra omnes
+   acce<lb ed="#B" n="94" break="no"/>ptiones proprii: scilicet comunissimi / cmnis / &amp;
+   specia<lb ed="#B" n="95" break="no"/>lis.
+  </p>
+      <p xml:id="jMqv4a-d1e963-d1e801">
+   ⁋ Quarto sequitur quod eiusdem subditi sunt 
+   <lb ed="#B" n="96"/>plures iudices in spiritualipus: sed non aeque princ 
+   <lb ed="#B" n="97"/>pales. nam papa est principalissimus: curatus infi 
+   <lb ed="#B" n="98"/>mus in ordinariis: &amp; dum praecipiunt opposita: su 
+   <lb ed="#B" n="99"/>periori obediendum est ex regula <name xml:id="jMqv4a-d1e963-Nd1e811" ref="#Augustine">Augustinus</name> quam 
+   <lb ed="#B" n="100"/>magister in fine Secundi adducit.
+  </p>
+      <p xml:id="jMqv4a-d1e963-d1e818">
+   ⁋ Quinto
+   se<lb ed="#B" n="101" break="no"/>quitur quod si curatus praecipiat confesso / religioso 
+   <lb ed="#B" n="102"/>de quo ioquimur, sibi sua peccata confiteri:
+   con<lb ed="#B" n="103" break="no"/>fessus non tenetur ei parere. ratio est: quia contra le 
+   <lb ed="#B" n="104"/>gem rationabilem superiorum praecipit. modo in  
+   <lb ed="#B" n="105"/>praeceptis superiorum pugnantibus, superiori: vt 
+   <lb ed="#B" n="106"/>Augustini. de proconsule &amp; imperatore dicit: obedien 
+   <lb ed="#B" n="107"/>dum est. Si dicas. si superior contra rationem prae 
+   <lb ed="#B" n="108"/>cipiat, &amp; inferior rationabiliter: iam ei parendum 
+   <!--0396.xml-->
+   <pb ed="#B" n="182-v"/>
+       <cb ed="#B" n="a"/>
+       <lb ed="#B" n="1"/>est. dico quod male intelligis. tunc dico supremo pa 
+   <lb ed="#B" n="2"/>rendum esse: vt dicitur Actuum quinto. scilicet 
+   <lb ed="#B" n="3"/>deo hominibus relictis. 
+  </p>
+      <p xml:id="jMqv4a-d1e963-d1e851">
+       <lb ed="#B" n="4"/>⁋ Contra primam &amp; quintam
+   conclu<lb ed="#B" n="5" break="no"/>siones arguitur simul, quia eandem materiam contingunt. 
+   <lb ed="#B" n="6"/>non potest aliquod priuilegium indulgeri in alterius praeiu 
+   <lb ed="#B" n="7"/>dicium. vt in ca. Ex tuarum. de vsu pallii. vbi dicitur quod 
+   <lb ed="#B" n="8"/>icet papa det priuilegium: non vult tamen quod aliquis vtat 
+   <lb ed="#B" n="9"/>to in praeiudicium alterius: quia papa nulli vult facere pre 
+   <lb ed="#B" n="10"/>iudicium. xvi. qui. vii. ca. Decimas quas in vsum. sed 
+   <lb ed="#B" n="11"/>hoc est in praeiudicium curatorum quod fratres audiant confes 
+   <lb ed="#B" n="12"/>siones. nam aquam ad suum moledinum trahunt per eleemo 
+   <lb ed="#B" n="13"/>synas ad se &amp; ad suas ecclesias reparandas &amp; huiusmodi 
+   <lb ed="#B" n="14"/>minus est datur curatis: &amp; fiunt minus reuerentes curatos 
+   <lb ed="#B" n="15"/>parochiani.
+  </p>
+      <p xml:id="jMqv4a-d1e963-d1e880">
+   ⁋ Respondetur. verum est de priuilegio 
+   <lb ed="#B" n="16"/>enormi. vt not. in ca. Cum olim. de consue. aliud omne 
+   <lb ed="#B" n="17"/>priuilegium datur in praeiudicium. num quam enim priuilegia con 
+   <lb ed="#B" n="18"/>ceduntur nisi praeter generalem legem aliquid
+   speciali<lb ed="#B" n="19" break="no"/>er concedatur, none habes quod papa dat priuilegia
+   re<lb ed="#B" n="20" break="no"/>igiosis vt non dent decimas de terris quas
+   colunt<lb ed="#B" n="21" break="no"/>vt in ca. Ex parte. de decimis. &amp; hoc est in praeiudi 
+   <lb ed="#B" n="22"/>cium temporale ecclesiarum parochialium quia a talibus fructus 
+   <lb ed="#B" n="23"/>decimarum auferuntur: &amp; tamen propter vnius ecclesiae suble 
+   <lb ed="#B" n="24"/>uationem hoc facit papa alteri. Secundo nego o 
+   <lb ed="#B" n="25"/>hoc sit in praeiudicium curatorum. respicit enim pontifex 
+   <lb ed="#B" n="26"/>vtilitatem plebis subiectae curato. nam multo
+   me<lb ed="#B" n="27" break="no"/>lius est plebi habere hos religiosos cum curatis
+   ad<lb ed="#B" n="28" break="no"/>missos qui solos curatos. &amp; sic si religiosi tollant ali 
+   <lb ed="#B" n="29"/>quos paruos denarios qui dati fuissent curato:
+   tol<lb ed="#B" n="30" break="no"/>lunt etiam laborem: &amp; curatu iuuant ad populum eru 
+   <lb ed="#B" n="31"/>diendum, nec debet dirigere obtutum ad paruum 
+   <lb ed="#B" n="32"/>lucrum temporale quod amittit: nec imputabitur ei illud 
+   <lb ed="#B" n="33"/>Prouerb. xxvii. quod vultum pecoris in foro
+   interio<lb ed="#B" n="34" break="no"/>ri non cognouerit: quia per eum non stetit: sed sufficit 
+   <lb ed="#B" n="35"/>ei quod superiores dederunt his facultatem secumn cogno 
+   <lb ed="#B" n="36"/>scendi vultum pecoris. &amp; propter hoc excusabitur cu 
+   <lb ed="#B" n="37"/>ratus.
+  </p>
+      <p xml:id="jMqv4a-d1e963-d1e930">
+   ⁋ Secundo arguitur. in capi. Omnis vtriusque 
+   <lb ed="#B" n="38"/>sexus, dicitur. Quicumque vult iusta causa alieno co 
+   <lb ed="#B" n="39"/>fiteri sacerdoti, a proprio petat licentiam &amp; obtineat. 
+   <lb ed="#B" n="40"/>aliter ille eum ligare non potest nec absoluere.
+  </p>
+      <p xml:id="jMqv4a-d1e963-d1e940">
+   ⁋
+   Re<lb ed="#B" n="41" break="no"/>spondetur. subaudiendum est: nisi sit priuilegiatus 
+   <lb ed="#B" n="42"/>a sede apostolica: vel a iure. nam antiqua iura per 
+   <lb ed="#B" n="43"/>posteriora exponuntur &amp; reuocantur. priuilegium autem 
+   <lb ed="#B" n="44"/>hoc in Clementina Dudum. derogat constitutioni in 
+   <lb ed="#B" n="45"/>cap. Omnis. Etiam fratres priuilegiati sunt in aliqua  
+   <lb ed="#B" n="46"/>acceptione larga proprii sacerdotes. Ad Extrauagam 
+   <lb ed="#B" n="47"/>tem Martini quinti Ad vberes. &amp; Sixti quarti. de 
+   <lb ed="#B" n="48"/>reuga &amp; pace. in ca. Vices. superius respodimus. 
+  </p>
+      <p xml:id="jMqv4a-d1e963-d1e960">
+       <lb ed="#B" n="49"/>⁋ Tertio arguitur. si de duabus seruitutibus vna 
+   <lb ed="#B" n="50"/>tollatur: altera remanet. de vsu pallii. Ex tuarum. &amp; 
+   <lb ed="#B" n="51"/>tur. de serui. vrb. praed. l. Si denegetur. ergo papa potest 
+   <lb ed="#B" n="52"/>dare eis solam executionem &amp; non potestatem vt
+   con<lb ed="#B" n="53" break="no"/>fessiones audiant sine facultate proprii sacerdotis 
+   <lb ed="#B" n="54"/>vt Bernardus in glossa arguit.
+  </p>
+      <p xml:id="jMqv4a-d1e963-d1e976">
+   ⁋ Respondetur. 
+   <!--0396.xml-->
+   <cb ed="#B" n="b"/> 
+       <!-- 182-v b -->
+       <lb ed="#B" n="55"/>quando seruitutes sunt separabiles: vna concessa 
+   <lb ed="#B" n="56"/>alia remanet: vt patet in lege allegata. nam si domus 
+   <lb ed="#B" n="57"/>tua domui alterius sit in duabus seruitutibus
+   obli<lb ed="#B" n="58" break="no"/>gata, scilicet vt non altius aedificetur: &amp; ne stillicidium 
+   <lb ed="#B" n="59"/>super tectum istius de illa cadat: si remittatur prima 
+   <lb ed="#B" n="60"/>adhuc remanet secunda. istae enim seruitutes no sunt 
+   <lb ed="#B" n="61"/>connexae: quia licet domus altius aedificetur: non
+   se<lb ed="#B" n="62" break="no"/>quitur necessario quod stillicidia propter hoc super 
+   <lb ed="#B" n="63"/>rectum alterius cadant: quia per canales possunt 
+   <lb ed="#B" n="64"/>aliunde deduci. Secus esset vbi seruitutes essent 
+   <lb ed="#B" n="65"/>connexae. vt si concedas mihi ire per agrum tuum: 
+   <lb ed="#B" n="66"/>concedes mihi facere semitam necessariam
+   exequi<lb ed="#B" n="67" break="no"/>tioni: alioquin esset exequutio vana. Et ideo si da 
+   <lb ed="#B" n="68"/>tur exequutio priuilegiato: datur confitenti aucto 
+   <lb ed="#B" n="69"/>ritas vt in eum possit fieri exequutio / cum audire 
+   <lb ed="#B" n="70"/>&amp; audiri sint inseparabiliter connexa: vt in
+   proba<lb ed="#B" n="71" break="no"/>tione conclusionis superius diximus.
+  </p>
+      <p xml:id="jMqv4a-d1e963-d1e1022">
+   ⁋ Vnde hic 
+   <lb ed="#B" n="72"/>inter dominos curatos &amp; religiosos a multis
+   an<lb ed="#B" n="73" break="no"/>nis est dissensio. Pro quo notabis: quod ante dies
+   Bo<lb ed="#B" n="74" break="no"/>nifacii Octaui qui fuit compilator Sexti
+   decreta<lb ed="#B" n="75" break="no"/>lium / praedicatores &amp; minores habuerunt quoddam 
+   <lb ed="#B" n="76"/>priuilegium: quod incipiebat Ad vberes. in quo da 
+   <lb ed="#B" n="77"/>batur eis auctoritas audiendi confessiones: sic
+   ta<lb ed="#B" n="78" break="no"/>men vt constitutio generalis concilii, scilicet Omnis 
+   <lb ed="#B" n="79"/>vtriusque sexus: in suo robore conseruaretur: ita vt 
+   <lb ed="#B" n="80"/>confessi fratribus tenerentur nihilominus saltem 
+   <lb ed="#B" n="81"/>semel in anno confiteri suis parochialibus presby 
+   <lb ed="#B" n="82"/>teris. super quo inter doctores &amp; religiosos tempore 
+   <lb ed="#B" n="83"/>Henrici Gandensis magnum erat certamen.
+   Dein<lb ed="#B" n="84" break="no"/>de Bonifacius Octauus anno domini
+   trecentesi<lb ed="#B" n="85" break="no"/>mooctauo supra millesimum illam decretalem Su 
+   <lb ed="#B" n="86"/>ra cathedram. edidit: quae hodie est in Clemen. Du 
+   <lb ed="#B" n="87"/>dum. inserta: quam postea Benedictus Vndecimus 
+   <lb ed="#B" n="88"/>per suam extrauagantem. Inter cunctas. reuocauit. 
+   <lb ed="#B" n="89"/>postea Clemens Quintus illam. Inter cunctas
+   reuo<lb ed="#B" n="90" break="no"/>tauit. &amp; illam. Supra cathedram. Bonifacii Octaus 
+   <lb ed="#B" n="91"/>quam passim habemus renouauit. Postmodum loan 
+   <lb ed="#B" n="92"/>nes Poliacensis Parisiensis doctor nisus est capi 
+   <lb ed="#B" n="93"/>tulum Omnis vtriusque sexus. tenere in propria for 
+   <lb ed="#B" n="94"/>ma. Clemen. Dudum, examinando: quod Ioannes vi 
+   <lb ed="#B" n="95"/>cesimus secundus in extrauagan. Vas electionis 
+   <lb ed="#B" n="96"/>reprobauit, manutenendo Clemen. Dudum. &amp; eam 
+   <lb ed="#B" n="97"/>ad <name xml:id="jMqv4a-d1e963-Nd1e1080" ref="#Augustine">Augustinenses,</name> &amp; Carmelitas prorogando.  
+   <lb ed="#B" n="98"/>tem Alexander quintus Ioannis successor
+   ma<lb ed="#B" n="99" break="no"/>nutenuit Clemen. Dudum. addendo aliqua in sua 
+   <lb ed="#B" n="100"/>Extrauagante: quae incipit Regnans in excelsis, que 
+   <lb ed="#B" n="101"/>extrauagans fuit petita reuocari in concilio
+   Con<lb ed="#B" n="102" break="no"/>stantiensi, &amp; Basiliensi. sed nihil obtentum est. Et li 
+   <lb ed="#B" n="103"/>cet cap. Vices, Sixti quarti sit apparens pro curatis: 
+   <lb ed="#B" n="104"/>non est tamen datum exequutioni. 
+  </p>
+      <p xml:id="jMqv4a-d1e963-d1e1099">
+       <lb ed="#B" n="105"/>⁋ Ex omnibus his non nulla epilocanm 
+   <lb ed="#B" n="106"/>do, dicam primo quod iura humana sunt mutabsia. 
+   <lb ed="#B" n="107"/>&amp; si pontifices ordinarent contraria iis quae
+   di<lb ed="#B" n="108" break="no"/>cimus: sententiae eorum, antiquioribus statutis 
+   <!--0397.xml-->
+   <pb ed="#B" n="183-r"/>
+       <cb ed="#B" n="a"/>
+       <lb ed="#B" n="1"/>relictis / acquiesceremus: &amp; cum regula Lesbia flecti 
+   <lb ed="#B" n="2"/>remur. Ex quo sequitur quod doctores tenentes
+   po<lb ed="#B" n="3" break="no"/>sitiones oppositas ante pontificum
+   determinatio<lb ed="#B" n="4" break="no"/>nes: non male egerunt, in materia topica probabiliter 
+   <lb ed="#B" n="5"/>vtrinque loquentes. vt Bernardus in glossa ordina 
+   <lb ed="#B" n="6"/>ria in cap. Omnis vtriusque sexus. tenens quod
+   requi<lb ed="#B" n="7" break="no"/>ritur permissus proprii sacerdotis: &amp; multi alii tam 
+   <lb ed="#B" n="8"/>in hac materia quam in alia.
+  </p>
+      <p xml:id="jMqv4a-d1e963-d1e1134">
+   ⁋ Sed iuribus humanis 
+   <lb ed="#B" n="9"/>relictis veniendo ad illa quae videntur mihi in
+   lu<lb ed="#B" n="10" break="no"/>mine naturali impraesentiarum dicenda / positiuo iure 
+   <lb ed="#B" n="11"/>neglecto: non est inutile quod eruditi &amp; probi religiosi 
+   <lb ed="#B" n="12"/>admittantur ad audiendas confessiones in tota eccle 
+   <lb ed="#B" n="13"/>sia categorematice. ratio est: quia plerique sunt cura 
+   <lb ed="#B" n="14"/>ti ineruditi &amp; malae famae: qui raro laborant habere 
+   <lb ed="#B" n="15"/>subditos probos &amp; virtute praeditos. Nam impro 
+   <lb ed="#B" n="16"/>bo gaudet improbus: ne in praesentia probi, fama 
+   <lb ed="#B" n="17"/>suam magis denigretur.
+  </p>
+      <p xml:id="jMqv4a-d1e963-d1e1157">
+   ⁋ Secunda propositio: multi 
+   <lb ed="#B" n="18"/>sunt eruditi religiosi mendicantes qui exercent
+   ali<lb ed="#B" n="19" break="no"/>quos actus potiores actibus curatorum: vt qui
+   con<lb ed="#B" n="20" break="no"/>cionando / populum verbo &amp; exemplo illuminant. 
+   <lb ed="#B" n="21"/>nec est indecens quod isti a populo nutriantur: hoc enim 
+   <lb ed="#B" n="22"/>est de iure naturae: vt patet primae ad Corinth. ix. &amp; 
+   <lb ed="#B" n="23"/>in malorum curatorum poenam &amp; dedecus vt magis 
+   <lb ed="#B" n="24"/>sordescant. Opposita ei iuxta se posita clarius
+   elu<lb ed="#B" n="25" break="no"/>cescunt.
+  </p>
+      <p xml:id="jMqv4a-d1e963-d1e1177">
+   ⁋ Alia propositio. si fiat bona diligentia i 
+   <lb ed="#B" n="26"/>episcopos de fratrum admissione / non potest esse
+   que<lb ed="#B" n="27" break="no"/>rimonia de eorum sufficientia. nam diligentissime fuit 
+   <lb ed="#B" n="28"/>hoc a summis pontificibus adiectu. si episcopus 
+   <lb ed="#B" n="29"/>sibi praesentatos examinaret vel vicarius eius. facile 
+   <lb ed="#B" n="30"/>autem religiosorum conditio scientia &amp; mores ab epso 
+   <lb ed="#B" n="31"/>deprehendentur. nihil enim occurrit quo a recto &amp; syr 
+   <lb ed="#B" n="32"/>cero de eis iudicio distrahatur: sicut in caeca
+   collatio<lb ed="#B" n="33" break="no"/>ne beneficiorum: quia saepe prece / sanguine / &amp; serui 
+   <lb ed="#B" n="34"/>tio permotus: populi vtilitate neglecta dat curas 
+   <lb ed="#B" n="35"/>ineptis &amp; male merentibus. sed ad hoc quodammo 
+   <lb ed="#B" n="36"/>do allicitur cum sua tamen graui culpa. hic autem in re 
+   <lb ed="#B" n="37"/>ligiosis admittendis nulla est quaestio de beneficio 
+   <lb ed="#B" n="38"/>dando: sed de sola salute plebis procuranda.
+  </p>
+      <p xml:id="jMqv4a-d1e963-d1e1208">
+   ⁋ Alia 
+   <lb ed="#B" n="39"/>propositio. vbi essent inutiles religiosi episcopo prae 
+   <lb ed="#B" n="40"/>sentati, non deberet eos admittere. vel si inutiles re 
+   <lb ed="#B" n="41"/>perti fuerit a curato successu temporis: &amp; possit hoc 
+   <lb ed="#B" n="42"/>probare: debet eos reiicere: sicut putatus bonus me 
+   <lb ed="#B" n="43"/>dicus a principio, comperto contrario est remouendus. 
+  </p>
+      <p xml:id="jMqv4a-d1e963-d1e1221">
+       <lb ed="#B" n="44"/>⁋ Alia propositio, no expedit dare religiosos auxi 
+   <lb ed="#B" n="45"/>liatores curatis in tota ecclesia
+   syncategoremati<lb ed="#B" n="46" break="no"/>ce probatur. nam aliqui sunt curati ita religiosi in
+   vi<lb ed="#B" n="47" break="no"/>ta vt vocati religiosi: guardianis &amp; prioribus
+   lon<lb ed="#B" n="48" break="no"/>ge eruditiores: quibus non expedit dare cooperatores. 
+   <lb ed="#B" n="49"/>contingit etiam quod diligens curatus habeat paruum 
+   <lb ed="#B" n="50"/>gregem circa quem in propria vigilat: vel si opi 
+   <lb ed="#B" n="51"/>egeat / nouit quis sit sibi vtilis. scio probos religio 
+   <lb ed="#B" n="52"/>sos erubescere in praesentia eiusmodi pastoris se 
+   <lb ed="#B" n="53"/>ingerere sine eius facultate: nisi frontem perfricuerint 
+   <lb ed="#B" n="54"/>Declaro istud per analogiam de medico corporali: 
+   <lb ed="#B" n="55"/>qui in tota vrbe categorematice est vtilis: sed non 
+   <!--0397.xml-->
+   <cb ed="#B" n="b"/> 
+       <!-- 183-r b -->
+       <lb ed="#B" n="56"/>syncategorematice, vtpote domui illi vel vico in  
+   <lb ed="#B" n="57"/>qua vel quo est medicus multo exercitatior:
+   secun<lb ed="#B" n="58" break="no"/>dum verbum Christi. Non est opus medico bene va 
+   <lb ed="#B" n="59"/>lentibus.
+  </p>
+      <p xml:id="jMqv4a-d1e963-d1e1265">
+   ⁋ Vltima propositio. bonus curatus bo 
+   <lb ed="#B" n="60"/>nos religiosos quos nouit debet ad se in suum auxi 
+   <lb ed="#B" n="61"/>lium vocare neglectis his paruis fortunae munuscu 
+   <lb ed="#B" n="62"/>lis: gregis sibi commissi quaerendo salute. &amp; contra 
+   <lb ed="#B" n="63"/>si curatum seditiosum &amp; dyscolum religiosus vi 
+   <lb ed="#B" n="64"/>deat cum quo non possit fructum seu aedificationem 
+   <lb ed="#B" n="65"/>facere in populo, a loco illo ad alium secedat: vel 
+   <lb ed="#B" n="66"/>in cellulam vnde exiit sese recipiat. 
+  </p>
+    </div>
+   </body>
+  </text>
+</TEI>

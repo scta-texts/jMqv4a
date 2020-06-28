@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 14</title>
+      <author ref="#JohnMair">John Mair</author>
+      <respStmt>
+       <name>Jeffrey C. Witt</name>
+       <resp>TEI Encoder</resp>
+      </respStmt>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 14</title>
+       <date when="2020-06-09">June 27, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="B" n="cod-Bda113">Badius 1516</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+     guidelines for a diplomatic edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-06-27" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+      <pb ed="#B" n="307-v"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="jMqv4a-d1e1642"> <!-- l4d38q14 -->
+      <head xml:id="jMqv4a-d1e1642-Hd1e104">Quaestio 14</head>
+      <head xml:id="jMqv4a-d1e1642-Hd1e107" type="question-title">An Romanus pontifex possit dispensare cum 
+  religioso in voto continentiae, ut uxorem ducat in saeculo</head>
+      <p xml:id="jMqv4a-d1e1642-d1e110">
+       <lb ed="#B" n="45"/>⁋ Distinctionis Trigesimaeoctauae. 
+   <lb ed="#B" n="46"/>Quaestio Decimaquarta. 
+   <lb ed="#B" n="47"/>quaIrca votum
+   continen<lb ed="#B" n="48" break="no"/>tiae quaeritur: An Romanus
+   pon<lb ed="#B" n="49" break="no"/>tifex possit dispensare cum 
+   <lb ed="#B" n="50"/>religioso in voto continentiae 
+   <lb ed="#B" n="51"/>vt vxorem ducat in saeculo 
+  </p>
+      <p xml:id="jMqv4a-d1e1642-d1e128">
+       <lb ed="#B" n="52"/>⁋ Pro solutione quaestionis 
+   <lb ed="#B" n="53"/>eu pono duas conclusiones: qua-  
+   <!--0646.xml-->
+   <cb ed="#B" n="b"/> 
+       <!-- 307-v b -->
+       <lb ed="#B" n="54"/>rum Prior est. Quilibet religiosus sub poena pecca 
+   <lb ed="#B" n="55"/>ti tenetur se seruare immunem a venereis. hoc est, ne 
+   <lb ed="#B" n="56"/>consentiat in actum libidinosum carnalis copulae. Pro 
+   <lb ed="#B" n="57"/>batur conclusio. quilibet sub poena peccati tenetur 
+   <lb ed="#B" n="58"/>caste viuere: religiosus non potest caste viuere ca 
+   <lb ed="#B" n="59"/>stitate coniugali: ergo non patet ei via salutis nisi 
+   <lb ed="#B" n="60"/>prorsus a venereis abstineat. Insuper hoc vouer 
+   <lb ed="#B" n="61"/>quando fit religiosus: &amp; cum sit persona inhabilis 
+   <lb ed="#B" n="62"/>vi suae professionis nunquam potens vxorem ducere 
+   <lb ed="#B" n="63"/>oportet quod abstineat.
+  </p>
+      <p xml:id="jMqv4a-d1e1642-d1e164">
+   ⁋ Secunda conclusio. Roma 
+   <lb ed="#B" n="64"/>nus pontifex potest dispensare cum religioso
+   simpli<lb ed="#B" n="65" break="no"/>ci / hoc est non existente in sacris vt vxorem ducat. 
+   <lb ed="#B" n="66"/>Probatur conclusio. nam hoc fecit cum quodam rege 
+   <lb ed="#B" n="67"/>Aragonum, nec est verosimile quod hoc attentauit si 
+   <lb ed="#B" n="68"/>ne sapientum consilio. Dices sicut dicit Altisiodo 
+   <lb ed="#B" n="69"/>rus. xxii. tractatu sui tertii tenens oppositum, quod non 
+   <lb ed="#B" n="70"/>dispensauit, sed dissimulauit. Hoc non est verosimile 
+   <lb ed="#B" n="71"/>quod nobilis mulier in eum consensisset: non visa dispen 
+   <lb ed="#B" n="72"/>satione: nec haereditas sine illa in sobole
+   mansis<lb ed="#B" n="73" break="no"/>set pacifica. Sed dicis, &amp; apparentius. ex factis pon 
+   <lb ed="#B" n="74"/>tificis &amp; ex dispensatione eius non sequitur hoc esse
+   li<lb ed="#B" n="75" break="no"/>citum.
+  </p>
+      <p xml:id="jMqv4a-d1e1642-d1e193">
+   ⁋ Propterea secundo arguitur ad idem. papa potest 
+   <lb ed="#B" n="76"/>dispensare in voto simplici vt notum est ex dictis in 
+   <lb ed="#B" n="77"/>ocedentibus: ergo &amp; in voto solenni probatur
+   consequen<lb ed="#B" n="78" break="no"/>tia: quia tantum obligat votum simplex, quantum solemne 
+   <lb ed="#B" n="79"/>coram deo. cap. Rursus. qui cleri. vel vouem. matri. 
+   <lb ed="#B" n="80"/>contra. possunt. illic Caelestinus tertius dicit quod sim 
+   <lb ed="#B" n="81"/>plex votum apud deum non minus obligat quam solemne. 
+   <lb ed="#B" n="82"/>Forte dicis cum glossa. Non minus. i non minori 
+   <lb ed="#B" n="83"/>tempore. vel non minus. i non minori peccato in  
+   <lb ed="#B" n="84"/>genere: quia vtriusque transgressio est mortalis. sed 
+   <lb ed="#B" n="85"/>vna est alia grauior. Contra. votum simplex potest 
+   <lb ed="#B" n="86"/>esse cum actu intensiore &amp; diuturniore quam votu so 
+   <lb ed="#B" n="87"/>lemne. ergo per intensionem actus &amp; diuturnitatem 
+   <lb ed="#B" n="88"/>potest attingere ligamen quod solemne vltra votum 
+   <lb ed="#B" n="89"/>simplex habet. Potest dici. in voto solenni deus po 
+   <lb ed="#B" n="90"/>nitur in possessionem vouentis. in voto autem sim 
+   <lb ed="#B" n="91"/>plici promittitur ei illa possessio. Fortius autem est 
+   <lb ed="#B" n="92"/>ligamen quo res est data quam promissa,
+   quemadmo<lb ed="#B" n="93" break="no"/>dum si promitterem Titio &amp; Platoni equum: dam 
+   <lb ed="#B" n="94"/>do Platoni equum manet eius, quicquid sit de prio 
+   <lb ed="#B" n="95"/>re promissione.
+  </p>
+      <p xml:id="jMqv4a-d1e1642-d1e239">
+   ⁋ Tertio arguitur. si papa non pos 
+   <lb ed="#B" n="96"/>set dispensare in voto religionis: hoc esset propterea 
+   <lb ed="#B" n="97"/>quia seruare votum emissum est de iure diuino: 
+   <lb ed="#B" n="98"/>vel propterea quia continentia non potest habere
+   ali<lb ed="#B" n="99" break="no"/>quid melius. secundum illud Eccle. xxvi. Omnis 
+   <lb ed="#B" n="100"/>ponderatio non est digna continentis animae. ve 
+   <lb ed="#B" n="101"/>quia quod est deo datum, non potest in vsus huma 
+   <lb ed="#B" n="102"/>nos reuocari: iuxta verbum domini Leuitici vlti 
+   <lb ed="#B" n="103"/>mo. Primum non valet: quia sic in voto abstinen 
+   <lb ed="#B" n="104"/>tiae non posset esse dispensatio. quod omnes negant. 
+   <lb ed="#B" n="105"/>Nec secundum: cui innititur Altisio. quia cotinem 
+   <lb ed="#B" n="106"/>tia non valet nisi propter puritatem mentis.
+   mo<lb ed="#B" n="107" break="no"/>do finis est perfectior his quae ad finem ordinantur. 
+   <lb ed="#B" n="108"/>multa quoque sunt alia quae tantum &amp; amplius valent 
+   <!--0647.xml-->
+   <pb ed="#B" n="308-r"/>
+       <cb ed="#B" n="a"/>
+       <lb ed="#B" n="1"/>quam continentia, nec valet tertium / cui beatus
+   Tho<lb ed="#B" n="2" break="no"/>mas innititur. nam calix / libri, &amp; huiusmodi deo di 
+   <lb ed="#B" n="3"/>cata pro rationabili causa possunt reuocari. Panes quo 
+   <lb ed="#B" n="4"/>quod propositionum sacerdotibus dicati dabantur Da 
+   <lb ed="#B" n="5"/>uidi laico in necessitate. primi Regum. xxi. Ergo quod 
+   <lb ed="#B" n="6"/>est deo dicatum pro vtilitate publica potest in vsus 
+   <lb ed="#B" n="7"/>humanos reuocari.
+  </p>
+      <p xml:id="jMqv4a-d1e1642-d1e291">
+   ⁋ Praeterea quarto arguitur. si 
+   <lb ed="#B" n="8"/>sit aliquis religionis votum emissurus cui expediat. 
+   <lb ed="#B" n="9"/>non vouere pro re vtiliore in republica: possum il 
+   <lb ed="#B" n="10"/>li consulere non vouere. igitur possum illi
+   consule<lb ed="#B" n="11" break="no"/>re post votum cum dispesatione papae egredi coe 
+   <lb ed="#B" n="12"/>nobio. ergo ei egredi est licitum: quia regula
+   com<lb ed="#B" n="13" break="no"/>munis est in hac parte: quando vouetur aliquid in  
+   <lb ed="#B" n="14"/>differens ad bonum &amp; malum: quando vergit in  
+   <lb ed="#B" n="15"/>malum, votum non est seruandum. Sed si religio 
+   <lb ed="#B" n="16"/>sa mulier dispensante papa / posset Turcam cum su 
+   <lb ed="#B" n="17"/>is ad sidem conuertere: maior honor / &amp; vtilitas in  
+   <lb ed="#B" n="18"/>republica christiana sequerentur ex dispensatione 
+   <lb ed="#B" n="19"/>ergo mulieri tali licet capere dispensationem, &amp; egre 
+   <lb ed="#B" n="20"/>di coenobio manendo in saeculo: in quo potest cum 
+   <lb ed="#B" n="21"/>salute animae viuere: &amp; sequetur magnus honor in 
+   <lb ed="#B" n="22"/>religione christiana. 
+  </p>
+      <p xml:id="jMqv4a-d1e1642-d1e326">
+       <lb ed="#B" n="23"/>⁋ Contra secundam conclusionem 
+   <lb ed="#B" n="24"/>arguitur per auctoritatem Innocentii tertii in capite 
+   <lb ed="#B" n="25"/>Cum ad monasterium. de testa. mona. vbi pontifex 
+   <lb ed="#B" n="26"/>in fine ca. sic dicit. Nec aestimet abbas, quod super haben 
+   <lb ed="#B" n="27"/>da proprietate possit cum aliquo monacho dispensare 
+   <lb ed="#B" n="28"/>quia abdicatio proprietatis / sicut &amp; custodia
+   castita<lb ed="#B" n="29" break="no"/>tis, adeo est annexa regulae monachali: vt contra eam 
+   <lb ed="#B" n="30"/>nec summus pontifex possit licentian indulgere. 
+  </p>
+      <p xml:id="jMqv4a-d1e1642-d1e346">
+       <lb ed="#B" n="31"/>⁋ Respondetur distinguendo quod non possit dispensa 
+   <lb ed="#B" n="32"/>re cum monacho vt habeat proprium, vel vxorem. vel 
+   <lb ed="#B" n="33"/>in sensu composito: &amp; sic concedo. in sensu diuiso 
+   <lb ed="#B" n="34"/>nego. Vbi enim pro rationabili causa cum ipso est 
+   <lb ed="#B" n="35"/>dispensatum: non est amplius monachus: sed a
+   to<lb ed="#B" n="36" break="no"/>to monachatu pontifex eum absoluit: ac si nunquam 
+   <lb ed="#B" n="37"/>fuisset monachus: &amp; resuscitat ipsum qui erat mo 
+   <lb ed="#B" n="38"/>nachus ad vitam ciuilem qui eiuiliter mortuus erat. 
+   <lb ed="#B" n="39"/>non enim facit quod nunquam fuerit monachus: cum hoc 
+   <lb ed="#B" n="40"/>facere non possit deus, non tamen debet dispensa 
+   <lb ed="#B" n="41"/>re eum monacho nisi pro eausa ardua, iudicata ra 
+   <lb ed="#B" n="42"/>tionabili iudicio prudentum.
+  </p>
+      <p xml:id="jMqv4a-d1e1642-d1e376">
+   ⁋ Secundo arguitur. 
+   <lb ed="#B" n="43"/>beatus Matthaeus non consuluit Eugeniae
+   accipe<lb ed="#B" n="44" break="no"/>re Hirtacum virum: immo dissuasit: &amp; tame erat ap 
+   <lb ed="#B" n="45"/>parens lucrifactio vnius regni ad Christum. ergo 
+   <lb ed="#B" n="46"/>non est consulendum virgini post votum emissum
+   con<lb ed="#B" n="47" break="no"/>trahere cum Turca, etiam licet esset magnus color quod 
+   <lb ed="#B" n="48"/>Turca cum maiore parte suorum Christianismum as 
+   <lb ed="#B" n="49"/>sumeret. Respondetur. omnes tunc in ciuitate
+   Nada<lb ed="#B" n="50" break="no"/>bar, &amp; in Aethiopia erant christiani. quare
+   argumen<lb ed="#B" n="51" break="no"/>tum non quadrat proposito. Etiam apostolis erat 
+   <lb ed="#B" n="52"/>vigor miraculorum collatus ad convertendos
+   infide<lb ed="#B" n="53" break="no"/>les: quibus non opus erat iis mediis quae nobis con 
+   <lb ed="#B" n="54"/>ducunt.
+  </p>
+      <p xml:id="jMqv4a-d1e1642-d1e405">
+   ⁋ Ecce votum continentiae quod obligatur 
+   <!--0647.xml-->
+   <cb ed="#B" n="b"/> 
+       <!-- 308-r b -->
+       <lb ed="#B" n="55"/>seruare religiosus nisi dispensetur secun pro rationabi 
+   <lb ed="#B" n="56"/>li causa: &amp; tunc continentia non est seruanda de qua 
+   <lb ed="#B" n="57"/>in proposito loquimur: sed sufficit ei castitatem con 
+   <lb ed="#B" n="58"/>iugalem seruare. &amp; potest habere proprium ac si num 
+   <lb ed="#B" n="59"/>quam fuisset monachus, nihil enim ad eum amplius 
+   <lb ed="#B" n="60"/>spectat monachatus, non tamen est securus in con 
+   <lb ed="#B" n="61"/>scientia talem dispensationem habens: nisi fuerit 
+   <lb ed="#B" n="62"/>rationabilis causa iudicata iudicio prudentum. Et 
+   <lb ed="#B" n="63"/>quia remissio continentiae est remissione pauprtatis 
+   <lb ed="#B" n="64"/>notior: paucis de illa transeo. 
+  </p>
+    </div>
+   </body>
+  </text>
+</TEI>

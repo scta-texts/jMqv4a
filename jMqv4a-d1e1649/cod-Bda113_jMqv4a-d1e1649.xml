@@ -1,0 +1,323 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 16</title>
+      <author ref="#JohnMair">John Mair</author>
+      <respStmt>
+       <name>Jeffrey C. Witt</name>
+       <resp>TEI Encoder</resp>
+      </respStmt>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 16</title>
+       <date when="2020-06-09">June 27, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="B" n="cod-Bda113">Badius 1516</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+     guidelines for a diplomatic edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-06-27" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+      <pb ed="#B" n="309-r"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="jMqv4a-d1e1649"> <!-- l4d38q16 -->
+      <head xml:id="jMqv4a-d1e1649-Hd1e104">Quaestio 16</head>
+      <head xml:id="jMqv4a-d1e1649-Hd1e107" type="question-title">An quis possit profiteri religionem, relinquendo 
+  parentum alterum in extrema necessitate</head>
+      <p xml:id="jMqv4a-d1e1649-d1e110">
+       <lb ed="#B" n="1"/>⁋ Distinctionis Trigesimaeoctauae. 
+   <lb ed="#B" n="2"/>Quaestio Decimasexta. 
+   <lb ed="#B" n="3"/>Ecimmosexto in hac 
+   <lb ed="#B" n="4"/>distinctione quaeritur. An quis 
+   <lb ed="#B" n="5"/>ossit profiteri religionem
+   re<lb ed="#B" n="6" break="no"/>inquendo parentum alterum 
+   <lb ed="#B" n="7"/>in extrema necessitate. Pro 
+   <lb ed="#B" n="8"/>solutione quaestionis ponam 
+   <lb ed="#B" n="9"/>conclusiones.
+  </p>
+      <p xml:id="jMqv4a-d1e1649-d1e132">
+   ⁋ Prima est. 
+   <lb ed="#B" n="10"/>Male facit filius religionem 
+   <lb ed="#B" n="11"/>profitendo / relinquens parentum aliquem in extrema 
+   <lb ed="#B" n="12"/>necessitate. Probatur conclusio, nam succurrere
+   pa<lb ed="#B" n="13" break="no"/>rentibus in extrema necessitate est praeceptum
+   le<lb ed="#B" n="14" break="no"/>gis naturae &amp; diuinum. modo consilium istud non
+   absol<lb ed="#B" n="15" break="no"/>uit a praecepto diuino: nec facit ipsum desinere esse 
+   <lb ed="#B" n="16"/>praeceptu.
+  </p>
+      <p xml:id="jMqv4a-d1e1649-d1e151">
+   ⁋ Secunda conclusio. Filius religiosus 
+   <lb ed="#B" n="17"/>tenetur coenobium egredi vt parentibus aliunde 
+   <lb ed="#B" n="18"/>sustentationem habere non valentibus succurrat. Et 
+   <lb ed="#B" n="19"/>quia Beatus Thomas in secunda Secundae, &amp;
+   Nico<lb ed="#B" n="20" break="no"/>laus Lyranus. Matth. xv. tenent priorem conclusio 
+   <lb ed="#B" n="21"/>nem / &amp; contradictoriam huius: paulo prolixius hano 
+   <lb ed="#B" n="22"/>probabo / per expressa verba Christi in eodem capite 
+   <lb ed="#B" n="23"/>quibus glossam futilem apponunt. Cum illic scribae 
+   <lb ed="#B" n="24"/>&amp; pharisaei arguerent Christum quod discipuli eius trans 
+   <lb ed="#B" n="25"/>grederentur traditiones seniorum de no lauandis ma 
+   <lb ed="#B" n="26"/>nibus ante cibum: proposuit eis quaestionem: quam si
+   sol<lb ed="#B" n="27" break="no"/>uissent: data fuisset responsio quaestioni eorum: &amp; non 
+   <lb ed="#B" n="28"/>sicut <name xml:id="jMqv4a-d1e1649-Nd1e179">Nicolaus</name> putat: clauum clauo retundendo.
+   Quae<lb ed="#B" n="29" break="no"/>siuit itaque Christus, quare vos transgredimini man 
+   <lb ed="#B" n="30"/>datum dei propter traditionem vestram: inam deus dixit. 
+   <lb ed="#B" n="31"/>Honora patrem &amp; matrem. vos autem dicitis. Quicumque 
+   <lb ed="#B" n="32"/>dixerit patri vel matri: munus quodcumque est ex me /- 
+   <lb ed="#B" n="33"/>tibi proderit: &amp; non honorificabit patrem suum 
+   <lb ed="#B" n="34"/>aut matrem suam. &amp; irritum fecistis mandatum 
+   <lb ed="#B" n="35"/>dei propter traditionem vestram. Hic expresse est 
+   <lb ed="#B" n="36"/>sermo de succurrendo parentibus in necessitate 
+   <lb ed="#B" n="37"/>quod est dei praeceptum. sed vt glossa
+   interlinea<lb ed="#B" n="38" break="no"/>ris exponit: dixerunt auari pharisaei. si filii offerant 
+   <lb ed="#B" n="39"/>deo hoc quod parentibus debetur, id magis
+   pro<lb ed="#B" n="40" break="no"/>derit parentibus quam eis succurrere: &amp; etiam filiis. 
+   <lb ed="#B" n="41"/>vVbi Christus dicit praeuaricari legem dei propter 
+   <lb ed="#B" n="42"/>traditionem hominum. nam offerre deo sacrificium: 
+   <lb ed="#B" n="43"/>est licitum communiter: sed male fit dando illud quod 
+   <lb ed="#B" n="44"/>homo tenetur dare parenti: quia relinquitur dei prae 
+   <lb ed="#B" n="45"/>ceptum. sic autem est in casu nostrae conclusionis. 
+   <lb ed="#B" n="46"/>Sed dicis. hoc solum concludit priorem
+   conclu<lb ed="#B" n="47" break="no"/>sionem: quod scilicet ante ingressum religionis
+   bo<lb ed="#B" n="48" break="no"/>na si habeantur danda sunt parentibus: vel
+   labo<lb ed="#B" n="49" break="no"/>randum est pro bonis habendis ad eis subuenien 
+   <lb ed="#B" n="50"/>dum. Ideo probatur aliter conclusio sic. Si
+   quis<lb ed="#B" n="51" break="no"/>piam premeretur &amp; conculcaretur ab equo:
+   reli<lb ed="#B" n="52" break="no"/>giosus stans in ostio / potens ei succurrere /
+   prohi<lb ed="#B" n="53" break="no"/>bente abbate teneretur succurrere presso. vel si 
+   <!--0649.xml-->
+   <cb ed="#B" n="b"/> 
+       <!-- 309-r b -->
+       <lb ed="#B" n="54"/>claudus sit in domo quae igni consumitur: religio 
+   <lb ed="#B" n="55"/>sus succurrere potens / prohibente abbate ex lege 
+   <lb ed="#B" n="56"/>naturae &amp; dei ad hoc tenetur. ergo eodem modo  
+   <lb ed="#B" n="57"/>in casu conclusionis secundae. Non valet
+   respon<lb ed="#B" n="58" break="no"/>sio <name xml:id="jMqv4a-d1e1649-Nd1e253">Nicolai</name> dicentis quod succurrere parentibus est 
+   <lb ed="#B" n="59"/>raeceptum affirmatiuum / obligans pro loco &amp; tem 
+   <lb ed="#B" n="60"/>pore. modo post votum religiosis succurrere
+   pa<lb ed="#B" n="61" break="no"/>entibus est illicitum / prohibente superiore. sicut 
+   <lb ed="#B" n="62"/>sacerdoti non licet succurrere patri per vsum
+   ar<lb ed="#B" n="63" break="no"/>morum si ab hostibus inuadatur: quia iam non est 
+   <lb ed="#B" n="64"/>ei licitum pugnare corporaliter. Hoc inquam non va 
+   <lb ed="#B" n="65"/>let. nam praeceptum affirmatiuum pro loco &amp;
+   tem<lb ed="#B" n="66" break="no"/>pore obligat: sed iam est locus &amp; tempus: quia si 
+   <lb ed="#B" n="67"/>praetermittat, parentes morientur. Et quod affert 
+   <lb ed="#B" n="68"/>de sacerdote / non habet speciem veri: quia potest re 
+   <lb ed="#B" n="69"/>sistere patrem iuuando &amp; contra hostem defendem 
+   <lb ed="#B" n="70"/>do: ac si nullo modo esset sacerdos: vbi pater non 
+   <lb ed="#B" n="71"/>posset aliter euadere. nullum enim praeceptum hu 
+   <lb ed="#B" n="72"/>manum ab hoc relaxat. Dico ergo sicut Christus 
+   <lb ed="#B" n="73"/>intendebat contra scribas &amp; pharisaeos: quod aposto 
+   <lb ed="#B" n="74"/>li comedentes relicta traditione tam crebro lauan 
+   <lb ed="#B" n="75"/>di manus non peccarunt. Nam Marci. vii. sic scribi 
+   <lb ed="#B" n="76"/>tur. Pharisaei enim &amp; omnes iudaei inisi crebro
+   laue<lb ed="#B" n="77" break="no"/>rint manus suas / non manducant. quod Et peccant deo 
+   <lb ed="#B" n="78"/>offerentes (nisi occurreret praeceptum) non
+   succur<lb ed="#B" n="79" break="no"/>rendo parentibus. Sic relinquens parentes fame 
+   <lb ed="#B" n="80"/>morituros ante religionis professionem vel post, 
+   <lb ed="#B" n="81"/>propter votum sponte emissum &amp; hominum tradi 
+   <lb ed="#B" n="82"/>tiones, legem dei transgreditur de parentibus
+   ho<lb ed="#B" n="83" break="no"/>norandis. &amp; egredi coenobio etiam abbate
+   prohiben<lb ed="#B" n="84" break="no"/>te / non est peccatum. sicut apostoli non peccabant re 
+   <lb ed="#B" n="85"/>linquendo traditiones seniorum. 
+  </p>
+      <p xml:id="jMqv4a-d1e1649-d1e316">
+       <lb ed="#B" n="86"/>⁋ Contra secundam conclusionem 
+   <lb ed="#B" n="87"/>arguitur argumento altero commentatoris, seu vt 
+   <lb ed="#B" n="88"/>dicunt postillatoris. Contrahens matrimonium non 
+   <lb ed="#B" n="89"/>tenetur cohabitare cum patre, propter aliud
+   vin<lb ed="#B" n="90" break="no"/>culum quo obligatur vxori. ergo neque per profes 
+   <lb ed="#B" n="91"/>sionem a fortiori. Item arguunt aliqui. maius est 
+   <lb ed="#B" n="92"/>vinculum deo factum quam parentibus. votum est 
+   <lb ed="#B" n="93"/>deo factum. igitur.
+  </p>
+      <p xml:id="jMqv4a-d1e1649-d1e336">
+   ⁋ Ad primum dicitur quod potest: 
+   <lb ed="#B" n="94"/>subuenire patri cohabitando cum vxore. Ad
+   se<lb ed="#B" n="95" break="no"/>cundum nego quod sit vinculum deo factum: cum 
+   <lb ed="#B" n="96"/>sit contra praeceptum dei / non subuenire
+   parenti<lb ed="#B" n="97" break="no"/>bus: nec votum est ad oppositum. Nihil est
+   dice<lb ed="#B" n="98" break="no"/>re, praeceptum de voto est de prima tabula: subueni 
+   <lb ed="#B" n="99"/>re autem parentibus de secunda. quia dicimus
+   vo<lb ed="#B" n="100" break="no"/>tum non esse obligatorium in hoc casu. Nec valet. di 
+   <lb ed="#B" n="101"/>cere: non habet voluntatem / cum sit religiosus. quia 
+   <lb ed="#B" n="102"/>adhuc praecepta ecclesiae tenetur seruare prohibente 
+   <lb ed="#B" n="103"/>abbate. ergo a fortiori praecepta dei. 
+  </p>
+      <p xml:id="jMqv4a-d1e1649-d1e360">
+       <lb ed="#B" n="104"/>⁋ Contra eandem conclusionem
+   ar<lb ed="#B" n="105" break="no"/>guitur. Ex ea sequitur quod filius non tenetur profite 
+   <lb ed="#B" n="106"/>ri religionem quando parentes sunt tristes de eius 
+   <lb ed="#B" n="107"/>professione: sic scilicet vt affirment se morituros 
+   <!--0650.xml-->
+   <pb ed="#B" n="309-v"/>
+       <cb ed="#B" n="a"/>
+       <lb ed="#B" n="1"/>si filius coenobium ingrediatur. consequens est
+   fal<lb ed="#B" n="2" break="no"/>sum. alioquin multi a religione prohiberentur. 
+  </p>
+      <p xml:id="jMqv4a-d1e1649-d1e382">
+       <lb ed="#B" n="3"/>⁋ Respondetur negando sequelam. illa namque tristitia 
+   <lb ed="#B" n="4"/>in gaudium tandem convertetur. id enim plerumque
+   vi<lb ed="#B" n="5" break="no"/>sum est. &amp; licer dicant se praetristitia morituros: non 
+   <lb ed="#B" n="6"/>consequens est quod morientur: nec eis in illo dicto 
+   <lb ed="#B" n="7"/>est credendum: quiam pauci vel nulli hoc modo mo 
+   <lb ed="#B" n="8"/>riuntur. Si tamen praeter legem ei reuelaretur quod pa 
+   <lb ed="#B" n="9"/>rentum alter moriturus sit si religionem assumat: 
+   <lb ed="#B" n="10"/>lam est euentus conclusionis. Nec tristitia diuae
+   vir<lb ed="#B" n="11" break="no"/>gins tempore passionis hoc loco citanda est. tum 
+   <lb ed="#B" n="12"/>quod Christus salutem publicam humani generis egit. 
+   <lb ed="#B" n="13"/>tum quod sciebat matrem ex illa tristitia non morituram. 
+  </p>
+      <p xml:id="jMqv4a-d1e1649-d1e408">
+       <lb ed="#B" n="14"/>⁋ Sccundo arguitur. Homo non in infinitum
+   tene<lb ed="#B" n="15" break="no"/>tur plus procurare necessaria parentibus quam aliis: sed 
+   <lb ed="#B" n="16"/>pro aliis non tenetur religionem differre: ergo nec pro 
+   <lb ed="#B" n="17"/>parentibus.
+  </p>
+      <p xml:id="jMqv4a-d1e1649-d1e420">
+   ⁋ Tertio, Petrus non potens manere 
+   <lb ed="#B" n="18"/>cum salute animae suae in saeculo potest religionem pro 
+   <lb ed="#B" n="19"/>fiteri: quia plus debet curare salutem animae proprie quam 
+   <lb ed="#B" n="20"/>corporalem parentum.
+  </p>
+      <p xml:id="jMqv4a-d1e1649-d1e429">
+   ⁋ Quarto arguitur. Ad 
+   <lb ed="#B" n="21"/>eius professionem sequitur solum parentum mors 
+   <lb ed="#B" n="22"/>corporalis: &amp; magnum detrimentum filio in spiritua: 
+   <lb ed="#B" n="23"/>libus: quam iacturam non tenetur subire pro morte 
+   <lb ed="#B" n="24"/>corporali parentum: quibus forte prodest perite
+   fa<lb ed="#B" n="25" break="no"/>me, quia sunt in bono statu.
+  </p>
+      <p xml:id="jMqv4a-d1e1649-d1e442">
+   ⁋ Quinto arguitur. 
+   <lb ed="#B" n="26"/>dicit Christus. Matthaei. x. Qui amat patrem aut ma 
+   <lb ed="#B" n="27"/>trem plusquam me / non est me dignus.
+  </p>
+      <p xml:id="jMqv4a-d1e1649-d1e449">
+   ⁋ Ad primum 
+   <lb ed="#B" n="28"/>istorum conceditur maior: &amp; ad minorem dicitur: 
+   <lb ed="#B" n="29"/>quod si daretur aliquis qui mortem obiret nisi filius 
+   <lb ed="#B" n="30"/>professionem religionis differret: deberet differre. nam 
+   <lb ed="#B" n="31"/>conditionem particularem parentum nouit, &amp; nosse 
+   <lb ed="#B" n="32"/>tenetur, non sic autem aliorum: quia putat alios ad quos 
+   <lb ed="#B" n="33"/>spectat talis cura &amp; indago, circa hoc insistere 
+  </p>
+      <p xml:id="jMqv4a-d1e1649-d1e465">
+       <lb ed="#B" n="34"/>⁋ Ad tertium non admitto positum in argumento. 
+   <lb ed="#B" n="35"/>nam cuilibet religio christiana sufficit ad salutem: 
+   <lb ed="#B" n="36"/>quam homo seruare potest. &amp; si peccet / datur ei
+   re<lb ed="#B" n="37" break="no"/>medium per poenitentiam. sed si ita foret vt argu 
+   <lb ed="#B" n="38"/>mentum imaginatur: plus deberet curare salutem ani 
+   <lb ed="#B" n="39"/>mae suae quam vitam corporalem parentum: immo quam vi 
+   <lb ed="#B" n="40"/>tam corporalem propriam.
+  </p>
+      <p xml:id="jMqv4a-d1e1649-d1e483">
+   ⁋ Ad quartum nego pri 
+   <lb ed="#B" n="41"/>mam propositione quod solum sequatur mors corpo 
+   <lb ed="#B" n="42"/>ralis parentum: immo spiritualis mors filii obligati 
+   <lb ed="#B" n="43"/>parentibus succurrere ne pereant. &amp; esto /
+   parenti<lb ed="#B" n="44" break="no"/>bus conduceret corporaliter mori: filio hoc non con 
+   <lb ed="#B" n="45"/>ducit: qui ex praecepto diuino tenetur parentibus 
+   <lb ed="#B" n="46"/>subuenire: licet iacturam in spiritualibus faciat. 
+  </p>
+      <p xml:id="jMqv4a-d1e1649-d1e500">
+       <lb ed="#B" n="47"/>⁋ Ad quintum concedo auctoritatem vt iacet: quia 
+   <lb ed="#B" n="48"/>illic est sermo de illo qui ad fidem catholicam no 
+   <lb ed="#B" n="49"/>conuertitur, vel eam relinquit gratia parentum. is 
+   <lb ed="#B" n="50"/>enim peruertit charitatis ordinem: cum deus sit super 
+   <lb ed="#B" n="51"/>omnia diligendus. in proposito autem nostro propter 
+   <lb ed="#B" n="52"/>praeceptum dei iste succurrit parentibus. &amp; vbi deus 
+   <lb ed="#B" n="53"/>praeciperet vnum: &amp; parentes aliud: deo parentibus 
+   <lb ed="#B" n="54"/>relictis / parebit, quatenus parentibus succurrat. &amp; vbi 
+   <lb ed="#B" n="55"/>nullus alius eis prouidet non solum in extrema ne 
+   <!--0650.xml-->
+   <cb ed="#B" n="b"/> 
+       <!-- 309-v b -->
+       <lb ed="#B" n="56"/>cessitate: sed etiam differenda est religio potiusquam  
+   <lb ed="#B" n="57"/>notabile detrimentum patiantur: vtpote quod
+   mendi<lb ed="#B" n="58" break="no"/>cando, vel seruiendo vitam protegant / si ante erant 
+   <lb ed="#B" n="59"/>nonesti: non autem pro eorum pomposo statu, vel 
+   <lb ed="#B" n="60"/>ob eorum tristitiam. in iis enim verificatur illud Hie 
+   <lb ed="#B" n="61"/>ronymi ad Heliodorum. Per calcatum perge
+   pa<lb ed="#B" n="62" break="no"/>trem: per calcatam perge matrem. licet illud
+   me<lb ed="#B" n="63" break="no"/>ius quadret de assumptione religionis christianae. 
+  </p>
+      <p xml:id="jMqv4a-d1e1649-d1e546">
+       <lb ed="#B" n="64"/>⁋ Ecce quo modo quis tenetur religionem differre 
+   <lb ed="#B" n="65"/>ad tempus, &amp; forte perpetuo. 
+   <lb ed="#B" n="66"/>vbitatur. An sit multum
+   con<lb ed="#B" n="67" break="no"/>sultandum &amp; deliberandum de religione
+   profi<lb ed="#B" n="68" break="no"/>itenda. Respondetur: nullus debet tale 
+   <lb ed="#B" n="69"/>t onus subire sine matura liberatione / con 
+   <lb ed="#B" n="70"/>ferendo cum viris sapientibus &amp; deum timentibus: 
+   <lb ed="#B" n="71"/>non cum religiosis: quia omnes te ad suam religio 
+   <lb ed="#B" n="72"/>nem attrahere nitentur / si sis futurus eis vtilis in  
+   <lb ed="#B" n="73"/>spiritualibus vel corporalibus. In primis oportet 
+   <lb ed="#B" n="74"/>videre an in religione quam quis profiteri intendit / 
+   <lb ed="#B" n="75"/>sancte &amp; pie viuatur: an non. Si secundum: non est illic 
+   <lb ed="#B" n="76"/>profitendum. Si primum: oportet prospicere an is 
+   <lb ed="#B" n="77"/>de quo dubitatur: possit ferre onus rigidae
+   religio<lb ed="#B" n="78" break="no"/>nis. Non placet quod in. qui. vltima secundae secundae bea 
+   <lb ed="#B" n="79"/>tus Thomas dicit. Non confidat in propriis viribus. 
+   <lb ed="#B" n="80"/>quia in propriis viribus no confidit: sed in
+   bonita<lb ed="#B" n="81" break="no"/>te diuina. secundum illud Esaiae. xl. Qui sperant in  
+   <lb ed="#B" n="82"/>domino, mutabunt fortitudinem. Dico non esse 
+   <lb ed="#B" n="83"/>expectandam a deo miraculose nouam fortitudi 
+   <lb ed="#B" n="84"/>nem ob religionis professionem: quia non
+   ingre<lb ed="#B" n="85" break="no"/>diens sperat in domino, vt religiosus. Alia ratio 
+   <lb ed="#B" n="86"/>non valet. licet enim professio religionis in se sit 
+   <lb ed="#B" n="87"/>melior quam eius omissio: forte non huic. nam
+   contin<lb ed="#B" n="88" break="no"/>git quod homo melius ad salutem animae suae &amp; ad glo 
+   <lb ed="#B" n="89"/>tiam dei melius se habeat in saeculo qui in religione. 
+   <lb ed="#B" n="90"/>vtputa, habet solum vnum beneficium quo est 
+   <lb ed="#B" n="91"/>contentus: qui vel docet in schola: vel in templo 
+   <lb ed="#B" n="92"/>vtiliter ad populum declamat: de temporalibus 
+   <lb ed="#B" n="93"/>non est sollicitus: prouisionem sufficientem &amp; non 
+   <lb ed="#B" n="94"/>superfluam habet: viuit cum honesto famulo vel 
+   <lb ed="#B" n="95"/>famulis / procul a mulierum societate: &amp; a superbia 
+   <lb ed="#B" n="96"/>potest cauere in religione christiana / quam nouit
+   me<lb ed="#B" n="97" break="no"/>lius quam abbas. Tales enim doctos viros in
+   bo<lb ed="#B" n="98" break="no"/>nis vniuersitatibus, laudabiliter viuentes
+   plu<lb ed="#B" n="99" break="no"/>res dabis: ad quos indocti refugium habent: vt 
+   <lb ed="#B" n="100"/>ad oraculum Apollinis. Quibus, opinione mea, 
+   <lb ed="#B" n="101"/>non est consulendum / religionem profiteri. nam 
+   <lb ed="#B" n="102"/>episcopi &amp; curati iuxta praedicta sunt in ordine
+   al<lb ed="#B" n="103" break="no"/>tiore quam religiosi simplices. Vnde Gerson in
+   regu<lb ed="#B" n="104" break="no"/>lis moralibus vbi loquitur de superbia, bene
+   di<lb ed="#B" n="105" break="no"/>cit, stultum esse dicere quod de ingredienda
+   religio<lb ed="#B" n="106" break="no"/>ne consiliandum non sit: sed ad primam
+   inspiratio<lb ed="#B" n="107" break="no"/>nem ingrediendum.
+  </p>
+    </div>
+   </body>
+  </text>
+</TEI>

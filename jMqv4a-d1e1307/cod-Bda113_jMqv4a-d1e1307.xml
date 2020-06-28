@@ -1,0 +1,445 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 1</title>
+      <author ref="#JohnMair">John Mair</author>
+      <respStmt>
+       <name>Jeffrey C. Witt</name>
+       <resp>TEI Encoder</resp>
+      </respStmt>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 1</title>
+       <date when="2020-06-09">June 27, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="B" n="cod-Bda113">Badius 1516</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+     guidelines for a diplomatic edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-06-27" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+      <pb ed="#B" n="245-v"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="jMqv4a-d1e1307"> <!-- l4d25q1 -->
+      <head xml:id="jMqv4a-d1e1307-Hd1e104">Quaestio 1</head>
+      <head xml:id="jMqv4a-d1e1307-Hd1e107" type="question-title">Quid sit simonia</head>
+      <p xml:id="jMqv4a-d1e1307-d1e110">
+   <!--0522.xml-->
+       <pb ed="#B" n="245-v"/>
+       <cb ed="#B" n="a"/>
+       <lb ed="#B" n="1"/>⁋ Distinctionis Vigesimae quintae 
+   <lb ed="#B" n="2"/>Quaestio Prima. 
+   <lb ed="#B" n="3"/>VlA
+   Magi<lb ed="#B" n="4" break="no"/>ster in. iii. &amp;. iiii. ca 
+   <lb ed="#B" n="5"/>pitulis huius
+   Vi<lb ed="#B" n="6" break="no"/>gesimaequintae di 
+   <lb ed="#B" n="7"/>stinctionis de
+   si<lb ed="#B" n="8" break="no"/>monia loquitur:
+   id<lb ed="#B" n="9" break="no"/>circo de ea quaeram 
+   <lb ed="#B" n="10"/>aliqua. primo quid 
+   <lb ed="#B" n="11"/>sit simonia. quia 
+   <lb ed="#B" n="12"/>quid nominis est 
+   <lb ed="#B" n="13"/>principium
+   doctri<lb ed="#B" n="14" break="no"/>nae. in quaestionibus 
+   <lb ed="#B" n="15"/>sequentibus locuturus in speciali de casibus praus 
+   <lb ed="#B" n="16"/>tatis simoniacae suspectis.
+  </p>
+      <p xml:id="jMqv4a-d1e1307-d1e154">
+   ⁋ Simonia
+   communi<lb ed="#B" n="17" break="no"/>ter sic definitur. Simonia est studiosa voluntas emen 
+   <lb ed="#B" n="18"/>di vel vendendi spirituale vel spirituali annexum. 
+   <lb ed="#B" n="19"/>Sed Hostiensis dicit hanc definitionem esse dimi 
+   <lb ed="#B" n="20"/>nutam, &amp; addendum esse ( cum opere subsecuto) quia 
+   <lb ed="#B" n="21"/>in solo affectu non est simonia. ad hoc canones
+   al<lb ed="#B" n="22" break="no"/>legat. vt. i. qu. i. cap. Qui studet. Et eum commun 
+   <lb ed="#B" n="23"/>ter canonistae in hoc sequuntur, in cap. fi. huius
+   ti<lb ed="#B" n="24" break="no"/>tuli. Sed nec omino placet aliorum definitio: &amp; ea 
+   <lb ed="#B" n="25"/>quam ipse facit, minus valet: ac illam particulam 
+   <lb ed="#B" n="26"/>male superaddit. Assertiones has sic ostendo. Omnis 
+   <lb ed="#B" n="27"/>simonia est peccatum commissionis: nulla volun 
+   <lb ed="#B" n="28"/>tas est peccatum commissionis, cum sit anima: ergo nul 
+   <lb ed="#B" n="29"/>la voluntas est simonia. consequentia tenet in
+   se<lb ed="#B" n="30" break="no"/>cundo modo secundae figurae. Sed dices. voluntas 
+   <lb ed="#B" n="31"/>capitur loco volitionis. Contra hoc arguo. hic adhuc 
+   <lb ed="#B" n="32"/>est simonia. nolo dare beneficium nisi habeam pe 
+   <lb ed="#B" n="33"/>cuniam: &amp; tamen non est volitio. Secundo mali 
+   <lb ed="#B" n="34"/>additur( studiosa, quia vel per (studiosa) intelligis 
+   <lb ed="#B" n="35"/>frequentationem actuum vel deliberationem in actu 
+   <lb ed="#B" n="36"/>Non primum: quia si primus actus non fuerit si 
+   <lb ed="#B" n="37"/>monia: nec aliquis posterior. Non secundum: quia 
+   <lb ed="#B" n="38"/>motus secundo primus simoniacus, vel actus non 
+   <lb ed="#B" n="39"/>plene deliberatus est simonia, quod patet in omnibus 
+   <lb ed="#B" n="40"/>inductiue de odio, ira, &amp; periurio, indeliberatis: e 
+   <lb ed="#B" n="41"/>manent in denominatione totius.
+  </p>
+      <p xml:id="jMqv4a-d1e1307-d1e212">
+   ⁋ Contra dictum 
+   <lb ed="#B" n="42"/>Hostiensis arguitur sic. probando quod sit aliqua simo 
+   <lb ed="#B" n="43"/>nia sine opere subsecuto. &amp; hoc sic. lste actus est pec 
+   <lb ed="#B" n="44"/>catum, volo emere beneficium pecunia: &amp; ad nul 
+   <lb ed="#B" n="45"/>lum aliud vitium spectat quam ad simoniam. igitur. 
+   <lb ed="#B" n="46"/>Insuper simonia a Simone mago procedens &amp;
+   no<lb ed="#B" n="47" break="no"/>men infame gerens / non habuit opus subsecutum. 
+   <lb ed="#B" n="48"/>vt videre est Actuum. viii. Praeterea qui vult mo 
+   <lb ed="#B" n="49"/>chari &amp; non moechatur in opere / moechiam comi 
+   <lb ed="#B" n="50"/>mittit / sicut opere adimplens: iuxta saluatoris sen 
+   <lb ed="#B" n="51"/>tentiam. Matth. v. Qui viderit mulierem ad concu 
+   <lb ed="#B" n="52"/>piscendum eam: iam moechatus est eam in corde 
+   <lb ed="#B" n="53"/>suo. Canones autem inducti intelliguntur de poe 
+   <!--0522.xml-->
+   <cb ed="#B" n="b"/> 
+       <!-- 245-v b -->
+       <lb ed="#B" n="54"/>nis canonicis non illatis: vt de suspensione &amp;
+   hu<lb ed="#B" n="55" break="no"/>iusmodi.
+  </p>
+      <p xml:id="jMqv4a-d1e1307-d1e251">
+   ⁋ Aliter ergo definio simoniam sic. Si 
+   <lb ed="#B" n="56"/>monia est volitio in forma vel in valore emendi 
+   <lb ed="#B" n="57"/>vel vendendi spirituale vel spirituali annexum. Hio 
+   <lb ed="#B" n="58"/>emere &amp; vendere extenduntur ad omnem
+   contra<lb ed="#B" n="59" break="no"/>ctum non gratuitum. Dixi(in valore) propter talem 
+   <lb ed="#B" n="60"/>actum: nolo dare beneficium nisi habuero
+   pecu<lb ed="#B" n="61" break="no"/>niam: qui in se parit volitionem. Omnes autem
+   spiritua<lb ed="#B" n="62" break="no"/>lium emptores vel venditores simoniacos appe 
+   <lb ed="#B" n="63"/>lant. Et eodem modo de suis annexis. Vnde cap. iii. 
+   <lb ed="#B" n="64"/>dicit Magister. Nam quisquis horum alterum vendit 
+   <lb ed="#B" n="65"/>sine quo alterum non habetur: neutrum vendere de 
+   <lb ed="#B" n="66"/>relinquit. Et patet per Paschalem papam. i. q. iii. ca 
+   <lb ed="#B" n="67"/>Si quis obiecerit. quia idem iuris est in vnum
+   con<lb ed="#B" n="68" break="no"/>nexorum quod in reliquum. iii. qui. v. Haec quippe. &amp;. f 
+   <lb ed="#B" n="69"/>de iureiuran. Eum qui. S. Si libertus. ergo ex ratione 
+   <lb ed="#B" n="70"/>&amp; vsu loquendi patet definitionem esse bonam. Et 
+   <lb ed="#B" n="71"/>licet Balaam prophetiae donum vendere voluerit, 
+   <lb ed="#B" n="72"/>vt patet Numeri. xxii. &amp; recitat Petrus in
+   canoni<lb ed="#B" n="73" break="no"/>ca secunda. cap. ii. dicens. Cor exercitatum in aua 
+   <lb ed="#B" n="74"/>ritia habentes: maledictionis filii: derelinquentes 
+   <lb ed="#B" n="75"/>rectam viam errauerunt: sequuti viam Balaam ex 
+   <lb ed="#B" n="76"/>Bosor qui mercedem iniquitatis amauit: correptio 
+   <lb ed="#B" n="77"/>nem vero habuit suae vesaniae. subiugale mutum 
+   <lb ed="#B" n="78"/>animal in hominis voce loquens prohibuit
+   prophe<lb ed="#B" n="79" break="no"/>tae insipientiam. In Epistola quoque ludae scribitur. 
+   <lb ed="#B" n="80"/>Et in errore Balaam mercede effusi sunt. Et Giezi 
+   <lb ed="#B" n="81"/>pro cura leprae praecium accepit. iiii. Reg. v. haec tamen 
+   <lb ed="#B" n="82"/>pestis non vocatur Balaamia, nec Giezia: sed simo 
+   <lb ed="#B" n="83"/>nia. Nomina enim ad placitum significant. Nec est 
+   <lb ed="#B" n="84"/>quaerenda vrgens ratio. licet congruentia hic
+   dar<lb ed="#B" n="85" break="no"/>possit quare simonia vocetur: a Simone scilicet ma 
+   <lb ed="#B" n="86"/>go qui emere voluit spirituale vt iterato venderet: &amp; 
+   <lb ed="#B" n="87"/>in lege gratiae. iuxta illud Baptistae Mantuani in pri 
+   <lb ed="#B" n="88"/>mo libro <name xml:id="jMqv4a-d1e1307-Nd1e324">Alphonsi</name> dicentis. Volitansque per aera 
+   <lb ed="#B" n="89"/>Simon Infamis magus &amp; lucri execrabilis auctor. 
+  </p>
+      <p xml:id="jMqv4a-d1e1307-d1e330">
+       <lb ed="#B" n="90"/>⁋ Ex dictis infero aliquas propositiones: quarum 
+   <lb ed="#B" n="91"/>prima est. Idem valet dicere: est simonia: &amp; emitur 
+   <lb ed="#B" n="92"/>vel venditur spirituale vel spirituali annexum. Secun 
+   <lb ed="#B" n="93"/>do sequitur quod simonia est mentalis: &amp; per
+   conse<lb ed="#B" n="94" break="no"/>quens multum ignota: licet per exteriora nonnur 
+   <lb ed="#B" n="95"/>quam homines in notitiam eius perfectam vel caligino  
+   <lb ed="#B" n="96"/>sam deueniant. Textus autem in cap. Mandato 
+   <lb ed="#B" n="97"/>de simo. in antiquis. de mentali simonia loquens di 
+   <lb ed="#B" n="98"/>cit quod sufficit delinquentibus per solam poenitentiam 
+   <lb ed="#B" n="99"/>satisfacere suo creatori: &amp; eos pro simonia huius 
+   <lb ed="#B" n="100"/>modi non teneri. hoc est: post poenitentiam non 
+   <lb ed="#B" n="101"/>sunt simoniaci: &amp; poenae iuris no subiiciuntur.
+   Ter<lb ed="#B" n="102" break="no"/>tio sequitur quod aliqua est simonia sine pacto. vt Si 
+   <lb ed="#B" n="103"/>monis. magi. Quarto sequitur quod Romanus
+   pon<lb ed="#B" n="104" break="no"/>tifex potest simoniam committere vt alius. Nam 
+   <lb ed="#B" n="105"/>tota definitio potest ei competere. Et propterea ab 
+   <lb ed="#B" n="106"/>illa abhorrebat Petrus ne pecuniam a Simone
+   ma<lb ed="#B" n="107" break="no"/>go acciperet. Quinto sequitur quod aliqua est
+   simo<lb ed="#B" n="108" break="no"/>nia conditionalis. vt vellem emere beneficium si 
+   <!--0523.xml-->
+   <pb ed="#B" n="246-r"/>
+       <cb ed="#B" n="a"/>
+       <lb ed="#B" n="1"/>iste vellet vendere. aliqua est absolute categorica. 
+   <lb ed="#B" n="2"/>Sexto sequitur quod non omis simoniacus tenetur 
+   <lb ed="#B" n="3"/>ad restitutionem, quod patet: quia aliquis est
+   simonia<lb ed="#B" n="4" break="no"/>cus qui nihil simoniace habuit. Septimo sequitu 
+   <lb ed="#B" n="5"/>quod aliquis est simoniacus in quo non est actus simo 
+   <lb ed="#B" n="6"/>niae: vt dormiens: vel actum non habens qui
+   bene<lb ed="#B" n="7" break="no"/>ficium emit: &amp; adhuc non sufficienter poenituit.
+   ha<lb ed="#B" n="8" break="no"/>bitus enim non sufficit aliquem denominare simo 
+   <lb ed="#B" n="9"/>niacum. vt patet de habitu remanente: actu simo 
+   <lb ed="#B" n="10"/>niae purgato. Octauo sequitur quod haec pestis fuit in 
+   <lb ed="#B" n="11"/>ecclesia antequam vocaretur simonia. patet ex dictis. 
+   <lb ed="#B" n="12"/>Nono. interdum est simonia ex parte vendentis tamtnum: 
+   <lb ed="#B" n="13"/>interdum ementis tamtum: nonnunquam ex parte vtriusque 
+   <lb ed="#B" n="14"/>Decimo sequitur / quod aliquis est simoniace promotus 
+   <lb ed="#B" n="15"/>qui tamen non est simoniacus. patet si parentes Ti 
+   <lb ed="#B" n="16"/>tii penitus ignorantes ei beneficium emant: iam titu 
+   <lb ed="#B" n="17"/>lo simoniaco beneficium acquirit: &amp; cum sit in igno 
+   <lb ed="#B" n="18"/>rantia inuincibili non est simoniacus. Similiter ali 
+   <lb ed="#B" n="19"/>quis est simoniacus &amp; non simoniace promotus: vi 
+   <lb ed="#B" n="20"/>quando episcopus dat alicui iustum titulum in be 
+   <lb ed="#B" n="21"/>neficio: &amp; alter mentaliter vellet beneficium emere: 
+   <lb ed="#B" n="22"/>sed in opus non exit. Tertius est simoniacus simo 
+   <lb ed="#B" n="23"/>niace promotus. quod autem aliquis sit neque
+   simonia<lb ed="#B" n="24" break="no"/>cus neque simoniace promotus, non cadit in
+   du<lb ed="#B" n="25" break="no"/>bium. 
+  </p>
+      <p xml:id="jMqv4a-d1e1307-d1e434">
+       <lb ed="#B" n="26"/>⁋ lam paucis contra definitionem in 
+   <lb ed="#B" n="27"/>tabo. pro intelligentia istius vocabuli(spirituale &amp; 
+   <lb ed="#B" n="28"/>pirituali annexum) Arguitur sic. Simoniacum est 
+   <lb ed="#B" n="29"/>vendere sacramenta: &amp; tamen ipsa sunt pure
+   cor<lb ed="#B" n="30" break="no"/>poralia, vt in singulorum sacramentorum exordiis 
+   <lb ed="#B" n="31"/>explanare conati sumus. Forte dicis: sunt annexa 
+   <lb ed="#B" n="32"/>spiritualibus. Contra. sic sunt fructus beneficiorum: 
+   <lb ed="#B" n="33"/>libri, &amp; calices: qui tamen venduntur.
+  </p>
+      <p xml:id="jMqv4a-d1e1307-d1e454">
+   ⁋ Responde 
+   <lb ed="#B" n="34"/>tur. quis potest sic capere spirituali annexum vt spi 
+   <lb ed="#B" n="35"/>ritualia includat &amp; econuerso. sed illa non est
+   inten<lb ed="#B" n="36" break="no"/>tio definitionis. Spirituale concretum vocabuli spi 
+   <lb ed="#B" n="37"/>ritus in vna acceptione corpori non convenit. quo 
+   <lb ed="#B" n="38"/>modo dixit Christus. Spiritus carnem &amp; ossa non 
+   <lb ed="#B" n="39"/>habet. Lucae vltimo. Dicimus tamen virum deuo 
+   <lb ed="#B" n="40"/>tum spiritualem: &amp; visionem magis spiritualem quam au 
+   <lb ed="#B" n="41"/>ditionem. quia secundum materiam subiectam seir 
+   <lb ed="#B" n="42"/>mones accipiendi sunt, vt vulgo dicitur. Ali 
+   <lb ed="#B" n="43"/>quid autem est spirituale per essentiam: vt gratia &amp; 
+   <lb ed="#B" n="44"/>virtutes. Secundo per causalitatem: vt
+   sacramen<lb ed="#B" n="45" break="no"/>ta quae sunt causa gratiae / characteris / vel ornatus in 
+   <lb ed="#B" n="46"/>anima. Tertia sunt spiritualia per effectum.
+   Con<lb ed="#B" n="47" break="no"/>tra hoc arguitur. sic actus meritorius esset spirituale 
+   <lb ed="#B" n="48"/>secundo modo: &amp; homo praedicans vel docens: si 
+   <lb ed="#B" n="49"/>militer scientia creata quae vendi potest: non quod de 
+   <lb ed="#B" n="50"/>subiecto in subiectum transeat: sed de per accidens 
+   <lb ed="#B" n="51"/>ad venditionem scientis: vel sciens scientiam pro 
+   <lb ed="#B" n="52"/>ducit in alium: &amp; ratione illius potest capere praeciun 
+   <lb ed="#B" n="53"/>temporale vt postea dicetur. Dico spirituale in pro 
+   <lb ed="#B" n="54"/>posito esse illud quod ordinatur ad opus quod mi- 
+   <!--0523.xml-->
+   <cb ed="#B" n="b"/> 
+       <!-- 246-r b -->
+       <lb ed="#B" n="55"/>raculose &amp; supernaturaliter speratur a spiritu
+   san<lb ed="#B" n="56" break="no"/>cto. exempla sunt: vt sacramenta quae
+   ordinan<lb ed="#B" n="57" break="no"/>tur ad infusionem gratiae virtute operis operati:  
+   <lb ed="#B" n="58"/>dare virtutem: miraculose infirmum curare: variis 
+   <lb ed="#B" n="59"/>loqui linguis: prophetizare: &amp; caetera id genus
+   pro<lb ed="#B" n="60" break="no"/>pterea Heliseus nolebat accipere aliquid pro miracu 
+   <lb ed="#B" n="61"/>losa cura Naaman Syri. &amp; illud quadrat cum respon 
+   <lb ed="#B" n="62"/>so Petri Actuum. viii. Cum vidisset autem Simon 
+   <lb ed="#B" n="63"/>quia per impositionem manus apostolorum
+   da<lb ed="#B" n="64" break="no"/>retur spiritus sanctus ( hoc est eius donum:
+   vide<lb ed="#B" n="65" break="no"/>licet loqui variis linguis: &amp; more apostolorum su 
+   <lb ed="#B" n="66"/>pernaturaliter agere) obtulit eis pecuniam dicens. 
+   <lb ed="#B" n="67"/>Date &amp; mihi hanc potestatem, vt cuicumque
+   impo<lb ed="#B" n="68" break="no"/>suero manus, accipiat spiritum sanctum. Petrus au 
+   <lb ed="#B" n="69"/>tem dixit ad eum. Pecunia tua tecum sit in
+   perdi<lb ed="#B" n="70" break="no"/>tionem: quoniam donum dei existimasti pecunia possi 
+   <lb ed="#B" n="71"/>deri. Et Matth. x. Christus praemissis miraculis apo 
+   <lb ed="#B" n="72"/>tolis dandis: subiunxit. Gratis accepistis: gratis
+   da<lb ed="#B" n="73" break="no"/>te. supple hoc. Si autem theologia esset alicui infu 
+   <lb ed="#B" n="74"/>sa vel alia scientia: quam homo naturaliter alios do 
+   <lb ed="#B" n="75"/>cendo applicat: pro laboribus &amp; scientia quam do 
+   <lb ed="#B" n="76"/>cet / posset capere lucrum: sicut pro scientia natura 
+   <lb ed="#B" n="77"/>liter acquisita. Ipsa igitur sacramenta &amp; facere illa 
+   <lb ed="#B" n="78"/>supernaturalia sunt spiritualia. Annexum spirituali 
+   <lb ed="#B" n="79"/>est ius quod habet aliquis in fructibus percipiendis ra 
+   <lb ed="#B" n="80"/>tione officii diuini: &amp; illud quod ad tale officium prae 
+   <lb ed="#B" n="81"/>cise manutenendum ordinatur: vt in fine septimae 
+   <lb ed="#B" n="82"/>quaestionis dicetur. labor autem licet hic annecta: 
+   <lb ed="#B" n="83"/>tur: est vnum commune: quod in quolibet officio 
+   <lb ed="#B" n="84"/>est necessarium. quare non est spirituali annexum 
+   <lb ed="#B" n="85"/>&amp; sicut scientia acquisita non est spirituale in pro 
+   <lb ed="#B" n="86"/>posito: ita nec libri nec alia necessaria sunt
+   spiri<lb ed="#B" n="87" break="no"/>tuali annexa vt in proposito capimus. Ex quo 
+   <lb ed="#B" n="88"/>sequitur quod non omne spirituale per essentiam est 
+   <lb ed="#B" n="89"/>spirituale vt in proposito capimus: quod patet de 
+   <lb ed="#B" n="90"/>scientia acquisita. 
+  </p>
+      <p xml:id="jMqv4a-d1e1307-d1e586">
+       <lb ed="#B" n="91"/>⁋ Sed aliqui tenent quod labor in spiritua 
+   <lb ed="#B" n="92"/>libus exhibitus non est venalis. sic enim tenet
+   Du<lb ed="#B" n="93" break="no"/>randus &amp; Paludanus: quia secus dicendo esset
+   pal<lb ed="#B" n="94" break="no"/>liatio simoniae, nec est verosimile ( dicunt) quod pro tam 
+   <lb ed="#B" n="95"/>paruo labore daretur tantum pecuniae: vt videmus. 
+   <lb ed="#B" n="96"/>in celebrante missam: cui sex parui albi porriguntur. 
+   <lb ed="#B" n="97"/>Sed illae rationes non concludunt. Ratio est: quia 
+   <lb ed="#B" n="98"/>celebrans vel aliud diuinum officium faciens pro 
+   <lb ed="#B" n="99"/>pecunia potest dicere se pecuniam capere ratione 
+   <lb ed="#B" n="100"/>sustentationis: quod est licitum secundum omes. 
+   <lb ed="#B" n="101"/>Et sic esset tanta palliatio in vendendis spirituali 
+   <lb ed="#B" n="102"/>bus accipiendo pecuniam ratione sustentationis 
+   <lb ed="#B" n="103"/>quanta ratione laboris. Nec aliud concludit: quod pro 
+   <lb ed="#B" n="104"/>tam paruo labore quem habet sacerdos celebran 
+   <lb ed="#B" n="105"/>do capiat sex paruos albos. quia illos capit tam
+   ra<lb ed="#B" n="106" break="no"/>tione laboris quam ratione sustentationis. nam celebran 
+   <lb ed="#B" n="107"/>do opus totius diei compleuit. Pro vesperis enim 
+   <lb ed="#B" n="108"/>&amp; aliis horis nihil ei conferri solet. Etiam vnus pro 
+   <!--0524.xml-->
+   <pb ed="#B" n="246-v"/>
+       <cb ed="#B" n="a"/>
+       <lb ed="#B" n="1"/>paruo labore plus capit quam alter multum laborans 
+   <lb ed="#B" n="2"/>vt aduocatus: &amp; ferens lapides. Et quod pro labore ad 
+   <lb ed="#B" n="3"/>ipere liceat, patet Numeri. xviii. vbi scribitur. Filiis 
+   <lb ed="#B" n="4"/>Leui dedi omnes decimas Israel pro ministerio quo sei 
+   <lb ed="#B" n="5"/>uiunt mihi in tabernaculo foederis. &amp; paulo post 
+   <lb ed="#B" n="6"/>sequitur. Comedetis eas vos &amp; familiae vestrae: quia 
+   <lb ed="#B" n="7"/>ocium est pro ministerio quo seruitis in
+   taberna<lb ed="#B" n="8" break="no"/>culo testimonii. Hinc tenet glossa in ca. Significa 
+   <lb ed="#B" n="9"/>tum. de praebem. quod licet sacerdoti locare operas ad cer 
+   <lb ed="#B" n="10"/>tum tempus: &amp; recipere mercedem pro suo
+   labo<lb ed="#B" n="11" break="no"/>re: si alioquin ratione beneficii ad hoc non tenetur: 
+   <lb ed="#B" n="12"/>conformiter ad legem diuinam vnicuique mercedem 
+   <lb ed="#B" n="13"/>secundum suum laborem reddentem. hoc item te 
+   <lb ed="#B" n="14"/>net Bonauentura hic. Praeterea aliud est quod
+   mul<lb ed="#B" n="15" break="no"/>tum mouet. Nam facultas nostra a. xxxiiii. annis 
+   <lb ed="#B" n="16"/>praeteritis contra <name xml:id="jMqv4a-d1e1307-Nd1e668">fratrem Ioannem angeli</name> qui in  
+   <lb ed="#B" n="17"/>iiii. articulo sic praedicabat: Curatus parochialis ni 
+   <lb ed="#B" n="18"/>hil debet recipere a parochianis suis pro confessione 
+   <lb ed="#B" n="19"/>&amp; sacramentorum administratione. sic definiuit. 
+   <lb ed="#B" n="20"/>Haec propositio est contra dispositionem iuris na 
+   <lb ed="#B" n="21"/>turalis &amp; diuini expresse: ideo falsa &amp; notorie haere 
+   <lb ed="#B" n="22"/>tica. Nam sacerdos non capit pro sacramentis sed  
+   <lb ed="#B" n="23"/>pro eorum administratione: quae actionem &amp;
+   labo<lb ed="#B" n="24" break="no"/>rem importat.
+  </p>
+      <p xml:id="jMqv4a-d1e1307-d1e690">
+   ⁋ Sed vtrum quis pro doctrina /
+   com<lb ed="#B" n="25" break="no"/>silio / vel testimonio possit accipere pecuniam: est 
+   <lb ed="#B" n="26"/>materia problematica. Altisiodorus tertia parte: 
+   <lb ed="#B" n="27"/>quaest. penultima de simonia, dicit simoniacum es 
+   <lb ed="#B" n="28"/>se aliquid capere pro doctrina. bene autem capit quis 
+   <lb ed="#B" n="29"/>pro labore: vt sacerdos conductus accipit pro
+   la<lb ed="#B" n="30" break="no"/>bore, quem modum <ref xml:id="jMqv4a-d1e1307-Rd1e705">
+        <name xml:id="jMqv4a-d1e1307-Nd1e707" ref="#AlexanderOfHales">Alexander Halensis</name> in secun 
+   <lb ed="#B" n="31"/>da parte</ref> insequitur. Alius autem modus est sicut 
+   <lb ed="#B" n="32"/>ommunior: ita &amp; verisimilior: quod actus spirituales a 
+   <lb ed="#B" n="33"/>piritu creato procedentes vendi possunt. probatur: 
+   <lb ed="#B" n="34"/>quia alioquin non liceret artifici pecuniam pro suo ar 
+   <lb ed="#B" n="35"/>tificio capere: cuius oppositum asserunt omes. Nec 
+   <lb ed="#B" n="36"/>sufficit dicere quod capit ratione laboris. quia sic sem 
+   <lb ed="#B" n="37"/>per magis laborans deberet plus capere: quod est fal 
+   <lb ed="#B" n="38"/>sum. Item iurisperitus consilium, &amp; aduocatus pa 
+   <lb ed="#B" n="39"/>trocinium vendere potest.
+  </p>
+      <p xml:id="jMqv4a-d1e1307-d1e731">
+   ⁋ Sed contra istud argui 
+   <lb ed="#B" n="40"/>tur argumento Altisiodori. Ars fabtilis vendi non 
+   <lb ed="#B" n="41"/>potest: ergo nulla ars. antecedens patet: quia est do 
+   <lb ed="#B" n="42"/>num dei: vt dicit glossa interlinearis Exodi. xxxi 
+   <lb ed="#B" n="43"/>super illud. Et impleui eum (Beseleebspiritu dei,
+   sapien<lb ed="#B" n="44" break="no"/>tia &amp; intelligentia, &amp; scientia in omni opere ad ex 
+   <lb ed="#B" n="45"/>cogitandum quicquid fabrefieri poterit. Respon 
+   <lb ed="#B" n="46"/>detur. licet quaelibet res mundi sit donum dei &amp; ars 
+   <lb ed="#B" n="47"/>quaecumque illuminans intellectum: tamen hoc non sufficit ad 
+   <lb ed="#B" n="48"/>sprutuale in proposito. vt patet ex dictis.
+  </p>
+      <p xml:id="jMqv4a-d1e1307-d1e753">
+   ⁋ Secundo ar 
+   <lb ed="#B" n="49"/>guitur. posse vendere scientiam sine simonia est contra 
+   <lb ed="#B" n="50"/>determinationem Romani pontificis de magist. ca. 
+   <lb ed="#B" n="51"/>i. &amp;. ii. nam in cap. i. S. Pro licentia vero docedi. sic 
+   <lb ed="#B" n="52"/>scribitur. Pro licentia vero docendi nullus praecium 
+   <lb ed="#B" n="53"/>exigat: vel sub obtentu alicuius consuetudinis ab 
+   <lb ed="#B" n="54"/>eis quos docet / aliquid quaerat. Et in capitulo sequen 
+   <!--0524.xml-->
+   <cb ed="#B" n="b"/> 
+       <!-- 246-v b -->
+       <lb ed="#B" n="55"/>te. Prohibeas ne in parochia tua pro licentia docen 
+   <lb ed="#B" n="56"/>di exigatur aliquid: aut etiam promittatur. Si quid 
+   <lb ed="#B" n="57"/>vero postea solutum fuerit vel promissum: remit 
+   <lb ed="#B" n="58"/>ti promissum facias: &amp; restitui ap. cessante solutum: 
+   <lb ed="#B" n="59"/>ciens quod scriptum est. Gratis accepistis / gratis 
+   <lb ed="#B" n="60"/>date.
+  </p>
+      <p xml:id="jMqv4a-d1e1307-d1e788">
+   ⁋ Respondetur negando quod illud quod
+   dixi<lb ed="#B" n="61" break="no"/>nus sit contra pontificis determinationem. Illic 
+   <lb ed="#B" n="62"/>enim non prohibetur accipere aliquid pro doctri 
+   <lb ed="#B" n="63"/>na: immo licitum est &amp; capere &amp; petere tam pro
+   do<lb ed="#B" n="64" break="no"/>ctrina quam pro labore in docendo habito: si quis non 
+   <lb ed="#B" n="65"/>fuerit ad hoc stipendiis deuinctus. Sed prohibet 
+   <lb ed="#B" n="66"/>illic pontifex capere pecuniam pro danda
+   facul<lb ed="#B" n="67" break="no"/>tate alicui ad docendum: quia sic inidonei essent 
+   <lb ed="#B" n="68"/>admissi. Et propterea in cap. i. de magist. allegato 
+   <lb ed="#B" n="69"/>prohibet pontifex negare idoneo facultatem
+   do<lb ed="#B" n="70" break="no"/>endi: inquiens. Nec docere quemquam nisi qui sit ido. 
+   <lb ed="#B" n="71"/>neus / petita licentia illis interdicat. Qui autem con 
+   <lb ed="#B" n="72"/>tra hoc venire praesumpserit: ab ecclesiastico fiat 
+   <lb ed="#B" n="73"/>peneficio alienus. Dignum quippe videtur vt in  
+   <lb ed="#B" n="74"/>ecclesia fructus sui laboris non habeat: qui
+   cupi<lb ed="#B" n="75" break="no"/>ditate animi dum vendit docendi licentiam: eccle 
+   <lb ed="#B" n="76"/>siasticum profectum nititur impedire. Et propter 
+   <lb ed="#B" n="77"/>ea Cardinalis Cameracensis quendam
+   tractatu<lb ed="#B" n="78" break="no"/>lum contra cancellarium Parisiensem scripsit:
+   osten<lb ed="#B" n="79" break="no"/>dere laborans simoniacum esse, pro licentiae
+   mu<lb ed="#B" n="80" break="no"/>nere aliquid accipere. Et hoc patet ex ca. duobus 
+   <lb ed="#B" n="81"/>allegatis.
+  </p>
+      <p xml:id="jMqv4a-d1e1307-d1e836">
+   ⁋ Hactenus quid nominis simoniae spi 
+   <lb ed="#B" n="82"/>ritualis &amp; spirituali annexi: &amp; quod licitum est in spi 
+   <lb ed="#B" n="83"/>ritualium administratione, vt sacramentorumi 
+   <lb ed="#B" n="84"/>aut quorumcunque aliorum, aliquid temporale
+   ac<lb ed="#B" n="85" break="no"/>cipere: nedum pro sustentatione: sed &amp; pro labore 
+   <lb ed="#B" n="86"/>ipso. Etiam quis spirituale creatum vendere
+   po<lb ed="#B" n="87" break="no"/>test: vt pictor pro suae artis eruditione: &amp; similiter 
+   <lb ed="#B" n="88"/>citharoedus aliquid accipit: &amp; non pro solo
+   labo<lb ed="#B" n="89" break="no"/>re. in arte autem eruditus &amp; ingeniosus quamquam minus 
+   <lb ed="#B" n="90"/>laboris habet quam ineruditus &amp; rudis: plus praemi 
+   <lb ed="#B" n="91"/>capit. &amp; ita denique in omnibus artificiis: non tamen 
+   <lb ed="#B" n="92"/>quasi artem sibi inhaerentem in alium producat:  
+   <lb ed="#B" n="93"/>quia accidens de subiecto in subiectum migrare 
+   <lb ed="#B" n="94"/>naturalis philosophia non permittit. sed lumen 
+   <lb ed="#B" n="95"/>lumen spirituale causat in passum susceptiuum: 
+   <lb ed="#B" n="96"/>sicut vnum corpus luminosum ab alio
+   illumina<lb ed="#B" n="97" break="no"/>tur. verum in luminis spiritualis productione passum 
+   <lb ed="#B" n="98"/>nedum patitur: sed agit. quod in corporali
+   lumi<lb ed="#B" n="99" break="no"/>ne non contingit. Praeterea vigilanter considera quod 
+   <lb ed="#B" n="100"/>siue dicas laborem venalem: siue scientiam crea 
+   <lb ed="#B" n="101"/>tam / siue non: non amplius dilatatur os simoniae 
+   <lb ed="#B" n="102"/>quam dicendo oppositum. Patet exemplo de tribus 
+   <lb ed="#B" n="103"/>doctis artificibus aut philosophis / paribus tam 
+   <lb ed="#B" n="104"/>in traditione artis quam in eruditione: aequalem pecu 
+   <lb ed="#B" n="105"/>niam accipientibus: quorum vnus dicat se
+   ca<lb ed="#B" n="106" break="no"/>pere prosustentatione sui &amp; suorum. Alius pro 
+   <lb ed="#B" n="107"/>labore quem non tenetur aliis gratis impendere: 
+   <lb ed="#B" n="108"/>&amp; nihil pro sua scientia. Tertius autem dicat se ac- 
+   <!--0525.xml-->
+   <pb ed="#B" n="247-r"/>
+       <cb ed="#B" n="a"/>
+       <lb ed="#B" n="1"/>cipere tam pro sustentatione &amp; labore quam pro suae 
+   <lb ed="#B" n="2"/>artis traditione. Et hoc patet in administratione sa 
+   <lb ed="#B" n="3"/>cramentorum. fateor tamen quod licet aliquid accipe 
+   <lb ed="#B" n="4"/>re vno respectu: &amp; non alio. vt postea in eadem distin  
+   <lb ed="#B" n="5"/>ctione elucescet 
+  </p>
+    </div>
+   </body>
+  </text>
+</TEI>

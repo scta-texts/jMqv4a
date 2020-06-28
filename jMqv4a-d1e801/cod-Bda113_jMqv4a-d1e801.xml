@@ -1,0 +1,951 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 2</title>
+      <author ref="#JohnMair">John Mair</author>
+      <respStmt>
+       <name>Jeffrey C. Witt</name>
+       <resp>TEI Encoder</resp>
+      </respStmt>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 2</title>
+       <date when="2020-06-09">June 27, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="B" n="cod-Bda113">Badius 1516</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+     guidelines for a diplomatic edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-06-27" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+      <pb ed="#B" n="2-v"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="jMqv4a-d1e801"> <!-- l4prolq2 -->
+      <head xml:id="jMqv4a-d1e801-Hd1e104">Quaestio 2</head>
+      <head xml:id="jMqv4a-d1e801-Hd1e107" type="question-title">Quid opus sit facto in contrarietate positionum seu opinionum</head>
+      <p xml:id="jMqv4a-d1e801-d1e110">
+   <!--0036.xml-->
+       <pb ed="#B" n="2-v"/>
+       <cb ed="#B" n="a"/>
+       <lb ed="#B" n="1"/>⁋ Secunda Quaestio in Prologum. 
+   <lb ed="#B" n="2"/>Ecundo quaeritur quid 
+   <lb ed="#B" n="3"/>in contrarietate opinionum
+   po<lb ed="#B" n="4" break="no"/>tissimum mores tangentium
+   facien<lb ed="#B" n="5" break="no"/>dum sit. Mouetur haec quaestio: quia 
+   <lb ed="#B" n="6"/>creberrime sapientes tenent
+   co<lb ed="#B" n="7" break="no"/>traria in materia morum: vt de 
+   <lb ed="#B" n="8"/>aliquibus beneficiis &amp; contractibus 
+   <lb ed="#B" n="9"/>an sint liciti: de quibus in xv. distin. xxiiii. xxv. &amp; 
+   <lb ed="#B" n="10"/>in aliis mentionem facio, vbi ad hanc quaestionem 
+   <lb ed="#B" n="11"/>remitto. Volumus itaque inquirere qua via
+   proce<lb ed="#B" n="12" break="no"/>dendum sit in talibus problematibus. 
+  </p>
+      <p xml:id="jMqv4a-d1e801-d1e145">
+       <lb ed="#B" n="13"/>⁋ Hic vnam notatiunculam
+   praepone<lb ed="#B" n="14" break="no"/>mus: postea pro conclusiones sicut in quaestione prae 
+   <lb ed="#B" n="15"/>cedenti fecimus respondebimus. Notato quod propter 
+   <lb ed="#B" n="16"/>hominium ignorantiam tanta introducta est opinionum plu 
+   <lb ed="#B" n="17"/>ralitas post primi parentis peccatum, vt nostrum scire 
+   <lb ed="#B" n="18"/>ad ignorare comparatum nihil sit aliquid tamen remedii 
+   <lb ed="#B" n="19"/>compertum est: vt ingeniosiores: exercitatiores: &amp; bo 
+   <lb ed="#B" n="20"/>ni sint sibi ipsis &amp; aliis perpendiculum viuendi &amp; docendi 
+   <lb ed="#B" n="21"/>luxta illud Iob. i. Boues arabant &amp; asinae pasceba 
+   <lb ed="#B" n="22"/>tur iuxta eos. Et hoc dum alii eis fidem praestiterit. vt 
+   <lb ed="#B" n="23"/>enim dicitur primo posteriorum: non oportet discipulum 
+   <lb ed="#B" n="24"/>esse incredulum. Verum contingit opinari contraria: vel 
+   <lb ed="#B" n="25"/>in materia fidei: vel morum: &amp; hoc dupliciter vel in iis qua 
+   <lb ed="#B" n="26"/>scire quis tenetur explicite: vel in iis quae scire non tentur ex 
+   <lb ed="#B" n="27"/>plicite vel implicite: &amp; hoc dupliciter: vel post longam inda 
+   <lb ed="#B" n="28"/>ginem homo potest attingere portum veritatis vel non: ita quod sunt 
+   <lb ed="#B" n="29"/>contrariae opiniones doctorum famatorum in illa materia. 
+   <lb ed="#B" n="30"/>hic in vuiuersitatibus ad legendas sententias admissi in praece 
+   <lb ed="#B" n="31"/>pto maiorum hahent sibi inuicem contradicere exercita 
+   <lb ed="#B" n="32"/>tionis gratia: cum hoc addito quod pro se habeant famatos 
+   <lb ed="#B" n="33"/>doctores: licet ratio sufficiat: non ob aliud nisi vt
+   ho<lb ed="#B" n="34" break="no"/>mines attentent quid valeant humeri ferre: &amp; ad ma 
+   <lb ed="#B" n="35"/>iora subeunda animentur: &amp; vt veritatem e tenebris in  
+   <lb ed="#B" n="36"/>lucem ducant. Rursus contingit opinari contraria in  
+   <lb ed="#B" n="37"/>aliis materiis, vt in philosophia. vtputa quod
+   quanti<lb ed="#B" n="38" break="no"/>tas est res quanta, vel ab ea distinguatur, de intensione
+   for<lb ed="#B" n="39" break="no"/>mae &amp; huiusmodi. Circa materiam morum contingit 
+   <lb ed="#B" n="40"/>opinari difformiter. sic scilicet quod vna opinio tenet
+   par<lb ed="#B" n="41" break="no"/>tem vbi non est peccatum: &amp; altera tenet eam quae secundum 
+   <lb ed="#B" n="42"/>istam opinionem est peccatum: sed non secundum propriam
+   opi<lb ed="#B" n="43" break="no"/>nionem. vt verbi gratia conferre beneficium bono: relicto 
+   <lb ed="#B" n="44"/>meliori, secundum communem opinionem est peccatum. vt 
+   <lb ed="#B" n="45"/>patebit distinctione. xxiiii. huius. secundum aliam non 
+   <lb ed="#B" n="46"/>est peccatum. secundum vtramque autem conferendo
+   melio<lb ed="#B" n="47" break="no"/>ri bono relicto: non est peccatum. Ecce facere vnum extre 
+   <lb ed="#B" n="48"/>mum iudicatur esse peccatum secundum aliquos. faciendo 
+   <lb ed="#B" n="49"/>secundum oppositos nullum est peccatum secundum 
+   <lb ed="#B" n="50"/>omnes. Contingit tamen interdum secundum hominum opinionem 
+   <lb ed="#B" n="51"/>quod quicquod homo faciat peccet: siue insequatur hoc 
+   <lb ed="#B" n="52"/>extremum siue illud. exempli causa iudicare secundum 
+   <lb ed="#B" n="53"/>allegata &amp; probata, vbi habentur testes omni exceptione 
+   <!--0036.xml-->
+   <cb ed="#B" n="b"/> 
+       <!-- 2-v b -->
+       <lb ed="#B" n="54"/>maiores ostendentes Titium innocentem esse nocentem. 
+   <lb ed="#B" n="55"/>Aliqui enim dicerent iudicem peccare si non iudicet secun 
+   <lb ed="#B" n="56"/>dum allegata &amp; probata. Alii oppositae opinionis
+   di<lb ed="#B" n="57" break="no"/>cerent iudicem peccare si condemnet innocentem scitum esse 
+   <lb ed="#B" n="58"/>talem: esto quod testes omni exceptione maiores osten 
+   <lb ed="#B" n="59"/>dant illum esse nocentem. tunc iudex nescit ad quam partem 
+   <lb ed="#B" n="60"/>declinabit. Similiter post votum de non esu carnium an 
+   <lb ed="#B" n="61"/>in extrema necessitate Carthusiensis deberet come 
+   <lb ed="#B" n="62"/>dere carnes, vt patebit. xxxviii. distinctione.
+   Inter<lb ed="#B" n="63" break="no"/>dum enim difficile est iudicare quid pro quo sit
+   acce<lb ed="#B" n="64" break="no"/>ptandum, &amp; difficilius in illo manere. iii. Ethicorum. 
+  </p>
+      <p xml:id="jMqv4a-d1e801-d1e268">
+       <lb ed="#B" n="65"/>⁋ His paucis praemissis sit Prima 
+   <lb ed="#B" n="66"/>conclusio. Licet paruum sit peccatum aut nullum in im  
+   <lb ed="#B" n="67"/>pertinentibus fidei &amp; bonis moribus hanc positionem vel 
+   <lb ed="#B" n="68"/>illam imitari: quilibet liber debet eam opinionem
+   ample<lb ed="#B" n="69" break="no"/>cti quae est rationi conformior. Prima pars patet
+   aucto<lb ed="#B" n="70" break="no"/>tate <name xml:id="jMqv4a-d1e801-Nd1e283" ref="#Augustine">Augustini</name> in enchiridio. &amp; recitatur. xxii. q. ii. 
+   <lb ed="#B" n="71"/>In quibus rebus nihil interest ad capessendum dei regi 
+   <lb ed="#B" n="72"/>men vtrum credantur an non: &amp; vtrum vera putentur an fal 
+   <lb ed="#B" n="73"/>sa: in his errare, aliud pro alio putare, no est arbitran 
+   <lb ed="#B" n="74"/>dum esse peccatum: aut si est, minimum esse atque leuissimum. 
+   <lb ed="#B" n="75"/>Dico nullum esse peccatum dummodo affectio vel finis 
+   <lb ed="#B" n="76"/>inordinatus vel medium non inuoluitur. Dicitur liber. quia non 
+   <lb ed="#B" n="77"/>est irrationabile quod Thomistae beatum Thomam. Sco 
+   <lb ed="#B" n="78"/>tistae doctorem subtilem: &amp; reliqui suos duces infectentur 
+   <lb ed="#B" n="79"/>more patrum. sic enim contingit in rebus maioribus &amp; bene 
+   <lb ed="#B" n="80"/>nam beatus Franciscus in horis minorum in litaniis prae 
+   <lb ed="#B" n="81"/>ponitur beato Dominico. contra apud praedicatores. Item procu 
+   <lb ed="#B" n="82"/>ratori in sua natione cedit rector Parisiensis. in cancro 
+   <lb ed="#B" n="83"/>luna: in leone sol: &amp; in sua domo planeta quilibet 
+   <lb ed="#B" n="84"/>maiorem vigorem habet. sic doctores hi apud suos 
+   <lb ed="#B" n="85"/>dummodo hoc quod tenent sit probabile. Quia tamen posterio 
+   <lb ed="#B" n="86"/>res in plerisque rationabilius quam multi istorum scripserint 
+   <lb ed="#B" n="87"/>quis dubitat: Dicite Pierides, non omnia possumus omnes. 
+   <lb ed="#B" n="88"/>Addo hic quod hi (de religiosis potissimum loquor)  
+   <lb ed="#B" n="89"/>plerumque in populo publice in sermone imprudenter
+   lo<lb ed="#B" n="90" break="no"/>quuntur. hic dicit. si adam non peccasset adhuc Christus 
+   <lb ed="#B" n="91"/>incarnatus fuisset. ille post hoc accedens dicit hoc esse 
+   <lb ed="#B" n="92"/>falsum &amp; oppositum verum: ita quod ignara plebs est con 
+   <lb ed="#B" n="93"/>fusa. deberent dicere: talis doctor sic existimat: veri 
+   <lb ed="#B" n="94"/>tatem nescimus: sed deus nouit, probabilitatem intelligimus. 
+   <lb ed="#B" n="95"/>in actu scholastico inter doctos sermo audentior per: 
+   <lb ed="#B" n="96"/>mittitur. Respondeant sicut <name xml:id="jMqv4a-d1e801-Nd1e342" ref="#Aristotle">Aristoteles.</name> extra philoso 
+   <lb ed="#B" n="97"/>phiam moralem audacter Platonem &amp; praeceptores
+   impu<lb ed="#B" n="98" break="no"/>gnauit. amen in primo ethicorum antequam illud faceret erga 
+   <lb ed="#B" n="99"/>Platonem se religiose excusauit: quia de moribus tra 
+   <lb ed="#B" n="100"/>ctans illic erat in lumine naturali concionator: quem 
+   <lb ed="#B" n="101"/>quaeso hi religiosi in hoc imitentur. Nimis pertinaces 
+   <lb ed="#B" n="102"/>in opinionibus. vii. ethi. ii. &amp;. ix. reprehendit philosophus. Quia  
+   <lb ed="#B" n="103"/>autem quilibet liber debet opinionem rationabiliorem sequi:  
+   <lb ed="#B" n="104"/>patet: per rationem homo differt a beluis: ergo cum ratio sit 
+   <lb ed="#B" n="105"/>sequenda: vbi plus rationis est: illud potius est sequendum:  
+   <lb ed="#B" n="106"/>nisi auctoritas irrefragabilis opposita ostendat non 
+   <lb ed="#B" n="107"/>esse rationem sed sophisma. lxviii. distin. Cor episcopi quod  
+   <!--0037.xml-->
+   <pb ed="#B" n="3-r"/>
+       <cb ed="#B" n="a"/>
+       <lb ed="#B" n="1"/>ratione caret necesse est extirpare. 
+  </p>
+      <p xml:id="jMqv4a-d1e801-d1e379">
+       <lb ed="#B" n="2"/>⁋ Secunda conclusio, no est peccatum 
+   <lb ed="#B" n="3"/>circa materiam fidei hanc partem tenere: vel illam ei con 
+   <lb ed="#B" n="4"/>tradictoriam: dummodo no constat vtra pars sit de
+   fi<lb ed="#B" n="5" break="no"/>de &amp; vera: sed sapientes &amp; exercitati in illa parte
+   te<lb ed="#B" n="6" break="no"/>nent opposita. Probatur: dato opposito conclusionis 
+   <lb ed="#B" n="7"/>sequitur quod altera partium tenens oppositum circa
+   cau<lb ed="#B" n="8" break="no"/>sam praedestinationis vel reprobationis peccaret, quod 
+   <lb ed="#B" n="9"/>est inconveniens. immo sequitur quod viri tenentes diuam 
+   <lb ed="#B" n="10"/>virginem in originali noxa conceptam, ante concilium 
+   <lb ed="#B" n="11"/>Constantiense &amp; vniuersitatum determinationem
+   pec<lb ed="#B" n="12" break="no"/>cassent: &amp; sic beatus Bernardus ad canonicos Lugdu 
+   <lb ed="#B" n="13"/>nenses hoc scribens: beatus Thomas: doctor seraphi 
+   <lb ed="#B" n="14"/>cus, &amp; multi alii valentes patres illo tempore hoc tenentes 
+   <lb ed="#B" n="15"/>peccassent, quod non est dicendum: cum tunc modum
+   com<lb ed="#B" n="16" break="no"/>munem tenuerint suo tempore vigentem: de cuius opposi 
+   <lb ed="#B" n="17"/>to nondum constabat. Vlterius sequitur quod <name xml:id="jMqv4a-d1e801-Nd1e415" ref="#Augustine">Augustinus</name> 
+       <lb ed="#B" n="18"/>&amp; <name xml:id="jMqv4a-d1e801-Nd1e421" ref="#Jerome">Hieronymus</name> peccassent tenentes contraria circa 
+   <lb ed="#B" n="19"/>materiam fidei, quod est inconveniens. Quia contraria
+   te<lb ed="#B" n="20" break="no"/>nuerunt patet de cessatione legalium ad Galathas. ii. 
+   <lb ed="#B" n="21"/>&amp; post hac in baptismo dicetur. Non valet dictum Gui 
+   <lb ed="#B" n="22"/>lielmi Altisiodori dicentis quod vnus tenuit vna
+   ra<lb ed="#B" n="23" break="no"/>tione &amp; alius alia ratione: &amp; sic non tenuerunt
+   contra<lb ed="#B" n="24" break="no"/>ria. quia contradictoria non possunt plus verificari 
+   <lb ed="#B" n="25"/>per varias causas quam per eandem. Hoc ipsum patet
+   di<lb ed="#B" n="26" break="no"/>stin. xliii. huius. An viui in iudicio morientur: &amp; post 
+   <lb ed="#B" n="27"/>ea resuscitabuntur. <name xml:id="jMqv4a-d1e801-Nd1e443" ref="#Jerome">Hieronymus</name> partem negatiuam
+   te<lb ed="#B" n="28" break="no"/>nuit: &amp; <name xml:id="jMqv4a-d1e801-Nd1e449" ref="#Augustine">Augustinus</name> affirmatiuam. Item <name xml:id="jMqv4a-d1e801-Nd1e452" ref="#Jerome">Hieronymus</name> 
+       <lb ed="#B" n="29"/>ad Oceanum dicit quod vxorem habens ante baptismum: 
+   <lb ed="#B" n="30"/>si ipsa post baptismum moriatur, aliam duces non est 
+   <lb ed="#B" n="31"/>bigamus. Oppositum dicit <name xml:id="jMqv4a-d1e801-Nd1e462" ref="#Augustine">Augustinus</name> super episto 
+   <lb ed="#B" n="32"/>lam ad Titum. Et recitat <ref xml:id="jMqv4a-d1e801-Rd1e467">Gratianus. xxvi. distin. c. 
+   <lb ed="#B" n="33"/>Vnius.</ref> &amp; <ref xml:id="jMqv4a-d1e801-Rd1e472">c. Acutius, quod dist. xxvii.</ref> huius tangimus. 
+   <lb ed="#B" n="34"/>Et <name xml:id="jMqv4a-d1e801-Nd1e477">Nicolaus lyranus</name> recitans modum <name xml:id="jMqv4a-d1e801-Nd1e481" ref="#Augustine">Augustini</name> 
+       <lb ed="#B" n="35"/>dicentis psalmos a variis fuisse conscriptos, dicit: 
+   <lb ed="#B" n="36"/>non est ita opinandum: quia <name xml:id="jMqv4a-d1e801-Nd1e488" ref="#Jerome">Hieronymus</name> tenet op 
+   <lb ed="#B" n="37"/>situm: qui plus circa sacras literas insudauit.
+   pro<lb ed="#B" n="38" break="no"/>pterea est ei magis adhaerendum. Sed ista vltima 
+   <lb ed="#B" n="39"/>probatio non tangit materiam fidei: sed quod in alia 
+   <lb ed="#B" n="40"/>materia sibi contradicunt. 
+  </p>
+      <p xml:id="jMqv4a-d1e801-d1e501">
+       <lb ed="#B" n="41"/>⁋ Tertia conclusio. in materia morum 
+   <lb ed="#B" n="42"/>securior pars est tenenda. probatur. Tene certum,
+   relin<lb ed="#B" n="43" break="no"/>que incertum, dicit sapiens. Propterea Aesopus fa 
+   <lb ed="#B" n="44"/>bulam introducit de cane qui carnem pro eius vmbra in  
+   <lb ed="#B" n="45"/>aquis visa reliquit: &amp; carne amissa vt grossam
+   car<lb ed="#B" n="46" break="no"/>nis vmbram caperet, omnia amisit concludens. Non 
+   <lb ed="#B" n="47"/>igitur debent pro vanis certa relinqui. Non sua si 
+   <lb ed="#B" n="48"/>quis auet mox caret ipse suis. Non ob aliud Fran 
+   <lb ed="#B" n="49"/>corum reges pontem sancti Clodoualdi super sequanam 
+   <lb ed="#B" n="50"/>non pertranseunt. Et Anglorum reges non ingrediuntur 
+   <lb ed="#B" n="51"/>Oxoniam, vt perhibent. Praeterea arguitur ad idem. 
+   <lb ed="#B" n="52"/>Quicunque exponit se periculo obtuenti peccati:  
+   <lb ed="#B" n="53"/>peccat: sed sic est de illo qui opinione certa relicta: 
+   <!--0037.xml-->
+   <cb ed="#B" n="b"/> 
+       <!-- 3-r b -->
+       <lb ed="#B" n="54"/>opinioni minus apparenti se applicat. 
+  </p>
+      <p xml:id="jMqv4a-d1e801-d1e540">
+       <lb ed="#B" n="55"/>⁋ Quarta conclusio, quando opiniones 
+   <lb ed="#B" n="56"/>oppositae circa materiam morum sunt aeque certae:
+   po<lb ed="#B" n="57" break="no"/>test homo sine peccato hanc viam vel oppositam
+   imi<lb ed="#B" n="58" break="no"/>tari. patet in casu de damnando innocente vbi est 
+   <lb ed="#B" n="59"/>aequalis apparentia de ipso liberando &amp; damnando.  
+   <lb ed="#B" n="60"/>Propterea episcopus datis duobus vel tribus aequali 
+   <lb ed="#B" n="61"/>ter idoneis dat cui libet beneficium sine peccato: &amp; ma 
+   <lb ed="#B" n="62"/>gistri nostri in suis rotulis: &amp; dominus cancellarius inter 
+   <lb ed="#B" n="63"/>duos putatos aequales sine iniuria vnum alteri ad 
+   <lb ed="#B" n="64"/>nutum praefert. Amplius patet haec conclusio: quia dato 
+   <lb ed="#B" n="65"/>opposito sequitur quod homo esset coactus peccare: quod 
+   <lb ed="#B" n="66"/>est falsum. quod sequatur patet de iudice innocentem
+   co<lb ed="#B" n="67" break="no"/>gnoscente / probato efficaciter in foro exteriore nocen 
+   <lb ed="#B" n="68"/>te. Alexander &amp; bea. Thomas dicunt si eum non damnet 
+   <lb ed="#B" n="69"/>male agit. viri tot cum aequali apparentia dicunt oppo 
+   <lb ed="#B" n="70"/>situm. &amp; oportet vnum vel alterum facere. Dicis, nec 
+   <lb ed="#B" n="71"/>oportet nolle nec velle vnum. potest enim nullum actum 
+   <lb ed="#B" n="72"/>voluntatis habere. hoc non soluit. oportet occidat, 
+   <lb ed="#B" n="73"/>vel non occidat. &amp; vna pars dicit quod peccat omitten 
+   <lb ed="#B" n="74"/>do: dato quod non eliciat nolle: alia pars oppositum. Nec 
+   <lb ed="#B" n="75"/>valet dicere. data aequali apparentia reus est
+   absoluen<lb ed="#B" n="76" break="no"/>dus. hoc solum exemplariter est dictum: &amp; exemplum est ad  
+   <lb ed="#B" n="77"/>propositum. Haec conclusio ex secunda &amp; eius probationibus 
+   <lb ed="#B" n="78"/>sequitur: in materia enim fidei ancipiti inter
+   sapien<lb ed="#B" n="79" break="no"/>tes exercitatissimos potest homo assentire huic 
+   <lb ed="#B" n="80"/>parti vel illi sine peccato. ergo in materia morum 
+   <lb ed="#B" n="81"/>potest homo conformare se illi viae vel illi. 
+  </p>
+      <p xml:id="jMqv4a-d1e801-d1e601">
+       <lb ed="#B" n="82"/>⁋ Quinta conclusio. Prudens debet se 
+   <lb ed="#B" n="83"/>qui comunem opinionem sapientum, tam in materia fidei, 
+   <lb ed="#B" n="84"/>qui morum, potius quam paucorum probatio. prudenti &amp;
+   exer<lb ed="#B" n="85" break="no"/>citato fides datur: duobus autem circumspectis maior 
+   <lb ed="#B" n="86"/>fides datur quam vni: tribus / quam duobus: quatuor / quam tribus: 
+   <lb ed="#B" n="87"/>&amp; sic sine fine. ergo multitudini plus credendum est 
+   <lb ed="#B" n="88"/>quam paucitati. Plura enim vident oculi quam oculus. Non  
+   <lb ed="#B" n="89"/>ob aliud a poetis Argus vaccam lunonis custodire 
+   <lb ed="#B" n="90"/>fingitur, potius quam Empedocles vel vnum habens oculum. 
+   <lb ed="#B" n="91"/>non aliter articuli Parisienses plus roboris habent quam 
+   <lb ed="#B" n="92"/>vnius doctoris dictum eadem tempestate scribentis. 
+   <lb ed="#B" n="93"/>Prouerbiorum. xi. Salus vbi consilia multa. Non
+   ali<lb ed="#B" n="94" break="no"/>ter praesumitur ille esse canonice electus qui a maiore parte 
+   <lb ed="#B" n="95"/>capituli est electus: quia in talibus multitudini &amp; non 
+   <lb ed="#B" n="96"/>paucitati est credendum: vt patet de electio. c. Licet. 
+   <lb ed="#B" n="97"/>Propterea <name xml:id="jMqv4a-d1e801-Nd1e637" ref="#JeanBuridan">Ioannes Buridanus</name> in principio Ethicorum, 
+   <lb ed="#B" n="98"/>iam opinionum nouarum multitudine se illusum
+   vi<lb ed="#B" n="99" break="no"/>dens, dicebat se opinionem communem imitari velle. &amp;
+   ratio<lb ed="#B" n="100" break="no"/>nabiliter: quia iam illa per tot capita est cribrata &amp; admissa. 
+  </p>
+      <p xml:id="jMqv4a-d1e801-d1e648">
+       <lb ed="#B" n="101"/>⁋ Contra primam conclusionem arguitur. 
+   <lb ed="#B" n="102"/>Nullae sunt opiniones contrariae: ergo prima conclu 
+   <lb ed="#B" n="103"/>sio praesupponit falsum. Antecedens patet. Si sic, ma 
+   <lb ed="#B" n="104"/>xime esset inter <name xml:id="jMqv4a-d1e801-Nd1e658">Aristote</name>. &amp; <name xml:id="jMqv4a-d1e801-Nd1e662">Platonem</name>, <name xml:id="jMqv4a-d1e801-Nd1e665">Auicennam</name>, &amp; 
+   <lb ed="#B" n="105"/>
+       <name xml:id="jMqv4a-d1e801-Nd1e670">Auerroim</name>, <name xml:id="jMqv4a-d1e801-Nd1e673">Scotum</name>, &amp; bea. Thomam: sed hoc non. 
+   <lb ed="#B" n="106"/>Dominus enim <name xml:id="jMqv4a-d1e801-Nd1e679">Ioannes Picus</name> nisus est facere eos omnes con 
+   <!--0038.xml-->
+   <pb ed="#B" n="3-v"/>
+       <cb ed="#B" n="a"/>
+       <lb ed="#B" n="1"/>uenire. vt patet in prologo suae apologiae.
+  </p>
+      <p xml:id="jMqv4a-d1e801-d1e692">
+   ⁋ Respon 
+   <lb ed="#B" n="2"/>detur negando antecedens. bene volo quod Ioannes 
+   <lb ed="#B" n="3"/>Picus putauit illud fieri posse. nam &amp; ante
+   audiue<lb ed="#B" n="4" break="no"/>rat quod <name xml:id="jMqv4a-d1e801-Nd1e700">Themistius</name>, &amp; <name xml:id="jMqv4a-d1e801-Nd1e703">Ioannes grammaticus</name> graeci 
+   <lb ed="#B" n="5"/>ita putarunt. &amp; <name xml:id="jMqv4a-d1e801-Nd1e709" ref="#Boethius">Boetius</name> inter nostros latinos &amp; plu 
+   <lb ed="#B" n="6"/>res alii id putarunt: vt dicit beatus <name xml:id="jMqv4a-d1e801-Nd1e714" ref="#Augustine">Augustinus</name> in
+   Aca<lb ed="#B" n="7" break="no"/>demicis: sed nullus eorum hoc adhuc peregit. Non 
+   <lb ed="#B" n="8"/>sufficit dicere quod quamlibet opinionem respondendo
+   de<lb ed="#B" n="9" break="no"/>fendisset more <name xml:id="jMqv4a-d1e801-Nd1e724">Gorgiae Leontini</name>. hoc enim non est face 
+   <lb ed="#B" n="10"/>re opiniones contrarias in vnum coincidere. quia oppo 
+   <lb ed="#B" n="11"/>sito dato sequitur quod semper posterior priorem ad nomen 
+   <lb ed="#B" n="12"/>&amp; non ad eius mentem impugnasset, quid est incredibile, non 
+   <lb ed="#B" n="13"/>nunquam tamen poterant verbaliter solum differre. Idem 
+   <lb ed="#B" n="14"/>dico de aliis nominatis: non enim est possibile facere 
+   <lb ed="#B" n="15"/>positiones istorum &amp; aliorum in vnum coincidere. 
+  </p>
+      <p xml:id="jMqv4a-d1e801-d1e741">
+       <lb ed="#B" n="16"/>⁋ Contra secundam conclusionem
+   ar<lb ed="#B" n="17" break="no"/>gumentor. Alter illorum tenet haeresim: cum teneat 
+   <lb ed="#B" n="18"/>dogma falsum fidei orthodoxae contrarium. ergo est 
+   <lb ed="#B" n="19"/>haereticus: &amp; per consequens peccat. Concedo quod alter illo 
+   <lb ed="#B" n="20"/>rum tenet haeresim: sed no sequitur quod sit haereticus. Ad 
+   <lb ed="#B" n="21"/>hoc enim amplius requiritur scilicet pertinacia. Etiam post
+   susce<lb ed="#B" n="22" break="no"/>ptam fidem: quando homo est paratus acquiescere parti verae 
+   <lb ed="#B" n="23"/>agnitae post sufficientiae indaginem secundum consilium 
+   <lb ed="#B" n="24"/>prudentum, non est pertinax.
+  </p>
+      <p xml:id="jMqv4a-d1e801-d1e763">
+   ⁋ Contra illud arguitur.
+   Ec<lb ed="#B" n="25" break="no"/>clesiastici. xix. Qui cito credit leuis est corde. ergo 
+   <lb ed="#B" n="26"/>non est credendum quoad habeatur veritas secundum
+   con<lb ed="#B" n="27" break="no"/>silium Iob. ca. xxix. sui libri. Causam quam nesciebam di 
+   <lb ed="#B" n="28"/>ligentissime inuestigabam. Respondetur. ille non cito credit:  
+   <lb ed="#B" n="29"/>nec est leuitate ductus: cum sint rationes &amp; auctoritates 
+   <lb ed="#B" n="30"/>pro vtraque parte post magnam indaginem.
+  </p>
+      <p xml:id="jMqv4a-d1e801-d1e779">
+   ⁋ Contra
+   il<lb ed="#B" n="31" break="no"/>lud arguitur. in iure diuino, sicut dicit Guilielmus Pa 
+   <lb ed="#B" n="32"/>risien. non cadit ignorantia inuincibilis. nam homo tenetur 
+   <lb ed="#B" n="33"/>rogare deum: &amp; tunc vnctio docebit eum. primae loannem. ii. 
+   <lb ed="#B" n="34"/>Et non necesse habetis, vt aliquis doceat vos: sed
+   si<lb ed="#B" n="35" break="no"/>cut vnctio eius docet vos de omnibus. Et primae ad  
+   <lb ed="#B" n="36"/>Corinth. xiiii. Si quis ignorat ignorabitur. Respondetur in  
+   <lb ed="#B" n="37"/>iure diuino quod quis scire tenetur, pro tempore quo scire tenetur 
+   <lb ed="#B" n="38"/>non cadit ignorantia inuincibilis. alias bene cadit
+   igno<lb ed="#B" n="39" break="no"/>rantia inuincibilis habendo tam ignorantiam prauae disposi 
+   <lb ed="#B" n="40"/>tionis quam purae negationis. Vnde glossa marginalis
+   Mat<lb ed="#B" n="41" break="no"/>thaei. xviii. super illo verbo, Si autem manus tua / sic di 
+   <lb ed="#B" n="42"/>cit. Parum distat in vitio fallere aut falli: scandalizare 
+   <lb ed="#B" n="43"/>&amp; scandalizari si ex negligentia: si ex inuincibili igno  
+   <lb ed="#B" n="44"/>rantia, distat. Illud primae Ioannis. ii. intelligitur in 
+   <lb ed="#B" n="45"/>sua materia. vt quod Iesus est Christus: &amp; Messias
+   vn<lb ed="#B" n="46" break="no"/>ctus &amp; in lege promissus. quod quilibet ratione vtens tenetur 
+   <lb ed="#B" n="47"/>scire explicite. Glossa interlinearis exponit illud ver 
+   <lb ed="#B" n="48"/>bum apostoli ad Corinth. de mandatis dei quae quis scire 
+   <lb ed="#B" n="49"/>tenetur &amp; sic intelligantur similes auctoritates. 
+  </p>
+      <p xml:id="jMqv4a-d1e801-d1e823">
+       <lb ed="#B" n="50"/>⁋ Secundo arguitur contra aliqua  
+   <lb ed="#B" n="51"/>dicta in probatione illius conclusionis. Thomista 
+   <lb ed="#B" n="52"/>nunc tenens diuam virginem in originali peccato fuisse 
+   <lb ed="#B" n="53"/>conceptam peccaret. ergo &amp; eius doctor cuius
+   vesti<lb ed="#B" n="54" break="no"/>gia sequitur. Concedo antecedens: quia non modo  
+   <!--0038.xml-->
+   <cb ed="#B" n="b"/> 
+       <!-- 3-v b -->
+       <lb ed="#B" n="55"/>peccat: sed scandalizat, &amp; est multum imprudens:  
+   <lb ed="#B" n="56"/>sed nego consequentiam de eius doctore: quia in die 
+   <lb ed="#B" n="57"/>bus eius non sic constabat. sicut nunc imitare autem do  
+   <lb ed="#B" n="58"/>ctoris tui vestigia per humilitatem. 
+  </p>
+      <p xml:id="jMqv4a-d1e801-d1e851">
+       <lb ed="#B" n="59"/>⁋ Tertio arguitur: Dicta Hierony. 
+   <lb ed="#B" n="60"/>&amp; <name xml:id="jMqv4a-d1e801-Nd1e857" ref="#Augustine">Augustini</name> ab ecclesia recipiuntur, xv. distin. c. San 
+   <lb ed="#B" n="61"/>cta romana ecclesia. ergo non contradicunt. probo
+   conse<lb ed="#B" n="62" break="no"/>quentiam per legem contradictoriarum primo peri hermenias 
+   <lb ed="#B" n="63"/>infallibilem: si vna illarum est vera reliqui est falsa. &amp; per 
+   <lb ed="#B" n="64"/>consequens ecclesia approbat doctrina falsa continentem. 
+   <lb ed="#B" n="65"/>quod est inconveniens.
+  </p>
+      <p xml:id="jMqv4a-d1e801-d1e873">
+   ⁋ Respondetur. Aliquam doctrina bifariam 
+   <lb ed="#B" n="66"/>ab ecclesia recipitur. vno modo positiue. alio modo permissi 
+   <lb ed="#B" n="67"/>ue. &amp; positiue tripliciter &amp; sic in toto quintupliciter. Primo 
+   <lb ed="#B" n="68"/>modo, quae est. in omni sui parte vera. hoc modo recipitur omne reue 
+   <lb ed="#B" n="69"/>latum a deo mediate vel immediate in sensu quo reue 
+   <lb ed="#B" n="70"/>latum est: vt sacer canon bibliacus: &amp; definitiones
+   con<lb ed="#B" n="71" break="no"/>ciliorum vniuersalium rite collectorum: quae a sancto spiritu praesi 
+   <lb ed="#B" n="72"/>de reguntur.
+  </p>
+      <p xml:id="jMqv4a-d1e801-d1e891">
+   ⁋ Secundo modo recipitur aliqui doctrina sic 
+   <lb ed="#B" n="73"/>probabilis vt non liceat ei contraire: sed danda est ei tamen 
+   <lb ed="#B" n="74"/>expositio per alia scripta consimilis auctoritatis vel ma 
+   <lb ed="#B" n="75"/>ioris per rationem naturalem: quia ratio canoni aequalet. disti. i 
+   <lb ed="#B" n="76"/>c. Consuetudo. &amp;. ix. dist. c. Sanam. &amp; est <name xml:id="jMqv4a-d1e801-Nd1e901" ref="#Augustine">Augustinus</name>. ad 
+   <lb ed="#B" n="77"/>Casulanum. licet expositio interdum videatur prima fronte
+   ex<lb ed="#B" n="78" break="no"/>tranea. Hoc modo recipiuntur Decretales, Sextus, &amp; Cle 
+   <lb ed="#B" n="79"/>mentinae. in quibus sunt aliqui textus apparenter sonantes sum 
+   <lb ed="#B" n="80"/>mun pontifice esse supra concilium vniversale: &amp; esse dominum omnium tam 
+   <lb ed="#B" n="81"/>in spiritualibus quam in temporalibus: quod multi sapientes tam in di 
+   <lb ed="#B" n="82"/>uino iure quam humano minime admittunt. sed isti textus 
+   <lb ed="#B" n="83"/>sic apparentes per alios pontificum passus aequalis auctori 
+   <lb ed="#B" n="84"/>tatis exponi possunt: per ius diuinum legum omnium deum: &amp; 
+   <lb ed="#B" n="85"/>per rationem naturalem: quod textus illi non sunt intelligendi vt 
+   <lb ed="#B" n="86"/>prima fronte innuere videntur. &amp; patet a signo. Aliqui 
+   <lb ed="#B" n="87"/>puri canonistae concilium esse supra pontificem maximum 
+   <lb ed="#B" n="88"/>indubitatum tenuerunt: vt Panormitanus: &amp; multi alii 
+   <lb ed="#B" n="89"/>soli iuri pontificio initentes: &amp; theologorum plurimi sa 
+   <lb ed="#B" n="90"/>pientes per ius diuinum &amp; rationem naturalem cum iure
+   pontifi<lb ed="#B" n="91" break="no"/>cio se munientes. hic eruditissimus <name xml:id="jMqv4a-d1e801-Nd1e937" ref="#JeanGerson">Ioannes gerson</name> can 
+   <lb ed="#B" n="92"/>cellarius Parisien. de hac materia in sua patria parte
+   lo<lb ed="#B" n="93" break="no"/>quens ad aliquot textus a pontificibus conditos de eorum 
+   <lb ed="#B" n="94"/>superioritate supra conciliu, sic inquit. Si intelligant vt 
+   <lb ed="#B" n="95"/>verba iacent, nos cum libertate euangelica eos in hac 
+   <lb ed="#B" n="96"/>parte negamus. quo ad hunc modum loquendi illos tres 
+   <lb ed="#B" n="97"/>libros teneo veros cum expositione quam praemisi
+   intel<lb ed="#B" n="98" break="no"/>ligendo. Super hoc inferius in de matrimonio amplius 
+   <lb ed="#B" n="99"/>loquar: an pontifex possit dispensare cum matrimonio 
+   <lb ed="#B" n="100"/>dissoluendo ante carnalem copulam.
+  </p>
+      <p xml:id="jMqv4a-d1e801-d1e961">
+   ⁋ Tertio reci 
+   <lb ed="#B" n="101"/>pitur aliqua doctrina, etiam positiue vtilis &amp;
+   proba<lb ed="#B" n="102" break="no"/>bilis: non tamen propterea in omni sua parte
+   creden<lb ed="#B" n="103" break="no"/>da. Et patet. in. c. praefato Sancta romana ecclesia, 
+   <lb ed="#B" n="104"/>recipiuntur scripta Cypriani: &amp; tamen de baptizatis 
+   <lb ed="#B" n="105"/>ab haereticis non recte iudicabat. illic collaudatur 
+   <lb ed="#B" n="106"/>Orosius: qui tamen de annis Christi multum aberrauit. In 
+   <lb ed="#B" n="107"/>hoc tertio gradu recipiuntur scripta <name xml:id="jMqv4a-d1e801-Nd1e978" ref="#Augustine">Augustini</name> &amp; Hiero 
+   <lb ed="#B" n="108"/>ny. Sedulii &amp; doctorum de quibus est illic metio. Sed di 
+   <!--0039.xml-->
+   <pb ed="#B" n="4-r"/>
+       <cb ed="#B" n="a"/>
+       <lb ed="#B" n="1"/>cis: in exponendis sacris scripturis doctores illi pon 
+   <lb ed="#B" n="2"/>tificibus sunt praeponendi: in causis vero
+   definien<lb ed="#B" n="3" break="no"/>dis sunt postponendi. patet distin. xx. c. i. in cuius 
+   <lb ed="#B" n="4"/>fine scribitur. Apparet quod diuinarum tractatores
+   scri<lb ed="#B" n="5" break="no"/>pturarum etsi scientia pontificibus praemineant: tamen quia 
+   <lb ed="#B" n="6"/>dignitatis eorum apicem non sunt adepti: in sacrarum 
+   <lb ed="#B" n="7"/>quidem scripturarum expositionibus eis praeponuntur: in  
+   <lb ed="#B" n="8"/>causis vero definiendis secundum post eos locum
+   me<lb ed="#B" n="9" break="no"/>rentur. Glossa in principio illius capituli dicit. Quantum ad 
+   <lb ed="#B" n="10"/>sacram scripturam exponendam praeualet sanctorum au 
+   <lb ed="#B" n="11"/>ctoritas: quantum vero ad causas definiendas praeualet au 
+   <lb ed="#B" n="12"/>ctoritas Romanorum pontificum. Respondetur: credo  
+   <lb ed="#B" n="13"/>sic dici posse: quod etiam in expositionibus sacrae scri 
+   <lb ed="#B" n="14"/>pturae scripta pontificum in iure incorporata sunt 
+   <lb ed="#B" n="15"/>praeponenda. ratio est: quod cum magno multorum
+   librami<lb ed="#B" n="16" break="no"/>ne per illos sanctos viros in lucem abierunt. ergo dato 
+   <lb ed="#B" n="17"/>quod vnus sanctorum etiam de quo est mentio in
+   praefa<lb ed="#B" n="18" break="no"/>to. c. Sancta Romana ecclesia, dicat vnum: &amp; ius pon 
+   <lb ed="#B" n="19"/>tificium oppositum: &amp; aliunde non constet: doctor ille re 
+   <lb ed="#B" n="20"/>linquendus est. Sermo est illic de aliquibus pontifi 
+   <lb ed="#B" n="21"/>cibus: quia in. c. Decretales. xx. disti. paulo post
+   prin<lb ed="#B" n="22" break="no"/>cipium dicitur. Vnde nonnullorum pontificum constitutis: Au 
+   <lb ed="#B" n="23"/>gusti. Hierony. atque aliorum tractatorum dicta videntur 
+   <lb ed="#B" n="24"/>eis praeferenda: quia varii pontifices etiam circa expositio 
+   <lb ed="#B" n="25"/>nem fidei contraria dixerunt: vt patebit distinctione 
+   <lb ed="#B" n="26"/>xxvii. huius. Sed minus bene sentientium expositiones 
+   <lb ed="#B" n="27"/>sunt a iure pontificio excluse. Sed harmonia potest 
+   <lb ed="#B" n="28"/>seruari inter omnia tam in decretalibus quam sexto &amp; Clemen 
+   <lb ed="#B" n="29"/>tinis. Ista confirmabo ex pulchris auctoritatibus illu 
+   <lb ed="#B" n="30"/>minatissimi Augustnini. quarum vna est ad Hierony. 
+   <lb ed="#B" n="31"/>&amp; auctoritas est canonizata. ix. distin. c. Ego
+   so<lb ed="#B" n="32" break="no"/>lis eis scriptorum qui iam canonici appellantur: didici 
+   <lb ed="#B" n="33"/>hunc timorem honoremque deferre: vt nullum eorum scriben 
+   <lb ed="#B" n="34"/>do errasse credere audeam. Aut si aliquid in eis offende 
+   <lb ed="#B" n="35"/>ro quod videatur contrarium veritati, nihil aliud existimen 
+   <lb ed="#B" n="36"/>quam mendosum esse codicem: vel non esse assecutum interprae 
+   <lb ed="#B" n="37"/>tem quod dictum est: vel me minime intellexisse non ambi 
+   <lb ed="#B" n="38"/>gam. alios autem lego vt quantalibet sanctitate quantave 
+   <lb ed="#B" n="39"/>doctrina polleant non ideo verum putem: quia ipsi ita
+   sen<lb ed="#B" n="40" break="no"/>serunt: sed quia mihi vel per alios auctores: vel per cano 
+   <lb ed="#B" n="41"/>nicas: vel probabiles rationes, quod a vero non
+   abhor<lb ed="#B" n="42" break="no"/>ret psuadere potuerunt. Et in prologo tertii libri de 
+   <lb ed="#B" n="43"/>trinitate. Noli meis literis quasi canonicis scripturis 
+   <lb ed="#B" n="44"/>deseruire: sed in illis quae non credebas cum inueneris 
+   <lb ed="#B" n="45"/>incunctanter crede: In istis autem quod certum non
+   habe<lb ed="#B" n="46" break="no"/>bas nisi certum intellexeris noli firmum tenere. Et Au 
+   <lb ed="#B" n="47"/>gu. in epistol ad Vincentium: postquam de auctoritate Hila 
+   <lb ed="#B" n="48"/>rii, Cypriani, &amp; similium locutus erat: dicit. Hoc genus 
+   <lb ed="#B" n="49"/>literarum ab auctoritate canonum distinguendum est, non 
+   <lb ed="#B" n="50"/>enim sic leguntur tamquam ita ex eis testimonium proferatur vt 
+   <lb ed="#B" n="51"/>contra sentire non liceat sicubi forte aliter sapuerunt 
+   <lb ed="#B" n="52"/>quam veritas postulat. Et humiliter dicit in epistola ad For 
+   <lb ed="#B" n="53"/>tunatum cum idem teneat de aliis patribus. Talis ego sum in  
+   <lb ed="#B" n="54"/>scriptis aliorum, quales volo esse lectores meorum. hoc 
+   <lb ed="#B" n="55"/>ad longum ponit in libro de vnico baptismo libro. ii 
+   <!--0039.xml-->
+   <cb ed="#B" n="b"/> 
+       <!-- 4-r b -->
+      </p>
+      <p xml:id="jMqv4a-d1e801-d1e1116">
+       <lb ed="#B" n="56"/>⁋ Ex his patet quod &amp; ratione, &amp; Augusti.
+   auctori<lb ed="#B" n="57" break="no"/>tate sacra scriptura omnem aliam transcendit: &amp;
+   ratio<lb ed="#B" n="58" break="no"/>nabiliter, in ea proportione qua creaturam omnem deus 
+   <lb ed="#B" n="59"/>anteire noscitur. Augusti. autem &amp; Hierony. scripta qui 
+   <lb ed="#B" n="60"/>inter theologos pro primis partibus laborarunt, non 
+   <lb ed="#B" n="61"/>sunt sic accepta, vt omnia sint de necessitate credenda: 
+   <lb ed="#B" n="62"/>quia aliquis potest sine peccato <name xml:id="jMqv4a-d1e801-Nd1e1133" ref="#Augustine">Augustinum</name> negare: dicendo 
+   <lb ed="#B" n="63"/>habeo Hieronymum pro me &amp; bonam rationem: vel econ 
+   <lb ed="#B" n="64"/>uerso. hoc patet ex conclusione. Si enim assertiones 
+   <lb ed="#B" n="65"/>eorum oppositae sint aeque apparentes, cum neutrum
+   isto<lb ed="#B" n="66" break="no"/>rum duorum alteri in literis praeferre audeas: quare non li 
+   <lb ed="#B" n="67"/>cebit tenere quod voles dummodo rationi alterius satisfa 
+   <lb ed="#B" n="68"/>cias: Si vnus altero rationabilius loquatur: hunc imitabe 
+   <lb ed="#B" n="69"/>re. Stat inferiorem posse de hoc iudicare qui ita eru 
+   <lb ed="#B" n="70"/>dite dicere nequit. Sicut bene iudicas quis super chordam 
+   <lb ed="#B" n="71"/>melius scandit: vel grauiora componit carmina: &amp; tuipraee 
+   <lb ed="#B" n="72"/>nescis ita facere. Stat etiam inferiorem tam in literis quam 
+   <lb ed="#B" n="73"/>in ingenio in vna materia fidei vel morum sanius 
+   <lb ed="#B" n="74"/>intelligere quam vnum istorum. Et si vnum istorum in
+   mate<lb ed="#B" n="75" break="no"/>ria probabili negaueris, ita quod nullum doctorem: sed
+   so<lb ed="#B" n="76" break="no"/>lam rationem pro te habes: non propterea es haereticus: nec hae 
+   <lb ed="#B" n="77"/>resim tenens: dicendo haec fuit opinio beati Augu. non 
+   <lb ed="#B" n="78"/>mihi placet propter has rationes &amp; illas: &amp; ipsius rationes 
+   <lb ed="#B" n="79"/>soluo vti vides. sed impudens &amp; ventosus es. debes 
+   <lb ed="#B" n="80"/>enim eos exponere cum reuerentia: esto quod oppositum
+   te<lb ed="#B" n="81" break="no"/>nere videantur. Certum est de <name xml:id="jMqv4a-d1e801-Nd1e1177" ref="#Aristotle">Aristotele</name> quod errores te 
+   <lb ed="#B" n="82"/>nuit, vt de perpetuitate mundi: quo non obstante eum in 
+   <lb ed="#B" n="83"/>materia est probabili negare numquam solemus. istis vero 
+   <lb ed="#B" n="84"/>eruditissimis viris reipublicae Christianae &amp; per conse 
+   <lb ed="#B" n="85"/>quens humanae non minus vtilibus, immo vtilioribus,
+   ma<lb ed="#B" n="86" break="no"/>gna sanctimonia praeditis non solum aequalis: sed longe 
+   <lb ed="#B" n="87"/>maior debetur reuerentia: vt nullo modo in schola 
+   <lb ed="#B" n="88"/>vel populo negentur. addo quod iam consuetudine hoc
+   me<lb ed="#B" n="89" break="no"/>rito cosequuti sunt: cui contrauenire stultum est. 
+  </p>
+      <p xml:id="jMqv4a-d1e801-d1e1199">
+       <lb ed="#B" n="90"/>⁋ Sed cotra illud arguitur. in praefato. c. Sancta roma 
+   <lb ed="#B" n="91"/>na ecclesia, dicit Gelasius papa. <name xml:id="jMqv4a-d1e801-Nd1e1205" ref="#Jerome">Hieronymus</name> cuilibet 
+   <lb ed="#B" n="92"/>alteri praefertur. patet. in §. Item Rufinus: dicit pontifex sic 
+   <lb ed="#B" n="93"/>ltem Rufinus vir religiosus plurimos ecclesiastici ope 
+   <lb ed="#B" n="94"/>ris edidit libros: nonullas etiam scripturas interpreta 
+   <lb ed="#B" n="95"/>tus est. Sed quoniam btuns <name xml:id="jMqv4a-d1e801-Nd1e1217" ref="#Jerome">Hieronymus</name> in aliquibus eum de 
+   <lb ed="#B" n="96"/>libertate arbitrii notauit: illa sentimus quae beatum
+   Hie<lb ed="#B" n="97" break="no"/>rony. praedictum sentire cognoscimus. &amp; sequitur ad
+   pro<lb ed="#B" n="98" break="no"/>positu. Non solum de Rufino: sed etiam de vniuersis 
+   <lb ed="#B" n="99"/>quos vir saepius memoratus zelo dei &amp; fidei
+   reli<lb ed="#B" n="100" break="no"/>gione reprehendit. ergo Hierony. semper tenendus est: 
+   <lb ed="#B" n="101"/>cuicumque contradicat. Respondetur, non oportet illa
+   ver<lb ed="#B" n="102" break="no"/>ba capere vt iacent, quando contradicit cuicunque 
+   <lb ed="#B" n="103"/>sed de suspectis in fide &amp; ad materiam subiectam: quem 
+   <lb ed="#B" n="104"/>admodum praesumebatur de Rufino. Haec de receptione 
+   <lb ed="#B" n="105"/>doctrinae positiua &amp; approbatiua verbaliter.
+  </p>
+      <p xml:id="jMqv4a-d1e801-d1e1243">
+   ⁋ Si 
+   <lb ed="#B" n="106"/>militer bifariam aliqua doctrina permissiue recipitur. 
+   <lb ed="#B" n="107"/>vno modo quando allegatur tanquam pro opere authentico 
+   <lb ed="#B" n="108"/>quando non solet ei contradici in re dubia: quamuis aliqua 
+   <lb ed="#B" n="109"/>falsa: immo haereses inaduertenter ponat. hoc modo  
+   <lb ed="#B" n="110"/>magister sententiarum (cuius errores doctores colli- 
+   <!--0040.xml-->
+   <pb ed="#B" n="4-v"/>
+       <cb ed="#B" n="a"/>
+       <lb ed="#B" n="1"/>gunt) recipitur. &amp; <name xml:id="jMqv4a-d1e801-Nd1e1264">Gratianus</name>, qui authentice vbilibet
+   al<lb ed="#B" n="2" break="no"/>legatur: a cuius libro pontificii iuris doctores
+   Decre<lb ed="#B" n="3" break="no"/>tiste appellantur: &amp; non decretalistae a decretalibus. &amp; tamen 
+   <lb ed="#B" n="4"/>nullibi legitur positiue liber eius ab ecclesia approbatus. 
+   <lb ed="#B" n="5"/>secus est de Decretalibus / Sexto / &amp; Clementinis. vt pa 
+   <lb ed="#B" n="6"/>tet in eorum prologis. Et tamen ille idem vnam tenet haeresim 
+   <lb ed="#B" n="7"/>in fide. vt patet. xxiii. q. iiii. Si illic. vbi dicit quod rex 
+   <lb ed="#B" n="8"/>
+       <name xml:id="jMqv4a-d1e801-Nd1e1282">Achab</name> duos quinquagenarios ad Heliam Thesbiten 
+   <lb ed="#B" n="9"/>misit: &amp; tamen non fuit <name xml:id="jMqv4a-d1e801-Nd1e1288">Achab</name>, sed <name xml:id="jMqv4a-d1e801-Nd1e1291">Ochozias</name>: vt patet 
+   <lb ed="#B" n="10"/>iiii. Regum. i. Sic <name xml:id="jMqv4a-d1e801-Nd1e1296">bea. Bernardus</name>, &amp; <name xml:id="jMqv4a-d1e801-Nd1e1299" ref="#Anselm">Anselmus</name> recipiun 
+   <lb ed="#B" n="11"/>tur. quibus non solet in scholis contradici
+  </p>
+      <p xml:id="jMqv4a-d1e801-d1e1307">
+   ⁋ Secundi re 
+   <lb ed="#B" n="12"/>cipiuntur permissiue: quoniam allegantur tam in scholis quam in 
+   <lb ed="#B" n="13"/>populo: cosuetudo tamen inualuit quod ad omnem ventum in  
+   <lb ed="#B" n="14"/>scholis negentur: &amp; eorum auctoritas paulo plus habet 
+   <lb ed="#B" n="15"/>grauitatis, quam rationes eorum valeant: vt Altisiodoren. 
+   <lb ed="#B" n="16"/>Alexam. beatus Thomas, doctor subtilis &amp; huiusmodi scri 
+   <lb ed="#B" n="17"/>ptores: quorum auctoritates a doctis in sermone de 
+   <lb ed="#B" n="18"/>rebus ambiguis recitantur: &amp; a multis scriptoribus: &amp; tamen 
+   <lb ed="#B" n="19"/>si contra quencumque in scholis respondentem vel scribentem 
+   <lb ed="#B" n="20"/>vnum istorum adduceres, sine vlteriore processu absque 
+   <lb ed="#B" n="21"/>expositione eum negabit: nec temere respondere iudica 
+   <lb ed="#B" n="22"/>bitur. &amp; tamen aliqui istorum opinione mea multo
+   doctio<lb ed="#B" n="23" break="no"/>res sunt quam multi quos assueti sumus non negare: sed 
+   <lb ed="#B" n="24"/>quia ipsi scholasticae materias arduas partractarunt: &amp; 
+   <lb ed="#B" n="25"/>erudite, &amp; contradixerunt sibi mutuo in materia
+   to<lb ed="#B" n="26" break="no"/>pica: statim post sua tempora contradictores apparentes 
+   <lb ed="#B" n="27"/>inuenerunt: &amp; auctoritatem illam cum aliquot minus do 
+   <lb ed="#B" n="28"/>ctis antiquis de non negando non consecuti sunt. Sed 
+   <lb ed="#B" n="29"/>quia multa &amp; doctae scripserunt: auctoritatem improbo la 
+   <lb ed="#B" n="30"/>bore &amp; magna eruditione adepti sunt vt in
+   contracti<lb ed="#B" n="31" break="no"/>bus &amp; materiis ambiguis allegentur: &amp; aliorum non est 
+   <lb ed="#B" n="32"/>memoria. Alia est est causa. Alii ad deuotiones extra 
+   <lb ed="#B" n="33"/>materias ambiguas se implicabant: quibus autem contradicen 
+   <lb ed="#B" n="34"/>dum erat non tetigere. Istorum omnem tamen opera sunt appro 
+   <lb ed="#B" n="35"/>bata permissiue: &amp; quanto plura bona &amp; rationabilius quis 
+   <lb ed="#B" n="36"/>scribit tanto magis approbationem meretur. Haeretici 
+   <lb ed="#B" n="37"/>tamen multa vera ponunt vt causa apparentiae in fallacia non 
+   <lb ed="#B" n="38"/>desit: intendentes vnam haeresim vel plures ex industria 
+   <lb ed="#B" n="39"/>in medium adducere: omnes alii catholici praeter intentionem 
+   <lb ed="#B" n="40"/>in errores inciderunt. In omnibus enim bene iudicare: &amp; in 
+   <lb ed="#B" n="41"/>nullis deficere, est potius diuinum quae humanum. Solorum au 
+   <lb ed="#B" n="42"/>tem sapientum est in absentia depraehendere quando quis praeter
+   inten<lb ed="#B" n="43" break="no"/>tionem in errorem labitur (cui venia danda est) &amp; quando ex 
+   <lb ed="#B" n="44"/>proposito. Quicquid agunt homines, intentio iudicat omnes: 
+   <lb ed="#B" n="45"/>ipsi nouerunt quo animo loquuti sunt. in aliquibus
+   in<lb ed="#B" n="46" break="no"/>aduertentiam facile est percipere: vt in dicto <name xml:id="jMqv4a-d1e801-Nd1e1385" ref="#Gratian">Gratiani</name>. 
+   <lb ed="#B" n="47"/>Ex his potest argumentum in forma dilui. 
+  </p>
+      <p xml:id="jMqv4a-d1e801-d1e1391">
+       <lb ed="#B" n="48"/>⁋ Contra tertiam conclusionem argui 
+   <lb ed="#B" n="49"/>tur. Sequeretur ex ea quod quis non posset emere
+   vitali<lb ed="#B" n="50" break="no"/>tia nec reditus redimibiles vel irredimibiles. <ref xml:id="jMqv4a-d1e801-Rd1e1399">
+        <name xml:id="jMqv4a-d1e801-Nd1e1401" ref="#HenryOfGhent">Henricus 
+   <lb ed="#B" n="51"/>enim Gandensis</name> in Quotlibetis</ref> tenet partem negatiuam: &amp; 
+   <lb ed="#B" n="52"/>eos relinquaere non est peccatum secundum omnes, eos eme 
+   <lb ed="#B" n="53"/>te secundum eum est peccatum. Eodem modo de confessione 
+   <lb ed="#B" n="54"/>statim facienda de mortali commisso habita oppor- 
+   <!--0040.xml-->
+   <cb ed="#B" n="b"/> 
+       <!-- 4-v b -->
+       <lb ed="#B" n="55"/>tunitate sacerdotis. oppositum in. <ref xml:id="jMqv4a-d1e801-Rd1e1423">xv. distin.</ref> &amp; in  
+   <lb ed="#B" n="56"/>
+       <ref xml:id="jMqv4a-d1e801-Rd1e1428">xvii. distin.</ref> huius dico.
+  </p>
+      <p xml:id="jMqv4a-d1e801-d1e1432">
+   ⁋ Ad hoc argumentum tripli 
+   <lb ed="#B" n="57"/>citer respondetur. vno modo licet dictum <name xml:id="jMqv4a-d1e801-Nd1e1436">Henrici</name> sit 
+   <lb ed="#B" n="58"/>securius: non tamen est securior opinio: quia est minus
+   ra<lb ed="#B" n="59" break="no"/>tionabilis: tum quia non habet auctoritatem nec rationem 
+   <lb ed="#B" n="60"/>pro se: &amp; opinio opposita vtramque habet. Secundo nego  
+   <lb ed="#B" n="61"/>quod illa via sit securior: cum enim sapientes &amp; rationes
+   fle<lb ed="#B" n="62" break="no"/>ctant se ad oppositum: positio eius non est ponderanda. Et 
+   <lb ed="#B" n="63"/>sic modus oppositus est securus: in quo nullus scrupulus 
+   <lb ed="#B" n="64"/>habendus est. Tertio dico: cum eius sententia sit praeter 
+   <lb ed="#B" n="65"/>rationem &amp; auctoritatem, non est secura opinio. hoc est 
+   <lb ed="#B" n="66"/>quod homo non formidet viam oppositam sequi
+   pro<lb ed="#B" n="67" break="no"/>pter rationes eius in hac parte friuolas. 
+  </p>
+      <p xml:id="jMqv4a-d1e801-d1e1462">
+       <lb ed="#B" n="68"/>⁋ Contra quartam conclusionem arguitur. 
+   <lb ed="#B" n="69"/>Ponatur quod quatuor viri docti cum totidem
+   ratio<lb ed="#B" n="70" break="no"/>nibus dicant. a contractum esse illicitum, &amp; totidem 
+   <lb ed="#B" n="71"/>dicant illum esse licitum. Si contractum Titius
+   mer<lb ed="#B" n="72" break="no"/>cator insequatur, peccat: &amp; tamen opiniones
+   opposi<lb ed="#B" n="73" break="no"/>tae sunt aeque certae: cum tot sint rationes &amp; viri pro vna 
+   <lb ed="#B" n="74"/>parte quot pro alia. quod Titius peccet patet. octo conve 
+   <lb ed="#B" n="75"/>niunt cum omnibus rationibus suis quod contractus potest 
+   <lb ed="#B" n="76"/>bene relinqui: &amp; quatuor dicerent Titium peccare sic 
+   <lb ed="#B" n="77"/>contrahendo: totidem dicunt eum non peccare: &amp; cer 
+   <lb ed="#B" n="78"/>titudo multum est ponderanda: ergo si Titius non  
+   <lb ed="#B" n="79"/>deserat illum contractum quem tot docti viri dicunt 
+   <lb ed="#B" n="80"/>esse perniciosum quot licitum, dato quod sit licitus 
+   <lb ed="#B" n="81"/>exponit se periculo peccati.
+  </p>
+      <p xml:id="jMqv4a-d1e801-d1e1495">
+   ⁋ Respondetur. quan 
+   <lb ed="#B" n="82"/>do vtrobique sunt tot apparentiae pro parte certa sicut 
+   <lb ed="#B" n="83"/>pro parte opposita, &amp; omnes conueniunt de non peccato 
+   <lb ed="#B" n="84"/>in altero extremo: vt in casu argumenti nostri: tenendum 
+   <lb ed="#B" n="85"/>est certum: auctoritates enim &amp; rationes nihil aliquid volunt 
+   <lb ed="#B" n="86"/>&amp; a fortiore quando sunt plures pro parte certa: facere oppo 
+   <lb ed="#B" n="87"/>situm est exponere se periculo obruenti. Quando autem notabi 
+   <lb ed="#B" n="88"/>liter sunt plures pro vna parte quam pro alia: secure potes
+   il<lb ed="#B" n="89" break="no"/>lam partem plurium amplecti quaecumque fuerit illa: &amp; hoc 
+   <lb ed="#B" n="90"/>dummodo constat fama quod sunt eruditi exercitati ex 
+   <lb ed="#B" n="91"/>tra materiam in qua sunt suspecti. si enim pluralem in bene 
+   <lb ed="#B" n="92"/>ficiis de beneficiorum pluralitate consulas, non recte inqui 
+   <lb ed="#B" n="93"/>ris: vt si vsurarium de vsura consulas. mercator autem 
+   <lb ed="#B" n="94"/>&amp; rudis nescit inter eorum rationes discenere quis
+   ratio<lb ed="#B" n="95" break="no"/>nabilius loquatur: sed sufficit ei credere doctis
+   asse<lb ed="#B" n="96" break="no"/>rentibus: qui nolunt seipsos damnare: sed cupiunt prodesse, 
+   <lb ed="#B" n="97"/>&amp; bene dicere. Et citius doctoribus licet minus deuo 
+   <lb ed="#B" n="98"/>tis credat, quae deuotioribus reputatis, cognitis minus 
+   <lb ed="#B" n="99"/>doctis in materia ad eos non pertinenti. In super caeca est 
+   <lb ed="#B" n="100"/>res deuotio. stat alium scholasticum virum putatum rotun 
+   <lb ed="#B" n="101"/>dum, esse deuotiorem realiter illo quem deuotiorem pu 
+   <lb ed="#B" n="102"/>tas. Et si minus deuotus sit: talentum iudicii recti  
+   <lb ed="#B" n="103"/>habet quo alter deuotior vacat. 
+  </p>
+      <p xml:id="jMqv4a-d1e801-d1e1545">
+       <lb ed="#B" n="104"/>⁋ Secundo arguitur contra
+   ean<lb ed="#B" n="105" break="no"/>dem conclusionem. Mulier habens discretam &amp; 
+   <lb ed="#B" n="106"/>prudentem conscientiam: quod vir suus est sibi in
+   ali<lb ed="#B" n="107" break="no"/>quo gradu consanguinitatis prohibito iunctus: potest 
+   <lb ed="#B" n="108"/>debitu reddere. patet de sententia excommunicationis Inquisitioni. &amp; 
+   <!--0041.xml-->
+   <pb ed="#B" n="5-r"/>
+       <cb ed="#B" n="a"/>
+       <lb ed="#B" n="1"/>tamen habet rationes oppositas in aequilibrio positas: ergo  
+   <lb ed="#B" n="2"/>solutio nulla. Illud argumentum colorate est replica 
+   <lb ed="#B" n="3"/>contra dicta in solutione prioris argumenti: ad proban 
+   <lb ed="#B" n="4"/>dum quod quando rationes oppositae sunt apparentes: potest 
+   <lb ed="#B" n="5"/>quis hanc viam vel illam ad nutum licite sequi.
+  </p>
+      <p xml:id="jMqv4a-d1e801-d1e1577">
+   ⁋
+   Respon<lb ed="#B" n="6" break="no"/>detur. hoc argumentum non est contra dicta. quia hic sunt 
+   <lb ed="#B" n="7"/>rationes hicinde contra eam. quicquid enim facit, si neget de 
+   <lb ed="#B" n="8"/>bitum viro licite petenti ipsa peccat: immo intercum etiam 
+   <lb ed="#B" n="9"/>quando vir eius peccat in petendo, ipsa debitum reddere te 
+   <lb ed="#B" n="10"/>netur. Est argumentum in oppositum ob gradum consan 
+   <lb ed="#B" n="11"/>guinitatis ambiguum: quod non est matrimonium quousque 
+   <lb ed="#B" n="12"/>lis terminatur fauore matrimonii: &amp; vt obediat pos 
+   <lb ed="#B" n="13"/>reddere debitum. illa enim pars est securior in redden  
+   <lb ed="#B" n="14"/>do: quemadmodum alia in non petendo. Illud argumen 
+   <lb ed="#B" n="15"/>tum est pro conclusione si bene intelligatur. hoc autem in ma 
+   <lb ed="#B" n="16"/>teria matrimonii inferius prolixius deduco, quaere pertranseo. 
+  </p>
+      <p xml:id="jMqv4a-d1e801-d1e1603">
+       <lb ed="#B" n="17"/>⁋ Tertio arguitur: no pot ho assenti 
+   <lb ed="#B" n="18"/>re quod vna pars est facienda cum est inter aequalia moti 
+   <lb ed="#B" n="19"/>ua: sed quicumque contrauenit conscientiae suae peccat. igi 
+   <lb ed="#B" n="20"/>tur. maior patet. quia imaginari possumus cum volu 
+   <lb ed="#B" n="21"/>mus, opinari autem non possumus cum
+   volu<lb ed="#B" n="22" break="no"/>mus.
+  </p>
+      <p xml:id="jMqv4a-d1e801-d1e1619">
+   ⁋ Respondetur teste experientia: licet non possim 
+   <lb ed="#B" n="23"/>assentire propositioni ineuidenti sine ratione: tamen cum
+   mo<lb ed="#B" n="24" break="no"/>tiuis aequalibus quantum est de se possumus ex passione 
+   <lb ed="#B" n="25"/>animi vni parti assentire. patet exemplariter, nunc
+   Pa<lb ed="#B" n="26" break="no"/>risiis dicitur: quod exercitus regis est victor in ltalia. duc 
+   <lb ed="#B" n="27"/>aeque praesentes sunt: quorum alter Gallos diligens assen 
+   <lb ed="#B" n="28"/>tit: alter non assentit: sed dissentit. Sic in proposito potest quis 
+   <lb ed="#B" n="29"/>assentire huic. hoc est mihi licitum. Et licet nesciat quae
+   il<lb ed="#B" n="30" break="no"/>larum viarum sit verior: scit quod secundum vnam facere ei le 
+  </p>
+      <p xml:id="jMqv4a-d1e801-d1e1639">
+       <lb ed="#B" n="31"/>⁋ Contra quintam conclusionem arguitur: 
+   <lb ed="#B" n="32"/>Stat virum facere vnum contractum illicitum, &amp; contra 
+   <lb ed="#B" n="33"/>legem dei, prohibitum: vt in simonia &amp; vsura &amp; simili 
+   <lb ed="#B" n="34"/>bus. &amp; tamen multitudo notabiliter maior sapientum 
+   <lb ed="#B" n="35"/>quos instanter consulit, iudicabit ipsum licitum: ergo  
+   <lb ed="#B" n="36"/>vir iste faciens contra legem dei peccabit quicquid 
+   <lb ed="#B" n="37"/>homines ei dicant. quia propter nostrum affirmare vel
+   ne<lb ed="#B" n="38" break="no"/>gare nihil mutatur in re: primo peri hermenias: cum 
+   <lb ed="#B" n="39"/>enim ille faciat actum in lege diuina prohibitum: ei impu 
+   <lb ed="#B" n="40"/>tabitur.
+  </p>
+      <p xml:id="jMqv4a-d1e801-d1e1663">
+   ⁋ Respondetur. si vir talem contractum temere 
+   <lb ed="#B" n="41"/>sine prudentum consilio adiit: cum est contra legem dei 
+   <lb ed="#B" n="42"/>peccat. &amp; si prudentes a principio consuluisset non  
+   <lb ed="#B" n="43"/>peccasset, non enim facile inueniet doctos
+   notabili<lb ed="#B" n="44" break="no"/>ter plures conuenientes in parte falsa: immo in parte ve 
+   <lb ed="#B" n="45"/>ra citius conuenient: vel dubitabunt: &amp; tunc ei contra: 
+   <lb ed="#B" n="46"/>ctum tanquam periculosum dissuadebunt: &amp; sic habet viam 
+   <lb ed="#B" n="47"/>certam non peccandi. Sed illo dato in casu, vt viribus 
+   <lb ed="#B" n="48"/>argumenti totaliter satisfiat: nego quod peccabit con 
+   <lb ed="#B" n="49"/>silio prudentum vtens: nec haec consequentia valet:
+   il<lb ed="#B" n="50" break="no"/>le facit actum contra legem dei prohibitum: ergo peccat. 
+   <lb ed="#B" n="51"/>patet de demente, &amp; dormiente virum occidente: quibus 
+   <lb ed="#B" n="52"/>est ignorantia inuincibilis: sic huic in casu. Secundo
+   di<lb ed="#B" n="53" break="no"/>co negando quod ille faciat actum sub poena peccati
+   im<lb ed="#B" n="54" break="no"/>putabiliter ei prohibitum: stantibus his circunstantiis: sicut 
+   <!--0041.xml-->
+   <cb ed="#B" n="b"/> 
+       <!-- 5-r b -->
+       <lb ed="#B" n="55"/>dicitur de <name xml:id="jMqv4a-d1e801-Nd1e1704">Iacob</name> 
+       <name xml:id="jMqv4a-d1e801-Nd1e1707">Liam</name> in tenebris cognoscente: quan 
+   <lb ed="#B" n="56"/>Rachelem putabat. Et sic homo potest tenere
+   alie<lb ed="#B" n="57" break="no"/>num sine peccato, dummodo inuincibiliter credit esse suum 
+   <lb ed="#B" n="58"/>Dictum autem <name xml:id="jMqv4a-d1e801-Nd1e1717" ref="#Aristotle">Aristote.</name> Propter nostrum affirmare vel 
+   <lb ed="#B" n="59"/>negare nihil mutatur in re: est extra materiam peccatis 
+   <lb ed="#B" n="60"/>vt quemadmodum si quatuor docti medici dicerent 
+   <lb ed="#B" n="61"/>quod vnus cibus est medicinalis patienti cuius complexio 
+   <lb ed="#B" n="62"/>nem non norunt, quam mortem infert: non minus sequitur 
+   <lb ed="#B" n="63"/>mors quicquid ipsi dicant: quia hoc est in agente na 
+   <lb ed="#B" n="64"/>turali: &amp; potest esse sine peccato patientis. secus est hic. 
+   <lb ed="#B" n="65"/>inferioribus enim praeceptum est prudentes in rebus
+   ambi<lb ed="#B" n="66" break="no"/>guis consulere: &amp; eorum vti iudicio. Super cathedram 
+   <lb ed="#B" n="67"/>Moysi sedent Scribae &amp; Pharisaei: quae dicunt vobis fa 
+   <lb ed="#B" n="68"/>cite. Et <ref xml:id="jMqv4a-d1e801-Rd1e1741">Deuteronomii. xvii.</ref> Si difficile &amp;
+   ambi<lb ed="#B" n="69" break="no"/>guum apud te iudicium esse perspexeris inter sanguinem &amp; 
+   <lb ed="#B" n="70"/>saguinem, canm &amp; non cam: lepram &amp; non lepra. paulo 
+   <lb ed="#B" n="71"/>post sequitur. Facies quaecumque dixerint qui psunt. Non 
+   <lb ed="#B" n="72"/>solum episcous &amp; curatus tuus: sed &amp; eruditi viri tibi con 
+   <lb ed="#B" n="73"/>sulent: vt patet per verbum Christi Scribas &amp; Pha 
+   <lb ed="#B" n="74"/>risaeos introducentis. 
+  </p>
+      <p xml:id="jMqv4a-d1e801-d1e1758">
+       <lb ed="#B" n="75"/>⁋ Secundo arguitur contra eandem 
+   <lb ed="#B" n="76"/>conclusionem. solus <name xml:id="jMqv4a-d1e801-Nd1e1764" ref="#Jerome">Hieronymus</name> concilio Aquis 
+   <lb ed="#B" n="77"/>grani se opposuit: quod determinauit: quod faptor
+   ra<lb ed="#B" n="78" break="no"/>ptam ducere nequibat: vt recitat <ref xml:id="jMqv4a-d1e801-Rd1e1772">
+        <name xml:id="jMqv4a-d1e801-Nd1e1774" ref="#Gratian">Gratianus</name>. xxxvi. 
+   <lb ed="#B" n="79"/>q. ii. ca. Placuit.</ref> &amp; causam tangit Apparatus: quia 
+   <lb ed="#B" n="80"/>auctoritate veteris testamenti, &amp; concilii Melden 
+   <lb ed="#B" n="81"/>sis se muniuit: ergo licitum est vni viro magnae  
+   <lb ed="#B" n="82"/>multitudini sapientum contrauenire.
+  </p>
+      <p xml:id="jMqv4a-d1e801-d1e1788">
+   ⁋ Respon 
+   <lb ed="#B" n="83"/>detur, non nego quin vnus possit opinionem mul 
+   <lb ed="#B" n="84"/>torum castigare. quis enim vnum vel duos
+   eru<lb ed="#B" n="85" break="no"/>ditos multi alii posteriores sine examine
+   vlterio<lb ed="#B" n="86" break="no"/>re sequantur: hoc tamen est prarum in ingeniosis 
+   <lb ed="#B" n="87"/>sed ille vnus non sibi credat quousque cum doctis 
+   <lb ed="#B" n="88"/>conferat: quia inueniet seipsum fortasse falsum. 
+   <lb ed="#B" n="89"/>Sed in proposito argumenti non crederem Hiero 
+   <lb ed="#B" n="90"/>nymo contra bonam multitudinem sapientum 
+   <lb ed="#B" n="91"/>&amp;c. citra vniuersale concilium: <name xml:id="jMqv4a-d1e801-Nd1e1809" ref="#Augustine">Augustini</name>. iuncto. 
+   <lb ed="#B" n="92"/>An erat concilium Aquisgrani indubitatum pro 
+   <lb ed="#B" n="93"/>nunc non inquiro. ratio tamen Apparati est
+   nul<lb ed="#B" n="94" break="no"/>la: quia concilium potest inualidare contractum 
+   <lb ed="#B" n="95"/>inter aliquas personas: vel etiam Romanus pontifex. 
+   <lb ed="#B" n="96"/>propterea nihil est dicere. <name xml:id="jMqv4a-d1e801-Nd1e1823" ref="#Jerome">Hieronymus</name> hoc
+   proba<lb ed="#B" n="97" break="no"/>uit auctoritate veteris testamenti. Sicut si ego nunc 
+   <lb ed="#B" n="98"/>probarem quod auctoritate diuina in tertio gradu
+   con<lb ed="#B" n="99" break="no"/>sanguinitatis duae personae possent contrahere: esse 
+   <lb ed="#B" n="100"/>bene remotus a bono proposito ad probandum quod essent 
+   <lb ed="#B" n="101"/>psonae habiles ad mutuo contrahendum. Propter 
+   <lb ed="#B" n="102"/>ea <name xml:id="jMqv4a-d1e801-Nd1e1839" ref="#Rimini">Gregorius Ariminensis</name> in suo secundo trepidat
+   ti<lb ed="#B" n="103" break="no"/>more vbi non erat timor: ad tenendum cum com 
+   <lb ed="#B" n="104"/>muni opinione doctorum quod paruuli ante baptismum 
+   <lb ed="#B" n="105"/>decedentes non puniuntur poena sensus. scholasti 
+   <lb ed="#B" n="106"/>ci namque theologi <name xml:id="jMqv4a-d1e801-Nd1e1851" ref="#Augustine">Augustinum</name> sequentes &amp; sacras
+   li<lb ed="#B" n="107" break="no"/>teras: &amp; motiua beati <name xml:id="jMqv4a-d1e801-Nd1e1857" ref="#Augustine">Augustini</name> considerantes: non va 
+   <lb ed="#B" n="108"/>ne hanc viam rationabilem agminatim sequuti sunt. 
+   <!--0042.xml-->
+   <pb ed="#B" n="5-v"/>
+       <cb ed="#B" n="a"/>
+       <lb ed="#B" n="1"/>Propterea satius fuisset Gregorio Ariminensi Au 
+   <lb ed="#B" n="2"/>gustinum cum opinione communi flectere, sicut poterat, qua 
+   <lb ed="#B" n="3"/>extreme discedere dubie.
+  </p>
+      <p xml:id="jMqv4a-d1e801-d1e1876">
+   ⁋ Tertio arguitur.
+   plu<lb ed="#B" n="4" break="no"/>est credendum multitudini quam paucitati: sed plures 
+   <lb ed="#B" n="5"/>sunt infideles quam fideles: ergo plus infidelibus cre 
+   <lb ed="#B" n="6"/>dendum est. Respondetur. quia no possum commod 
+   <lb ed="#B" n="7"/>paucis huic argumento satisfacere: circa materiam 
+   <lb ed="#B" n="8"/>illam integra quaestio sequens tractabitur. 
+  </p>
+      <p xml:id="jMqv4a-d1e801-d1e1889">
+       <lb ed="#B" n="9"/>⁋ Hactenus vidimus realiter aliquans 
+   <lb ed="#B" n="10"/>opiniones esse oppositas, &amp; non ad nomen: et per con 
+   <lb ed="#B" n="11"/>sequens non erat possibile domimno loanni Pico comple 
+   <lb ed="#B" n="12"/>re quod mente conceperat. Licitum est in materia fi 
+   <lb ed="#B" n="13"/>dei impertinenti tenere hanc partem vel illam si 
+   <lb ed="#B" n="14"/>ne vlla dei offensa. vtpote: quod quantitas distinguatur 
+   <lb ed="#B" n="15"/>a re quanta: vel non: &amp; sic in materia fidei
+   quan<lb ed="#B" n="16" break="no"/>do no constat vtra pars sit vera: sed sunt oculatis 
+   <lb ed="#B" n="17"/>mi viri contraria illic tenentes. Sed eruditi viri est 
+   <lb ed="#B" n="18"/>tenere in his omnibus viam apparentiorem: hoc est si 
+   <lb ed="#B" n="19"/>sit in materia fidei inniti fidei quantum fieri potest: &amp; in  
+   <lb ed="#B" n="20"/>lumine naturali partem in lumine naturali apparen 
+   <lb ed="#B" n="21"/>tiorem insequi. Tenere enim nouas &amp; friuolas inuentie 
+   <lb ed="#B" n="22"/>nes ostentationis gratia, non arguit eruditum virum: sed va 
+   <lb ed="#B" n="23"/>num &amp; minus solidum. eruditus autem est qui rectiorem viam 
+   <lb ed="#B" n="24"/>in omnibus sequi nouit: &amp; inter opposita recte iudica 
+   <lb ed="#B" n="25"/>re: qui non minus est circa hoc laudandus quam prim 
+   <lb ed="#B" n="26"/>veri inuentor. decimi Ethicorum vltimo. teste phomo. Te 
+   <lb ed="#B" n="27"/>neatur pro doctrina tanquam esset celte in silice sculpta 
+   <lb ed="#B" n="28"/>quod in via morum modus certior est tenendus: qui eni se ex 
+   <lb ed="#B" n="29"/>ponit periculo peccati peccat. Quando autem sunt dua 
+   <lb ed="#B" n="30"/>opiniones de peccato &amp; non peccato, ambe convenien 
+   <lb ed="#B" n="31"/>tes in vno extremo de non peccato: &amp; dissentientes 
+   <lb ed="#B" n="32"/>inter se de alio extremo de peccato &amp; non peccato 
+   <lb ed="#B" n="33"/>vt verbi causa, dare beneficium idoneo relicto magis 
+   <lb ed="#B" n="34"/>idoneo secundum vnam positionem est peccatum: non autem
+   se<lb ed="#B" n="35" break="no"/>cundum oppositam: secundum vtramque non est peccatum dare be 
+   <lb ed="#B" n="36"/>neficium magis idoneo: Tunc dico, si sint tot sapien 
+   <lb ed="#B" n="37"/>tes vel pauio pauciores ( de statu in maximo nune 
+   <lb ed="#B" n="38"/>ro qui no: vel minimo qui sic: sapientis solius est
+   iu<lb ed="#B" n="39" break="no"/>dicare, dicentes illud esse peccatum: dare beneficium
+   ido<lb ed="#B" n="40" break="no"/>neo magis idoneo relicto, est exponere se pericu 
+   <lb ed="#B" n="41"/>lo confundenti &amp; obtuenti peccati: &amp; viro imputabi 
+   <lb ed="#B" n="42"/>tur quicquid sit ex parte rei sine consultatione: &amp; a for 
+   <lb ed="#B" n="43"/>tiori si sint plures, non tamen semper habendus est oculus 
+   <lb ed="#B" n="44"/>ad multitudinem dicentium: sed sapientiam cum nunero
+   con<lb ed="#B" n="45" break="no"/>siderabis: quia sicut duos vel tres debiliores valet 
+   <lb ed="#B" n="46"/>vnus fortis: sic vnus oculatus materiam diligenter
+   im<lb ed="#B" n="47" break="no"/>quirens tres alios inferiores valet. Vlterius citius 
+   <lb ed="#B" n="48"/>imitabere opinionem communiorem sapientum: tam in 
+   <lb ed="#B" n="49"/>via morum qui assentiendi circa propositiones fidei in  
+   <lb ed="#B" n="50"/>quo sensu sunt de fide.
+  </p>
+      <p xml:id="jMqv4a-d1e801-d1e1983">
+   ⁋ Amplius dicebam
+   duo<lb ed="#B" n="51" break="no"/>bus modis in genere doctrinam ab ecclesia recipi 
+   <lb ed="#B" n="52"/>vno modo positiue. &amp; hoc trifariam. Primo modo
+   im<lb ed="#B" n="53" break="no"/>dubitanter ad sanguinem inclusiue: vt lex dei. Se 
+   <lb ed="#B" n="54"/>cundo modo recipitur doctrina cui nemo contra 
+   <!--0042.xml-->
+   <cb ed="#B" n="b"/> 
+       <!-- 5-v b -->
+       <lb ed="#B" n="55"/>ire debet: sed eam exponere per alia tantae
+   auctorita<lb ed="#B" n="56" break="no"/>tis: quando apparet vna pars prio aspectu extreme lo 
+   <lb ed="#B" n="57"/>qui contra vnam putata a sapientibus veritatem. hoc modo 
+   <lb ed="#B" n="58"/>recipiuntur decretales: Sextus, &amp; Clementinae. Ter 
+   <lb ed="#B" n="59"/>tio modo recipiuntur sanctorum scripta, de quibus Ge 
+   <lb ed="#B" n="60"/>lasius papa loquitur in xv. distinctione. Scta Roma 
+   <lb ed="#B" n="61"/>na ecclesia. Quae scripta definitionibus pontificum 
+   <lb ed="#B" n="62"/>postponenda puto: cum scripta pontificum a mul 
+   <lb ed="#B" n="63"/>tis sapientibus sint condita: &amp; iam per ignem &amp; 
+   <lb ed="#B" n="64"/>aquam pro magna parte sint exposita. In hoc
+   ter<lb ed="#B" n="65" break="no"/>tio gradu / quando doctores sacri sibi contradicunt, si 
+   <lb ed="#B" n="66"/>vterque modus est nobis aeque apparens vel
+   pau<lb ed="#B" n="67" break="no"/>lo minus apparens: possumus hunc modum vel 
+   <lb ed="#B" n="68"/>illum insequi. Permissiue autem aliqui recipiuntur 
+   <lb ed="#B" n="69"/>quorum scripta non positiue ab ecclesia
+   approban<lb ed="#B" n="70" break="no"/>tur: solent tamen tam in schola quam in sermone in
+   veri<lb ed="#B" n="71" break="no"/>tatis testimonium addunci: quorum aliquos licet 
+   <lb ed="#B" n="72"/>minus doctos negare non cosueuimus: vt Cassia 
+   <lb ed="#B" n="73"/>num: beatum <name xml:id="jMqv4a-d1e801-Nd1e2041" ref="#Anselm">Anselmum:</name> magistrum Sententiarum 
+   <lb ed="#B" n="74"/>extra eius errores communes. Aliis autem quo ad 
+   <lb ed="#B" n="75"/>hoc vt non negentur, non est concessa haec auctoritas: 
+   <lb ed="#B" n="76"/>multo tamen maior ob rationes bonas &amp; multa 
+   <lb ed="#B" n="77"/>egregie determinata in materia ancipiti. Finaliter 
+   <lb ed="#B" n="78"/>si ad curatum accedat aliquis cum casu aliquo quem iudi 
+   <lb ed="#B" n="79"/>cio multorum prudentum intellexit licitum: licet curatus 
+   <lb ed="#B" n="80"/>antea oppositum tenuerit, mutet propositum &amp; se con 
+   <lb ed="#B" n="81"/>formet iudicio multorum: quorum forte aliqui melius in  
+   <lb ed="#B" n="82"/>telligunt quam ipse. alioquin stulte negabit actum
+   iusti<lb ed="#B" n="83" break="no"/>tiae debitae suo subdito. Similiter iudex procedat 
+   <lb ed="#B" n="84"/>secundum allegata &amp; probata: &amp; si sententiae
+   op<lb ed="#B" n="85" break="no"/>positae fuerit: suam conscientiam deponat: quia si iudi 
+   <lb ed="#B" n="86"/>cet se male agere condemnando innocentem, &amp; credat 
+   <lb ed="#B" n="87"/>opinionem plunum falsam: &amp; velit communiori opi 
+   <lb ed="#B" n="88"/>nioni se conformare in exequutione iustitiae contra 
+   <lb ed="#B" n="89"/>suam conscientiam, peccat. vtrobique enim suae
+   con<lb ed="#B" n="90" break="no"/>scientiae contraueniens peccat. &amp; ratio est: quia facit
+   il<lb ed="#B" n="91" break="no"/>lud quod iudicat esse iniquum: &amp; omnis talis inique agit. 
+   <lb ed="#B" n="92"/>Nihil est quod aliqui dicut: potest contrauenire suae 
+   <lb ed="#B" n="93"/>conscientiae vt persona priuata: non autem vt persona pu 
+   <lb ed="#B" n="94"/>blica. Ille ei homo licet sit persona priuata quo ad 
+   <lb ed="#B" n="95"/>aliquas operationes: &amp; publica quo ad alias: non ha 
+   <lb ed="#B" n="96"/>bet nisi vnam conscientia: nec potest habere iudicia 
+   <lb ed="#B" n="97"/>contraria. itaque si iudicet quod est male actum illum scitum 
+   <lb ed="#B" n="98"/>innocentem damnare: contraueniendo peccat. Omne 
+   <lb ed="#B" n="99"/>enim quod non est ex fide peccatum est. hoc est contra con 
+   <lb ed="#B" n="100"/>scientiam. Ad Romanos. xiiii. Si vero iudicet istum 
+   <lb ed="#B" n="101"/>esse innocentem: &amp; eo non obstante debet debito necessi 
+   <lb ed="#B" n="102"/>tatis vel congruitatis hunc damnare: non male 
+   <lb ed="#B" n="103"/>agit in hoc, nec suae conscientiae contrauenit. quia 
+   <lb ed="#B" n="104"/>facere contra conscientiam est facere contra dictamen 
+   <lb ed="#B" n="105"/>practicum de aliquo faciendo vel non faciendo.  
+   <lb ed="#B" n="106"/>Si dubitet an male agat illum damnando, adhuc male 
+   <lb ed="#B" n="107"/>agit, quemadmodum asserens astra esse paria &amp; non 
+   <lb ed="#B" n="108"/>assentiens in mente sicut profert, mentitur: multo mi 
+   <lb ed="#B" n="109"/>nus tamen quam si opposito assentiret.
+  </p>
+    </div>
+   </body>
+  </text>
+</TEI>

@@ -1,0 +1,349 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 7</title>
+      <author ref="#JohnMair">John Mair</author>
+      <respStmt>
+       <name>Jeffrey C. Witt</name>
+       <resp>TEI Encoder</resp>
+      </respStmt>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 7</title>
+       <date when="2020-06-09">June 27, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="B" n="cod-Bda113">Badius 1516</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+     guidelines for a diplomatic edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-06-27" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+      <pb ed="#B" n="298-r"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="jMqv4a-d1e1590"> <!-- l4d38q7 -->
+      <head xml:id="jMqv4a-d1e1590-Hd1e104">Quaestio 7</head>
+      <head xml:id="jMqv4a-d1e1590-Hd1e107" type="question-title">An curatorum status qui apud Britannos omnes rectores 
+  vocantur sit maioris perfectionis quam status religiosorum</head>
+      <p xml:id="jMqv4a-d1e1590-d1e110">
+       <lb ed="#B" n="20"/>⁋ Distinctionis Trigesimaeoctauae 
+   <lb ed="#B" n="21"/>Quaestio Septima. 
+   <lb ed="#B" n="22"/>DErtio circa religio.- 
+   <lb ed="#B" n="23"/>Inis materiam, &amp; septimo in hac 
+   <lb ed="#B" n="24"/>ldistinctione quaeritur: an
+   cura<lb ed="#B" n="25" break="no"/>ltorum status qui apud Britan 
+   <lb ed="#B" n="26"/>nos omnes rectores vocantur, si 
+   <lb ed="#B" n="27"/>maioris perfectionis quam status 
+   <lb ed="#B" n="28"/>religiosorum. In hac quaestione 
+   <lb ed="#B" n="29"/>tria faciam. In primis sententiam vnam recitabo. Secundo 
+   <lb ed="#B" n="30"/>illam impugnabo. Tertio ponam sententiam illam quam
+   ra<lb ed="#B" n="31" break="no"/>tionabiliorem puto.
+  </p>
+      <p xml:id="jMqv4a-d1e1590-d1e139">
+   ⁋ Pro istorum articulorum expe 
+   <lb ed="#B" n="32"/>ditione scito esse sententiam beati Thomae in secunda 
+   <lb ed="#B" n="33"/>secundae quaest. clxxxiiii. art. vi. dicentis quod nullus ci 
+   <lb ed="#B" n="34"/>tra episcopum est in statu perfectionis. Ratio eius est 
+   <lb ed="#B" n="35"/>quia curati non obligantur manere perpetuo cum
+   cu<lb ed="#B" n="36" break="no"/>ra: sed possunt eam deserere sine facultate episcopi 
+   <lb ed="#B" n="37"/>transeundo ad religionem. quod nullo modo liceret, si 
+   <lb ed="#B" n="38"/>essent in statu perfectionis, quia manum retro mitte 
+   <lb ed="#B" n="39"/>rent. Episcopi autem non possunt sine licentia Romani 
+   <lb ed="#B" n="40"/>pontificis ad quem solum spectat in votis perpetuis 
+   <lb ed="#B" n="41"/>dispensare / retrocedere. ergo inter solos praelatos 
+   <lb ed="#B" n="42"/>episcopi sunt in statu perfectionis. Postea articulo 
+   <lb ed="#B" n="43"/>viii. dicit. quod curati &amp; religiosi possunt comparari 
+   <lb ed="#B" n="44"/>secundum bonitatem qua boni sunt: &amp; difficultatem quan 
+   <lb ed="#B" n="45"/>habent: hi ad regularem obseruantiam seruandam: illi ad 
+   <lb ed="#B" n="46"/>bene ministrandum in sua cura. Si sit comparatio in  
+   <lb ed="#B" n="47"/>bonitate: praefertur religiosus curato vel
+   archidia<lb ed="#B" n="48" break="no"/>cono. ratio est: quia religiosus totam suam vitam obli 
+   <lb ed="#B" n="49"/>gat ad perfectionis studium. curatus autem &amp; archidia 
+   <lb ed="#B" n="50"/>conus non obligant totam vitam suam ad curam animarum 
+   <lb ed="#B" n="51"/>sicut episcopus: nec etiam eis competit principalem cu 
+   <lb ed="#B" n="52"/>ram subditorum habere, vt episcopo: sed tamen quaedam 
+   <lb ed="#B" n="53"/>particularia officia pro animarum cura illis commit. 
+   <!--0627.xml-->
+   <cb ed="#B" n="b"/> 
+       <!-- 298-r b -->
+       <lb ed="#B" n="54"/>tuntur. Et ideo comparatio status religionis ad eo 
+   <lb ed="#B" n="55"/>rum officium, est sicut vniuersalis ad particularem, 
+   <lb ed="#B" n="56"/>&amp; sicut holocausti ad sacrificium, quod est minus ho 
+   <lb ed="#B" n="57"/>locausto: vt patet per Gregorium super Ezechielem. 
+   <lb ed="#B" n="58"/>sed haec comparatio est secundum genus operis, &amp; non  
+   <lb ed="#B" n="59"/>secundum charitatem operantis. quandoque enim opus 
+   <lb ed="#B" n="60"/>minus ex genere est magis meritorium. Si vero at 
+   <lb ed="#B" n="61"/>tendatur difficultas bene obseruandi, in religione 
+   <lb ed="#B" n="62"/>&amp; in cuta animarum: sic difficilius est bene
+   conuer<lb ed="#B" n="63" break="no"/>sari in cuta animarum propter exteriora pericula i 
+   <lb ed="#B" n="64"/>quamuis conversatio religionis sit difficilior, quantum 
+   <lb ed="#B" n="65"/>ad genus operis, propter arctitudinem obseruan 
+   <lb ed="#B" n="66"/>tiae regularis. Ex his ergo secundum eum
+   habe<lb ed="#B" n="67" break="no"/>tur quod soli episcopi &amp; religiosi sunt in statu perfe 
+   <lb ed="#B" n="68"/>ctionis. episcopi tamen sunt in perfectiore statu 
+   <lb ed="#B" n="69"/>quam religiosi. 
+  </p>
+      <p xml:id="jMqv4a-d1e1590-d1e231">
+       <lb ed="#B" n="70"/>⁋ Contra hanc positionem
+   argui<lb ed="#B" n="71" break="no"/>tur, probando quod plebani &amp; alii curam animarum 
+   <lb ed="#B" n="72"/>habentes vt archidiaconi, decani, &amp; curati, sint in  
+   <lb ed="#B" n="73"/>statu perfectionis. primo per glos. marginalem. 
+   <lb ed="#B" n="74"/>Matth. xxiiii. dicentem. Tres sunt status hominum 
+   <lb ed="#B" n="75"/>solum: scilicet coniugati, qui significantur per Iob. 
+   <lb ed="#B" n="76"/>rectores: qui significatur per None qui arcam rexit. 
+   <lb ed="#B" n="77"/>contemplatiui &amp; continentes: qui sunt in statu perfe 
+   <lb ed="#B" n="78"/>ctionis, &amp; significantur per Danielem. Et addit grossa. 
+   <lb ed="#B" n="79"/>non sunt alia genera hominum quam haec tria in
+   eccle<lb ed="#B" n="80" break="no"/>sia. Idem habetur Ezechielis. xiiii. in glossa interlinea 
+   <lb ed="#B" n="81"/>ri. vbi in textu dicitur. Et si fuerint tres viri isti in  
+   <lb ed="#B" n="82"/>medio eius, None, Daniel, &amp; Iob, ipsi iustitia sua 
+   <lb ed="#B" n="83"/>liberabunt animas suas. Non tres solum intellexit:  
+   <lb ed="#B" n="84"/>sed per eos, hos tres status de quibus
+   loquimur<lb ed="#B" n="85" break="no"/>Modo curati non sunt de statu coniugatorum mec 
+   <lb ed="#B" n="86"/>sunt ex alio genere quam ex supremo eorum cum Not 
+   <lb ed="#B" n="87"/>in quo genere sunt episcopi. &amp; si religiosi sint de 
+   <lb ed="#B" n="88"/>genere Danielis contemplando: supta eos sunt 
+   <lb ed="#B" n="89"/>curati. Praeterea ratio eius non valet, qua dicit.
+   epi<lb ed="#B" n="90" break="no"/>scopi obligantur perpetuo manere cu episcopatu 
+   <lb ed="#B" n="91"/>non autem curati. Nam hoc non est de iure naturae, 
+   <lb ed="#B" n="92"/>nec diuino: sed solum humano: magis de
+   episco<lb ed="#B" n="93" break="no"/>po quam de inferiore praelato. ergo ante illam constitu 
+   <lb ed="#B" n="94"/>tionem pontificiam ita licitum erat episcopo, episcopa 
+   <lb ed="#B" n="95"/>tum relinquere: vt curato suam curam. sed neuter 
+   <lb ed="#B" n="96"/>poterat sine rationabili causa curam suam dimitte 
+   <lb ed="#B" n="97"/>re licite: quamuis dimissio esset valida. Praeueniamus 
+   <lb ed="#B" n="98"/>igitur illam constitutionem humanam de perpetua 
+   <lb ed="#B" n="99"/>obligatione ad episcopatum sine dispensatione ma 
+   <lb ed="#B" n="100"/>ximi pontificis. tuc sequitur, quod illo tempore
+   episco<lb ed="#B" n="101" break="no"/>patus non erat status perfectionis plusquam cura: &amp; 
+   <lb ed="#B" n="102"/>post dispensationem cum episcopo factam,
+   episcopa<lb ed="#B" n="103" break="no"/>tus erat status perfectionis, quod est absurdum. Item 
+   <lb ed="#B" n="104"/>potest papa statuere legem quod nullus curatus
+   pos<lb ed="#B" n="105" break="no"/>sit relinquere curam sine dispensatione sua. &amp; sic
+   cu<lb ed="#B" n="106" break="no"/>ratus erit in statu perfectionis: &amp; ad libitum
+   Ro<lb ed="#B" n="107" break="no"/>manus pontifex faciet aliquem esse in statu perfe- 
+   <!--0628.xml-->
+   <pb ed="#B" n="298-v"/>
+       <cb ed="#B" n="a"/>
+       <lb ed="#B" n="1"/>ctionis, quod similiter est absonum. Rursus
+   Roma<lb ed="#B" n="2" break="no"/>nus pontifex potest suum episcopatum deserere, rel 
+   <lb ed="#B" n="3"/>gionem profitendo: ergo &amp; quilibet alter eius lege 
+   <lb ed="#B" n="4"/>seclusa, quod enim iuret tenere pontificatum vel eum non 
+   <lb ed="#B" n="5"/>relinquere: non est de essentia episcopatus summi 
+   <lb ed="#B" n="6"/>sicut contigit de primo post Petrum qui pontificatum 
+   <lb ed="#B" n="7"/>reliquit. Praeterea vt patet ex dictis, non est verum 
+   <lb ed="#B" n="8"/>neminem posse in votis perpetuis dispensare nisi 
+   <lb ed="#B" n="9"/>Romanum pontificem: immo inferior potest in voto 
+   <lb ed="#B" n="10"/>simplici perpetuo dispensare. Item nec episcopum 
+   <lb ed="#B" n="11"/>oportet facere votum de perpetua mora in sua
+   dioe<lb ed="#B" n="12" break="no"/>cesi. Insuper si non esset lex pontificia: episcopus pos 
+   <lb ed="#B" n="13"/>set epsoatum relinquere &amp; profiteri religionem sine facul 
+   <lb ed="#B" n="14"/>tate papae, sicut curatus. sed per eum, non licet transire 
+   <lb ed="#B" n="15"/>de maiore ad minus. ergo religio est status perfe 
+   <lb ed="#B" n="16"/>ctior quam episcopatus, quod ipse expresse negat.
+   Prae<lb ed="#B" n="17" break="no"/>terea dicit quod religiosus praefertur curato in bonitate 
+   <lb ed="#B" n="18"/>quia totam vitam sua obligat ad perfectionis studium:  
+   <lb ed="#B" n="19"/>non autem curatus. Haec ratio si valeret, concluderet
+   re<lb ed="#B" n="20" break="no"/>ligiosum esse meliorem episcopo. quod ipse negat. 
+   <lb ed="#B" n="21"/>ltem curatus sic habet curam praecipuam sui gregis
+   par<lb ed="#B" n="22" break="no"/>ui vt episcopus totius. Vel capiatur archidiaconus 
+   <lb ed="#B" n="23"/>Lincolniensis, vel magnam curam animarum habens: 
+   <lb ed="#B" n="24"/>aut abbas Cluniacensis vel alius: &amp; episcopus ha 
+   <lb ed="#B" n="25"/>bens paruam dioecesim. Tunc sic. hic episcopus est 
+   <lb ed="#B" n="26"/>in statu perfectionis, &amp; maioris quam religiosus per te 
+   <lb ed="#B" n="27"/>hic praelatus inferior, abbas, archidiaconus, vel alius 
+   <lb ed="#B" n="28"/>habet tantam curam &amp; sollicitudinem quantam hic
+   episco<lb ed="#B" n="29" break="no"/>pus: ergo iste est in statu perfectionis sicut
+   religio<lb ed="#B" n="30" break="no"/>sus, &amp; maioris perfectionis. 
+  </p>
+      <p xml:id="jMqv4a-d1e1590-d1e387">
+       <lb ed="#B" n="31"/>⁋ Deinde arguitur contra hoc quod 
+   <lb ed="#B" n="32"/>dicit, quod conversatio religionis est difficilior quatum 
+   <lb ed="#B" n="33"/>ad ipsum genus operis qui cura animarum. Difficilius 
+   <lb ed="#B" n="34"/>est exequi opus totum quod habet curatus, decanus, 
+   <lb ed="#B" n="35"/>vel archidiaconus, quam opus quod incumbit simplici 
+   <lb ed="#B" n="36"/>religioso. probatur: quia plus meretur bene
+   ope<lb ed="#B" n="37" break="no"/>rando, quam religiosus regulam bene seruando: teste 
+   <lb ed="#B" n="38"/>Augustinus dicente in epistola ad Valerium. Cogitet 
+   <lb ed="#B" n="39"/>religiosa prudentia tua, nihil esse in hac vita, ma 
+   <lb ed="#B" n="40"/>xime hoc tempore difficilius, laboriosius,
+   pericu<lb ed="#B" n="41" break="no"/>losius episcopi aut presbyteri aut diaconiofficio 
+   <lb ed="#B" n="42"/>sed apud deum nihil est beatius si eodem modo mili 
+   <lb ed="#B" n="43"/>tetur quo imperator noster iubet. Et ostenditur ratio 
+   <lb ed="#B" n="44"/>ne. nam conditio religionis est securior ad salutem 
+   <lb ed="#B" n="45"/>quam conditio curati. ergo est facilior. tenet consequen 
+   <lb ed="#B" n="46"/>tia: quia homines citius succumbunt in difficilibus 
+   <lb ed="#B" n="47"/>quam facilibus. Confirmatur hec ratio. status
+   episco<lb ed="#B" n="48" break="no"/>pi secundum genus suum est difficilior quam status religio 
+   <lb ed="#B" n="49"/>si. sed aliqui archidiaconi curam tam difficilis mode, 
+   <lb ed="#B" n="50"/>raminis habent quam aliqui episcopi. igitur. Praeterea 
+   <lb ed="#B" n="51"/>seruare tria vota: &amp; facere cerimonias regulares 
+   <lb ed="#B" n="52"/>in modesta societate religiosorum, cum homo fuerii 
+   <lb ed="#B" n="53"/>vtcumque assuetus, est facile. nam ab alio alius inuitai 
+   <lb ed="#B" n="54"/>ad virtutem: &amp; sub poena ad eam cogitur, non sic est 
+   <!--0628.xml-->
+   <cb ed="#B" n="b"/> 
+       <!-- 298-v b -->
+       <lb ed="#B" n="55"/>de curato. ltem. secundum istum doctorem, difficilius est 
+   <lb ed="#B" n="56"/>bene viuere cum cura animarum propter exteriora 
+   <lb ed="#B" n="57"/>pericula. sed hoc addit ad bonitatem actus: &amp; facit 
+   <lb ed="#B" n="58"/>actum meliorem, quod probo. Si Sortes habeat versari 
+   <lb ed="#B" n="59"/>circa a. obiectum, &amp; Plato circa b obiectum: &amp;
+   diffi<lb ed="#B" n="60" break="no"/>cultas ex parte obiecti solum a. esset maior vel aequa  
+   <lb ed="#B" n="61"/>lis quam ex parte b. caeteris paribus si non sit
+   impedimen<lb ed="#B" n="62" break="no"/>tum &amp; difficultas externa, adhuc actus latus in  
+   <lb ed="#B" n="63"/>b. erit melior, quod probo: quia omnis difficultas
+   ex<lb ed="#B" n="64" break="no"/>trinsecus proueniens tam ex parte obiecti quam personae 
+   <lb ed="#B" n="65"/>sine culpa eius facit difficultatem actus, &amp; actum ma 
+   <lb ed="#B" n="66"/>gis meritorium. Exempli causa, Sortes habeat
+   cele<lb ed="#B" n="67" break="no"/>brare in coenobio seorsum a societate mulierum, 
+   <lb ed="#B" n="68"/>&amp; aliorum quae a deuotione auoeant: Plato in templo 
+   <lb ed="#B" n="69"/>cui praeest simile officium habeat, cum omnibus impedi 
+   <lb ed="#B" n="70"/>mentis occurrentibus: sed se ab eis praeseruat: Plato 
+   <lb ed="#B" n="71"/>plus meretur quam Sortes: nam subit officium suis
+   hu<lb ed="#B" n="72" break="no"/>meris par, in quo multi succumberent: &amp; se praeseruat. 
+   <lb ed="#B" n="73"/>sic enim est ei maior difficultas, &amp; crescit ad
+   meri<lb ed="#B" n="74" break="no"/>tum. Ex parte etiam personae ostenditur. nam si quis fuerit 
+   <lb ed="#B" n="75"/>male natus &amp; male educatus in tenera aetate sine 
+   <lb ed="#B" n="76"/>sua culpa: is ab illicito abstinens contra inclinatio 
+   <lb ed="#B" n="77"/>nem sui habitus plus meretur quam bene natus
+   absti<lb ed="#B" n="78" break="no"/>nens: quamuis obiectum vel genus sit idem. sed sic est in  
+   <lb ed="#B" n="79"/>proposito inter curatum &amp; religiosum. igitur. Sed di 
+   <lb ed="#B" n="80"/>cis: sicut ipse dicit. difficultas qui prouenit ab imped 
+   <lb ed="#B" n="81"/>mentis externis quandoque diminuit perfectionem 
+   <lb ed="#B" n="82"/>virtutis: puta cum aliquis non tantum virtutem amat vt 
+   <lb ed="#B" n="83"/>impedimenta virtutis declinare velit. secundum illudc 
+   <lb ed="#B" n="84"/>Apostoli primae ad Corinth. ix. Omnis qui in ago  
+   <lb ed="#B" n="85"/>ne contendit ab omnibus se abstinet. Hoc non sufficit: 
+   <lb ed="#B" n="86"/>quia non est in facultate curati tollere haec
+   impedi<lb ed="#B" n="87" break="no"/>menta superuenientia, exercendo officium quod licite ipse 
+   <lb ed="#B" n="88"/>tenet. na oportet, confessiones audiat:
+   euangeli<lb ed="#B" n="89" break="no"/>zet verbum dei: &amp; casus ancipites in foro
+   interi<lb ed="#B" n="90" break="no"/>ore suarum ouium enodet: qui interdum ad peccatum 
+   <lb ed="#B" n="91"/>alliciunt. Non sic est de religioso. Postremo curati 
+   <lb ed="#B" n="92"/>sunt ex institutione Christi: &amp;. lxxii. discipulis 
+   <lb ed="#B" n="93"/>succedunt, vt dicit Anacletus papa. xxi.
+   distin<lb ed="#B" n="94" break="no"/>ctione. c. In nouo testamento. vbi dicitur quod Apo 
+   <lb ed="#B" n="95"/>stolis succedunt episcopi: &amp; curati. lxxii.
+   discipu<lb ed="#B" n="96" break="no"/>lis. &amp; patet Lucae. x. hoc autem non potest sic
+   osten<lb ed="#B" n="97" break="no"/>di de religiosis. 
+  </p>
+      <p xml:id="jMqv4a-d1e1590-d1e541">
+       <lb ed="#B" n="98"/>⁋ lstis absolutis deuenio ad tertium 
+   <lb ed="#B" n="99"/>in quo conclusiue dico curatos &amp; alios praelatos 
+   <lb ed="#B" n="100"/>episcopis inferiores esse in statu perfectionis: &amp; 
+   <lb ed="#B" n="101"/>maioris perfectionis quam religiosos simplices. Si 
+   <lb ed="#B" n="102"/>gnanter (simplices) nam si religiosus sit episcopus, 
+   <lb ed="#B" n="103"/>est in superiore gradu. in quolibet enim istorum statuum 
+   <lb ed="#B" n="104"/>possunt assignari gradus. Probatur haec conclusio per 
+   <lb ed="#B" n="105"/>reprobationem opinionis oppositae. Et adhuc ra 
+   <lb ed="#B" n="106"/>tione arguitur. omnis ille status qui succedit statui 
+   <lb ed="#B" n="107"/>discipulorum Christi est perfectus. sic est de statu 
+   <lb ed="#B" n="108"/>plebanorum. igitur. Praeterea omnis ille status qui 
+   <!--0629.xml-->
+   <pb ed="#B" n="299-r"/>
+       <cb ed="#B" n="a"/>
+       <lb ed="#B" n="1"/>ordinatur ad hierarchiam in politia Christiana, 
+   <lb ed="#B" n="2"/>purgando, proficiendo, &amp; illuminando est perfectus 
+   <lb ed="#B" n="3"/>sic est de statu curatorum. igitur. quod autem sit maioris 
+   <lb ed="#B" n="4"/>perfectionis: iam patuit.
+  </p>
+      <p xml:id="jMqv4a-d1e1590-d1e582">
+   ⁋ Contra hoc arguitur 
+   <lb ed="#B" n="5"/>ex isto non dabitur regula cognoscendi status per-: 
+   <lb ed="#B" n="6"/>fectionis. consequens est inconveniens: ergo &amp; ante 
+   <lb ed="#B" n="7"/>cedens. consequentia patet, quaerem do quis sit ille. Respon 
+   <lb ed="#B" n="8"/>detur negando consequentiam. nam omnis ille status 
+   <lb ed="#B" n="9"/>est perfectionis qui consulitur vel instituitur a 
+   <lb ed="#B" n="10"/>Christo. in quo sunt episcopi &amp; curati apostolis 
+   <lb ed="#B" n="11"/>&amp; discipulis succedentes, virginitas, seruare opera 
+   <lb ed="#B" n="12"/>consilii firmiter, siue ex voto, siue non: &amp; alii aad 
+   <lb ed="#B" n="13"/>di quibus homines ducuntur ad aeternam beatitudinem 
+  </p>
+      <p xml:id="jMqv4a-d1e1590-d1e604">
+       <lb ed="#B" n="14"/>⁋ Summatim dicta in hac quaestione resumendo pa 
+   <lb ed="#B" n="15"/>tet, aliquos esse status perfectionis: aliquos imper 
+   <lb ed="#B" n="16"/>fectionis. Status illi perfectionis vocantur in qui 
+   <lb ed="#B" n="17"/>bus antiquitus homines bene vixerunt: vt apo 
+   <lb ed="#B" n="18"/>stolatus &amp; discipulatus apostolorum &amp; discipulorum 
+   <lb ed="#B" n="19"/>Christi: virginitas: &amp; alii: in quibus illorum loco 
+   <lb ed="#B" n="20"/>successerunt episcopi, curati, &amp; praelati medii, vt 
+   <lb ed="#B" n="21"/>abbates, archidiaconi, decani curas animarum
+   ha<lb ed="#B" n="22" break="no"/>bentes. &amp; ita est de statu religiosorum: qui quodammo 
+   <lb ed="#B" n="23"/>do apostolos Christi imitati sunt. Et licet religio 
+   <lb ed="#B" n="24"/>si nulli essent: vel non bene viuerent: adhuc eorum 
+   <lb ed="#B" n="25"/>coditio viuendi vocaretur status perfectionis, no 
+   <lb ed="#B" n="26"/>mina enim significant ad placitum: res tamen ab ini 
+   <lb ed="#B" n="27"/>tio nomini conveniebat. &amp; adhuc in omnibus his 
+   <lb ed="#B" n="28"/>modis aliqui perfecte viuunt: vtpote in episcopa 
+   <lb ed="#B" n="29"/>tibus, in curis inferioribus, in virginitate, in
+   reli<lb ed="#B" n="30" break="no"/>gione. Dico praeterea statum curatorum versari circa 
+   <lb ed="#B" n="31"/>obiectum difficilius seruatu, quam statum religiosorum sim 
+   <lb ed="#B" n="32"/>plicium, difficultate proueniente sine eorum culpa, &amp; 
+   <lb ed="#B" n="33"/>ipsis dantibus opera rei licitae: &amp; hoc aeque meritum 
+   <lb ed="#B" n="34"/>auget ac si proueniret ex parte obiecti. Abbates 
+   <lb ed="#B" n="35"/>autem &amp; priores curas habet animarum: &amp; cum hoc 
+   <lb ed="#B" n="36"/>sunt religiosi. Vlterius credo statum religiosorum 
+   <lb ed="#B" n="37"/>vbi est regula rite seruata) dicendum esse securioren 
+   <lb ed="#B" n="38"/>vt plurimu ad saluandas animas hominum, quod non 
+   <lb ed="#B" n="39"/>parum est dicere. pauciores namque in religione succum 
+   <lb ed="#B" n="40"/>bunt quam in episcopatu vel animarum cura. &amp;
+   diffici<lb ed="#B" n="41" break="no"/>lius est homini se &amp; alios quibus praest regere &amp; 
+   <lb ed="#B" n="42"/>dirigere quam seipsum. religiosus autem a superiore di 
+   <lb ed="#B" n="43"/>rigitur, quemadmodum arbores in motibus sitae citius 
+   <lb ed="#B" n="44"/>eradicantur &amp; franguntur quam in valle inter motes. &amp; 
+   <lb ed="#B" n="45"/>vt inquit Alanus, Tutior in terris locus est quam turri 
+   <lb ed="#B" n="46"/>bus altis. Qui vadit in terris, non habet vnde
+   ca<lb ed="#B" n="47" break="no"/>dat. sic est de curas magnas habentibus: &amp; religio 
+   <lb ed="#B" n="48"/>sis inter montes interceptis.
+  </p>
+      <p xml:id="jMqv4a-d1e1590-d1e682">
+   ⁋ Concludendo dico 
+   <lb ed="#B" n="49"/>de statu perfectionis noesse seriose contendendum 
+   <lb ed="#B" n="50"/>sed de bona vita quam aliqui habent in inferiore 
+   <lb ed="#B" n="51"/>statum: &amp; non in superiore. sicut aliquis magister 
+   <lb ed="#B" n="52"/>Cadomi est doctior quam Petrus magister Parisien 
+   <lb ed="#B" n="53"/>sis, etiam ingeniosus qui ocio torpet. sed defectu 
+   <lb ed="#B" n="54"/>studii Parisiensis hic error non prouenit. quomodo 
+   <lb ed="#B" n="55"/>Lothin Segor, loco minutissimo &amp; non periculoso 
+   <!--0629.xml-->
+   <cb ed="#B" n="b"/> 
+       <!-- 299-r b -->
+       <lb ed="#B" n="56"/>cecidit: &amp; non in maiore discrimine in Sodoma. 
+   <lb ed="#B" n="57"/>Quare certandum est de vita perfecta: &amp; non ampul i 
+   <lb ed="#B" n="58"/>lose verbis sesquipedalibus, &amp; inflata bucca de 
+   <lb ed="#B" n="59"/>statu perfectionis contendendum.
+  </p>
+    </div>
+   </body>
+  </text>
+</TEI>

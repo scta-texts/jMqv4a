@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 17</title>
+      <author ref="#JohnMair">John Mair</author>
+      <respStmt>
+       <name>Jeffrey C. Witt</name>
+       <resp>TEI Encoder</resp>
+      </respStmt>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 17</title>
+       <date when="2020-06-09">June 27, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="B" n="cod-Bda113">Badius 1516</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+     guidelines for a diplomatic edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-06-27" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+      <pb ed="#B" n="375-r"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="jMqv4a-d1e2011"> <!-- l4d49q17 -->
+      <head xml:id="jMqv4a-d1e2011-Hd1e104">Quaestio 17</head>
+      <head xml:id="jMqv4a-d1e2011-Hd1e107" type="question-title">Per quid corpora beatorum erunt impassibilia</head>
+      <p xml:id="jMqv4a-d1e2011-d1e110">
+       <lb ed="#B" n="96"/>⁋ Distinctio. Quadragesimae nonae 
+   <lb ed="#B" n="97"/>Quaestio Decimaseptima. 
+   <lb ed="#B" n="98"/>IN secunda huius di 
+   <lb ed="#B" n="99"/>Ectqu stinctionis parte de corporum 
+   <lb ed="#B" n="100"/>igloriosorum dotibus dicendum 
+   <lb ed="#B" n="101"/>est. quae sunt quatuor:
+   impas<lb ed="#B" n="102" break="no"/>sibilitas: agilitas: subtilitas: &amp; 
+   <lb ed="#B" n="103"/>sclaritas. &amp; signantur ab
+   Apo<lb ed="#B" n="104" break="no"/>uaestolo. i. ad Corinth. xv. Semi 
+   <!--0782.xml-->
+   <pb ed="#B" n="375-v"/>
+       <cb ed="#B" n="a"/>
+       <lb ed="#B" n="1"/>natur, inquit, in corruptione: surget in incortu 
+   <lb ed="#B" n="2"/>ptione. Seminatur in ignobilitate: surget in glo 
+   <lb ed="#B" n="3"/>ria. Seminatur in infirmitate: surget in virtute. 
+   <lb ed="#B" n="4"/>Seminatur corpus animale: resurget corpus spi 
+   <lb ed="#B" n="5"/>rituale. Ita vt surgere in incorruptionem referatur ad 
+   <lb ed="#B" n="6"/>impassibilitatem: surgere in gloria ad claritatem:
+   sur<lb ed="#B" n="7" break="no"/>gere in virtute ad subtilitatem: surgere spirituale ad 
+   <lb ed="#B" n="8"/>agilitatem. iuxta illud. xvi. de ciuitate. cap. xxvi 
+   <lb ed="#B" n="9"/>Imperabit deus animo: animus corpori tanquam obe 
+   <lb ed="#B" n="10"/>dienti: ibi erit suauitas &amp; facilitas quanta
+   regnan<lb ed="#B" n="11" break="no"/>di viuendique facilitas erit. Necessarium autem erat ad 
+   <lb ed="#B" n="12"/>complementum beatitudinis has habere dotes: non
+   ta<lb ed="#B" n="13" break="no"/>me est necessitas simpliciter dicta. Quia vero
+   du<lb ed="#B" n="14" break="no"/>bitaret aliquis, quomodo corpus compositum ex 
+   <lb ed="#B" n="15"/>contrariis perpetuo duraret ab intrinseco &amp;
+   extrinse<lb ed="#B" n="16" break="no"/>co: &amp; quomodo corpus posset esse cum caelo empi 
+   <lb ed="#B" n="17"/>reo: &amp; an tarde ibi corpora moueantur sicut hic: &amp; 
+   <lb ed="#B" n="18"/>an sint terrestria: propterea ponuntur quatuor dotes: 
+   <lb ed="#B" n="19"/>quas comprehendemus per dictionem Isac)  
+  </p>
+      <p xml:id="jMqv4a-d1e2011-d1e180">
+       <lb ed="#B" n="20"/>⁋ Loquendo intaque in particulari de 
+   <lb ed="#B" n="21"/>dotibus: quaero per quid corpora beatorum eruni 
+   <lb ed="#B" n="22"/>impassibilia. hoc est quaerere essentiam dotis inapass 
+   <lb ed="#B" n="23"/>bilitatis.
+  </p>
+      <p xml:id="jMqv4a-d1e2011-d1e192">
+   ⁋ Ad quaestionem duas inuenio
+   positio<lb ed="#B" n="24" break="no"/>nes. Vna tenet quod est quaedam qualitas fiuens a bea 
+   <lb ed="#B" n="25"/>titudine animae in ipsum corpus, reddens corpus 
+   <lb ed="#B" n="26"/>impassibile. Alia positio nullam talem qualitatem 
+   <lb ed="#B" n="27"/>ponit. cui adhaereo. In primis enim non est facile
+   ca<lb ed="#B" n="28" break="no"/>ptu quomodo vna qualitas frigori / calori / &amp; onmn 
+   <lb ed="#B" n="29"/>corruptiuo intrinseco &amp; extrinseco resistat: net 
+   <lb ed="#B" n="30"/>quomodo anima talem qualitatem quae
+   naturali<lb ed="#B" n="31" break="no"/>ter omni corruptioni resisteret / causaret. Insuper 
+   <lb ed="#B" n="32"/>corpora damnatorum perpetuo durant sine corrum 
+   <lb ed="#B" n="33"/>ptione intrinseca vel extrinseca: &amp; ibi est solum as 
+   <lb ed="#B" n="34"/>sistentia diuinam non concurrens ad corruptionem cor 
+   <lb ed="#B" n="35"/>porum damnatorum.
+  </p>
+      <p xml:id="jMqv4a-d1e2011-d1e221">
+   ⁋ Dico ergo, quod dos
+   impassibilita<lb ed="#B" n="36" break="no"/>tis supponit in recto pro corpore beati,
+   connotan<lb ed="#B" n="37" break="no"/>do quod deus ratione actuum meritoriorum in quibus 
+   <lb ed="#B" n="38"/>decessit, conseruat ipsum corpus ne patiatur aliquid laesiuum 
+   <lb ed="#B" n="39"/>ab intrinseco vel extrinseco. Per istam autem conota 
+   <lb ed="#B" n="40"/>tionem secluduntur elementa &amp; corpora damnatorum, 
+   <lb ed="#B" n="41"/>quae non dicuntur sic dotata. Dixi (aliquid laesiuum 
+   <lb ed="#B" n="42"/>quia corpora beatorum visionem &amp; accidentia perfi 
+   <lb ed="#B" n="43"/>ctiua recipiunt. &amp; sic <name xml:id="jMqv4a-d1e2011-Nd1e240" ref="#Augustine">Augustinus</name> in epistola ad 
+   <lb ed="#B" n="44"/>Dioscorum intelligit dicens. Tam potentem fecit de 
+   <lb ed="#B" n="45"/>animam vt ex plenissima beatitudine quae in fine tem 
+   <lb ed="#B" n="46"/>porum sanctis promittitur, redundet in inferiori 
+   <lb ed="#B" n="47"/>naturam. deus autem istud facit ratione beatitudinis. 
+   <lb ed="#B" n="48"/>&amp; hoc est verum de commui lege: nisi propter aliquid 
+   <lb ed="#B" n="49"/>speciale interdum fiat oppositum. vt factum est in 
+   <lb ed="#B" n="50"/>redemptore nostro tempore suae peregrinationis
+   secun<lb ed="#B" n="51" break="no"/>dum corpus. nam in via corpus eius erat passibi 
+   <lb ed="#B" n="52"/>le pro generis humani redemptione. 
+  </p>
+      <p xml:id="jMqv4a-d1e2011-d1e264">
+       <lb ed="#B" n="53"/>⁋ Sed contra insta arguitur. Lucae 
+   <lb ed="#B" n="54"/>vltimo Dominus post resurrectionem dixit disci- 
+   <!--0782.xml-->
+   <cb ed="#B" n="b"/> 
+       <!-- 375-v b -->
+       <lb ed="#B" n="55"/>pulis suis. Palpate &amp; videte. Et <name xml:id="jMqv4a-d1e2011-Nd1e279">Gregorius</name> in Ho 
+   <lb ed="#B" n="56"/>milia super illud Ioannis. xx. Infer digitum tuum 
+   <lb ed="#B" n="57"/>huc. Corrumpi (inquit) necesse est quod palpatur. 
+  </p>
+      <p xml:id="jMqv4a-d1e2011-d1e287">
+       <lb ed="#B" n="58"/>⁋ Insuper nullum violentum est perpetuum. sed 
+   <lb ed="#B" n="59"/>corpus illud cum sit mixtum habet quatuor
+   ele<lb ed="#B" n="60" break="no"/>menta in se: quorum quodlibet est extra
+   regio<lb ed="#B" n="61" break="no"/>nem suam.
+  </p>
+      <p xml:id="jMqv4a-d1e2011-d1e298">
+   ⁋ Ad primum dicitur quod non est necessi 
+   <lb ed="#B" n="62"/>recipere dictum beati Gregorii. Vel potest dici quod 
+   <lb ed="#B" n="63"/>est corruptibile: &amp; similiter corpus beati: caelum: &amp; 
+   <lb ed="#B" n="64"/>similia palpabilia. sed non corrumpetur.
+  </p>
+      <p xml:id="jMqv4a-d1e2011-d1e307">
+   ⁋ Ad
+   se<lb ed="#B" n="65" break="no"/>cundum potest esse difficultas circa maiorem. nam 
+   <lb ed="#B" n="66"/>mare in Telandia &amp; in aliquibus locis Flandriae 
+   <lb ed="#B" n="67"/>per aggeres &amp; valla impeditur ne exeat in aridam 
+   <lb ed="#B" n="68"/>&amp; si mundus &amp; homines durarent perpetuo sicui 
+   <lb ed="#B" n="69"/>putabat <name xml:id="jMqv4a-d1e2011-Nd1e320" ref="#Aristotle">Aristoteles:</name> quid causae esset quare hoc 
+   <lb ed="#B" n="70"/>non posset fieri perpetuo? nisi dicas mare vnam 
+   <lb ed="#B" n="71"/>plagam terrae sensim amittere / aliam lucrando. &amp; 
+   <lb ed="#B" n="72"/>tunc erit idem de omni parte terrae. Secundo
+   ad<lb ed="#B" n="73" break="no"/>missa maiore minor est falsa: quia non sunt elemen 
+   <lb ed="#B" n="74"/>ta in mixto per realem existentiam. &amp; licet
+   ponan<lb ed="#B" n="75" break="no"/>tur: nego quod ibi detineantur violente. nam si lapis 
+   <lb ed="#B" n="76"/>detineretur in aere semper adeo: licet sit contra na 
+   <lb ed="#B" n="77"/>turalem inclinationem grauitatis particularis esse 
+   <lb ed="#B" n="78"/>supra leue: non tamen est contra inclinationem
+   to<lb ed="#B" n="79" break="no"/>tius vniuersi &amp; causae supremae, quae res ad suum 
+   <lb ed="#B" n="80"/>nutum mouet. sicut cum quis bibit in arista
+   extra<lb ed="#B" n="81" break="no"/>hendo aquam de fonte: ipsa aqua ascendit ne fiat 
+   <lb ed="#B" n="82"/>vacuum in vniuerso. vel potius deus aquam ascer 
+   <lb ed="#B" n="83"/>dere facit: cum grauitas nullo modo moueat mo 
+   <lb ed="#B" n="84"/>tu sursum. lstud enim apud naturales non dicitur 
+   <lb ed="#B" n="85"/>fieri violente. At dicis. secundum ista dos impase 
+   <lb ed="#B" n="86"/>sibilitatis non erit maior in magis beato quam in
+   mi<lb ed="#B" n="87" break="no"/>nus beato. Concedo: quia omnes aequaliter
+   con<lb ed="#B" n="88" break="no"/>seruabuntur ne laesiuum patiantur. differunt tamen 
+   <lb ed="#B" n="89"/>sicut stella a stella in beatitudine: &amp; forte in clarita 
+   <lb ed="#B" n="90"/>te. vel magis beatus pluries meruit hanc dotem 
+   <lb ed="#B" n="91"/>impassibilitatis: quia ratione cuiuslibet actus me 
+   <lb ed="#B" n="92"/>ritorii in quo decessit.
+  </p>
+      <p xml:id="jMqv4a-d1e2011-d1e374">
+   ⁋ Sed obiicies. Christus 
+   <lb ed="#B" n="93"/>post resurrectionem cum habuit corpus
+   impassi<lb ed="#B" n="94" break="no"/>bile comedit, vt Euangelista testatur: &amp; tamen pa 
+   <lb ed="#B" n="95"/>tiebatur comedendo: quia in eius corpus cibus 
+   <lb ed="#B" n="96"/>conuertebatur. Respondetur concedendo quod come 
+   <lb ed="#B" n="97"/>dit. nam ad comestionem satis est cibum frange 
+   <lb ed="#B" n="98"/>re &amp; traiicere per os in stomachum: quo mode 
+   <lb ed="#B" n="99"/>statim euomens cibum assumptum dicitur come 
+   <lb ed="#B" n="100"/>disse. sed non facit haec dos habentem impassibilem 
+   <lb ed="#B" n="101"/>sed solum ne laesiuum patiatur. quare haec
+   conse<lb ed="#B" n="102" break="no"/>quentia est nulla. comedit: ergo patitur laesiuum 
+   <lb ed="#B" n="103"/>vel violentum. Nec ex isto sequitur quod cibus asi 
+   <lb ed="#B" n="104"/>sumptus in corpus eius conuerteretur. quia
+   pote<lb ed="#B" n="105" break="no"/>rat cibus assumptus &amp; comestus resolui per
+   po<lb ed="#B" n="106" break="no"/>ros vel exire in corpore glorificato: vel corpus 
+   <lb ed="#B" n="107"/>exire non transeundo per medium.
+  </p>
+    </div>
+   </body>
+  </text>
+</TEI>

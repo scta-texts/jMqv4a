@@ -1,0 +1,401 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 5</title>
+      <author ref="#JohnMair">John Mair</author>
+      <respStmt>
+       <name>Jeffrey C. Witt</name>
+       <resp>TEI Encoder</resp>
+      </respStmt>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 5</title>
+       <date when="2020-06-09">June 27, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="B" n="cod-Bda113">Badius 1516</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+     guidelines for a diplomatic edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-06-27" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+      <pb ed="#B" n="66-r"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="jMqv4a-d1e351"> <!-- l4d12q5 -->
+      <head xml:id="jMqv4a-d1e351-Hd1e104">Quaestio 5</head>
+      <head xml:id="jMqv4a-d1e351-Hd1e107" type="question-title">An pluries in die celebrandum sit</head>
+      <p xml:id="jMqv4a-d1e351-d1e110">
+       <lb ed="#B" n="34"/>QVia in vltimo ca 
+   <lb ed="#B" n="35"/>pite huius duodecimae di 
+   <lb ed="#B" n="36"/>stinctionis magister quae 
+   <lb ed="#B" n="37"/>rit an pluries in die liceat 
+   <lb ed="#B" n="38"/>celebrare: iuxta hoc
+   pe<lb ed="#B" n="39" break="no"/>to hunc quaestionis titulum 
+   <lb ed="#B" n="40"/>an pluries in die celebram 
+   <lb ed="#B" n="41"/>eius dum sit. Pro solutione 
+   <lb ed="#B" n="42"/>quaestionis notabis quod du 
+   <lb ed="#B" n="43"/>plex est dies: scilicet naturalis: tempus
+   vigintiqua<lb ed="#B" n="44" break="no"/>tuor horarum. vt Genesis primo. Factumque est vespe 
+   <lb ed="#B" n="45"/>&amp; mane dies vnus. Et est reuolutio aequinoctialis 
+   <lb ed="#B" n="46"/>circa terram cum tanta parte quantam sol motu proprio 
+   <lb ed="#B" n="47"/>describit in oppositum firmamenti. vel est temporis 
+   <lb ed="#B" n="48"/>spatium a contactu solis in horizonte: vsque ad 
+   <lb ed="#B" n="49"/>reditum solis in contactu horizontis. Ex quo
+   se<lb ed="#B" n="50" break="no"/>quitur quod si centrum solis respondeat a. puncto pri 
+   <lb ed="#B" n="51"/>mi mobilis hodiemo die mane in oriente: serius 
+   <!--0163.xml-->
+   <cb ed="#B" n="b"/> 
+       <!-- 66-r b -->
+       <lb ed="#B" n="52"/>cras in ortu solis redibit ad horizontem quam a. punctum 
+   <lb ed="#B" n="53"/>primi mobilis secum veniens ad horizontem
+   ho<lb ed="#B" n="54" break="no"/>die. patet. ab a. puncto sol continuo retrocedit
+   mo<lb ed="#B" n="55" break="no"/>tu proprio contra motum primi mobilis, per tantum 
+   <lb ed="#B" n="56"/>spatium vel tempus quantum sol motu proprio 
+   <lb ed="#B" n="57"/>pertransit in. xxiiii. horis aequinoctialis. Alius est 
+   <lb ed="#B" n="58"/>dies artificialis qui variatur secundum horizontes 
+   <lb ed="#B" n="59"/>nam in vltimis climatibus, &amp; in postclimatibus 
+   <lb ed="#B" n="60"/>sole existente in signis septentrionalibus est maior: 
+   <lb ed="#B" n="61"/>quam sub aequatore vel in primis climatibus: proui 
+   <lb ed="#B" n="62"/>signa recte vel oblique oriuntur: quia tam experi 
+   <lb ed="#B" n="63"/>mento quam ratione constat quod idem dies numero,
+   pu<lb ed="#B" n="64" break="no"/>ta sancti Barnabae vel alius: sole existente in
+   can<lb ed="#B" n="65" break="no"/>cro, in Scotia protrahitur spatio. xviii. vel. xix.
+   ho<lb ed="#B" n="66" break="no"/>rarum: Romae vero. xv. duntaxat: Parisiis. xvi. &amp; 
+   <lb ed="#B" n="67"/>dicere oportet sub aequatore. xii. praecise: cum illic 
+   <lb ed="#B" n="68"/>dies artificialis semper nocti aequetur. Dies artificia 
+   <lb ed="#B" n="69"/>lis definitur sic. Dies est latio solis supra terram. Si
+   te<lb ed="#B" n="70" break="no"/>neatur quod tempus est res permanens potest poni cae 
+   <lb ed="#B" n="71"/>lum solis: vel corpus solis. &amp; tunc illa constructio 
+   <lb ed="#B" n="72"/>transitiua loco vnius intransitiuae capietur: ita vt 
+   <lb ed="#B" n="73"/>latio solis sit sol latus. Et licet sit semper dies in  
+   <lb ed="#B" n="74"/>aliquo horizonte: quia nobis habentibus noctem, 
+   <lb ed="#B" n="75"/>antipodes &amp; alii diem artificialem habent:
+   opor<lb ed="#B" n="76" break="no"/>tet tamen aspicere ad nostrum horizontem in quo
+   su<lb ed="#B" n="77" break="no"/>mus, ad nostra omnia dicenda. 
+  </p>
+      <p xml:id="jMqv4a-d1e351-d1e214">
+       <lb ed="#B" n="78"/>⁋ lstis paucis praenotatis pono
+   co<lb ed="#B" n="79" break="no"/>clusiones. Prima est. licet attentans consecrare in 
+   <lb ed="#B" n="80"/>quacumque parte diei naturalis (ponamus in nocte) 
+   <lb ed="#B" n="81"/>vere cosecret: non tamen licet quacumque nocte
+   conse<lb ed="#B" n="82" break="no"/>crare nisi in nocte natiuitatis Christi. prior pars pa 
+   <lb ed="#B" n="83"/>tet: quia intentio, forma, materia, &amp; minister sufficiunt: 
+   <lb ed="#B" n="84"/>quaecumque hora fuerit. Secunda pars patet. quia
+   ta<lb ed="#B" n="85" break="no"/>lis contrauenit praecepto ecclesiae: ergo in hoc peccat 
+   <lb ed="#B" n="86"/>&amp; licet nesciat: non excusatur: debet enim scire ea quae 
+   <lb ed="#B" n="87"/>sunt sui officii. Quia sit contra praeceptum ecclesiae: pa 
+   <lb ed="#B" n="88"/>tet de consecra. distin. i. Nocte sancta. &amp;. c. Solent. 
+   <lb ed="#B" n="89"/>Hoc namque sacramentum ad tempus gratie pertinet: quod 
+   <lb ed="#B" n="90"/>per diem significatur, iuxta illud Apostoli ad Roma 
+   <lb ed="#B" n="91"/>nos. xiii. Nox praecessit: dies autem appropiquabit. 
+   <lb ed="#B" n="92"/>nisi fuerit dispensatum per episcopum vel superiorem 
+   <lb ed="#B" n="93"/>super hoc, &amp; cogente necessitate. vtpote si sit
+   aegro<lb ed="#B" n="94" break="no"/>tans in periculo vitae, &amp; non habeatur Eucharistia: 
+   <lb ed="#B" n="95"/>tunc licet celebrare ante diem: sicut frangere
+   ieiu<lb ed="#B" n="96" break="no"/>nium sine dispensatione vlteriore in necessitate: 
+   <lb ed="#B" n="97"/>quando non habetur copia superioris.
+  </p>
+      <p xml:id="jMqv4a-d1e351-d1e261">
+   ⁋ Secunda 
+   <lb ed="#B" n="98"/>conclusio, non licet communiter celebrare pluries in  
+   <lb ed="#B" n="99"/>die nisi in festo natiuitatis Christi. illud patet de 
+   <lb ed="#B" n="100"/>consecra. distin. i. Sufficit sacerdoti vnam missam 
+   <lb ed="#B" n="101"/>die vna celebrare: quia Christus semel passus est, 
+   <lb ed="#B" n="102"/>&amp; totum mundum redemit. Non modica res est 
+   <lb ed="#B" n="103"/>vnam missam facere: &amp; valde felix est qui vnam 
+   <lb ed="#B" n="104"/>digne celebrare potest. Quare dixerim (communi- 
+   <lb ed="#B" n="105"/>ter, patet: quia statim sequitur. Quidam tamen pro 
+   <!--0164.xml-->
+   <pb ed="#B" n="66-v"/>
+       <cb ed="#B" n="a"/>
+       <lb ed="#B" n="1"/>defunctis vnam faciunt: &amp; alteram de die si necesse 
+   <lb ed="#B" n="2"/>est. qui vero pro pecuniis &amp; adulationibus saecula 
+   <lb ed="#B" n="3"/>rium vna die praesumunt plures facere missas: non 
+   <lb ed="#B" n="4"/>existimo euadere damnationem. lstud patet etiam 
+   <lb ed="#B" n="5"/>de celebratione missarum. Consuluisti. &amp; infra. Re 
+   <lb ed="#B" n="6"/>spondemus quod excepto die natiuitatis domini: nisi 
+   <lb ed="#B" n="7"/>causa necessitatis suadeat, sufficit sacerdoti semel 
+   <lb ed="#B" n="8"/>in die missam solummodo celebrare. Glossa ponde 
+   <lb ed="#B" n="9"/>rat illud verbum ( sufficit) &amp; dicit quod presbyter ni 
+   <lb ed="#B" n="10"/>prohibetur pluries in die celebrare. sed illud contra 
+   <lb ed="#B" n="11"/>uenit expresse illi capiti Sufficit. praenotato. In die 
+   <lb ed="#B" n="12"/>autem natiuitatis Christi &amp; in nocte ter celebratur. pri 
+   <lb ed="#B" n="13"/>mo in nocte: &amp; illa missa designat tempus ante le 
+   <lb ed="#B" n="14"/>gem. &amp; ideo in illa missa dicitur. Populus gentium 
+   <lb ed="#B" n="15"/>qui ambulabat in tenebris. Secunda missa tempus 
+   <lb ed="#B" n="16"/>sub lege designat: &amp; cantatur inter diem &amp; nocten 
+   <lb ed="#B" n="17"/>&amp; dicitur officium Lux fulgebit hodie. Tertia
+   dici<lb ed="#B" n="18" break="no"/>tur in die, per quam designatur tempus gratiae. vndi 
+   <lb ed="#B" n="19"/>dicitur officium. Puer natus est nobis. Aliae etiam 
+   <lb ed="#B" n="20"/>possunt esse causae ob quas presbytero bis
+   lice<lb ed="#B" n="21" break="no"/>at celebrare. Vna est ob dandam Eucharistiam 
+   <lb ed="#B" n="22"/>aegroto. Alia est si post celebrationem venirent
+   ali<lb ed="#B" n="23" break="no"/>qui ad nuptias, cum non sit moris sine missa nuptias 
+   <lb ed="#B" n="24"/>celebrare: dicitur tunc secundo licere celebrare. Ter 
+   <lb ed="#B" n="25"/>tio vbi est consuetudo habere duas missas in die: 
+   <lb ed="#B" n="26"/>&amp; alter presbyterorum aegrotat, ne populus careat 
+   <lb ed="#B" n="27"/>missa: licet secundo celebrare. Alia causa est si quisi 
+   <lb ed="#B" n="28"/>piam vir probus assuetus quolibet die audire
+   mis<lb ed="#B" n="29" break="no"/>sam accedat templum: &amp; non possit reperite
+   sacerdo<lb ed="#B" n="30" break="no"/>tem nisi eum qui prius celebrauit: qui tunc secundo ce 
+   <lb ed="#B" n="31"/>lebrare potest. Item si essent duae ecclesiae vicinae: quarum 
+   <lb ed="#B" n="32"/>neutra sufficit ministrum alere vel saltem altera. Aui 
+   <lb ed="#B" n="33"/>si inopinato aliquis moriatur. Sed in omnibus his
+   ma<lb ed="#B" n="34" break="no"/>neat ieiunus ieiunio naturae necesse est: nec capien 
+   <lb ed="#B" n="35"/>do aquam in lotione: nec vinum. 
+  </p>
+      <p xml:id="jMqv4a-d1e351-d1e363">
+       <lb ed="#B" n="36"/>⁋ Contra priorem conclusionem
+   ar<lb ed="#B" n="37" break="no"/>guitur sic. Passim hora sexta mane celebratur in hye 
+   <lb ed="#B" n="38"/>me. sic enim in collegio montis Acuti facimus: &amp; 
+   <lb ed="#B" n="39"/>tunc est nobis nox in horizonte nostro: quia non 
+   <lb ed="#B" n="40"/>est nobis dies artificialis quoad super horizontem 
+   <lb ed="#B" n="41"/>nostrum sol conscenderit.
+  </p>
+      <p xml:id="jMqv4a-d1e351-d1e379">
+   ⁋ Respodetur per pro 
+   <lb ed="#B" n="42"/>positiones sequentes. Prima est, non est vere dies 
+   <lb ed="#B" n="43"/>in aliquo loco philosophice loquendo: quousque 
+   <lb ed="#B" n="44"/>sol super horizontem ascenderit. patet, non est la 
+   <lb ed="#B" n="45"/>tio solis super nostrum horizontem: sed
+   requiri<lb ed="#B" n="46" break="no"/>tur saltem quod centrum solis sit supra horizontem. 
+   <lb ed="#B" n="47"/>quando enim centrum solis est in contactu
+   hori<lb ed="#B" n="48" break="no"/>zontis: nec est dies nec nox. Nox enim impedit a 
+   <lb ed="#B" n="49"/>denominatione diei &amp; contra. sicut est de scuto cuius 
+   <lb ed="#B" n="50"/>vna medietas est alba &amp; alia nigra. vel ponendo 
+   <lb ed="#B" n="51"/>quatuor gradus albedinis &amp; totidem nigredinis 
+   <lb ed="#B" n="52"/>simul: tenendo quod qualitates contrariae in
+   gradi<lb ed="#B" n="53" break="no"/>bus remissis se compati possunt. Sed logicalibus 
+   <lb ed="#B" n="54"/>relictis, Dico quando centrum solis est in contactu 
+   <!--0164.xml-->
+   <cb ed="#B" n="b"/> 
+       <!-- 66-v b -->
+       <lb ed="#B" n="55"/>horizontis est vltimum instans non esse diei: quia 
+   <lb ed="#B" n="56"/>immediate post hoc erit dies absolute loquendo:  
+   <lb ed="#B" n="57"/>&amp; illud est primum instans non esse noctis: quia in  
+   <lb ed="#B" n="58"/>instanti contactus centri solis cum horizonte
+   ve<lb ed="#B" n="59" break="no"/>rum est dicere: nunc non est nox: &amp; immediate ante hoc 
+   <lb ed="#B" n="60"/>erat nox.
+  </p>
+      <p xml:id="jMqv4a-d1e351-d1e429">
+   ⁋ Secunda propositio. ecclesia non capit dien 
+   <lb ed="#B" n="61"/>sic philosophice: sed vulgariter pro diluculo: hoc 
+   <lb ed="#B" n="62"/>est pro tempore separationis tenebrarum &amp; lucis: hoc 
+   <lb ed="#B" n="63"/>est pro aurora: quae diem vna hora, &amp; amplius prae 
+   <lb ed="#B" n="64"/>cedit: vnam autem horam quindecim gradus
+   aequi<lb ed="#B" n="65" break="no"/>noctialis valent. &amp; cum sol est sub horizonte ad  
+   <lb ed="#B" n="66"/>xviii. gradus secundum Ptolemaeum, est dies vulga 
+   <lb ed="#B" n="67"/>ris. ergo diluculum diem praecedit vna hora &amp; 
+   <lb ed="#B" n="68"/>quinta alterius. secundum alios per. xxx. gradus: 
+   <lb ed="#B" n="69"/>sicut recitat Ioannes de Sacrobusco tertio cap. de 
+   <lb ed="#B" n="70"/>sphaera. qui duas horas valent.
+  </p>
+      <p xml:id="jMqv4a-d1e351-d1e453">
+   ⁋ Ex quo
+   sequi<lb ed="#B" n="71" break="no"/>tur quod citius homines celebrare possunt sine dispen 
+   <lb ed="#B" n="72"/>satione in aestate quam in hyeme: &amp; citius apud regio 
+   <lb ed="#B" n="73"/>nem Sinatum quam apud Parthos: citius apud
+   Par<lb ed="#B" n="74" break="no"/>thos quam Edinburgenses: citius apud Edinburgenses 
+   <lb ed="#B" n="75"/>quam Hibernos: &amp; prius apud Hibemos, quam
+   Lusita<lb ed="#B" n="76" break="no"/>nos: cum eis sol citius oriatur &amp; dies illucescat.
+  </p>
+      <p xml:id="jMqv4a-d1e351-d1e469">
+   ⁋
+   Se<lb ed="#B" n="77" break="no"/>cundo sequitur quod aliquis hora quarta post
+   meri<lb ed="#B" n="78" break="no"/>diem celebrat licite Edinburgi. hoc patet. hora vn 
+   <lb ed="#B" n="79"/>decima existenti Edinburgi est hora quarta post 
+   <lb ed="#B" n="80"/>meridiem in oriente. sed hoc est illicitum, dum est 
+   <lb ed="#B" n="81"/>quarta in horizonte: in quo celebratur. Nam bene 
+   <lb ed="#B" n="82"/>sequitur, nunc est hora quarta post meridiem apud  
+   <lb ed="#B" n="83"/>Gymnosophistas: ergo nunc est hora quarta. 
+  </p>
+      <p xml:id="jMqv4a-d1e351-d1e488">
+       <lb ed="#B" n="84"/>⁋ Contra hoc arguitur. Aliqui habent. xxiiii. horas 
+   <lb ed="#B" n="85"/>pro die artificiali: vt sunt habentes xzenith in circum 
+   <lb ed="#B" n="86"/>io arctico: quando sol est in primo puncto cancri: 
+   <lb ed="#B" n="87"/>quia totus tropicus cancri est super eorum horizon 
+   <lb ed="#B" n="88"/>tem: nam pro horizonte habent lineam eclipticam.
+   opposi<lb ed="#B" n="89" break="no"/>to autem modo est eis tempore noctumo sole existente 
+   <lb ed="#B" n="90"/>in primo puncto Capricorni. Item habitantes sub 
+   <lb ed="#B" n="91"/>polo arctico habent dimidium annum pro die
+   ar<lb ed="#B" n="92" break="no"/>tificiali: &amp; dimidium annum pro nocte: cum eorum
+   hori<lb ed="#B" n="93" break="no"/>zon sit aequator: qui zxodiacum in duas partes
+   se<lb ed="#B" n="94" break="no"/>cat. oportet enim quod super eorum horizontem sit vna 
+   <lb ed="#B" n="95"/>medietas zodiaci. Et quidiu sol mouetur per illam 
+   <lb ed="#B" n="96"/>medietatem continuo est dies: &amp; quando per aliam 
+   <lb ed="#B" n="97"/>medietatem mouetur: continuo est nox. Quia autem 
+   <lb ed="#B" n="98"/>aliqui christiani illic habitent: notum est iis qui eos 
+   <lb ed="#B" n="99"/>accedunt. nam Islandia est vltra circulum arctis 
+   <lb ed="#B" n="100"/>cum: quem Angli nobis Scotis omnino
+   meridio<lb ed="#B" n="101" break="no"/>nales in magna nauium quantitate, pro
+   prenden<lb ed="#B" n="102" break="no"/>dis piscibus quotannis reuisunt. His certis
+   suppo<lb ed="#B" n="103" break="no"/>sitis, Arguitur sic. Ex dictis sequitur quod isti possunt. 
+   <lb ed="#B" n="104"/>celebrare quocumque tempore vnius medietatis anni:  
+   <lb ed="#B" n="105"/>immo quocumque tepore sine peccato: &amp; sine dispen 
+   <lb ed="#B" n="106"/>satione: cum liceat celebrare in diluculo antequam sit 
+   <lb ed="#B" n="107"/>dies artificialis per vnam horam: vel duas secundum 
+   <lb ed="#B" n="108"/>alios. sol enim nunquam est istis sub horizonte vltra 
+   <lb ed="#B" n="109"/>xxiiii. gradus. Nubes etiam illic non impediunt: quin 
+   <!--0165.xml-->
+   <pb ed="#B" n="67-r"/>
+       <cb ed="#B" n="a"/>
+       <lb ed="#B" n="1"/>aliquid lucis habeant. quod probo. quando astro: 
+   <lb ed="#B" n="2"/>nomi dicunt quod possumus videre aliquid ante
+   or<lb ed="#B" n="3" break="no"/>tum solis ad. xviii. gradus vel. xxx. non intelligunt 
+   <lb ed="#B" n="4"/>solum sub aequatore: sed in vltimo climate hoc ha 
+   <lb ed="#B" n="5"/>bet verum &amp; in postclimatibus: vt experimur in ab 
+   <lb ed="#B" n="6"/>quibus locis septentrionalibus nostrae Scotiae Britam 
+   <lb ed="#B" n="7"/>niae: vix enim habebis duas horas quibus nihil videtur 
+   <lb ed="#B" n="8"/>&amp; sicut nostri referunt vix horam. &amp; hoc nominia insula 
+   <lb ed="#B" n="9"/>rum apud nos important: scilicet slii &amp; luyce: quae in  
+   <lb ed="#B" n="10"/>nostro vulgari diluculum &amp; lux, latine interpreian 
+   <lb ed="#B" n="11"/>do vocantur.
+  </p>
+      <p xml:id="jMqv4a-d1e351-d1e577">
+   ⁋ Respondeo. leges istae maxime dam 
+   <lb ed="#B" n="12"/>tur istis qui sunt in climatibus, vel qui recedendo 
+   <lb ed="#B" n="13"/>habent decem &amp; octo horas vel viginti pro
+   longissi<lb ed="#B" n="14" break="no"/>mo die anni: vt apud Thylen. Caeteri autem christiant 
+   <lb ed="#B" n="15"/>possunt vti aliis regulis, quibus no est insistendum. ist 
+   <lb ed="#B" n="16"/>enim non possunt seruare hac constitutionem pontificiam 
+   <lb ed="#B" n="17"/>in. c. Nocte sancta. superius recitatam, nec ad illam 
+   <lb ed="#B" n="18"/>vllo modo obligantur: alioquin toto dimidio anni 
+   <lb ed="#B" n="19"/>quo est eis nox &amp; hyems, celebrare non possent. 
+   <lb ed="#B" n="20"/>Alii autem inter tropicum Capricorni &amp; circulum
+   an<lb ed="#B" n="21" break="no"/>tarcticum possunt seruare eadem quae nos existentes 
+   <lb ed="#B" n="22"/>inter tropicum Cancri &amp; circulum arcticum: quia similes 
+   <lb ed="#B" n="23"/>hyemes, aestates, &amp; tempora nobiscum habent opposito 
+   <lb ed="#B" n="24"/>modo. hoc est nostra aestas est eis hyems: &amp; econvel 
+   <lb ed="#B" n="25"/>so: &amp; ver nostrum est eis autumnale tempus &amp; contra. An 
+   <lb ed="#B" n="26"/>vero illic aliqui morentur, vide. xvii. distin. ii. sententia 
+   <lb ed="#B" n="27"/>rum. leges autem dantur de his quae plurimum contingunt 
+   <lb ed="#B" n="28"/>itur. de legi. &amp; senatuscom. l. Nam ad ea. vbi iuriscosu 
+   <lb ed="#B" n="29"/>tus dicit. nam ad ea potius debet adaptari ius, quae 
+   <lb ed="#B" n="30"/>&amp; frequenter &amp; facile quam ad ea quae perraro eueniunt: quia 
+   <lb ed="#B" n="31"/>quae semel aut bis eueniunt (vt ait Theophrastus: 
+   <lb ed="#B" n="32"/>contennunt legissatores. 
+  </p>
+      <p xml:id="jMqv4a-d1e351-d1e625">
+       <lb ed="#B" n="33"/>⁋ Contra secundam conclusionem
+   ar<lb ed="#B" n="34" break="no"/>guitur. sequitur ex ea quod quis septies in die posset cele 
+   <lb ed="#B" n="35"/>brare licite. consequens est inauditum: ergo
+   anteceden<lb ed="#B" n="36" break="no"/>no est audiendum. consequentiam probo. sit sacerdos qui ce 
+   <lb ed="#B" n="37"/>lebrauit mane: iam deferatur funus ad templum: secun 
+   <lb ed="#B" n="38"/>do celebrabit. dicta illa missa episcopus forte acce 
+   <lb ed="#B" n="39"/>det, iam debet celebrare: quia occurrit alia rationabi 
+   <lb ed="#B" n="40"/>lis causa. postea occurrant nuptiae. eodem modo pono 
+   <lb ed="#B" n="41"/>quatuor pauperes pagos, vt contingit crebro in ali 
+   <lb ed="#B" n="42"/>quibus locis vbi distant parochiani quinque aut sex mi 
+   <lb ed="#B" n="43"/>liaribus ab ecclesia: sequitur ergo quod presbyter
+   visi<lb ed="#B" n="44" break="no"/>tabit pagos istorum parochianorum: &amp; quater cele 
+   <lb ed="#B" n="45"/>brabit. Insuper sequitur: quod esset in facultate alicuius damin 
+   <lb ed="#B" n="46"/>venire ad diuina vel non. &amp; per consequens posset esst 
+   <lb ed="#B" n="47"/>causa meae celebrationis: &amp; quod sumam corpus domini: &amp; mi 
+   <lb ed="#B" n="48"/>hi conferatur gratia virtute operis operati.
+  </p>
+      <p xml:id="jMqv4a-d1e351-d1e662">
+   ⁋ Ad primum, non 
+   <lb ed="#B" n="49"/>satis lucidum est quid sit faciendu in illo casu. videtur oui 
+   <lb ed="#B" n="50"/>sistendum sit in secunda celebratione, &amp; non procedendi 
+   <lb ed="#B" n="51"/>vlterius propter consuetudinem: &amp; sic erit status in secin 
+   <lb ed="#B" n="52"/>da. sicut theologorum sacra facultas Parisiensis dat 
+   <lb ed="#B" n="53"/>baccalaureandis ratione cursus annum regentiae: &amp; tamen 
+   <lb ed="#B" n="54"/>non daret duos annos pro omnibus cursibus <name xml:id="jMqv4a-d1e351-Nd1e677" ref="#JeanBuridan">Ioannis 
+   <!--0165.xml-->
+   <cb ed="#B" n="b"/> 
+        <!-- 67-r b -->
+        <lb ed="#B" n="55"/>Buridani</name>. Ad aliud conceditur quod superueniens est 
+   <lb ed="#B" n="56"/>causa occasionalis gratiae quare mereor. &amp; hoc pa 
+   <lb ed="#B" n="57"/>tet de dante sex paruos albos ministro. 
+   <lb ed="#B" n="58"/>Vbitatur praerimo: quando quis 
+   <lb ed="#B" n="59"/>lteneatur celebrare: &amp; quando non. Respondetur 
+   <lb ed="#B" n="60"/>n die parasceues presbyter non debet ce 
+   <lb ed="#B" n="61"/>lebrare: quia tunc apostoli latuerunt propter metum 
+   <lb ed="#B" n="62"/>iudaeorum. &amp; quia missa instituta est ob memoriam pas 
+   <lb ed="#B" n="63"/>sionis dominicae: cuius illo die est specialis memoria 
+   <lb ed="#B" n="64"/>quaelibet autem alia dies est conveniens celebrationi. 
+   <lb ed="#B" n="65"/>Celebrare igitur missam est praeceptum affirmatiuum pres 
+   <lb ed="#B" n="66"/>bytero. &amp; distinguendum est de presbytero: quia vel be 
+   <lb ed="#B" n="67"/>neficium habet: &amp; tunc est magis deuinctus celebrare: 
+   <lb ed="#B" n="68"/>sicut enim seruiens altari de altari viuere debet: sio 
+   <lb ed="#B" n="69"/>viuens de altari seruire debet eidem: &amp; tenetur celebran 
+   <lb ed="#B" n="70"/>re pro loco &amp; tempore. Si vero non habeat beneficium, 
+   <lb ed="#B" n="71"/>hoc potest esse multifariam: fortasse enim est paralyti 
+   <lb ed="#B" n="72"/>cus / caecus / vel laborat alio morbo, ob que non pot 
+   <lb ed="#B" n="73"/>commode celebrare: vt morbo comitiali laborans. 
+   <lb ed="#B" n="74"/>vel effectus est irregularis occidendo hominem: vel in  
+   <lb ed="#B" n="75"/>alio casu in quo no consueuit dispensari: vel non pot 
+   <lb ed="#B" n="76"/>adire dispensantem: aut rationabiliter praesumit quod 
+   <lb ed="#B" n="77"/>secum no dispensabitur. vel est ei manus abscissa: tuc 
+   <lb ed="#B" n="78"/>est excusatus. alioquin scandalum est aliorum &amp; irrisio 
+   <lb ed="#B" n="79"/>assumere sacerdotium, &amp; nuqui celebrare: si diu viuat 
+   <lb ed="#B" n="80"/>si enim statim post sacerdotium moriatur, non obstat. 
+   <lb ed="#B" n="81"/>potest tamen contingere ob praedicationem quadragesimae:. 
+   <lb ed="#B" n="82"/>vel lectionem vel pro alio officio obeundo: quod homo. 
+   <lb ed="#B" n="83"/>diu abstineat a celebratione rationabiliter, non tamen
+   au<lb ed="#B" n="84" break="no"/>derem sacerdotem excusare a peccato: si non celebret 
+   <lb ed="#B" n="85"/>in praecipuis festis: nisi habeat legitimum impedimen 
+   <lb ed="#B" n="86"/>tum: vt in festo natalis domini, pentecoste,
+   pa<lb ed="#B" n="87" break="no"/>scha, festo corporis Christi, omnium sanctorum, &amp; 
+   <lb ed="#B" n="88"/>assumptionis diuae virginis. &amp; illud potest
+   robo<lb ed="#B" n="89" break="no"/>rari per maximum pontificem de celebra. missa. c. Do 
+   <lb ed="#B" n="90"/>lentes. S. Sunt. Sunt (inquit pontifex) qui
+   missa<lb ed="#B" n="91" break="no"/>rum solennia vix celebrant quater in anno. &amp; hoc 
+   <lb ed="#B" n="92"/>est ab eo reprehensum. 
+  </p>
+      <p xml:id="jMqv4a-d1e351-d1e769">
+       <lb ed="#B" n="93"/>⁋ Dubitatur secundo: quis possit ce 
+   <lb ed="#B" n="94"/>lebrare: &amp; eucharistiam laicis ministrare. Respondetur 
+   <lb ed="#B" n="95"/>solus sacerdos consecrat. de summa trinita. &amp; fide ca 
+   <lb ed="#B" n="96"/>tholica. cap. i. siue degradatus, excommunicatus, vel 
+   <lb ed="#B" n="97"/>quocumque genere vitii irretitus. Canones vero qui 
+   <lb ed="#B" n="98"/>videntur sonare quod non consecrant: intelligantur, non 
+   <lb ed="#B" n="99"/>ad suam salutem. hoc est peccant. vt. xxiiii. quaestio. i 
+   <lb ed="#B" n="100"/>c. Audiuimus. &amp; hoc si intendant facere quod
+   eccle<lb ed="#B" n="101" break="no"/>sia intendit cum materia debita. hoc enim semper eccle 
+   <lb ed="#B" n="102"/>sia tenuit. In hoc autem erat haeresis magistri
+   senten<lb ed="#B" n="103" break="no"/>tiarum, &amp; Vicleffi. Insuper quando degradatus ecclesiae 
+   <lb ed="#B" n="104"/>reconciliatur &amp; excommunicatus absoluitur,
+   confi<lb ed="#B" n="105" break="no"/>cit &amp; consecrat: &amp; tamen non reordinatur. Et sicut 
+   <lb ed="#B" n="106"/>solis sacerdotibus datur potestas consecrandi
+   cor<lb ed="#B" n="107" break="no"/>poris dominici: ita datur eis potestas corpus
+   Chri<lb ed="#B" n="108" break="no"/>sti ministrandi aliis. Infimi enim secundum Diony- 
+   <!--0166.xml-->
+   <pb ed="#B" n="67-v"/>
+       <cb ed="#B" n="a"/>
+       <lb ed="#B" n="1"/>sium debent reduci ad extremum per medium. modo  
+   <lb ed="#B" n="2"/>presbyteri mediant inter deum &amp; laicos.
+  </p>
+    </div>
+   </body>
+  </text>
+</TEI>

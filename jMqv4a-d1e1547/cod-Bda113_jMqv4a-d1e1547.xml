@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 1</title>
+      <author ref="#JohnMair">John Mair</author>
+      <respStmt>
+       <name>Jeffrey C. Witt</name>
+       <resp>TEI Encoder</resp>
+      </respStmt>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 1</title>
+       <date when="2020-06-09">June 27, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="B" n="cod-Bda113">Badius 1516</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+     guidelines for a diplomatic edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-06-27" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+      <pb ed="#B" n="-r"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="jMqv4a-d1e1547"> <!-- l4d37q1 -->
+      <head xml:id="jMqv4a-d1e1547-Hd1e104">Quaestio 1</head>
+      <head xml:id="jMqv4a-d1e1547-Hd1e107" type="question-title">An sacer ordo impediat matrimonium</head>
+      <p xml:id="jMqv4a-d1e1547-d1e110">
+       <lb ed="#B" n="24"/>⁋ Distinctionis Trigesimaeseptimae 
+   <lb ed="#B" n="25"/>Quaestio Vnica. 
+   <lb ed="#B" n="26"/>Rigesimam 
+   <lb ed="#B" n="27"/>septimam distinctio 
+   <lb ed="#B" n="28"/>nem paucissimis ab 
+   <lb ed="#B" n="29"/>oluam,
+   proponen<lb ed="#B" n="30" break="no"/>: An sacer ordo 
+   <lb ed="#B" n="31"/>pediat
+   matrimo<lb ed="#B" n="32" break="no"/>Respondetu 
+   <lb ed="#B" n="33"/>matiue. nam 
+   <lb ed="#B" n="34"/>s initiati i 
+   <lb ed="#B" n="35"/>r inhabiles ni 
+   <lb ed="#B" n="36"/>trahere possir 
+   <lb ed="#B" n="37"/>ostendit Magister 
+   <lb ed="#B" n="38"/>in litera capitu. i 
+   <lb ed="#B" n="39"/>xxxii. dis. in ca. Placuit. ex concilio Carthaginensi d 
+   <lb ed="#B" n="40"/>tur. Placuit epsos, praesbyteros, diaconos, subdiaco 
+   <lb ed="#B" n="41"/>nos secundum priora constituta etiam abstinere 
+   <lb ed="#B" n="42"/>ab vxoribus: quod nisi fecerint, ab ecclesiastico re 
+   <lb ed="#B" n="43"/>moueantur officio. caeteros vero clericos ad hoc 
+   <lb ed="#B" n="44"/>non cogi: sed vniuscuiusque ecclesiae consuetudinem 
+   <lb ed="#B" n="45"/>obseruari debere. Idem patet in cap. Seriatim. &amp; qui 
+   <lb ed="#B" n="46"/>cleri. vel vouen. cap. primo 
+  </p>
+      <p xml:id="jMqv4a-d1e1547-d1e162">
+       <lb ed="#B" n="47"/>⁋ Contra conclusionem hanc argu 
+   <lb ed="#B" n="48"/>mentor. coniugatus possibiliter est sacerdos: ergo 
+   <lb ed="#B" n="49"/>sacerdos possibiliter est coniugatus. antecedens pa 
+   <lb ed="#B" n="50"/>tet de graecis.
+  </p>
+      <p xml:id="jMqv4a-d1e1547-d1e174">
+   ⁋ Respondetur concedendo illatum. nam 
+   <lb ed="#B" n="51"/>potens &amp; possibiliter ampliant a fronte &amp; a tergo.  
+  </p>
+      <p xml:id="jMqv4a-d1e1547-d1e179">
+       <lb ed="#B" n="52"/>⁋ Secunda propositio. possibile est sacerdotem esse con 
+   <!--0611.xml-->
+   <cb ed="#B" n="b"/> 
+       <!-- 290-r b -->
+       <lb ed="#B" n="53"/>iugatum. patet. tollendo modum, quod reliquum est 
+   <lb ed="#B" n="54"/>veritatem habet in graeco sacerdotem: vtpote sacer 
+   <lb ed="#B" n="55"/>dos est coniugatus. nam cum cmmuniugatus sit sacer 
+   <lb ed="#B" n="56"/>dos: per conversionem simplicem sacerdos est coniu 
+   <lb ed="#B" n="57"/>gatus. sed isti graeci primo coniugantur: &amp; deinde as 
+   <lb ed="#B" n="58"/>sumunt ordines.
+  </p>
+      <p xml:id="jMqv4a-d1e1547-d1e203">
+   ⁋ Tertia propositio. ei qui primo 
+   <lb ed="#B" n="59"/>est sacerdos non licet postea ducere vxorem. hoc 
+   <lb ed="#B" n="60"/>amplius dist. xxiiii. prosecuti sumus. Per sacerdo 
+   <lb ed="#B" n="61"/>tem etiam intelligo diaconum &amp; subdiaconum. At 
+   <lb ed="#B" n="62"/>dicis, contrahens matrimonium contra interdictum 
+   <lb ed="#B" n="63"/>ecclesiae, vere contrahit licet peccet contrahendo.  
+   <lb ed="#B" n="64"/>ergo ordinatus contrahens vere contrahit licet pec 
+   <lb ed="#B" n="65"/>cet contrahendo. quia ordo non impedit matrimo 
+   <lb ed="#B" n="66"/>nium quia ordo: alioquin omnis ordo impediret 
+   <lb ed="#B" n="67"/>matrimonium, quod est falsum, nec ratione voti: alio 
+   <lb ed="#B" n="68"/>quin non essent duo impedimenta distincta, ordo 
+   <lb ed="#B" n="69"/>&amp; votum. Nego consequentiam. nam ecclesia ali 
+   <lb ed="#B" n="70"/>quos contractus prohibet: sed non irritat eos si fiant. 
+   <lb ed="#B" n="71"/>vt in interdicto ecclesiae. Aliquos &amp; prohibet &amp; simul 
+   <lb ed="#B" n="72"/>reddit inanes. vt in proposito ordo impedit quia 
+   <lb ed="#B" n="73"/>sacer. ltaque ordo sacer est causa sine qua non, vel 
+   <lb ed="#B" n="74"/>propinqua. Irritatio autem legis est proprie causa 
+   <lb ed="#B" n="75"/>in ordine sacro. Et dicitur sacer quia ei castitas est 
+   <lb ed="#B" n="76"/>annexa, quae virum caelibem &amp; sacrum facit. reliqui 
+   <lb ed="#B" n="77"/>autem omnes quia sacramenta, etiam aliquo mo 
+   <lb ed="#B" n="78"/>do sacri dici possunt. 
+  </p>
+    </div>
+   </body>
+  </text>
+</TEI>

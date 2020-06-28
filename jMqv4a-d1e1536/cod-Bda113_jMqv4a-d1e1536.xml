@@ -1,0 +1,290 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 1</title>
+      <author ref="#JohnMair">John Mair</author>
+      <respStmt>
+       <name>Jeffrey C. Witt</name>
+       <resp>TEI Encoder</resp>
+      </respStmt>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 1</title>
+       <date when="2020-06-09">June 27, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="B" n="cod-Bda113">Badius 1516</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+     guidelines for a diplomatic edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-06-27" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+      <pb ed="#B" n="288-r"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="jMqv4a-d1e1536"> <!-- l4d35q1 -->
+      <head xml:id="jMqv4a-d1e1536-Hd1e104">Quaestio 1</head>
+      <head xml:id="jMqv4a-d1e1536-Hd1e107" type="question-title">An vir possit uxorem ob adulterium dimittere</head>
+      <p xml:id="jMqv4a-d1e1536-d1e110">
+       <lb ed="#B" n="16"/>⁋ Distinctionis Trigesimae quintae 
+   <lb ed="#B" n="17"/>Quaestio Prima. 
+   <lb ed="#B" n="18"/>Agister in hac 
+   <lb ed="#B" n="19"/>trigesimaquinta di 
+   <lb ed="#B" n="20"/>stinctione
+   disqui<lb ed="#B" n="21" break="no"/>rit: an vir possit 
+   <lb ed="#B" n="22"/>yxorem ob
+   adulte<lb ed="#B" n="23" break="no"/>um dimittere. &amp; 
+   <lb ed="#B" n="24"/>ec manebit pro 
+   <lb ed="#B" n="25"/>uaestionis titulo. 
+   <lb ed="#B" n="26"/>espondetur per 
+   <lb ed="#B" n="27"/>duas conclusiones. 
+   <lb ed="#B" n="28"/>Prior est. Hoc est 
+   <lb ed="#B" n="29"/>licitum: etiam loquen 
+   <lb ed="#B" n="30"/>do de matrimonio consummato, &amp; altero coiugi 
+   <lb ed="#B" n="31"/>dissentiente. patet conclusio de diuor. ca. Ex literis. 
+   <lb ed="#B" n="32"/>Et Matthaei. xix. fornicatio excipitur. sed haec
+   pro<lb ed="#B" n="33" break="no"/>batio non concludit: quia veritas loquitur pro tempo 
+   <lb ed="#B" n="34"/>re legis Mosaicae: &amp; etiam de vinculo matrimonii 
+   <lb ed="#B" n="35"/>Ratio conclusionis est: quia vt plebeio versiculo 
+   <lb ed="#B" n="36"/>dicitur. Frangenti fidem frangetur fides eidem. 
+   <lb ed="#B" n="37"/>si igitur coniunx peccauit contra bonum fidei:  
+   <lb ed="#B" n="38"/>aequum est ei negare debitum in poenam peccati. 
+   <lb ed="#B" n="39"/>Ex qua conclusione sequitur quod vir reperit
+   convenien<lb ed="#B" n="40" break="no"/>rem rationem profitendi religionem quado vxor sua 
+   <lb ed="#B" n="41"/>adulterata est. vt fecit Paulus simplex eremita- 
+  </p>
+      <p xml:id="jMqv4a-d1e1536-d1e169">
+       <lb ed="#B" n="42"/>⁋ Secunda conclusio. Hoc etiam est verum in haeresi 
+   <lb ed="#B" n="43"/>quae est fornicatio spiritualis. xxviii. q. i. ca.
+   ldo<lb ed="#B" n="44" break="no"/>latria. de diuor. Quaesiuit. &amp; hoc si nolit se
+   corri<lb ed="#B" n="45" break="no"/>gere. vbi etiam velit se corrigere, non est necessarium 
+   <lb ed="#B" n="46"/>illam recipere. Ratio conclusionis est: quia haeresis 
+   <lb ed="#B" n="47"/>est contra bonum prolis vt non religiose educetur. 
+  </p>
+      <p xml:id="jMqv4a-d1e1536-d1e186">
+       <lb ed="#B" n="48"/>⁋ Contra priorem conclusionem arguitu 
+   <lb ed="#B" n="49"/>Reddere debitum vxori petenti est de iure
+   diui<lb ed="#B" n="50" break="no"/>no. primae ad Corinth. vii. ergo per constitutionem 
+   <lb ed="#B" n="51"/>ecclesiae non potest ab hoc iure absolui innocens, 
+   <!--0607.xml-->
+   <cb ed="#B" n="b"/> 
+       <!-- 288-r b -->
+       <lb ed="#B" n="52"/>Forte dicis, non est de iure diuino reddere debitum 
+   <lb ed="#B" n="53"/>vxori: si ipsa peccauit contra bona
+   matrimonii<lb ed="#B" n="54" break="no"/>&amp; thorum coniugis violauit. Contra hoc arguo. 
+   <lb ed="#B" n="55"/>ergo si mulier occulte peccauit &amp; virum lateat i 
+   <lb ed="#B" n="56"/>ipsa non potest debitum petere: sed peccat
+   peten<lb ed="#B" n="57" break="no"/>do: quia ius petendi suo peccato occulto amisit 
+  </p>
+      <p xml:id="jMqv4a-d1e1536-d1e217">
+       <lb ed="#B" n="58"/>⁋ Respondetur sufficienter inter arguendum. istud 
+   <lb ed="#B" n="59"/>enim est ius positiuum quod mulier no tenetur
+   sci<lb ed="#B" n="60" break="no"/>re. sed ipsa intendens mutare suam malam vitam / post 
+   <lb ed="#B" n="61"/>poenitentiam potest petere.
+  </p>
+      <p xml:id="jMqv4a-d1e1536-d1e228">
+   ⁋ Secundo arguitur. si 
+   <lb ed="#B" n="62"/>vxor dominico die amiserit ius petendi debitum: 
+   <lb ed="#B" n="63"/>&amp; Sortes die lunae ob simile peccatum: tenetur vxo 
+   <lb ed="#B" n="64"/>ri reddere debitum. xxxii. qui. vi. ca. penul.
+  </p>
+      <p xml:id="jMqv4a-d1e1536-d1e237">
+   ⁋ Respon 
+   <lb ed="#B" n="65"/>detur. septem vel octo modis tenetur vir
+   redde<lb ed="#B" n="66" break="no"/>re debitu adulterae. Primus modus iam inter
+   ar<lb ed="#B" n="67" break="no"/>guendum dictus est. Secundo modo si vxor sit vi 
+   <lb ed="#B" n="68"/>oppressa. xxxii. qui. v. ca. Ita ne. Tertio, si maritum 
+   <lb ed="#B" n="69"/>probabiliter credat mortuum. xxxiiii. qui. i. Cum per 
+   <lb ed="#B" n="70"/>bellicam. Quarto si alter sub specie mariti
+   cogno<lb ed="#B" n="71" break="no"/>uit mulierem. xxxiiii. q. ii. In lectum. Quinto, si 
+   <lb ed="#B" n="72"/>maritus tradidit eam adulterandam praesertim
+   in<lb ed="#B" n="73" break="no"/>uitam. de eo qui cog, confan. vxo. suae. ca. Discre 
+   <lb ed="#B" n="74"/>tionem. Sexto, si maritus post adulterium
+   cogno<lb ed="#B" n="75" break="no"/>uit &amp; tolerauit eam. ar. xxxii. qui. i. Si quis
+   vxoren<lb ed="#B" n="76" break="no"/>Septimo, si matrimonio in infidelitate contracto 
+   <lb ed="#B" n="77"/>vir dedit vxori libellum repudii, &amp; vxor alteri
+   nu<lb ed="#B" n="78" break="no"/>pserit: quia si vir conuertatur, tenetur eam
+   acci<lb ed="#B" n="79" break="no"/>pere. c. Gaudemus. de diuorti. Octauo, si vir
+   de<lb ed="#B" n="80" break="no"/>dit occasionem mulieri remote &amp; mediate
+   adul<lb ed="#B" n="81" break="no"/>terii perpetrandi vtpote non ministrauit ei neces 
+   <lb ed="#B" n="82"/>saria vel eam reliquit: ipsa contra virum se repudian 
+   <lb ed="#B" n="83"/>tem non potest obiicere. Textus ad hoc est clarus 
+   <lb ed="#B" n="84"/>in cap. Significasti. de diuor. de muliere relicta a 
+   <lb ed="#B" n="85"/>marito: quae tempore illo ex alio sobolem
+   susce<lb ed="#B" n="86" break="no"/>perat: &amp; cum ipsa peteret marito restitui, pontifex 
+   <lb ed="#B" n="87"/>definiuit quod ad eam recipiendam maritus cogi non 
+   <lb ed="#B" n="88"/>deberet. Si autem vir dederit ei causam propinquam 
+   <lb ed="#B" n="89"/>adulterii: puta instigauit eam ad adulterium: ipsa 
+   <lb ed="#B" n="90"/>viro est restituenda. Sed contra hoc arguitur per 
+   <lb ed="#B" n="91"/>Augustinum de adulterinis coniugiis, &amp; recitatur 
+   <lb ed="#B" n="92"/>xxvii. qui. ii. dicentem. Si tu abstines sine vxoris 
+   <lb ed="#B" n="93"/>voluntate, tribuis ei fornicandi licentiam: &amp; pecca 
+   <lb ed="#B" n="94"/>tum illius tuae imputabitur abstinentiae. Responi 
+   <lb ed="#B" n="95"/>detur concedendo quod maritus in illo casu peccat &amp; 
+   <lb ed="#B" n="96"/>mortaliter, multum vel parum secundum magnitudinem 
+   <lb ed="#B" n="97"/>vel paruitatem occasionis datae. sed hoc mulieren 
+   <lb ed="#B" n="98"/>non excusat a graui peccato, vel vt ipsa restitui 
+   <lb ed="#B" n="99"/>debeat. Nec est ignoscendum ei, quae praetextu 
+   <lb ed="#B" n="100"/>paupertatis turpissimam vitam ducit. fitr. de ritu 
+   <lb ed="#B" n="101"/>nup. l. Palam. S. Non est.
+  </p>
+      <p xml:id="jMqv4a-d1e1536-d1e320">
+   ⁋ Ecce quomodo
+   pro<lb ed="#B" n="102" break="no"/>pter fornicationem corporalem vel spiritualem 
+   <lb ed="#B" n="103"/>solum potest esse diuortium quo ad thorum vel coha 
+   <lb ed="#B" n="104"/>bitationem mutuam, etiam post carnalem copulam 
+   <lb ed="#B" n="105"/>muliere inuita. Vnde <name xml:id="jMqv4a-d1e1536-Nd1e330" ref="#Augustine">Augustinus</name> in lib. de sermone 
+   <lb ed="#B" n="106"/>domini in monte. &amp; citatur. xxxii. qui. v. sic dicit. 
+   <!--0608.xml-->
+   <pb ed="#B" n="288-v"/>
+       <cb ed="#B" n="a"/>
+       <lb ed="#B" n="1"/>Si vxorem quis habeat sterilem siue deformen
+   cor<lb ed="#B" n="2" break="no"/>pore, siue debilem membris, vel caecam, vel claudam 
+   <lb ed="#B" n="3"/>vel surdam, vel si quid aliud, siue morbis, siue la 
+   <lb ed="#B" n="4"/>boribus doleribusque confectam: &amp; quicquid excepta 
+   <lb ed="#B" n="5"/>fornicationis causa, excogitari potest vehemeni 
+   <lb ed="#B" n="6"/>ter horribile: pro societate fideque sustineat. Et si sit 
+   <lb ed="#B" n="7"/>fornicatio notoria: potest vir vxorem propria aucto 
+   <lb ed="#B" n="8"/>ritate dimittere: non tamen obtinebit donationem propter 
+   <lb ed="#B" n="9"/>nuptias vel propter dotem. patet per cap. Plerumque. de 
+   <lb ed="#B" n="10"/>dona. inter vi. &amp; vxo. vbi dicitur. Plerumque. &amp;
+   ifra<lb ed="#B" n="11" break="no"/>Si mulier ob causam fornicationis iudicio eccle 
+   <lb ed="#B" n="12"/>siae aut propria voluntate a viro recesserit: nec recor 
+   <lb ed="#B" n="13"/>ciliata postea sit eidem: dotem vel dotalitium repetere 
+   <lb ed="#B" n="14"/>non valebit. Si vero delictum non sit notorium:
+   diuor<lb ed="#B" n="15" break="no"/>tium debet fieri per ecclesiam. alioquin instante altero 
+   <lb ed="#B" n="16"/>compelletur cohabitare. Sed quo ad redditionem de 
+   <lb ed="#B" n="17"/>biti potest propria auctoritate denegare: cum sibi con 
+   <lb ed="#B" n="18"/>stet alterius delictum. Adulterium autem est notorium ex 
+   <lb ed="#B" n="19"/>mulieris confessione: vel quia ex alio sobolem susce 
+   <lb ed="#B" n="20"/>pit ex quo est a marito cognita: vel quia cum alio 
+   <lb ed="#B" n="21"/>versatur in domo, mensa, &amp; huiusmodi: quod nulla 
+   <lb ed="#B" n="22"/>tergiuersatione potest negare. Sed matrimonii 
+   <lb ed="#B" n="23"/>consummatum, quo ad vinculum non est seperabile etiam 
+   <lb ed="#B" n="24"/>per mortem ciuilem: sed solum per mortem naturalem, altero 
+   <lb ed="#B" n="25"/>coniugum moriente. De quo dicit Apostolis ad Roma 
+   <lb ed="#B" n="26"/>vii. Nam quae sub viro est mulier, viuente viro alligata 
+   <lb ed="#B" n="27"/>est legi. Si autem mortuus fuerit vir eius: soluta est :a 
+   <lb ed="#B" n="28"/>lege viri. Et. i. ad Corin. vii. Mulier alligata est le 
+   <lb ed="#B" n="29"/>gi quanto tempore vir eius viuit. quod si dormierit vir eius 
+   <lb ed="#B" n="30"/>liberata est a lege. Cui autem vult nubat, tanmenm in
+   domino<lb ed="#B" n="31" break="no"/>Obligatio enim semel extincta non reuiuiscit. &amp; s 
+   <lb ed="#B" n="32"/>resuscitetur, non tenetur maritum recipe. Aliud autem est in 
+   <lb ed="#B" n="33"/>sacramentis characteres imprimentibus &amp; initerabili 
+   <lb ed="#B" n="34"/>bus: quemadmodum sunt baptismus, ordo, &amp; confir 
+   <lb ed="#B" n="35"/>matio. illa enim post resuscitationem non sunt iteran 
+   <lb ed="#B" n="36"/>da. &amp; aliud de aliis quaetuor sacramentis: professione 
+   <lb ed="#B" n="37"/>religionis, &amp; aliis contractibus. Si vero mulieris 
+   <lb ed="#B" n="38"/>peccatum sit occultum: non accuset eam vir: quia in probatione 
+   <lb ed="#B" n="39"/>succumberet. &amp; si non probauerit intentum: non erit diuo 
+   <lb ed="#B" n="40"/>tium per legem Talionis: quia ad correctionem agit. Sed  
+   <lb ed="#B" n="41"/>moneat eam quam commodissime poterit ad castitatem. &amp; 
+   <lb ed="#B" n="42"/>cum mulieris conditionem nouerit an sit meticulosa 
+   <lb ed="#B" n="43"/>an animosa, astuta an simplex, secundum hoc
+   proce<lb ed="#B" n="44" break="no"/>dat. Si peccatum sit publicum: potest eam accusare vt suam 
+   <lb ed="#B" n="45"/>innocentiam ostendat: ne ipse videatur turpis delicti fo 
+   <lb ed="#B" n="46"/>tor. Et si videat quod potius corrigetur secum manem 
+   <lb ed="#B" n="47"/>do quam eam expellendo: non debet eam a se eijcere. Si 
+   <lb ed="#B" n="48"/>militer si non possit sine ea continenter viuere: maxi 
+   <lb ed="#B" n="49"/>me eam tenebit in remedium. 
+   <lb ed="#B" n="50"/>tamOst conclusiones &amp; epiloga 
+   <lb ed="#B" n="51"/>sionem, triplicem afferam dubi tationem 
+  </p>
+      <p xml:id="jMqv4a-d1e1536-d1e454">
+       <lb ed="#B" n="52"/>⁋ Prima erit: An adultera post poeni 
+   <lb ed="#B" n="53"/>tentia possit licite dicere se non esse adulteram 
+  </p>
+      <p xml:id="jMqv4a-d1e1536-d1e462">
+       <lb ed="#B" n="54"/>⁋ Secundo dubitatur: An liceat vxorem in adulterio 
+   <!--0608.xml-->
+   <cb ed="#B" n="b"/> 
+       <!-- 288-v b -->
+       <lb ed="#B" n="55"/>deprehensam punire.
+  </p>
+      <p xml:id="jMqv4a-d1e1536-d1e475">
+   ⁋ Tertio: quomodo vir dei 
+   <lb ed="#B" n="56"/>beat vxorem ob adulterium relictam reconciliare.
+  </p>
+      <p xml:id="jMqv4a-d1e1536-d1e480">
+   ⁋ Ad 
+   <lb ed="#B" n="57"/>primam respondetur quod sic. nam cum ipsa habeat firmum pro 
+   <lb ed="#B" n="58"/>positum castitatis: &amp; nullum actum luxus: non est am 
+   <lb ed="#B" n="59"/>plius peccato adulterii obnoxia: quamuis habitus adul 
+   <lb ed="#B" n="60"/>terii in ea adhuc non fuerit omnino remissus per 
+   <lb ed="#B" n="61"/>castitatem coniugalem adulterio oppositam.
+  </p>
+      <p xml:id="jMqv4a-d1e1536-d1e493">
+   ⁋ Ad se 
+   <lb ed="#B" n="62"/>cundum dubium dicitur quod lex Mosaica in adulterio depre 
+   <lb ed="#B" n="63"/>hensas occidebat. pats Leuitici. xx. Si moechatus 
+   <lb ed="#B" n="64"/>quis fuerit cum vxore alterius: &amp; adulterium perpetra 
+   <lb ed="#B" n="65"/>uerit cum coniuge proximi sui: moriatur &amp; moechus &amp; 
+   <lb ed="#B" n="66"/>adultera. Nec. Christus mulieri deprehensae in adulte 
+   <lb ed="#B" n="67"/>tio parcens. Ioannis. viii. illam legem Mosaicam
+   cuacua<lb ed="#B" n="68" break="no"/>uit. Et licet tota lex Mosaica in passione Christi 
+   <lb ed="#B" n="69"/>sit extincta: tamen iudicialia possunt adhuc seruari: 
+   <lb ed="#B" n="70"/>&amp; vim obligandi habere, non a lege sed a legissato 
+   <lb ed="#B" n="71"/>re humano: modo lex sit rationabilis. Haec etiam lex fuit 
+   <lb ed="#B" n="72"/>apud Romanos. C. ad leg. Iul. de adulte. l. Grac 
+   <lb ed="#B" n="73"/>chus. &amp; adhuc in plerisque locis occidentalis
+   hespe<lb ed="#B" n="74" break="no"/>riae seruatur: sed ipsa est valde rigida. propterea 
+   <lb ed="#B" n="75"/>Pharisaei mulierem deprehensam in adulterio ad Chri 
+   <lb ed="#B" n="76"/>stum adduxerunt: vt experitentur quid ipse super hoc 
+   <lb ed="#B" n="77"/>sentiret.
+  </p>
+      <p xml:id="jMqv4a-d1e1536-d1e530">
+   ⁋ Ad tertiam dubitationem dicitur: quod aut  
+   <lb ed="#B" n="78"/>mulier est corrigibilis: aut non. si secundum: non est
+   re<lb ed="#B" n="79" break="no"/>concilianda. Si est conrrecta: potest eam reconciliare. nam 
+   <lb ed="#B" n="80"/>diuortium est introductum in fauorem innocentis: &amp; iuri 
+   <lb ed="#B" n="81"/>suo renunciare potest in casu quo potest fieri
+   reconcilia<lb ed="#B" n="82" break="no"/>tio. Aut vterque concordat in reconciliationem: aut vter 
+   <lb ed="#B" n="83"/>quod discordat: aut vnus concordat, &amp; alter
+   discor<lb ed="#B" n="84" break="no"/>dat. Si primum: debet fieri reconciliatio. Si secundum, 
+   <lb ed="#B" n="85"/>non debet. Si tertium, contingit dupliciter. aut
+   inno<lb ed="#B" n="86" break="no"/>cens petit reconciliationem: &amp; sic debet fieri: quia in  
+   <lb ed="#B" n="87"/>nocens per diuortium non amisit ius quod habet in altero 
+   <lb ed="#B" n="88"/>aut nocens petit innocentem: &amp; sic non debet cogi 
+   <lb ed="#B" n="89"/>innocens: quia poenitentia non tollit actionem 
+   <lb ed="#B" n="90"/>xxxiii. q. ii. ca. Admonere. &amp; multo minus
+   exce<lb ed="#B" n="91" break="no"/>ptionem: cum facilius tollatur actio quam exceptio. 
+   <lb ed="#B" n="92"/>Aut nocens petit nocentem: vt mulier quae prius 
+   <lb ed="#B" n="93"/>fornicata est petit virum qui post diuortium for 
+   <lb ed="#B" n="94"/>nicatus est. sic videtur quod vir sit cogendus redire 
+   <lb ed="#B" n="95"/>ad vxorem in foro conscientiae: nisi suscipiat ordi 
+   <lb ed="#B" n="96"/>nes, aut religionem. si enim velit alterum eorum, non
+   te<lb ed="#B" n="97" break="no"/>netur: quia praeiudicaret sibi cognoscendo vxoren 
+   <lb ed="#B" n="98"/>prius fornicantem.
+  </p>
+    </div>
+   </body>
+  </text>
+</TEI>

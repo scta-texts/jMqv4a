@@ -1,0 +1,769 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 1</title>
+      <author ref="#JohnMair">John Mair</author>
+      <respStmt>
+       <name>Jeffrey C. Witt</name>
+       <resp>TEI Encoder</resp>
+      </respStmt>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 1</title>
+       <date when="2020-06-09">June 27, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="B" n="cod-Bda113">Badius 1516</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+     guidelines for a diplomatic edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-06-27" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+      <pb ed="#B" n="36-v"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="jMqv4a-d1e192"> <!-- l4d8q1 -->
+      <head xml:id="jMqv4a-d1e192-Hd1e104">Quaestio 1</head>
+      <head xml:id="jMqv4a-d1e192-Hd1e107" type="question-title">An sit ponenda forma in sacramento Eucharistiae ut in caeteris</head>
+      <p xml:id="jMqv4a-d1e192-d1e110">
+       <lb ed="#B" n="36"/>QVaeritur an sit po 
+   <lb ed="#B" n="37"/>nenda forma in hoc
+   sa<lb ed="#B" n="38" break="no"/>cramento sicut in
+   caete<lb ed="#B" n="39" break="no"/>ris. Videtur aliquibus quod 
+   <lb ed="#B" n="40"/>non: quia hoc sacramentu 
+   <lb ed="#B" n="41"/>est res permanens. verba 
+   <lb ed="#B" n="42"/>autem sunt res successiuae: 
+   <lb ed="#B" n="43"/> sed hic verba sunt
+   for<lb ed="#B" n="44" break="no"/>m ( ma consecrationis: ista enim 
+   <lb ed="#B" n="45"/>consecratio solum est in fieri. lstud apud me locum 
+   <lb ed="#B" n="46"/>non habet: quia baptismus &amp; confirmatio sunt res 
+   <lb ed="#B" n="47"/>permanentes: quia haec chrisma: ille, aqua. Loquor 
+   <lb ed="#B" n="48"/>autem (sicut hic accipimus) de forma metaphorica. 
+   <lb ed="#B" n="49"/>verba sunt forma: panis triticeus &amp; vinum, materia. 
+   <lb ed="#B" n="50"/>Nec est necesse formam metaphoricam manere cum 
+   <lb ed="#B" n="51"/>materia quamdiu hoc sacramentum est. Nec rursus in- 
+   <!--0104.xml-->
+   <cb ed="#B" n="b"/> 
+       <!-- 36-v b -->
+       <lb ed="#B" n="52"/>convenit materiam metaphoricam cum toto
+   coincide<lb ed="#B" n="53" break="no"/>re: sicut in artificialibus dicimus ligna esse materiam 
+   <lb ed="#B" n="54"/>arcae: quaem praesupponuntur ad hoc vt compleatur arca: quo 
+   <lb ed="#B" n="55"/>non obstante haec est vera: arca est ligna, non enim pono 
+   <lb ed="#B" n="56"/>res artificiales a naturalibus distingui. Hic igitur
+   prola<lb ed="#B" n="57" break="no"/>tis verbis manet sacramentum eucharistiae post conse 
+   <lb ed="#B" n="58"/>crationem: interdum ad vnum diem vel. viii. quamdiu illae spe 
+   <lb ed="#B" n="59"/>cies mansissent non corruptae cum substantia panis &amp; 
+   <lb ed="#B" n="60"/>rini. lstud autem nobis constat: quia super eandem hostiam 
+   <lb ed="#B" n="61"/>non dicimus iterum verba: sed cum eadem aqua numero 
+   <lb ed="#B" n="62"/>proferimus rursus verba in baptismo. &amp; sic aqua 
+   <lb ed="#B" n="63"/>pluries incipit esse baptismus: &amp; non pluries aqua.  
+   <lb ed="#B" n="64"/>Nec sequitur. aqua incipit esse quater baptismus: &amp; 
+   <lb ed="#B" n="65"/>omnis baptismus est aqua: ergo aqua incipit esse quater 
+   <lb ed="#B" n="66"/>aqua, nec est discursus in quarta figura secundum
+   po<lb ed="#B" n="67" break="no"/>nentes eam. vt patet intelligenti logicam. 
+  </p>
+      <p xml:id="jMqv4a-d1e192-d1e188">
+       <lb ed="#B" n="68"/>⁋ Eucharistia autem sic definitur. Eucha 
+   <lb ed="#B" n="69"/>ristia est sacramentum sub speciebus panis &amp; vini, vel 
+   <lb ed="#B" n="70"/>panis vel vini: corpus Christi &amp; sanguinem continens. 
+   <lb ed="#B" n="71"/>Sacramentum est quiditatiuum genus ad terminum
+   eu<lb ed="#B" n="72" break="no"/>charistia: sacramentum enim pro signo sensibili
+   suppo<lb ed="#B" n="73" break="no"/>nit connotando rem sacram dari quantum est ex parte eius:
+   eu<lb ed="#B" n="74" break="no"/>charistia autem habet connotationem inferiorem:
+   suppo<lb ed="#B" n="75" break="no"/>nit enim pro speciebus panis &amp; vini copulatim: etiam di 
+   <lb ed="#B" n="76"/>uisim, conotando quod corpus Christi sacrum ibi continea 
+   <lb ed="#B" n="77"/>tur. similiter de sanguine. Ponitur (sub speciebus
+   pa<lb ed="#B" n="78" break="no"/>nis &amp; vini) loco differentiae accidentalis: per hoc enim 
+   <lb ed="#B" n="79"/>differt a baptismo &amp; caeteris sacramentis. Ponitur 
+   <lb ed="#B" n="80"/>coniunctio copulatiua &amp; disiunctiua: ad
+   insinuan<lb ed="#B" n="81" break="no"/>dum quod ille terminus eucharistia supponit pro illis copu 
+   <lb ed="#B" n="82"/>latim: immo pro mille hostiis simul iunctis: vel pro alte 
+   <lb ed="#B" n="83"/>ro illorum: capitur enim (et) collectiue &amp; diuisiue: nec con 
+   <lb ed="#B" n="84"/>uenit omnibus speciebus vini vel panis: quia non omnes tales 
+   <lb ed="#B" n="85"/>sunt sacramentum: &amp; sic genus definiti facit
+   defini<lb ed="#B" n="86" break="no"/>tum ab aliis arguitiue differre. Haec autem definitio non 
+   <lb ed="#B" n="87"/>conuertitur cum definito mediante copula de possibili. 
+   <lb ed="#B" n="88"/>deus enim potest dare suum corpus sub aliis speciebus 
+   <lb ed="#B" n="89"/>si velit: sed non faciet: quia est aeterni testamenti. &amp; hoc 
+   <lb ed="#B" n="90"/>sufficit theologo in istis descriptionibus. Secundo  
+   <lb ed="#B" n="91"/>definitur sic definitione imagis explicante materiam 
+   <lb ed="#B" n="92"/>definiti. Eucharistia est spoiriens panis &amp; vini: vel
+   pa<lb ed="#B" n="93" break="no"/>nis vel vini cum certis verbis prolatis a sacerdote
+   in<lb ed="#B" n="94" break="no"/>tendente facere quod ecclesia intedit. Et per certa verba 
+   <lb ed="#B" n="95"/>intelligo formam: quam propter prolixitatem euitandam (&amp; po 
+   <lb ed="#B" n="96"/>tissimum in definitionibus) missam facio: &amp; ex dicen 
+   <lb ed="#B" n="97"/>dis apparebit quae sint illa. hoc est clare dicere: ille 
+   <lb ed="#B" n="98"/>terminus eucharistia supponit pro illis speciebus 
+   <lb ed="#B" n="99"/>vel altera earum: connotando quod presbyter dixerit 
+   <lb ed="#B" n="100"/>certa verba cum intentione faciendi quod ecclesia
+   inten<lb ed="#B" n="101" break="no"/>dit: vel connotat ille terminus eucharistia quod ibi
+   con<lb ed="#B" n="102" break="no"/>tineatur corpus Christi. siue capiatur ecclesia mili 
+   <lb ed="#B" n="103"/>tans siue triuphans, in idem redit. vtraque enim earum
+   re<lb ed="#B" n="104" break="no"/>cte intendit: &amp; neutra earum in isto aberrare potest. Ex 
+   <lb ed="#B" n="105"/>ista definitione patet quis sit minister huius sacramen 
+   <!--0105.xml-->
+   <pb ed="#B" n="37-r"/>
+       <cb ed="#B" n="a"/>
+       <lb ed="#B" n="1"/>ti: quia sacerdos solus: quae materia: quia panis triticeus 
+   <lb ed="#B" n="2"/>&amp; vinum: quae sunt optimum nutrimentum corporale in suis 
+   <lb ed="#B" n="3"/>speciebus. panis autem hordeaceus reddit homines male 
+   <lb ed="#B" n="4"/>coloratos: triticeus bene. secunda particula problematum,
+   pro<lb ed="#B" n="5" break="no"/>blemate. xxiii propterea nutrimentum spirituale congruen 
+   <lb ed="#B" n="6"/>ter significat. Datur autem corpus Christi sub aliena 
+   <lb ed="#B" n="7"/>specie ne abhorreamus eius sumptionem. de consecra.
+   di<lb ed="#B" n="8" break="no"/>stin. ii. Forte. &amp; ca. Panis est. Forma consecrationis 
+   <lb ed="#B" n="9"/>corporis Christi est haec. Hoc est corpus meum. Et in hoc 
+   <lb ed="#B" n="10"/>conveniunt omnes. De forma sanguinis digladiantur ple 
+   <lb ed="#B" n="11"/>rique: aliquibus dicentibus hoc totum esse formam. Hic est 
+   <lb ed="#B" n="12"/>calix sanguinis mei noui &amp; aeterni testamenti, my 
+   <lb ed="#B" n="13"/>sterium fidei, quod pro vobis &amp; pro multis effundetur in re 
+   <lb ed="#B" n="14"/>missionem peccatorum. &amp; hoc sequuntur quidam. Vsitatior tame 
+   <lb ed="#B" n="15"/>sntentia est quod haec est forma sanguinis. Hic est calix sam 
+   <lb ed="#B" n="16"/>guinis mei: vel sic vt dicit magister. Hic est sanguis 
+   <lb ed="#B" n="17"/>meus. Quidam praeterea dicit coram se fecisse legi formam 
+   <lb ed="#B" n="18"/>quae ponitur in missali Basilii, quod fertur habuisse ab ange 
+   <lb ed="#B" n="19"/>lo: &amp; forma est. Bibite ex eo omnes: hic est sanguis me 
+   <lb ed="#B" n="20"/>us noui testamenti qui pro vobis &amp; multis effundetur in 
+   <lb ed="#B" n="21"/>remissionem peccatorum. &amp; tamen non reprobatur a Roma 
+   <lb ed="#B" n="22"/>na ecclesia in consecratione. Nec requiruntur aliqua vel 
+   <lb ed="#B" n="23"/>ba praecedentia ista: si praesbyter intendat facere sicut ec 
+   <lb ed="#B" n="24"/>clesia. secus est si de proprio corpore loquaeretur. Vtimur au 
+   <lb ed="#B" n="25"/>tem frequenter pronomine loco alterius: vt nos Iacobus dei 
+   <lb ed="#B" n="26"/>gratia &amp;c. filius meus es tu: ego hodie genui te. de patre 
+   <lb ed="#B" n="27"/>in diuinis loquente ad filium. Propter dubium tamen mali 
+   <lb ed="#B" n="28"/>ageret qui aliquid verborum relinquaeret. hic enim melius va 
+   <lb ed="#B" n="29"/>let humilitas Pauli simplicis eremitae: quam subtilitas 
+   <lb ed="#B" n="30"/>Achitophel. Haec autem verba consecratiua a numero 
+   <lb ed="#B" n="31"/>quinario laudari possunt. nam quinque sunt verba in
+   con<lb ed="#B" n="32" break="no"/>secratione corporis: hoc est enim corpus meum. simi 
+   <lb ed="#B" n="33"/>liter in consecratione sanguinis, non refert, an (enim) sit 
+   <lb ed="#B" n="34"/>de essentia formae. Similiter christifera virgo in conce 
+   <lb ed="#B" n="35"/>ptione protulit quinque verba: fiat mihi secundum verbum 
+   <lb ed="#B" n="36"/>tuum. &amp; Lucae. xxiii. quinque erant verba prolata a Chr 
+   <lb ed="#B" n="37"/>sto ad bonum latronem. hodie mecum eris in paradiso 
+   <lb ed="#B" n="38"/>Quinque sunt literae in hac dictione Maria: per quam 
+   <lb ed="#B" n="39"/>aprta est ianua paradisi. quinque sunt libri Moysi 
+   <lb ed="#B" n="40"/>Ponitur in hac forma ( est) verbu substantiuum: radix 
+   <lb ed="#B" n="41"/>verborum adiectiuorum. in aliis autem verbum adiectiuum 
+   <lb ed="#B" n="42"/>vt baptizo, confirmo, accipe, capio te &amp;c. Tenec 
+   <lb ed="#B" n="43"/>igitur opinionem communem in forma consecrationis: cum omnes 
+   <lb ed="#B" n="44"/>euangelistae in ea conveniant: &amp; solum differant in modo lo 
+   <lb ed="#B" n="45"/>quendi. hoc enim forte voluit spiritus sctuns ad
+   signifi<lb ed="#B" n="46" break="no"/>candum quod non requiritur synonym itas in forma. Nec 
+   <lb ed="#B" n="47"/>valet ratio sancti Thome. omnio est enunciatiua. ergo de 
+   <lb ed="#B" n="48"/>terminatio praedicati est assumenda. hoc enim probaret 
+   <lb ed="#B" n="49"/>iquod pro vobis tradetur esse partem formae consecrationis 
+   <lb ed="#B" n="50"/>corporis: quod nondum concessum est a quopiam quem 
+   <lb ed="#B" n="51"/>vidimus. Sed vtcumque sit: praesbyter consecraturus de 
+   <lb ed="#B" n="52"/>bet omnia illa verba canonis legere: &amp; ita consecrabit 
+   <lb ed="#B" n="53"/>quaeuis nesciat quae forma sit adaequata. Quemadmodum 
+   <lb ed="#B" n="54"/>si deus certificaret me quod vna oantio prolata a Christo 
+   <lb ed="#B" n="55"/>sufficit ad hapbendam gratiam &amp; requiritur: &amp; sit illa gratia exem 
+   <!--0105.xml-->
+   <cb ed="#B" n="b"/> 
+       <!-- 37-r b -->
+       <lb ed="#B" n="56"/>pli: dimitte nobis debita nostra: &amp; hoc me lateat: aliqui 
+   <lb ed="#B" n="57"/>dicunt quod oportet dicere: dimitte nobis debita nostra 
+   <lb ed="#B" n="58"/>sicut &amp; nos: aliqui dicunt vnum: alii aliud: omnes tamen con 
+   <lb ed="#B" n="59"/>ueniunt: si dicam Elicitur ntur ad finem: certus sum de gratia: &amp; 
+   <lb ed="#B" n="60"/>tamen per nulla verba adaequata certitudinaliter id asse 
+   <lb ed="#B" n="61"/>runt: sed proferens totam oronem dominicam iam sum certus quod i 
+   <lb ed="#B" n="62"/>fine ex pacto diuimo datur mihi gratia per aliquam verba: 
+   <lb ed="#B" n="63"/>quamquam me latet quae sint illa. sic potest esse in proposito. licet 
+   <lb ed="#B" n="64"/>non sit opus ita dicere de facto: cum modus communis si 
+   <lb ed="#B" n="65"/>cut videtur rationabilis: ita &amp; verus. Sed dubites: quo 
+   <lb ed="#B" n="66"/>modo plus habeamus in canone quam aliquis euangeli 
+   <lb ed="#B" n="67"/>starum tangat. Ad hoc respondetur de celeb. mis. Cum Mat 
+   <lb ed="#B" n="68"/>thae. Quaesiuisti (inquit) quae sit forma verborum: quam ipes 
+   <lb ed="#B" n="69"/>se Christus expressit: cum in corpus &amp; sanguinem suus 
+   <lb ed="#B" n="70"/>panem transubstantiauit &amp; vinum: illud in canone
+   mis<lb ed="#B" n="71" break="no"/>sae quo ecclesia vtitur generalis, adiecerit quod nullus euan 
+   <lb ed="#B" n="72"/>gelistarum legitur expressisse. Et sequitur paulo post. Vnde 
+   <lb ed="#B" n="73"/>cum non euangelista Christum hoc dixisse testetur,
+   mira<lb ed="#B" n="74" break="no"/>ris quod aliquis asseuerare tentauerit eum aliquid plus
+   di<lb ed="#B" n="75" break="no"/>xisse: quam aliquis euangelistarum asseueret. Et paulopost 
+   <lb ed="#B" n="76"/>Sane multa tam de verbis quam de factis dominicis inueni 
+   <lb ed="#B" n="77"/>mus ab euangelistis omissa: quae apostoli vel
+   suppleuis<lb ed="#B" n="78" break="no"/>se verbo vel facto expressisse leguntur. Paulus enim 
+   <lb ed="#B" n="79"/>in actibus apostolorum sic ait. Meminisse nos
+   opor<lb ed="#B" n="80" break="no"/>tet verbi domini Iesu: qui dixit. beatius est dare qui ad 
+   <lb ed="#B" n="81"/>cipere. Haec nullus quatuor euangelistarum descripsit. 
+   <lb ed="#B" n="82"/>Nullus etiam horum expressit quod Paulus de Christo 
+   <lb ed="#B" n="83"/>ad Corinth. scribens ait. Visus est plusquam quingentis 
+   <lb ed="#B" n="84"/>fratribus simul: deinde visus est Iacobo:
+   nouissi<lb ed="#B" n="85" break="no"/>me autem tanquam abortiuo visus est &amp; mihi. Sic est 
+   <lb ed="#B" n="86"/>in proposito. Ex quo patet non esse ita certum de 
+   <lb ed="#B" n="87"/>forma consecrationis sanguinis Christi sicut
+   ba<lb ed="#B" n="88" break="no"/>ptismi. Secundo sequitur non requiri terminorum 
+   <lb ed="#B" n="89"/>synonymitatem: immo nec conuertibilitatem:
+   li<lb ed="#B" n="90" break="no"/>cet propositiones inter se aequiualeant. Vlterius sequitur: 
+   <lb ed="#B" n="91"/>quod non potens bibere vnum non debet ordinari
+   sa<lb ed="#B" n="92" break="no"/>cerdos: quia non potest sumere species vini. 
+  </p>
+      <p xml:id="jMqv4a-d1e192-d1e486">
+       <lb ed="#B" n="93"/>⁋ Contra praedicta arguitur. species
+   sen<lb ed="#B" n="94" break="no"/>sibiles panis sunt sacramentum: &amp; species
+   sensibi<lb ed="#B" n="95" break="no"/>les vini: &amp; illud aggregatum est sacim. ergo sequitur 
+   <lb ed="#B" n="96"/>quod plura sunt sacramenta Eucharistiae: &amp; sic essent 
+   <lb ed="#B" n="97"/>plura quam septem sacramenta nouae legis contra omnes 
+   <lb ed="#B" n="98"/>doctores.
+  </p>
+      <p xml:id="jMqv4a-d1e192-d1e502">
+   ⁋ Confirmatur. Consecratio est
+   sacra<lb ed="#B" n="99" break="no"/>mentum eucharistiae. ergo intentum.
+  </p>
+      <p xml:id="jMqv4a-d1e192-d1e507">
+   ⁋ Pro solutione 
+   <lb ed="#B" n="100"/>huius argumenti pono propositiones. Prima est. octo 
+   <lb ed="#B" n="101"/>sunt sacramenta probatur. quin octo baptizantur in
+   va<lb ed="#B" n="102" break="no"/>riis locis: iam octo isunt ibaptismii: ergo octo
+   sa<lb ed="#B" n="103" break="no"/>cramenta: ab inferiori ad superius. &amp; eodem
+   mo<lb ed="#B" n="104" break="no"/>do probari potest in aliis sacramentis.
+  </p>
+      <p xml:id="jMqv4a-d1e192-d1e520">
+   ⁋
+   Secun<lb ed="#B" n="105" break="no"/>da propositio. duae sunt eucharistiae specie distin  
+   <lb ed="#B" n="106"/>ctae. patet. Species panis &amp; vini puta albedo &amp; ru 
+   <lb ed="#B" n="107"/>bedo specie distinguuntur: &amp; illae species sunt sacra 
+   <lb ed="#B" n="108"/>menta eucharistiae: ergo propositum. Fodem modo  
+   <lb ed="#B" n="109"/>de ordinibus potes logice dicere, tamen duo sunt 
+   <!--0106.xml-->
+   <pb ed="#B" n="37-v"/>
+       <cb ed="#B" n="a"/>
+       <lb ed="#B" n="1"/>sacramenta in sensu excluso &amp; exclusiuo gratia
+   plu<lb ed="#B" n="2" break="no"/>ralitatis: cum duo infinita contineant. sed hoc est
+   tri<lb ed="#B" n="3" break="no"/>cas logicas &amp; materias externas citare. Ex ista
+   con<lb ed="#B" n="4" break="no"/>clusione sequitur quod octo sunt sacramenta specie di 
+   <lb ed="#B" n="5"/>sticta: quemadmodum secundum Porphyrium tamenum quique 
+   <lb ed="#B" n="6"/>dicuntur praedicabilia: &amp; tamen sunt decem specie distincta 
+   <lb ed="#B" n="7"/>hoc patet demonstrando decem terminos
+   vniuer<lb ed="#B" n="8" break="no"/>sales: quorum quinque sunt voces, &amp; quinque conceptus. 
+  </p>
+      <p xml:id="jMqv4a-d1e192-d1e557">
+       <lb ed="#B" n="9"/>⁋ Tertia propositio: tamtenm vnum est sacramentum eucha 
+   <lb ed="#B" n="10"/>ristie ad hunc sensum quod species vini &amp; panis
+   in<lb ed="#B" n="11" break="no"/>cludentes corpus Christi dicuntur representare idem: pu 
+   <lb ed="#B" n="12"/>ta corpus &amp; sanguinem. In eadem hostia idem dice 
+   <lb ed="#B" n="13"/>tur. An autem corpus Christi in infinitis partibus sit: post 
+   <lb ed="#B" n="14"/>ea dicetur. Concludendo dico quod tanmenm sunt septem
+   sacra<lb ed="#B" n="15" break="no"/>menta stando in illa diuisione quam habemus: vt omni 
+   <lb ed="#B" n="16"/>requisita ad baptismum integrant vnum sacramentum: &amp; 
+   <lb ed="#B" n="17"/>sic in aliis perinde est omnino sicut in praedicabilibus: 
+   <lb ed="#B" n="18"/>nam omnes termini generici reputantur pro eodem praedicabi 
+   <lb ed="#B" n="19"/>li: &amp; omnes differentiae pro eadem differentia.
+  </p>
+      <p xml:id="jMqv4a-d1e192-d1e583">
+   ⁋ Ad
+   confir<lb ed="#B" n="20" break="no"/>mationem. magnum processum facit quidam nostrae
+   tempe<lb ed="#B" n="21" break="no"/>statis theologus: vtrinque arguens: &amp; in fine cum
+   timo<lb ed="#B" n="22" break="no"/>re respondet, quia non viderit hanc materiam in aliis: se relin 
+   <lb ed="#B" n="23"/>quere eam examinandam. De perceptione &amp; vsu
+   simili<lb ed="#B" n="24" break="no"/>ter arguit. Sed iste homo non considerabat quae dicebat. 
+   <lb ed="#B" n="25"/>quia vero erat nominalis, peto ab eo quae res sit consecratio 
+   <lb ed="#B" n="26"/>vel enim est praesbyter consecrans: vel forma qua vtitur: 
+   <lb ed="#B" n="27"/>vel illae species. Si primum: non debuit dubitare. si se 
+   <lb ed="#B" n="28"/>cundum, idem argumentum contingit in baptismo: &amp; in
+   quo<lb ed="#B" n="29" break="no"/>libet sacramento. Si tertium: non intelligit quid dicit. Item 
+   <lb ed="#B" n="30"/>peto ab eo de perceptione &amp; vsu quae res sint: &amp;
+   inueni<lb ed="#B" n="31" break="no"/>et resolutionem. hoc autem inuento (cuius ignorantia facit 
+   <lb ed="#B" n="32"/>frequenter homines exorbitare) non est difficultas. Item 
+   <lb ed="#B" n="33"/>dato &amp; non concesso quod consecratio esset sacium: &amp; dist 
+   <lb ed="#B" n="34"/>gueretur a speciebus panis &amp; vini: timere non debuit 
+   <lb ed="#B" n="35"/>Contra logicum enim concedentem tamenm decem esse praedicamen 
+   <lb ed="#B" n="36"/>ta: qui versatur exacte circa verum: omnia argumenta similia 
+   <lb ed="#B" n="37"/>contingunt. Forte petis a me quae res sit consecratio. 
+   <lb ed="#B" n="38"/>Respondetur si actiue capiatur verbale: est praesbyter
+   conse<lb ed="#B" n="39" break="no"/>crans: &amp; si nullus praesbyter consecrat: nihil est: quia def 
+   <lb ed="#B" n="40"/>cit connotatio termini positiui: &amp; per consequens eius 
+   <lb ed="#B" n="41"/>suppositio. passiue aut est hostia. abstractiue est fo 
+   <lb ed="#B" n="42"/>ma sacrameti Eucharistiae: &amp; non sacim. Fodem modo 
+   <lb ed="#B" n="43"/>de perceptione dicatur. De vsu autem &amp; quae res sit, inferi 
+   <lb ed="#B" n="44"/>patebit cum loquaemur de dominio rei &amp; eius vsu. sed pronunc 
+   <lb ed="#B" n="45"/>dico quo eadem res numero est dominium &amp; vsus: sed ist 
+   <lb ed="#B" n="46"/>termini habent connotata peregrina. Sapor autem distingui 
+   <lb ed="#B" n="47"/>tur ab albedine &amp; rubedine cum ab alio sensu percipia 
+   <lb ed="#B" n="48"/>tur: &amp; tenendo quod quantitas distinguatur a re quata, sen 
+   <lb ed="#B" n="49"/>titur a sensu tactus: &amp; sic habebis multa specie
+   distin<lb ed="#B" n="50" break="no"/>cta sacramenta. sed rotunditas hostiae vel quaedratura 
+   <lb ed="#B" n="51"/>non distinguitur ab hostia sic figurata: &amp; sic pro
+   figu<lb ed="#B" n="52" break="no"/>ra non oportet multiplicare sacramenta. 
+  </p>
+      <p xml:id="jMqv4a-d1e192-d1e658">
+       <lb ed="#B" n="53"/>⁋ Secundo arguitur contra formam: hoc 
+   <lb ed="#B" n="54"/>est corpus meum. omnis onio consecratiua debet esse ve 
+   <!--0106.xml-->
+   <cb ed="#B" n="b"/> 
+       <!-- 37-v b -->
+       <lb ed="#B" n="55"/>ra. illa non est vera. ergo non est omnio consecratiua, con 
+   <lb ed="#B" n="56"/>sequentia tenet in Baroco probatur minor. hoc) nihil 
+   <lb ed="#B" n="57"/>demonstrat: ergo affirmatiua est falsa. assumptum 
+   <lb ed="#B" n="58"/>patet: quia si demonstrat species: iam extrema non supi 
+   <lb ed="#B" n="59"/>ponunt pro eodem. si Corpus Christi: arguo sic: vel
+   cor<lb ed="#B" n="60" break="no"/>pus Christi in eucharistia: &amp; hoc no: quia iam non est in 
+   <lb ed="#B" n="61"/>eucharistia: &amp; non demostratur corpus Christi in caelo 
+   <lb ed="#B" n="62"/>tantum distans ab hostia: nec corpus Christi in alia
+   ho<lb ed="#B" n="63" break="no"/>stia. igitur.
+  </p>
+      <p xml:id="jMqv4a-d1e192-d1e691">
+   ⁋ lstud argumentum est commune in hac materia 
+   <lb ed="#B" n="64"/>&amp; spinosum sicut solent esse multa argumenta communia. 
+   <lb ed="#B" n="65"/>Maior tamen potest negari: vt patet de forma baptismi 
+   <lb ed="#B" n="66"/>apud graecos. Varii autem varias excogitauerunt so 
+   <lb ed="#B" n="67"/>lutiones: &amp; multa logicalia satis dissute inseruerunt 
+   <lb ed="#B" n="68"/>maiores pro argumenti solutione. Oclam in quodli 
+   <lb ed="#B" n="69"/>beto dicit: quod est) capitur pro erit: &amp; subordiatur vni de 
+   <lb ed="#B" n="70"/>futuro. hoc non valet vt tuipse vides: cum copula sit 
+   <lb ed="#B" n="71"/>de paerteti. Ponam quam succicte potero secundum materiae exi 
+   <lb ed="#B" n="72"/>gentiam: quod videtur apparentius. Et dico quod illa verba pro 
+   <lb ed="#B" n="73"/>feruntur recitatiue: ac si a Christo essent prolata, nec 
+   <lb ed="#B" n="74"/>oportet quod pronomen hoc aliquid demonstret: ac si di 
+   <lb ed="#B" n="75"/>cerem. Christus dixit Petro, &amp; super hanc petram &amp;c per
+   pro<lb ed="#B" n="76" break="no"/>nomen hanc non demonstro Petrum: quia forte Christus 
+   <lb ed="#B" n="77"/>per ( hanc) demonstrauit seipsum que Petrus confessus es 
+   <lb ed="#B" n="78"/>&amp; quia est etiam probabile quod Petrum demonstrauerit tamquam 
+   <lb ed="#B" n="79"/>petram secundariam: propterea imprudentis est nunc cape 
+   <lb ed="#B" n="80"/>re pronomen significatiue. solum enim materialiter: &amp; re 
+   <lb ed="#B" n="81"/>citatiue illa dicimus. Fodem modo non est necesse per pro 
+   <lb ed="#B" n="82"/>nomen tu demonstrare personam Petri: sed solum recita 
+   <lb ed="#B" n="83"/>tiue illa verba proferuntur. Et sic non est consecratiua oro 
+   <lb ed="#B" n="84"/>illa vt vera, nec vt falsa: sed data nobis tamquam signum 
+   <lb ed="#B" n="85"/>quod ipsa prolata, ex pacto diuino corpus Christi inci 
+   <lb ed="#B" n="86"/>pit esse in hostia. Nec obstat illud Augustinus
+   Acce<lb ed="#B" n="87" break="no"/>dit verbum ad elementum. per hoc enim non oportet
+   prono<lb ed="#B" n="88" break="no"/>men aliquid demonstrare: sed apponere verba pani 
+   <lb ed="#B" n="89"/>qui dicitur hic elementum: hoc est praesuppositum tempore vel na 
+   <lb ed="#B" n="90"/>tura: vt aqua in baptismo. Haec est opinio domini In  
+   <lb ed="#B" n="91"/>nocentii de officio missae. parte tertia. Sed tunc dicis. est 
+   <lb ed="#B" n="92"/>eadem difficultas quid Christus demonstrauerit. hoc ne 
+   <lb ed="#B" n="93"/>go: immo nulla est difficultas. nam Christus demonstra 
+   <lb ed="#B" n="94"/>uit suum praeciosum corpus quod erat praesens, non enim de 
+   <lb ed="#B" n="95"/>mostrauit panem qui nullo pacto erat corpus Christi, 
+   <lb ed="#B" n="96"/>Et licet beatus Lucas prius dicat. accepto pane gratias 
+   <lb ed="#B" n="97"/>egit &amp; fregit: &amp; dedit eis dicens: postea subiungedo:  
+   <lb ed="#B" n="98"/>hoc est corpus meum: non tamen oportet quod eo ordine fa 
+   <lb ed="#B" n="99"/>ctum sit vt natrat euangelista: sed prius consecrauit per 
+   <lb ed="#B" n="100"/>haec verba ( hoc est corpus meum). Placet aliis quod semel 
+   <lb ed="#B" n="101"/>cosecrauit per haec verba (hoc est corpus meu) &amp; post 
+   <lb ed="#B" n="102"/>ea adiecit ( hoc est corpus meum, non consecrando. &amp; sic 
+   <lb ed="#B" n="103"/>Christus vsus est eadem forma qua nos, licet aliter tem 
+   <lb ed="#B" n="104"/>ta. Poterant enim partiri panem triticeum in duodecim par 
+   <lb ed="#B" n="105"/>tes vel tredecim: &amp; per vnam formam omnia illa frusta con 
+   <lb ed="#B" n="106"/>secrare, dicendo, hoc est corpus meum: sicut praesbyter 
+   <lb ed="#B" n="107"/>facit: &amp; capiendo tredecim hostias demonstrauit se 
+   <lb ed="#B" n="108"/>qui non erat in hostia pro tempore adaequato prolationis pronominis 
+   <lb ed="#B" n="109"/>hoc, quod in proposito tantum valet quantum hoc ens vel 
+   <!--0107.xml-->
+   <pb ed="#B" n="38-r"/>
+       <cb ed="#B" n="a"/>
+       <lb ed="#B" n="1"/>hoc corpus. Et propterea aliquorum ratio est nulla
+   im<lb ed="#B" n="2" break="no"/>pugnantium istam, hoc corpus est corpus meum, nequam 
+   <lb ed="#B" n="3"/>qui enim pronomen demonstrauit panem: sed rem
+   consecra<lb ed="#B" n="4" break="no"/>ta sub speciebus panis: vt glos. interli. Lucae. xxii. di 
+   <lb ed="#B" n="5"/>cit. Licet hic dicendi modus Innocentii a plerisque 
+   <lb ed="#B" n="6"/>aliis impugnetur: inter reliquos mihi satis placet: nec 
+   <lb ed="#B" n="7"/>intelligo aliquem modum ab eis positum ita rationabilem: 
+   <lb ed="#B" n="8"/>licet alii passim modum Ricardi de sancto Victore 
+   <lb ed="#B" n="9"/>in lib. de ti. imitentur, de demonstratione ad sensum &amp; 
+   <lb ed="#B" n="10"/>ad intellectum.
+  </p>
+      <p xml:id="jMqv4a-d1e192-d1e821">
+   ⁋ Secundo dico quod praesbyter potest capere 
+   <lb ed="#B" n="11"/>terminos significatiue: &amp; demostrabitur corpus Chri 
+   <lb ed="#B" n="12"/>sti quod est potenus tempore prolationis verborum. vtimur ei
+   inter<lb ed="#B" n="13" break="no"/>dum tempore pesenti pro anno: vt cum dicimus, iste annus est: &amp; si 
+   <lb ed="#B" n="14"/>aliquod totum est quaelibet pars eius est: &amp; nunc in octobri 
+   <lb ed="#B" n="15"/>concedo quod augustus est: &amp; licet sit praeteritus in
+   respe<lb ed="#B" n="16" break="no"/>ctu ad octobrem: non tamen absolute. si vero vteremur 
+   <lb ed="#B" n="17"/>tempore pateti pro vno mense tamtenm, Augustus simpliciter es 
+   <lb ed="#B" n="18"/>set pteritus. Tunc dico: quando profero pronomen hoc) demon 
+   <lb ed="#B" n="19"/>stro corpus Christi: quod nunc est potenus puta in tempore prae 
+   <lb ed="#B" n="20"/>senti. Et ille modus iterum sententia mea est sufficiens. 
+  </p>
+      <p xml:id="jMqv4a-d1e192-d1e845">
+       <lb ed="#B" n="21"/>⁋ Adhuc ponitur tertius modus dicendo quod nihil de 
+   <lb ed="#B" n="22"/>mostratur toto tempore prolationis pronomnis: &amp; sic illa est fal 
+   <lb ed="#B" n="23"/>sa ad instans terminatiuum totius vsque: &amp; tunc illa
+   pro<lb ed="#B" n="24" break="no"/>positio incipit esse vera: &amp; incipit demonstrari
+   cor<lb ed="#B" n="25" break="no"/>pus Christi: sed in principio nihil demonstrabatur. 
+   <lb ed="#B" n="26"/>Signum autem dupliciter potest esse falsum. Vno modo quod 
+   <lb ed="#B" n="27"/>sit propositio falsa per aliquod tempus: &amp; hoc non debet es 
+   <lb ed="#B" n="28"/>se inconveniens dummodo habeatur hoc quod significatur 
+   <lb ed="#B" n="29"/>realiter. Alio modo quod aliquod signum sit institurum ad ali 
+   <lb ed="#B" n="30"/>quid significandum: &amp; illo signo habito non habetur
+   si<lb ed="#B" n="31" break="no"/>gnificatum: &amp; hoc est inconveniens. sed non refert: siue pr 
+   <lb ed="#B" n="32"/>positio sit falsa siue vera: dummodo ipsa prolata habeat 
+   <lb ed="#B" n="33"/>significatum. hoc est dicere: signum est verum signum: licet 
+   <lb ed="#B" n="34"/>propositio sit falsa pro tempore. Potest namque deus facere quod 
+   <lb ed="#B" n="35"/>plata hac ( homo est asinus) super materia panis incipiat 
+   <lb ed="#B" n="36"/>ibi esse corpus Christi: sed instituta sunt verba si 
+   <lb ed="#B" n="37"/>gnificantia esse ibidem corpus Christi, neque tamen vi
+   il<lb ed="#B" n="38" break="no"/>lorum verborum est ibidem corpus Christi: sed ex pa 
+   <lb ed="#B" n="39"/>cto diuino ipsis prolatis incipit esse ibidem: cum si
+   ver<lb ed="#B" n="40" break="no"/>ba fuissent prolata a praesbytero ante institutionem Chri 
+   <lb ed="#B" n="41"/>sti super pane: non fuisset ibi corpus Christi.
+  </p>
+      <p xml:id="jMqv4a-d1e192-d1e893">
+   ⁋
+   Quar<lb ed="#B" n="42" break="no"/>to dico. quod praesbyter potest demonstrare corpus
+   Chri<lb ed="#B" n="43" break="no"/>sti ad intellectum quod est in celo vel sub alia
+   Eucha<lb ed="#B" n="44" break="no"/>ristia: intendendo quod prolatis istis verbis incipiat esse sub 
+   <lb ed="#B" n="45"/>hac hostia vel istis hostiis. requiritur tamen panis in
+   distan<lb ed="#B" n="46" break="no"/>tia qua possit videri quantum est ex parte eius. Et hic mo 
+   <lb ed="#B" n="47"/>dus dicendi est facilis: &amp; nihil obstat nisi quod ad con 
+   <lb ed="#B" n="48"/>secrationem requiritur quod res demonstrata sit potenus, quae.- 
+   <lb ed="#B" n="49"/>re lectori hunc modum offero.
+  </p>
+      <p xml:id="jMqv4a-d1e192-d1e913">
+   ⁋ Quinto dico. licet 
+   <lb ed="#B" n="50"/>popositio nunquam sit vera nisi quando est: tamen redditur vera 
+   <lb ed="#B" n="51"/>partempore pro quo no est: &amp; est temporis pertranscassio. aliter enim 
+   <lb ed="#B" n="52"/>non potes meae vocali contradicere: quia tempore quo
+   pro<lb ed="#B" n="53" break="no"/>fero non me intelligis adhuc: &amp; quando tota est prolata iam 
+   <lb ed="#B" n="54"/>est aliud tempus: sed tuintendis referre copulam tuae pro 
+   <lb ed="#B" n="55"/>positionis pro tempore meae. Siliter cum dico: scutum est in bur 
+   <!--0107.xml-->
+   <cb ed="#B" n="b"/> 
+       <!-- 38-r b -->
+       <lb ed="#B" n="56"/>sa tua: propositio est vera, non pro tempore quo profertur: sed  
+   <lb ed="#B" n="57"/>pro tempore pro quo prolata est. Sic in proposito: naec oro 
+   <lb ed="#B" n="58"/>hoc est corpus meum) est vera pro illo tempore pro quo
+   pro<lb ed="#B" n="59" break="no"/>fertur: sed non in illo tempore in quo est: sed pro alio sequen 
+   <lb ed="#B" n="60"/>ti. Et secundum istum modum tales quae reputantur possibiles: 
+   <lb ed="#B" n="61"/>sed non possunt esse verae: omnis propositio est indefi 
+   <lb ed="#B" n="62"/>nita: nulla propositio est negatiua: ego taceo, ego bi 
+   <lb ed="#B" n="63"/>bo, patet esse verae pro aliis temporibus. Clare volo dicere: 
+   <lb ed="#B" n="64"/>vtor hac hora quo ad duas medietates eius ad di 
+   <lb ed="#B" n="65"/>uersa: in prima medietate pono quod solae indefinitae 
+   <lb ed="#B" n="66"/>sint: in secunda habeo hanc. omnis propositio est indefinita: 
+   <lb ed="#B" n="67"/>illa enim in secunda medietate horae est vera: sed non pro 
+   <lb ed="#B" n="68"/>secunda medietate: sed prima. Et si dicas. in secunda
+   me<lb ed="#B" n="69" break="no"/>dietate haec propositio est vniversalis: ergo non omnis propositio 
+   <lb ed="#B" n="70"/>est indefinita. Respondetur concedendo illam conclusionem: 
+   <lb ed="#B" n="71"/>si non referas ad primam medietatem horae: neque ei con 
+   <lb ed="#B" n="72"/>tradicit: quia non est relatio pro eodem tempore. si autem pro
+   eo<lb ed="#B" n="73" break="no"/>dem tempore capis copulam antecedentis: ipsum nego: nam 
+   <lb ed="#B" n="74"/>naec est propositio falsa: hec propositio est vniversalis pro
+   pri<lb ed="#B" n="75" break="no"/>ma medietate. Simiter me loquente illa vocalis est ve 
+   <lb ed="#B" n="76"/>ra: ego non loquor: quia pro tempore profertur quo tacui. Quam 
+   <lb ed="#B" n="77"/>uis autem fieri possint contra hunc modum rationes
+   diffi<lb ed="#B" n="78" break="no"/>tilis solutionis: non est tamen facile ipsum abolere. 
+  </p>
+      <p xml:id="jMqv4a-d1e192-d1e986">
+       <lb ed="#B" n="79"/>⁋ Sed contra, capiendo (hic) significatiue quan 
+   <lb ed="#B" n="80"/>do praesbyter dicit, hic est sanguis meus qui pro vo 
+   <lb ed="#B" n="81"/>bis effundetur: innuitur quod sanguis Christi in posterum 
+   <lb ed="#B" n="82"/>effundetur, quod est falsum. Forte dicis &amp; ita
+   dicen<lb ed="#B" n="83" break="no"/>dum apparet. loquitur praesbyter pro tempore pro quo Christus 
+   <lb ed="#B" n="84"/>haec verba protulit: scilicet pro illo tempore praeteri 
+   <lb ed="#B" n="85"/>to. Contra hoc arguitur. Sequeretur quod bene
+   conse<lb ed="#B" n="86" break="no"/>traret per haec verba: hic est sanguis meus qui pro 
+   <lb ed="#B" n="87"/>vobis effusus est: cum copula de praesenti, &amp;
+   copu<lb ed="#B" n="88" break="no"/>la de futuro vel praeterito acceptae pro eodem videatur 
+   <lb ed="#B" n="89"/>termini synonymi. Quod patet altera viasmeum) supe 
+   <lb ed="#B" n="90"/>ponit pro proferente &amp; non pro Christo. Si dicas. loqu 
+   <lb ed="#B" n="91"/>tur in persona Christi ac si diceremus. nos lacobus 
+   <lb ed="#B" n="92"/>rex. Contra. Ego sum Ioannes: dum tu conuertis: 
+   <lb ed="#B" n="93"/>Ioannes est tu: ego &amp; tu sunt termini synonymi: 
+   <lb ed="#B" n="94"/>ergo licet tollere ( meum) &amp; ponere synonymum eius 
+   <lb ed="#B" n="95"/>loco sic, hoc est corpus mei Christi, si dicere liceat 
+   <lb ed="#B" n="96"/>vel ponere copulam futuri temporis in praeterito. Hae ra 
+   <lb ed="#B" n="97"/>tiones non concludunt. na non omis synonymi 
+   <lb ed="#B" n="98"/>tas ad consecrationem sufficit. patet de termino
+   scri<lb ed="#B" n="99" break="no"/>pto &amp; mentali synonymo cum vocali, quam non sufficit. 
+   <lb ed="#B" n="100"/>Secundo quando concederetur illatum, cum sint termini vocales: 
+   <lb ed="#B" n="101"/>non potes vlterius procedere: male aget tamen sic conse 
+   <lb ed="#B" n="102"/>crans. Has rationes tibi relinquo: quia primum mo 
+   <lb ed="#B" n="103"/>dum roborant. 
+  </p>
+      <p xml:id="jMqv4a-d1e192-d1e1043">
+       <lb ed="#B" n="104"/>⁋ Tertio arguitur probando quod illa 
+   <lb ed="#B" n="105"/>quatuor verba non requiruntur ad formam: sed  
+   <lb ed="#B" n="106"/>sufficiunt duo vel vnum. quando profero copulam: 
+   <lb ed="#B" n="107"/>tota propositio est. ergo quaelibet pars eius est. 
+   <lb ed="#B" n="108"/>ergo dato quod praesbyter tunc moriatur: tota consecratio 
+   <lb ed="#B" n="109"/>est completa.
+  </p>
+      <p xml:id="jMqv4a-d1e192-d1e1059">
+   ⁋ Respondetur. Hic implicatur difficul 
+   <!--0108.xml-->
+   <pb ed="#B" n="38-v"/>
+       <cb ed="#B" n="a"/>
+       <lb ed="#B" n="1"/>tas, quando res successiua sit. Sed dico quod non est multum 
+   <lb ed="#B" n="2"/>inopinabile in philosophia naturali quod propositio 
+   <lb ed="#B" n="3"/>vocalis est aer: &amp; vox est aer. Priscianus in princi 
+   <lb ed="#B" n="4"/>pio maioris voluminis definit vocem dicens.
+   Phi<lb ed="#B" n="5" break="no"/>losophi dicunt vocem esse tenuissimum aerem. Item 
+   <lb ed="#B" n="6"/>mirandum est de illis qui impugnarunt maiores, tener 
+   <lb ed="#B" n="7"/>res tempus esse rem successiuam a permanentibus 
+   <lb ed="#B" n="8"/>distincta: argumentis communibus omni rei successiuae: 
+   <lb ed="#B" n="9"/>&amp; cum hoc ponentibus propositiones vocales acciden 
+   <lb ed="#B" n="10"/>tia. omnia enim argumenta directa contra vnum: aequa  
+   <lb ed="#B" n="11"/>liter concludunt contra aliud. Et si illud teneatur, place 
+   <lb ed="#B" n="12"/>bit. Et secundum hoc vox emissa poterit reuerti, quod 
+   <lb ed="#B" n="13"/>potest expositorie probari. aer emissus potest reuer 
+   <lb ed="#B" n="14"/>ti: aer emissus est vel potest esse vox. igitur. consequen 
+   <lb ed="#B" n="15"/>tia tenet expositorie in tertia figura. suppono istas 
+   <lb ed="#B" n="16"/>indefinitas singularizari: &amp; secundum hoc: quod seme 
+   <lb ed="#B" n="17"/>dictum est amplius reuerti potest. Et si dicas. Aristo 
+   <lb ed="#B" n="18"/>teles dicit oppositum in praedicamento quantitatis. E 
+   <lb ed="#B" n="19"/>Horatius. Na semel emissum volat irreuocabile
+   ver<lb ed="#B" n="20" break="no"/>bum. Et iterum. Nescit vox missa reuerti. Responde 
+   <lb ed="#B" n="21"/>tur. illa sic debent intelligi, postquam homo aliquid co 
+   <lb ed="#B" n="22"/>cessit non potest illud negare. hoc patet lib. vi. in re 
+   <lb ed="#B" n="23"/>gulis iuris. Quod semel placuit amplius displicere non 
+   <lb ed="#B" n="24"/>potest. Auctoritatibus autem in hac re non debemus multum in 
+   <lb ed="#B" n="25"/>sistere: quia aequaliter vel conuenientiuns eas expi 
+   <lb ed="#B" n="26"/>nam quam alii qui tenent tempus &amp; motum non esse res pe 
+   <lb ed="#B" n="27"/>manentes. sed aer permanenter est aer: etiam aer non 
+   <lb ed="#B" n="28"/>est vox: ni si quando taliter se habet. Et secundum hoc,
+   ar<lb ed="#B" n="29" break="no"/>gumentum non concludit. Nam quando aer qui est sub 
+   <lb ed="#B" n="30"/>iectum, est, aer qui est copula non est: quia non est 
+   <lb ed="#B" n="31"/>copula quousque ille aer taliter expellitur quoad suf 
+   <lb ed="#B" n="32"/>ficiat vocari copula. &amp; sic de praedicato. Ex isto
+   pa<lb ed="#B" n="33" break="no"/>tet: quod quando copula est: subiectu non corrumpitur: sed co 
+   <lb ed="#B" n="34"/>pitur subiectum. Prior pars patet. hic aer non
+   corrum<lb ed="#B" n="35" break="no"/>rumpitur: hic aer est vel immediate ante hoc fuit sub 
+   <lb ed="#B" n="36"/>iectum. igitur. Secunda pars est clara. Si dicas. secundum illuc 
+   <lb ed="#B" n="37"/>nunquam tota propositio est. quicquid sit de illo: non
+   ma<lb ed="#B" n="38" break="no"/>gis concludit contra me: qui contra alios.
+  </p>
+      <p xml:id="jMqv4a-d1e192-d1e1150">
+   ⁋ Sed te 
+   <lb ed="#B" n="39"/>nendo cum opinione trita quod vox est sonus in aert 
+   <lb ed="#B" n="40"/>existens inhaesiue: videtur quibusdam quod nunquam proposi 
+   <lb ed="#B" n="41"/>tio vocalis est: vel aliqua res successiua: vt motus 
+   <lb ed="#B" n="42"/>vel tempus. Et a tempore tanquam a notiori incipiam. 
+   <lb ed="#B" n="43"/>Potest apparenter primo obtutu dici cum modo lo 
+   <lb ed="#B" n="44"/>quendi plebeio: quod hora octaua solum est in instanti 
+   <lb ed="#B" n="45"/>terminate horam octauam. nam si petamus dimidia ho 
+   <lb ed="#B" n="46"/>ra post septimam quota hora sit, non dicitur octaua:
+   im<lb ed="#B" n="47" break="no"/>mo negatiue respondetur non esse octauam: sed audito 
+   <lb ed="#B" n="48"/>pulsu campanae successiue ab vno ad octo vsque, ca 
+   <lb ed="#B" n="49"/>pana octo sonante protinus respondebitur: ecce octa: 
+   <lb ed="#B" n="50"/>ua. Sed illud videtur difficile dictu: nunc est primum
+   im<lb ed="#B" n="51" break="no"/>stans non esse horae octauae: ergo nunc primo hora 
+   <lb ed="#B" n="52"/>octaua non est: &amp; prius fuit. Propterea illa via
+   reli<lb ed="#B" n="53" break="no"/>cta tanquam falsa dicitur quod quando aliquod istans intrinsecun 
+   <lb ed="#B" n="54"/>horae octauae est: verum est dicere, hora octaua est: &amp; 
+   <lb ed="#B" n="55"/>plures partes horae octauae sunt ecce nunc a. instans me 
+   <!--0108.xml-->
+   <cb ed="#B" n="b"/> 
+       <!-- 38-v b -->
+       <lb ed="#B" n="56"/>dium inter duas medietates horae octauae: iam illae duae  
+   <lb ed="#B" n="57"/>medietates sunt. ratio, quia aliquod instans continuatiuum 
+   <lb ed="#B" n="58"/>illarum partium est: sed nullum tempus ( cuius nullum instans 
+   <lb ed="#B" n="59"/>intrinsecum est) est. Ex illo sequitur quod b. &amp; c. sunt
+   co<lb ed="#B" n="60" break="no"/>pulatim: &amp; tamen b non est, &amp; c, non est, quod patet.
+   po<lb ed="#B" n="61" break="no"/>sito quod b. sit prior medietas &amp; c. secunda. Hoc
+   proba<lb ed="#B" n="62" break="no"/>tur: quia a. instans nunc est continuans illas duas
+   me<lb ed="#B" n="63" break="no"/>dietates: &amp; nullum est instans intrisecum: igitur nulla illarum me 
+   <lb ed="#B" n="64"/>dietatum est: &amp; si illa hora diuidatur in octo octauas: 
+   <lb ed="#B" n="65"/>nulla earum est: sed illae octo sunt. &amp; sic in hoc instan 
+   <lb ed="#B" n="66"/>ti verum est dicere iste annus est: quia est vnum instans 
+   <lb ed="#B" n="67"/>intrinsecun huius anni: item haec hebdomada est. &amp; ex 
+   <lb ed="#B" n="68"/>consequenti dies dominica: lunae, &amp; martis copulatim 
+   <lb ed="#B" n="69"/>sunt: &amp; dies dominica non est. &amp; sic tempus mille
+   an<lb ed="#B" n="70" break="no"/>norum est, quandocumque enim est aliquod instans horae octauae 
+   <lb ed="#B" n="71"/>tunc hora octaua e. Et sic bene tenebimus quod annus est 
+   <lb ed="#B" n="72"/>totum, &amp; mensis est pars anni: &amp; hebdomada pars men 
+   <lb ed="#B" n="73"/>sis: contra illum modum qui tempus primum mobile 
+   <lb ed="#B" n="74"/>putat: &amp; nunc in augusto quamqui iste annus est: negabii 
+   <lb ed="#B" n="75"/>quod Aprilis est, iuxta communem hominum loquendi 
+   <lb ed="#B" n="76"/>modum. Forte dicis. si aliquod totum est, quaelibet
+   par<lb ed="#B" n="77" break="no"/>eius est. Licet vulgo dicatur: in successiuis hoc nor 
+   <lb ed="#B" n="78"/>oportere: aliter tamen dico. si aliquod totum est, e 
+   <lb ed="#B" n="79"/>libet pars eius est, quod probo. da Augustum qui nunc 
+   <lb ed="#B" n="80"/>est: &amp; sit instans continuatiuum duarum medieta 
+   <lb ed="#B" n="81"/>tum <name xml:id="jMqv4a-d1e192-Nd1e1251" ref="#Augustine">Augustini</name>. Arguitur sic. haec pars huius est: de 
+   <lb ed="#B" n="82"/>monstrando quancunque partem quae includit hoc 
+   <lb ed="#B" n="83"/>instans: &amp; illa pars huius est: demonstrando simi 
+   <lb ed="#B" n="84"/>lem: &amp; nulla est pars huius quin sit. Quia si forte di 
+   <lb ed="#B" n="85"/>cas, &amp; aliter euadere non potes: est aliqua pars hu 
+   <lb ed="#B" n="86"/>ius quae non includit hoc instans: &amp; illa non est: 
+   <lb ed="#B" n="87"/>Contra. Signetur illa pars: &amp; sit prima pars augu 
+   <lb ed="#B" n="88"/>sti vel prima hebdomada. bene sequitur. haec
+   par<lb ed="#B" n="89" break="no"/>non est. ergo non est pars eius, consequentia est 
+   <lb ed="#B" n="90"/>clara posito quod est includat ens vel entia. fingere 
+   <lb ed="#B" n="91"/>autem hic ampliationem: est praeter rationem. Sed 
+   <lb ed="#B" n="92"/>dico quod res permanens sic differt a re successiua: 
+   <lb ed="#B" n="93"/>quia partes futurae &amp; praeteritae remanent cum prae 
+   <lb ed="#B" n="94"/>senti in aliquo determinato instanti: vel aptae natae 
+   <lb ed="#B" n="95"/>sunt sic permanere. secus est in successiuis. &amp; licet 
+   <lb ed="#B" n="96"/>in quolibet instanti horae octauae verum sit dice 
+   <lb ed="#B" n="97"/>re: hora octaua est: tamen haec non est conceder 
+   <lb ed="#B" n="98"/>da: hora octaua est in instanti: quia per illam deno 
+   <lb ed="#B" n="99"/>tatur quod hora octaua mensuretur: vel quod suas pat 
+   <lb ed="#B" n="100"/>tes habeat in instanti. Eodem modo haec est ne 
+   <lb ed="#B" n="101"/>ganda. in hoc instanti est hora octaua: quia vnum 
+   <lb ed="#B" n="102"/>extremum pro hora octaua supponit: &amp; alterum 
+   <lb ed="#B" n="103"/>extremum extremo non competit: sed hora octa 
+   <lb ed="#B" n="104"/>ua est in toto illo tempore horae octauae.
+  </p>
+      <p xml:id="jMqv4a-d1e192-d1e1305">
+   ⁋ De pro 
+   <lb ed="#B" n="105"/>positione vocali non est penitus idem: quia ali 
+   <lb ed="#B" n="106"/>quando vna litera est propositio vel esse potest: 
+   <lb ed="#B" n="107"/>vt a. significans hominem esse animal: &amp; de illa propo 
+   <lb ed="#B" n="108"/>sitione diceretur sicut de tempore: quod quando aliquod in  
+   <lb ed="#B" n="109"/>stans illius literae est: tota est. Alia est propositio con 
+   <lb ed="#B" n="110"/>posita ex pluribus partibus vocalibus non constituen 
+   <!--0109.xml-->
+   <pb ed="#B" n="39-r"/>
+       <cb ed="#B" n="a"/>
+       <lb ed="#B" n="1"/>tibus aliquod vnum: vt Lucretia erat Romana: de 
+   <lb ed="#B" n="2"/>qua non oportet dicere consequenter sicut de
+   ten<lb ed="#B" n="3" break="no"/>pore: cum nulla sit interruptio in tempore nisi per
+   in<lb ed="#B" n="4" break="no"/>stantia. secus est hic. Vnde pono hanc
+   conclusio<lb ed="#B" n="5" break="no"/>nem. Propositio vocalis fuit, probatur. Apostoli &amp; 
+   <lb ed="#B" n="6"/>prophetae protulerunt multas propositiones: &amp; non
+   pro<lb ed="#B" n="7" break="no"/>tulerunt nisi ea quae fuerunt. igitur. Sed contra hoc ar 
+   <lb ed="#B" n="8"/>guis. Moyses nunquam fuit proferens istam. In princi 
+   <lb ed="#B" n="9"/>io creauit deus caelum &amp; terram, quod patet: quia
+   il<lb ed="#B" n="10" break="no"/>ius de inesse: Moyses est proferens hanc
+   propo<lb ed="#B" n="11" break="no"/>sitionem: nunquam erat vera: quia nec quando protulit sub 
+   <lb ed="#B" n="12"/>iectum: nec praedicatum: nec copulam. igitur. Hentisber con 
+   <lb ed="#B" n="13"/>cedit illam de praeterito &amp; similes: sed negat istam 
+   <lb ed="#B" n="14"/>de praesenti, Sortes est proferens propositionem
+   vo<lb ed="#B" n="15" break="no"/>calem: quia secundum eum requiritur quod sit prolatio in instam 
+   <lb ed="#B" n="16"/>ti: &amp; ex consequente concedit aliquam
+   propositio<lb ed="#B" n="17" break="no"/>nem de praeterito veram quae nullam habuit vel habet de 
+   <lb ed="#B" n="18"/>praesenti veram. Sed hoc est contra Aristotelem
+   pri<lb ed="#B" n="19" break="no"/>mi peri hermenias vltimo capitulo, &amp; primo
+   Ethi<lb ed="#B" n="20" break="no"/>corum, positionem Solonis improbantem.
+   Dice<lb ed="#B" n="21" break="no"/>bat enim Solon quod aliquis est felix in morte qui nun  
+   <lb ed="#B" n="22"/>quam fuit felix in vita: quod pro inconuenienti habet phi 
+   <lb ed="#B" n="23"/>losophus. Aliter ergo respondetur quod illa propositio 
+   <lb ed="#B" n="24"/>ponitur in esse per hanc: Moyses est proferens hanc pro 
+   <lb ed="#B" n="25"/>positionem: capiendo totum tempus prolationis eius: 
+   <lb ed="#B" n="26"/>quia sicut quantum permanens existit in variis sitibus 
+   <lb ed="#B" n="27"/>localibus: sed in vno totali loco: sic res successiua 
+   <lb ed="#B" n="28"/>habet varias partes in variis partibus temporis: 
+   <lb ed="#B" n="29"/>sed tota est in toto tempore. Sic dicas de talibus. 
+   <lb ed="#B" n="30"/>Archimedes facit circulum. templum fit a
+   Salomo<lb ed="#B" n="31" break="no"/>ne. si enim istud templum vel circulus nunquam
+   absol<lb ed="#B" n="32" break="no"/>uatur, illae sunt falsae quicquid dicat vulgus talibus 
+   <lb ed="#B" n="33"/>vtens: existimans effectum complementum
+   habitu<lb ed="#B" n="34" break="no"/>rum. Sed impresentiarum haec missa facio. Ex qui 
+   <lb ed="#B" n="35"/>bus argumentis solutionem habes. applica
+   tuip<lb ed="#B" n="36" break="no"/>se responsionem ad formam. 
+  </p>
+      <p xml:id="jMqv4a-d1e192-d1e1405">
+       <lb ed="#B" n="37"/>⁋ Quarto arguitur posito quod quis 
+   <lb ed="#B" n="38"/>cogitet istam propositionem synonymam hoc est cor 
+   <lb ed="#B" n="39"/>pus meum) is habet propositionem synonymam cum aro 
+   <lb ed="#B" n="40"/>positione consecratiua: &amp; non consecrat. igitur, quod 
+   <lb ed="#B" n="41"/>non consecrat supponitur: quia requiritur loquela ad 
+   <lb ed="#B" n="42"/>baptismum &amp; Eucharistiam: accedat enim verbum ad  
+   <lb ed="#B" n="43"/>elementum necesse est. Sed probo quod sic. si ligua
+   praesby<lb ed="#B" n="44" break="no"/>teri abscidatur satisfacit cogitando horas: ergo &amp;
+   ce<lb ed="#B" n="45" break="no"/>lebrando missam.
+  </p>
+      <p xml:id="jMqv4a-d1e192-d1e1428">
+   ⁋ Respondetur. elinguis vel mutus 
+   <lb ed="#B" n="46"/>consecrare non potest in sensu composito secundum
+   le<lb ed="#B" n="47" break="no"/>gem. puta haec est impossibilis. elinguis consecrat.
+   cu<lb ed="#B" n="48" break="no"/>ius causa est institutio diuina sola. Sed si
+   praesbyte<lb ed="#B" n="49" break="no"/>ro auferatur lingua vel quis sit mutus pro tempore, quemadi 
+   <lb ed="#B" n="50"/>modum contigit de patre Ioannis Baptistae, secun 
+   <lb ed="#B" n="51"/>dum id quod dicitur in hymno, Perdidit proptae mo 
+   <lb ed="#B" n="52"/>dulos loquelae &amp;c. sufficit mentaliter deum orare. 
+   <lb ed="#B" n="53"/>quod autem debeat verba mentalia proferre, non opi 
+   <lb ed="#B" n="54"/>nor oportere: quia hocnimis difficile foret. voces 
+   <!--0109.xml-->
+   <cb ed="#B" n="b"/> 
+       <!-- 39-r b -->
+       <lb ed="#B" n="55"/>enim facilius emittuntur quam scripturae vel conceptus 
+   <lb ed="#B" n="56"/>articulati fabricentur. Ex illo patet quod non sequitur: 
+   <lb ed="#B" n="57"/>aliquis consecrat per vnam propositionem: ergo per quan 
+   <lb ed="#B" n="58"/>libet synonymam illi. oportet enim procedere per voces. 
+   <lb ed="#B" n="59"/>&amp; hoc est cogruum. nam si conceptus sufficerent, ma 
+   <lb ed="#B" n="60"/>gis dubius aliquis esset. Etiam conceptus sunt oc 
+   <lb ed="#B" n="61"/>culti concipienti: ipsae autem voces melius appre 
+   <lb ed="#B" n="62"/>nenduntur: scriptura vero esset tediosa: &amp; ab aliis non 
+   <lb ed="#B" n="63"/>sic potest percipi sicut vox. Et licet muto esset
+   fa<lb ed="#B" n="64" break="no"/>cilior: non tamen simpliciter maiori parti multitu 
+   <lb ed="#B" n="65"/>dinis. modo lex datur de his quae regulariter contingunt 
+   <lb ed="#B" n="66"/>&amp; non de illis quae casu eueniunt. Fodem modo si quis 
+   <lb ed="#B" n="67"/>tres voces proferret hoc est corpus) &amp; conciperet 
+   <lb ed="#B" n="68"/>meum) nihil consecraret. Non colligo nunc tales 
+   <lb ed="#B" n="69"/>vepres, nec tenetur vocem grauem proferre in conse 
+   <lb ed="#B" n="70"/>crando: nec acutam: nec mediam: ergo nullam
+   vo<lb ed="#B" n="71" break="no"/>cem tenetur proferre in consecrationae.
+  </p>
+      <p xml:id="jMqv4a-d1e192-d1e1493">
+   ⁋ Sed si praesby 
+   <lb ed="#B" n="72"/>ter vnus proferret verba: &amp; alius faceret caetera re 
+   <lb ed="#B" n="73"/>quisita: solos proferens dummodo habeat inten 
+   <lb ed="#B" n="74"/>tionem rectam super materiam debitam, consecra 
+   <lb ed="#B" n="75"/>ret. caetera enim sunt solum de honestate &amp; neces 
+   <lb ed="#B" n="76"/>sitate ministri: hoc est ad vitandum in ipso peccatum. 
+   <lb ed="#B" n="77"/>Secus est in baptismo: vbi applicatio aquae est ita 
+   <lb ed="#B" n="78"/>necessaria vt verborum prolatio. Sed si quatuor 
+   <lb ed="#B" n="79"/>simul proferrent: quilibet illorum consecraret: &amp; 
+   <lb ed="#B" n="80"/>hostia eadem a quolibet eorum esset consecrata: 
+   <lb ed="#B" n="81"/>vt ante dictum est in quodam argumento de ba 
+   <lb ed="#B" n="82"/>ptismo. Addo tamen quod non placet mihi opinio 
+   <lb ed="#B" n="83"/>
+       <name xml:id="jMqv4a-d1e192-Nd1e1521">domini Innocentii</name> &amp; <name xml:id="jMqv4a-d1e192-Nd1e1524" ref="AlexanderOfHales">Alexandri Halensis</name> post eum: 
+   <lb ed="#B" n="84"/>dicentium: quod licet aliquis proferat ante alios: hoc non 
+   <lb ed="#B" n="85"/>obstante alii consecrant: quia intendebant idem
+   in<lb ed="#B" n="86" break="no"/>stans consecrationis. Et ratio est. primus
+   conse<lb ed="#B" n="87" break="no"/>crat vt nulli dubium est. &amp; tunc sic. antequam forma 
+   <lb ed="#B" n="88"/>est prolata ab aliis non consecrant, quod patet: quia 
+   <lb ed="#B" n="89"/>alioquin haec verba hoc est corpus) essent forma 
+   <lb ed="#B" n="90"/>sufficiens: quod non est dicendum, nec consecrant 
+   <lb ed="#B" n="91"/>in fine prolationis totius formae: cum hostia sit iam 
+   <lb ed="#B" n="92"/>consecrata, quemadmodum si ego accederem ad  
+   <lb ed="#B" n="93"/>templum, &amp; super Eucharistiam consecratam a duo 
+   <lb ed="#B" n="94"/>bus, dicerem: hoc est corpus meum: non
+   consecra<lb ed="#B" n="95" break="no"/>rem. sic istic. 
+  </p>
+      <p xml:id="jMqv4a-d1e192-d1e1554">
+       <lb ed="#B" n="96"/>⁋ Vltimo arouitur. capto primo in  
+   <lb ed="#B" n="97"/>stanti non esse verBorum iam omnia verba fuerunt: 
+   <lb ed="#B" n="98"/>ergo ante hoc instans hostia est consecrata. Pro 
+   <lb ed="#B" n="99"/>batur antecedens. quodlibet verbum prius fuit: er 
+   <lb ed="#B" n="100"/>go omnia verba formae prius fuerunt. Si neges 
+   <lb ed="#B" n="101"/>antecedens pro vltimo verbo quo ad vltimam syl 
+   <lb ed="#B" n="102"/>labam: Contra. cuiustibet partis illius syllabae ali 
+   <lb ed="#B" n="103"/>qua pars prius fuit: &amp; intentio debita: ergo ante 
+   <lb ed="#B" n="104"/>erat corpus Christi sub istis speciebus. igitur.
+  </p>
+      <p xml:id="jMqv4a-d1e192-d1e1576">
+   ⁋ Respon 
+   <lb ed="#B" n="105"/>sio. oportet quemlibet terminum primo non esse, se 
+   <lb ed="#B" n="106"/>cundum vnam solutionem prius datam in de ba 
+   <lb ed="#B" n="107"/>ptismo. dicas consequenter ad illa.
+  </p>
+    </div>
+   </body>
+  </text>
+</TEI>

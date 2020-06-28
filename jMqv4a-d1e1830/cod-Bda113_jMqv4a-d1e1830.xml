@@ -1,0 +1,451 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 6</title>
+      <author ref="#JohnMair">John Mair</author>
+      <respStmt>
+       <name>Jeffrey C. Witt</name>
+       <resp>TEI Encoder</resp>
+      </respStmt>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 6</title>
+       <date when="2020-06-09">June 27, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="B" n="cod-Bda113">Badius 1516</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+     guidelines for a diplomatic edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-06-27" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+      <pb ed="#B" n="342-r"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="jMqv4a-d1e1830"> <!-- l4d44q6 -->
+      <head xml:id="jMqv4a-d1e1830-Hd1e104">Quaestio 6</head>
+      <head xml:id="jMqv4a-d1e1830-Hd1e107" type="question-title">Quo modo animae corporibus excute crucientur: 
+  et similiter daemones</head>
+      <p xml:id="jMqv4a-d1e1830-d1e110">
+       <lb ed="#B" n="67"/>⁋ Distinct. Quadragesimae quartae 
+   <lb ed="#B" n="68"/>Quaestio Sexta. 
+   <lb ed="#B" n="69"/>Eliquum est sexto 
+   <lb ed="#B" n="70"/>loco circa hanc distinctio 
+   <lb ed="#B" n="71"/>nem inquirere quomodo 
+   <lb ed="#B" n="72"/>animae corporibus
+   exu<lb ed="#B" n="73" break="no"/>tae crucientur: similiter
+   dae<lb ed="#B" n="74" break="no"/>mones. De quo varii ex 
+   <lb ed="#B" n="75"/>tant modi opinandi: aliquia 
+   <lb ed="#B" n="76"/>quam bus tenentibus poenam hoc 
+   <lb ed="#B" n="77"/>modo fieri. Animae nunc in infemo sciunt se
+   habi<lb ed="#B" n="78" break="no"/>turas corpora post diem iudicii: quae quidem corpora 
+   <lb ed="#B" n="79"/>ab igne patientur: &amp; propterea nunc hoc considerantes ha 
+   <lb ed="#B" n="80"/>bent magnam poena. sicut fur videns patibulum ma 
+   <lb ed="#B" n="81"/>gnam poenam habet antequam ei mors infligitur in
+   appre<lb ed="#B" n="82" break="no"/>hensione poenae futurae. lstud non valet: cum non detur 
+   <lb ed="#B" n="83"/>modus punitionis daemonum. &amp; vno inuento pro dae 
+   <lb ed="#B" n="84"/>monibus / ille pro animabus separatis sufficit. Nec valet 
+   <lb ed="#B" n="85"/>dicere more aliorum quod est quaedam qualitas infusa a 
+   <lb ed="#B" n="86"/>deo animabus &amp; demonibus per quam possunt pati: quia 
+   <lb ed="#B" n="87"/>est eadem difficultas / eis &amp; aliis. Vel enim illa qualitas 
+   <lb ed="#B" n="88"/>est corporea inhaerens daemoni &amp; animae. &amp; sic pari 
+   <lb ed="#B" n="89"/>facilitate dicere possunt calorem posse eis inhaerere. a 
+   <lb ed="#B" n="90"/>quo resiliunt. si incorporea: possunt hoc ponere per 
+   <lb ed="#B" n="91"/>essentias animarum. Nec iuuat tertio dicere cum aliis quod 
+   <lb ed="#B" n="92"/>ignis agit in animas vt instrumentum dei, licet non ex na 
+   <lb ed="#B" n="93"/>tura sua. quia scimus ignem esse instrumentum dei. sed 
+   <lb ed="#B" n="94"/>quaestio remanet an calor animae possit inhaerere. quod 
+   <lb ed="#B" n="95"/>non admittitur. Quarto est quaedam antiqua fictio per 
+   <lb ed="#B" n="96"/>species ignis, quam <name xml:id="jMqv4a-d1e1830-Nd1e177" ref="#PetrusDeAilly">Aliacensis</name> tueri satagit in
+   commen<lb ed="#B" n="97" break="no"/>tariis super <name xml:id="jMqv4a-d1e1830-Nd1e182" ref="#Boethius">Boetium:</name> reprobata ab antiquis &amp; merito. 
+   <lb ed="#B" n="98"/>quam videtur ponere <name xml:id="jMqv4a-d1e1830-Nd1e187">Guilielmus Altisiodo</name>. confugiens 
+   <lb ed="#B" n="99"/>ad duas facies animae. Difficultas autem in hoc consistit 
+   <lb ed="#B" n="100"/>uod patres notri consequenter ad doctrinam <name xml:id="jMqv4a-d1e1830-Nd1e195" ref="#Aristotle">Aristotelis</name> 
+       <lb ed="#B" n="101"/>non admiserunt animam posse suscipere essentiam caloris 
+   <lb ed="#B" n="102"/>quia repugnat animae calefieri propterea <ref xml:id="jMqv4a-d1e1830-Rd1e202">
+        <name xml:id="jMqv4a-d1e1830-Nd1e204">Auicenna</name>. ix. suae 
+   <lb ed="#B" n="103"/>metaphy. c. vltimo</ref>. &amp; <ref xml:id="jMqv4a-d1e1830-Rd1e211">
+        <name xml:id="jMqv4a-d1e1830-Nd1e213">Algazel</name>. v. physi.</ref> habebant 
+   <lb ed="#B" n="104"/>peculiares modos dicendi de poena malorum: non ad  
+   <lb ed="#B" n="105"/>mittentes corpus agere in spiritum. &amp; simiter Augustgu. xii. super 
+   <lb ed="#B" n="106"/>Genesim. <name xml:id="jMqv4a-d1e1830-Nd1e223" ref="#Boethius">Boetius</name> de duabus naturis &amp; vna persona 
+   <lb ed="#B" n="107"/>Christi, propterea vt dicit Albertus, beatus Augusti 
+   <lb ed="#B" n="108"/>nus vt ab hoc discederet, posuit daemones corpo 
+   <!--0716.xml-->
+   <pb ed="#B" n="342-v"/>
+       <cb ed="#B" n="a"/>
+       <lb ed="#B" n="1"/>reos, &amp; habere corpora aerea: vt <ref xml:id="jMqv4a-d1e1830-Rd1e239">
+        <name xml:id="jMqv4a-d1e1830-Nd1e241" ref="#Lombard">magister</name> allegat 
+   <lb ed="#B" n="2"/>in litera.</ref> sed illud de daemonum corporibus abiit tanqu 
+   <lb ed="#B" n="3"/>inopinabile ab vsu. Posteriores autem in hoc
+   stete<lb ed="#B" n="4" break="no"/>runt: vt <name xml:id="jMqv4a-d1e1830-Nd1e252" ref="#Aquinas">btuns Thomas</name>, <name xml:id="jMqv4a-d1e1830-Nd1e255" ref="#Scotus">doctor subtilis</name>, &amp; btuns Bo 
+   <lb ed="#B" n="5"/>nauentura: licet dicat aliquid in solutione
+   quaestio<lb ed="#B" n="6" break="no"/>nis: scilicet quod deus facit animas trepidare timore 
+   <lb ed="#B" n="7"/>ybi non est timor: quod nobis non placet, non aliter 
+   <lb ed="#B" n="8"/>posuerunt potentias sensitiuas cum anima separata 
+   <lb ed="#B" n="9"/>ad patiendum a calore. Item nostri mali angeli &amp; 
+   <lb ed="#B" n="10"/>daemones tentantes non habent ignem secum: &amp; tamen 
+   <lb ed="#B" n="11"/>semper puniuntur. 
+  </p>
+      <p xml:id="jMqv4a-d1e1830-d1e274">
+       <lb ed="#B" n="12"/>⁋ Restat deuenire ad modum
+   docto<lb ed="#B" n="13" break="no"/>rum communem, qui nobis solus apparet
+   rationabi<lb ed="#B" n="14" break="no"/>lis. Modus est iste. Daemones &amp; animae separatae 
+   <lb ed="#B" n="15"/>realiter erunt in igne post diem iudicii: &amp; nunc sunt 
+   <lb ed="#B" n="16"/>ibi plurimi, non enim opinamur cum asserentibus
+   spi<lb ed="#B" n="17" break="no"/>ritus non esse in loco nisi per operari. nam spiritus isti 
+   <lb ed="#B" n="18"/>appetunt libertatem. &amp; esse vbicumque locorum eis
+   pla<lb ed="#B" n="19" break="no"/>cebit: non possunt. sed deus hos detinet in illo
+   lo<lb ed="#B" n="20" break="no"/>co: sicut anima mea non potest ad nutum corpus 
+   <lb ed="#B" n="21"/>deserere, non quod locus eis repugnet ex natura loci. 
+   <lb ed="#B" n="22"/>nam ignis ex sua natura non magis disconuenit
+   il<lb ed="#B" n="23" break="no"/>lis spiritibus quam aer. sed habent nolle detineri in hoc 
+   <lb ed="#B" n="24"/>loco. quia nitimur in vetitum semper cupimusque 
+   <lb ed="#B" n="25"/>negata. quomodo licet <name xml:id="jMqv4a-d1e1830-Nd1e306" ref="#Aristotle">Aristoteli</name> esset
+   voluptuo<lb ed="#B" n="26" break="no"/>sum libere stare in bibliotheca: tamen si esset ei vetitum 
+   <lb ed="#B" n="27"/>abire sub poena mortis: stare in illa esset poenale 
+   <lb ed="#B" n="28"/>Et potest dari exemplum de Semei ex. iii. Regum. ii. 
+   <lb ed="#B" n="29"/>cui vetitum erat pertransire torrentem Cedron. Ad nol 
+   <lb ed="#B" n="30"/>le autem naturaliter sequitur tristitia. Nam vt ait di 
+   <lb ed="#B" n="31"/>uus <name xml:id="jMqv4a-d1e1830-Nd1e322" ref="#Augustine">Augustini</name> xv. de ciuitate dei cap. xxv. tristitia 
+   <lb ed="#B" n="32"/>est de his rebus quae nobis nolentibus accidunt 
+   <lb ed="#B" n="33"/>sed daemones nolunt deum esse, &amp; eum odio habent quia 
+   <lb ed="#B" n="34"/>eos punit. nam superbia eorum qui te oderunt ascen 
+   <lb ed="#B" n="35"/>dit semper. inquit psalmographus. psalmo. lxxxviii 
+   <lb ed="#B" n="36"/>&amp; vt apparet, seipsum odit damnatus: velut Hanni 
+   <lb ed="#B" n="37"/>bal vel Cato. Nam Apocalypsis. ix. dicitur. Et in
+   die<lb ed="#B" n="38" break="no"/>bus illis quaerent homines mortem &amp; non inuenient eam: &amp; 
+   <lb ed="#B" n="39"/>desiderabunt mori: &amp; fugiet mors ab eis. Item mors 
+   <lb ed="#B" n="40"/>depascet eos. psal. xlviii. Displicet quoque eis
+   pec<lb ed="#B" n="41" break="no"/>casse ratione poenae quam patiuntur. Istae igitur
+   noli<lb ed="#B" n="42" break="no"/>tiones &amp; tristitiae sequentes naturaliter illas nolitiones 
+   <lb ed="#B" n="43"/>sunt poena inferni. Poena quidem inferni potest ca 
+   <lb ed="#B" n="44"/>bi pro omnibus istis copulatim, vel aliquibus istorum. 
+   <lb ed="#B" n="45"/>Assumptis autem corporibus post diem iudicii
+   patien<lb ed="#B" n="46" break="no"/>tur dolores in corpore: calefient &amp; frigefient vt. su 
+   <lb ed="#B" n="47"/>perius diximus. &amp; non modo ab vno elemento sed ab 
+   <lb ed="#B" n="48"/>omnibus. hinc Sapien. v. dicitur. Pugnabit cum illo orbis 
+   <lb ed="#B" n="49"/>terrarum contra insensatos. lIbunt directae emissiones
+   ful<lb ed="#B" n="50" break="no"/>gurum: &amp; tanquam a bene curuato arcu nubium
+   extermi<lb ed="#B" n="51" break="no"/>nabuntur: &amp; ad certum locum insilient. Et a petrosa ira 
+   <lb ed="#B" n="52"/>plenae mittentur grandines: &amp; candescet in illos aqua 
+   <lb ed="#B" n="53"/>maris: &amp; fiumina concurrent duriter. Psalmographus 
+   <lb ed="#B" n="54"/>quoque ait. Pluet super peccatores laqueos, ignis, &amp; sul- 
+   <!--0716.xml-->
+   <cb ed="#B" n="b"/> 
+       <!-- 342-v b -->
+       <lb ed="#B" n="55"/>hur, &amp; spiritus procellarum / pars calicis eorum. psal. x. 
+   <lb ed="#B" n="56"/>bi erit fletus &amp; stridor dentium. Matth. viii. hoc est 
+   <lb ed="#B" n="57"/>commotio capitis &amp; oculorum. nihil enim resoluetur ab 
+   <lb ed="#B" n="58"/>oculis. Sed &amp; ethnicis deus manifestauit istos cru 
+   <lb ed="#B" n="59"/>ciatus infernales. hinc Virgi. vi. Aeneid. sententias 
+   <lb ed="#B" n="60"/>Homeri, Pythagorae, Platonis, &amp; veterum insequens 
+   <lb ed="#B" n="61"/>dicit. Respicit Aeneas subito, &amp; sub rupe sinistra 
+   <lb ed="#B" n="62"/>Moenia lata videt triplici circundata muro: Quae ra 
+   <lb ed="#B" n="63"/>pidus flammis ambit torrentibus amnis Tartareus Phle 
+   <lb ed="#B" n="64"/>geton: torquetque sonantia saxa. Porta aduersa igens 
+   <lb ed="#B" n="65"/>&amp;c. &amp; paulopost. Hinc exaudiri gemitus &amp; saeua
+   so<lb ed="#B" n="66" break="no"/>nare Verbera. tum stridor ferri tractaeque catenae. Et de 
+   <lb ed="#B" n="67"/>mum concludendo de poenis inferni non minus vere quam 
+   <lb ed="#B" n="68"/>pulchre dicit. Non mihi si linguae centum sint oraque
+   ce<lb ed="#B" n="69" break="no"/>tum: Ferrea vox: omnes scelerum comprendere formas, Omnia 
+   <lb ed="#B" n="70"/>poenarum percurrere nominia possem. vt addiscant illud  
+   <lb ed="#B" n="71"/>eiusdem. Discite iustitiam moniti &amp; non temnere diuos. 
+   <lb ed="#B" n="72"/>nam cuilibet vtenti ratione per inspirationem men 
+   <lb ed="#B" n="73"/>tis internam / palam est tyrannos &amp; malos puniri 
+   <lb ed="#B" n="74"/>post hanc vitam. 
+  </p>
+      <p xml:id="jMqv4a-d1e1830-d1e427">
+       <lb ed="#B" n="75"/>⁋ Ex omnibus praedictis pono hanc 
+   <lb ed="#B" n="76"/>conclusionem. Daemones &amp; animae puniuntur eo modo quo  
+   <lb ed="#B" n="77"/>dictum est, per nolle &amp;c. Probatur conclusio. certum est eas 
+   <lb ed="#B" n="78"/>perpetuo puniri, iuxta sententiam iudicis. Matth. xxv. 
+   <lb ed="#B" n="79"/>te maledicti in ignem aeternum qui paratus est diabolo 
+   <lb ed="#B" n="80"/>&amp; angelis eius. sed nullus modus reprobatus est 
+   <lb ed="#B" n="81"/>conveniens: &amp; omnia bene saluantur per istum modum 
+   <lb ed="#B" n="82"/>quem insequimur. Nec sufficit theologo dicere:
+   pu<lb ed="#B" n="83" break="no"/>niuntur, sed nescimus explicare, quomodo. sicut fre 
+   <lb ed="#B" n="84"/>quenter aliquid scimus incontracte: &amp; tamen illud contra 
+   <lb ed="#B" n="85"/>cte nos fugit. sed theologi est aliis dare modum 
+   <lb ed="#B" n="86"/>possibilitatis rei de fide, spe, &amp; charitate. 
+  </p>
+      <p xml:id="jMqv4a-d1e1830-d1e456">
+       <lb ed="#B" n="87"/>⁋ Contra hanc conclusionem argumen 
+   <lb ed="#B" n="88"/>tor sic. Si daemones &amp; animae separatae habeant
+   poe<lb ed="#B" n="89" break="no"/>nam per actus voluntatis &amp; tristitiam sequentem: 
+   <lb ed="#B" n="90"/>possunt omnem poenam a se remouere: cum nihil sit 
+   <lb ed="#B" n="91"/>magis in nostra potestate quam ipsa voluntas: &amp;
+   po<lb ed="#B" n="92" break="no"/>tentiae rationales valeant ad opposita. ix. metaphy 
+   <lb ed="#B" n="93"/>sicae. &amp; secundo peri hermenias. &amp; sic redibit peior 
+   <lb ed="#B" n="94"/>error quam Origenis: cum mox possint omnem poenam 
+   <lb ed="#B" n="95"/>euandere. In super cum infernus vel ignis non repugnet 
+   <lb ed="#B" n="96"/>spiritui ex natura sua plus quam florida tempe: spiritus 
+   <lb ed="#B" n="97"/>possunt velle esse in igne: &amp; ita non erit eis poenale. 
+  </p>
+      <p xml:id="jMqv4a-d1e1830-d1e482">
+       <lb ed="#B" n="98"/>⁋ Pro primo argumento nota quod vnus modus 
+   <lb ed="#B" n="99"/>tenet hanc poenam causari a solo deo: &amp; nullo modo  
+   <lb ed="#B" n="100"/>a damnato. sed de hoc in materia de perpetuitate bea 
+   <lb ed="#B" n="101"/>titudinis: vbi eadem materia iterum occurret. Verum di 
+   <lb ed="#B" n="102"/>co pronunc quod causatur ab ipsis damnatis partialiter: 
+   <lb ed="#B" n="103"/>nec est situm in eorum facultate illos actus deserere 
+   <lb ed="#B" n="104"/>vel remittere. Potentiae autem rationales valent ad  
+   <lb ed="#B" n="105"/>opposita causa prima concurrente cum influentia ge 
+   <lb ed="#B" n="106"/>nerali vti nunc concurrit. sed si spanliter moueat volun 
+   <lb ed="#B" n="107"/>tatem ad eliciendum actum vel continuandum: non est 
+   <lb ed="#B" n="108"/>situm in facultate voluntatis suos actus deserere. 
+   <!--0717.xml-->
+   <pb ed="#B" n="343-r"/>
+       <cb ed="#B" n="a"/>
+       <lb ed="#B" n="1"/>Quid <name xml:id="jMqv4a-d1e1830-Nd1e516" ref="#Aristotle">Aristoteles</name> senserit in hac parte: mea non re 
+   <lb ed="#B" n="2"/>fert. sed si tenuisset ista quae nos tenemus, &amp; scimus esse 
+   <lb ed="#B" n="3"/>certa per reuelationem dei, vt puta quae fidei sunt: mutas 
+   <lb ed="#B" n="4"/>set propositum. voluntas enim potest necessitari: non autem 
+   <lb ed="#B" n="5"/>cogi. Aliud argumentum est ex his solutum: quia non 
+   <lb ed="#B" n="6"/>possunt habere velle existendi in igne. tum quia haberent 
+   <lb ed="#B" n="7"/>contraria: cum continuo habeant nolle, quod est poenale 
+   <lb ed="#B" n="8"/>valde damnato contra libertatem qua vtebatur in via / quod 
+   <lb ed="#B" n="9"/>non potest actum deserere. Tum secundo, deus non concurreret 
+   <lb ed="#B" n="10"/>ad velle esse in igne si nulla esset contrarietas in vo 
+   <lb ed="#B" n="11"/>luntate. praeterea displicet damnato peccasse vbicumque 
+   <lb ed="#B" n="12"/>locorum sit &amp; videtur quod illud sit ei essentialius poena as 
+   <lb ed="#B" n="13"/>nolle detineri in igne.
+  </p>
+      <p xml:id="jMqv4a-d1e1830-d1e546">
+   ⁋ Secundo argumentor. sequi 
+   <lb ed="#B" n="14"/>tur quod non magis displiceret eis, puniri in infemo quam 
+   <lb ed="#B" n="15"/>in caelo vel aere. In super dicuntur puniri ab igne.
+   qua<lb ed="#B" n="16" break="no"/>re aliter vocatur poena sensus? Respondetur. vbicumque 
+   <lb ed="#B" n="17"/>locorum damnati sint: habent suum infernum. quia nolunt 
+   <lb ed="#B" n="18"/>in illo loco detineri. in aere namque ante diem iudicii dae 
+   <lb ed="#B" n="19"/>mon non minus punitur intensiue quam in infeno: sed vnus 
+   <lb ed="#B" n="20"/>locus est foetoribus plenus post diem iudicii eis propter 
+   <lb ed="#B" n="21"/>peccata foetida datus. Ad aliud dicitur quod magis proprie 
+   <lb ed="#B" n="22"/>puniuntur spiritus in igne quam ab igne. etiam pot dici quod 
+   <lb ed="#B" n="23"/>puniuntur ab igne pro quanto concurrit ad notitiam qua 
+   <lb ed="#B" n="24"/>habent spiritus ab igne, &amp; continuo: nec ab illa vnquam 
+   <lb ed="#B" n="25"/>spiritus euelli possunt: &amp; considerant se non posse
+   disce<lb ed="#B" n="26" break="no"/>dere ab igne. per ignem autem locum quencunque intelligo  
+   <lb ed="#B" n="27"/>in quo spiritus danatus est. sed corpora reproborum 
+   <lb ed="#B" n="28"/>hominium patientur &amp; in igne &amp; ab igne post diem iudicii. 
+  </p>
+      <p xml:id="jMqv4a-d1e1830-d1e581">
+       <lb ed="#B" n="29"/>⁋ Tertio arguitur. sequitur quod omnes spiritus aequaliter
+   pu<lb ed="#B" n="30" break="no"/>niantur. consequens est inconveniens, cum inaequaliter pec 
+   <lb ed="#B" n="31"/>cauerint probatur sequela: quia aequaliter detinentur. Ad 
+   <lb ed="#B" n="32"/>tertium nego consequentiam. nam qui plus peccarunt habent 
+   <lb ed="#B" n="33"/>intensius nolle hic detineri, &amp; intensiorem tristitiam
+   se<lb ed="#B" n="34" break="no"/>cundum proportionem peccatorum: nec possunt istos 
+   <lb ed="#B" n="35"/>actus vel passiones sequentes remittere. vermis enim 
+   <lb ed="#B" n="36"/>conscientiae eos etiam mordet. &amp; displicet eis peccasse 
+   <lb ed="#B" n="37"/>non quia deo displicuerunt: sed quia cruciantur / torquentur 
+   <lb ed="#B" n="38"/>inuidia. lstud aplius patebit ex iis quae dicemus in. xlix 
+   <lb ed="#B" n="39"/>distinct. in materia beatitudinis: cu oppositorum sit 
+   <lb ed="#B" n="40"/>eadem doctrina.
+  </p>
+      <p xml:id="jMqv4a-d1e1830-d1e610">
+   ⁋ Sed dubitas quomodo animae 
+   <lb ed="#B" n="41"/>in purgatorio puniuntur. Respondeo. vellent
+   habe<lb ed="#B" n="42" break="no"/>re beatitudinem &amp; liberari a purgatorio si deo place 
+   <lb ed="#B" n="43"/>ret: &amp; displicet eis suum peccatum pro quanto est dei
+   of<lb ed="#B" n="44" break="no"/>fensiuum: ad quod sequitur tristitia: &amp; secundum multitudi 
+   <lb ed="#B" n="45"/>nem peccatorum maior est tristitia: licet interdum possit 
+   <lb ed="#B" n="46"/>esse poena extra locum illum ad tempus. vt scimus ex 
+   <lb ed="#B" n="47"/>quarto dialogorum. vbi refert <name xml:id="jMqv4a-d1e1830-Nd1e627">bea. Gregorius</name> quendam 
+   <lb ed="#B" n="48"/>virum sanctum retulisse quomodo viderit <name xml:id="jMqv4a-d1e1830-Nd1e632">Theodoricum</name> 
+       <lb ed="#B" n="49"/>post mortem inter <name>Ioannem papam</name> &amp; <name xml:id="jMqv4a-d1e1830-Nd1e641">Symmachum</name> pa 
+   <lb ed="#B" n="50"/>tricium discinctum atque discalceatum / deductum, in Vulca 
+   <lb ed="#B" n="51"/>ni ollam iactari. Fodem libro refert Germanum Ca 
+   <lb ed="#B" n="52"/>puanum episcopum inuenisse Paschasium diaconem qui 
+   <lb ed="#B" n="53"/>erat defunctus / stantem &amp; obsequentem in balneis. 
+  </p>
+      <p xml:id="jMqv4a-d1e1830-d1e654">
+       <lb ed="#B" n="54"/>⁋ Quarto arguitur probando quod accidens
+   corpo<lb ed="#B" n="55" break="no"/>reum possit animae vel daemoni inhaerere: &amp; si hoc pro- 
+   <!--0717.xml-->
+   <cb ed="#B" n="b"/> 
+       <!-- 343-r b -->
+       <lb ed="#B" n="56"/>betur eradicatur fundamentum. lam coloratur assum 
+   <lb ed="#B" n="57"/>ptum. Accidens spirituale potest subiecto corporeo 
+   <lb ed="#B" n="58"/>inhaerere: ergo accidens corporale potest inhaerere 
+   <lb ed="#B" n="59"/>subiecto impartibili. consequentia tenet conuenienti 
+   <lb ed="#B" n="60"/>similitudine.
+  </p>
+      <p xml:id="jMqv4a-d1e1830-d1e678">
+   ⁋ Respondetur negando antecedens 
+   <lb ed="#B" n="61"/>nam licet anima corpus informet: &amp; indiuisibile sit 
+   <lb ed="#B" n="62"/>in loco corporeo: a doctoribus tamen non admittitur 
+   <lb ed="#B" n="63"/>accidens indiuisibile posse inhaerere subiecto
+   cor<lb ed="#B" n="64" break="no"/>poreo. &amp; quicquid sit de antecedente: consequentia est 
+   <lb ed="#B" n="65"/>nulla: &amp; cosequens constanter negatur vt ex supradi 
+   <lb ed="#B" n="66"/>ctis patet. Etiam ex concesso sequitur quod illud accidens 
+   <lb ed="#B" n="67"/>&amp; quaelibet pars eius esset infinite intensa: quod probo. 
+   <lb ed="#B" n="68"/>capio pedale vniformiter album vt. iiii. si tota
+   albe<lb ed="#B" n="69" break="no"/>do in prima parte proportionali horae ponatur in se 
+   <lb ed="#B" n="70"/>cunda dimidietate: ipsa est in duplo intensior. &amp; si 
+   <lb ed="#B" n="71"/>in secunda parte proportionali horae adhuc tota albe 
+   <lb ed="#B" n="72"/>do ponatur in quarta parte illius pedalitatis: iam
+   al<lb ed="#B" n="73" break="no"/>bedo erit quaedruplo intensior. &amp; si ita fiat per omnes
+   par<lb ed="#B" n="74" break="no"/>tes proportionales istius horae: iam in infinitum intensa 
+   <lb ed="#B" n="75"/>erit albedo ante finem horae. &amp; in instanti terminante 
+   <lb ed="#B" n="76"/>horam erit intensior quam erat in aliqua parte proportiona 
+   <lb ed="#B" n="77"/>li illius horae. ergo in illo instanti albedo erit
+   infini<lb ed="#B" n="78" break="no"/>te intensa. supponamus quod in illo instanti reducatur ad 
+   <lb ed="#B" n="79"/>indiuisibile extensiue: &amp; subiectiue sit in anima vel
+   an<lb ed="#B" n="80" break="no"/>gelo. Non valet quod Marsilius dicit in de generatione 
+   <lb ed="#B" n="81"/>quod non erit intensior in fine quam erat in principio: cum 
+   <lb ed="#B" n="82"/>nulla sit albedo addita. Hoc inqua non valet: quia 
+   <lb ed="#B" n="83"/>in secunda parte proportionali horae sunt octo
+   gra<lb ed="#B" n="84" break="no"/>dus aequales se penetrantes: ergo tunc subiectu est 
+   <lb ed="#B" n="85"/>album vt octo. cosequentia patet intelligenti: quia non est 
+   <lb ed="#B" n="86"/>minus album nunc quam si tota ista albedo esset
+   mo<lb ed="#B" n="87" break="no"/>do sub hac dispositione producta / &amp; nunquam prius 
+   <lb ed="#B" n="88"/>fuisset: quia existentia prior nihil facit ad intensionem 
+   <lb ed="#B" n="89"/>praesente. Et forte istud argumentum sine addito non 
+   <lb ed="#B" n="90"/>concludit: quia concederetur quod esset aliqua qualitas
+   in<lb ed="#B" n="91" break="no"/>finite intensa. immo quod amplius est, quaelibet pars ei 
+   <lb ed="#B" n="92"/>esset infinite intensa. quia quacumque parte accepta / prius 
+   <lb ed="#B" n="93"/>erat in subiecto corporeo: &amp; quidlibet tale redactum 
+   <lb ed="#B" n="94"/>ad indiuisibile / infinite intensum euadet. si enim quaeli 
+   <lb ed="#B" n="95"/>bet pars albedinis ponatur cum qualibet: iam erit infi 
+   <lb ed="#B" n="96"/>nite intensa albedo: vt patet de albedine in corpore 
+   <lb ed="#B" n="97"/>Christi in eucharistia secundum vnam imaginationem 
+   <lb ed="#B" n="98"/>si deus retraheret suum corpus relinquendo albedinem 
+   <lb ed="#B" n="99"/>sub hostia, &amp; constitueretur vna forma: quod est deo 
+   <lb ed="#B" n="100"/>possibile: vel retraheret se a partibus superficialibus 
+   <lb ed="#B" n="101"/>hostiae / manendo solum in centro illius / ponedo centra 
+   <lb ed="#B" n="102"/>indiuisibilia, &amp; illuc retraheret se relinquendo
+   albe<lb ed="#B" n="103" break="no"/>dinem. Sed quamuis concedam quod aliqua albedo infinite 
+   <lb ed="#B" n="104"/>intensa secundum se &amp; quidlibet sui ad impartibilita 
+   <lb ed="#B" n="105"/>tem reducatur: non tamen concedo quod accidens cor 
+   <lb ed="#B" n="106"/>poreum potest subiecto indiuisibili inhaerere. &amp; hoc 
+   <lb ed="#B" n="107"/>me mouet: quia non est aliqua ratio illius
+   sufficien<lb ed="#B" n="108" break="no"/>ter probatiua nec aliquo pacto suasiua: &amp; maiores 
+   <lb ed="#B" n="109"/>nostri nunquam admiserunt illud. Tertio, pari ratione
+   ac<lb ed="#B" n="110" break="no"/>cidens posset extendi. &amp; si notitia ponatur in lapide 
+   <!--0718.xml-->
+   <pb ed="#B" n="343-v"/>
+       <cb ed="#B" n="a"/>
+       <lb ed="#B" n="1"/>quocumque nomine vocetur qualitas / vel notitia: ipsa iterum 
+   <lb ed="#B" n="2"/>posita in anima iterato erit infinite intensa: &amp; non erit 
+   <lb ed="#B" n="3"/>intensior quam iam est in anima. ergo nunc notitia &amp; denique 
+   <lb ed="#B" n="4"/>quaelibet qualitas in anima vel angelo secundum totum &amp; 
+   <lb ed="#B" n="5"/>partem erit infinite intensa, contra <name xml:id="jMqv4a-d1e1830-Nd1e805" ref="#Aristotle">Aristotelem</name> &amp; omnes an  
+   <lb ed="#B" n="6"/>tiquos: qui negabant infinitum possibile: &amp; contra poste 
+   <lb ed="#B" n="7"/>riores omnes qui non concedunt infinitum. &amp; istud mihi persua 
+   <lb ed="#B" n="8"/>det propositum.
+  </p>
+      <p xml:id="jMqv4a-d1e1830-d1e816">
+   ⁋ Quinto arguitur. dabilis est aliqua
+   al<lb ed="#B" n="9" break="no"/>bedo vel calor suapte natura non extensus: &amp; quili 
+   <lb ed="#B" n="10"/>bet talis potest animae inherere. igitur. consequentia nota est 
+   <lb ed="#B" n="11"/>cum minore. maiorem probo. capiatur corpus calidum 
+   <lb ed="#B" n="12"/>sphaericum, &amp; cadat super corpus planum non calidum: &amp;
+   fa<lb ed="#B" n="13" break="no"/>ciat deus quod solum calefaciat in puncto contactus: &amp; impe 
+   <lb ed="#B" n="14"/>diat partes illius corporis ne calefaciant aerem existentem 
+   <lb ed="#B" n="15"/>inter corpus planum &amp; ipsum. Tunc sic. tale corpus sphaeri 
+   <lb ed="#B" n="16"/>cum non calefacit planu nisi secundum partem contactus: 
+   <lb ed="#B" n="17"/>sed non tangit per partem diuisibilem: quia dato opposito 
+   <lb ed="#B" n="18"/>signetur illa pars diuisibilis corporis sphaerici corpus 
+   <lb ed="#B" n="19"/>planum tangens: ducam ex centro illius corporis ad
+   cir<lb ed="#B" n="20" break="no"/>cunmferentia tres lineas: quarum duae extremae erunt lon 
+   <lb ed="#B" n="21"/>giores: &amp; per consequens non omnes linee ductae a centro ad 
+   <lb ed="#B" n="22"/>tircumferentiam sphaerae erunt aequales, quod est falsum. 
+  </p>
+      <p xml:id="jMqv4a-d1e1830-d1e849">
+       <lb ed="#B" n="23"/>⁋ Respondetur negando maiorem: quia proprie illud
+   cor<lb ed="#B" n="24" break="no"/>pus sphaericum non tangit planum: sed consequenter illa 
+   <lb ed="#B" n="25"/>corpora se habent: quia vndique mediat aer. Nam
+   qua<lb ed="#B" n="26" break="no"/>cumque parte illius corporis sphaerici data vicina corpo 
+   <lb ed="#B" n="27"/>ri plano: psa habent tres partes, quarum vna eleuatur: &amp; 
+   <lb ed="#B" n="28"/>per consequens non tangit planum. Sed stando in communi 
+   <lb ed="#B" n="29"/>distinctione, dicamus quod dupliciter vnum corpus tangit 
+   <lb ed="#B" n="30"/>aliud. Vno modo quando ipsa non possunt esse
+   propin<lb ed="#B" n="31" break="no"/>quiora suis figuris saluis: &amp; hoc modo sphaera tan 
+   <lb ed="#B" n="32"/>git planum non in puncto, quia non est necesse ponere 
+   <lb ed="#B" n="33"/>puncta pro argumento: sed punctaliter. Alio modo  
+   <lb ed="#B" n="34"/>duo corpora se tangunt quando vna determinata pars 
+   <lb ed="#B" n="35"/>vnius secundum se &amp; quodlibet sui superficialiter 
+   <lb ed="#B" n="36"/>tangit aliud. quo modo corpora plana se tangunt. 
+   <lb ed="#B" n="37"/>corpora autem signata non possunt hoc modo se con 
+   <lb ed="#B" n="38"/>tingere.
+  </p>
+      <p xml:id="jMqv4a-d1e1830-d1e886">
+   ⁋ Sexto arguitur probando maiorem de
+   albe<lb ed="#B" n="39" break="no"/>dine. capio duas albedines separatas quae cum
+   dua<lb ed="#B" n="40" break="no"/>bus eucharistiis sint pedaliter longae, gratia exempli. 
+   <lb ed="#B" n="41"/>moueantur duo angeli vniformiter super has
+   albedi<lb ed="#B" n="42" break="no"/>nes, sic scilicet, quando a angelus est in puncto terminatiuo 
+   <lb ed="#B" n="43"/>suae linee pedalis albae / verius albedinis: b. primo non 
+   <lb ed="#B" n="44"/>sit tunc sic. a. albedinem maiorem paertransiuit quam b. loquor 
+   <lb ed="#B" n="45"/>de maioritate extensiue. &amp; non partransiuit aliquam diui 
+   <lb ed="#B" n="46"/>sibiliter maiorem albedinem quam b. ergo datur aliqua al 
+   <lb ed="#B" n="47"/>bedo suapte natura non extensa. Aliquae sunt propo 
+   <lb ed="#B" n="48"/>sitiones hic satis clarae: quarum vna est quod non est adae 
+   <lb ed="#B" n="49"/>quate aliqua albedo maior pertransita ab a. quam b. Si di 
+   <lb ed="#B" n="50"/>tas itota: Oppono. quaelibet pars spatii super quod mo 
+   <lb ed="#B" n="51"/>uebatur b. est pertransita. ponatur quod albefecit partes super 
+   <lb ed="#B" n="52"/>quas mouebatur: iam non datur pars non albefacta: 
+   <lb ed="#B" n="53"/>&amp; quaelibet talis est pertransita ex hypothesi. igitur. Item 
+   <lb ed="#B" n="54"/>uidlibet punctum intrinsecumn sui spatii partransiuit b 
+   <lb ed="#B" n="55"/>igitur. si quodlibet partransiuit / totum. arguitur sic. In  
+   <!--0718.xml-->
+   <cb ed="#B" n="b"/> 
+       <!-- 343-v b -->
+       <lb ed="#B" n="56"/>nullo instanti b attigit terminum ad quem, non in instan 
+   <lb ed="#B" n="57"/>ti extrinseco: quia tunc non est: nec intrinseco vt notum 
+   <lb ed="#B" n="58"/>est, quia in quolibet instanti illius temporis dato distabat 
+   <lb ed="#B" n="59"/>a puncto extrinseco. Ad hoc argumentum responde 
+   <lb ed="#B" n="60"/>bitur virtualiter inferius distin. xlvi.
+  </p>
+      <p xml:id="jMqv4a-d1e1830-d1e943">
+   ⁋ Vides quomodo ani 
+   <lb ed="#B" n="61"/>mae in infemo puniuntur / non per calorem eas calefacien 
+   <lb ed="#B" n="62"/>tem: sed ignis &amp; eius calor immutant continuo damna 
+   <lb ed="#B" n="63"/>tum ad habendam notitiam sui: &amp; necessitatur voluntas 
+   <lb ed="#B" n="64"/>ipsius a deo / nolle hic detineri. quicumque enim locus fue 
+   <lb ed="#B" n="65"/>rit in quo est: non potest magis locum suu exire ad
+   nu<lb ed="#B" n="66" break="no"/>tum quam anima mea corpus meum: &amp; ad hoc sequitur tristi 
+   <lb ed="#B" n="67"/>tia. Et licet tristitia possit produci sine nolle per displi 
+   <lb ed="#B" n="68"/>cens apprehensum &amp; non nolitum: tamen circa hoc nunc non 
+   <lb ed="#B" n="69"/>insisto. Vel sic, &amp; forte apparentius. damnatus apprehem 
+   <lb ed="#B" n="70"/>dit sua peccata perpetrata omnia in particulari / deo
+   coa<lb ed="#B" n="71" break="no"/>gente, que particulariter nult. vel apprehendit quodli 
+   <lb ed="#B" n="72"/>bet tanquai displicens. &amp; ita de quolibet peccato
+   perpe<lb ed="#B" n="73" break="no"/>trato habet tristitiam: &amp; si peccatum sit maius &amp;
+   ma<lb ed="#B" n="74" break="no"/>gis dei offensiuum: maior sequitur tristitia. Verum quia a 
+   <lb ed="#B" n="75"/>multis poena tristitiae non satis ponderatur: dignu du 
+   <lb ed="#B" n="76"/>xi paucis quaestionem vnam super hac tractare. 
+  </p>
+    </div>
+   </body>
+  </text>
+</TEI>

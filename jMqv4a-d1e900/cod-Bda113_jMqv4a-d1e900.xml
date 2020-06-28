@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 50</title>
+      <author ref="#JohnMair">John Mair</author>
+      <respStmt>
+       <name>Jeffrey C. Witt</name>
+       <resp>TEI Encoder</resp>
+      </respStmt>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 50</title>
+       <date when="2020-06-09">June 27, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="B" n="cod-Bda113">Badius 1516</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+     guidelines for a diplomatic edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-06-27" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+      <pb ed="#B" n="169-r"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="jMqv4a-d1e900"> <!-- l4d15q50 -->
+      <head xml:id="jMqv4a-d1e900-Hd1e104">Quaestio 50</head>
+      <head xml:id="jMqv4a-d1e900-Hd1e107" type="question-title">Utrum in restitutione pluribus facienda aliquis sit servandus ordo, 
+   et quis</head>
+      <p xml:id="jMqv4a-d1e900-d1e110">
+       <lb ed="#B" n="60"/>⁋ Distinctionis Decimaequintae 
+   <lb ed="#B" n="61"/>Quaest. Quinquagesima &amp; Vltima. 
+   <lb ed="#B" n="62"/>cam 
+   <lb ed="#B" n="63"/>Am nouem &amp;
+   qua<lb ed="#B" n="64" break="no"/>idraginta quaestiones in hac 
+   <lb ed="#B" n="65"/>la distinctione vtcumque pro
+   tem<lb ed="#B" n="66" break="no"/>Gporis penuria absoluimus t 
+   <lb ed="#B" n="67"/>&amp; potissimum de restitutione 
+   <lb ed="#B" n="68"/>la decima quaestione loquuti 
+   <lb ed="#B" n="69"/>sumus. reliquum est pro numer 
+   <lb ed="#B" n="70"/>quinquagenarii complemento quaestionem
+   quinquage<lb ed="#B" n="71" break="no"/>simam adiicere, quaerendo de ordine restitutionis: 
+   <lb ed="#B" n="72"/>quia super hoc mentionem non fecimus. Propterea quin  
+   <lb ed="#B" n="73"/>quagesimo circa hanc distinctionem quaeritur: Vtrum in  
+   <lb ed="#B" n="74"/>restitutione pluribus facienda aliquis sit seruandus 
+   <lb ed="#B" n="75"/>ordo, &amp; quis.
+  </p>
+      <p xml:id="jMqv4a-d1e900-d1e147">
+   ⁋ Respondetur per duas conclusiones 
+   <lb ed="#B" n="76"/>Prior est. restitutio primo est facienda cognitis &amp; 
+   <lb ed="#B" n="77"/>certis. patet conclusio. quia cognoscitur dominus cuius 
+   <lb ed="#B" n="78"/>bona ipso inuito detinentur. de aliis autem potest esse 
+   <lb ed="#B" n="79"/>dilatio ad tempus. Semper enim domini rerum si res 
+   <lb ed="#B" n="80"/>ipsae extent: omnibus sunt praeponendi. l. Veri. S. In
+   bo<lb ed="#B" n="81" break="no"/>nis. litt. de priui. cre. &amp; si res fuerint transsatae in alium 
+   <lb ed="#B" n="82"/>puta in emptorem: restituam pecuniam: &amp; antiquo do  
+   <lb ed="#B" n="83"/>mino reddam.
+  </p>
+      <p xml:id="jMqv4a-d1e900-d1e168">
+   ⁋ Secunda conclusio. Caeteris paribus 
+   <lb ed="#B" n="84"/>prius restitutio debet fieri illi a quo prius res 
+   <lb ed="#B" n="85"/>ablata est. nam qui prior est tempore: potior est iure. 
+   <lb ed="#B" n="86"/>si autem vnus magnam patiatur necessitatem &amp; alius 
+   <lb ed="#B" n="87"/>nullam: caetera sunt imparia. 
+  </p>
+      <p xml:id="jMqv4a-d1e900-d1e179">
+       <lb ed="#B" n="88"/>⁋ Ecce quintandecimam distinctionem: 
+   <lb ed="#B" n="89"/>in qua memoriae mandabis quod restitutio famae est 
+   <lb ed="#B" n="90"/>periculosa &amp; difficilis: &amp; multi in ea delinquunt.
+   ca<lb ed="#B" n="91" break="no"/>uendum est ergo summe: ne quis illo peccato pec 
+   <lb ed="#B" n="92"/>cet quo alterius iniuste fama lacerant. Quando autem 
+   <lb ed="#B" n="93"/>peccatum aliquod est secretum: nec est suspicio 
+   <lb ed="#B" n="94"/>vlla de viro: non debet homo ipsum confiteri
+   su<lb ed="#B" n="95" break="no"/>periori quaerenti: sed dicere ei inquirenti: quod
+   inor<lb ed="#B" n="96" break="no"/>dinate haec inquirit: &amp; forum dei sibi vsurpat. Et 
+   <lb ed="#B" n="97"/>eodem modo respondendum est si abbas vel
+   ali<lb ed="#B" n="98" break="no"/>quis superior dicat in capitulo. sub poena
+   excon<lb ed="#B" n="99" break="no"/>municationis dicat mihi quilibet peccata secreta 
+   <lb ed="#B" n="100"/>socii sui vel sua ipsius. si vnus sciat peccatum meum 
+   <lb ed="#B" n="101"/>secretum: non debet illud propalare. &amp; per conse 
+   <lb ed="#B" n="102"/>quens nec ego meum. superior autem male
+   fa<lb ed="#B" n="103" break="no"/>cit haec inquirendo. Circa materiam homicidii dixi 
+   <lb ed="#B" n="104"/>hominem posse ad mortem damnati ne comedat: 
+   <lb ed="#B" n="105"/>&amp; si cibus ponatur ante eum: potest licite non 
+   <lb ed="#B" n="106"/>comedere. probatio erat: quia potest quis
+   damna<lb ed="#B" n="107" break="no"/>ri ad mortem, &amp; apertis ostiis omnibus carceris 
+   <!--0370.xml-->
+   <pb ed="#B" n="169-v"/>
+       <cb ed="#B" n="a"/>
+       <lb ed="#B" n="1"/>non abscedere: ergo potest non comedere cum 
+   <lb ed="#B" n="2"/>sit iuste damnatus: qiuis cibus ante eum
+   pona<lb ed="#B" n="3" break="no"/>tur: quicquid dicat sanctus Thomas in secunda 
+   <lb ed="#B" n="4"/>secundae.
+  </p>
+      <p xml:id="jMqv4a-d1e900-d1e240">
+   ⁋ Quando quis est in extrema necessi 
+   <lb ed="#B" n="5"/>tate, dicebam probabile esse si haberet rem
+   alie<lb ed="#B" n="6" break="no"/>nam: alio aeque cito in extremam necessitatem ca 
+   <lb ed="#B" n="7"/>dente: ipsum posse re illa vti. &amp; si alter moriatur 
+   <lb ed="#B" n="8"/>defectu illius rei: non imputabitur ipsi mors
+   il<lb ed="#B" n="9" break="no"/>lius. ratio est: quia habet dominium naturale in  
+   <lb ed="#B" n="10"/>te omni ad se releuandum in extrema necessitate. 
+   <lb ed="#B" n="11"/>&amp; in illo casu dominium ciuile cedit, vel dominio 
+   <lb ed="#B" n="12"/>ciuili aequiualet posfessio rei, si ante habuit
+   alie<lb ed="#B" n="13" break="no"/>num: quia homo plus est sibi obnoxius quam alteri: 
+   <lb ed="#B" n="14"/>nisi alter esset multo vtilior reipublicae. Potest
+   ta<lb ed="#B" n="15" break="no"/>men licite alteri dare rem illam in extrema neces 
+   <lb ed="#B" n="16"/>sitate, esto moriatur. Ratio est: quia duplici iure 
+   <lb ed="#B" n="17"/>ad alterum spectat: alter enim habet etiam domi 
+   <lb ed="#B" n="18"/>nium naturale cum ciuili: quae duo iura
+   probabili<lb ed="#B" n="19" break="no"/>ter concludunt quod potest illi rem hanc dare: &amp; mor 
+   <lb ed="#B" n="20"/>tem patienter tolerare. alterutrum autem
+   facien<lb ed="#B" n="21" break="no"/>do non peccat. Et licet homo habeat dominium 
+   <lb ed="#B" n="22"/>naturale ad omnia necessaria pro se
+   conseruan<lb ed="#B" n="23" break="no"/>do in necessitate capienda: hoc intelligitur medio 
+   <lb ed="#B" n="24"/>licito. hoc enim possumus quod de iure
+   possu<lb ed="#B" n="25" break="no"/>mus. itu. de verbo. signi. l. Nepos Proculo. Per ali 
+   <lb ed="#B" n="26"/>ud autem ius naturale vel positiuum potest
+   no<lb ed="#B" n="27" break="no"/>bis constare quando homo absoluitur a sui con 
+   <lb ed="#B" n="28"/>seruatione: vt pote quando est damnatus ad mor 
+   <lb ed="#B" n="29"/>tem: licite potest non abire data opportunitate. vel 
+   <lb ed="#B" n="30"/>deo praecipiente potest se perimere vt fecit
+   San<lb ed="#B" n="31" break="no"/>son. ludicum. xvi. vel pro opere consilii potest 
+   <lb ed="#B" n="32"/>martyrium pati: vel pro vtilitate reipublicae: vt 
+   <lb ed="#B" n="33"/>in acie belli iusti: vel restituendo alteri quod suum 
+   <lb ed="#B" n="34"/>est laboranti simili necessitate.
+  </p>
+      <p xml:id="jMqv4a-d1e900-d1e308">
+   ⁋ Quando quatuor 
+   <lb ed="#B" n="35"/>sunt in naui quae non potest superferre omnes: 
+   <lb ed="#B" n="36"/>possunt sortiti quis sit eijciendus: vel vnus alium 
+   <lb ed="#B" n="37"/>propellere si iudicent quod non saluabuntur alia via. 
+   <lb ed="#B" n="38"/>sed si vnus sit in naui: &amp; alter extra nauim: in illo 
+   <lb ed="#B" n="39"/>casu male faceret existens extra nauim, alium a 
+   <lb ed="#B" n="40"/>sua possessione pellendo: quia iam nauis quo ad  
+   <lb ed="#B" n="41"/>vsum est sua. intelligo de ea quae non potest plu 
+   <lb ed="#B" n="42"/>res saluare. quemadmodum quando proiicitur 
+   <lb ed="#B" n="43"/>pecunia in vulgus: a primo occupante alius
+   au<lb ed="#B" n="44" break="no"/>ferre non potest: licet ante acquisitionem
+   pote<lb ed="#B" n="45" break="no"/>rat elaborare primo pecuniam habere. &amp; quamuis 
+   <lb ed="#B" n="46"/>forte peccaret alium trudendo nem pecuniam
+   ha<lb ed="#B" n="47" break="no"/>beat: si primo acquirat, non tenetur acquisitum 
+   <lb ed="#B" n="48"/>restituere: quia efficitur primo occupantis, quem 
+   <lb ed="#B" n="49"/>admodum contingit de occidente auem, &amp; eam 
+   <lb ed="#B" n="50"/>insequente. nam si alter eam prius occupauerit: 
+   <lb ed="#B" n="51"/>occupantis efficitur. Et haec de quaestione praesenti: 
+   <lb ed="#B" n="52"/>&amp; tota hac decimaquinta distinctione. 
+   <!--0370.xml-->
+   <cb ed="#B" n="b"/> 
+       <!-- 169-v b -->
+      </p>
+    </div>
+   </body>
+  </text>
+</TEI>

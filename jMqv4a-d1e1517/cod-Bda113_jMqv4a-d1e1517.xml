@@ -1,0 +1,351 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 1</title>
+      <author ref="#JohnMair">John Mair</author>
+      <respStmt>
+       <name>Jeffrey C. Witt</name>
+       <resp>TEI Encoder</resp>
+      </respStmt>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 1</title>
+       <date when="2020-06-09">June 27, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="B" n="cod-Bda113">Badius 1516</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+     guidelines for a diplomatic edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-06-27" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+      <pb ed="#B" n="284-r"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="jMqv4a-d1e1517"> <!-- l4d34q1 -->
+      <head xml:id="jMqv4a-d1e1517-Hd1e104">Quaestio 1</head>
+      <head xml:id="jMqv4a-d1e1517-Hd1e107" type="question-title">An impotentia coeundi matrimonium impediat</head>
+      <p xml:id="jMqv4a-d1e1517-d1e110">
+       <lb ed="#B" n="106"/>⁋ Distinctionis Trigesimae quartae 
+   <lb ed="#B" n="107"/>Quaestio Prima. 
+   <!--0600.xml-->
+   <pb ed="#B" n="284-v"/>
+       <cb ed="#B" n="a"/>
+       <lb ed="#B" n="1"/>Rimo circa 
+   <lb ed="#B" n="2"/>distinctionem trige 
+   <lb ed="#B" n="3"/>simamquartam Quae 
+   <lb ed="#B" n="4"/>ritur: an
+   impoten<lb ed="#B" n="5" break="no"/>tia coeundi matri 
+   <lb ed="#B" n="6"/>monium impediat. 
+   <lb ed="#B" n="7"/>Pro solutione
+   quae<lb ed="#B" n="8" break="no"/>stionis notato quod 
+   <lb ed="#B" n="9"/>aliqua sunt
+   impedi<lb ed="#B" n="10" break="no"/>menta quae virum 
+   <lb ed="#B" n="11"/>impediunt ne mu 
+   <lb ed="#B" n="12"/>lierem
+   cognosce<lb ed="#B" n="13" break="no"/>re possit vt
+   natu<lb ed="#B" n="14" break="no"/>ralis frigiditas. &amp; siue a calore vel qualitercunque 
+   <lb ed="#B" n="15"/>illud a natura proueniat: sub nomine frigiditatis 
+   <lb ed="#B" n="16"/>includitur: vt si vtroque teste careat. Similiter
+   ar<lb ed="#B" n="17" break="no"/>ctatio in muliere impedit ne cognosci possit si
+   il<lb ed="#B" n="18" break="no"/>li arctitudini remedium apponi non possit sine peri 
+   <lb ed="#B" n="19"/>culo vitae ipsius: vel nisi mulieris membrum ad 
+   <lb ed="#B" n="20"/>venerationem aptum abscindatur. Praeterea quae 
+   <lb ed="#B" n="21"/>dam sunt impedimenta quae matrimonium impe 
+   <lb ed="#B" n="22"/>diunt contrahendum: &amp; dirimunt cum hoc
+   contra<lb ed="#B" n="23" break="no"/>ctum. &amp; ratio est: quia quaedam sunt impedimen 
+   <lb ed="#B" n="24"/>ta sine quibus non constituitur sacramentum. talia ergo
+   di<lb ed="#B" n="25" break="no"/>rimunt matrimonium contractum: hoc est
+   ma<lb ed="#B" n="26" break="no"/>trimonium quod putatur inter homines contractum. 
+   <lb ed="#B" n="27"/>Matrimonium enim reuera contractum non potest: 
+   <lb ed="#B" n="28"/>dirimi. Alia sunt impedimenta quae impediunt 
+   <lb ed="#B" n="29"/>matrimonium contrahendum: &amp; non dirimunt
+   con<lb ed="#B" n="30" break="no"/>tractum. hoc est, peccant contrahentes &amp; male
+   fa<lb ed="#B" n="31" break="no"/>ciunt: matrimonium tamen tenet: vt post votum 
+   <lb ed="#B" n="32"/>simplex: post interdictum ecclesiae: &amp; in matrimo 
+   <lb ed="#B" n="33"/>nio clandestino: &amp; in temporibus prohibitis. Et ita 
+   <lb ed="#B" n="34"/>aliquae personae sunt illegitimae ad contrahendum ab 
+   <lb ed="#B" n="35"/>solute, quae simpliciter a matrimonio arcentur.
+   Ali<lb ed="#B" n="36" break="no"/>quae simpliciter legitimae: &amp; aliquae medio modo se 
+   <lb ed="#B" n="37"/>habent, neque legitimae plene &amp; perfecte, vt
+   vouen<lb ed="#B" n="38" break="no"/>tes: neque illegitimae complete. sunt tamen legitimae
+   perso<lb ed="#B" n="39" break="no"/>nae: vt legitimum opponatur in toto suo ambitu, 
+   <lb ed="#B" n="40"/>illegitimo. Aliquae item sunt illegitimae categorice 
+   <lb ed="#B" n="41"/>&amp; simpliciter: aliquae conditionaliter si partibus vel parti 
+   <lb ed="#B" n="42"/>displiceat: possunt tamen si velint sic persistere. 
+  </p>
+      <p xml:id="jMqv4a-d1e1517-d1e214">
+       <lb ed="#B" n="43"/>⁋ His praemissis pono aliquas
+   co<lb ed="#B" n="44" break="no"/>clusiones ad titulum quaestionis responsiuas: quarum 
+   <lb ed="#B" n="45"/>Prima est. Matrimonia habent diuersa impedimen 
+   <lb ed="#B" n="46"/>ta: ipsum contrahendum impedientia. Probatur 
+   <lb ed="#B" n="47"/>omnis effectus qui ex causis impedibilibus con 
+   <lb ed="#B" n="48"/>stituitur, potest impediri. matrimonium est
+   hu<lb ed="#B" n="49" break="no"/>iusmodi. igitur. minor patet, quia ex consensu
+   con<lb ed="#B" n="50" break="no"/>trahentium &amp; personis legitimis conflatur.
+  </p>
+      <p xml:id="jMqv4a-d1e1517-d1e235">
+   ⁋ Se 
+   <lb ed="#B" n="51"/>cunda conclusio. Impedimentum in viro perpe 
+   <lb ed="#B" n="52"/>tuum ante matrimonium, siue naturale, siue
+   ac<lb ed="#B" n="53" break="no"/>cidentale, ratione cuius non potest mulierem. co- 
+   <!--0600.xml-->
+   <cb ed="#B" n="b"/> 
+       <!-- 284-v b -->
+       <lb ed="#B" n="54"/>gnoscere, impedit matrimonium: si fuerit mulie 
+   <lb ed="#B" n="55"/>ri ignotum. Patet haec conclusio de frigid. &amp; ma 
+   <lb ed="#B" n="56"/>lefi. c. ii. &amp;. iii. Ratio conclusionis est, quia error im 
+   <lb ed="#B" n="57"/>pedit matrimonium: vt in distinct. xxx. diximus. 
+   <lb ed="#B" n="58"/>si enim sciret mulier / non contraheret cum tali. 
+  </p>
+      <p xml:id="jMqv4a-d1e1517-d1e261">
+       <lb ed="#B" n="59"/>⁋ Tertia conclusio, contrahens cum impotente 
+   <lb ed="#B" n="60"/>ad copulam sciens / vere contrahit. patet in. c. Con 
+   <lb ed="#B" n="61"/>sultationi. eiusdem titu. Ratio conclusionis est: quia 
+   <lb ed="#B" n="62"/>non est de essentia matrimonii carnalis copula. 
+   <lb ed="#B" n="63"/>vt longiuscule in. xxx. distinct. ostendimus.
+   er<lb ed="#B" n="64" break="no"/>go si personae inter se consenserint, licet vir sit
+   im<lb ed="#B" n="65" break="no"/>potens ad carnalem copulam / est verum
+   matrimo<lb ed="#B" n="66" break="no"/>nium: quia est consensus mutuus sufficienter ex 
+   <lb ed="#B" n="67"/>plicatus, nec ecclesia illegitimat personas illas ab 
+   <lb ed="#B" n="68"/>solute: sed solum si alter dissentiat.
+  </p>
+      <p xml:id="jMqv4a-d1e1517-d1e285">
+   ⁋ Quarta com 
+   <lb ed="#B" n="69"/>clusio. Arcta contrahens cum aliquo, cui absque 
+   <lb ed="#B" n="70"/>diuino miraculo auxilium dari non potest, vel si 
+   <lb ed="#B" n="71"/>ne corporis probabili periculo, non vere
+   con<lb ed="#B" n="72" break="no"/>trahit. patet in. c. Fraternitatis. eiusdem titu.
+   Ra<lb ed="#B" n="73" break="no"/>tio est: quia matrimonium ordinatur ad duo po 
+   <lb ed="#B" n="74"/>tissimum / in officium scilicet &amp; in remedium. neutrum 
+   <lb ed="#B" n="75"/>autem in hac haberi potest. cum enim non possit
+   co<lb ed="#B" n="76" break="no"/>gnosci: non erit generatio: nec potest viro esse re 
+   <lb ed="#B" n="77"/>medium contra incontinentiam. Rationabile 
+   <lb ed="#B" n="78"/>ergo erat mulierem reddere illegitimam, nisi vir 
+   <lb ed="#B" n="79"/>in eam consentiret. 
+  </p>
+      <p xml:id="jMqv4a-d1e1517-d1e311">
+       <lb ed="#B" n="80"/>⁋ Contra secundam conclusionem
+   ar<lb ed="#B" n="81" break="no"/>gumentor. Sequitur ex ea quod inter senes non sit matri 
+   <lb ed="#B" n="82"/>monium. consequens est falsum, vt patet. C. de nup. l.
+   Sanci<lb ed="#B" n="83" break="no"/>mus &amp;. xxvii. qui. i. Nuptiarum. Respondetur. nullo modo sequitur 
+   <lb ed="#B" n="84"/>nam licet vltra septuagesimum annum viri non generet 
+   <lb ed="#B" n="85"/>possunt tamen mulierem cognoscere: quamuis semen ab 
+   <lb ed="#B" n="86"/>eis diffusum ad geneationem non sufficiat. luuenes 
+   <lb ed="#B" n="87"/>nanque. xiiii. annos nati vere contrahunt supposi 
+   <lb ed="#B" n="88"/>to quod postea possint mulierem cognoscere:
+   alio<lb ed="#B" n="89" break="no"/>quin infirmi contrahentes non vere contraherent. 
+   <lb ed="#B" n="90"/>quod est falsum.
+  </p>
+      <p xml:id="jMqv4a-d1e1517-d1e337">
+   ⁋ Secundo arguitur. sequitur quod 
+   <lb ed="#B" n="91"/>fornicatio simplex in casu non sit peccatum. consequens 
+   <lb ed="#B" n="92"/>est falsum: ergo &amp; antecedens. Consequentiam probo. si sortes fri 
+   <lb ed="#B" n="93"/>gidus cohabitet cum Berta: &amp; in fine triennii, in quo po 
+   <lb ed="#B" n="94"/>test cum muliere cohabitare, vt patet in. c. Lauda 
+   <lb ed="#B" n="95"/>bilem. istius titu. videat se non posse mulierem
+   co<lb ed="#B" n="96" break="no"/>gnoscere: &amp; idem iudicet mulier: probabiliter
+   iudi<lb ed="#B" n="97" break="no"/>cat quod haec non est vxor eius: ergo eam cognoscens 
+   <lb ed="#B" n="98"/>quantum in se est, fornicatur vel fornicationi
+   proba<lb ed="#B" n="99" break="no"/>bilissime sese exponit. Et qui exponit se periculo 
+   <lb ed="#B" n="100"/>dubio peccati mortalis / mortaliter peccat, sicut expo 
+   <lb ed="#B" n="101"/>nens se periculo dubio de aliquo occidendo.
+  </p>
+      <p xml:id="jMqv4a-d1e1517-d1e363">
+   ⁋ Responde 
+   <lb ed="#B" n="102"/>tur negando sequalam: sed circa eam rem potest se habere 
+   <lb ed="#B" n="103"/>coniunx sic vt nullum sit peccatum: vel vt peccet. 
+   <lb ed="#B" n="104"/>si enim sit certus de frigiditate: &amp; coniunx non cosentiat 
+   <lb ed="#B" n="105"/>in frigidum, peccat. Vnde sicut Innocentius tertius 
+   <lb ed="#B" n="106"/>dicit in cap. Inquisitioni. de sen. excommu. et Lu 
+   <lb ed="#B" n="107"/>cius tertius in cap. Dominus. de secundis nuptiis. vel alter 
+   <!--0601.xml-->
+   <pb ed="#B" n="285-r"/>
+       <cb ed="#B" n="a"/>
+       <lb ed="#B" n="1"/>coniugum certo scit impedimentum coniugii: vel ha 
+   <lb ed="#B" n="2"/>bet conscientiam ex credulitate leui &amp; temeraria: vel 
+   <lb ed="#B" n="3"/>ex probabili &amp; discreta. Si primum: nec debet
+   redde<lb ed="#B" n="4" break="no"/>re debitum, nec petere. Si secundum: deponat illam 
+   <lb ed="#B" n="5"/>conscientiam secundum consilium sui pastoris. &amp; tunc tam 
+   <lb ed="#B" n="6"/>reddat quam petat. Si tertium: non exigat debitum, sed 
+   <lb ed="#B" n="7"/>reddat. In primo membro nulla est difficultas. In  
+   <lb ed="#B" n="8"/>secundo membro deponat conscientiam per
+   moti<lb ed="#B" n="9" break="no"/>ua in oppositum rationabiliora, &amp; secundum iudicium 
+   <lb ed="#B" n="10"/>prudentu cum quibus confert. nam stante iudicio de 
+   <lb ed="#B" n="11"/>opposito per suam conscientiam, non potest assentiri 
+   <lb ed="#B" n="12"/>iudicio prudentum: quia non potest habere iudicia 
+   <lb ed="#B" n="13"/>contraria. &amp; si suae particulari conscientiae contraue 
+   <lb ed="#B" n="14"/>niat etiam erroneae, peccat: sed sua conscientia euacua 
+   <lb ed="#B" n="15"/>ta, reddendo non peccat. vt patet ex tertio membro. 
+   <lb ed="#B" n="16"/>neque petendo: quia iam recte informatus assenti 
+   <lb ed="#B" n="17"/>tur esse verum matrimonium inter se &amp; Bertam. &amp; per 
+   <lb ed="#B" n="18"/>consequens licite more aliorum potest debitum petere. 
+   <lb ed="#B" n="19"/>Si aut habeat scrupulos leues: hoc est motiua ali 
+   <lb ed="#B" n="20"/>qua parui momenti quod non sit matrimonium:
+   assen<lb ed="#B" n="21" break="no"/>tiendo rationabiliter essc: matrimonium, potest ex 
+   <lb ed="#B" n="22"/>petere debitum &amp; reddere. habere enim scrupulos in 
+   <lb ed="#B" n="23"/>oppositum, non est opposito assentiri. nam assensus 
+   <lb ed="#B" n="24"/>oppositi contrariantur. iiii. Metaphysicae. Si vero 
+   <lb ed="#B" n="25"/>habeat probabiles rationes etiam aequilibres / potest 
+   <lb ed="#B" n="26"/>reddere debitum: non autem petere. ratio primi est: quia 
+   <lb ed="#B" n="27"/>probabile est esse matrimonium: pone quod sit
+   proble<lb ed="#B" n="28" break="no"/>ma neutrum: &amp; habet rationem quod reddendo debitum 
+   <lb ed="#B" n="29"/>peccet, eo quod non est matrimonium. habet etiam
+   ratio<lb ed="#B" n="30" break="no"/>nes tot &amp; tatae efficaciae in oppositum quod sit
+   matri<lb ed="#B" n="31" break="no"/>monium, &amp; quod non dando, peccaret. Et cu alter
+   con<lb ed="#B" n="32" break="no"/>iugum sit in possessione: lite pendente nihil debet 
+   <lb ed="#B" n="33"/>innouari: sed potest reddere debitum. Petere autem 
+   <lb ed="#B" n="34"/>debitum non potest. &amp; ratio est: quia non petendo non 
+   <lb ed="#B" n="35"/>peccat: illud membrum est certum: petendo autem
+   expo<lb ed="#B" n="36" break="no"/>nit se periculo peccati: cum non sit releuamen in op 
+   <lb ed="#B" n="37"/>positum, iuxta notata in secunda quaestione prologi. er 
+   <lb ed="#B" n="38"/>go non debet petere. Conformiter potest se habere 
+   <lb ed="#B" n="39"/>iste frigidus vel vxor eius peccando vel non pec 
+   <lb ed="#B" n="40"/>cando, secundum conscientiam &amp; moriua rationabilia quae  
+   <lb ed="#B" n="41"/>habet. nam potest habere iudicium quod sit matrimo 
+   <lb ed="#B" n="42"/>nium: &amp; quod non sit frigidus. &amp; sic eius coniunx. Et quam 
+   <lb ed="#B" n="43"/>uis sit frigidus, sic non peccat. forte enim placet eis 
+   <lb ed="#B" n="44"/>simul cchabitare non obstante frigiditate. Si vero 
+   <lb ed="#B" n="45"/>rationabiliter dubitet de matrimonio: patet solu 
+   <lb ed="#B" n="46"/>tio ex dictis cum alio membtro. Si ex stulta opinio 
+   <lb ed="#B" n="47"/>ne sua peccet, quid ad ac Quid dicitur de longa co 
+   <lb ed="#B" n="48"/>habitatione, pot ita impedimentum esse notum: vt po 
+   <lb ed="#B" n="49"/>teper aspectum aut quia non potest seminare in  
+   <lb ed="#B" n="50"/>vas debitum: vel quia ipsa est adhuc virgo: &amp; tunc 
+   <lb ed="#B" n="51"/>non diu simul cohabitabunt. si quis autem statim
+   re<lb ed="#B" n="52" break="no"/>clamet quando res est anceps: diutius simul coha 
+   <lb ed="#B" n="53"/>bitabunt: &amp; toto tempore dubitationis debitum red 
+   <lb ed="#B" n="54"/>dens quantum in se est non peccat: nec etiam petens: 
+   <lb ed="#B" n="55"/>dummodo habeat probabile motiuum quod possit mu 
+   <!--0601.xml-->
+   <cb ed="#B" n="b"/> 
+       <!-- 285-r b -->
+       <lb ed="#B" n="56"/>lierem cognoscere: quia nihil aliud ad verum
+   ma<lb ed="#B" n="57" break="no"/>trimonium requiritur. nam potest nescire quid sit mu 
+   <lb ed="#B" n="58"/>lierem cognoscere: &amp; facere potest in hora quod  
+   <lb ed="#B" n="59"/>non fecit in anno. 
+   <lb ed="#B" n="60"/>Vbitatur: cum hic de
+   mu<lb ed="#B" n="61" break="no"/>lierum sterilitate &amp; virorum frigiditate 
+   <lb ed="#B" n="62"/>tractetur: quid causae sit quare reges 
+   <lb ed="#B" n="63"/>&amp; principes rato habeant liberos. agri 
+   <lb ed="#B" n="64"/>colae autem &amp; plebei plurimos generent. Et
+   dubita<lb ed="#B" n="65" break="no"/>tionis ratio est. nam pauperes minus generationi 
+   <lb ed="#B" n="66"/>vacant: quare pauciores proles habere deberent. 
+   <lb ed="#B" n="67"/>In oppositum tamen est quotidiana experientia. 
+  </p>
+      <p xml:id="jMqv4a-d1e1517-d1e538">
+       <lb ed="#B" n="68"/>⁋ Respondetur. multiplex est ratio. Prima ob eorum 
+   <lb ed="#B" n="69"/>culpas. nam liberos non merentur in peccatorum poe 
+   <lb ed="#B" n="70"/>nam, secundum illud Psalmographi. Beati omnes qui ti 
+   <lb ed="#B" n="71"/>ment dominum: qui ambulant in viis eius. &amp; quae  
+   <lb ed="#B" n="72"/>sequuntur. Psal. cxxvii. Secunda ratio est naturalis. 
+   <lb ed="#B" n="73"/>nam excessiue coitui vacantes nec pariunt nec ge 
+   <lb ed="#B" n="74"/>nerant: vt euenit de mulieribus prostitutis: qua num 
+   <lb ed="#B" n="75"/>quam, cum se omnibus applicent, pariunt. Sed no est 
+   <lb ed="#B" n="76"/>idem omnino in viris &amp; mulietibus: in his enim 
+   <lb ed="#B" n="77"/>est seminum variorum forte contrariorum in matricem 
+   <lb ed="#B" n="78"/>coniectio: &amp; non sufficiens quies, non sic in viris. 
+   <lb ed="#B" n="79"/>Sed principes, &amp; crebro coeuntes non patiuntur 
+   <lb ed="#B" n="80"/>semen concoqui: sed aute concoctionem sufficientem 
+   <lb ed="#B" n="81"/>concumbunt: quare est inutile. Praeterea a crapula &amp; 
+   <lb ed="#B" n="82"/>excessiuo potu obruuntur, sic vt natura sit
+   prostra<lb ed="#B" n="83" break="no"/>ta: quare ad generationem sunt inepti. In ieiunio 
+   <lb ed="#B" n="84"/>namque aliqui plus polluuntur noctu in somno: qua 
+   <lb ed="#B" n="85"/>post splendi: iam coenam. Petrus Ebanensis Aristo 
+   <lb ed="#B" n="86"/>telem exponens quarta particula problematum dicit 
+   <lb ed="#B" n="87"/>se audiuisse quendam iuuenem ieiunantem duobus die 
+   <lb ed="#B" n="88"/>bus in hebdomada in pane &amp; aqua: dicentem se illo 
+   <lb ed="#B" n="89"/>tempore pollutiones nocturnas passum. Et Ari 
+   <lb ed="#B" n="90"/>stoteles tangens causam in problemate citato
+   di<lb ed="#B" n="91" break="no"/>cit. Foramina corporis, ieiuno sunt inaniora:
+   re<lb ed="#B" n="92" break="no"/>pleto autem plena habentur. itaque impediunt ne
+   hu<lb ed="#B" n="93" break="no"/>mor seminis genitalis valeat permeare. Adde quod 
+   <lb ed="#B" n="94"/>ex delicatioribus cibis, etsi superflue assumptis, 
+   <lb ed="#B" n="95"/>natura ad se multum trahit, ita vt non relinquatur
+   su<lb ed="#B" n="96" break="no"/>perfluum tertie digestionis. Mulieres etiam istae delica 
+   <lb ed="#B" n="97"/>tae sunt ociosae: &amp; humidiores excessiue fiunt. Edi 
+   <lb ed="#B" n="98"/>uerso autem in pauperibus contingit. nam exercitantur 
+   <lb ed="#B" n="99"/>in laboribus tam domi quam foris in agris. propteraea 
+   <lb ed="#B" n="100"/>minus pingues &amp; humidae sunt quam foeminae
+   diui<lb ed="#B" n="101" break="no"/>tes. insuper comunibus &amp; minime exquisitis vescun 
+   <lb ed="#B" n="102"/>tur cibariis: &amp; temperate ac raro rei venereae dant 
+   <lb ed="#B" n="103"/>operam: quapropter crebrius pariunt.
+  </p>
+      <p xml:id="jMqv4a-d1e1517-d1e619">
+   ⁋ Ecce quo 
+   <lb ed="#B" n="104"/>modo ex parte frigiditatis viri &amp; arctitudine
+   mu<lb ed="#B" n="105" break="no"/>ieris cui per artem subueniti non potest sine
+   corpo<lb ed="#B" n="106" break="no"/>ris discrimine, impedimentum redditur: si partium 
+   <lb ed="#B" n="107"/>alteri placeat. possunt tamen si velint, matrimonium 
+   <lb ed="#B" n="108"/>inter se contrahere. Sterilitas autem foeminae dummo 
+   <lb ed="#B" n="109"/>do cognosci possit non est impedimentum. quare ob 
+   <!--0602.xml-->
+   <pb ed="#B" n="285-v"/>
+       <cb ed="#B" n="a"/>
+       <lb ed="#B" n="1"/>sterilitatem mulier dummodo ipsa tempore
+   matrimo<lb ed="#B" n="2" break="no"/>nii cognosci possit, non est a viro remouenda, nec 
+   <lb ed="#B" n="3"/>in hoc Romanus pontifex dispensare potest. Fodem 
+   <lb ed="#B" n="4"/>modo si vir possit muliere cognoscere tempore 
+   <lb ed="#B" n="5"/>matrimonii, licet post matrimonium non possit: sed 
+   <lb ed="#B" n="6"/>fiat impotens etiam ante carnalem copulam: manet ma 
+   <lb ed="#B" n="7"/>trimonium: nec vxor potest alium maritum habere nis 
+   <lb ed="#B" n="8"/>pse religionem profiteatur. Si vero putatus frigidus 
+   <lb ed="#B" n="9"/>a muliere separetur, &amp; contrahat cu alia: cogetur ad 
+   <lb ed="#B" n="10"/>priorem redire. nam verum erat matrimonium: &amp; nullum 
+   <lb ed="#B" n="11"/>impedimentum, sed solum putatum. Et patet illd. xxxiii. 
+   <lb ed="#B" n="12"/>qui. i. c. Quod autem interrogasti. Si quis autem sit impotens 
+   <lb ed="#B" n="13"/>cognoscere Bertam: &amp; possit cognoscere Tebergam 
+   <lb ed="#B" n="14"/>potest cum Teberga contrahere &amp; non cum Berta, quam 
+   <lb ed="#B" n="15"/>nullo modo potest cognoscere, quemadmodum si quis 
+   <lb ed="#B" n="16"/>nullam mulierem possit cognoscere, cum nulla contra: 
+   <lb ed="#B" n="17"/>hit nisi aliqua velit. &amp; potens quancumque mulierem
+   co<lb ed="#B" n="18" break="no"/>gnoscere cum qualibet contrahere potest si aliud non 
+   <lb ed="#B" n="19"/>obstet. Si Berta quae contraxit cum Sorte, quam ipse co 
+   <lb ed="#B" n="20"/>gnoscere non potest, separato matrimonio cogno 
+   <lb ed="#B" n="21"/>scatur a Platone: &amp; forte propter vsum carnis potes 
+   <lb ed="#B" n="22"/>a Sorte cognosci: quid facto opus sit, &amp; aliis eius 
+   <lb ed="#B" n="23"/>modi, non insisto: nec vtile censui.
+  </p>
+      <p xml:id="jMqv4a-d1e1517-d1e691">
+   ⁋ In dubitatio 
+   <lb ed="#B" n="24"/>ne tetigimus varias causas habendae prolis: quarum 
+   <lb ed="#B" n="25"/>praecipua est, bene viuere in mandatis dei. hoc enim 
+   <lb ed="#B" n="26"/>maximopere cupiens sobolem &amp; se. perpetuare in so 
+   <lb ed="#B" n="27"/>bole, exequi studebit: quia forte deus eum vel eam
+   so<lb ed="#B" n="28" break="no"/>bole habeda frustratur op eius meritum. Secundo ob 
+   <lb ed="#B" n="29"/>est quod nimis rei venereae coniunx dat operam
+   extem<lb ed="#B" n="30" break="no"/>siue cum pluribus, vel intensiue cum suo vel sua. Ter 
+   <lb ed="#B" n="31"/>tio quod non temperate viuit, nec laborat. 
+  </p>
+    </div>
+   </body>
+  </text>
+</TEI>

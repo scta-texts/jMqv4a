@@ -1,0 +1,499 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 28</title>
+      <author ref="#JohnMair">John Mair</author>
+      <respStmt>
+       <name>Jeffrey C. Witt</name>
+       <resp>TEI Encoder</resp>
+      </respStmt>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 28</title>
+       <date when="2020-06-09">June 27, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="B" n="cod-Bda113">Badius 1516</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+     guidelines for a diplomatic edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-06-27" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+      <pb ed="#B" n="130-r"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="jMqv4a-d1e696"> <!-- l4d15q28 -->
+      <head xml:id="jMqv4a-d1e696-Hd1e104">Quaestio 28</head>
+      <head xml:id="jMqv4a-d1e696-Hd1e107" type="question-title">Utrum sicut quilibet damnum vicino praestans 
+  tenetur illud damnum vicino praestans 
+  tenetur illud damnum resarcire: sic quilibet 
+  alienum detinens teneatur illud domino reddere 
+  sub poena peccati</head>
+      <p xml:id="jMqv4a-d1e696-d1e110">
+   <!--0291.xml-->
+       <cb ed="#B" n="b"/> 
+       <!-- 130-r b -->
+       <lb ed="#B" n="54"/>Bsoluta materia fur 
+   <lb ed="#B" n="55"/>ti proprie dicti, priusquam ad vsu 
+   <lb ed="#B" n="56"/>ras transeam, dicam nonihil de 
+   <lb ed="#B" n="57"/>restitutione in vniuersali. Et 
+   <lb ed="#B" n="58"/>vt multa paucis verbis
+   con<lb ed="#B" n="59" break="no"/>plectamur: quaeritur titulus 
+   <lb ed="#B" n="60"/>quaestionis in hoc verborum te 
+   <lb ed="#B" n="61"/>nore. Vtrum sicut quilibet damnum vicino praestans te 
+   <lb ed="#B" n="62"/>netur illud damnum resarcire: sic quilibet alienum 
+   <lb ed="#B" n="63"/>detinens teneatur illud domimno reddere sub poena peccati- 
+  </p>
+      <p xml:id="jMqv4a-d1e696-d1e141">
+       <lb ed="#B" n="64"/>⁋ Respondetur ad quaestionem per vnicam conclusionem 
+   <lb ed="#B" n="65"/>affirmatiuam pro vtraque parte. Prior pars patet. de in  
+   <lb ed="#B" n="66"/>iuriis &amp; dam. dato. c. vltimo. vbi scribitur. Si culpa 
+   <lb ed="#B" n="67"/>tua datum est damnum vel iniuria irrogata seu aliis in 
+   <lb ed="#B" n="68"/>rogantibus opem forte tulisti: aut haec imperitia tua 
+   <lb ed="#B" n="69"/>siue negligentia euenerint: iure super his satisfacere 
+   <lb ed="#B" n="70"/>te oportet: nec ignorantia te excusat si scire debui 
+   <lb ed="#B" n="71"/>sti ex facto tuo iniuriam posse contingere vel
+   inacturan<lb ed="#B" n="72" break="no"/>Et exodi. xxi. Si quis aperuerit cisternam &amp; foderit, 
+   <lb ed="#B" n="73"/>&amp; non operuerit eam: cecideritque bos aut asinus in eam: 
+   <lb ed="#B" n="74"/>reddet dominus cisternae precium iumentorum. hoc illic &amp; in  
+   <lb ed="#B" n="75"/>c. xxii. ad longum videas. Alia pars patet. quia non 
+   <lb ed="#B" n="76"/>reddens facit furtum. Vnde beatus <name xml:id="jMqv4a-d1e696-Nd1e171" ref="#Augustine">Augustinus</name> in  
+   <lb ed="#B" n="77"/>quaestionibus Exodi, &amp; recitatur. xiiii. qui. v. ca. Poe 
+   <lb ed="#B" n="78"/>nale. Furti enim nomine bene intelligitur omnis illicita 
+   <lb ed="#B" n="79"/>vsurpatio rei alienae, non enim rapinam permisit qui furtum 
+   <lb ed="#B" n="80"/>prohibuit. Et. qui. vi. eiusdem causae. c. ii. ex eodem diuo 
+   <lb ed="#B" n="81"/>Augustino in epistola ad Macedonium sic scribitur 
+   <lb ed="#B" n="82"/>Si res aliena propter quam peccatum est reddi possit 
+   <lb ed="#B" n="83"/>&amp; non redditur: poenitentia non agitur sed simulatur. 
+   <lb ed="#B" n="84"/>Quilibet autem talis contra iustitia &amp; fraternam chari 
+   <lb ed="#B" n="85"/>tatem peccat. 
+  </p>
+      <p xml:id="jMqv4a-d1e696-d1e195">
+       <lb ed="#B" n="86"/>⁋ Ex hac conclusione corollaria
+   infe<lb ed="#B" n="87" break="no"/>ro. Primum. qui non soluit debitum pro tempore &amp; loco, inui 
+   <lb ed="#B" n="88"/>to domino: &amp; est soluendo: peccat. Patet. quia facit
+   fur<lb ed="#B" n="89" break="no"/>tum: &amp; iniuriam etiam facit proximo: cum alienum inuito 
+   <lb ed="#B" n="90"/>dmino detineat. Probatur etia per Apostolum ad Rom. xiii. 
+   <lb ed="#B" n="91"/>Nemini quicquam debeatis: cui vectigal vectigal &amp;c. 
+   <lb ed="#B" n="92"/>Dixi soluendo: quia si debitor esset positus in illa
+   ino<lb ed="#B" n="93" break="no"/>pia qua creditor teneretur ei mutuo dare vel
+   dona<lb ed="#B" n="94" break="no"/>re: protunc non teneretur in foro animae soluere debitum.
+  </p>
+      <p xml:id="jMqv4a-d1e696-d1e217">
+   ⁋ Et 
+   <lb ed="#B" n="95"/>ex illo sequitur aliud corollarium: quod multi sunt damna 
+   <lb ed="#B" n="96"/>ti non soluentes debitum &amp; de hoc non facientes conscien 
+   <lb ed="#B" n="97"/>tiam: credentes illud eis licere, nisi convincantur in strepi 
+   <lb ed="#B" n="98"/>tu forensi.
+  </p>
+      <p xml:id="jMqv4a-d1e696-d1e228">
+   ⁋ Tertio sequitur quod debitor tenetur satis 
+   <lb ed="#B" n="99"/>facere creditori de expensis iustis quas facit pro ha 
+   <lb ed="#B" n="100"/>benda solutione quam debet ei, quia enim debitor non 
+   <lb ed="#B" n="101"/>soluit tempore &amp; loco, dat canm damni creditori: &amp; tenetur 
+   <lb ed="#B" n="102"/>eum ab hoc releuare.
+  </p>
+      <p xml:id="jMqv4a-d1e696-d1e239">
+   ⁋ Quarto sequitur quod idem est quo 
+   <lb ed="#B" n="103"/>ad detentionem iniustam mutuatae pecuniae &amp; similis pecu 
+   <lb ed="#B" n="104"/>niae furto subtractae: licet furtum habuerit inhonestam 
+   <!--0292.xml-->
+   <pb ed="#B" n="130-v"/>
+       <cb ed="#B" n="a"/>
+       <lb ed="#B" n="1"/>priginem: mutuum autem initium honestum &amp; amicum.
+  </p>
+      <p xml:id="jMqv4a-d1e696-d1e255">
+   ⁋ Qui 
+   <lb ed="#B" n="2"/>to sequitur. quod diues potens sine iactura statim
+   solue<lb ed="#B" n="3" break="no"/>re totum: sed non volens: sed solum partem in praesenti: &amp; 
+   <lb ed="#B" n="4"/>successiue reliquam partem per varios terminos inuito 
+   <lb ed="#B" n="5"/>domino: non est in statu salutis. Hoc corollarium probat di 
+   <lb ed="#B" n="6"/>ctum <name xml:id="jMqv4a-d1e696-Nd1e268" ref="#Augustine">Augustini</name> modo allegatum in cap. Si res
+   alie<lb ed="#B" n="7" break="no"/>na propter quam peccatum est reddi possit, &amp; non redditur 
+   <lb ed="#B" n="8"/>poenitentia non agitur sed fimulat.
+  </p>
+      <p xml:id="jMqv4a-d1e696-d1e276">
+   ⁋ Sexto ex hoc 
+   <lb ed="#B" n="9"/>sequitur: quod illi de quibus est mentio, nolentes
+   efficaci<lb ed="#B" n="10" break="no"/>ter soluere pro tempore &amp; loco: non sunt absoluendi probatur. 
+   <lb ed="#B" n="11"/>nullus manens in mortali peccato est absoluedus: 
+   <lb ed="#B" n="12"/>quilibet istorum est huiusmodi. igitur.
+  </p>
+      <p xml:id="jMqv4a-d1e696-d1e288">
+   ⁋ Septimo
+   se<lb ed="#B" n="13" break="no"/>quitur: quod si soluere possit &amp; dominus det dilationem 
+   <lb ed="#B" n="14"/>soluendi: non peccat no soluendo: quia tunc non tenet 
+   <lb ed="#B" n="15"/>alienum inuito domimno.
+  </p>
+      <p xml:id="jMqv4a-d1e696-d1e297">
+   ⁋ Octauo sequitur. si debitor non 
+   <lb ed="#B" n="16"/>possit soluere nisi vendendo instrumenta suae artis 
+   <lb ed="#B" n="17"/>quibus se, liberos, &amp; famulos nutrit: non tenetur protunc 
+   <lb ed="#B" n="18"/>soluere quamuis dominus contradicat. Ratio est: quia creditor 
+   <lb ed="#B" n="19"/>tunc tenetur velle non capere cum hac circumstantia, &amp; 
+   <lb ed="#B" n="20"/>dare ei mutuo vel dono potius quam instrumenta ven 
+   <lb ed="#B" n="21"/>dat. Et si dicas creditor non tenetur dare ei mutuo 
+   <lb ed="#B" n="22"/>plusquam alius. Quicquid sit de illo: cum pecuniam credito 
+   <lb ed="#B" n="23"/>ris habet non tenetur soluere protunc: sed sufficit ha 
+   <lb ed="#B" n="24"/>bere propositum satisfaciendi loco &amp; tempore. Etiam 
+   <lb ed="#B" n="25"/>vbi debitor incurreret grauem iacturam statim soluen 
+   <lb ed="#B" n="26"/>do: &amp; creditor est diues ex dilatione nullam faciens 
+   <lb ed="#B" n="27"/>iacturam: non est necesse protunc soluere. at si
+   am<lb ed="#B" n="28" break="no"/>bo pecunia bene egeant, tam creditor quam debitor: 
+   <lb ed="#B" n="29"/>tunc debitor tenetur soluere. &amp; quamuis iacturam
+   incur<lb ed="#B" n="30" break="no"/>rat: non debet incommodum suum euitare cum
+   incommo<lb ed="#B" n="31" break="no"/>do alieno. Similiter cum creditor est in tanta pressu 
+   <lb ed="#B" n="32"/>ra constitutus quanta debitor: &amp; debitum duplici 
+   <lb ed="#B" n="33"/>iure debet habere: debitor tenetur soluere:
+   potissi<lb ed="#B" n="34" break="no"/>mum cum non sunt in extrema necessitate: in qua si 
+   <lb ed="#B" n="35"/>ambo essent: non est improbabile quod protunc non
+   te<lb ed="#B" n="36" break="no"/>netur soluere: licet oppositum sit probabile iuxta
+   di<lb ed="#B" n="37" break="no"/>cta in materia de eleemosyna.
+  </p>
+      <p xml:id="jMqv4a-d1e696-d1e347">
+   ⁋ Secundo
+   princi<lb ed="#B" n="38" break="no"/>paliter infero quod tenens inuentum quando non est
+   ve<lb ed="#B" n="39" break="no"/>rosimile ipsum haberi pro derelicto, &amp; non restituens 
+   <lb ed="#B" n="40"/>vero domino cognito peccat. Probatur: quia detinet alie 
+   <lb ed="#B" n="41"/>num clanculum: ergo facit furtum. vnde
+   Augusti<lb ed="#B" n="42" break="no"/>nus in quadam Homilia: &amp; recitatur. xiiii. qui. v. Si 
+   <lb ed="#B" n="43"/>quid (ait) inuenisti &amp; non reddidisti: rapuisti: quitum
+   po<lb ed="#B" n="44" break="no"/>tuisti fecisti: quia plus non inuenisti, ideo plus non 
+   <lb ed="#B" n="45"/>rapuisti. Sed quando inuentor ignorat cuius sit:
+   de<lb ed="#B" n="46" break="no"/>bet facere explorationem sono campanae per vrbem / 
+   <lb ed="#B" n="47"/>vel in templo vel per schedulas in viarum compitis
+   affi<lb ed="#B" n="48" break="no"/>xas: occultando aliqua signa rei inuentae per quae 
+   <lb ed="#B" n="49"/>apprehendetur verus dominus &amp; non alius. alioquin  
+   <lb ed="#B" n="50"/>pro re inuenta multos haberet dominos. sed vero 
+   <lb ed="#B" n="51"/>domino inuento: rem ei restituere debet. quod si non  
+   <lb ed="#B" n="52"/>inueniatur: pauperibus erogabitur. &amp; si postea do 
+   <lb ed="#B" n="53"/>minus aduentauerit: nihil ei dabitur: quia pecunia 
+   <lb ed="#B" n="54"/>vel res alia est iam expensa pro ipso: sed contentus 
+   <lb ed="#B" n="55"/>manebit: &amp; in hoc merebitur. Si vero inueniatur 
+   <!--0292.xml-->
+   <cb ed="#B" n="b"/> 
+       <!-- 130-v b -->
+       <lb ed="#B" n="56"/>dominus multum abesse: &amp; tota pecunia vel ferme 
+   <lb ed="#B" n="57"/>tota exponeretur antequam posset eam habere per
+   ta<lb ed="#B" n="58" break="no"/>bellarium: non est restituenda quousque habita fuerit 
+   <lb ed="#B" n="59"/>opportunitas: ne expendatur pecunia pro opera
+   nun<lb ed="#B" n="60" break="no"/>cii. &amp; si nunqui offeratur nuncius: num quam restituetur illi: 
+   <lb ed="#B" n="61"/>sed dabitur pauperibus: &amp; debet dominus rei id velle. vt 
+   <lb ed="#B" n="62"/>si inuenta sint viginti scuta solum: &amp; tantum dare 
+   <lb ed="#B" n="63"/>oporteat nuncio vel. xix. cum semis: hoc nollet dominus 
+   <lb ed="#B" n="64"/>rei sed potius vellet dari in pios vsus. Si autem do 
+   <lb ed="#B" n="65"/>minus rei sit mortuus: fiat restitutio proximo haeredi. 
+   <lb ed="#B" n="66"/>Si vero sit verosimile quod inuentum habeatur pro
+   de<lb ed="#B" n="67" break="no"/>relicto: tunc primo occupanti conceditur: vt
+   quan<lb ed="#B" n="68" break="no"/>do liber proiicitur in mare apertus. In hoc autem 
+   <lb ed="#B" n="69"/>corollario loquutus sum de re inuenta quae de pro 
+   <lb ed="#B" n="70"/>pinquo erat in alterius dominio. Dico quae de 
+   <lb ed="#B" n="71"/>propinquo erat in alterius dominio) quia illa quae 
+   <lb ed="#B" n="72"/>in nullius potestate vnquam erant: occupanti concedu 
+   <lb ed="#B" n="73"/>tur de iure naturae. Instit. de re. diui. S. Ferae. Sed de 
+   <lb ed="#B" n="74"/>his quae fuerunt interdum in alicuius potestate sed ab 
+   <lb ed="#B" n="75"/>antiquo: vt sunt thesauri inuenti, quam cuius sunt ne 
+   <lb ed="#B" n="76"/>scitur: vtpote est alia moneta vel alius vsus vaso 
+   <lb ed="#B" n="77"/>rum quam sit in diebus nostris: est dubium. Et quantum ad  
+   <lb ed="#B" n="78"/>hoc dicitur quod si reperiatur thesaurus in solo proprio: fit 
+   <lb ed="#B" n="79"/>occupantis. vt patet per parabolam euangelicam Mat 
+   <lb ed="#B" n="80"/>thaei. xiii. Idem est autem siue inueniatur in loco sacro 
+   <lb ed="#B" n="81"/>siue religioso / casu fortuito. Instit. de terum diui. S. 
+   <lb ed="#B" n="82"/>Thesauros. At siquis in alieno loco non data ad hoc 
+   <lb ed="#B" n="83"/>opera, sed fortuito inuenerit: dimidium domimno soli con 
+   <lb ed="#B" n="84"/>cessit: &amp; dimidium inuentori. Si vero inuenit data 
+   <lb ed="#B" n="85"/>ad hoc opera: totus thesaurus efficitur domini agri: nisi 
+   <lb ed="#B" n="86"/>consuetudo aliud habeat de opposito. Ista enim sunt 
+   <lb ed="#B" n="87"/>de iure humano: &amp; per consequens mutabilia per consue 
+   <lb ed="#B" n="88"/>tudinem.
+  </p>
+      <p xml:id="jMqv4a-d1e696-d1e467">
+   ⁋ Ex isto iterum sequitur. quod si aliquid e plaustro 
+   <lb ed="#B" n="89"/>cadat &amp; aliquis hoc capiat aio detinendi: furtum commit 
+   <lb ed="#B" n="90"/>tit.
+  </p>
+      <p xml:id="jMqv4a-d1e696-d1e474">
+   ⁋ Secundo sequitur: quod si mercator merces
+   proii<lb ed="#B" n="91" break="no"/>ciat in mare gratia exonerandae nauis: illas inueniens 
+   <lb ed="#B" n="92"/>debet easdem mercatori restituere quamprimum eas
+   repe<lb ed="#B" n="93" break="no"/>tiuerit: quia tunc manifestum est signum quod non erant
+   de<lb ed="#B" n="94" break="no"/>relictae.
+  </p>
+      <p xml:id="jMqv4a-d1e696-d1e485">
+   ⁋ Tertio sequitur. quod graue est peccatum aufer 
+   <lb ed="#B" n="95"/>re animo detinendi bona fideliu mercatorum quando nauis 
+   <lb ed="#B" n="96"/>rangitur, &amp; bona per ebullitionem maris eijciuntur ad  
+   <lb ed="#B" n="97"/>littus. Nam aufertur illic alienum inuito domimno. lstud patet 
+   <lb ed="#B" n="98"/>citur. ad Rho. de iact. l. Deprecatio. &amp; praeter hoc aggra 
+   <lb ed="#B" n="99"/>uatur peccatum: quia afflicto datur noua afflictio:
+   mul<lb ed="#B" n="100" break="no"/>ta bona pereunt: laborat in periculo vitae mercator 
+   <lb ed="#B" n="101"/>pro vtilitate reipublicae insudans: cui ex pietate
+   suc<lb ed="#B" n="102" break="no"/>currendum est: quare graue est peccatum naufragorum 
+   <lb ed="#B" n="103"/>bona detinere. Nec potest esse consuetudo vel praescri 
+   <lb ed="#B" n="104"/>ptio auferendi has res: sed est diabolica &amp; auara
+   ra<lb ed="#B" n="105" break="no"/>pina excogitata contra ius gentium &amp; omnem
+   aequi<lb ed="#B" n="106" break="no"/>tatem naturalem Quis rex (dic o auare qui ei consulis 
+   <lb ed="#B" n="107"/>in tuam &amp; illius perniciem, potest legem constituere quod bona 
+   <lb ed="#B" n="108"/>fractarum nauium in mari sint cuiusuis domini plusquam 
+   <lb ed="#B" n="109"/>integrarum: Haec vero bona tenens est excommunicatus 
+   <lb ed="#B" n="110"/>nisi protinus ea restituat. de rapto. c. Excommunicationi. 
+   <!--0293.xml-->
+   <pb ed="#B" n="131-r"/>
+       <cb ed="#B" n="a"/>
+       <lb ed="#B" n="1"/>nec domini commorantes in littore possunt aliquid
+   acci<lb ed="#B" n="2" break="no"/>pere a mercatoribus vt impediant horum bonorum 
+   <lb ed="#B" n="3"/>ablationem ab aliis: sed ablatum a mercatoribus tenem 
+   <lb ed="#B" n="4"/>tur eisdem reddere.
+  </p>
+      <p xml:id="jMqv4a-d1e696-d1e538">
+   ⁋ Tertio principaliter infero 
+   <lb ed="#B" n="5"/>quod tenens columbarium in loco in quo non habe 
+   <lb ed="#B" n="6"/>agros ad pascendas suas columbas, sine consensu 
+   <lb ed="#B" n="7"/>eorum ad quos spectant agri, peccat &amp; inique facit 
+   <lb ed="#B" n="8"/>ac ad restitutionem damni tenetur. Probatur. quia pascit 
+   <lb ed="#B" n="9"/>columbas suas in agris alienis inuito dmo. Non  
+   <lb ed="#B" n="10"/>valet quod alii dicunt: stercorant &amp; impinguant
+   ter<lb ed="#B" n="11" break="no"/>ram: sic vt valor impinguationis terrae tatum valeat 
+   <lb ed="#B" n="12"/>dominis agrorum quantum grana ablata. In primis 
+   <lb ed="#B" n="13"/>hoc non est verosimile. Secundo contingit frequenter 
+   <lb ed="#B" n="14"/>terram esse nimis pinguem: cui columbae essent inutiles. 
+   <lb ed="#B" n="15"/>Nec valet dicere. auferunt solum malas haerbas: cre 
+   <lb ed="#B" n="16"/>bro enim bonae haerbae in earum stomacho &amp; gutture 
+   <lb ed="#B" n="17"/>inueniuntur. Licet autem sit reipublicae vtile habere co 
+   <lb ed="#B" n="18"/>lumbas &amp; feras: non tamen debes eas alere cum
+   iactu<lb ed="#B" n="19" break="no"/>ra vicini tui. Si vero duo vicini teneant duo colum 
+   <lb ed="#B" n="20"/>baria vicina: sic scilicet vt tantum columbae vnius
+   ab<lb ed="#B" n="21" break="no"/>sumant e satis aut segetibus alterius quantum e di 
+   <lb ed="#B" n="22"/>uerso: hoc aequum est: quia est compensatio mutua, &amp; 
+   <lb ed="#B" n="23"/>ipsi de hoc conveniunt. Si domus hospitales, quae 
+   <lb ed="#B" n="24"/>pauperes: aut aegrotos excipiunt: columbas
+   nu<lb ed="#B" n="25" break="no"/>triant: modo vicini non contradicant: praesumitur comn 
+   <lb ed="#B" n="26"/>sensus sufficiens. Sed quando tyrannus vel proteruus 
+   <lb ed="#B" n="27"/>potens tenet columbarium cuius columbae pascuntur in 
+   <lb ed="#B" n="28"/>agris subditorum non audentium contradicere ne mai 
+   <lb ed="#B" n="29"/>incurrant incommodum: non est securus in conscientia 
+   <lb ed="#B" n="30"/>cum virtualiter possit coniectura cognoscere quod libere 
+   <lb ed="#B" n="31"/>non consentiant. Fodem dicatur modo de ceruis / cuniculis 
+   <lb ed="#B" n="32"/>&amp; aliis feris quas alii potentes sustinent inter paupe 
+   <lb ed="#B" n="33"/>res. De apibus autem non est nocumentum: quia ad 
+   <lb ed="#B" n="34"/>haerbas pratorum &amp; camporum volant &amp; modicu
+   aufe<lb ed="#B" n="35" break="no"/>runt.
+  </p>
+      <p xml:id="jMqv4a-d1e696-d1e608">
+   ⁋ Quarto infertur quod non est securus in con 
+   <lb ed="#B" n="36"/>scientia qui bonis cessit: dumodo possit satisface 
+   <lb ed="#B" n="37"/>re. quamuis enim lex prohibeat talibus inferre iacturan: 
+   <lb ed="#B" n="38"/>tamen si possint commode soluere in parte vel in
+   to<lb ed="#B" n="39" break="no"/>to: ad hoc tenentur, non tamen sunt astricti
+   instru<lb ed="#B" n="40" break="no"/>menta suae artis vendere: sed possunt eis vti,
+   suc<lb ed="#B" n="41" break="no"/>cessiue lucrando vt creditoribus soluant: quia tunc 
+   <lb ed="#B" n="42"/>vtiliter gerunt negocia suorum creditorum.
+  </p>
+      <p xml:id="jMqv4a-d1e696-d1e626">
+   ⁋ Quinto 
+   <lb ed="#B" n="43"/>infertur quod aduocati procuratores &amp; huiusmodi sustinentes 
+   <lb ed="#B" n="44"/>falsas causas cognitas tales vel quaes cognoscere te 
+   <lb ed="#B" n="45"/>nentur, in praeiudicium alterius partis, tenentur ad restitutionem 
+   <lb ed="#B" n="46"/>damni quod alii aduocatorum calliditate &amp; astutiis incui 
+   <lb ed="#B" n="47"/>runt siue in diuturna causarum protractione siue cause per 
+   <lb ed="#B" n="48"/>ditione. Et si forte diligentia debita in principio
+   adhi<lb ed="#B" n="49" break="no"/>bita non cognoscat patronus falsitatem causae
+   clien<lb ed="#B" n="50" break="no"/>tis sui: cum tamen litigando percipit falsitatem causae:
+   te<lb ed="#B" n="51" break="no"/>netur non amplius litigare: &amp; hoc clienti aperire. Ex 
+   <lb ed="#B" n="52"/>quo patet quod aduocati duarum partium oppositarum l 
+   <lb ed="#B" n="53"/>tem protrahentes peccant. Secundo sequitur quod male 
+   <lb ed="#B" n="54"/>facit aduocatus consulens clientulo suo prosequi 
+   <lb ed="#B" n="55"/>causam suam quam scit esse iniustam: clientem tamen 
+   <!--0293.xml-->
+   <cb ed="#B" n="b"/> 
+       <!-- 131-r b -->
+       <lb ed="#B" n="56"/>animat, dicendo ei: litigando crescit ius tuum: vi 
+   <lb ed="#B" n="57"/>interea eius pecuniam exhauriat. Tertio sequitur quod 
+   <lb ed="#B" n="58"/>volens iuste artem illam exercere debet pensicula 
+   <lb ed="#B" n="59"/>te causam clientis discutere ab initio: &amp; si eam
+   iniu<lb ed="#B" n="60" break="no"/>stam cognouerit ex clientis relatione: peccat se im 
+   <lb ed="#B" n="61"/>miscendo vt iniustum tueatur in partis oppositae
+   per<lb ed="#B" n="62" break="no"/>niciem. &amp; si cliens non allegat motiua contra se sed
+   il<lb ed="#B" n="63" break="no"/>la occultat animum dans patrono: veritate cognita 
+   <lb ed="#B" n="64"/>tenetur desistere aduocatus. Quarto sequitur, quod 
+   <lb ed="#B" n="65"/>status aduocatorum communium est multum
+   periculo<lb ed="#B" n="66" break="no"/>sus. hinc dicterium commune in lucem abiit. Raro 
+   <lb ed="#B" n="67"/>aduocatos sanctos habes. Idem est in iudice cuius 
+   <lb ed="#B" n="68"/>administratio est periculosa: praesertim propter mune 
+   <lb ed="#B" n="69"/>ra &amp; amicos a quibus plerumque corrumpitur. si enim iudex 
+   <lb ed="#B" n="70"/>sit auarus &amp; ambitiosus: non prudenter agit tenendo  
+   <lb ed="#B" n="71"/>officium: potest tamen bene viuere: &amp; multum merebitur iustitiam 
+   <lb ed="#B" n="72"/>exequendo.
+  </p>
+      <p xml:id="jMqv4a-d1e696-d1e700">
+   ⁋ Sexto principaliter infertur quod adu 
+   <lb ed="#B" n="73"/>terans monetam peccat &amp; ad restitutionem tenetur ia 
+   <lb ed="#B" n="74"/>cturae quam reipublicae vel personae priuatae affert.
+   mo<lb ed="#B" n="75" break="no"/>neta aut adulteratur trifaria: in forma / materia &amp; pon 
+   <lb ed="#B" n="76"/>dere. Potest autem princeps peccare multum in moneta: 
+   <lb ed="#B" n="77"/>vt quando valentem reprobat, &amp; minus valentem probat 
+   <lb ed="#B" n="78"/>vt reprobatam habeat: quam postea cudi facit: &amp;
+   au<lb ed="#B" n="79" break="no"/>rum certum haberi vili precio, &amp; argentum magno:  
+   <lb ed="#B" n="80"/>postea colligit aurum, &amp; aliam monetam auri minoren 
+   <lb ed="#B" n="81"/>priori fabricat: &amp; ita decipit totum populum,
+   quemad<lb ed="#B" n="82" break="no"/>modum si emeret totum triticum vili precio &amp; postea 
+   <lb ed="#B" n="83"/>venderet care. Non enim debet rex mutare pecuniam 
+   <lb ed="#B" n="84"/>nisi sit adulterina vel ob vicinitatem adulterinae
+   su<lb ed="#B" n="85" break="no"/>specta: ita vt a populo discerni nequaat: vel vetustate 
+   <lb ed="#B" n="86"/>consumpta. Caueat etiam ne valor pecuniae nimis 
+   <lb ed="#B" n="87"/>increscat: aut nimis decrescat: sed secundum est pe 
+   <lb ed="#B" n="88"/>ius. ratio est: quia tunc nullus lucratur: &amp; multi
+   per<lb ed="#B" n="89" break="no"/>dunt. Si vero antiquam pecuniam destruat: suum non 
+   <lb ed="#B" n="90"/>men nouae imponendo non gratia lucri habendi sed 
+   <lb ed="#B" n="91"/>memoriae habendae in populo: illa gloria est caduca 
+   <lb ed="#B" n="92"/>&amp; vana: &amp; praedecessoribus facit iniuriam. licet enim
+   ima<lb ed="#B" n="93" break="no"/>go regis sit in pecunia: tamen pecunia regni non est ei 
+   <lb ed="#B" n="94"/>sed possessoris particularis. Recte sicut dicit Ari 
+   <lb ed="#B" n="95"/>sto. vii. politicorum) nunquam potest pecuniam mutare 
+   <lb ed="#B" n="96"/>nisi pro vtilitate reipublicae. Ex his patet: quod vix 
+   <lb ed="#B" n="97"/>excusandus est homo in republica moneta
+   abra<lb ed="#B" n="98" break="no"/>dens: etiam si maneat verum pondus auri. &amp; ratio 
+   <lb ed="#B" n="99"/>est: quia ablatio illius excessus facit monetam mi 
+   <lb ed="#B" n="100"/>nus iusti ponderis haberi in republica. Vlterius cer 
+   <lb ed="#B" n="101"/>tum est quod male agit ille qui tollit aliquid de auro 
+   <lb ed="#B" n="102"/>quousque minus valeat qui valere debet: &amp; in
+   rempu<lb ed="#B" n="103" break="no"/>blicam peccat.
+  </p>
+      <p xml:id="jMqv4a-d1e696-d1e770">
+   ⁋ Septimo sequitur quod peccat rex 
+   <lb ed="#B" n="104"/>iniusta tributa imponendo in ceruices populi. tunc 
+   <lb ed="#B" n="105"/>autem signum est quod immoderate &amp; iniuste impo 
+   <lb ed="#B" n="106"/>nit: quando populus vectigalibus multum
+   pre<lb ed="#B" n="107" break="no"/>mitur: vix habens quo sustentetur. &amp; rex cum ma 
+   <lb ed="#B" n="108"/>gna caterua: &amp; quaestores nimis pomposi &amp; prodi 
+   <lb ed="#B" n="109"/>gi sunt: vel pecuniam colligit vt aliena dominia 
+   <lb ed="#B" n="110"/>ad se non pertinentia inuadat. Optimus est rex il- 
+   <!--0294.xml-->
+   <pb ed="#B" n="131-v"/>
+       <cb ed="#B" n="a"/>
+       <lb ed="#B" n="1"/>le qui limitibus suis contentus popiulum in pace tam erga 
+   <lb ed="#B" n="2"/>se qui exteros iustitia &amp; religione defendit: non cupidus 
+   <lb ed="#B" n="3"/>in aera sine titulo proferre imperium. Optime recitat 
+   <lb ed="#B" n="4"/>Arist. v. Politicorum de ethnico illo Theopompo. 
+   <lb ed="#B" n="5"/>qui cum ab vxore argueretur quod in liberos peccaret: quia 
+   <lb ed="#B" n="6"/>vectigalia diminui permisisset: &amp; aliqua ad regnum 
+   <lb ed="#B" n="7"/>vtcumque spectantia collabi: &amp; non tantu regnum &amp; tam 
+   <lb ed="#B" n="8"/>vtile filiis relinqueret quantum a patre acceperat: Si mi 
+   <lb ed="#B" n="9"/>nus in quantitate (inquit) relinquo: diuturmius tamen
+   relin<lb ed="#B" n="10" break="no"/>quo. Si Salomon noster fidelis ita probe egisset: re 
+   <lb ed="#B" n="11"/>gnum diuturnius &amp; maius Roboamo filio reliquisset 
+   <lb ed="#B" n="12"/>Propter iniustitias enim &amp; iniurias de gente in gentem trans 
+   <lb ed="#B" n="13"/>fertur regnum.
+  </p>
+      <p xml:id="jMqv4a-d1e696-d1e822">
+   ⁋ Octauo sequitur: quod reges vel subiecti 
+   <lb ed="#B" n="14"/>non sufficienter restituunt alienum in extremis diebus
+   pro<lb ed="#B" n="15" break="no"/>pinqui morti, quando solum praecipiunt haeredibus restituere 
+   <lb ed="#B" n="16"/>alienum quod detinent: putates haeredes non magis
+   resti<lb ed="#B" n="17" break="no"/>tuturos quam ipsi in vita restituerint. 
+  </p>
+      <p xml:id="jMqv4a-d1e696-d1e834">
+       <lb ed="#B" n="18"/>⁋ Contra primum corollarium arguitur. 
+   <lb ed="#B" n="19"/>Dato quod non soluens debitum non soluat: non oportet 
+   <lb ed="#B" n="20"/>quod propterea peccet, probatur. fur occultus debet magis 
+   <lb ed="#B" n="21"/>seruare suam famam quam restituere alienum. sed si restituat 
+   <lb ed="#B" n="22"/>alienum periclitabitur sua fama. Confirmatur haec ratio. 
+   <lb ed="#B" n="23"/>stat quod ille abutetur notabiliter iam his bonis, &amp; eis 
+   <lb ed="#B" n="24"/>vtetur in pernicien reipublicae. modo bonum commune bo 
+   <lb ed="#B" n="25"/>non particulari istius est praeferendum.
+  </p>
+      <p xml:id="jMqv4a-d1e696-d1e854">
+   ⁋ Respondetur. Fur 
+   <lb ed="#B" n="26"/>occultus potest &amp; famam seruare &amp; restituere alienum. 
+   <lb ed="#B" n="27"/>opes enim vt confiteatur suo curato, vel alteri: &amp; det illi 
+   <lb ed="#B" n="28"/>pccuniam restituendam, capiendo scriptum veri domini dicen 
+   <lb ed="#B" n="29"/>tis se contentum de tali summa pecuniae a curato
+   acce<lb ed="#B" n="30" break="no"/>ptae: tacendo de nomine furis: quia de fure nihil dicet cu 
+   <lb ed="#B" n="31"/>tatus. sed solummodo se illam pecuniam accepisse a 
+   <lb ed="#B" n="32"/>quodam restituendam: &amp; dicat nullo modo posse se de 
+   <lb ed="#B" n="33"/>illo in singulari loqui si alter petat. Fodem modo de 
+   <lb ed="#B" n="34"/>pecunia inuenta &amp; diu detenta dicatur. Ad confirmatio 
+   <lb ed="#B" n="35"/>nem. licet ille cui restitutio est facienda sit pecunia abu 
+   <lb ed="#B" n="36"/>furus: hoc non obstante pecunia est ei danda. patet: quia 
+   <lb ed="#B" n="37"/>restituimus prodigo suum. sed contingit dare casum 
+   <lb ed="#B" n="38"/>nuo non teneor restituere: sicut non est reddendus gla 
+   <lb ed="#B" n="39"/>dius furioso: vel qui iam mente praeditus propinque est 
+   <lb ed="#B" n="40"/>aliquem occisurus: vel si hostiliter per pecuniam quam ei 
+   <lb ed="#B" n="41"/>do, verisimiliter est aliquod insigne facinus in repub. 
+   <lb ed="#B" n="42"/>commissurus.
+  </p>
+      <p xml:id="jMqv4a-d1e696-d1e893">
+   ⁋ Arguitur contra secundum corollarium. 
+   <lb ed="#B" n="43"/>papa potest remittere restitutionem pecuniae inuentae 
+   <lb ed="#B" n="44"/>&amp; ordinare quod res inuenta in pios conferatur vsus 
+   <lb ed="#B" n="45"/>ita enim interdum fit in aliquibus indulgentiis. Hoc ar 
+   <lb ed="#B" n="46"/>gumentum potest contra multa alia corollaria &amp; contra 
+   <lb ed="#B" n="47"/>turtum applicari. <ref xml:id="jMqv4a-d1e696-Rd1e906">
+        <name xml:id="jMqv4a-d1e696-Nd1e908" ref="#AlexanderOfHales">Alexander Halensis</name> quarta
+   par<lb ed="#B" n="48" break="no"/>te summae. qui. lxxxvi.</ref> negat papam posse istud
+   fa<lb ed="#B" n="49" break="no"/>cere. Sed ad argumentum ipsum dico: quod inuentor si 
+   <lb ed="#B" n="50"/>sciat cuius sit pecunia inuenta vel scire potest per 
+   <lb ed="#B" n="51"/>proclamationem in templo: tenetur illam restituere vero 
+   <lb ed="#B" n="52"/>domino vel eius haeredibus cum circunssantiis quas in se 
+   <lb ed="#B" n="53"/>cundo corollario adiecimus, nec illam pecuniam re 
+   <lb ed="#B" n="54"/>mittere potest Romanus pontifex plusquam debitum 
+   <!--0294.xml-->
+   <cb ed="#B" n="b"/> 
+       <!-- 131-v b -->
+       <lb ed="#B" n="55"/>uod tibi debeo. haec enim est pecunia vero domimno &amp;
+   co<lb ed="#B" n="56" break="no"/>gnito debita: ergo non aliud dominium habet
+   Ro<lb ed="#B" n="57" break="no"/>manus pontifex in hanc pecuniam quam in pecuniam 
+   <lb ed="#B" n="58"/>arcae tuae. Sed si nesciatur de domino pecuniae incerto 
+   <lb ed="#B" n="59"/>domino dandae, est alia difficultas. potest ordinare Ro 
+   <lb ed="#B" n="60"/>manus pontifex quod haec pecunia detur in pics vsus 
+   <lb ed="#B" n="61"/>&amp; tutus erit dans: imo hoc potest curatus vel alius
+   pru<lb ed="#B" n="62" break="no"/>dens. Sed an Romanus pontifex possit
+   remitte<lb ed="#B" n="63" break="no"/>re partem illius pecuniae restituendae: sic scilicet vt
+   in<lb ed="#B" n="64" break="no"/>uentor sit tutus coram deo: tenendo vnam partem: &amp; 
+   <lb ed="#B" n="65"/>aliam dando in pios vsus, sicut dixerunt fuisse in
+   in<lb ed="#B" n="66" break="no"/>dulgentiis Sanctonensibus his annis elapsis concessum: 
+   <lb ed="#B" n="67"/>quod scilicet habens incerta restituere / poterat
+   conveni<lb ed="#B" n="68" break="no"/>re cum curatoribus aedis sacrae seu magistris ecclesiae: &amp; 
+   <lb ed="#B" n="69"/>tutus esset in conscientia: Hoc fateor non benen capio 
+   <lb ed="#B" n="70"/>supposito quod incerta habens esset diues &amp; non
+   susce<lb ed="#B" n="71" break="no"/>ptiuus illius pecuniae per modum eleemosynae. nam
+   con<lb ed="#B" n="72" break="no"/>ueniunt in hoc omnes bene loquentes: quod incerta sunt 
+   <lb ed="#B" n="73"/>conferenda in pios vsus. Addo non esse necesse pau 
+   <lb ed="#B" n="74"/>peribus erogare (vbi non sint in necessitate de qua 
+   <lb ed="#B" n="75"/>in materia eleemosynae loquuti sumus) totum
+   in<lb ed="#B" n="76" break="no"/>certum: ergo dare possum fabricae ecclesiae vel
+   cui<lb ed="#B" n="77" break="no"/>cumque loco alteri pio secundum cosilium &amp; ordinatio 
+   <lb ed="#B" n="78"/>nem Maximi pontificis.
+  </p>
+    </div>
+   </body>
+  </text>
+</TEI>

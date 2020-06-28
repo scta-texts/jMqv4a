@@ -1,0 +1,603 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 43</title>
+      <author ref="#JohnMair">John Mair</author>
+      <respStmt>
+       <name>Jeffrey C. Witt</name>
+       <resp>TEI Encoder</resp>
+      </respStmt>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 43</title>
+       <date when="2020-06-09">June 27, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="B" n="cod-Bda113">Badius 1516</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+     guidelines for a diplomatic edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-06-27" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+      <pb ed="#B" n="157-r"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="jMqv4a-d1e838"> <!-- l4d15q43 -->
+      <head xml:id="jMqv4a-d1e838-Hd1e104">Quaestio 43</head>
+      <head xml:id="jMqv4a-d1e838-Hd1e107" type="question-title">An redditus depraevetur per hoc quod est irredimibilis vel perpetuus</head>
+      <p xml:id="jMqv4a-d1e838-d1e110">
+       <lb ed="#B" n="38"/>Varto circa
+   mate<lb ed="#B" n="39" break="no"/>riam emptionis &amp;
+   venditio<lb ed="#B" n="40" break="no"/>nis quaeritur: an redditus de 
+   <lb ed="#B" n="41"/>prauetur per hoc quod est
+   irre<lb ed="#B" n="42" break="no"/>dimibilis vel perpetuus. Pro 
+   <lb ed="#B" n="43"/>soliutione quaestionis pono con 
+   <lb ed="#B" n="44"/>clusiones.
+  </p>
+      <p xml:id="jMqv4a-d1e838-d1e128">
+   ⁋ Prima conclusio. 
+   <lb ed="#B" n="45"/>Redditus per hoc non inficitur quod est perpetuus &amp; 
+   <lb ed="#B" n="46"/>irredimibilis. Probatur. aliquis emit agros in perpe 
+   <lb ed="#B" n="47"/>tuum: ex omnium hominum cocessione. sed talis
+   vir<lb ed="#B" n="48" break="no"/>tualiter &amp; implicite emit redditum perpetuum &amp;
+   irre<lb ed="#B" n="49" break="no"/>dimibilem: quia est virtualis vsusfructus seu
+   causa<lb ed="#B" n="50" break="no"/>lis: vt dicut domini legistae. &amp; hoc superius patuit in  
+   <lb ed="#B" n="51"/>hac distinctione. Secundo illud est quid temporale 
+   <!--0345.xml-->
+   <cb ed="#B" n="b"/> 
+       <!-- 157-r b -->
+       <lb ed="#B" n="52"/>aestimabile praecio: ergo potest esse terminus emptio 
+   <lb ed="#B" n="53"/>nis vel obiectum eius. Tertio. licite possum agros. 
+   <lb ed="#B" n="54"/>quos a Sorte emi dare tibi &amp; tuis haeredibus, n per 
+   <lb ed="#B" n="55"/>petuum: cum illo onere: vt mihi sis obligatus &amp; meis 
+   <lb ed="#B" n="56"/>haeredibus in aliqua parte fructuum annuatim soluem 
+   <lb ed="#B" n="57"/>dorum. ergo etiam licita est emptio qua do tibi tantam 
+   <lb ed="#B" n="58"/>pecuniam quantam valent praedicti agri pro aequali onere 
+   <lb ed="#B" n="59"/>dandi aliquantam partem fructuum modo praefato.
+   conse<lb ed="#B" n="60" break="no"/>quentia tenet: quia non est ratio diuersitatis nisi quod 
+   <lb ed="#B" n="61"/>prima commutatio est contractus permutationis: &amp; 
+   <lb ed="#B" n="62"/>secunda emptionis: quod non impedit, quemadmodum  
+   <lb ed="#B" n="63"/>cum licite possim dare vnam tunicarum mearum pro
+   bi<lb ed="#B" n="64" break="no"/>blia tua: licite possum dare pecuniam tunicae aequi 
+   <lb ed="#B" n="65"/>ualentem pro eadem biblia. sublatis enim redditibus 
+   <lb ed="#B" n="66"/>perpetuis &amp; irredimibilibus, magnas pensiones 
+   <lb ed="#B" n="67"/>&amp; fructus quibus sustentantur ecclesiastici, de medio 
+   <lb ed="#B" n="68"/>tolles.
+  </p>
+      <p xml:id="jMqv4a-d1e838-d1e190">
+   ⁋ Secunda conclusio. Redditus perpetuus 
+   <lb ed="#B" n="69"/>non deprauatur per hoc quod venditor obligat
+   empto<lb ed="#B" n="70" break="no"/>rem ad reuendedum redditum illum sibi venditori vel 
+   <lb ed="#B" n="71"/>suis successoribus: cum datur aequale praecium empto 
+   <lb ed="#B" n="72"/>ri vel eius successoribus quale emptor ipsi
+   vendi<lb ed="#B" n="73" break="no"/>tori ab initio dedit. Probatur haec conclusio. emptor 
+   <lb ed="#B" n="74"/>agri vel redditus vel cuiuscunque alterius mercis 
+   <lb ed="#B" n="75"/>potest reuendere ipsi venditori illam mercem ipso 
+   <lb ed="#B" n="76"/>dante aequale praecium quale dedit venditori ab initio 
+   <lb ed="#B" n="77"/>ergo poterat cum ipso pacisci ab initio vt teneretur 
+   <lb ed="#B" n="78"/>sibi reuendere redditu suum quotiem scumque daretur ei 
+   <lb ed="#B" n="79"/>aequale praecium. Secundo probatur idem, non est necesse quod 
+   <lb ed="#B" n="80"/>Sortes dominus tradat omne ius quod habet ven 
+   <lb ed="#B" n="81"/>dendo vel donando alteri: sed potest partem iuris
+   si<lb ed="#B" n="82" break="no"/>bi reseruare: reliquam in alium transferendo, vt dominus 
+   <lb ed="#B" n="83"/>feudi in vasallum dominium vtile transmittit: retenta 
+   <lb ed="#B" n="84"/>proprietate: ergo Sortes qui habet redditus
+   perpetu<lb ed="#B" n="85" break="no"/>os potest eos vendere: reseruato sibi illo iure: qui 
+   <lb ed="#B" n="86"/>cum voluerit ipse vel sui haeredes, possint ius illud  
+   <lb ed="#B" n="87"/>extinguere. lstud patebit per determinationem Marti 
+   <lb ed="#B" n="88"/>ni Quinti &amp; Callisti Tertii: quam post quaestionem 
+   <lb ed="#B" n="89"/>subiiciemus. conclusio tamen passim ante pontificum de  
+   <lb ed="#B" n="90"/>terminationem a sapientibus tenebatur: &amp; ipsa est 
+   <lb ed="#B" n="91"/>ferme cuilibet ingenioso nota: licet Hericus
+   Gan<lb ed="#B" n="92" break="no"/>densis solus inter doctores tenuerit oppositum. 
+   <lb ed="#B" n="93"/>motiua tamen eius non sunt ponderanda. contra 
+   <lb ed="#B" n="94"/>quem a diebus eius non cessarunt, &amp; merito /
+   sa<lb ed="#B" n="95" break="no"/>pientes scribere. 
+  </p>
+      <p xml:id="jMqv4a-d1e838-d1e251">
+       <lb ed="#B" n="96"/>⁋ Contra secundam conclusionem arguitur 
+   <lb ed="#B" n="97"/>sic. vel emens dans facultatem venditori redimendi 
+   <lb ed="#B" n="98"/>debet tantum dare pro tali redditu sic qualificato / quam 
+   <lb ed="#B" n="99"/>tum si non poneretur illa conditio: vel non. neutru est 
+   <lb ed="#B" n="100"/>dicendum. quod non debeat dare minus, ostenditur sic. 
+   <lb ed="#B" n="101"/>vel vendens num quam repetet: &amp; sic tantum valebit
+   em<lb ed="#B" n="102" break="no"/>ptori ac si non esset redimibilis. vel si repetet: hoc 
+   <lb ed="#B" n="103"/>non erit praeiudiciale emptori: quia recipiet tantum praecii 
+   <lb ed="#B" n="104"/>quantum exposuit. Ideo si tantu precii pro eo dedisset 
+   <lb ed="#B" n="105"/>quantum pro irredimibili: illud etiam iam te- 
+   <!--0346.xml-->
+   <pb ed="#B" n="157-v"/>
+       <cb ed="#B" n="a"/>
+       <lb ed="#B" n="1"/>haberet. Sed quod non tencatur tantum dare: probatur sic. 
+   <lb ed="#B" n="2"/>illa conditio adiecta facit mercem minus valere ipsi 
+   <lb ed="#B" n="3"/>emptori: ergo non tenetur tantum dare pro merce,
+   conse<lb ed="#B" n="4" break="no"/>quentia est nota. &amp; assumptum probo: quia non sic terran 
+   <lb ed="#B" n="5"/>impinguat: nec arbores plantat, nec domos extru 
+   <lb ed="#B" n="6"/>it, cum quibus ager vel redditus plus valeret ipsi eim 
+   <lb ed="#B" n="7"/>ptori si esset ager emptus, vt si permirtas librum tuum 
+   <lb ed="#B" n="8"/>penes me tota vita mea: non est mihi adeo vtilis 
+   <lb ed="#B" n="9"/>ac si meus esset: quia tunc notatiunculas margineas 
+   <lb ed="#B" n="10"/>secundum conceptiones animi inter legendum occurrentes 
+   <lb ed="#B" n="11"/>scripto mandarem. De redditu in vsufructu
+   consti<lb ed="#B" n="12" break="no"/>tuto eodem modo argumentabor. sit gratia exempli 
+   <lb ed="#B" n="13"/>equus: venditor habet proprietatem in illo equo: ergo 
+   <lb ed="#B" n="14"/>pot cogere me reuendere ad nutum suum: nec ego  
+   <lb ed="#B" n="15"/>possum donare / locare / commutare equum in
+   vtilita<lb ed="#B" n="16" break="no"/>tem meam: quia si sic: non possem seruare illud ad quod 
+   <lb ed="#B" n="17"/>me obligaui emendo. nam stat quod me parato ad 
+   <lb ed="#B" n="18"/>equitandum: vel in medio itinere existente: cogeret 
+   <lb ed="#B" n="19"/>me equum reuendere: quod esset in meam ementis iactu 
+   <lb ed="#B" n="20"/>ram. Insuper quanto quis habet dominium imperfectius 
+   <lb ed="#B" n="21"/>in re &amp; cum maiore onere: tanto ei minus valet: sed 
+   <lb ed="#B" n="22"/>sic est ob conditionem adiectam: igitur. Rursus. interea 
+   <lb ed="#B" n="23"/>cogitat &amp; sollicitus manet quid faciet de pecunia 
+   <lb ed="#B" n="24"/>sua quando venditor agros venditos redimet: quae 
+   <lb ed="#B" n="25"/>animi sollicitudo est sic emptori onerosa vt eius 
+   <lb ed="#B" n="26"/>ablatio sit praecio aestimabilis.
+  </p>
+      <p xml:id="jMqv4a-d1e838-d1e338">
+   ⁋ Respondetur. res
+   mi<lb ed="#B" n="27" break="no"/>nus valet cum illo onere adiecto de reuenditione 
+   <lb ed="#B" n="28"/>vel de redemptione, quod idem est dicere. nam cum eim 
+   <lb ed="#B" n="29"/>ptor tenetur reuendere, reuenditio vocatur: &amp; redem 
+   <lb ed="#B" n="30"/>ptio ex parte illius qui cogit iterato vendere. &amp; hoc 
+   <lb ed="#B" n="31"/>siue ematur proprietas rei siue redditus in
+   proprieta<lb ed="#B" n="32" break="no"/>te fundatus, hoc est constitutus: non enim est hic
+   ser<lb ed="#B" n="33" break="no"/>mo de relatione &amp; eius fundamento. tunc enim secundum  
+   <lb ed="#B" n="34"/>iudicium prudentum oportet tantundem praecii tollere a mer 
+   <lb ed="#B" n="35"/>ce quam emo quanto minus valeret si non adderetur
+   il<lb ed="#B" n="36" break="no"/>la coditio de reuendendo. Declaro exemplariter. emo 
+   <lb ed="#B" n="37"/>duas merces aequalis valoris ex parte earum. a. merx 
+   <lb ed="#B" n="38"/>est irredimibiliter mea: b. merx habet conditionem 
+   <lb ed="#B" n="39"/>reuenditionis adiectam. Priorem mercem mille scutis 
+   <lb ed="#B" n="40"/>emo: secunda minus valet centum scutis. hoc in rei ve 
+   <lb ed="#B" n="41"/>ritate suppono. tunc dando nongenta pro b. merce:
+   iu<lb ed="#B" n="42" break="no"/>ste eam emo propter conditionem adiectam. &amp; dato quod num 
+   <lb ed="#B" n="43"/>quam redimatur: tamen quia mercem emi cum illo onere:
+   iudi<lb ed="#B" n="44" break="no"/>cio prudentum negociatorum a principio minus valet. 
+   <lb ed="#B" n="45"/>nec euentus sequens illum contractum in bonitate ve 
+   <lb ed="#B" n="46"/>malitia contingit: hoc est, ex illo euentu sequenti non 
+   <lb ed="#B" n="47"/>redditur bonus vel malus, quemadmodum si nunc eme 
+   <lb ed="#B" n="48"/>rem equum. xx. scutis: &amp; post. viii. dies. valeret. xl.
+   pro<lb ed="#B" n="49" break="no"/>pter multos alios ductos ad bellum: vel aliter 
+   <lb ed="#B" n="50"/>mortuos. Possum est vsum illum de quo est sermo 
+   <lb ed="#B" n="51"/>in argumento, alienare: sed cum suo onere res aliena 
+   <lb ed="#B" n="52"/>ta manebit: &amp; ille secundus emptor qui a me emit: 
+   <lb ed="#B" n="53"/>primo venditori reuendere tenebitur. nemo enim dat 
+   <lb ed="#B" n="54"/>quod non habet. quare non possum maius dominium 
+   <lb ed="#B" n="55"/>in emptorem transferre quam habeam. Sed si ego primo 
+   <!--0346.xml-->
+   <cb ed="#B" n="b"/> 
+       <!-- 157-v b -->
+       <lb ed="#B" n="56"/>emendo obligarem me reuendere rem sic emptam in  
+   <lb ed="#B" n="57"/>quantolibet tempore quantuncumque breui venditor
+   vo<lb ed="#B" n="58" break="no"/>luerit: non essem circumspectus negociator nisi val 
+   <lb ed="#B" n="59"/>de notabiliter demeretur de praecio ratione illius conditio 
+   <lb ed="#B" n="60"/>nis adiectae. Et pro istius vlteriore intelligentia nota 
+   <lb ed="#B" n="61"/>to quod possum multifariam me habere in illa condi 
+   <lb ed="#B" n="62"/>tione adiecta. Vno modo possum addere conditionem 
+   <lb ed="#B" n="63"/>in principio contractus talem: quod si mercem tuam non 
+   <lb ed="#B" n="64"/>redimas infra certum tempus, vtpote duorum vel trium 
+   <lb ed="#B" n="65"/>annorum: manebit merx ipsa in perpetuum irredimibi 
+   <lb ed="#B" n="66"/>lis. sicut Leuitici. xxv. scribitur. Si quis vendebat do  
+   <lb ed="#B" n="67"/>mum existentem intra muros: poterat eam primo
+   an<lb ed="#B" n="68" break="no"/>non redimere: sed primo anno extincto domus 
+   <lb ed="#B" n="69"/>redimi non poterat: nec etiam in iubileo ad venditorem 
+   <lb ed="#B" n="70"/>redibat. quia si redditus potest emi irredimibilis ab 
+   <lb ed="#B" n="71"/>solute: potest etiam irredimibilis post determinatum tem 
+   <lb ed="#B" n="72"/>pus: &amp; quanto minus temporis do venditori ad redi  
+   <lb ed="#B" n="73"/>mendum caeteris paribus: tanto plus res valet,
+   quemad<lb ed="#B" n="74" break="no"/>modum ex opposito si dem ei facultatem redimendi 
+   <lb ed="#B" n="75"/>quando velit in quantumlibet minuto tpore: tunc minime 
+   <lb ed="#B" n="76"/>valet. sed conditionem addere possum quod quousque 
+   <lb ed="#B" n="77"/>praefixum aliquod tempus expiret: nullo pacto liceat
+   ve<lb ed="#B" n="78" break="no"/>ditori redimere suam mercem: vt me indemnem seruem. 
+   <lb ed="#B" n="79"/>alioquin venditor posset me grauare: vt si in autumno  
+   <lb ed="#B" n="80"/>redditum emi de percipiendis certis fructibus agri tui 
+   <lb ed="#B" n="81"/>do tibi facultatem redimendi. Appropinquante autem 
+   <lb ed="#B" n="82"/>messe si tu velles redimere redditu &amp; colligere 
+   <lb ed="#B" n="83"/>fructus omnes: inique mecum ageres si non ratione
+   inter<lb ed="#B" n="84" break="no"/>esse mei aliquid de fructibus tuis colligam. Possum 
+   <lb ed="#B" n="85"/>ergo tecum pacisci quod praedices mihi ad determinatum 
+   <lb ed="#B" n="86"/>tempus, puta ad annu vel ad dimidium annum vt meae 
+   <lb ed="#B" n="87"/>indemnitati consulam. vt patet inter arguendum de equo.  
+  </p>
+      <p xml:id="jMqv4a-d1e838-d1e479">
+       <lb ed="#B" n="88"/>⁋ Secundo arguitur. In ista venditione 
+   <lb ed="#B" n="89"/>no seruatur iustitia commutatiua: cum non seruetui 
+   <lb ed="#B" n="90"/>aequalitas in contractum: plus enim emptor obligatur 
+   <lb ed="#B" n="91"/>quam venditor, &amp; per consequens oneratur &amp; grauatur. precium 
+   <lb ed="#B" n="92"/>n, non tenetur venditor restituere nisi velit: &amp; tamen mer 
+   <lb ed="#B" n="93"/>cem reuendere vi contractus cogetur emptor.
+  </p>
+      <p xml:id="jMqv4a-d1e838-d1e495">
+   ⁋ Tertio 
+   <lb ed="#B" n="94"/>emptor est dominus rei emptae: ergo pot de ea dispone 
+   <lb ed="#B" n="95"/>re ad nutum: &amp; per consequens non erit obligatus reuen 
+   <lb ed="#B" n="96"/>dere, petente debitore.
+  </p>
+      <p xml:id="jMqv4a-d1e838-d1e504">
+   ⁋ Ad secundum nego quod non  
+   <lb ed="#B" n="97"/>seruetur iustitia commutatiua in hoc contractu. si enim 
+   <lb ed="#B" n="98"/>emptor aliqua obligatione sit obligatus, qua non 
+   <lb ed="#B" n="99"/>venditor: non tamen iniuste: quia pro illo onere aliquid de
+   prae<lb ed="#B" n="100" break="no"/>cio remisit venditor: vt ipe emptor illud onus sub 
+   <lb ed="#B" n="101"/>iret. etiam recipit fructus quotanis ab ipso vendito 
+   <lb ed="#B" n="102"/>re: &amp; suum praecium in fine vltra fructus. &amp; signum est quod 
+   <lb ed="#B" n="103"/>non fallatur emptor: cum opulenti viri satis libenter &amp; 
+   <lb ed="#B" n="104"/>nullo pacto coacte huiuscemodi redditus emant. 
+   <lb ed="#B" n="105"/>modo scienti &amp; volenti non fit dolus neque fraus. 
+   <lb ed="#B" n="106"/>quinto Ethicorum. &amp; hoc volitione pure
+   sponta<lb ed="#B" n="107" break="no"/>nea.
+  </p>
+      <p xml:id="jMqv4a-d1e838-d1e531">
+   ⁋ Ad tertium, concedo anteedens &amp; nego
+   conse<lb ed="#B" n="108" break="no"/>quentiam. nam ego sum bibliae meae dominus: &amp; tamen possum 
+   <lb ed="#B" n="109"/>pacisci tecum: quod quotienscumque daederis mihi septem 
+   <!--0347.xml-->
+   <pb ed="#B" n="158-r"/>
+       <cb ed="#B" n="a"/>
+       <lb ed="#B" n="1"/>aureos: omnes libri bibliae cum commentariis tui erunt. 
+   <lb ed="#B" n="2"/>tunc autem quousque pecuniam tradideris: ego sum do 
+   <lb ed="#B" n="3"/>minus librorum: &amp; tamen vi pacti teneor tibi vendere 
+   <lb ed="#B" n="4"/>sic in casu nostro emptor manet dominus quousque re 
+   <lb ed="#B" n="5"/>uenditio completa fuerit.
+  </p>
+      <p xml:id="jMqv4a-d1e838-d1e555">
+   ⁋ Quarto arguitur. si potest: 
+   <lb ed="#B" n="6"/>emi redditus. v. aureorum. c. aureis cum conditione ad 
+   <lb ed="#B" n="7"/>iecta de redimibilitate: eadem ratione potest quis emere e 
+   <lb ed="#B" n="8"/>diuerso ius emendi. xx. aureos in proptu cum vno 
+   <lb ed="#B" n="9"/>aureo annuatim soluendo: quia vtrobique est par
+   ra<lb ed="#B" n="10" break="no"/>tio, scilicet ad illa tria, praecium, merx, &amp; simile pactu. sicut 
+   <lb ed="#B" n="11"/>enim ius emendi quotannis vnum aureum est merx emi 
+   <lb ed="#B" n="12"/>bilis: sic ius emendi. xx. aureos in proptu.
+  </p>
+      <p xml:id="jMqv4a-d1e838-d1e573">
+   ⁋ Re 
+   <lb ed="#B" n="13"/>spondeo consequenter ad notata in prima quaestione prae 
+   <lb ed="#B" n="14"/>cedente: concedendo quod ille contractus sit licitus &amp; vera 
+   <lb ed="#B" n="15"/>emptio. Precium enim est illud ius aurei quotannis 
+   <lb ed="#B" n="16"/>dandi: quod nihil aliud est iuxta illic notata quam aurei 
+   <lb ed="#B" n="17"/>partialiter dandi. Et nego hoc quid dicunt, quod illd ius 
+   <lb ed="#B" n="18"/>non est illi aurei nec numisma. simiter nego quod sit quid 
+   <lb ed="#B" n="19"/>immobile &amp; incorporale, non stes in hoc quod non sunt 
+   <lb ed="#B" n="20"/>quia hoc esset materiam per logicas argutias
+   confun<lb ed="#B" n="21" break="no"/>dere. Quo modo autem sit incorporale, superius diximus. 
+   <lb ed="#B" n="22"/>&amp; quia ius communiter est permansiuum: vocatur
+   immo<lb ed="#B" n="23" break="no"/>bile, non enim capimus immobile vt distinguitur contra 
+   <lb ed="#B" n="24"/>mobile physice: quia sic nihil nisi solus deus esset in 
+   <lb ed="#B" n="25"/>mobile. Et quando dicis Precium debet consistere in certa 
+   <lb ed="#B" n="26"/>quantitate pecuniae: Ad hoc dupliciter dico. Vno  
+   <lb ed="#B" n="27"/>modo concedendo ita esse, licet nos fugiat: sicut &amp;
+   fi<lb ed="#B" n="28" break="no"/>nis mundi: vel perditio proprietatis in qua hic redditu 
+   <lb ed="#B" n="29"/>constituitur: sicut possum capere abs te vnum librum 
+   <lb ed="#B" n="30"/>pro omnibus pecuniis in bursa mea: esto me fugiat 
+   <lb ed="#B" n="31"/>quantum pecuniarum in ea habeatur. Secundo si haberen 
+   <lb ed="#B" n="32"/>infinitos denarios: possem eos omnes dare pro aliqua 
+   <lb ed="#B" n="33"/>merce.
+  </p>
+      <p xml:id="jMqv4a-d1e838-d1e621">
+   ⁋ Epilogando patet quod licitus est reddit 
+   <lb ed="#B" n="34"/>irredimibilis, no quin consentiente emptore redimi 
+   <lb ed="#B" n="35"/>possit: sed quia non potest per legem communem ad vendendum 
+   <lb ed="#B" n="36"/>cogi. an etiam pro sua culpa, vel pro reipublicae vtilita 
+   <lb ed="#B" n="37"/>te ad hoc possit cogi: pronunc non interest: quia no 
+   <lb ed="#B" n="38"/>potest secundum legem commune. Quid contractus redimibi 
+   <lb ed="#B" n="39"/>lis: &amp; quod est licitus, &amp; gratiosus si emptor det tar 
+   <lb ed="#B" n="40"/>tum venditori vel paulo minus ac si esset irredimibi 
+   <lb ed="#B" n="41"/>lis: sed non tantum valet ager vel redditus data
+   condi<lb ed="#B" n="42" break="no"/>tione apud emptorem vt ipse vel sui possint
+   repe<lb ed="#B" n="43" break="no"/>tere quando velint: sicut inter arguendum &amp; in solutione 
+   <lb ed="#B" n="44"/>ad primum dictum est. Sicut aut emptor de quo est 
+   <lb ed="#B" n="45"/>sermo in secunda conclusione colligit fructus non alie 
+   <lb ed="#B" n="46"/>nos sed suos: licet ex agro alterius: quando est emptio 
+   <lb ed="#B" n="47"/>redditus in agro fundati: sic venditor vtitur praecio in 
+   <lb ed="#B" n="48"/>suam vtilitatem: nec fructus illius pecuniae quae est praecium 
+   <lb ed="#B" n="49"/>in parte vel in toto dat emptori. &amp; sicut venditori 
+   <lb ed="#B" n="50"/>emptor concedit facultatem redimendi: siue agrum,
+   si<lb ed="#B" n="51" break="no"/>ue redditus in agro fundatos: ita venditor remit. 
+   <lb ed="#B" n="52"/>tit aliquid de praecio, vel remittere debet pro illo onere 
+   <lb ed="#B" n="53"/>quod emptor incurrit, nec tantum capit ab eo illa condi 
+   <lb ed="#B" n="54"/>tione adiecta quantum si redditus esset irredimibilis. 
+   <lb ed="#B" n="55"/>Videmus ergo quod aliqua est venditio irredimibilis 
+   <!--0347.xml-->
+   <cb ed="#B" n="b"/> 
+       <!-- 158-r b -->
+       <lb ed="#B" n="56"/>vt patet ex prima conclusione. aliqua etiam est
+   redi<lb ed="#B" n="57" break="no"/>mibilis, in qua datur facultas venditori: oblato praecio 
+   <lb ed="#B" n="58"/>quod dedit emptor ab initio, redimendi contractu. Pa 
+   <lb ed="#B" n="59"/>ri forma dari potest aliqua venditio in qua daretur
+   fa<lb ed="#B" n="60" break="no"/>cultas emptori cogendi venditorem si sibi libeat
+   ite<lb ed="#B" n="61" break="no"/>rato emere mercem venditam: sed tunc oportet vt plus 
+   <lb ed="#B" n="62"/>det venditori ratione illius oneris quod venditor subit 
+   <lb ed="#B" n="63"/>ad hoc, vt sit latitudo iustin praecii, nisi venditor hoc 
+   <lb ed="#B" n="64"/>ei rem:ttat. Quarta potest esse emptio in qua vtrique 
+   <lb ed="#B" n="65"/>daretur facultas, puta venditori redimere mercem 
+   <lb ed="#B" n="66"/>venditam si velit: &amp; emptori vt cogat venditorem 
+   <lb ed="#B" n="67"/>iterato emere mercem si voluerit. semper supponi 
+   <lb ed="#B" n="68"/>mus quod teneant latitudinem iusti praecii secundum prudentum 
+   <lb ed="#B" n="69"/>discretionem: sic scilicet vt minus detur pro merce cum
+   one<lb ed="#B" n="70" break="no"/>re quam sine onere: &amp; seruetur aequalitas inter onera: 
+   <lb ed="#B" n="71"/>vel si venditor plus habeat de onere quam emptor: 
+   <lb ed="#B" n="72"/>emptor tenebitur ei refundere in pecunia vel
+   aequi<lb ed="#B" n="73" break="no"/>ualente, &amp; econverso. Post epilogationem factam ponem 
+   <lb ed="#B" n="74"/>tur determinationes duorum summorum Pontificum: scilicet 
+   <lb ed="#B" n="75"/>Martini Quinti, &amp; Callisti Tertii, de
+   huiuscemo<lb ed="#B" n="76" break="no"/>di redditibus tam fructuariis quam pecuniariis. 
+   <lb ed="#B" n="77"/>u Artinus Episcopus seruus 
+   <lb ed="#B" n="78"/>Iseruorum dei Venerabilibus fratribus 
+   <lb ed="#B" n="79"/>Treueznensi &amp; Lubicinensi ac
+   Olmi<lb ed="#B" n="80" break="no"/>censi episcopis Salutem &amp; apostolicam benedictionem. 
+   <lb ed="#B" n="81"/>Hodie siquide literas nostras concessimus: tenorem qui 
+   <lb ed="#B" n="82"/>sequitur continentes. Martinus episcopus seruus ser 
+   <lb ed="#B" n="83"/>uorum dei ad futuram rei memoriam. Regimini vni 
+   <lb ed="#B" n="84"/>uersalis ecclesiae (quamquam immeriti) disponente domino
+   praesi<lb ed="#B" n="85" break="no"/>dentes: curis angimur assiduis, vt iuxta creditae no 
+   <lb ed="#B" n="86"/>bis dispensationis officium, subditorum quorumlibet &amp; 
+   <lb ed="#B" n="87"/>paci &amp; quieti, quantum nobis ex alto coceditur,
+   inten<lb ed="#B" n="88" break="no"/>damus: &amp; dubia quae inter eos oriuntur pro tempore (ne 
+   <lb ed="#B" n="89"/>litium anfractus seu scandalorum parturiant fomentum)  
+   <lb ed="#B" n="90"/>nostro moderamine declarentur. Sane peritio dile 
+   <lb ed="#B" n="91"/>ctorum filiorum vniuersorum, cleri, nobilium, incolarum, 
+   <lb ed="#B" n="92"/>&amp; habitatorum ciuitatis &amp; dioecesis pratissauien. 
+   <lb ed="#B" n="93"/>nobis exhibita continebat, quod licet a centum annis
+   ci<lb ed="#B" n="94" break="no"/>tra &amp; supra: &amp; a tanto tpore, &amp; per tantum tempus cuius com 
+   <lb ed="#B" n="95"/>trarii memoria hominium non existit: in eisdem ciuitate 
+   <lb ed="#B" n="96"/>&amp; dioecesi ac partibus aliis vicinis quadam consuetudo  
+   <lb ed="#B" n="97"/>rationabilis obseruata, praescripta, ac moribus vtentium 
+   <lb ed="#B" n="98"/>approbata ad communem hominium vtilitatem introducta
+   fu<lb ed="#B" n="99" break="no"/>isset: quod quilibet princeps, baro, miles, ciuis, siue op 
+   <lb ed="#B" n="100"/>pidanus partium earundem cum hoc expedire videbatur, 
+   <lb ed="#B" n="101"/>melius protuc non valens sibi consulere, personae ecclesia: 
+   <lb ed="#B" n="102"/>sticae aut saeculari collegio, aut vniuersitati,
+   oppi<lb ed="#B" n="103" break="no"/>do vel ciuitati super bonis suis, dominiis, oppidis,
+   ter<lb ed="#B" n="104" break="no"/>ris, agris, praediis, domibus, &amp; haereditatibus vendere 
+   <lb ed="#B" n="105"/>consuenit &amp; vendidit annuos census vnius vel
+   plu<lb ed="#B" n="106" break="no"/>rium marcarum aut grossorum Pragensium nummi Polo 
+   <!--0348.xml-->
+   <pb ed="#B" n="158-v"/>
+       <cb ed="#B" n="a"/>
+       <lb ed="#B" n="1"/>nei / &amp; pagamenti consueti ad rationem: &amp; pro quali 
+   <lb ed="#B" n="2"/>bet marca annui census decem / vndecim / tredecimi 
+   <lb ed="#B" n="3"/>quatuordecim marcae, aut plus vel minus secundum  
+   <lb ed="#B" n="4"/>temporis qualitatem (prout ipsi contrahentes tunc inter 
+   <lb ed="#B" n="5"/>se convenerint) ipsi venditori tunc integraliter in pe 
+   <lb ed="#B" n="6"/>cunia numerata solui consueuerunt: bonis in ipso 
+   <lb ed="#B" n="7"/>contractu tunc expressis pro ipsius census annui exolui 
+   <lb ed="#B" n="8"/>tione in perpetuum obligatis: &amp; semper in ipsis con 
+   <lb ed="#B" n="9"/>tractibus exprsse ipsis venditoribus data fuit
+   facul<lb ed="#B" n="10" break="no"/>tas atque gratia: quod ipsum annuum censum in toto vel in  
+   <lb ed="#B" n="11"/>parte pro eadem summa denariorum quam ab ipsis empto 
+   <lb ed="#B" n="12"/>ribus receperunt: quandocumque vellent libere absque 
+   <lb ed="#B" n="13"/>alicuius requisitione contradictione vel assensu pos 
+   <lb ed="#B" n="14"/>sent extinguere &amp; redimere, ac se ab ipsius census 
+   <lb ed="#B" n="15"/>solutione extunc penitus liberare. sed ad hoc huius 
+   <lb ed="#B" n="16"/>modi census venditores inuiti nequaquam per emptores 
+   <lb ed="#B" n="17"/>arctari vel astringi valerent: etiam ipsis
+   possessioni<lb ed="#B" n="18" break="no"/>bus &amp; bonis obligatis penitus interemptis seu
+   de<lb ed="#B" n="19" break="no"/>structis. Fuitque &amp; est talis contractus emptionis &amp; 
+   <lb ed="#B" n="20"/>venditionis per episcopos pratissauienses pro tempore 
+   <lb ed="#B" n="21"/>existentes &amp; eorum officiales: necnon per diuersos
+   do<lb ed="#B" n="22" break="no"/>minos temporales locorum &amp; terrarum in quibus census 
+   <lb ed="#B" n="23"/>huiusmodi constituti existunt, tamquam licitus &amp; comuni vtili 
+   <lb ed="#B" n="24"/>tati deseruiens: saepius confirmatus pariter &amp; appro 
+   <lb ed="#B" n="25"/>batus. Quiaquoed etiam super huiusmodi census plura
+   be<lb ed="#B" n="26" break="no"/>neficia ecclesiastica, collegia, canonicatus &amp;
+   praeben<lb ed="#B" n="27" break="no"/>dae, dignitates, personatus, &amp; officia, vicariae, altaria, 
+   <lb ed="#B" n="28"/>numero plus qui duo milia de expsso consensu &amp; 
+   <lb ed="#B" n="29"/>voluntate dominorum temporalium: sub quorum
+   territo<lb ed="#B" n="30" break="no"/>riis dicta bona obligata consistunt: erecta / dotata &amp; 
+   <lb ed="#B" n="31"/>fundata. Quiaqued etiam venditores eorundem censuum se non 
+   <lb ed="#B" n="32"/>numquam ad ipsorum censuum solutionem poenis &amp; censuris 
+   <lb ed="#B" n="33"/>ecclessasticis ordinariorum locorum sponte &amp; libere 
+   <lb ed="#B" n="34"/>submiserunt. sicuti etiam aliqui eorum tractu temporis com 
+   <lb ed="#B" n="35"/>pulsi fuerunt &amp; compelli consueuerunt. Tamen nonulli ex 
+   <lb ed="#B" n="36"/>venditoribus ipsis in arcum prauum conversi: cupientes 
+   <lb ed="#B" n="37"/>cum alterius iactura locupletari / huiusmodi census 
+   <lb ed="#B" n="38"/>fucusque per eos libere &amp; absque vlla contradictione 
+   <lb ed="#B" n="39"/>solutos / eisdem emptoribus tam ecclesiasticis quam saecu 
+   <lb ed="#B" n="40"/>laribus soluere contradicunt &amp; recusant: confingentes 
+   <lb ed="#B" n="41"/>huiusmodi emptionis &amp; venditionis contractus fo 
+   <lb ed="#B" n="42"/>re &amp; esse vsurarios &amp; illicitos. ipsos emptores es 
+   <lb ed="#B" n="43"/>clesiasticos &amp; saeculares: necnon collegia &amp; canoni 
+   <lb ed="#B" n="44"/>catus &amp; praebendas, dignitates, personatus, &amp; officia 
+   <lb ed="#B" n="45"/>vicarias &amp; altaria ac beneficia huiusmodi: ipsorum annu 
+   <lb ed="#B" n="46"/>orum censuum spoliant perceptione: &amp; detinent spoliatos 
+   <lb ed="#B" n="47"/>in animatum suarum periculum: eorundemque emptorum
+   prae<lb ed="#B" n="48" break="no"/>iudicium: damnum, &amp; grauamen. Et propterea an contra 
+   <lb ed="#B" n="49"/>ctus emptionis &amp; venditionis huiusmodi liciti existant 
+   <lb ed="#B" n="50"/>a nonnullis haesitatur. Quare pro parte eorundem cleri / nobi 
+   <lb ed="#B" n="51"/>liumrincolarum / &amp; habitatorum ciuitatis &amp; dioecesis 
+   <lb ed="#B" n="52"/>pratissauien. nobis fuit humiliter supplicatum: vt 
+   <lb ed="#B" n="53"/>an contractus huiusmodi liciti vel illiciti censeri debeant: 
+   <lb ed="#B" n="54"/>declarare &amp; alias eisdem in praemissis opportune
+   pro<lb ed="#B" n="55" break="no"/>uidere de benignitate apostolica dignaremur. 
+   <!--0348.xml-->
+   <cb ed="#B" n="b"/> 
+       <!-- 158-v b -->
+       <lb ed="#B" n="56"/>Nos igitur huiusmodi supplicationibus inclina 
+   <lb ed="#B" n="57"/>ti: quia etiam ex relatione dilecti filii nostri Guilielmi 
+   <lb ed="#B" n="58"/>tituli sancti Marci praesbyteri Cardinalis cui nego  
+   <lb ed="#B" n="59"/>cium huiusmodi cum peritorum consilio commisimus
+   exa<lb ed="#B" n="60" break="no"/>minandum: comperimus contractus huiusmodi iuridicos: 
+   <lb ed="#B" n="61"/>&amp; iuxta determinationem doctorum licitos fore: Ad 
+   <lb ed="#B" n="62"/>huiusmodi ergo ambiguitatis tollendum dubium in prae 
+   <lb ed="#B" n="63"/>missis: praefatos contractus licitos &amp; iuri communi co 
+   <lb ed="#B" n="64"/>formes / ac ipsorum censuum venditores ad illorum
+   solu<lb ed="#B" n="65" break="no"/>tiones remoto contradictionis obstaculo, obligati 
+   <lb ed="#B" n="66"/>auctoritate apostolica / tenore praesentium ex certa 
+   <lb ed="#B" n="67"/>scientia declaramus: non obstantibus praemissis, caeteris 
+   <lb ed="#B" n="68"/>quod contrariis quibuscumque. Nulli ergo omnino hominum 
+   <lb ed="#B" n="69"/>iceat hanc paginam nostrae declarationis infringere 
+   <lb ed="#B" n="70"/>vel ei ausu temerario contraire. Si quis autem hoc 
+   <lb ed="#B" n="71"/>attentare praesumpserit: indignationem omnipotentis 
+   <lb ed="#B" n="72"/>dei ac beatorum Petri &amp; Pauli apostolorum eius se 
+   <lb ed="#B" n="73"/>nouerit incursurum. Datum Romae apud sanctos 
+   <lb ed="#B" n="74"/>apostolos. vi. nonas lulii / pontificatus nostri
+   an<lb ed="#B" n="75" break="no"/>no octauo. Volentes itaque quod praedictae literae nostrae 
+   <lb ed="#B" n="76"/>debitum sortiantur effectum: fraternitati vestrae per apo 
+   <lb ed="#B" n="77"/>stolica scripta mandamus: quatenus vos vel duo 
+   <lb ed="#B" n="78"/>aut vnus vestrum per vos vel alium seu alios praefatis 
+   <lb ed="#B" n="79"/>emptoribus in praemissis opportuni fauoris praesidium 
+   <lb ed="#B" n="80"/>efficaciter impendentes: dictasque literas / vbi / quando/  
+   <lb ed="#B" n="81"/>&amp; quoties expedire videritis: auctoritate nostra 
+   <lb ed="#B" n="82"/>solenniter publicantes / faciatis eadem auctoritate eis 
+   <lb ed="#B" n="83"/>dem emptoribus vel ipsorum procuratoribus eorum 
+   <lb ed="#B" n="84"/>nominibus: per venditores seu debitores censuum
+   hu<lb ed="#B" n="85" break="no"/>iusmodi / de praefatis censibus iuxta contractuum &amp; con 
+   <lb ed="#B" n="86"/>uentionum inter ipsos habitarum formam &amp; tenorem 
+   <lb ed="#B" n="87"/>plenam &amp; debitam satisfactionem impendi: contradicto 
+   <lb ed="#B" n="88"/>res per censuram ecclesiasticam appellatione postpo 
+   <lb ed="#B" n="89"/>sita compescendo. Non obstante si aliquibus con 
+   <lb ed="#B" n="90"/>muniter vel diuisim a sede apostolica sit
+   indul<lb ed="#B" n="91" break="no"/>tum quod interdici / suspendi / vel excommunicari non 
+   <lb ed="#B" n="92"/>possint per literas apostolicas non facientes plenam 
+   <lb ed="#B" n="93"/>&amp; expressam de verbo ad verbum de indulto
+   hu<lb ed="#B" n="94" break="no"/>iusmodi mentionem. Datum Romae apud
+   san<lb ed="#B" n="95" break="no"/>ctos apostolos. vi. nonas lulii. Pontificatus
+   no<lb ed="#B" n="96" break="no"/>stri anno octauo. 
+   <lb ed="#B" n="97"/>Allistus Episcopus seruus 
+   <lb ed="#B" n="98"/>lseruorum dei dilectis filiis
+   Magdebur<lb ed="#B" n="99" break="no"/>ligensis, &amp; Numenburgen. &amp; Halbersta 
+   <lb ed="#B" n="100"/>ten. ecclesiarum decanis: salutem &amp; apostolicam 
+   <lb ed="#B" n="101"/>benedictionem. Hodie literas concessimus: tenorem 
+   <lb ed="#B" n="102"/>qui sequitur continentes. Callistus episcopus seruus 
+   <lb ed="#B" n="103"/>seruorum dei ad perpetuam rei memoriam. Regimin 
+   <lb ed="#B" n="104"/>vniuersalis ecclesiae (quamquam immeriti disponente do  
+   <lb ed="#B" n="105"/>mino praesidentes: curis angimur assiduis / vt iuxta 
+   <lb ed="#B" n="106"/>nobis crediti dispensationem officii: subditorum 
+   <!--0349.xml-->
+   <pb ed="#B" n="159-r"/>
+       <cb ed="#B" n="a"/>
+       <lb ed="#B" n="1"/>quorumlibet paci &amp; quieti quantum nobis ex alto 
+   <lb ed="#B" n="2"/>conceditur: intendamus, &amp; dubia quae inter eos
+   oriun<lb ed="#B" n="3" break="no"/>tur pro tempore: ne litium anfractus exinde seu
+   scan<lb ed="#B" n="4" break="no"/>dala proueniant: prout iustitia persuaserit: declaratio 
+   <lb ed="#B" n="5"/>nis nostrae ministerio sopiantur. Sane pro parte venera 
+   <lb ed="#B" n="6"/>bilis fratris nostri Ioannis episcopi Merspurgen 
+   <lb ed="#B" n="7"/>nobis nuper exhibita petitio continebat: quod licet: 
+   <lb ed="#B" n="8"/>tanto tempore: cuius contrarii memoria non existit, in 
+   <lb ed="#B" n="9"/>diuersis Alemaniae partibus: pro communi hominum 
+   <lb ed="#B" n="10"/>vtilitate inter habitatores &amp; iu colas partium earundem 
+   <lb ed="#B" n="11"/>talis inoleuerit, hactenusque obseruata fuerit / legi 
+   <lb ed="#B" n="12"/>time praescriptatac moribus vtentium &amp; etiam
+   ordina<lb ed="#B" n="13" break="no"/>riorum permissione / &amp; plerumque expressa rantificatione 
+   <lb ed="#B" n="14"/>approbata consuetudo: quod ipsi habitatores &amp; inco 
+   <lb ed="#B" n="15"/>lae: siue illi ex eis quibus id pro suis statu &amp; indemnita 
+   <lb ed="#B" n="16"/>tibus expedire visum fuerit, super eorum bonis,
+   do<lb ed="#B" n="17" break="no"/>mibus, agris, possessionibus, &amp; hereditatibus: an 
+   <lb ed="#B" n="18"/>nuos marcarum, florenorum, seu grossorum monetae in 
+   <lb ed="#B" n="19"/>partibus illis currentis redditus seu census vedenm 
+   <lb ed="#B" n="20"/>tes: pro singulis ex marcis, fiorenis, siue grossis hu 
+   <lb ed="#B" n="21"/>iusmodi ab eis qui illas vel illos siue redditus
+   si<lb ed="#B" n="22" break="no"/>ue census ipsos emerint: certum competens precium in  
+   <lb ed="#B" n="23"/>numerata pecunia secundum temporis qualitatem( prout 
+   <lb ed="#B" n="24"/>ipsi vendentes &amp; ementes in conrractibus super his 
+   <lb ed="#B" n="25"/>inter se firmauerint) recipere soliti fuere: illa ex 
+   <lb ed="#B" n="26"/>domibus, agris, praediis, posfessionibus, &amp; haeredita 
+   <lb ed="#B" n="27"/>tibus praedictis qua in huiusmodi contractibus expressa 
+   <lb ed="#B" n="28"/>fuerunt dictorum solutione reddituum &amp; censuum
+   effi<lb ed="#B" n="29" break="no"/>caciter obligantes: in illorum vendentium fauorem hoc 
+   <lb ed="#B" n="30"/>adiecto: quod ipsi pro rata qua huiusmodi per eos rece 
+   <lb ed="#B" n="31"/>pta dictis ementibus restituerunt in toto vel in
+   per<lb ed="#B" n="32" break="no"/>te pecuniam: a solutione reddituum seu censuum:
+   hu<lb ed="#B" n="33" break="no"/>iusmodi restitutam pecuniam contingentium: liberi fo 
+   <lb ed="#B" n="34"/>rent penitus &amp; immunes: sed iide ementes etiam 
+   <lb ed="#B" n="35"/>si bona / domus / terrae / agri / possessiones / &amp;
+   haeredi<lb ed="#B" n="36" break="no"/>tates huiusmodi processu temporis ad omnimodae 
+   <lb ed="#B" n="37"/>destructionis siue desolationis reducerentur opi 
+   <lb ed="#B" n="38"/>probrium: pecuniam ipsam agendo repetere non vale 
+   <lb ed="#B" n="39"/>rent. Apud aliquos tamen haesitationis versatur scru 
+   <lb ed="#B" n="40"/>pulus: an huiusmodi contractus liciti sint censen 
+   <lb ed="#B" n="41"/>di. Vnde nonnulli illos vsurarios fore praetendentes: 
+   <lb ed="#B" n="42"/>occasionem quaerunt redditus / &amp; census huiusmodi ab 
+   <lb ed="#B" n="43"/>eis debitos non soluendi. Quare pro parte episcopi 
+   <lb ed="#B" n="44"/>&amp; cleri praedictorum asserentium quod in talibus sic
+   em<lb ed="#B" n="45" break="no"/>ptis censibus &amp; redditibus, fructus, redditus, &amp; 
+   <lb ed="#B" n="46"/>prouentus plurium ecclesiarum, monasteriorum 
+   <lb ed="#B" n="47"/>hospitalium, &amp; ecclesiasticorum beneficiorum ciuitatiu 
+   <lb ed="#B" n="48"/>&amp; dioecesis ac partium praedictarum: nec non fere omnes 
+   <lb ed="#B" n="49"/>quotidianae distributiones: quae in plerisque ecclesiis 
+   <lb ed="#B" n="50"/>ipsis diuinis interessentibus ministrari solent: con 
+   <lb ed="#B" n="51"/>sistere noscuntur: nobis fuit humiliter supplicatum, 
+   <lb ed="#B" n="52"/>vt super his apostolicae declarationis oraculum im 
+   <lb ed="#B" n="53"/>partiti &amp; adducere paterna dilectione curaremus. 
+   <lb ed="#B" n="54"/>Nos igitur huiusmodi in hac parte
+   supplicatio<lb ed="#B" n="55" break="no"/>nibus inclinati: &amp; factas ex commissione felicis re 
+   <!--0349.xml-->
+   <cb ed="#B" n="b"/> 
+       <!-- 159-r b -->
+       <lb ed="#B" n="56"/>cordationis Martini papae quinti praedecessoris 
+   <lb ed="#B" n="57"/>nostri desuper examinationes / &amp; eiusdem praedecesso 
+   <lb ed="#B" n="58"/>ris nostri declarationem attentius perstririgentes 
+   <lb ed="#B" n="59"/>suisque vestigiis inhaerentes: ad omne super his am 
+   <lb ed="#B" n="60"/>biguitatis tollendum dubium: praefatos contractus 
+   <lb ed="#B" n="61"/>licitos: iurique conformes, &amp; vendentes eosdem ad 
+   <lb ed="#B" n="62"/>ipsorum solutiouem censuum &amp; reddituum: iuxta
+   di<lb ed="#B" n="63" break="no"/>ctorum contractuum tenores : remoto
+   contradictio<lb ed="#B" n="64" break="no"/>nis obstaculo: efficaciter teneri auctoritate
+   apo<lb ed="#B" n="65" break="no"/>stolica praesentium serie declaramus. Nulli ergo ho 
+   <lb ed="#B" n="66"/>minum liceat hanc paginam nostrae declarationis 
+   <lb ed="#B" n="67"/>infringere / vel ei ausu temerario contraire. Si quis 
+   <lb ed="#B" n="68"/>autem hoc attentare praesumpsetit: indignationem 
+   <lb ed="#B" n="69"/>omnipotentis dei &amp; beatorum Petri &amp; Pauli
+   apo<lb ed="#B" n="70" break="no"/>stolorum eius, se nouerit incursurum. Datum
+   Ro<lb ed="#B" n="71" break="no"/>mae apud sanctum Petrum. pridie nonas Maii 
+   <lb ed="#B" n="72"/>Pontificatus nostri anno primo. Volentes itaque 
+   <lb ed="#B" n="73"/>quod praedictae literae debitum sortiantur effectum, 
+   <lb ed="#B" n="74"/>fraternitati vestrae per apostolica scripta
+   manda<lb ed="#B" n="75" break="no"/>mus quatenus vos vel duo aut vnus vestrum per 
+   <lb ed="#B" n="76"/>vos vel alium seu alios: quibusuis episcopo &amp;
+   cle<lb ed="#B" n="77" break="no"/>ro praedictis opportuno defensionis praesidio as 
+   <lb ed="#B" n="78"/>sistentes: dictas literas vbi / quando / &amp; quoties ex 
+   <lb ed="#B" n="79"/>pedire videritis: auctoritate nostra solenniter
+   pu<lb ed="#B" n="80" break="no"/>blicari faciatis, &amp; eadem auctoritate. per vendito 
+   <lb ed="#B" n="81"/>res / seu debitores reddituum &amp; censuum huiusmodi 
+   <lb ed="#B" n="82"/>dictis emptoribus seu illis quibus ipsorum
+   red<lb ed="#B" n="83" break="no"/>dituum seu censuum solutio praestanda fuerit: de eis 
+   <lb ed="#B" n="84"/>dem censibus iuxta contractuum &amp; conuentionum 
+   <lb ed="#B" n="85"/>super his habitorum formam &amp; tenorem: plenam 
+   <lb ed="#B" n="86"/>&amp; debitam satisfactionem impendi:
+   contradicto<lb ed="#B" n="87" break="no"/>res vero per censuram ecclesiasticam appellatio 
+   <lb ed="#B" n="88"/>ne postposita compescendo: non obstante si
+   ali<lb ed="#B" n="89" break="no"/>quibus communiter vel diuisim a sede apostolica 
+   <lb ed="#B" n="90"/>indultum existat: quod interdici / suspendi / vel excom 
+   <lb ed="#B" n="91"/>municari non possint per literas apostolicas: non 
+   <lb ed="#B" n="92"/>facientes plenam &amp; expressam, ac de verbo ad vel 
+   <lb ed="#B" n="93"/>bum de indulto huiusmodi mentionem. Datum 
+   <lb ed="#B" n="94"/>Romae apud sanctum Petrum pridie nonas Maii 
+   <lb ed="#B" n="95"/>Pontificatus nostri anno primo.
+  </p>
+    </div>
+   </body>
+  </text>
+</TEI>

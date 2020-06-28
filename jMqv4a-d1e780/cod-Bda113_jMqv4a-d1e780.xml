@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 37</title>
+      <author ref="#JohnMair">John Mair</author>
+      <respStmt>
+       <name>Jeffrey C. Witt</name>
+       <resp>TEI Encoder</resp>
+      </respStmt>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 37</title>
+       <date when="2020-06-09">June 27, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="B" n="cod-Bda113">Badius 1516</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+     guidelines for a diplomatic edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-06-27" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+      <pb ed="#B" n="146-r"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="jMqv4a-d1e780"> <!-- l4d15q37 -->
+      <head xml:id="jMqv4a-d1e780-Hd1e104">Quaestio 37</head>
+      <head xml:id="jMqv4a-d1e780-Hd1e107" type="question-title">An trapezitae seu campsores permutando et capiendo 
+  plusquam debent usuram commitant</head>
+      <p xml:id="jMqv4a-d1e780-d1e110">
+       <lb ed="#B" n="23"/>IN quaestionem superio 
+   <lb ed="#B" n="24"/>ri de bursa cambii nonnihil 
+   <lb ed="#B" n="25"/>loquutus sum. sed quia solet 
+   <lb ed="#B" n="26"/>sse disputatio communis an  
+   <lb ed="#B" n="27"/>trapezitae seum campsores
+   per<lb ed="#B" n="28" break="no"/>mutando &amp; capiendo plus quae 
+   <lb ed="#B" n="29"/>Adebent / vsuram committant: propter 
+   <lb ed="#B" n="30"/>ea nono circa hanc vsurae materiam Quaeritur. an isto 
+   <lb ed="#B" n="31"/>casus sit vsurarius. Sortes campsor dat tibi
+   scu<lb ed="#B" n="32" break="no"/>tu Parisiis in auro: &amp; capit abs te paruum album 
+   <lb ed="#B" n="33"/>in parua pecunia vltra scutum. Et arguitur quod sic capit 
+   <lb ed="#B" n="34"/>lucrum vltra sortem scilicet paruum album vi mutui. er 
+   <lb ed="#B" n="35"/>go est vsura. In oppositum arguitur. ars campsoria est 
+   <lb ed="#B" n="36"/>reipublicae admodum vtilis: &amp; contractus nullo iure 
+   <lb ed="#B" n="37"/>phibitus: ergo contractus campsorius dummodo ve 
+   <lb ed="#B" n="38"/>stiatur circunstantiis requisitis est licitus. Prima
+   pro<lb ed="#B" n="39" break="no"/>positio de eius vtilitate patet. Nam habenti aurum &amp; 
+   <lb ed="#B" n="40"/>volenti aliqua minuta emere: vel eleemosynam da 
+   <lb ed="#B" n="41"/>re, expedit paruam pecuniam habere. &amp; econuerso 
+   <lb ed="#B" n="42"/>parua pecunia non ita bene seruatur, nec ita facile de 
+   <lb ed="#B" n="43"/>fertur vt aurum: ergo conducit etiam interdum pro par 
+   <lb ed="#B" n="44"/>ua pecunia aurum habere. Item in cambio adhibita 
+   <lb ed="#B" n="45"/>schedula sort es vadit Parisiis Romam: si enim defer 
+   <lb ed="#B" n="46"/>ret secum aurum / esset ei laboriosum: &amp; forte suae ne 
+   <lb ed="#B" n="47"/>cis causa: quare accedit trapezitam quem bancarium vo 
+   <lb ed="#B" n="48"/>cant: dando ei Parisiis centum ducatos cum centum 
+   <lb ed="#B" n="49"/>solidis: quatenus Romae habeat centum ducatos 
+   <lb ed="#B" n="50"/>paecise. illud enim est vtile sorti. &amp; nunc ex praxi con 
+   <lb ed="#B" n="51"/>stat: quod cum Sortes non affert secun pecuniam vltra 
+   <!--0323.xml-->
+   <cb ed="#B" n="b"/> 
+       <!-- 146-r b -->
+       <lb ed="#B" n="52"/>sumptus: sed capit ordinate de bona vrbe in
+   vr<lb ed="#B" n="53" break="no"/>pem: sospes a latronibus euadit: secundum illud
+   luue<lb ed="#B" n="54" break="no"/>nalis. Cantabit vacuus eoram latrone viator. schedu 
+   <lb ed="#B" n="55"/>la autem quam secum affert: latronibus foret inutilis: &amp; 
+   <lb ed="#B" n="56"/>causa eorum mortis: quia per eam deprehenderentur. ergo 
+   <lb ed="#B" n="57"/>illud est sorti vtile: &amp; Plato campsor non tenetur gra 
+   <lb ed="#B" n="58"/>tis ei inseruire / curando dari ei Romae centum: quia 
+   <lb ed="#B" n="59"/>oportet eum habere illic famulum vel consocium
+   fi<lb ed="#B" n="60" break="no"/>delem / &amp; magnam supputationem pecuniarum faceres 
+   <lb ed="#B" n="61"/>&amp; tandem ad socium mittere famulum vel amicum. vit 
+   <lb ed="#B" n="62"/>tualiter Plato defert in itinere pecuniam tuam: etiam 
+   <lb ed="#B" n="63"/>cum securitate: quod multum tibi valet, non tamen sequitur 
+   <lb ed="#B" n="64"/>quod possit tantum capere abs te ac si tecum iret: &amp; tu 
+   <lb ed="#B" n="65"/>am solam pecuniam portaret saluam: quia non solum 
+   <lb ed="#B" n="66"/>pecuniam tua virtualiter defert: sed etiam multorum 
+   <lb ed="#B" n="67"/>aliorum: &amp; commodius quam iter faciendo / pecuniam portat. 
+   <lb ed="#B" n="68"/>Alia propositio, videlicet quod nullo iure est
+   reproba<lb ed="#B" n="69" break="no"/>tus, patet: quia nec naturali nec diuino nec huma 
+   <lb ed="#B" n="70"/>no. vel doceas de iure illo. circumstantias autem
+   lo<lb ed="#B" n="71" break="no"/>ci, temporis, finis, &amp; quis &amp;c. facile applicare potes. 
+  </p>
+      <p xml:id="jMqv4a-d1e780-d1e225">
+       <lb ed="#B" n="72"/>⁋ Respondetur concedendo quod contra 
+   <lb ed="#B" n="73"/>ctus dictus est licitus: &amp; nego quod sit vsurarius: quia 
+   <lb ed="#B" n="74"/>non capit lucrum vltra sortem vi mutui: sed vi per 
+   <lb ed="#B" n="75"/>mutationis. modo permutatio non est mutuum: sed
+   con<lb ed="#B" n="76" break="no"/>tractus omnino distinctus. Sed dicis. saltem Sor 
+   <lb ed="#B" n="77"/>tes campsor in casu quaestionis non seruat latitudinem 
+   <lb ed="#B" n="78"/>iustitiae commutatiuae: quia dat solum scutum &amp;
+   ca<lb ed="#B" n="79" break="no"/>pit paruum album vltra. sed aggregatum. xxxv.
+   so<lb ed="#B" n="80" break="no"/>iidorum cum albo in paua pecunia plus valet tibi in  
+   <lb ed="#B" n="81"/>caupona vel alibi quam scutum: ergo sequitur quod Sortes 
+   <lb ed="#B" n="82"/>illicite contrahit.
+  </p>
+      <p xml:id="jMqv4a-d1e780-d1e252">
+   ⁋ Respondetur negando quod Sortes non 
+   <lb ed="#B" n="83"/>seruat latitudinem iustitiae commutatiuae. licet e tamn
+   ag<lb ed="#B" n="84" break="no"/>gregatum pecuniae tuae plus valeat in caupona ves in 
+   <lb ed="#B" n="85"/>domo mercatoris qui scutum eius: tamen non plus valet 
+   <lb ed="#B" n="86"/>quam aggregatum ex suo labore quo tibi inseruit &amp; suo 
+   <lb ed="#B" n="87"/>scuto: sicut tu emis carius salmonem Parisiis quam
+   va<lb ed="#B" n="88" break="no"/>leat Aberdoniae: sed non secundum labores &amp; expensas 
+   <lb ed="#B" n="89"/>factas ab intermediis mercatoribus ad vrbe Pari 
+   <lb ed="#B" n="90"/>siensem vsque. oportet enim ratione laborum quos 
+   <lb ed="#B" n="91"/>mercatores habuerunt vltra expensas aliquid dare. 
+   <lb ed="#B" n="92"/>Sic in proposito nummularius facit expensas in se 
+   <lb ed="#B" n="93"/>&amp; in sua familia vt tibi &amp; aliis inseruiat: capiens ab 
+   <lb ed="#B" n="94"/>vnoquoque pro expensis &amp; labore: non ab vno solo 
+   <lb ed="#B" n="95"/>sed proportionabiliter cum quo plus cambit ab eo 
+   <lb ed="#B" n="96"/>plus accipit, nec habebit solutionem nisi ab illis cum 
+   <lb ed="#B" n="97"/>quibus cambit. oportet ergo vt aliquid habeat
+   vn<lb ed="#B" n="98" break="no"/>de viuat, abs te &amp; tibi similibus capere ratione ex 
+   <lb ed="#B" n="99"/>ensarum &amp; seruitii impensi. Sed dicis. tunc non  
+   <lb ed="#B" n="100"/>licebit lanio vel cauponi aliquid capere ratione per 
+   <lb ed="#B" n="101"/>mutationis: cum enim ex hac arte non viuant: fa 
+   <lb ed="#B" n="102"/>ciunt contra iustitiam commutatiuam. Dico quod non 
+   <lb ed="#B" n="103"/>sequitur: dummodo parum capiant: quia habent 
+   <lb ed="#B" n="104"/>sollicitudinem in numeranda pecunia: &amp; in eius 
+   <lb ed="#B" n="105"/>bonitate cognoscenda. ratione cuius seruitii quod ti 
+   <!--0324.xml-->
+   <pb ed="#B" n="146-v"/>
+       <cb ed="#B" n="a"/>
+       <lb ed="#B" n="1"/>bi impendere non tenentur: licebit eis aliquid accipere. Po 
+   <lb ed="#B" n="2"/>test tamen esse contractus campsorius illicitus si
+   immode<lb ed="#B" n="3" break="no"/>rate capiat campsor ab isto vel illo: ita vt eius labor 
+   <lb ed="#B" n="4"/>&amp; industria huic applicata cum pecunia quam dat: non 
+   <lb ed="#B" n="5"/>tantum valeant quatum capit ab isto. Etia cum cambio 
+   <lb ed="#B" n="6"/>potest misceri alius contractus scilicet mutui capiendo
+   ali<lb ed="#B" n="7" break="no"/>quid ratione dilationis solutionis: &amp; tunc erit vsura. 
+   <lb ed="#B" n="8"/>potest tamen capere ratione interesse. Quomodo autem
+   li<lb ed="#B" n="9" break="no"/>ceat ratione mutui cape / &amp; quomodo non: ex superio 
+   <lb ed="#B" n="10"/>ribus nosti.
+  </p>
+      <p xml:id="jMqv4a-d1e780-d1e332">
+   ⁋ Ex dictis sequuntur propositiones.
+   Pri<lb ed="#B" n="11" break="no"/>ma. campsor pot capere vltra interesse: hoc est vltra 
+   <lb ed="#B" n="12"/>damnu quod incurrit vel lucrum quod non incurrit
+   ratio<lb ed="#B" n="13" break="no"/>ne permutationis. nam potest capore ratione laboris &amp; i 
+   <lb ed="#B" n="14"/>dustriae quam toti reipublicae applicat. Secunda
+   proposi<lb ed="#B" n="15" break="no"/>tio. campsor dans Sorti scutum pro alba pecunia: licite 
+   <lb ed="#B" n="16"/>capit liardum vltra scuti valore: &amp; interea dat eandem 
+   <lb ed="#B" n="17"/>albam pecuniam Platoni vel partem eius, puta minus liar 
+   <lb ed="#B" n="18"/>do quam sit vnum scutum: &amp; a Platone capit vnum scutum. 
+   <lb ed="#B" n="19"/>Tertia propositio, quando Sortes mutuat Platoni Pari 
+   <lb ed="#B" n="20"/>siis. x. papales ducatos ea lege: vt recipiat totidem 
+   <lb ed="#B" n="21"/>Romae: &amp; Sortes recipit. x. ducatos papales Raotoae 
+   <lb ed="#B" n="22"/>qui plus illic valent quam Parisiis sorte inscio: non est vsu 
+   <lb ed="#B" n="23"/>ra. sicut si nunc in augusto mutuo sorti. xx. scuta so 
+   <lb ed="#B" n="24"/>laria: &amp; in fine octobris crescit eorum valor ad soli 
+   <lb ed="#B" n="25"/>dum vnum: licite recipio meos. xx. aureos solares. 
+   <lb ed="#B" n="26"/>hoc enim ex tempore accidit &amp; praeter meam intentionem. Et est 
+   <lb ed="#B" n="27"/>simile. si mutuem tibi a. mensuram tritici in principio 
+   <lb ed="#B" n="28"/>augusti valentem. xxii. ad summum. &amp; tenearis mihi 
+   <lb ed="#B" n="29"/>n decembri soluere vbi eadem mensura valet. xxv. 
+   <lb ed="#B" n="30"/>non pecco capiendo a. mensuram nullo modo diminuendo 
+   <lb ed="#B" n="31"/>de percio. Sed si ex intentione illius excessus consequen 
+   <lb ed="#B" n="32"/>di mutuaret, esset vsurarius.
+  </p>
+      <p xml:id="jMqv4a-d1e780-d1e382">
+   ⁋ De omnibus autem speciebus 
+   <lb ed="#B" n="33"/>cambii: si praedictorum in aliis contractibus memor sis:
+   iu<lb ed="#B" n="34" break="no"/>dicare poteris. vtpote quando datur alba pecunia pro
+   au<lb ed="#B" n="35" break="no"/>ro &amp; cotra, quando pecunia non recepta in Gallia
+   aesti<lb ed="#B" n="36" break="no"/>matur minoris a campsore Parisiensi: vbi si vigeat in 
+   <lb ed="#B" n="37"/>regione vicina / potest campsor minus capere. si ve 
+   <lb ed="#B" n="38"/>ro oporteat eum multa exponere antequam de illa pecu 
+   <lb ed="#B" n="39"/>nia faciat suum commodum: tanto proportionabiliter mi 
+   <lb ed="#B" n="40"/>nus dabit licite. de cambio per literas: &amp; etiam de cam 
+   <lb ed="#B" n="41"/>bio quod aliqui siccum vocant quod Romae committitur: vt 
+   <lb ed="#B" n="42"/>puta quando quis habet beneficium Rome: &amp; non habet pe 
+   <lb ed="#B" n="43"/>cuniam in proptu pro annata soluenda: capit illic pecu 
+   <lb ed="#B" n="44"/>niam ab aliquo mercatore promittendo vltra illud quod 
+   <lb ed="#B" n="45"/>ab eo capit. Ex dictis omnia illa dilui possunt. Quidam 
+   <lb ed="#B" n="46"/>hunc modum dicendi magna verborum prolixitate impu 
+   <lb ed="#B" n="47"/>gnat: sed inutiliter. siue autem species istae specie distin 
+   <lb ed="#B" n="48"/>guantur siue non: nihil refert. semper enim faciliorem
+   mo<lb ed="#B" n="49" break="no"/>dum loquendi imitabor in vocabulis: vtpote dicendo 
+   <lb ed="#B" n="50"/>quod aliqua est permutatio cambii minuti: cambii per 
+   <lb ed="#B" n="51"/>literas: &amp; canbii sicci. in talibus enim non est de nomnibus 
+   <lb ed="#B" n="52"/>contendendum. Si ad hanc quaestionem breuem cum dictis praece 
+   <lb ed="#B" n="53"/>dentibus de vsura oculum metis convertas: purius de omni 
+   <lb ed="#B" n="54"/>pus his cambiis iudicabis quam historici ipsi summistae 
+   <lb ed="#B" n="55"/>qui coctum nihil afferre solent.
+  </p>
+    </div>
+   </body>
+  </text>
+</TEI>

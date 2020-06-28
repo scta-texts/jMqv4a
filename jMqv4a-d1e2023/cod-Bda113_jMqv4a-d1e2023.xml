@@ -1,0 +1,556 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 20</title>
+      <author ref="#JohnMair">John Mair</author>
+      <respStmt>
+       <name>Jeffrey C. Witt</name>
+       <resp>TEI Encoder</resp>
+      </respStmt>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 20</title>
+       <date when="2020-06-09">June 27, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="B" n="cod-Bda113">Badius 1516</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+     guidelines for a diplomatic edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-06-27" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+      <pb ed="#B" n="377-v"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="jMqv4a-d1e2023"> <!-- l4d49q20 -->
+      <head xml:id="jMqv4a-d1e2023-Hd1e104">Quaestio 20</head>
+      <head xml:id="jMqv4a-d1e2023-Hd1e107" type="question-title">Utrum corpora possint naturaliter vel supernaturaliter 
+  per dotem subtilitatis se mutuo penetrare</head>
+      <p xml:id="jMqv4a-d1e2023-d1e110">
+       <lb ed="#B" n="30"/>⁋ Distinctionis Quadragesimae nonae 
+   <lb ed="#B" n="31"/>Quaestio Vigesima. 
+   <lb ed="#B" n="32"/>lgesimo quaeritur de 
+   <lb ed="#B" n="33"/>dote subtilitatis: Vtrum cor 
+   <lb ed="#B" n="34"/>pora possint naturaliter vel 
+   <lb ed="#B" n="35"/>supernaturaliter per dotem sub 
+   <lb ed="#B" n="36"/>tilitatis se mutuo penetra: 
+   <lb ed="#B" n="37"/>re. In primis vocabula non 
+   <lb ed="#B" n="38"/>&amp; nulla quaestionis / paucis expla 
+   <lb ed="#B" n="39"/>nabimus: deinde ad quaestionem more consueto con 
+   <lb ed="#B" n="40"/>clusiue responsuri. Naturale in proposito non distin 
+   <lb ed="#B" n="41"/>guitur contra liberum: sed contra supernaturale: ita vi 
+   <lb ed="#B" n="42"/>illud naturaliter dicatur posse fieri, quod secundum legen 
+   <lb ed="#B" n="43"/>institutam in qua sumus cum influentia dei gna 
+   <lb ed="#B" n="44"/>li a creatura fieri potest. Subtile autem dicitur a virtute pe 
+   <lb ed="#B" n="45"/>netrandi: vt dicit philosophus. ii. de Gneationae. Res 
+   <lb ed="#B" n="46"/>autem est subtilis ac penetratiua multifariam. aut pro 
+   <lb ed="#B" n="47"/>pter acutiem in extremo vt sentis, acus. aut propter 
+   <lb ed="#B" n="48"/>materiae paucitatem: vt aer, ignis. aut propter
+   actiui<lb ed="#B" n="49" break="no"/>tatem rei. &amp; sic vinum est magis pene tratiuum quae
+   sim<lb ed="#B" n="50" break="no"/>plex aqua quantumcumque tenuis &amp; bona, quod expeori 
+   <lb ed="#B" n="51"/>mento deprehendimus. nam aqua modica vino
+   admi<lb ed="#B" n="52" break="no"/>xta magis refrigerat sanum quam si pura bibatur: quia vi 
+   <!--0786.xml-->
+   <cb ed="#B" n="b"/> 
+       <!--377vb-->
+       <lb ed="#B" n="53"/>num facit eam ad loca corporis penetrare ad quae  
+   <lb ed="#B" n="54"/>per se penetrare non posset. Sed nullo istorum mo 
+   <lb ed="#B" n="55"/>dorum capimus subtile in proposito. Non primo 
+   <lb ed="#B" n="56"/>modo: quia corpora in debita quatitate &amp; figura
+   re<lb ed="#B" n="57" break="no"/>surgent, nec secundo modo. nam is fuit error Eucii. de 
+   <lb ed="#B" n="58"/>quo refert <name xml:id="jMqv4a-d1e2023-Nd1e181">Gregorius.</name> xiiii. Moralium dicens Non 
+   <lb ed="#B" n="59"/>sicut Eucius Constantinopolitanae vrbis episco 
+   <lb ed="#B" n="60"/>pus scripsit: corpus nostrum in illa resurrectionis 
+   <lb ed="#B" n="61"/>gloria erit impalpabile: ventis aereque subtilius. 
+   <lb ed="#B" n="62"/>Nec tertio modo: quia nulla est actiuitas
+   natura<lb ed="#B" n="63" break="no"/>lis quae vnum corpus faciat cum alio. vt in conclust 
+   <lb ed="#B" n="64"/>onibus euestigio dicemus. 
+  </p>
+      <p xml:id="jMqv4a-d1e2023-d1e198">
+       <lb ed="#B" n="65"/>⁋ His pauculis praelibatis pono con 
+   <lb ed="#B" n="66"/>clusiones: quarum Prima est. Duo corpora non possunt 
+   <lb ed="#B" n="67"/>se penetrare naturaliter. Quae probatur. iiii. Phy 
+   <lb ed="#B" n="68"/>sicorum. nam si duo corpora possent esse in eodem 
+   <lb ed="#B" n="69"/>loco, tria possent: &amp;. iiii. &amp; sic sine statu. consequen 
+   <lb ed="#B" n="70"/>tia haec conditionalis vals: quia eadem est ratio de duo 
+   <lb ed="#B" n="71"/>bus &amp; quibuscumque aliis. Secundo probatur eadem conclusio: 
+   <lb ed="#B" n="72"/>quia experimento deprehenditur, si a. corpus in locob 
+   <lb ed="#B" n="73"/>corporis locare volueris: necesse est b corpus cedere 
+   <lb ed="#B" n="74"/>&amp; ita clauum clauo retundimus.
+  </p>
+      <p xml:id="jMqv4a-d1e2023-d1e223">
+   ⁋ Secunda conclusio 
+   <lb ed="#B" n="75"/>Duo corporapossunt esse in eodem loco proprio: hoc 
+   <lb ed="#B" n="76"/>est in loco adaequato probatur. ita factum est: ergo ita 
+   <lb ed="#B" n="77"/>fieri potest. consequentia tenet a minus amplo ad
+   ma<lb ed="#B" n="78" break="no"/>gis amplum. &amp; antecedens patet: quia Christus surrexit de 
+   <lb ed="#B" n="79"/>monumento clauso, vt canit ecclesia. &amp; intrauit ad  
+   <lb ed="#B" n="80"/>discipulos ianuis clausis, vt euangelista testatur.
+   fi<lb ed="#B" n="81" break="no"/>gmentum autem est dicere quod per rimas vel fenestras in  
+   <lb ed="#B" n="82"/>trauerit. quia si sic: euangelistae non recitassent
+   il<lb ed="#B" n="83" break="no"/>lud tanquam miraculum. nam hac via intrare est
+   impoten<lb ed="#B" n="84" break="no"/>tium. Praeterea Christus ascendit ad supos &amp; ad de 
+   <lb ed="#B" n="85"/>xteram patris per caelos: qui tamen non sunt diuisi. De eis 
+   <lb ed="#B" n="86"/>enim dicitur Iob. xxxvii. Qui solidissimi quasi aere 
+   <lb ed="#B" n="87"/>fusi sunt. Nec cedit caelum corpori sicut aqua pisci 
+   <lb ed="#B" n="88"/>vel aer aui. secundo de caelo, nec in caelo est vacuum 
+   <lb ed="#B" n="89"/>in quo erunt beatorum corpora post diem iudicii. 
+  </p>
+      <p xml:id="jMqv4a-d1e2023-d1e258">
+       <lb ed="#B" n="90"/>⁋ Tertia conclusio. omnia corpora beatorum post dien 
+   <lb ed="#B" n="91"/>iudicii habebunt dotem subtilitatis. probatur. corpora 
+   <lb ed="#B" n="92"/>beatorum possunt esse cum aliis corporibus post 
+   <lb ed="#B" n="93"/>diem iudicii: &amp; hoc non fit nisi per dotem subtilitatis. 
+   <lb ed="#B" n="94"/>gitur. minor est nota apud omnem theologum.
+   Ma<lb ed="#B" n="95" break="no"/>ior probatur: quia sunt cum aliquibus corporibus: ex con 
+   <lb ed="#B" n="96"/>clusione praecedente: &amp; idem est iudicium in omnibus 
+   <lb ed="#B" n="97"/>Rursus superius ostendimus beatum posse suum 
+   <lb ed="#B" n="98"/>corpus mutare in instanti: &amp; hoc non per
+   diuisio<lb ed="#B" n="99" break="no"/>nem corporum. quia si sic fieret, esset resistentia: &amp; 
+   <lb ed="#B" n="100"/>non mutaretur in instanti. licet ad hanc rationem 
+   <lb ed="#B" n="101"/>quis dicere posset quod hanc resistentiam potentia 
+   <lb ed="#B" n="102"/>dei exuperabit. 
+  </p>
+      <p xml:id="jMqv4a-d1e2023-d1e289">
+       <lb ed="#B" n="103"/>⁋ Contra primam conclusionem ar 
+   <lb ed="#B" n="104"/>guitur. Duo conceptus animi sunt simul in anima: 
+   <lb ed="#B" n="105"/>ergo duo corpora possunt esse simul. Ances patet 
+   <!--0787.xml-->
+   <pb ed="#B" n="378-r"/>
+       <cb ed="#B" n="a"/>
+       <lb ed="#B" n="1"/>quia aliquis potest simul hare duas notitias quaerum vna sit 
+   <lb ed="#B" n="2"/>aibedinis: &amp; altera nigredinis. simiter notitiam directam 
+   <lb ed="#B" n="3"/>a ibedinis, &amp; notitiam reflexam illius: quae non identifica 
+   <lb ed="#B" n="4"/>tur: alioquin eadem erit notitia distincta &amp; intuiti 
+   <lb ed="#B" n="5"/>ua sui, &amp; se generabit, quod est impossibile iuxta
+   bea<lb ed="#B" n="6" break="no"/>tum <name xml:id="jMqv4a-d1e2023-Nd1e317" ref="#Augustine">Augustinus</name> i de trinitate cap. i. Respondetur conceden 
+   <lb ed="#B" n="7"/>do antecedens vt ratio conuincit / &amp; negando
+   consequen<lb ed="#B" n="8" break="no"/>tiam.
+  </p>
+      <p xml:id="jMqv4a-d1e2023-d1e325">
+   ⁋ Secundo arguitur. Lumen &amp; aer sunt simul: &amp; 
+   <lb ed="#B" n="9"/>siliter species visibiles: &amp; tamen sunt corpora: quia nullum 
+   <lb ed="#B" n="10"/>accidens spirituale habent subiectum pure corporeum.
+   Respon<lb ed="#B" n="11" break="no"/>detur concedendo maiorem, &amp; distinguendo
+   mi<lb ed="#B" n="12" break="no"/>norem. Nam corpus capitur multifariam. vno modo pro 
+   <lb ed="#B" n="13"/>omni extenso a causalitate qualitatum primarum im 
+   <lb ed="#B" n="14"/>muni. de talibus autem corporibus non est inconue 
+   <lb ed="#B" n="15"/>niens quod sint simul penetratiue: immo non patet esse 
+   <lb ed="#B" n="16"/>sine corporibus substantialibus tanquam suis subiectis 
+   <lb ed="#B" n="17"/>&amp; hoc secundum omnem positionem. Etiam tenendo 
+   <lb ed="#B" n="18"/>quod quantitas est res quanta: corpora de
+   praedicamen<lb ed="#B" n="19" break="no"/>to quantitatis possunt esse simul. vt patet de
+   al<lb ed="#B" n="20" break="no"/>bedine, dulcedine, humiditate, &amp; caliditate in
+   la<lb ed="#B" n="21" break="no"/>cte: de materia &amp; forma lactis, non autem corpora 
+   <lb ed="#B" n="22"/>de praedicamento substantiae: quia corpus in praedica 
+   <lb ed="#B" n="23"/>mento substantiae est res composita ex materia &amp; 
+   <lb ed="#B" n="24"/>forma. &amp; talia non posse esse simul exprientia cogno  
+   <lb ed="#B" n="25"/>scimus. ratio autem probabilis ducit nos in oppositu de 
+   <lb ed="#B" n="26"/>aliis. Si vero teneatur quantitas distingui a re
+   quan<lb ed="#B" n="27" break="no"/>ta: ista praenominata non sunt corpora de praedicamento 
+   <lb ed="#B" n="28"/>quantitatis: cum non sint quantitates: sed ab
+   ea<lb ed="#B" n="29" break="no"/>dem quantitate extendantur. Contra hoc arguitur te 
+   <lb ed="#B" n="30"/>nendo opinionem communiorem apud nominales, quam 
+   <lb ed="#B" n="31"/>quantitas est res quanta. hae partes se penetrant, de 
+   <lb ed="#B" n="32"/>monstrando materiam &amp; formam: &amp; hae partes sunt 
+   <lb ed="#B" n="33"/>pars superior &amp; pars inferior: demonstrando
+   bru<lb ed="#B" n="34" break="no"/>nellum. ergo pars inferior &amp; pars superior se penetrant. com 
+   <lb ed="#B" n="35"/>sequentia patet cum maiore. solum restat scrupulus 
+   <lb ed="#B" n="36"/>in minore: qui sic euacuatur. hoc totum est materia &amp; for 
+   <lb ed="#B" n="37"/>ma in sensu composito: &amp; hoc totum est pars superior 
+   <lb ed="#B" n="38"/>&amp; inferior / ex dictis in distinctione. xliii. igitur. Raspon 
+   <lb ed="#B" n="39"/>detur concedendo quod pars superior &amp; pars inferior sunt 
+   <lb ed="#B" n="40"/>penetratiue simul: sed haec pars / demonstrando partem 
+   <lb ed="#B" n="41"/>inferiorem / non est penetratiue cum illa / demonstran 
+   <lb ed="#B" n="42"/>do partem superiorem. Potest tamen esse difficultas ex 
+   <lb ed="#B" n="43"/>parte relatiui reciptoci de hac, pars superior &amp; pars 
+   <lb ed="#B" n="44"/>inferior se penetrant.
+  </p>
+      <p xml:id="jMqv4a-d1e2023-d1e406">
+   ⁋ Tertio arguitur. Vinum &amp;
+   pa<lb ed="#B" n="45" break="no"/>nis se penaetrant: vt cum panis diu manet in vino 
+   <lb ed="#B" n="46"/>Forte dicis. vinum includitur in potis panis: &amp; aer 
+   <lb ed="#B" n="47"/>excluditur: &amp; sic vinum &amp; panis non sunt in eodem 
+   <lb ed="#B" n="48"/>loco proprio. Obiicio. quaelibet pars panis extracta e 
+   <lb ed="#B" n="49"/>vino minutatim fracta est rubra: ergo cum
+   qua<lb ed="#B" n="50" break="no"/>libet parte est vinum: quia rubedo non migrat de 
+   <lb ed="#B" n="51"/>vino in panem. Respondetur negando quod quaelibet
+   per<lb ed="#B" n="52" break="no"/>est rubra. nam multae partes extractae apparent 
+   <lb ed="#B" n="53"/>albae intrinsecus. &amp; licet ita esset vt argumentum
+   ima<lb ed="#B" n="54" break="no"/>ginatur: nihil concluderet: quia humiditas vini suc 
+   <lb ed="#B" n="55"/>cessu temporis humectat panem: nouum humorem &amp; 
+   <!--0787.xml-->
+   <cb ed="#B" n="b"/> 
+       <!-- 378-r b -->
+       <lb ed="#B" n="56"/>tubedinem producendo per commixtionem quaelitatum pri 
+   <lb ed="#B" n="57"/>marum.
+  </p>
+      <p xml:id="jMqv4a-d1e2023-d1e443">
+   ⁋ Quarto arguitur. Ferrum &amp; ignis in ferro 
+   <lb ed="#B" n="58"/>ignito simul manent: &amp; tamen vtrumque illorum est corpus 
+   <lb ed="#B" n="59"/>de praedicamento substantiae: ergo conclusio falsa. 
+   <lb ed="#B" n="60"/>consequentia clara est cum minore. Probatur
+   ma<lb ed="#B" n="61" break="no"/>ior. primo, ferrum tantum calefacit quantum ignis: vt 
+   <lb ed="#B" n="62"/>patet tenendo ferrum candens in altera manu, &amp; ignem 
+   <lb ed="#B" n="63"/>in altera. &amp; nihil tantum calefacit quantum ignis nisi 
+   <lb ed="#B" n="64"/>verus ignis. igitur. Praeterea illud fertum
+   calidissi<lb ed="#B" n="65" break="no"/>mum stuppa applicatam incendit. sed ferrum per suam 
+   <lb ed="#B" n="66"/>formam non producit ignem: ergo illic est verus ignis 
+  </p>
+      <p xml:id="jMqv4a-d1e2023-d1e466">
+       <lb ed="#B" n="67"/>⁋ Respondetur negando maiorem. &amp; ad primam
+   probatio<lb ed="#B" n="68" break="no"/>nem experientiae innitentem quod ferrum tantum calefacit 
+   <lb ed="#B" n="69"/>hoc concedo, sed nego quod nihil non ignis tantum 
+   <lb ed="#B" n="70"/>calefacit quantum hic paruus ignis, licet ignis sit 
+   <lb ed="#B" n="71"/>intensiue calidior ferro. Nam penes aliud &amp; aliud
+   at<lb ed="#B" n="72" break="no"/>tenditur intensio formae: &amp; potentia siue actiuitas eius 
+   <lb ed="#B" n="73"/>dem. licet idem in re sit potentia formae &amp; eius intensio. 
+   <lb ed="#B" n="74"/>Intensio enim formae attenditur penes hoc quod est 
+   <lb ed="#B" n="75"/>habere plures determinatos gradus formae pene 
+   <lb ed="#B" n="76"/>tratiue simul: &amp; remissio penes hoc quod est habere 
+   <lb ed="#B" n="77"/>pauciores gradus penetratiue. &amp; cum sola forma sit 
+   <lb ed="#B" n="78"/>actiua actione reali: semper vbi plus est de forma 
+   <lb ed="#B" n="79"/>sufficienter applicata passo: fortior erit actio: &amp; per 
+   <lb ed="#B" n="80"/>consequens maior potentia. Dixi (applicata pas 
+   <lb ed="#B" n="81"/>so) quia si esset plus de forma extensiue in vno sub 
+   <lb ed="#B" n="82"/>iecto: ita vt vna pars solum illius formae posset 
+   <lb ed="#B" n="83"/>attingere passum: non oporteret esse maiorem actio 
+   <lb ed="#B" n="84"/>nem: quia passum non esset infra sphaeram
+   actiui<lb ed="#B" n="85" break="no"/>tatis illius totius formae. modo palam est quod
+   con<lb ed="#B" n="86" break="no"/>tingit dare duo passa aequaliter intensiue disposi 
+   <lb ed="#B" n="87"/>a seu qualificata: quorum vnum plus habeat de
+   for<lb ed="#B" n="88" break="no"/>ma quam aliud. vt duo corpora ferro vel igni aequa  
+   <lb ed="#B" n="89"/>liter intensiue calida: quorum vnum est duplum
+   ex<lb ed="#B" n="90" break="no"/>tensiue ad aliud. Et propterea stat bene quod sint duo 
+   <lb ed="#B" n="91"/>corpora a. &amp; b. quorum alterumsciliet a. erit infinite inten 
+   <lb ed="#B" n="92"/>siue calidum: &amp; b. solum vt quatuor: &amp; tamen erunt aequa 
+   <lb ed="#B" n="93"/>lis potentiae. hoc patet capiedo a. &amp; b. pedalia: quo 
+   <lb ed="#B" n="94"/>rum vtrumque erit vniformiter calidum vt quatuor: 
+   <lb ed="#B" n="95"/>ponatur ad imaginationem / vel de potentia dei / calor 
+   <lb ed="#B" n="96"/>secundae partis proportionalis a. corporis extensiue cum 
+   <lb ed="#B" n="97"/>toto a. &amp; sic de tertia parte proportionali: &amp; qualibet 
+   <lb ed="#B" n="98"/>sequente. Hoc casu possibili admisso a. erit infini 
+   <lb ed="#B" n="99"/>te calidum. vel si in hoc haesitaueris quod calor
+   secun<lb ed="#B" n="100" break="no"/>dae partis proportionalis non posset extendi per totum 
+   <lb ed="#B" n="101"/>cum intensione graduali vt quatuor: ponatur
+   quaeli<lb ed="#B" n="102" break="no"/>bet pars caloris cum alia: vt putatur de corpore 
+   <lb ed="#B" n="103"/>Christi in eucharistia iuxta vnam positionem: quod 
+   <lb ed="#B" n="104"/>illa corpora sint aequalis potentiae in fine: quia aec 
+   <lb ed="#B" n="105"/>liter habent de forma. Ex istis habetur solutio ad 
+   <lb ed="#B" n="106"/>argumentum, non esse mirandum quod ferrum
+   can<lb ed="#B" n="107" break="no"/>dens vigorosius calefaciat quam pars ignis: cum plus 
+   <lb ed="#B" n="108"/>habeat de forma ob densitatem materiae ferri. Nec 
+   <lb ed="#B" n="109"/>illa maior actiuitas in calefaciendo vel in manum 
+   <lb ed="#B" n="110"/>laedeudo arguit intensiorem formam. quod patet alium 
+   <!--0788.xml-->
+   <pb ed="#B" n="378-v"/>
+       <cb ed="#B" n="a"/>
+       <lb ed="#B" n="1"/>de. nam capiatur frustum picis vel cerae rarae calefactae 
+   <lb ed="#B" n="2"/>parum manum ealefacit: si vero condensetur, vel plus 
+   <lb ed="#B" n="3"/>de materia calida applicetur: magis calefacit ob 
+   <lb ed="#B" n="4"/>maiorem formam tuae manui applicatam. Notum est au 
+   <lb ed="#B" n="5"/>tem quod cera calida rata statim condensata non intendi 
+   <lb ed="#B" n="6"/>tur: quia calor manet in eodem subiecto in quo priu 
+   <lb ed="#B" n="7"/>erat.
+  </p>
+      <p xml:id="jMqv4a-d1e2023-d1e586">
+   ⁋ Ad aliud vbi dicis quod ferrum ignitum incendit 
+   <lb ed="#B" n="8"/>stuppa. hoc est verum ratione ignis in poris ferri in 
+   <lb ed="#B" n="9"/>clusi: sed si nullus ignis includeretur in illis poris: 
+   <lb ed="#B" n="10"/>ostendere nequires quod ferrum candens stuppam incenderet 
+   <lb ed="#B" n="11"/>Adhuc autem illo ostenso non habebis propositum 
+   <lb ed="#B" n="12"/>quia dicetur quod calor est partiale principium productiuum 
+   <lb ed="#B" n="13"/>ignis, vel forma ferri: sicut in confricatione ferri cum 
+   <lb ed="#B" n="14"/>lapide duro: vel ignis producti a radiis solaribusa 
+   <lb ed="#B" n="15"/>speculo concauo reflexis, quod est huic negocio im 
+   <lb ed="#B" n="16"/>pertinens. De difficultate tamen in se, non nihil dixim 
+   <lb ed="#B" n="17"/>in. xii. dist. huius.
+  </p>
+      <p xml:id="jMqv4a-d1e2023-d1e610">
+   ⁋ Quinto arguitur. Signetur gra 
+   <lb ed="#B" n="18"/>ue simplex in vacuo: ipsum cadit in instati in quo 
+   <lb ed="#B" n="19"/>pars superior &amp; inferior erunt in eodem loco ima 
+   <lb ed="#B" n="20"/>ginario: ergo penetratio corporum naturaliter est 
+   <lb ed="#B" n="21"/>possibilis. Corporum enim penetratio non requirit
+   lo<lb ed="#B" n="22" break="no"/>cum verum. vt si duo corpora se penetrarent extra 
+   <lb ed="#B" n="23"/>vniuersum. Respondetur primo negando quod illic esset pe 
+   <lb ed="#B" n="24"/>netratio: quia ad penetrationem non sufficit partes 
+   <lb ed="#B" n="25"/>esse simul in illa mutatione subita, nisi id permanem 
+   <lb ed="#B" n="26"/>ter fieret. Secundo conceditur quod illic est vera
+   penetra<lb ed="#B" n="27" break="no"/>tio corporum &amp; naturaliter / praesupposito tamen miraculo 
+   <lb ed="#B" n="28"/>Nos autem in conclusione itelligimus nullo miraculo 
+   <lb ed="#B" n="29"/>puio.
+  </p>
+      <p xml:id="jMqv4a-d1e2023-d1e639">
+   ⁋ Sexto arguitur. Capio ceram bipedalem raran 
+   <lb ed="#B" n="30"/>quam condenso ad pedalitatem. lam sic. a. &amp; b. bipedalita 
+   <lb ed="#B" n="31"/>tes sunt in loco proprio inquo fuit a. prius. quia pono 
+   <lb ed="#B" n="32"/>quod b. pedalitas reducatur ad a. &amp; locu eius
+   subintro<lb ed="#B" n="33" break="no"/>eat. Non potes dicere quod illic erat aer inclusus &amp; ex 
+   <lb ed="#B" n="34"/>pulsus in condensatione: sicut in condensatione
+   la<lb ed="#B" n="35" break="no"/>nae: quia secludo poros includentes externum in ce 
+   <lb ed="#B" n="36"/>ra. Fortasse dicis quod in rarefactione acquiritur nous 
+   <lb ed="#B" n="37"/>quantitas ex qua cum praecedente &amp; remanente fit quan 
+   <lb ed="#B" n="38"/>titas maior: &amp; in condensatione aliqua pars illius 
+   <lb ed="#B" n="39"/>corrumpitur, &amp; sic argumentum non habet iocum: quod supa 
+   <lb ed="#B" n="40"/>ponit condensationem fieri propter partium
+   mate<lb ed="#B" n="41" break="no"/>rialem appropinquationem. Contra hoc arguitur. si te 
+   <lb ed="#B" n="42"/>neatur quantitas esse res quanta: nihil falsi supi 
+   <lb ed="#B" n="43"/>ponit argumentum. &amp; si teneatur oppositum: fractio 
+   <lb ed="#B" n="44"/>data non sufficit: quia secundum eam quantitas esset
+   intensi<lb ed="#B" n="45" break="no"/>bilis &amp; remissibilis contra philosophum in Praedica 
+   <lb ed="#B" n="46"/>mentis dicentem quod quantitas non suscipit
+   ma<lb ed="#B" n="47" break="no"/>gis neque minus. Nec valet dicere, quod semper acquiri 
+   <lb ed="#B" n="48"/>noua quantitas in rarefactione quae denominat 
+   <lb ed="#B" n="49"/>totum magis extensum: ita vt non stet idem ad 
+   <lb ed="#B" n="50"/>cidens denominare subiectum aliquantum, &amp; post 
+   <lb ed="#B" n="51"/>ea maius &amp; deinde minus: &amp; quod in condensatione 
+   <lb ed="#B" n="52"/>tota illa quantitas corrumpitur. quia si sic, in
+   ra<lb ed="#B" n="53" break="no"/>refactione semper erit noua quantitas: ita vt nu 
+   <lb ed="#B" n="54"/>la mancat per se vel aliquid eius per duo instantia 
+   <lb ed="#B" n="55"/>&amp;sic non crit mutatio successiua.
+  </p>
+      <p xml:id="jMqv4a-d1e2023-d1e698">
+   ⁋ Dico ergo ad 
+   <!--0788.xml-->
+   <cb ed="#B" n="b"/> 
+       <!-- 378-v b -->
+       <lb ed="#B" n="56"/>argumentum, quaecumque positio teneatur de
+   quan<lb ed="#B" n="57" break="no"/>titate: quod condensatio est solum propter partium 
+   <lb ed="#B" n="58"/>mediatarum appropiquationem. nam partes
+   re<lb ed="#B" n="59" break="no"/>motae in quanto / in condensatione fiunt
+   propin<lb ed="#B" n="60" break="no"/>quiores. opposito modo in rarefactione. Ad for 
+   <lb ed="#B" n="61"/>mam autem argumenti nego quod dimidietas bet in 
+   <lb ed="#B" n="62"/>grediatur locum proprium dimidietatis a. sed par 
+   <lb ed="#B" n="63"/>tes b appropiquat plus centro a, quam antea: &amp; partes
+   inter<lb ed="#B" n="64" break="no"/>medias condensant: hoc est faciunt eas magis appropi 
+   <lb ed="#B" n="65"/>uam re centro a. &amp; hoc si condensatio fiat versus centrum a. 
+  </p>
+      <p xml:id="jMqv4a-d1e2023-d1e729">
+       <lb ed="#B" n="66"/>⁋ Contra secundam conclusionem
+   ar<lb ed="#B" n="67" break="no"/>guitur sic. Si penetratio corporum est possibilis 
+   <lb ed="#B" n="68"/>cum eadem sit ratio in omnibus corporibus, sequi 
+   <lb ed="#B" n="69"/>tur quod deus posset facere duas dimidietates vni 
+   <lb ed="#B" n="70"/>corporis seinuicem penetrare. sed hoc consequens 
+   <lb ed="#B" n="71"/>est falsum. quod sic declaro: ostendendo quod ipsum  
+   <lb ed="#B" n="72"/>antecedit ad hoc impossibile: scile quantum eris 
+   <lb ed="#B" n="73"/>non quantum: &amp; pari ratione vlterius inferam quod 
+   <lb ed="#B" n="74"/>intensum erit non intensum. Sed probo haec in  
+   <lb ed="#B" n="75"/>medium proposita. capta cera bipedali de qua
+   ha<lb ed="#B" n="76" break="no"/>bita est mentio in argumento praecedente: deus 
+   <lb ed="#B" n="77"/>potest duas dimidietates eius scilicet a. &amp; b.
+   po<lb ed="#B" n="78" break="no"/>nere penetratiue simul: &amp; pari ratione poterit de 
+   <lb ed="#B" n="79"/>us ponere partes remanentes ad subduplum sci 
+   <lb ed="#B" n="80"/>licet ad locum semipedalem / ita vt non sit exten 
+   <lb ed="#B" n="81"/>sio nisi semipedalis. Et vt clare loquar: pono quod 
+   <lb ed="#B" n="82"/>in prima parte proportionali horae deus ponat
+   du<lb ed="#B" n="83" break="no"/>as dimidietates siue pedalitates cerae datae pener 
+   <lb ed="#B" n="84"/>tratiue simul: iam solum locum pedalem
+   occu<lb ed="#B" n="85" break="no"/>pabunt. pono quod in secunda parte proportionali 
+   <lb ed="#B" n="86"/>horae deus capiat a. &amp; b. quae occupabunt locum 
+   <lb ed="#B" n="87"/>pedalem penetratiue simul: iam erit subdupla ex 
+   <lb ed="#B" n="88"/>tensio &amp; semipedalis. Procedat ita deus per
+   om<lb ed="#B" n="89" break="no"/>nes partes proportionales vnius horae semper 
+   <lb ed="#B" n="90"/>ad subduplum: ita vt extensio partis proportio 
+   <lb ed="#B" n="91"/>nalis sequentis sit subdupla ad partem propo 
+   <lb ed="#B" n="92"/>tionalem praecedentem: &amp; consetuentur
+   par<lb ed="#B" n="93" break="no"/>tes eaedem in instanti terminante illam horam: 
+   <lb ed="#B" n="94"/>iam nulla erit extensio partium. Quod patet: 
+   <lb ed="#B" n="95"/>quia in infinitum parua erat aliqua extensio ir 
+   <lb ed="#B" n="96"/>aliqua parte proportionali huius horae. &amp;
+   mi<lb ed="#B" n="97" break="no"/>nor est extensio in hoc instanti quam erat in aliqua 
+   <lb ed="#B" n="98"/>parte proportionali horae praeteritae: ergo iam 
+   <lb ed="#B" n="99"/>nulla est extensio. si non sequatur: dato
+   oppo<lb ed="#B" n="100" break="no"/>sito consequentis, nunc erit aliqua extensio: 
+   <lb ed="#B" n="101"/>ergo non in infinitum erat parua extensio an 
+   <lb ed="#B" n="102"/>te hoc instans.
+  </p>
+      <p xml:id="jMqv4a-d1e2023-d1e813">
+   ⁋ Respondetur. hoc
+   argumen<lb ed="#B" n="103" break="no"/>tum repit sensim, ex conuenientibus inconue: 
+   <lb ed="#B" n="104"/>niens maius inferendo. in primis aliqua sunt apud 
+   <lb ed="#B" n="105"/>me indubitata: scilicet quod possit esse penetratio cor 
+   <lb ed="#B" n="106"/>porum diuersorum siue de praedicamento sub 
+   <lb ed="#B" n="107"/>stantiae siue quantitatis: &amp; idem puto de
+   parti<lb ed="#B" n="108" break="no"/>bus eiusdem corporis. Ad nodum itaque
+   argu<lb ed="#B" n="109" break="no"/>menti concedo quod deus possit hoc facere per omnes 
+   <!--0789.xml-->
+   <pb ed="#B" n="379-r"/>
+       <cb ed="#B" n="a"/>
+       <lb ed="#B" n="1"/>pares proportionales vnius horae. haec teneo
+   indubi<lb ed="#B" n="2" break="no"/>tata. Sed in vlteriore illatione an corpus manebit 
+   <lb ed="#B" n="3"/>inextensum: non est lucidum, non sequitur quod erit non 
+   <lb ed="#B" n="4"/>quantum in instanti terminante horam. potest enim deus 
+   <lb ed="#B" n="5"/>destruere partes illas in illo instanti: &amp; tunc licet non 
+   <lb ed="#B" n="6"/>fuerint quantum extensiue: falsum erit dicere quod erunt 
+   <lb ed="#B" n="7"/>non quantum extensiue: quia si sunt non quantu
+   exten<lb ed="#B" n="8" break="no"/>siue, sunt. potest etiam deus in illo instanti reducere partes 
+   <lb ed="#B" n="9"/>ad aliquam quantitatem extensiue prout voluerit: sed  
+   <lb ed="#B" n="10"/>non poterit tenere eas non extensas. Declaro hoc 
+   <lb ed="#B" n="11"/>per simile. si in prima parte proportionali vnius horae 
+   <lb ed="#B" n="12"/>deus diuideret continuum in duas dimidietates: &amp; in  
+   <lb ed="#B" n="13"/>secunda parte proportionali illas partiretur in quartas 
+   <lb ed="#B" n="14"/>&amp; in tertia parte proportionali has quatuor partes
+   di<lb ed="#B" n="15" break="no"/>uideret in octo octauas: &amp; sic per omnes partes proportio 
+   <lb ed="#B" n="16"/>nales vnius horae geometrice continuo diminuem 
+   <lb ed="#B" n="17"/>do: in instanti terminante horam istae partes vel non  
+   <lb ed="#B" n="18"/>sunt: vel si sint erunt quantae: &amp; sic non minores quam erant 
+   <lb ed="#B" n="19"/>in aliqua partium proportionalium, non stes in suppositione 
+   <lb ed="#B" n="20"/>determinata spartium proportionalium) sed mentem meam 
+   <lb ed="#B" n="21"/>capito: vel continuum ex imprtibilibus erit conflatum.
+   Ter<lb ed="#B" n="22" break="no"/>tium membrum non est improbabile. vnde in secundo alterius lectu 
+   <lb ed="#B" n="23"/>rae in vico straminis iunior tenui, continuum
+   proba<lb ed="#B" n="24" break="no"/>biliter esse compositum ex punctis. Ecce ergo quomodo
+   vr<lb ed="#B" n="25" break="no"/>gemur in huius disiunctiuae assertionem. Quia autem quam 
+   <lb ed="#B" n="26"/>tum potest reduci ad non quantum intelligo de
+   quantita<lb ed="#B" n="27" break="no"/>te extemsiua, non enim est possibile quod ex quanto fiat non 
+   <lb ed="#B" n="28"/>discretum. vel non est possibile deo conseruare illas 
+   <lb ed="#B" n="29"/>partes in instanti terminante horam, quin fuerint ali 
+   <lb ed="#B" n="30"/>cuius certae extensionis: &amp; per consequens nunc non 
+   <lb ed="#B" n="31"/>sunt minores quam erant in aliqua parte proportionali 
+   <lb ed="#B" n="32"/>horae praeteritae. Primum membrum admittendo potest
+   con<lb ed="#B" n="33" break="no"/>sequenter concedi quod ex intenso secundum formam potest fie 
+   <lb ed="#B" n="34"/>ri non intensum: &amp; quod formae intensio ex non inten 
+   <lb ed="#B" n="35"/>sis confsitur: proportionabiliter ad quantum continuum 
+   <lb ed="#B" n="36"/>ex multis conflatum: quorum quodlibet est
+   imparti<lb ed="#B" n="37" break="no"/>bile: licet etiam ex multis integretur: quorum quidlibet est 
+   <lb ed="#B" n="38"/>extensum. Impresentiarum autem ne lectorem vacuum 
+   <lb ed="#B" n="39"/>relinquam in opinionum multitudine: viam regia 
+   <lb ed="#B" n="40"/>de continuo tenendo, nego pure continuum ex vl 
+   <lb ed="#B" n="41"/>lo impartibili esse conflatum. &amp; consequenter ad illud
+   di<lb ed="#B" n="42" break="no"/>co quod quantum non potest esse non quantum iuxta 
+   <lb ed="#B" n="43"/>vnum membrum tactum. 
+  </p>
+      <p xml:id="jMqv4a-d1e2023-d1e930">
+       <lb ed="#B" n="44"/>⁋ Contratertiam conclusionem arguitur 
+   <lb ed="#B" n="45"/>sic. Quantitas continua potius corpeitas substantia: 
+   <lb ed="#B" n="46"/>vt omnis opinio reiiciatur: ex natura sua habet occupare 
+   <lb ed="#B" n="47"/>locum, &amp; aliud corpus ab illo loco propellere. ergo nul 
+   <lb ed="#B" n="48"/>lum aliud corpus secum compatitur.
+  </p>
+      <p xml:id="jMqv4a-d1e2023-d1e943">
+   ⁋ Respondetur
+   distin<lb ed="#B" n="49" break="no"/>guendo antecedens. vel per naturalem cursum naturae in hoc 
+   <lb ed="#B" n="50"/>mundo, &amp; in corporibus non beatis in futuro saeculo: &amp; 
+   <lb ed="#B" n="51"/>sic conceditur. in corporibus autem beatis negatur, nec illud 
+   <lb ed="#B" n="52"/>miraculo ascribendum est: cum sit lex beatorum cmunis 
+   <lb ed="#B" n="53"/>quod patet in simili. Aina beati contemplatur intuitiue deum 
+   <lb ed="#B" n="54"/>&amp; spiritus: non autem anima corporis corruptibilis quod ag 
+   <!--0789.xml-->
+   <cb ed="#B" n="b"/> 
+       <!-- 379-r b -->
+       <lb ed="#B" n="55"/>grauat animam. anima autem damnati vt reor, non potest magis 
+   <lb ed="#B" n="56"/>immo minus quam in hoc mundo deprehendere.
+   Ha<lb ed="#B" n="57" break="no"/>betur ergo quod non est de ratione substantiae corporalis in 
+   <lb ed="#B" n="58"/>communi pro quocunque statum occupare iocum: quia 
+   <lb ed="#B" n="59"/>non pro statu patriae.
+  </p>
+      <p xml:id="jMqv4a-d1e2023-d1e976">
+   ⁋ Praeterea arguitur. Corpus glo 
+   <lb ed="#B" n="60"/>riosum non potest penetratiue se habere cum corpo 
+   <lb ed="#B" n="61"/>re glorioso: ergo nec cum corpore non glorioso, antecede 
+   <lb ed="#B" n="62"/>probatur: quia indecens est quod quilibet masculus cum 
+   <lb ed="#B" n="63"/>quacumque beata penetratiue se habeat. Respondeo. illud  
+   <lb ed="#B" n="64"/>me mouet dicere indecens esse corpus gloriosum 
+   <lb ed="#B" n="65"/>posse penetratiue se hatie cum quolibet corpore glorio 
+   <lb ed="#B" n="66"/>so: quamuis dici possit quod nulla in patria est impudicitia 
+   <lb ed="#B" n="67"/>vel membrorum nudorum verecundia. superflua enim est glo 
+   <lb ed="#B" n="68"/>riosi corporis penetratio cum glorioso. Ratio est: 
+   <lb ed="#B" n="69"/>quia potest Linus in instanti facere circulum prope corpus 
+   <lb ed="#B" n="70"/>gloriosum, &amp; pergere quo voluerit ipsum no penetram 
+   <lb ed="#B" n="71"/>do. Inanis igitur est haec penetratio. Et si dicas. sic 
+   <lb ed="#B" n="72"/>potest cum corpore non glorioso. hoc non sufficit: cum de ne 
+   <lb ed="#B" n="73"/>cessitate penetret caelum. &amp; si vnum corpus non glorio 
+   <lb ed="#B" n="74"/>sum penetret: eadem lege potest quodlibet si voluerit. Ec 
+   <lb ed="#B" n="75"/>ce vnamrationem dicendi / quod nulli glorioso danda est 
+   <lb ed="#B" n="76"/>lex penetratiue se habendi cum glorioso, propter haec 
+   <lb ed="#B" n="77"/>addita. Alioquin mille gloriosi &amp; tot quot
+   volue<lb ed="#B" n="78" break="no"/>ris erunt simul penetratiue, quod est indecens. nam lex 
+   <lb ed="#B" n="79"/>penetrationis corporum est lex caelitus data: &amp; datur 
+   <lb ed="#B" n="80"/>decenter. Secunda opinandi ratio erit haec. Beatus potest 
+   <lb ed="#B" n="81"/>penetratiue se habere cum beato: sed beati nihil 
+   <lb ed="#B" n="82"/>indecenter volunt. Indecens autem esset quoruncumque 
+   <lb ed="#B" n="83"/>beatorum corporum penetratio: &amp; nihil indecens fit 
+   <lb ed="#B" n="84"/>in caelo. ex parte tamen dotis nulla est repugnantia secundum  
+   <lb ed="#B" n="85"/>llam legen.
+  </p>
+      <p xml:id="jMqv4a-d1e2023-d1e1035">
+   ⁋ Insuper arguitur. si sit poneda talis dos 
+   <lb ed="#B" n="86"/>sequitur quod corpora beatorum non stabunt solida super 
+   <lb ed="#B" n="87"/>parte caeli, quod est inconueniens. Respondetur negando se 
+   <lb ed="#B" n="88"/>quela: quia licet possint aliud corpus penetrare: pos 
+   <lb ed="#B" n="89"/>sunt tamen stare super quodcumque aliud corpus: &amp; cum dote 
+   <lb ed="#B" n="90"/>agilitatis sine fatigatione stare vbi voluerint.
+   sa<lb ed="#B" n="91" break="no"/>tius autem est dicere quod beati perpetuo stent, quam sedeant 
+   <lb ed="#B" n="92"/>vulgariter capiendo sedere. nam partes melius in corpore 
+   <lb ed="#B" n="93"/>stando disponuntur quam eas in curuitate tenendo. Hinc 
+   <lb ed="#B" n="94"/>studentibus consulimus, ob corporis bonam
+   disposi<lb ed="#B" n="95" break="no"/>tionem maneant erecti. Hinc item nephreticus vel are 
+   <lb ed="#B" n="96"/>nulas habens male se habet sedendo: &amp; quanto 
+   <lb ed="#B" n="97"/>decliuius / tanto peius: melius autem se habet
+   ia<lb ed="#B" n="98" break="no"/>cendo. propterea corporis dyscrasia sedendo com 
+   <lb ed="#B" n="99"/>tracta / in lecto iacendo, vt in meipso experior /
+   amit<lb ed="#B" n="100" break="no"/>titur: sed melius stando. Haec autem ratio est solum 
+   <lb ed="#B" n="101"/>suasio quadam: cum beatorum corpora ob suas dotes
+   nul<lb ed="#B" n="102" break="no"/>lam dyscrasiam pati possint qualitercumque situentur. 
+  </p>
+      <p xml:id="jMqv4a-d1e2023-d1e1074">
+       <lb ed="#B" n="103"/>⁋ Sed ne plura argumenta aggregem: non reor 
+   <lb ed="#B" n="104"/>hanc corporum penetrationem posse fieri vel salten 
+   <lb ed="#B" n="105"/>fieri per aliquam qualitatem superadditam, quam multi 
+   <lb ed="#B" n="106"/>ponunt: &amp; quam dotem subtilitatis vocant. sed dos subti 
+   <lb ed="#B" n="107"/>litatis deum &amp; beatum importat: vnum in recto pro quo super 
+   <lb ed="#B" n="108"/>ponit: &amp; aliud in obliquo siue connotato. ita vt dos 
+   <lb ed="#B" n="109"/>subtilitatis supponat pro gratia finali in qua quis 
+   <!--0790.xml-->
+   <pb ed="#B" n="379-v"/>
+       <cb ed="#B" n="a"/>
+       <lb ed="#B" n="1"/>decedit: ratione cuius deus hanc legem vniversalem corporibus 
+   <lb ed="#B" n="2"/>btis dat vt penetratiue esse possint cum aliis corporibus 
+   <lb ed="#B" n="3"/>Et melius est dicere pro gratia qui pro meritis: propter
+   par<lb ed="#B" n="4" break="no"/>uulos qui nulla vnquam merita personalia habuerunt 
+   <lb ed="#B" n="5"/>&amp; tamen habebunt dotem subtilitatis: non quasi gratia 
+   <lb ed="#B" n="6"/>hoc habeat a natura sua quod possit talem penetra: 
+   <lb ed="#B" n="7"/>tionem corporum facere: sed est arra gloriae in anima: 
+   <lb ed="#B" n="8"/>&amp; fundamentum penetrationis corporalis.
+  </p>
+      <p xml:id="jMqv4a-d1e2023-d1e1117">
+   ⁋ Postre 
+   <lb ed="#B" n="9"/>mo arguitur. si penetratio ista esset vt dicimus, cor 
+   <lb ed="#B" n="10"/>pora dura se tangerent immediate, quod negat Ari 
+   <lb ed="#B" n="11"/>stoteles secundo de Aina. sed ne quaestio nimium turgescat 
+   <lb ed="#B" n="12"/>&amp; quia philosophi diuerso modo in ea re
+   opinan<lb ed="#B" n="13" break="no"/>tur: integram quaestionem super hoc tractabo. 
+  </p>
+    </div>
+   </body>
+  </text>
+</TEI>

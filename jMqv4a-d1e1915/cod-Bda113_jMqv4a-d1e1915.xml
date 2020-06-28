@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 1</title>
+      <author ref="#JohnMair">John Mair</author>
+      <respStmt>
+       <name>Jeffrey C. Witt</name>
+       <resp>TEI Encoder</resp>
+      </respStmt>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 1</title>
+       <date when="2020-06-09">June 27, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="B" n="cod-Bda113">Badius 1516</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+     guidelines for a diplomatic edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-06-27" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+      <pb ed="#B" n="357-v"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="jMqv4a-d1e1915"> <!-- l4d48q1 -->
+      <head xml:id="jMqv4a-d1e1915-Hd1e104">Quaestio 1</head>
+      <head xml:id="jMqv4a-d1e1915-Hd1e107" type="question-title">An caeli cessabunt a motu post diem iudicii</head>
+      <p xml:id="jMqv4a-d1e1915-d1e110">
+       <lb ed="#B" n="60"/>⁋ Distinct. Quadragesimae octauae 
+   <lb ed="#B" n="61"/>Quaestio Vnica. 
+   <lb ed="#B" n="62"/>Nica quaestio 
+   <lb ed="#B" n="63"/>&amp; ea breuis 
+   distincti<lb ed="#B" n="64"/>onem
+   quadragesi<lb ed="#B" n="65" break="no"/>manoctauam absol 
+   <lb ed="#B" n="66"/>uet: quae erit haec. An 
+   <lb ed="#B" n="67"/>caeli cessabunt a mo 
+   <lb ed="#B" n="68"/>tu post diem iudicii 
+   <lb ed="#B" n="69"/>Nam in quinto capi 
+   <lb ed="#B" n="70"/>huius disti. meminit 
+   <lb ed="#B" n="71"/>Magister de
+   quali<lb ed="#B" n="72" break="no"/>tate luminarium. Ad 
+   <lb ed="#B" n="73"/>Qi quam responsio da 
+   <lb ed="#B" n="74"/>tur affirmatiua. quae probatur. nam vt habetur Apoca 
+   <lb ed="#B" n="75"/>lyp. x. angelus iurauit per viuentem in saecula saecu 
+   <lb ed="#B" n="76"/>lorum: quia tempus non erit amplius. Capit hanc (dice 
+   <lb ed="#B" n="77"/>ret ille qui tenet caelum esse tempus) loco istius, non
+   e<lb ed="#B" n="78" break="no"/>rit tempus post diem iudicii. nam hoc caelum erit post dien 
+   <lb ed="#B" n="79"/>iudicii: hoc caelum est vel erit tempus: ergo tempus erit post 
+   <lb ed="#B" n="80"/>diem iudicii. secundum aliam vero positionem tempus non 
+   <lb ed="#B" n="81"/>erit post diem iudicii. Ad hanc conclusionem adducitur 
+   <lb ed="#B" n="82"/>illud Tachariae. xiiii. Et ent dies vna quae nota est do  
+   <lb ed="#B" n="83"/>mino, non dies neque nox: &amp; in tempore vesperi erit lux. 
+   <lb ed="#B" n="84"/>Potest adduci glossa marginalis Esaie. lx. quae dicit. Si 
+   <lb ed="#B" n="85"/>sol circundaret terram tunc illuminaret damnatos, quod est 
+   <lb ed="#B" n="86"/>in conveniens. haec glossa est lsidori. si damnati punire 
+   <lb ed="#B" n="87"/>tur ex altera parte terrae: &amp; essent nobis antipodes: esset 
+   <lb ed="#B" n="88"/>apparentia in ratione. sed quia hoc est falsum: ratio non  
+   <lb ed="#B" n="89"/>est ponderanda. Quia vero intelligentiae orbium
+   caele<lb ed="#B" n="90" break="no"/>stium motrices libere mouent: ideo possunt cessare a 
+   <lb ed="#B" n="91"/>motu. &amp; si naturaliter mouent, nisi deus influentia 
+   <lb ed="#B" n="92"/>generali moueat: intelligentiae mouere nequeunt in 
+   <lb ed="#B" n="93"/>lumine naturali. In hoc est apparentia tenendo quod 
+   <lb ed="#B" n="94"/>verius puto quod graue simplex in vacuo mutatur 
+   <lb ed="#B" n="95"/>in instanti: nisi eamus ad intelligentiam primam
+   li<lb ed="#B" n="96" break="no"/>bere caelum mouentem. cum autem caelum non habeat re 
+   <lb ed="#B" n="97"/>sistentiam: non inuenio quid diceret philosophus 
+   <lb ed="#B" n="98"/>cum secundum communem opinionem caelum sit 
+   <lb ed="#B" n="99"/>aptum moueri vel circummire: &amp; nullo modo intelli 
+   <lb ed="#B" n="100"/>gentiae motrici resistit: nec repugnat ei facere vnam 
+   <lb ed="#B" n="101"/>circuitionem in instanti. Sed dicis. ergo parua
+   in<lb ed="#B" n="102" break="no"/>telligentia potest adeo cito mouere saturmu vt sphae. 
+   <lb ed="#B" n="103"/>ram lunae: immo vna formica si esset applicata: com 
+   <lb ed="#B" n="104"/>tra sententiam <name xml:id="jMqv4a-d1e1915-Nd1e209" ref="#Aristotle">Aristotelis.</name> xii. Meta. ponentis numerum 
+   <lb ed="#B" n="105"/>intelligentiarum secundum motus orbium, &amp; maiores
+   intel<lb ed="#B" n="106" break="no"/>ligentias ad mouendos maiores orbes. Respondetur 
+   <!--0747.xml-->
+   <pb ed="#B" n="358-r"/>
+       <cb ed="#B" n="a"/>
+       <lb ed="#B" n="1"/>tenendo aptitudinem caeli ad motum, sicut est de graus 
+   <lb ed="#B" n="2"/>simplici ad descendendum, concedo quod parua intelligen 
+   <lb ed="#B" n="3"/>tia potest adeo cito mouere caelum vt magna: &amp; ipsum 
+   <lb ed="#B" n="4"/>mutare subito si deus sua influentia generali
+   concur<lb ed="#B" n="5" break="no"/>rat. sed quia hoc non conducit ad terrae nascentia nec ad 
+   <lb ed="#B" n="6"/>bonum vniuersi: ad talem mutationem non concurrit. mul 
+   <lb ed="#B" n="7"/>ta etiam alia sunt quae non possumus in lumine natura 
+   <lb ed="#B" n="8"/>li facile sustinere sine libero concursu primae causae. 
+   <lb ed="#B" n="9"/>Vel possumus dicere pro philosopho quod caelum mouetur 
+   <lb ed="#B" n="10"/>cum resistentia: licet caelum sit quoda modo aptum ad motum 
+   <lb ed="#B" n="11"/>circularem, cum sit orbiculare: vt de cippo &amp; aliis
+   cor<lb ed="#B" n="12" break="no"/>poribus sphaericis contingit: vbi maior requiritur potem 
+   <lb ed="#B" n="13"/>tia ad mouendum maiorem cippum quam minorem: sed ob 
+   <lb ed="#B" n="14"/>proptitudinem ad circuitionem aliquo modo dicitur non 
+   <lb ed="#B" n="15"/>resistere. Et intelligentia secunda assistens mouet natu 
+   <lb ed="#B" n="16"/>raliter, &amp; etiam prima secundum eum. Et dato quod caelum
+   di<lb ed="#B" n="17" break="no"/>catur habere formam: potest dici quod illa forma naturals 
+   <lb ed="#B" n="18"/>continuo mouet: sicut videmus impetum in trocho ipsum  
+   <lb ed="#B" n="19"/>ad tempus continuo circulariter mouere. &amp; forma ignis 
+   <lb ed="#B" n="20"/>hic inferius mouet ignem ad suum locum naturalem circumi 
+   <lb ed="#B" n="21"/>re. vniuersum enim est locus naturalis caeli sicut locus 
+   <lb ed="#B" n="22"/>sursum ignis. sed non est multum laborandum ad defen 
+   <lb ed="#B" n="23"/>dendas erroneas imaginationes philosophi / vel alias 
+   <lb ed="#B" n="24"/>de primo motore vel motu caeli.
+  </p>
+      <p xml:id="jMqv4a-d1e1915-d1e276">
+   ⁋ Ex ista
+   conclu<lb ed="#B" n="25" break="no"/>sione sequitur quod post diem iudicii no erit motus in epi 
+   <lb ed="#B" n="26"/>cyclo: nec erit motus octauae sphaerae descriptus in duo 
+   <lb ed="#B" n="27"/>bus paruis circulis in principio arietis &amp; libre: nec 
+   <lb ed="#B" n="28"/>quando principium arietis ascendit / caput librae descendit, &amp; 
+   <lb ed="#B" n="29"/>econverso. Secundo sequitur quod non semper dies est quando 
+   <lb ed="#B" n="30"/>sol est super terram. patet quando no est eius latio. &amp; eodem 
+   <lb ed="#B" n="31"/>modo no omnis existens in vmbra terrae habet nocten, 
+   <lb ed="#B" n="32"/>vtpote si non sit dies post diem iudicii. ergo pari ratione 
+   <lb ed="#B" n="33"/>neque nox. Nam si post diem iudicii sit nox: erit post 
+   <lb ed="#B" n="34"/>diem iudicii tempus. Tertio sequitur quod luna non erit
+   gyro<lb ed="#B" n="35" break="no"/>uaga nec custos Erymanthidos vrsae tingetur
+   Ocea<lb ed="#B" n="36" break="no"/>no: &amp; nec helice nec Cynosura Arcton circumibunt. 
+   <lb ed="#B" n="37"/>Quarto sequitur quod non iuuat confugere ad augem &amp; 
+   <lb ed="#B" n="38"/>popositum augis, reddendo causam quare plaga terrae 
+   <lb ed="#B" n="39"/>est habitabilis inter tropicum cancri &amp; circulum arcticum 
+   <lb ed="#B" n="40"/>&amp; non ea quae est inter tropicum capricorni &amp; circulum an 
+   <lb ed="#B" n="41"/>tarcticum. Ista corollaria de se elucescunt. Quinto se 
+   <lb ed="#B" n="42"/>quitur quod non erunt duae aestates &amp; duae hyemes sub 
+   <lb ed="#B" n="43"/>aequatore vel inter duos tropicos vt modo est. 
+  </p>
+      <p xml:id="jMqv4a-d1e1915-d1e321">
+       <lb ed="#B" n="44"/>⁋ Sed contra ista argumentor. solem 
+   <lb ed="#B" n="45"/>diutius stare super vnum horizontem non arguit non esse 
+   <lb ed="#B" n="46"/>diem, quod patet de longissimo die artificiali qui erat 
+   <lb ed="#B" n="47"/>xxiiii. horarum: cum sol stetit ad praeces losue. losue. x 
+   <lb ed="#B" n="48"/>Simile sub Ezechia factum legimus quarti Regum 
+   <lb ed="#B" n="49"/>xx. &amp; prope polum arcticum homines habent diem artificia 
+   <lb ed="#B" n="50"/>em duobus mensibus: vel trimestrem diem habent, &amp; per di 
+   <lb ed="#B" n="51"/>midium annum: ergo longa mora solis in horizonte 
+   <lb ed="#B" n="52"/>non praepedit denominationem diei / nec eius quies. Prae 
+   <lb ed="#B" n="53"/>terea beati perpetuo erunt in requie: ergo vno anno 
+   <lb ed="#B" n="54"/>&amp; vno die: non enim est possibile durare per totum quin 
+   <!--0747.xml-->
+   <cb ed="#B" n="b"/> 
+       <!-- 358-r b -->
+       <lb ed="#B" n="55"/>duretur per partem. In super multae cogitationes
+   beato<lb ed="#B" n="56" break="no"/>rum &amp; damnatorum erunt volubiles: ergo tunc erit tempus 
+   <lb ed="#B" n="57"/>talia mensurans.
+  </p>
+      <p xml:id="jMqv4a-d1e1915-d1e360">
+   ⁋ Respondetur. solem circumferri requi 
+   <lb ed="#B" n="58"/>ritur ad tempus, vel esse aptum in potentia propinqua  
+   <lb ed="#B" n="59"/>moueri in gyrum., quod contigit in diebus losue. sed post 
+   <lb ed="#B" n="60"/>diem iudicii nunquam amplius mouebitur: &amp; hoc voco 
+   <lb ed="#B" n="61"/>aptum gyrari in potentia propinqua. nam vna reuolutio 
+   <lb ed="#B" n="62"/>solis circa terram cum tanta parte quantam sol partransit 
+   <lb ed="#B" n="63"/>contra motum firmamenti / nobis metitur nunc tempus diei 
+   <lb ed="#B" n="64"/>naturalis. sed cum quiescet sol: amplius nihil metietur 
+   <lb ed="#B" n="65"/>temporarie. Ad aliud: si perpetuo intelligatur perenni 
+   <lb ed="#B" n="66"/>tempore / negatur: si perpetuo sine fine, conceditur. Ad aliud 
+   <lb ed="#B" n="67"/>de cogitationibus &amp; earum cremento &amp; decremento
+   con<lb ed="#B" n="68" break="no"/>ceditur. &amp; sic concluditur quod potest capi aliqua mensura 
+   <lb ed="#B" n="69"/>alia a sole: sicut est mihi diarium vel horarium quo ex 
+   <lb ed="#B" n="70"/>casu arenae cognosco horam, vel ex pagina scripta: 
+   <lb ed="#B" n="71"/>sed tempus commune sol non amplius mensurabit: de 
+   <lb ed="#B" n="72"/>quo tempore intelligimus. Si dicas solem non
+   retro<lb ed="#B" n="73" break="no"/>cessisse tempore Exechiae Regis, vt Burgensis asserit 
+   <lb ed="#B" n="74"/>quarti Regum. xx. hoc est comentum mere
+   volunta<lb ed="#B" n="75" break="no"/>rium.
+  </p>
+      <p xml:id="jMqv4a-d1e1915-d1e402">
+   ⁋ Secundo argumentor. Caeli desinent moueris 
+   <lb ed="#B" n="76"/>vel ergo in illo aspectu quo creati sunt: vel in aliquo 
+   <lb ed="#B" n="77"/>alio. neutrum dici potest: aut detur ratio. Rursus tunc 
+   <lb ed="#B" n="78"/>vna pars terrae excessiue calefiet: illa scilicet quae est 
+   <lb ed="#B" n="79"/>soli &amp; planetis calefactiuis subiecta: &amp; reliqua
+   ni<lb ed="#B" n="80" break="no"/>mis frigefiet: &amp; sic vna pars terrae desiccabitur, &amp; 
+   <lb ed="#B" n="81"/>erit cauernosa: vt pueri in limbo exire possint ac 
+   <lb ed="#B" n="82"/>videre: &amp; alia pars condensabitur. hoc est absonum. 
+   <lb ed="#B" n="83"/>igitur. Item Genesis. viii. scribitur. Cunctis diebus ter 
+   <lb ed="#B" n="84"/>rae sementis &amp; messis: frigus &amp; aestus: aestas &amp; hyems / 
+   <lb ed="#B" n="85"/>nox &amp; dies non requiescent.
+  </p>
+      <p xml:id="jMqv4a-d1e1915-d1e426">
+   ⁋ Ad primum dicitur quod 
+   <lb ed="#B" n="86"/>non quiescent in illo aspectu quo creati sunt. &amp; hoc 
+   <lb ed="#B" n="87"/>supposito quod mundus non duret. xxxvi. milibus
+   an<lb ed="#B" n="88" break="no"/>norum: vt est verisimile. sed hoc soli deo est
+   cogni<lb ed="#B" n="89" break="no"/>tum. Ad secundum. argumentum nunc illud non
+   con<lb ed="#B" n="90" break="no"/>cludit de aliquibus partibus remotis a via solis prope 
+   <lb ed="#B" n="91"/>arcticum &amp; antarcticum. &amp; verosimile est quod nulla 
+   <lb ed="#B" n="92"/>mixta postea erunt nisi elementa / cum damnatis &amp; sal 
+   <lb ed="#B" n="93"/>uatis &amp; eorum partibus &amp; accidentibus. ad quid enim con 
+   <lb ed="#B" n="94"/>ducerent elephanti, tigrides, vnicornis, oues, &amp;
+   bo<lb ed="#B" n="95" break="no"/>ues &amp; vniuersa pecora campi, volucres caeli &amp; pisces 
+   <lb ed="#B" n="96"/>maris? omnia autem convertentur in elementa. nam elementa 
+   <lb ed="#B" n="97"/>manebunt ne sit vacuum &amp; ad decorem vniuersi: &amp; 
+   <lb ed="#B" n="98"/>aqua circundabit terram. nunc vero deus mari dedit
+   ter<lb ed="#B" n="99" break="no"/>minos, quos &amp; praeterire nequit, iuxta illud Iob 
+   <lb ed="#B" n="100"/>xxxviii. Quis conclusit ostiis mare quando erumpebat 
+   <lb ed="#B" n="101"/>quasi de vulua procedens? circundedi illud terminis 
+   <lb ed="#B" n="102"/>meis &amp; posui vectem &amp; ostia. Et sic non concluditur quod 
+   <lb ed="#B" n="103"/>tandem mare desiccabitur: vel quod aqua erit profundior 
+   <lb ed="#B" n="104"/>in vna parte quam alia: dato quod sol vni parti superpona 
+   <lb ed="#B" n="105"/>tur &amp; non alteri. tunc Danubius suam
+   denomina<lb ed="#B" n="106" break="no"/>tionem amittet: nec per varia ostia mare ponticum
+   pe<lb ed="#B" n="107" break="no"/>tet, nec Nilus irrigabit Aegyptum domini, vel
+   lor<lb ed="#B" n="108" break="no"/>danis terram promissionis. Dictum autem Genesis. viii. 
+   <lb ed="#B" n="109"/>intelligitur ante iudicium.
+  </p>
+    </div>
+   </body>
+  </text>
+</TEI>

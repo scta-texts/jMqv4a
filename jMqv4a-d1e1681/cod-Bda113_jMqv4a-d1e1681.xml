@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 22</title>
+      <author ref="#JohnMair">John Mair</author>
+      <respStmt>
+       <name>Jeffrey C. Witt</name>
+       <resp>TEI Encoder</resp>
+      </respStmt>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 22</title>
+       <date when="2020-06-09">June 27, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="B" n="cod-Bda113">Badius 1516</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+     guidelines for a diplomatic edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-06-27" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+      <pb ed="#B" n="314-v"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="jMqv4a-d1e1681"> <!-- l4d38q22 -->
+      <head xml:id="jMqv4a-d1e1681-Hd1e104">Quaestio 22</head>
+      <head xml:id="jMqv4a-d1e1681-Hd1e107" type="question-title">An sit expediens tot religiones habere in mundo</head>
+      <p xml:id="jMqv4a-d1e1681-d1e110">
+       <lb ed="#B" n="77"/>⁋ Distinctionis Trigesimae octauae 
+   <lb ed="#B" n="78"/>Quaestio Vigesimasecunda. 
+   <lb ed="#B" n="79"/>gesimosecundo in  
+   <lb ed="#B" n="80"/>nac distinctione quaeritur. an 
+   <lb ed="#B" n="81"/>sit expediens tot religio 
+   <lb ed="#B" n="82"/>les habere in mundo
+   <lb ed="#B" n="83" break="no"/>espondetur. Decens est habe 
+   <lb ed="#B" n="84"/>re varias religiones. proba 
+   <lb ed="#B" n="85"/>tur. Licitum est habere va 
+   <lb ed="#B" n="86"/>rias vias tendendi ad
+   pa<lb ed="#B" n="87" break="no"/>Itriam. sed hoc fit per varias 
+   <lb ed="#B" n="88"/>religiones. igitur. nam quod vni placet, alteri displicetion 
+   <lb ed="#B" n="89"/>econuerso. In super si bene viuant: sibiinuicem calcar 
+   <lb ed="#B" n="90"/>praebent &amp; stimulum bene viuendi: ac sancta erit 
+   <lb ed="#B" n="91"/>inuidia inter eos qui ad virtutem aspirant. Tertio 
+   <lb ed="#B" n="92"/>arguitur ad idem. In religionibus quae iandiu
+   ste<lb ed="#B" n="93" break="no"/>terunt emerserunt viri tam literis qui moribus
+   prae<lb ed="#B" n="94" break="no"/>clari: tam inter mendicantes quam non mendicantes 
+   <lb ed="#B" n="95"/>Quarto. Ecclesia Christi sponsa, non recusat va 
+   <lb ed="#B" n="96"/>rietatem. Nam ouile Iacob varii coloris habuit 
+   <lb ed="#B" n="97"/>pues, &amp; rete Petri varios pisces, puos &amp; magnos 
+   <lb ed="#B" n="98"/>Variae quoque sunt in caelo stellae: in horto varii co 
+   <lb ed="#B" n="99"/>loris sunt fiores: in pictura variorum colorum
+   deco<lb ed="#B" n="100" break="no"/>ta compositio ornatum affert. sic varii sunt in clero sae 
+   <lb ed="#B" n="101"/>culari. Aliquae item sunt aues nigrae, aliae albae, ali 
+   <lb ed="#B" n="102"/>versicolores iomnes volantes: quae a deo pascuntur. Sic 
+   <lb ed="#B" n="103"/>sunt monachi nigri, canonici regulares albi: &amp; ita 
+   <lb ed="#B" n="104"/>de aliis coloribus videre est: qui omnes pascuntur ex bo 
+   <lb ed="#B" n="105"/>nis Christi, vt contemplationi vacent.
+  </p>
+      <p xml:id="jMqv4a-d1e1681-d1e175">
+   ⁋ Secun 
+   <!--0661.xml-->
+   <pb ed="#B" n="315-r"/>
+       <cb ed="#B" n="a"/>
+       <lb ed="#B" n="1"/>da conclusio. Sicut decet varias habere
+   religio<lb ed="#B" n="2" break="no"/>nes: ita factum est. patet experientia. Aliqui namque 
+   <lb ed="#B" n="3"/>in oriente viuunt sub regula beati Basilii: alii sub 
+   <lb ed="#B" n="4"/>regula beati <name xml:id="jMqv4a-d1e1681-Nd1e192" ref="#Augustine">Augustinis</name> alii vero beati
+   Benedi<lb ed="#B" n="5" break="no"/>cti: beati Francisci: &amp; beati Dominici. licet enim 
+   <lb ed="#B" n="6"/>partem regulae beati <name xml:id="jMqv4a-d1e1681-Nd1e199" ref="#Augustine">Augustini</name> praedicatores ha 
+   <lb ed="#B" n="7"/>beant: aliqua tamen habent separatim: ratione quorum 
+   <lb ed="#B" n="8"/>regulam habent diuersam. Aliqui sunt
+   Carthu<lb ed="#B" n="9" break="no"/>sienses &amp; solitarii Heliam Thesbiten &amp; loannem 
+   <lb ed="#B" n="10"/>baptistam imitantes: sicut priores Heliseum: qui in  
+   <lb ed="#B" n="11"/>communitate fratres multos habuit.
+  </p>
+      <p xml:id="jMqv4a-d1e1681-d1e215">
+   ⁋ Tertia 
+   <lb ed="#B" n="12"/>conclusio. Indecens est nimis religionum
+   plura<lb ed="#B" n="13" break="no"/>litatem multiplicare. Probatur haec conclusio,
+   inde<lb ed="#B" n="14" break="no"/>cens enim est religiosos in supabundante numero 
+   <lb ed="#B" n="15"/>habere. nam hac via boni &amp; mali assumuntur: &amp; 
+   <lb ed="#B" n="16"/>ita non recte viuitur. Item hoc erit in onus
+   alio<lb ed="#B" n="17" break="no"/>rum laborantium. Nec ob aliud prohibita est
+   reli<lb ed="#B" n="18" break="no"/>gionum multiplicatio sine facultate Romani pon 
+   <lb ed="#B" n="19"/>tificis. Praeterea dato opposito licitum erit quotam 
+   <lb ed="#B" n="20"/>nis nouam instituere religionem: immo quolibus 
+   <lb ed="#B" n="21"/>mense: &amp; sic nihil nisi religiosos habebis. sed vbi 
+   <lb ed="#B" n="22"/>sit terminus: sapientis erit iudicium. Fortasse die 
+   <lb ed="#B" n="23"/>bus istis magis conducit religiosos a via spiritual 
+   <lb ed="#B" n="24"/>deuios ad rectum iter reducere / quam nouos instituere. 
+  </p>
+      <p xml:id="jMqv4a-d1e1681-d1e246">
+       <lb ed="#B" n="25"/>⁋ Contra primam conclusionem
+   ar<lb ed="#B" n="26" break="no"/>guitur sic. Si essent tamen duae familiae religionum cum 
+   <lb ed="#B" n="27"/>tot religiosis quot nunc sunt, non haberent tantam 
+   <lb ed="#B" n="28"/>difformitatem inter se: sed reducerentur ad pauci 
+   <lb ed="#B" n="29"/>tatem capitum. hoc autem magis expedit. Respon 
+   <lb ed="#B" n="30"/>detur. adhuc inter se dissentirent: quaedissensio potes 
+   <lb ed="#B" n="31"/>esse seruata charitate: vt de angelo Persarum &amp; 
+   <lb ed="#B" n="32"/>Medorum apud Danielem. Secundo, dubium 
+   <lb ed="#B" n="33"/>foret quae essent illae duae familiae. aliquibus enim 
+   <lb ed="#B" n="34"/>spiritualibus viris magis placet religio eorum quoid 
+   <lb ed="#B" n="35"/>habent bona in communi: aliis autem mendicitas, 
+  </p>
+      <p xml:id="jMqv4a-d1e1681-d1e272">
+       <lb ed="#B" n="36"/>⁋ Secundo arguitur. Ex illa conclusione aperitui 
+   <lb ed="#B" n="37"/>via religionum in abyssum prorogandi: quod est
+   in<lb ed="#B" n="38" break="no"/>conveniens. Probatur: quia religio instituta non cor 
+   <lb ed="#B" n="39"/>ruit: &amp; nouae religiones instituuntur: vt videmus de 
+   <lb ed="#B" n="40"/>Iesuitis manibus laborantibus: &amp; his diebus de 
+   <lb ed="#B" n="41"/>Minimis cibariis duntaxat quadragesimalibus
+   vi<lb ed="#B" n="42" break="no"/>uentibus. Respondetur. nullae admittuntur nisi ab 
+   <lb ed="#B" n="43"/>ecclesia approbatae: cuius est considerare superfluam 
+   <lb ed="#B" n="44"/>religiosorum multiplicationem.
+  </p>
+      <p xml:id="jMqv4a-d1e1681-d1e294">
+   ⁋ Concludendi 
+   <lb ed="#B" n="45"/>religiosis omnibus dico / summe cauendum esse, redire ad 
+   <lb ed="#B" n="46"/>Aegyptum &amp; ad Hur Caldaeorum a quo exierunt: sed 
+   <lb ed="#B" n="47"/>maneant in coenobiis / curiis principum postpositi 
+   <lb ed="#B" n="48"/>iuxta consilium Psalmographi. Elegi abiectus esse 
+   <lb ed="#B" n="49"/>in domo domini quam habitare in tabernaculis peccatorum 
+   <lb ed="#B" n="50"/>psal. &amp;ed. Petrus enim in domo principis negauit Chi 
+   <lb ed="#B" n="51"/>stum: qui fixus in societate Christi absque menda 
+   <lb ed="#B" n="52"/>dicebat. &amp; si omnes scandalizati fuerint in te, ego num i 
+   <lb ed="#B" n="53"/>scandalizabor. Coruus item arcam egressus no est reuer 
+   <lb ed="#B" n="54"/>sus: sed cadaueribus allectus. Et aues quae ciuitatem 
+   <!--0661.xml-->
+   <cb ed="#B" n="b"/> 
+       <!-- 315-r b -->
+       <lb ed="#B" n="55"/>colunt, facile capiuntur: sed in cauea a rapacibus 
+   <lb ed="#B" n="56"/>seruantur, foris rapiuntur. Siliter pisces in aqua bene con 
+   <lb ed="#B" n="57"/>seruantur / qui extra eandem positi repente moriuntur. &amp; si 
+   <lb ed="#B" n="58"/>cut maiora animalia diutius in vteris maternis conseruan 
+   <lb ed="#B" n="59"/>tur: sic maiores sunt religiosi in meritis qui diutius in  
+   <lb ed="#B" n="60"/>vtero matemo id est in coenobio morantur. quia cum in 
+   <lb ed="#B" n="61"/>hortis creuerit sinapi: maius est omnibus oleribus. Matth. 
+   <lb ed="#B" n="62"/>xiii. Praestat namque detineri in carcere cum loanne quam 
+   <lb ed="#B" n="63"/>conuiuio Heroois puellam intueri saltantem. Et si 
+   <lb ed="#B" n="64"/>doctus &amp; ex religione praedicantium fuerit: non egrediatur 
+   <lb ed="#B" n="65"/>ante castitatem &amp; bonos mores adeptos: rogans 
+   <lb ed="#B" n="66"/>cum Psalmographo aliquamdiu. Bonitatem &amp;
+   discipli<lb ed="#B" n="67" break="no"/>nam doce me. Porrum imitetur: quod primo anno non emit 
+   <lb ed="#B" n="68"/>tit semen sibi primo intendens: deinde semen emittit. sic cum 
+   <lb ed="#B" n="69"/>in virtute nutritus fuerit: exeat, &amp; semen verbi filios 
+   <lb ed="#B" n="70"/>genet non spurios. Quod significatum est secundi
+   Re<lb ed="#B" n="71" break="no"/>gum primo: vbi scribitur quod nuncii Dauid manse 
+   <lb ed="#B" n="72"/>runt in Hiericho quoad barba eorum creuit. hoc est 
+   <lb ed="#B" n="73"/>morum grauitas &amp; maturitas. Habentibus officia ne 
+   <lb ed="#B" n="74"/>mo inuideat. nam abbas &amp; procurator officia habent
+   peri<lb ed="#B" n="75" break="no"/>culis proxima. Hinc ludas inter apstolos portauit lo 
+   <lb ed="#B" n="76"/>culos. &amp; Petrus post Christi morte ad piscationem 
+   <lb ed="#B" n="77"/>rediit: sed Matthaeus ad telonium non resedit. Arbor 
+   <lb ed="#B" n="78"/>item in valle posita fixa stat: flante borea &amp; fulgure 
+   <lb ed="#B" n="79"/>non quatitur: quam in iugo motis sita prosternitur &amp; euellitur. 
+   <lb ed="#B" n="80"/>Sit itaque cura boni pastoris habendi. nam capite lan 
+   <lb ed="#B" n="81"/>guente caetera membra dolent: &amp; motum primi
+   mo<lb ed="#B" n="82" break="no"/>bilis sequuntur sphaerae inferiores etiam motu raptus. 
+   <lb ed="#B" n="83"/>ls sit primus in officiis, vt dux gruum primus in agmine 
+   <lb ed="#B" n="84"/>vbi comode poterit dicens, quod me videtis facere 
+   <lb ed="#B" n="85"/>hoc facite. ludi. iii. &amp; Actuum. i. Coepit Iesus face 
+   <lb ed="#B" n="86"/>re &amp; docere. Quomodo Caesar militibus non ite: sed veni 
+   <lb ed="#B" n="87"/>te / dicere consueuerat. Nam nisi religiosorum
+   guber<lb ed="#B" n="88" break="no"/>nationi intendat: saeculares euadent. sicut rosa do 
+   <lb ed="#B" n="89"/>mestica nisi more vitis colatur, etiam inter septa
+   clau<lb ed="#B" n="90" break="no"/>stri manens efficitur syluestris. Ponant omnia in
+   con<lb ed="#B" n="91" break="no"/>mune more apum &amp; formicarum. tollant a rebus haec 
+   <lb ed="#B" n="92"/>pronomnina meum &amp; tuum, nomine / reque ponderantes illd Psal 
+   <lb ed="#B" n="93"/>mographi. Ecce quam bonum &amp; qui iucundum habitare 
+   <lb ed="#B" n="94"/>fratres in vnum. psal. cxxxii. Frater enim est fere alter 
+   <lb ed="#B" n="95"/>Summopere pensitent quid causae sit quare
+   Car<lb ed="#B" n="96" break="no"/>thusia &amp; Caelestinorum ordo maneant in virtute fixi 
+   <lb ed="#B" n="97"/>&amp; immobiles: ac eos sanctissime imitari studeant. 
+  </p>
+    </div>
+   </body>
+  </text>
+</TEI>

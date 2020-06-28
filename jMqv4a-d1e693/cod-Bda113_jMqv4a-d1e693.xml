@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 27</title>
+      <author ref="#JohnMair">John Mair</author>
+      <respStmt>
+       <name>Jeffrey C. Witt</name>
+       <resp>TEI Encoder</resp>
+      </respStmt>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 27</title>
+       <date when="2020-06-09">June 27, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="B" n="cod-Bda113">Badius 1516</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+     guidelines for a diplomatic edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-06-27" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+      <pb ed="#B" n="129-v"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="jMqv4a-d1e693"> <!-- l4d15q27 -->
+      <head xml:id="jMqv4a-d1e693-Hd1e104">Quaestio 27</head>
+      <head xml:id="jMqv4a-d1e693-Hd1e107" type="question-title">An iuste pro furto infligatur mors</head>
+      <p xml:id="jMqv4a-d1e693-d1e110">
+       <lb ed="#B" n="64"/>QVarto igitur
+   quae<lb ed="#B" n="65" break="no"/>ratio: an iuste pro furto
+   in<lb ed="#B" n="66" break="no"/>fligatur mors.
+   Respon<lb ed="#B" n="67" break="no"/>detur per tres
+   conclusio<lb ed="#B" n="68" break="no"/>nes. quarum Prima est in  
+   <lb ed="#B" n="69"/>nulla lege vniuersali scri 
+   <lb ed="#B" n="70"/>ptum est quod pro furto fur occi 
+   <lb ed="#B" n="71"/>&amp; datur. Probatur, non est 
+   <lb ed="#B" n="72"/>de iure naturae, quod enim fur 
+   <lb ed="#B" n="73"/>puniatur: est de lege naturae: sed quod vltimo
+   suppli<lb ed="#B" n="74" break="no"/>cio puniatur non est de lege naturae: sed solum de 
+   <lb ed="#B" n="75"/>iure positiuo, non enim est per ius positiuum diuinum 
+   <lb ed="#B" n="76"/>de nouo testamento: vt clarum est: quia nullum
+   lo<lb ed="#B" n="77" break="no"/>cum ad hoc introducere potes: nec erat de lege
+   Mo<lb ed="#B" n="78" break="no"/>saica quando constabat quod non venit ad occidendum 
+   <lb ed="#B" n="79"/>vt patet Exodi. xxii nec de iure caesareo: immo hoc 
+   <lb ed="#B" n="80"/>iure prohibetur. vt. C. de ser. fu. l. Sed nouo iure. pa 
+   <lb ed="#B" n="81"/>lam est etiam quod canones non infligunt mortem: &amp; non 
+   <lb ed="#B" n="82"/>sunt plures authenticae leges vniuersales. ergo licet 
+   <lb ed="#B" n="83"/>sit lex scripta in aliqua regione: non infringitur
+   con<lb ed="#B" n="84" break="no"/>clusio.
+  </p>
+      <p xml:id="jMqv4a-d1e693-d1e158">
+   ⁋ His non obstantibus ponitur haec Secunda 
+   <lb ed="#B" n="85"/>conclusio. luste pro furto simplici vbi praesumitur 
+   <lb ed="#B" n="86"/>fur incorrigibilis infligitur mors. Probatur. si non 
+   <lb ed="#B" n="87"/>iceret: hoc maxime esset quia illud non praecipit lex 
+   <lb ed="#B" n="88"/>immo potius vetat: sed hoc non obstat. na cosuetu 
+   <lb ed="#B" n="89"/>do vbi est stabilita: legem humanam positiuam tollit: 
+   <lb ed="#B" n="90"/>&amp; oppositum ponit. sed sic de furto simplici
+   consue<lb ed="#B" n="91" break="no"/>tudo obtinuit quod fures occidantur. vt videre licet in  
+   <lb ed="#B" n="92"/>multis regionibus. &amp; istud est rationabile: cum opor 
+   <lb ed="#B" n="93"/>teat tollere de medio incorrigibiles perturbatores 
+   <lb ed="#B" n="94"/>reipublicae: &amp; impedientes pacificam vitam &amp; vnionem 
+   <lb ed="#B" n="95"/>hominum inter se. quales sunt fures aliena auferen 
+   <lb ed="#B" n="96"/>tes: pro quibus lites &amp; iurgia oriuntur. Non semper autem 
+   <lb ed="#B" n="97"/>maiora peccata grauius puniuntur ab homine: nec 
+   <lb ed="#B" n="98"/>enim superbus pro superbia: nec inuidus pro inuidia 
+   <lb ed="#B" n="99"/>occiditur: quia talis non perturbat pacificam vitam
+   ci<lb ed="#B" n="100" break="no"/>uilem. secus est de furto: quod est multo minus
+   pec<lb ed="#B" n="101" break="no"/>catum a genere. Et secundum quod res subiacet maio 
+   <lb ed="#B" n="102"/>ri periculo furti: tanto magis poena augetur.
+   Pro<lb ed="#B" n="103" break="no"/>pterea Exodi. xxii. pro ouibus erat preceptum resti 
+   <lb ed="#B" n="104"/>tuere quadruplum &amp; non pro aliis rebus domesticis, 
+   <lb ed="#B" n="105"/>quia oues maiori discrimini exponebantur. &amp; quia 
+   <lb ed="#B" n="106"/>boues non ita gregatim viuunt vt oues: maiori 
+   <!--0291.xml-->
+   <pb ed="#B" n="130-r"/>
+       <cb ed="#B" n="a"/>
+       <lb ed="#B" n="1"/>dispendio subiiciebantur: quare quinque boues erant 
+   <lb ed="#B" n="2"/>reddendi pro vno boue. Apud Scythas quoque nulli 
+   <lb ed="#B" n="3"/>scelus isto crudelius punitur. &amp; ratio suffragatur: quod in 
+   <lb ed="#B" n="4"/>curribus viuant &amp; domorum sint expertes. Et istud 
+   <lb ed="#B" n="5"/>ostendit etiam philosophus. xxix. particula problematum. vbi 
+   <lb ed="#B" n="6"/>quaerit: quam ob causam qui ex balneis furatus est: aut 
+   <lb ed="#B" n="7"/>palaestra: aut ex foro: aut ex aliquo eiusmodi loco 
+   <lb ed="#B" n="8"/>morte mulctetur: qui autem ex domo priuata: furti pre 
+   <lb ed="#B" n="9"/>cium duplum exoluit. Inter multas causas dat illam pri 
+   <lb ed="#B" n="10"/>mam quam dedimus: &amp; est potissima. an quia in domibus 
+   <lb ed="#B" n="11"/>rem custodire melius possumus? nam &amp; paries firmus 
+   <lb ed="#B" n="12"/>&amp; clauis est: &amp; familiaribus res domesticae curae omnibus 
+   <lb ed="#B" n="13"/>sunt vt tuto seruentur. at in balneis caeterisque
+   publi<lb ed="#B" n="14" break="no"/>cis locis facilis cuique facinoris perpetratio est. Ni 
+   <lb ed="#B" n="15"/>enim ad custodiam satis qui sua posuerit, habet praeter 
+   <lb ed="#B" n="16"/>oculos. &amp; quae sequuntur. Praeterea arguitur ad hanc con 
+   <lb ed="#B" n="17"/>clusionem sic. omnis incorrigibiliter parturbans rempubli 
+   <lb ed="#B" n="18"/>cam est e medio tollendus. fur incorrigibilis est
+   hu<lb ed="#B" n="19" break="no"/>iusmodi. igitur. consequentia est nota. &amp; maior patet. 
+   <lb ed="#B" n="20"/>quia non ob aliam causam raptor est occidendus: &amp; 
+   <lb ed="#B" n="21"/>multi alii pro aliis sceleribus. minor patet: quoniam plures 
+   <lb ed="#B" n="22"/>sunt lites pro bonis fortunae quam pro hominium corporibus &amp; 
+   <lb ed="#B" n="23"/>animabus. ergo licitum est &amp; expediens reipublicae
+   impo<lb ed="#B" n="24" break="no"/>nere poenam cohibitiuam illius peccati quod
+   rempubli<lb ed="#B" n="25" break="no"/>cam perturbat: scilicet vltimum supplicium. Praeterea. 
+   <lb ed="#B" n="26"/>poena non imponitur in politia nisi vt coerceatur 
+   <lb ed="#B" n="27"/>temeraria improbitas malefactorum. sed per solan 
+   <lb ed="#B" n="28"/>restitutionem non sufficienter reprimitur furtum quod  
+   <lb ed="#B" n="29"/>rempublicam multum perturbat: &amp; multo melius arce 
+   <lb ed="#B" n="30"/>tur per vltimum supplicium. igitur. Insuper, non obstam 
+   <lb ed="#B" n="31"/>te extremo supplicio multi reperiuntur fures: si er 
+   <lb ed="#B" n="32"/>go minor esset poena, multiplicarentur sine
+   nume<lb ed="#B" n="33" break="no"/>rto.
+  </p>
+      <p xml:id="jMqv4a-d1e693-d1e287">
+   ⁋ Tertia conclusio. Potest esse lex scripta in  
+   <lb ed="#B" n="34"/>vno regno vel quolibet: quod pro tertio furto certae 
+   <lb ed="#B" n="35"/>quantitatis infligatur mors. Probatur. consuetudo fer 
+   <lb ed="#B" n="36"/>me vbique est iam ad hoc: sed omnis consuetudo
+   li<lb ed="#B" n="37" break="no"/>cita potest literis mandari. igitur. 
+  </p>
+      <p xml:id="jMqv4a-d1e693-d1e298">
+       <lb ed="#B" n="38"/>⁋ Contra duas vltimas conclusiones 
+   <lb ed="#B" n="39"/>arguitur. Lex diuina non imposuit hanc poenam: 
+   <lb ed="#B" n="40"/>nec caesarea: ergo illa non est imponenda.
+  </p>
+      <p xml:id="jMqv4a-d1e693-d1e307">
+   ⁋ Respon 
+   <lb ed="#B" n="41"/>detur quod consequentia est nulla. notum est enim multas 
+   <lb ed="#B" n="42"/>esse poenas impositas iure humano extra legem 
+   <lb ed="#B" n="43"/>diuinam Mosaicam vel euangelicam. Deus enim
+   aucto<lb ed="#B" n="44" break="no"/>ritatem hominibus dedit condendi leges quaten 
+   <lb ed="#B" n="45"/>reipublicae conduceret. &amp; licet leges caesareae hac
+   poe<lb ed="#B" n="46" break="no"/>nam non imposuerint sed vetuerunt: successu tamen temporis cre 
+   <lb ed="#B" n="47"/>scente hominium improborum malitia inuentum est pluri 
+   <lb ed="#B" n="48"/>mun expedire huius criminis auctores vltimo ferire 
+   <lb ed="#B" n="49"/>supplicio. alioquin mali furarentur continuo: omnia 
+   <lb ed="#B" n="50"/>absumpturi: a quibus restitutionem frustra expectaue 
+   <lb ed="#B" n="51"/>ris. &amp; si bis moniti se non corrigant: est argumentum 
+   <lb ed="#B" n="52"/>non expectandam esse emendatione. cum enim pluries eua 
+   <lb ed="#B" n="53"/>serunt: sperant se semper euasuros impune.
+  </p>
+    </div>
+   </body>
+  </text>
+</TEI>

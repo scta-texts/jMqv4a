@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 15</title>
+      <author ref="#JohnMair">John Mair</author>
+      <respStmt>
+       <name>Jeffrey C. Witt</name>
+       <resp>TEI Encoder</resp>
+      </respStmt>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 15</title>
+       <date when="2020-06-09">June 27, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="B" n="cod-Bda113">Badius 1516</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+     guidelines for a diplomatic edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-06-27" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+      <pb ed="#B" n="373-r"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="jMqv4a-d1e1999"> <!-- l4d49q15 -->
+      <head xml:id="jMqv4a-d1e1999-Hd1e104">Quaestio 15</head>
+      <head xml:id="jMqv4a-d1e1999-Hd1e107" type="question-title">An videns deum ipsum comprehendat</head>
+      <p xml:id="jMqv4a-d1e1999-d1e110">
+       <lb ed="#B" n="20"/>⁋ Distinctio. Quadragesimae nonae 
+   <lb ed="#B" n="21"/>Quaestio Decimaquinta. 
+   <lb ed="#B" n="22"/>Ateriam
+   beatitudi<lb ed="#B" n="23" break="no"/>inis prosequendo loqui opor 
+   <lb ed="#B" n="24"/>tet de visione in verbo: &amp; an  
+   <lb ed="#B" n="25"/>verbum videns omnia quae 
+   <lb ed="#B" n="26"/>in verbo sunt cognoscat. Vn 
+   <lb ed="#B" n="27"/>de quaeram duo. Primo an 
+   <lb ed="#B" n="28"/> videns deum / ipsum
+   compre<lb ed="#B" n="29" break="no"/>hendat. Secundo. quid sit
+   vi<lb ed="#B" n="30" break="no"/>dere aliquid in verbo: &amp; an videns diuinam
+   essen<lb ed="#B" n="31" break="no"/>tiam, omnia quae in ea relucent videat.
+  </p>
+      <p xml:id="jMqv4a-d1e1999-d1e139">
+   ⁋ Ad
+   pri<lb ed="#B" n="32" break="no"/>mum respondetur negatiue. probatur. Nam Hieremiae 
+   <lb ed="#B" n="33"/>xxxii. scribitur. Fortissime / magne / &amp; potens. dominus 
+   <lb ed="#B" n="34"/>exercituum nomen tibi: magnus consilio / &amp; incompre 
+   <lb ed="#B" n="35"/>hensibilis cogitatu. Et osteditur ratione. illud enim appre 
+   <lb ed="#B" n="36"/>henditur quod perfecte cognoscitur perfecte autem cognoscitur 
+   <lb ed="#B" n="37"/>quod tantum cognoscitur quantum est cognoscibile. Vnde si 
+   <lb ed="#B" n="38"/>illud quod demonstratione est cognoscibile: opinio 
+   <lb ed="#B" n="39"/>ne solum cognoscatur: non perfecte cognoscitur. 
+   <lb ed="#B" n="40"/>ratio est: quia perfectiore notitia est cognoscibile. 
+   <lb ed="#B" n="41"/>ldem probat beatus Tho. qui. xii. primae partis. ar. vii. 
+   <lb ed="#B" n="42"/>quia deus est infinitus. intantum enim intellectus
+   crea<lb ed="#B" n="43" break="no"/>tus diuinam essentiam perfectius vel minus perfecte 
+   <lb ed="#B" n="44"/>cognoscit: inquantum maiore vel minore lumine 
+   <lb ed="#B" n="45"/>gloriae perfunditur. cum igitur lumen gloriae creatum 
+   <lb ed="#B" n="46"/>in quocumque intellectu creato receptum non possit 
+   <lb ed="#B" n="47"/>esse infinitum: impossibile est quod aliquis intellectus 
+   <lb ed="#B" n="48"/>creatus deum infinite cognoscat. Vnde
+   impossibi<lb ed="#B" n="49" break="no"/>le est quod deum apprehendat. Haec probatio est nulla: &amp; 
+   <lb ed="#B" n="50"/>ratio est: quia deus potest creare infinitum intensiue, vi 
+   <lb ed="#B" n="51"/>ex primo suppono. &amp; lumen glorie est habitus: &amp; anima 
+   <lb ed="#B" n="52"/>susceptiua infiniti habitus: quia nullam efficientiam ha 
+   <lb ed="#B" n="53"/>bet anima respectu habitus: &amp; adhuc talem habitum ha 
+   <!--0777.xml-->
+   <cb ed="#B" n="b"/> 
+       <!-- 373-r b -->
+       <lb ed="#B" n="54"/>bens non comprehendit deum. Secundo arguitur. quicquid 
+   <lb ed="#B" n="55"/>deus potest facere cum habitu, hoc potest facere sine
+   ha<lb ed="#B" n="56" break="no"/>bitu possibili vel imaginabili: sed per te si creatura 
+   <lb ed="#B" n="57"/>haberet infinitum lumen gloriae: deum comprehenderet:  
+   <lb ed="#B" n="58"/>ergo deus potest facere illud sine habitum. Aliter 
+   <lb ed="#B" n="59"/>probatur conclusio. nam ad comprehensionem
+   requiri<lb ed="#B" n="60" break="no"/>tur quod apprehendatur perfectissima notitia
+   possi<lb ed="#B" n="61" break="no"/>pili. sed hoc soli deo couenit cuius notitia est intel 
+   <lb ed="#B" n="62"/>lectus diuinus &amp; infinitus. ergo nulla creatura
+   pos<lb ed="#B" n="63" break="no"/>sibilis potest deum comprehendere. 
+  </p>
+      <p xml:id="jMqv4a-d1e1999-d1e218">
+       <lb ed="#B" n="64"/>⁋ Contra conclusionem arguitur.
+   Exi<lb ed="#B" n="65" break="no"/>stentes in patria dicuntur comprehensores: ergo compre 
+   <lb ed="#B" n="66"/>hendunt deum. Respondetur. comprehendere, quantum 
+   <lb ed="#B" n="67"/>sufficit proposito, bifariam accipitur. Vno modo sicut 
+   <lb ed="#B" n="68"/>in corpore quaestionis iam diximus. Alio modo  
+   <lb ed="#B" n="69"/>vt est intuitiue cognoscere. &amp; sic omnes in patria sunt 
+   <lb ed="#B" n="70"/>comprehensores. quo modo accepit Apostols ad
+   Phi<lb ed="#B" n="71" break="no"/>lip. iii. dicens. Sequor autem siquo modo comprehendam. 
+  </p>
+      <p xml:id="jMqv4a-d1e1999-d1e238">
+       <lb ed="#B" n="72"/>⁋ Secundo arguitur. dicit beatus <name xml:id="jMqv4a-d1e1999-Nd1e242" ref="#Augustine">Augustinus</name> in
+   li<lb ed="#B" n="73" break="no"/>bro de videndo deum ad Paulinam. Illud comprehendiu 
+   <lb ed="#B" n="74"/>quod ita totum videtur: vt nihil eius lateat videntem. 
+   <lb ed="#B" n="75"/>sed deus est simplex &amp; videtur. igitur nihil eius latet. 
+   <lb ed="#B" n="76"/>ergo comprehenditur. Respondetur. btuns Augustini.
+   ca<lb ed="#B" n="77" break="no"/>pit comprehendere alio mo do nunc dicto: quia eius 
+   <lb ed="#B" n="78"/>assumptum non sufficit ad comprehensionem de qua
+   lo<lb ed="#B" n="79" break="no"/>quuti sumus.
+  </p>
+      <p xml:id="jMqv4a-d1e1999-d1e261">
+   ⁋ Tertio arguitur. Nemo potest videre 
+   <lb ed="#B" n="80"/>deum: ergo quaestio &amp; conciusio falsum praesuppo 
+   <lb ed="#B" n="81"/>nunt probatur antecedens: quia visio dei si esset
+   possi<lb ed="#B" n="82" break="no"/>bilis / esset infinite perfecta. sed nulla talis est dabilis. 
+   <lb ed="#B" n="83"/>nam licet putem dari posse infinitum in gradibus inten 
+   <lb ed="#B" n="84"/>sionis: non opinor quod aliqua creatura dari possit in  
+   <lb ed="#B" n="85"/>finite perfecta essentialiter. Sed prosequor assumptum 
+   <lb ed="#B" n="86"/>probando quod si dari possit visio dei / illa esset infinitae 
+   <lb ed="#B" n="87"/>perfectionis entitatiuae. &amp; hoc sic. Secundo metaphysicae 
+   <lb ed="#B" n="88"/>dicitur. Sicut res se habet ad esse / sic se habet ad 
+   <lb ed="#B" n="89"/>cognosci. in proposito: qualis est perfectio
+   obie<lb ed="#B" n="90" break="no"/>ctorum cognitorum talis est proportio notitiarum de 
+   <lb ed="#B" n="91"/>illis obiectis habitarum. quod probo: quia semper per 
+   <lb ed="#B" n="92"/>fectioris obiecti est perfectior notitia. ergo obiecti 
+   <lb ed="#B" n="93"/>infiniti est notitia infinite perfecta.
+  </p>
+      <p xml:id="jMqv4a-d1e1999-d1e294">
+   ⁋ Confirmatur 
+   <lb ed="#B" n="94"/>haec ratio. nam dato opposito / sequitur quod notitia 
+   <lb ed="#B" n="95"/>alicuius creaturae erit adeo perfecta entitatiue vt noti 
+   <lb ed="#B" n="96"/>tia dei, quod est falsum. patet cosequentia: quia si
+   noti<lb ed="#B" n="97" break="no"/>tia dei est finite perfecta: ipsa solum finite excedit 
+   <lb ed="#B" n="98"/>perfectionem alicuius creaturae: &amp; cuiuslibet finiti ad 
+   <lb ed="#B" n="99"/>quodlibet finitum est certa proportio. Tertio Physico 
+   <lb ed="#B" n="100"/>rum. ergo tandem ascendendo per creaturas dabitur vna 
+   <lb ed="#B" n="101"/>notitia creaturae adeo perfecta vt notitia dei, quod non 
+   <lb ed="#B" n="102"/>est possibile.
+  </p>
+      <p xml:id="jMqv4a-d1e1999-d1e316">
+   ⁋ Ad primum istorum argumentorum 
+   <lb ed="#B" n="103"/>nego antecedens. &amp; ad probationem eius nego quod no 
+   <lb ed="#B" n="104"/>titia dei etiam distincta sit infinitae perfectionis
+   entita<lb ed="#B" n="105" break="no"/>tiuae: loquendo de notitia creata. Et nego hanc propo 
+   <lb ed="#B" n="106"/>sitionem: qualis est proportio obiectorum in perfectione: ta 
+   <lb ed="#B" n="107"/>lis est proportio notitiarum dae eis habitarum / quo ad fi- 
+   <!--0778.xml-->
+   <pb ed="#B" n="373-v"/>
+       <cb ed="#B" n="a"/>
+       <lb ed="#B" n="1"/>nitum &amp; infinitum. bene autem quo ad perfectionem maio 
+   <lb ed="#B" n="2"/>rem &amp; minorem: quia semper perfectioris obiecti
+   perfe<lb ed="#B" n="3" break="no"/>ctior est notitia.
+  </p>
+      <p xml:id="jMqv4a-d1e1999-d1e342">
+   ⁋ Et ad confirmationem nego quod no 
+   <lb ed="#B" n="4"/>titia alicuius &amp; eaturae erit tantae perfectionis quantae no 
+   <lb ed="#B" n="5"/>titia dei. hoc enim non est possibile ponendo
+   perfectio<lb ed="#B" n="6" break="no"/>nem notitiarum ex parte obiectorum. Et nego quod sit cer 
+   <lb ed="#B" n="7"/>ta proportio in perfectione cuiussibet finiti ad quodli 
+   <lb ed="#B" n="8"/>bet finitum. nam si notitia inferioris indiuidui in
+   perfe<lb ed="#B" n="9" break="no"/>ctione duplicaretur / triplicaretur / &amp; sic ascendendo in  
+   <lb ed="#B" n="10"/>infinitum in eadem specie: nunquam erit perfectior
+   specifi<lb ed="#B" n="11" break="no"/>ce / licet bene indiuidualiter. sicut si ad
+   imaginatio<lb ed="#B" n="12" break="no"/>nem (quae non est possibilis) res circumiret omnes species 
+   <lb ed="#B" n="13"/>inferiores / nunquam veniret ad perfectionem superioris 
+   <lb ed="#B" n="14"/>specie i / quousque superius repraesentaret: &amp; esset eius 
+   <lb ed="#B" n="15"/>notitia. Hoc patet inter nigredinem &amp; albedinem: 
+   <lb ed="#B" n="16"/>quia notitia intuitiua albedinis excedit infinite no 
+   <lb ed="#B" n="17"/>titiam intuitiuam nigredinis: hoc est,
+   improportio<lb ed="#B" n="18" break="no"/>nabiliter. puto etiam quod dari possint infinitae species 
+   <lb ed="#B" n="19"/>intermediae: quarum quaelibet erit perfectior
+   nigredine<lb ed="#B" n="20" break="no"/>&amp; imperfectior albedine. &amp; est eadem difficultas quo 
+   <lb ed="#B" n="21"/>ad aliqua in argumento / inter notitiam nigredinis quae 
+   <lb ed="#B" n="22"/>potest habere infinitas notitias perfectiores nigredi 
+   <lb ed="#B" n="23"/>dine citra perfectionem notitiae albedinis. Dicebaspo 
+   <lb ed="#B" n="24"/>nendo perfectionem notitiarum ex parte obiectorum 
+   <lb ed="#B" n="25"/>quia superius diximus quod respectu eiusdem obiecti 
+   <lb ed="#B" n="26"/>possunt dari duae notitiae intuitiuae specie distinctae: 
+   <lb ed="#B" n="27"/>&amp; per consequens vna erit perfectior alia. Et qua ratioe 
+   <lb ed="#B" n="28"/>duae / possunt dari infinitae: quia respectu angeli est 
+   <lb ed="#B" n="29"/>vna notitia intuitiua quam anima separata habet: &amp; alia 
+   <lb ed="#B" n="30"/>altioris speciei quam angelus superior habet.
+   Ad<lb ed="#B" n="31" break="no"/>iuc in qualibet parte proportionali horae futurae 
+   <lb ed="#B" n="32"/>potest deus facere perfectiorem notitiam respectu
+   eius<lb ed="#B" n="33" break="no"/>dem angeli: quaelibet tamen erit finite perfecta. potest iten 
+   <lb ed="#B" n="34"/>quis imaginari quod aliqua notitia illic erit tantae
+   perfe<lb ed="#B" n="35" break="no"/>ctionis quantae est notitia intuitiua dei. quod adhuc non 
+   <lb ed="#B" n="36"/>credo.
+  </p>
+      <p xml:id="jMqv4a-d1e1999-d1e417">
+   ⁋ Quarto arguitur. quilibet beatus cognoscit 
+   <lb ed="#B" n="37"/>deum infinite: ergo deu comprehendit. antecedens
+   pro<lb ed="#B" n="38" break="no"/>batur: quia si solum cognoscit deum finite: errat cogno  
+   <lb ed="#B" n="39"/>scendo: si infinite, habetur propositum.
+  </p>
+      <p xml:id="jMqv4a-d1e1999-d1e426">
+   ⁋ Respondetur per 
+   <lb ed="#B" n="40"/>propositiones: quarum prima est. quilibet beatus infi 
+   <lb ed="#B" n="41"/>nitatem dei cognoscit, probatur sic. hunc deum
+   co<lb ed="#B" n="42" break="no"/>gnoscit: hic deus est infinitas dei. igitur.
+  </p>
+      <p xml:id="jMqv4a-d1e1999-d1e435">
+   ⁋ Secun 
+   <lb ed="#B" n="43"/>da propositio. stat finitum infinita notitia cognosci: 
+   <lb ed="#B" n="44"/>&amp; infinitum finita notitia cognosci. prior pars pa 
+   <lb ed="#B" n="45"/>tet de notitia dei in ordine ad creaturam. secunda 
+   <lb ed="#B" n="46"/>de notitia beatifica.
+  </p>
+      <p xml:id="jMqv4a-d1e1999-d1e446">
+   ⁋ Tertia propositio. deus a 
+   <lb ed="#B" n="47"/>beato cognoscitur infinitus. nam si
+   cognoscere<lb ed="#B" n="48" break="no"/>tur sub ratione finitatis: non sufficienter satiaret 
+   <lb ed="#B" n="49"/>intellectum beati: nec cognosceretur sub ratione 
+   <lb ed="#B" n="50"/>beatifica &amp; optima. beatus enim essentiae vnita: 
+   <lb ed="#B" n="51"/>tem / &amp; personarum trinitatem videt: quae prius 
+   <lb ed="#B" n="52"/>credidit. nam habens perfectam &amp; distinctam non 
+   <lb ed="#B" n="53"/>titiam dei, videt omnia eius interna: &amp; quicquid 
+   <lb ed="#B" n="54"/>cum ipso identificatur. 
+   <!--0778.xml-->
+   <cb ed="#B" n="b"/> 
+       <!-- 373-v b -->
+      </p>
+    </div>
+   </body>
+  </text>
+</TEI>

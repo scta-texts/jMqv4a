@@ -1,0 +1,367 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 2</title>
+      <author ref="#JohnMair">John Mair</author>
+      <respStmt>
+       <name>Jeffrey C. Witt</name>
+       <resp>TEI Encoder</resp>
+      </respStmt>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 2</title>
+       <date when="2020-06-09">June 27, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="B" n="cod-Bda113">Badius 1516</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+     guidelines for a diplomatic edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-06-27" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+      <pb ed="#B" n="85-v"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="jMqv4a-d1e456"> <!-- l4d15q2 -->
+      <head xml:id="jMqv4a-d1e456-Hd1e104">Quaestio 2</head>
+      <head xml:id="jMqv4a-d1e456-Hd1e107" type="question-title">An opus satisfactorium sit aequae meritorium ac 
+  non satsifactorium</head>
+      <p xml:id="jMqv4a-d1e456-d1e110">
+       <lb ed="#B" n="24"/>IN superiore 
+   quaestio<lb ed="#B" n="25" break="no"/>ne vidimus quod quis potest in 
+   <lb ed="#B" n="26"/>mortali satisfacere de pecca 
+   <lb ed="#B" n="27"/>tis contritis: licet postea in
+   pec<lb ed="#B" n="28" break="no"/>catum lapsus fuerit, nunc
+   secun<lb ed="#B" n="29" break="no"/>do materiam satisfactionis prose 
+   <lb ed="#B" n="30"/>quendo Quaeritur. an opus sa 
+   <lb ed="#B" n="31"/>tisfactorium sit aeque meritorium, ac no satisfactorium. 
+   <lb ed="#B" n="32"/>Verbi gratia. imponitur sorti in poenitentiam dicere 
+   <lb ed="#B" n="33"/>septem psalmos. Plato etiam dicit septem psalmos per 
+   <lb ed="#B" n="34"/>opus praecepti, quia est in sacris: &amp; tenetur ex
+   consue<lb ed="#B" n="35" break="no"/>tudine hodie dicere: vel per opus consilii: non refert 
+   <lb ed="#B" n="36"/>habent aequales conatus dicendi: &amp; caetera omnia 
+   <lb ed="#B" n="37"/>sunt paria: hoc dempto quod vnus dicit adimplende 
+   <lb ed="#B" n="38"/>poenitentiam iniunctam: alter vero non. quaestio est an 
+   <lb ed="#B" n="39"/>aequaliter mereantur.
+  </p>
+      <p xml:id="jMqv4a-d1e456-d1e147">
+   ⁋ Ad quaestione respondetu 
+   <lb ed="#B" n="40"/>per duas conclusiones. quarum Prior est. Opus satis 
+   <lb ed="#B" n="41"/>factorium est meritorium.
+  </p>
+      <p xml:id="jMqv4a-d1e456-d1e155">
+   ⁋ Secunda conclusio. Opus 
+   <lb ed="#B" n="42"/>satisfactorium non est minus meritorium quam si non esset 
+   <lb ed="#B" n="43"/>satisfactorium.
+  </p>
+      <p xml:id="jMqv4a-d1e456-d1e162">
+   ⁋ Prior conclusio probatur. Omn 
+   <lb ed="#B" n="44"/>opus procedens ex charitate est meritorium: opus 
+   <lb ed="#B" n="45"/>satisfactorium est huiusmodi. igitur. consequentia est 
+   <lb ed="#B" n="46"/>nota ex tertio primae. probatur minor: quia opus 
+   <lb ed="#B" n="47"/>satisfactorium est opus moraliter bonum in illo qui ha 
+   <lb ed="#B" n="48"/>bet gratiam. maior patet. aliquod opus procedens 
+   <lb ed="#B" n="49"/>ex charitate est meritorium: &amp; eadem est ratio in quo 
+   <lb ed="#B" n="50"/>libet opere procedente ex charitate. igitur.
+  </p>
+      <p xml:id="jMqv4a-d1e456-d1e180">
+   ⁋
+   Se<lb ed="#B" n="51" break="no"/>cunda conclusio probatur. quia dato opposito sequi 
+   <!--0202.xml-->
+   <cb ed="#B" n="b"/> 
+       <!-- 85-v b -->
+       <lb ed="#B" n="52"/>tur haec conclusio. inconsulte facit ecclesia poeniten 
+   <lb ed="#B" n="53"/>tias iniungendo: &amp; etiam inconsulte facit poenitens 
+   <lb ed="#B" n="54"/>poenitentias iniunctas accipiendo, quod est
+   inconve<lb ed="#B" n="55" break="no"/>niens. quod sequatur patet. quia minus merebitur de 
+   <lb ed="#B" n="56"/>praemio essentiali adimplens opus satisfactorium, quam 
+   <lb ed="#B" n="57"/>opus non satisfactorium per te: &amp; parum poene debitae er 
+   <lb ed="#B" n="58"/>dimittitur per illum actum: quod non aequipollet carentiae 
+   <lb ed="#B" n="59"/>illius perpetuae beatitudinis. igitur. Confirmatur haec
+   ra<lb ed="#B" n="60" break="no"/>tio. Plato per oppositum conclusionis meretur praemium 
+   <lb ed="#B" n="61"/>vt quatuor: &amp; sortes minus meretur per te. ponatur 
+   <lb ed="#B" n="62"/>gratia exempli quod mereatur vt duo. &amp; dimittitur ei 
+   <lb ed="#B" n="63"/>poena solum temporalis peccatis debita ratione actus 
+   <lb ed="#B" n="64"/>satisfactorii: loco duorum graduum perpetuae beatitu 
+   <lb ed="#B" n="65"/>dinis quos habebit Plato in perpetuum. ergo totum prae 
+   <lb ed="#B" n="66"/>mium Platonis exuperat totum permium sortis, quod no est 
+   <lb ed="#B" n="67"/>dicendum.
+  </p>
+      <p xml:id="jMqv4a-d1e456-d1e226">
+   ⁋ Ex illo sequitur quod libenter homo debet 
+   <lb ed="#B" n="68"/>adimplere poenitentiam: quia habebit duo bona per ad  
+   <lb ed="#B" n="69"/>impletionem poenitentiae: scilicet tantum beatitudinis 
+   <lb ed="#B" n="70"/>quatum alter habebit per opus non satisfactorium. &amp; cum 
+   <lb ed="#B" n="71"/>hoc habebit remissionem poenae culpae debitae. 
+  </p>
+      <p xml:id="jMqv4a-d1e456-d1e237">
+       <lb ed="#B" n="72"/>⁋ Contra secundam conclusionem
+   ar<lb ed="#B" n="73" break="no"/>guitur. ex ea sequitur quod aequaliter merentes
+   inaequali<lb ed="#B" n="74" break="no"/>ter praemiabuntur. consequens est inconveniens in eodem 
+   <lb ed="#B" n="75"/>foro. sed quod sequatur patet. totum praemium sortis
+   prae<lb ed="#B" n="76" break="no"/>mium platonis exuperat: cum aequales btitudines
+   ha<lb ed="#B" n="77" break="no"/>beant: &amp; cum hoc sorti remittitur poena. &amp; tamen
+   aequa<lb ed="#B" n="78" break="no"/>liter merentur ex hypothesi. igitur.
+  </p>
+      <p xml:id="jMqv4a-d1e456-d1e255">
+   ⁋ Respondetui 
+   <lb ed="#B" n="79"/>negando quod non habebunt aequalia praemia essentia 
+   <lb ed="#B" n="80"/>lia. de praemio enim concomitanti scilicet remissione 
+   <lb ed="#B" n="81"/>poenae non est inconveniens. patet in alio casu:
+   Sor<lb ed="#B" n="82" break="no"/>tes vult consequi indulgentias: &amp; eas consequitur: quia 
+   <lb ed="#B" n="83"/>dat secundum quotam in indulgentiis positam:
+   Pla<lb ed="#B" n="84" break="no"/>to etiam vult indulgentias consequi: sed impeditur: quia 
+   <lb ed="#B" n="85"/>non habet pecuniam: vel est aliud impedimentum: isti 
+   <lb ed="#B" n="86"/>duo per duos actus aequales &amp; aequaliter meritorios 
+   <lb ed="#B" n="87"/>merentur aequale praemium essentiale: sed inaequaliter 
+   <lb ed="#B" n="88"/>merentur remissionem poenae 
+  </p>
+      <p xml:id="jMqv4a-d1e456-d1e280">
+       <lb ed="#B" n="89"/>⁋ Secundo arguitur. ille qui agit sua 
+   <lb ed="#B" n="90"/>sponte, alacrius &amp; hilarius facit suum opus quam
+   al<lb ed="#B" n="91" break="no"/>ter cui poenitentia est iniuncta: qui opus tale non ad 
+   <lb ed="#B" n="92"/>impleret nisi esset ei iniunctum. ergo prior melius 
+   <lb ed="#B" n="93"/>facit. Hilarem enim datorem diligit deus.
+  </p>
+      <p xml:id="jMqv4a-d1e456-d1e293">
+   ⁋ Responde 
+   <lb ed="#B" n="94"/>tur. si caetera sint imparia, nihil ad a. Secundo dico. 
+   <lb ed="#B" n="95"/>quod stat vnum plus mereri per opus melius, &amp; non plus 
+   <lb ed="#B" n="96"/>satisfacere. quia non oportet semper opus magis mer 
+   <lb ed="#B" n="97"/>torium esse magis satisfactorium. vt patet in indulgen 
+   <lb ed="#B" n="98"/>tiis, quas vnus intenso actu voluntatis acquirit &amp; 
+   <lb ed="#B" n="99"/>alter remisso. prior enim plus meretur quo ad vitam 
+   <lb ed="#B" n="100"/>aeternam: non autem quo ad remissionem poenae. sic po 
+   <lb ed="#B" n="101"/>test esse quod duo dicant septem psalmos aequaliter
+   sa<lb ed="#B" n="102" break="no"/>tisfactorie: &amp; tamen vnus plus mereatur. Hilarem enim
+   da<lb ed="#B" n="103" break="no"/>torem diligit deus. hoc est, actum sponte factum 
+   <lb ed="#B" n="104"/>diligit deus: siue actum eliciens sit iucundus &amp; san 
+   <lb ed="#B" n="105"/>guineus siue subtristis &amp; melancholicus. &amp; non tantum 
+   <!--0203.xml-->
+   <pb ed="#B" n="86-r"/>
+       <cb ed="#B" n="a"/>
+       <lb ed="#B" n="1"/>diligit actum ab inuito quodammodo productum, vel 
+   <lb ed="#B" n="2"/>cum murmure.
+  </p>
+      <p xml:id="jMqv4a-d1e456-d1e332">
+   ⁋ Ex toto patet quod aliquis actus est 
+   <lb ed="#B" n="3"/>satisfactorius &amp; meritorius. hoc patet ex quaestione 
+   <lb ed="#B" n="4"/>hac. Aliquis actus est satisfactorius qui no est
+   me<lb ed="#B" n="5" break="no"/>ritorius. vt patet ex quaestione praecedenti. Aliquis est etiam 
+   <lb ed="#B" n="6"/>meritorius qui non est satisfactorius. vt actus non
+   poe<lb ed="#B" n="7" break="no"/>nalis elicit. a gratia. Fodem modo stat actum esse magis 
+   <lb ed="#B" n="8"/>satisfactorium alio &amp; minus meritorium: &amp; econverso. 
+   <lb ed="#B" n="9"/>Vvbitatur: an opus praecepti 
+   <lb ed="#B" n="10"/>possit iniungi in poenitentiam. &amp; non intelligo  
+   <lb ed="#B" n="11"/>ide opere praecepti quod poenitens assumit a 
+   <lb ed="#B" n="12"/>lconfessore suo, &amp; per consequens implere tenels 
+   <lb ed="#B" n="13"/>sed de aliunde praecepto per aliqua legem diuinam veln 
+   <lb ed="#B" n="14"/>humanam.
+  </p>
+      <p xml:id="jMqv4a-d1e456-d1e361">
+   ⁋ Respondetur. Neutra pars est totaliter 
+   <lb ed="#B" n="15"/>certa: sed iudico partem negatiuam veram: scilicet quod 
+   <lb ed="#B" n="16"/>homo non potest satisfacere poenae debitae peccatis 
+   <lb ed="#B" n="17"/>per opus praecepti. Probatur haec conclusio: quia oppo 
+   <lb ed="#B" n="18"/>sito dato sequitur quod confessor licite potest imponere 
+   <lb ed="#B" n="19"/>clerico vel beneficiato in poenitentiam &amp; in expiatio 
+   <lb ed="#B" n="20"/>nem peccatorum vt dicat horas canonicas toto isto 
+   <lb ed="#B" n="21"/>mense, anno, vel vita. &amp; quod alter hoc faciens, pro suis 
+   <lb ed="#B" n="22"/>peccatis satisfacit sic dicendo horas canonicas. eo 
+   <lb ed="#B" n="23"/>dem modo de ieiunio quadragesimae. &amp; per
+   conse<lb ed="#B" n="24" break="no"/>quens inutile est alia in poenitentiam iniungere. immo 
+   <lb ed="#B" n="25"/>securius istae poenitentiae iniungi debent: quia vero si 
+   <lb ed="#B" n="26"/>milius est quod seruabuntur. Insuper peccator ratione 
+   <lb ed="#B" n="27"/>sui peccati tenetur ad aliquid ad quod non tenetur inno 
+   <lb ed="#B" n="28"/>cens. sed innocens tenetur ad ieiunium quadragesimae, 
+   <lb ed="#B" n="29"/>&amp; ad dicendas horas. ergo ad aliud tenetur
+   poeni<lb ed="#B" n="30" break="no"/>tens. Tertio arguitur ad idem. quia opposito dato
+   se<lb ed="#B" n="31" break="no"/>quitur: si sortes debeat platoni centum scuta: quod pos 
+   <lb ed="#B" n="32"/>sim licite iniungere ei solutionem illorum centum scuto 
+   <lb ed="#B" n="33"/>rum: &amp; ipse satisfaciens, soluendo erit absolutus: 
+   <lb ed="#B" n="34"/>&amp; ad aliud non tenetur per te: ergo imprudens est tam 
+   <lb ed="#B" n="35"/>ipse quam confessor aliam poenitentiam iniungens.
+   Quar<lb ed="#B" n="36" break="no"/>to arguitur: si frangam tibi tibiam, &amp; debea tibi centum, 
+   <lb ed="#B" n="37"/>non satisfacio tibi dando praecise centum quae debeo. 
+   <lb ed="#B" n="38"/>ergo si alio iure sum obligatus ieiunare quadrage 
+   <lb ed="#B" n="39"/>simam, non satisfacio per illud ieiunium ratio ne pec 
+   <lb ed="#B" n="40"/>catorum a me commissorum. Quinto arguitur. si sor 
+   <lb ed="#B" n="41"/>ti qui commisit centum peccata: iniungam ratione 
+   <lb ed="#B" n="42"/>vnius peccati dicere psalmum Miserere mei deus. 
+   <lb ed="#B" n="43"/>sequitur quod ratione cuiuslibet peccati possum
+   iniun<lb ed="#B" n="44" break="no"/>gere ei eundem psalmum: &amp; sic per eundem psalmum 
+   <lb ed="#B" n="45"/>poterit satisfacere toti poenitentiae iniungendae: hoc 
+   <lb ed="#B" n="46"/>dato quod psalmus iste sufficeret praecise pro vno pec 
+   <lb ed="#B" n="47"/>cato. nam sortes tenetur ex hypothesi ratione a. peccati
+   di<lb ed="#B" n="48" break="no"/>cere hunc psalmum: &amp; non obstat praeceptum per te quin  
+   <lb ed="#B" n="49"/>ego possim iniungere pro alio: ergo iniungam pro 
+   <lb ed="#B" n="50"/>alio peccato: &amp; sic pro quolibet distincte: &amp; ex
+   conse<lb ed="#B" n="51" break="no"/>quenti pro omnibus. &amp; eodem modo argumentabor quod 
+   <lb ed="#B" n="52"/>semel dicere orationem dominica pro omnibus 
+   <lb ed="#B" n="53"/>sufficit.
+  </p>
+      <p xml:id="jMqv4a-d1e456-d1e448">
+   ⁋ Propter has rationes teneo partem ne 
+   <lb ed="#B" n="54"/>gatiuam dubii. Ex qua responsione infero hanc 
+   <!--0203.xml-->
+   <cb ed="#B" n="b"/> 
+       <!-- 86-r b -->
+       <lb ed="#B" n="55"/>propositionem. Si presbyter iniungat alicui qua 
+   <lb ed="#B" n="56"/>tuor dierum ieiunium: &amp; vigilia Ioannis
+   Bapti<lb ed="#B" n="57" break="no"/>stae occutrat inter illos dies: tenetur poenitens alium 
+   <lb ed="#B" n="58"/>diem capere. patet. quia dies ille est ci de praecepto. 
+   <lb ed="#B" n="59"/>non tamen nego quin per idem ieiunium quis potest 
+   <lb ed="#B" n="60"/>satisfacere tribus praeceptis quando inseparabiliter 
+   <lb ed="#B" n="61"/>secundum aliquam lege statutam occurrunt: quod constat 
+   <lb ed="#B" n="62"/>de die veneris in prima integra hebdomada
+   qua<lb ed="#B" n="63" break="no"/>dragesimae: in qua satisfacit frater minor suae regu 
+   <lb ed="#B" n="64"/>lae &amp; duobus praeceptis ecclesiae. 
+  </p>
+      <p xml:id="jMqv4a-d1e456-d1e481">
+       <lb ed="#B" n="65"/>⁋ Sed contra hanc responsionem argui 
+   <lb ed="#B" n="66"/>tur aliquot argumentis. Primo sequeretur ex
+   solu<lb ed="#B" n="67" break="no"/>tione: si iniungerem sorti in poenitentiam dare eleemo 
+   <lb ed="#B" n="68"/>synam, &amp; ipse eam extreme pauperi daret: quod non
+   sa<lb ed="#B" n="69" break="no"/>tisfaceret poenitentiae iniunctae, quod durum videtur. 
+   <lb ed="#B" n="70"/>quia si illam non extreme pauperi dedisset, poeniten 
+   <lb ed="#B" n="71"/>tiae satisfecisset. sequela est lucida: quia talis datio 
+   <lb ed="#B" n="72"/>est opus praecepti.
+  </p>
+      <p xml:id="jMqv4a-d1e456-d1e502">
+   ⁋ Respondetur concedendo
+   illa<lb ed="#B" n="73" break="no"/>tum tanquim corollarie sequens. &amp; ita in vltima
+   le<lb ed="#B" n="74" break="no"/>ctione concessi, &amp; concedo, quod dando non extreme 
+   <lb ed="#B" n="75"/>pauperi satisfacit poenitentiae iniunctae: non autem
+   ex<lb ed="#B" n="76" break="no"/>treme pauperi. sed male agit dando non extreme 
+   <lb ed="#B" n="77"/>pauperi: altero praetermisso. debet enim praeceptum 
+   <lb ed="#B" n="78"/>dei adimpleri differendo praeceptum humanum impo 
+   <lb ed="#B" n="79"/>situm: dato etiam quod amplius non habeat quo
+   satis<lb ed="#B" n="80" break="no"/>faciat.
+  </p>
+      <p xml:id="jMqv4a-d1e456-d1e522">
+   ⁋ Secundo arguitur. possum iniungere
+   pla<lb ed="#B" n="81" break="no"/>toni dicere horas capite discooperto, vel genibus 
+   <lb ed="#B" n="82"/>flexis. &amp; tunc adimplebit poenitentiam. Similiter
+   ieiu<lb ed="#B" n="83" break="no"/>nium quadragesimae in pane &amp; aqua.
+  </p>
+      <p xml:id="jMqv4a-d1e456-d1e531">
+   ⁋ Tertio ar 
+   <lb ed="#B" n="84"/>guitur. possum iniungere platoni diligere deum pro 
+   <lb ed="#B" n="85"/>tempore quo tenetur eum diligere: &amp; adimplebit
+   poe<lb ed="#B" n="86" break="no"/>nitentia.
+  </p>
+      <p xml:id="jMqv4a-d1e456-d1e540">
+   ⁋ Ad secundum concedo: quia illa sunt 
+   <lb ed="#B" n="87"/>opera consilii. Eodem modo respondetur ad tertium. 
+   <lb ed="#B" n="88"/>non enim est possibile implere istud praeceptum sine 
+   <lb ed="#B" n="89"/>opere consilii.
+  </p>
+      <p xml:id="jMqv4a-d1e456-d1e549">
+   ⁋ Quarto arguitur. habens carnem 
+   <lb ed="#B" n="90"/>petulantem qui tenetur ieiunare in Augusto
+   po<lb ed="#B" n="91" break="no"/>test capere in poenitentiam ieiunium <name xml:id="jMqv4a-d1e456-Nd1e555" ref="#Augustine">Augustini</name>. ergo 
+   <lb ed="#B" n="92"/>non inconvenit capere opus precepti in poenitentiam. 
+  </p>
+      <p xml:id="jMqv4a-d1e456-d1e561">
+       <lb ed="#B" n="93"/>⁋ Respondetur: non video pro domanda carne
+   requi<lb ed="#B" n="94" break="no"/>ri ieiunium ecclesiae: comedendo semel in die &amp; ci 
+   <lb ed="#B" n="95"/>bos ab ecclesia admissos. Potest enim talis bis vel 
+   <lb ed="#B" n="96"/>ter comedere tenuiter vel carnes: &amp; carnem dema 
+   <lb ed="#B" n="97"/>cerare. Debes ergo probare quod confessor possit
+   in<lb ed="#B" n="98" break="no"/>iungere ei hoc determinatum in poenitentiam ad quod 
+   <lb ed="#B" n="99"/>alioquin tenetur.
+  </p>
+      <p xml:id="jMqv4a-d1e456-d1e580">
+   ⁋ Quinto arguitur. ieiunium qua  
+   <lb ed="#B" n="100"/>dragesimae institutum est ad satiffaciendum pro culpis 
+   <lb ed="#B" n="101"/>commissis &amp; ad macerandam carnem: vt patet in
+   prae<lb ed="#B" n="102" break="no"/>fatione quadragesimae, saltem secundum vsum
+   Ro<lb ed="#B" n="103" break="no"/>manum. vbi ecclesia canit. Aeterne deus qui corpo 
+   <lb ed="#B" n="104"/>rali ieiunio vitia comprimis: mentem eleuas &amp;c. 
+  </p>
+      <p xml:id="jMqv4a-d1e456-d1e593">
+       <lb ed="#B" n="105"/>⁋ Respondeo. hoc dictum non intendit quod possit
+   ie<lb ed="#B" n="106" break="no"/>iunium quadragesimae iniungi in poenitentiam 
+   <lb ed="#B" n="107"/>pro peccatis commissis: sed quod ieiunium institutum 
+   <lb ed="#B" n="108"/>sit ad comprimendos insultus passionum ne peccemus. 
+   <!--0204.xml-->
+   <pb ed="#B" n="86-v"/>
+       <cb ed="#B" n="a"/>
+       <lb ed="#B" n="1"/>Quinetiam si homo non peccet a triennio: adhuc
+   te<lb ed="#B" n="2" break="no"/>netur ieiunare quadragesimam. 
+  </p>
+      <p xml:id="jMqv4a-d1e456-d1e615">
+       <lb ed="#B" n="3"/>⁋ Secundo dubitatur: an per sola oper a 
+   <lb ed="#B" n="4"/>poenalia debeat fieri satisfactio.
+  </p>
+      <p xml:id="jMqv4a-d1e456-d1e622">
+   ⁋ Respondetur. in  
+   <lb ed="#B" n="5"/>satisfactione oportet auferre ab illo qui plus iusto 
+   <lb ed="#B" n="6"/>iliquid ab alio subtraxit: vt sit aequalitas &amp; compen 
+   <lb ed="#B" n="7"/>satio. quod quinto ethicorum declarat philosophus de 
+   <lb ed="#B" n="8"/>linea maiore &amp; minore. reducendo enim ad
+   aequalita<lb ed="#B" n="9" break="no"/>tem oportet tollere aliquem excessum lincae maioris &amp; 
+   <lb ed="#B" n="10"/>addere minori: quousque sit aequalitas. Sic quia in  
+   <lb ed="#B" n="11"/>peccato peccator honorem subtraxit deo debitum: &amp; 
+   <lb ed="#B" n="12"/>deum offendit: oportet restituat aequiualens deo
+   se<lb ed="#B" n="13" break="no"/>cundum legem dei statutam. Sed opus voluptuosum 
+   <lb ed="#B" n="14"/>nihil a peccatore subtrahit: sed illi rem gratam facit. 
+   <lb ed="#B" n="15"/>debet igitur esse poenale. Et cum sit triplex bonum 
+   <lb ed="#B" n="16"/>honestum / vtile, &amp; delectabile, octauo Ethicorum: per 
+   <lb ed="#B" n="17"/>subtractionem boni honesti non compensatur deus: sed 
+   <lb ed="#B" n="18"/>offenditur. quare debet esse compensatio per
+   subtra<lb ed="#B" n="19" break="no"/>ctionem boni vtilis vel delectabilis: vtriusque enim 
+   <lb ed="#B" n="20"/>subtractio est homini poenalis. &amp; respiciendum est 
+   <lb ed="#B" n="21"/>ad poenalitatem quam plurimum fit ex parte rei operatae, &amp; non 
+   <lb ed="#B" n="22"/>ad poenalitatem ipsius operantis. interdum enim
+   ope<lb ed="#B" n="23" break="no"/>rans laeta fronte opus iniunctum exequitur.
+  </p>
+      <p xml:id="jMqv4a-d1e456-d1e666">
+   ⁋
+   Hacte<lb ed="#B" n="24" break="no"/>nus de opere satisfactorio quod non minus est
+   meri<lb ed="#B" n="25" break="no"/>torium qui non satisfactorium, quod debet esse poenale ex 
+   <lb ed="#B" n="26"/>parte obiecti operati: &amp; ita plurimum est. licet enim in  
+   <lb ed="#B" n="27"/>oratione sit metis serenitas: est tamen afflictio car 
+   <lb ed="#B" n="28"/>nis. &amp; licet alicui sit iucundum in maio proficisci 
+   <lb ed="#B" n="29"/>peregre: talis tamen peregrinatio corpori saepissime est 
+   <lb ed="#B" n="30"/>poenalis. Item si vnus pro alio satisfaciat, est poenale 
+   <lb ed="#B" n="31"/>opus satisfacienti: &amp; aliquid est poenae, scilicet
+   tri<lb ed="#B" n="32" break="no"/>stitia ipsi pro quo fit: quae tamen non sufficienter 
+   <lb ed="#B" n="33"/>tollit totam poenam nisi magna fuerit: propter 
+   <lb ed="#B" n="34"/>sui imperceptibilitatem tamen non imponitur in 
+   <lb ed="#B" n="35"/>poenitentiam. Amplius diximus: opus ad quod quis 
+   <lb ed="#B" n="36"/>est aliunde obnoxius vi praecepti: non sufficere pro 
+   <lb ed="#B" n="37"/>opere satisfactorio.
+  </p>
+    </div>
+   </body>
+  </text>
+</TEI>

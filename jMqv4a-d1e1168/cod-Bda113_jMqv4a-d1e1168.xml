@@ -1,0 +1,407 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 6</title>
+      <author ref="#JohnMair">John Mair</author>
+      <respStmt>
+       <name>Jeffrey C. Witt</name>
+       <resp>TEI Encoder</resp>
+      </respStmt>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 6</title>
+       <date when="2020-06-09">June 27, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="B" n="cod-Bda113">Badius 1516</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+     guidelines for a diplomatic edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-06-27" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+      <pb ed="#B" n="219-v"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="jMqv4a-d1e1168"> <!-- l4d24q6 -->
+      <head xml:id="jMqv4a-d1e1168-Hd1e104">Quaestio 6</head>
+      <head xml:id="jMqv4a-d1e1168-Hd1e107" type="question-title">Quomodo ab inidoneo idoneus sgregetur</head>
+      <p xml:id="jMqv4a-d1e1168-d1e110">
+       <lb ed="#B" n="35"/>⁋ Distinctionis Vigesimaequartae 
+   <lb ed="#B" n="36"/>Quaestio Sexta. 
+   <lb ed="#B" n="37"/>Exto in hac distincti 
+   <lb ed="#B" n="38"/>one / &amp; tertio circa hanc
+   mate<lb ed="#B" n="39" break="no"/>riam beneficiorum quaeritur: quomodo 
+   <lb ed="#B" n="40"/>ab inidoneo idoneus segre 
+   <lb ed="#B" n="41"/>getur. Et arguitur quod non requiritur 
+   <lb ed="#B" n="42"/>magna scientia etiam in episco 
+   <lb ed="#B" n="43"/>po: &amp; minor scientia ad
+   cu<lb ed="#B" n="44" break="no"/>ram animarum in inferiore sufficit: in 
+   <lb ed="#B" n="45"/>mo non requiritur scire congrue loqui. nam datis duc 
+   <lb ed="#B" n="46"/>bus sorte &amp; platone aequaliter scientibus: platone tamen 
+   <lb ed="#B" n="47"/>prudentiore in agibilibus: plato est praeferendus: quia ma 
+   <lb ed="#B" n="48"/>gis idoneus, ex postea dicendis in hac distinctioni 
+   <lb ed="#B" n="49"/>ergo aliquid prudentiae alicui scientiae aequi:  
+   <lb ed="#B" n="50"/>ualet. tunc detur vnus magis prudens quam plato, 
+   <lb ed="#B" n="51"/>minus sciens quam alteruter istorum. ille est ita idoneus 
+   <lb ed="#B" n="52"/>vt vnus istorum. &amp; sic ascendam per prudentiam 
+   <!--0470.xml-->
+   <cb ed="#B" n="b"/> 
+       <!-- 219-v b -->
+       <lb ed="#B" n="53"/>&amp; diminutionem scientiae: quousque detur vnus vix
+   la<lb ed="#B" n="54" break="no"/>tine sciens, etiam cura animarum dignus. Praeterea non 
+   <lb ed="#B" n="55"/>requiritur semper resident: a in beneficio, vt postea 
+   <lb ed="#B" n="56"/>dicemus. ergo ad beneficium iuste tenendum sufficit hare 
+   <lb ed="#B" n="57"/>bonum vicarium loco suo. sed talem facile habere
+   po<lb ed="#B" n="58" break="no"/>tes: ergo vix congruus (vt dicunt) &amp; literarum ne 
+   <lb ed="#B" n="59"/>scius sufficit: nec requiritur scientia vlla ad curam pa 
+   <lb ed="#B" n="60"/>storalem 
+  </p>
+      <p xml:id="jMqv4a-d1e1168-d1e175">
+       <lb ed="#B" n="61"/>⁋ Hanc quaestionem difficilius est 
+   <lb ed="#B" n="62"/>enodare in particulari / quam implicitos lororum
+   Gor<lb ed="#B" n="63" break="no"/>dii nexus dissoluere: vel planetarum motus in ec 
+   <lb ed="#B" n="64"/>centricis &amp; epicyclis discernere. Nam licet haec propon 
+   <lb ed="#B" n="65"/>ex terminis sit patens: nulli in idoneo conferendum 
+   <lb ed="#B" n="66"/>est beneficium: tamen Titio demonstrato vel Me 
+   <lb ed="#B" n="67"/>uio dubium erit an iste sit idoneus / an in idoneus 
+   <lb ed="#B" n="68"/>Sed quia vt dicitur primo Ethicorum sermones 
+   <lb ed="#B" n="69"/>vniuersales in morali philosophia parum vtiles 
+   <lb ed="#B" n="70"/>sunt: particularius secundum temporis angustiandescende 
+   <lb ed="#B" n="71"/>re elaborabo: in primis argumenta proposita
+   euacuan<lb ed="#B" n="72" break="no"/>do. Primum argumentum tangit difficultatem 
+   <lb ed="#B" n="73"/>an scientiae prudentia aequiualeat. Et pro illo
+   in<lb ed="#B" n="74" break="no"/>telligendo scito quod scientia discemendi inter pec 
+   <lb ed="#B" n="75"/>cata est scientia de qua loquimur. Scientiam enim 
+   <lb ed="#B" n="76"/>non capimus posterioristice. nam logica &amp;
+   natu<lb ed="#B" n="77" break="no"/>ralis philosophia hic non sufficiunt: licet requiram 
+   <lb ed="#B" n="78"/>tur ad ista penitus cognoscenda, nec debet esse ser 
+   <lb ed="#B" n="79"/>mo de prudentia rerum externarum a beneficio 
+   <lb ed="#B" n="80"/>quare de alia prudentia non debet esse compara 
+   <lb ed="#B" n="81"/>tio. modo illa prudentia a scientia ferme omnino 
+   <lb ed="#B" n="82"/>dependet. Prudentia enim est iudicium de recte 
+   <lb ed="#B" n="83"/>agendis vel omittendis, quod scientiam circa hanc 
+   <lb ed="#B" n="84"/>artem requirit. Hoc sic declaro. sit aliquis
+   occul<lb ed="#B" n="85" break="no"/>tus peccator cognitus a curato, corpus Christi in 
+   <lb ed="#B" n="86"/>publico in pascha petens: prius quam curatus recte 
+   <lb ed="#B" n="87"/>iudicet de ministrando ei corpore Christi vel
+   ne<lb ed="#B" n="88" break="no"/>gando: requiritur quod praesciuerit quid facto opus. 
+   <lb ed="#B" n="89"/>sit ad hoc vt recte agat. Similiter ad hoc vt
+   iu<lb ed="#B" n="90" break="no"/>dicet aliquem esse absoluendum vel non / super 
+   <lb ed="#B" n="91"/>aliquo contractu intricatissimo: oportet illum
+   prae<lb ed="#B" n="92" break="no"/>cognouisse vel antecedens ad hoc. Fodem
+   mo<lb ed="#B" n="93" break="no"/>do in canonico vt consulat episcopo: &amp; magis in 
+   <lb ed="#B" n="94"/>decano &amp; archidiacono. Parua vero prudentia 
+   <lb ed="#B" n="95"/>circa externa / loquendo cum mundanis sufficit. 
+   <lb ed="#B" n="96"/>Ex quibus patet solutio primi argumenti: quia 
+   <lb ed="#B" n="97"/>prudentiam exterram comparare scientiae no est 
+   <lb ed="#B" n="98"/>ad propositum. Vlterius dico quod ista prudentia
+   incolli<lb ed="#B" n="99" break="no"/>gendis pecuniis vel inhoneste augendis prouen 
+   <lb ed="#B" n="100"/>tibus ecclesiae / non est vera prudentia: nec vllo pacte 
+   <lb ed="#B" n="101"/>ad prudentiam ecclesiasticam spectat. Variorum 
+   <lb ed="#B" n="102"/>autem actuum appetitiuorum variae sunt prudentiae: nec 
+   <lb ed="#B" n="103"/>vna est omnium: vt in tertio amplius dicimus. Ve 
+   <lb ed="#B" n="104"/>ra prudentia ecclesiastica est iudicare nihil esse
+   col<lb ed="#B" n="105" break="no"/>ligendum nisi sit honestum: &amp; post victum &amp; vestitum 
+   <lb ed="#B" n="106"/>reliquam partem in vsus pios conferre: vt postea di 
+   <!--0471.xml-->
+   <pb ed="#B" n="220-r"/>
+       <cb ed="#B" n="a"/>
+       <lb ed="#B" n="1"/>cemus.
+  </p>
+      <p xml:id="jMqv4a-d1e1168-d1e287">
+   ⁋ Ad aliud quod non requiratur residentia, tran 
+   <lb ed="#B" n="2"/>seat hoc pronunc. tamen requiritur quod sit idone 
+   <lb ed="#B" n="3"/>in potentia propiqua quando residebit / vt sciat illa facere 
+   <lb ed="#B" n="4"/>quam officio suo incumbunt. &amp; nego quod ad iuste tenendum 
+   <lb ed="#B" n="5"/>beneficium sufficiat loco suo sufficientem hatre vicarium 
+   <lb ed="#B" n="6"/>quia hac via concludens quod pro episcopatu subulcus 
+   <lb ed="#B" n="7"/>sit idoneus: quod nemo sanae mentis diceret. 
+  </p>
+      <p xml:id="jMqv4a-d1e1168-d1e303">
+       <lb ed="#B" n="8"/>⁋ His praemissis respondetur pro
+   con<lb ed="#B" n="9" break="no"/>clusiones sequentes: quarum Pria est. Scientia requiritur 
+   <lb ed="#B" n="10"/>ad episcopatum: &amp; etiam ad inferiora beneficia: licet ad 
+   <lb ed="#B" n="11"/>alia minorrequiratur. Probatur. illud requiritur ad
+   episco<lb ed="#B" n="12" break="no"/>patum obtinendum quod deijcit aliquem ab episcopatu ha 
+   <lb ed="#B" n="13"/>bito. sed hoc facit defectus scientiae: vt habetur de aeta. 
+   <lb ed="#B" n="14"/>&amp; quali. &amp; or. prae. c. vltimo. vbi Hononius tertius 
+   <lb ed="#B" n="15"/>sic inquit. Quamuis multa proposita fuerint contra epsoum 
+   <lb ed="#B" n="16"/>Calinensem: quia tamen confessus est coram nobis se 
+   <lb ed="#B" n="17"/>nunquam de grammatica didicisse: nec etiam legisse 
+   <lb ed="#B" n="18"/>Donatum: &amp; per euidentiam facti vsqueadeo de 
+   <lb ed="#B" n="19"/>illiteratura &amp; insufficientia sua constat: quod contra deum 
+   <lb ed="#B" n="20"/>esset &amp; canonicas sanctiones, tantum in episcopo 
+   <lb ed="#B" n="21"/>tolerare defectum: ipsum a pontificalis officii ex 
+   <lb ed="#B" n="22"/>ecutione / &amp; ab administratione Calinen. ecclesiae pi 
+   <lb ed="#B" n="23"/>nitus duximus amouendum. Sed maior
+   insci<lb ed="#B" n="24" break="no"/>tia requiritur ad negandum accessum ad
+   benefi<lb ed="#B" n="25" break="no"/>cium quam ad deijciendum. Nam turpius eijcitur qua 
+   <lb ed="#B" n="26"/>non admittitur hospes. Probatur insuper haec
+   co<lb ed="#B" n="27" break="no"/>clusio per. c. Cum in cunctis. de elect. in concilio 
+   <lb ed="#B" n="28"/>Lateranensi. vbi dicitur. Cum in cunctis sacris ordini 
+   <lb ed="#B" n="29"/>bus &amp; ecclesiasticis ministeriis sint aetatis maturi 
+   <lb ed="#B" n="30"/>tas / grauitas morum / &amp; literarum scientia inquirenda 
+   <lb ed="#B" n="31"/>multo fortius in episcopo haec oportet inquiri: qui 
+   <lb ed="#B" n="32"/>ad curam aliorum positus, in seipso debet osten 
+   <lb ed="#B" n="33"/>dere qualiter alios in domo dei oporteat conversa 
+   <lb ed="#B" n="34"/>ri. Eapropter ne quod de quibusdam pro necessita 
+   <lb ed="#B" n="35"/>te temporis factum est, trahatur a posteris in exem 
+   <lb ed="#B" n="36"/>plum, praesenti decreto statuimus: vt nullus in epi 
+   <lb ed="#B" n="37"/>scopum eligatur nisi qui iam trigesimum annum
+   aeta<lb ed="#B" n="38" break="no"/>tis exegerit: &amp; de legitimo matrimonio sit natus 
+   <lb ed="#B" n="39"/>qui etiam vita &amp; scientia commendabilis
+   demonstre<lb ed="#B" n="40" break="no"/>tur. Hoc idem patet in. c. Congregato. in eodem 
+   <lb ed="#B" n="41"/>ritu. Hinc ab episcopo petitur in sui ordinatione: an 
+   <lb ed="#B" n="42"/>vtrumque testame: tum sciat. &amp; oportet quod sic. hoc est 
+   <lb ed="#B" n="43"/>sciat de vtroque quod est suo staui necessarium. in cuius 
+   <lb ed="#B" n="44"/>signum duo cornua in mitra gerit. Et ratione probatur. nul 
+   <lb ed="#B" n="45"/>lus est idoneus in arte nauigandi ad hoc vt naui 
+   <lb ed="#B" n="46"/>praesit, nisi qui pericula maris per quae nauigat, &amp; 
+   <lb ed="#B" n="47"/>impetus venti occurrentis depraehendere
+   noue<lb ed="#B" n="48" break="no"/>rit: &amp; conformiter ad aurae exigentiam nouit
+   tra<lb ed="#B" n="49" break="no"/>dere vela ventis / in toto vel in parte: &amp; ea
+   implica<lb ed="#B" n="50" break="no"/>re quando oportet. Propterea namque in bonis por 
+   <lb ed="#B" n="51"/>tubus maritimis super omnibus periculis in ma 
+   <lb ed="#B" n="52"/>ri aemergentibus per quod nauigatur, rigide naucle 
+   <lb ed="#B" n="53"/>rus examinatur. quia si onus suscipiat ineruditus: 
+   <lb ed="#B" n="54"/>nauim cum omnibus submerget ponto. Quamuis 
+   <!--0471.xml-->
+   <cb ed="#B" n="b"/> 
+       <!-- 220-r b -->
+       <lb ed="#B" n="55"/>autem non requiratur quod dominus nauis sitin hac 
+   <lb ed="#B" n="56"/>arte peritus, sed sufficiat habere nauclerum peri 
+   <lb ed="#B" n="57"/>tum pro ea regenda: non perinde est de vicario 
+   <lb ed="#B" n="58"/>curati. quia nauis est eius. &amp; praeterea alias leges 
+   <lb ed="#B" n="59"/>habet cura: alias dominus nauis. alioquin legere 
+   <lb ed="#B" n="60"/>nescius posset esse episcopus / contra dicta.
+   Mul<lb ed="#B" n="61" break="no"/>to etiam plura sunt discrimina in naui
+   conscien<lb ed="#B" n="62" break="no"/>tiae. Opus est ergo perito viro ad bene
+   iudican<lb ed="#B" n="63" break="no"/>dum.
+  </p>
+      <p xml:id="jMqv4a-d1e1168-d1e433">
+   ⁋ Requiritur itaque scientia ad curam
+   anima<lb ed="#B" n="64" break="no"/>rum: videlicet vt homo sciat facere illa quae suo 
+   <lb ed="#B" n="65"/>officio incumbunt. vtpote celebrare vel facere 
+   <lb ed="#B" n="66"/>aequiualens: praedicare saltem euangelium
+   litera<lb ed="#B" n="67" break="no"/>liter, praecepta decalogi &amp; articulos fidei: ministra 
+   <lb ed="#B" n="68"/>re sacramenta / &amp; caetera id genus. Simplex autem 
+   <lb ed="#B" n="69"/>sacerdos nullam habens curam, non tenetur tan 
+   <lb ed="#B" n="70"/>tum scire: sed sufficit ei scire rite facere seu
+   celebra<lb ed="#B" n="71" break="no"/>re missam: &amp; rubricas intelligere. Et si sit
+   ordina<lb ed="#B" n="72" break="no"/>tus tempore quo erat ineruditus: quamquam male egit
+   or<lb ed="#B" n="73" break="no"/>dines suscipiendo: cum tamen sit sacerdos / non  
+   <lb ed="#B" n="74"/>possit retrocedere: faciat meliori modo quo potest 
+   <lb ed="#B" n="75"/>poenitendo de peccato praeterito: &amp; erit in statu 
+   <lb ed="#B" n="76"/>salutis. Doctor vero theologus subdiaconus 
+   <lb ed="#B" n="77"/>duntaxat adhuc non potens celebrate: sed qui est 
+   <lb ed="#B" n="78"/>egregius declamator verbi diuini: &amp; inter lepram 
+   <lb ed="#B" n="79"/>&amp; non lepram nouit discernere: &amp; proxie erit sacerdos: 
+   <lb ed="#B" n="80"/>multo est vtilior in cura / quam is de quo paulo ante me 
+   <lb ed="#B" n="81"/>minimus: &amp; longe priori praeferendus. quia
+   potis<lb ed="#B" n="82" break="no"/>simum opus curae animarum est scire lepram a 
+   <lb ed="#B" n="83"/>non lepra discernere: verbum dei explanare:
+   alli<lb ed="#B" n="84" break="no"/>cere populum ad virtutes, &amp; ipsum deterrere a 
+   <lb ed="#B" n="85"/>vitiis. nam vbi sermo vtilis / vel missatin die festo 
+   <lb ed="#B" n="86"/>est omittenda: potius reliquenda est missae
+   audi<lb ed="#B" n="87" break="no"/>tio: quia faciendo aliud est impletio praecepti: &amp; ma 
+   <lb ed="#B" n="88"/>gis itur ad intentionem legis. secus est si ambo 
+   <lb ed="#B" n="89"/>haberi possunt. Hinc prudens verbi declamator 
+   <lb ed="#B" n="90"/>prohibet auditores in sermone surgere licet
+   cor<lb ed="#B" n="91" break="no"/>pus Christi alibi leuetur: ne verbum dei posthabeatur. 
+   <lb ed="#B" n="92"/>Beati enim qui audiunt verbum dei &amp; custodiunt illud.  
+   <lb ed="#B" n="93"/>Lucae. xi. &amp; ptriae ad Corin. primo. dicit Apostolus. Non 
+   <lb ed="#B" n="94"/>enim misit me Christus baptizare sed euangelizare. 
+   <lb ed="#B" n="95"/>vbi glo. interli. Quod a minoribus fieri potest: ne retar 
+   <lb ed="#B" n="96"/>detur / a praedicatione. Scientiae vtilitas amplius ostendi 
+   <lb ed="#B" n="97"/>tur. nam licet nunquam in hoc genere declamandi se 
+   <lb ed="#B" n="98"/>exercuerit consummatus vir: cum tamen in radice materiam 
+   <lb ed="#B" n="99"/>intelligit: plura vtiliora &amp; meliora ostendet quam isti quae 
+   <lb ed="#B" n="100"/>stuarii in tota quadragesima longos &amp; compositos 
+   <lb ed="#B" n="101"/>sermones aride &amp; ieiune mulierculis recitantes. 
+   <lb ed="#B" n="102"/>Vndedcitur Malachiae. ii. Labia sacerdotis custodiunt 
+   <lb ed="#B" n="103"/>scientiam: &amp; legem requirent ex ore eius. Et Oseae. iiii. 
+   <lb ed="#B" n="104"/>Quia tuscientiam repulisti: repellamn te / ne sacerdotio 
+   <lb ed="#B" n="105"/>fungaris mihi. Et <name xml:id="jMqv4a-d1e1168-Nd1e526">Gregorius</name> in pastorali ait.
+   Offi<lb ed="#B" n="106" break="no"/>cium praeconis suscipit quisquis ad sacerdotium 
+   <lb ed="#B" n="107"/>accedit. In cuius figuram sacerdos sanctum san 
+   <lb ed="#B" n="108"/>ctorum ingressurus, in inferiore parte tunicae
+   tintinabu<lb ed="#B" n="109" break="no"/>lum habebat, vt audiretur in templo. Exo. xxviii. 
+   <!--0472.xml-->
+   <pb ed="#B" n="220-v"/>
+       <cb ed="#B" n="a"/>
+      </p>
+      <p xml:id="jMqv4a-d1e1168-d1e545">
+       <lb ed="#B" n="1"/>⁋ Secunda conclusio. requiritur
+   gra<lb ed="#B" n="2" break="no"/>uitas morum. hoc est vt bene viuat: hoc est: sit bo 
+   <lb ed="#B" n="3"/>nae famae in vita: quae sine prudentia esse non potest 
+   <lb ed="#B" n="4"/>quia actus voluntatis non sunt boni nisi a prui 
+   <lb ed="#B" n="5"/>dentia etiam actuali, vel ab ignorantia inuincibi 
+   <lb ed="#B" n="6"/>li regulentur. Habere autem trigita annos completos 
+   <lb ed="#B" n="7"/>per episcopatum: &amp; processisse de legitimo matrimonico 
+   <lb ed="#B" n="8"/>iunt praecise positiua humana: in quibus pontifex
+   stan<lb ed="#B" n="9" break="no"/>tibus duobus primis / cum sana coscientia ad nu 
+   <lb ed="#B" n="10"/>tum potest dispensare. quare loqui de annis ad beneficia 
+   <lb ed="#B" n="11"/>requisitis / ad theologum non spectat. Talia enim ad nu 
+   <lb ed="#B" n="12"/>tum pontificis sunt mutabilia: &amp; pro solo foro ex 
+   <lb ed="#B" n="13"/>teriore requiruntur. sed duorum primorum
+   defe<lb ed="#B" n="14" break="no"/>ctus vel alterius eorum / virum reddit inidoneum: &amp; per 
+   <lb ed="#B" n="15"/>consequens indispensabilem cum sana conscientia 
+   <lb ed="#B" n="16"/>Tertium requisitum est, quod velit in cura residere.
+   Quar<lb ed="#B" n="17" break="no"/>tum: quod non sit nimis aliunde in beneficiis onustus 
+   <lb ed="#B" n="18"/>quod licet sequatur ex grauitate morum: explicite tamen 
+   <lb ed="#B" n="19"/>posui.
+  </p>
+      <p xml:id="jMqv4a-d1e1168-d1e589">
+   ⁋ Habes vtcunque aliqua per quae beneficium 
+   <lb ed="#B" n="20"/>suscepturi idoneitas cognoscitur. &amp; essentialia sunt 
+   <lb ed="#B" n="21"/>ad illam tria: vcs scientia sufficiens secundum benefici 
+   <lb ed="#B" n="22"/>exigentiam: morum grauitas: hoc est, quod sit bonus 
+   <lb ed="#B" n="23"/>cum quadam grauitate mundana: vel vt melius
+   lo<lb ed="#B" n="24" break="no"/>quar cum prudentia, nec mirabere si ita loquar: cum 
+   <lb ed="#B" n="25"/>superius dixerim: &amp; verum puto, quod ad bonitatem 
+   <lb ed="#B" n="26"/>actus moralis requiritur prudentia vel error
+   probabi<lb ed="#B" n="27" break="no"/>lis. Hic autem (vt lucidius pro omnibus loquar) per
+   gra<lb ed="#B" n="28" break="no"/>uitatem morum / prudentiam intelligo. Aliqui enim 
+   <lb ed="#B" n="29"/>sunt primos accubitus in congressibus appetentes 
+   <lb ed="#B" n="30"/>non salutantes aequales sibi vel meliores, quam non 
+   <lb ed="#B" n="31"/>habent grauitatem morum: sed quandam vanam 
+   <lb ed="#B" n="32"/>superbiam / nimis de se praesumentes. Propterea per 
+   <lb ed="#B" n="33"/>grauitatem morum / mores cum prudentia intelligo  
+   <lb ed="#B" n="34"/>ex industria hoc vocabulum (grauitas mundana) pes 
+   <lb ed="#B" n="35"/>sundans. ista virtualiter tangit Apostolus scribens 
+   <lb ed="#B" n="36"/>ad Timotheum, quem Ephesi episcopum constituit. i 
+   <lb ed="#B" n="37"/>ad Timotheum. iii. inquiens. Oportet epscoum
+   irreprae<lb ed="#B" n="38" break="no"/>hensibilem esse. hoc est moribus grauem, &amp; verae 
+   <lb ed="#B" n="39"/>repraehensioni non obnoxium: prudentem / docto 
+   <lb ed="#B" n="40"/>rem / non percussorem, sed modestum, non litigiosum 
+   <lb ed="#B" n="41"/>non cupidum &amp;c. 
+   <lb ed="#B" n="42"/>Vbitatur quae scientia requi 
+   <lb ed="#B" n="43"/>ratur in beneficiato: &amp; an hospitalitas 
+   <lb ed="#B" n="44"/>requiratur in eodem: quia apostolus hoc 
+   <lb ed="#B" n="45"/>praecepit. Respondetur per hanc regulam. 
+   <lb ed="#B" n="46"/>requiritur ea conscientia in viro vt sciat facere illa 
+   <lb ed="#B" n="47"/>quae suo officio incumbunt: &amp; illa sufficit. Priorpors 
+   <lb ed="#B" n="48"/>nota est: quia alioquinomnium literarum expors
+   pos<lb ed="#B" n="49" break="no"/>set animarum curam habere. Insuper aliqua scien 
+   <lb ed="#B" n="50"/>tia requiritur: &amp; non nisi illa de qua est mentio in  
+   <lb ed="#B" n="51"/>priore parte regulae. igitur. Secunda pars probatur 
+   <lb ed="#B" n="52"/>quia ad artem nauigandi: extruendarum
+   domo<lb ed="#B" n="53" break="no"/>rum &amp; similium sufficit viro scire facere omnia quae  
+   <!--0472.xml-->
+   <cb ed="#B" n="b"/> 
+       <!-- 220-v b -->
+       <lb ed="#B" n="54"/>suo officio incumbunt: ergo hoc in proposito
+   suffi<lb ed="#B" n="55" break="no"/>cit. antecedens &amp; consequentia clarent.
+  </p>
+      <p xml:id="jMqv4a-d1e1168-d1e676">
+   ⁋ Ex istis se 
+   <lb ed="#B" n="56"/>quitur quod quanto est maior cura in beneficio: tanto 
+   <lb ed="#B" n="57"/>maior requiritur scientia. Secundo sequitur quod in
+   epi<lb ed="#B" n="58" break="no"/>scopatu maior requiritur scientia qui in beneficiis 
+   <lb ed="#B" n="59"/>nferioribus: &amp; sic gradatim descendendo. quia li 
+   <lb ed="#B" n="60"/>cet plebanus debeat reddere rationem de fide &amp; 
+   <lb ed="#B" n="61"/>spe &amp; similibus ad se spectantibus omni poscen 
+   <lb ed="#B" n="62"/>ti in sua cura / cum quadam mediocritate: ad id tamen 
+   <lb ed="#B" n="63"/>tenetur episcopus excellentius / &amp; profundius / &amp;
+   o<lb ed="#B" n="64" break="no"/>mnibus dioecesanis. Tertio sequitur quod abbas mo 
+   <lb ed="#B" n="65"/>nachorum tenetur plura scire quam subditi monachi. 
+   <lb ed="#B" n="66"/>nam de ratione monachatus non est plura scire 
+   <lb ed="#B" n="67"/>cum officium monachi secundum Hieronymum 
+   <lb ed="#B" n="68"/>sit plangere &amp; non docere. modo abbas habet cu 
+   <lb ed="#B" n="69"/>ram animarum suorum / scilicet monachorum. 
+   <lb ed="#B" n="70"/>Quarto sequitur quod beneficium in eo loco in quo 
+   <lb ed="#B" n="71"/>sunt multi haeretici / &amp; vbi multi contractus implici 
+   <lb ed="#B" n="72"/>ti &amp; ambigui occurrunt, vitum maioris scientiae 
+   <lb ed="#B" n="73"/>pro beneficio exigit quam vbi ista non contingunt. 
+   <lb ed="#B" n="74"/>sicut requiritur peritior nauta nauigando inter Scyl 
+   <lb ed="#B" n="75"/>lam &amp; Charybdim / vel iuxta Syrtes Aphricae, qu 
+   <lb ed="#B" n="76"/>in Sequana. Quinto sequitur quod aliquis est idoneus 
+   <lb ed="#B" n="77"/>pro sacello: vel pro cantu in choro, quam pro nulla 
+   <lb ed="#B" n="78"/>cura animarum est idoneus. sicut aliquis
+   nauicu<lb ed="#B" n="79" break="no"/>lam in Tago scit regere qui iuxta Syrtes Aphri 
+   <lb ed="#B" n="80"/>cae nauigando periret. Sexto sequitur quod haec
+   con<lb ed="#B" n="81" break="no"/>sequentia est inualida: sortes est prudens in agibi 
+   <lb ed="#B" n="82"/>libus: &amp; peritus musicus: &amp; habet curam: ergo est 
+   <lb ed="#B" n="83"/>bonus curatus. tamen haec est bona ponendo ter 
+   <lb ed="#B" n="84"/>minum theologus loco termini musicus. sicut e 
+   <lb ed="#B" n="85"/>diuerso non sequitur. iste theologus est aptus ad
+   cu<lb ed="#B" n="86" break="no"/>ram regendam: ergo est aptus officio cantus regii 
+   <lb ed="#B" n="87"/>sacelli.
+  </p>
+      <p xml:id="jMqv4a-d1e1168-d1e749">
+   ⁋ Sed de scientia, scias eam trifariam accipi, quod 
+   <lb ed="#B" n="88"/>dam est scientia eminens: quam quis scit conferre respondendo &amp; 
+   <lb ed="#B" n="89"/>arguendo propte &amp; ingeniose tam in theologia
+   spe<lb ed="#B" n="90" break="no"/>culatiua qui practica: &amp; in parte iuris pontificii
+   con<lb ed="#B" n="91" break="no"/>scientiam tangentis: &amp; in vtraque philosophia.
+   Quae<lb ed="#B" n="92" break="no"/>dam est scientia mediocris, &amp; est ea qua quis apte 
+   <lb ed="#B" n="93"/>scit respondere &amp; in promptu ad quaestiones me 
+   <lb ed="#B" n="94"/>diocres / mediocriter respondendo &amp; arguendo. 
+   <lb ed="#B" n="95"/>Alia est scientia infima. &amp; in quolibet istorum
+   men<lb ed="#B" n="96" break="no"/>brorum possunt dari rami. habens scientiam primo 
+   <lb ed="#B" n="97"/>modo / summo beneficio est dignus quantum est 
+   <lb ed="#B" n="98"/>ex parte scientiae. Media autem plerumque ad beneficium 
+   <lb ed="#B" n="99"/>sufficit.
+  </p>
+      <p xml:id="jMqv4a-d1e1168-d1e778">
+   ⁋ De hospitalitate dico ea in multis benefi 
+   <lb ed="#B" n="100"/>tiis non requiri: vt in beneficiatis in magnis
+   vrbi<lb ed="#B" n="101" break="no"/>bus quos pauci visitant si diuites sint. si vero pau 
+   <lb ed="#B" n="102"/>peres &amp; honesti, pro quibus hospitalitas ordinatur /  
+   <lb ed="#B" n="103"/>religiosi fuerint: conventus suorum in locis illis habent. 
+   <lb ed="#B" n="104"/>quod si non habuerint, qui plures habet prouentus ec 
+   <lb ed="#B" n="105"/>clesiasticos / debet eos ad hospitium inuitare, &amp; si 
+   <lb ed="#B" n="106"/>militer literaros viros non opulentos, vbi non 
+   <lb ed="#B" n="107"/>habent hospitia sibi deputata. Propterea enim 
+   <lb ed="#B" n="108"/>Paulus ad Timotheum episcopum scribens. i. ad  
+   <!--0473.xml-->
+   <pb ed="#B" n="221-r"/>
+       <cb ed="#B" n="a"/>
+       <lb ed="#B" n="1"/>Timoth. iii. dicit episcopum debere esse hospitalem: 
+   <lb ed="#B" n="2"/>quia in primitiua ecclesia multi erant fideles
+   reli<lb ed="#B" n="3" break="no"/>giosi mente / non habitu aut indumento, bona mun 
+   <lb ed="#B" n="4"/>di contemnentes: cum quadam honesta tenuitate, sine 
+   <lb ed="#B" n="5"/>mendicitate incedentes. pro quibus loquebatu 
+   <lb ed="#B" n="6"/>Apostolus. Quapropter debet episcopus, vel
+   ab<lb ed="#B" n="7" break="no"/>bas, vel inferior praelatus iam in vrbe habere
+   vi<lb ed="#B" n="8" break="no"/>ros vigiles ad tales venientes excipiendos: more 
+   <lb ed="#B" n="9"/>Abrahae transeuntes expectantis. Geneseos. xviii. 
+   <lb ed="#B" n="10"/>Pro opulentis vero hospitalitas ecclesiastica non 
+   <lb ed="#B" n="11"/>est ordinata nisi pro quanto non possunt alibi 
+   <lb ed="#B" n="12"/>hospitium habere. tunc enim humane more alio 
+   <lb ed="#B" n="13"/>rum excipiendi sunt: &amp; comiter cum quadam mo 
+   <lb ed="#B" n="14"/>destia seu religiositate tractandi: quaetenus ab episco 
+   <lb ed="#B" n="15"/>po / abbate / vel alio ecclesiae praelato aedificentur. 
+  </p>
+    </div>
+   </body>
+  </text>
+</TEI>

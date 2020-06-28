@@ -1,0 +1,744 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 1</title>
+      <author ref="#JohnMair">John Mair</author>
+      <respStmt>
+       <name>Jeffrey C. Witt</name>
+       <resp>TEI Encoder</resp>
+      </respStmt>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 1</title>
+       <date when="2020-06-09">June 27, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="B" n="cod-Bda113">Badius 1516</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+     guidelines for a diplomatic edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-06-27" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+      <pb ed="#B" n="45-v"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="jMqv4a-d1e240"> <!-- l4d10q1 -->
+      <head xml:id="jMqv4a-d1e240-Hd1e104">Quaestio 1</head>
+      <head xml:id="jMqv4a-d1e240-Hd1e107" type="question-title">An corpus Christi et eius sanguis realiter in 
+  Eucharistia contineantur</head>
+      <p xml:id="jMqv4a-d1e240-d1e110">
+       <lb ed="#B" n="14"/>CIrca hanc de 
+   <lb ed="#B" n="15"/>cimam distinctionem 
+   <lb ed="#B" n="16"/>conformiter ad 
+   <lb ed="#B" n="17"/>literam magistri 
+   <lb ed="#B" n="18"/>quaeram septe. Pri 
+   <lb ed="#B" n="19"/>mo an corpus 
+   <lb ed="#B" n="20"/>Christi &amp; sanguis 
+   <lb ed="#B" n="21"/>realiter in Eucha 
+   <lb ed="#B" n="22"/>ristia contineantur 
+   <lb ed="#B" n="23"/>Secunda &amp; tertia 
+   <lb ed="#B" n="24"/>quaestio erunt de 
+   <lb ed="#B" n="25"/>modo quo est in  
+   <lb ed="#B" n="26"/>DEucharistia secun 
+   <lb ed="#B" n="27"/>dum duas varias vias. Et quia aliquibus difficile 
+   <lb ed="#B" n="28"/>captu apparet, quomodo idem corpus potest simu 
+   <lb ed="#B" n="29"/>esse in pluribus locis: Quarto quaeram an deus possit 
+   <lb ed="#B" n="30"/>ponere idem corpus circumscriptiue in pluribus locis to 
+   <lb ed="#B" n="31"/>talibus: vel angelum in pluribus locis. Et cum fide
+   con<lb ed="#B" n="32" break="no"/>stet corpus Christi esse in caelo &amp; in Eucharistia. 
+   <lb ed="#B" n="33"/>quaeram quinto an conueniant eaedem proprie 
+   <lb ed="#B" n="34"/>tates corpori Christi in Eucharistia, quae eius cor 
+   <lb ed="#B" n="35"/>pori in caelo conueniunt. Sexto de motu locali 
+   <lb ed="#B" n="36"/>illius corporis. Septimo &amp; vltimo, an sit
+   essenti<lb ed="#B" n="37" break="no"/>lis dependentia inter modum essendi corporis Chri 
+   <lb ed="#B" n="38"/>sti sub modo sacramentali / &amp; naturali.
+  </p>
+      <p xml:id="jMqv4a-d1e240-d1e167">
+   ⁋ Pro pri 
+   <lb ed="#B" n="39"/>mi expeditione quaeritur, an corpus Christi &amp; 
+   <lb ed="#B" n="40"/>eius sanguis realiter in Eucharistia contineantur 
+   <lb ed="#B" n="41"/>Pro solutione quaestionis pono hanc conclusio 
+   <lb ed="#B" n="42"/>nem. Corpus Christi realiter in Eucharistia
+   con<lb ed="#B" n="43" break="no"/>tinetur: &amp; non solum figuratiue prout haeretici de 
+   <lb ed="#B" n="44"/>xerunt. Probatur haec conclusio auctoritate
+   irre<lb ed="#B" n="45" break="no"/>fragabili. primo auctoritate sacri Canonis.
+   Mat<lb ed="#B" n="46" break="no"/>thaei. xxvi. scribitur. Accepit panem &amp; benedixit 
+   <lb ed="#B" n="47"/>&amp; fregit, deditque discipulis suis &amp; ait. Accipite &amp; 
+   <lb ed="#B" n="48"/>comedite: hoc est corpus meum. Et Lucae. xxii. 
+   <lb ed="#B" n="49"/>Accepto pane gratias egit &amp; fregit &amp; dedit eis di 
+   <lb ed="#B" n="50"/>cens, hoc est corpus meum quod pro vobis dat 
+   <lb ed="#B" n="51"/>hoc facite in meam commemorationem. Et lo- 
+   <!--0122.xml-->
+   <cb ed="#B" n="b"/> 
+       <!-- 45-v b -->
+       <lb ed="#B" n="52"/>annis. vi. Nisi manducaueritis carnem filii homi 
+   <lb ed="#B" n="53"/>nis, &amp; biberitis eius sanguinem, non habebitis vi 
+   <lb ed="#B" n="54"/>tam in vobis. Idem habetur apud Marcum. Hoc 
+   <lb ed="#B" n="55"/>denique habet Paulus primae ad Corithios
+   vnde<lb ed="#B" n="56" break="no"/>cimo. Fortasse dicis. ista verba capiuntur figura 
+   <lb ed="#B" n="57"/>tiue sicut illic. Ego sum vitis vera. aut. Petra
+   au<lb ed="#B" n="58" break="no"/>tem erat Christus. hoc est, sum similis viti &amp;
+   pe<lb ed="#B" n="59" break="no"/>trae: &amp; propterea dicor vitis &amp; petra. Contra hoc 
+   <lb ed="#B" n="60"/>arguitur, supposita regula <name xml:id="jMqv4a-d1e240-Nd1e223" ref="#Augustine">Augustini</name> in libro 
+   <lb ed="#B" n="61"/>lxxxiii. quaestionum. quaestione. lxix. In sacra
+   scri<lb ed="#B" n="62" break="no"/>ptura notanda solent (inquit) circumstantiae
+   scri<lb ed="#B" n="63" break="no"/>pturae illuminare sententiam. Cum ea quae circa 
+   <lb ed="#B" n="64"/>scripturam sunt praesentem quaestionem contingem 
+   <lb ed="#B" n="65"/>tia diligenti discussione tractantur: quando Chri 
+   <lb ed="#B" n="66"/>stus loquitur figuratiue, vel in propria significa 
+   <lb ed="#B" n="67"/>tione, potest colligi ex praecedentibus &amp; sequent 
+   <lb ed="#B" n="68"/>bus. Vnde cum Christus dixisset, ego sum vitis ve 
+   <lb ed="#B" n="69"/>ra / subiunxit, &amp; vos palmites: palam est autem quod 
+   <lb ed="#B" n="70"/>apostoli non erant palmites vitis naturalis: ergo 
+   <lb ed="#B" n="71"/>solum figuratiue erant palmites spiritualem
+   vi<lb ed="#B" n="72" break="no"/>tam ab eo capientes / sicut palmites naturalem a 
+   <lb ed="#B" n="73"/>vite. Sed vbi dixit. hoc est corpus meum: subium 
+   <lb ed="#B" n="74"/>xit, quod pro vobis tradetur. Et postquam dixit, hic 
+   <lb ed="#B" n="75"/>est sanguis meus. addidit Qui pro multis effunde 
+   <lb ed="#B" n="76"/>tur. quod figuratiue intelligi non potest. Et quod ita 
+   <lb ed="#B" n="77"/>reali ter de suo corpore loquutus fuerit: colligere 
+   <lb ed="#B" n="78"/>potes ex sanctorum variis expositionibus: quas 
+   <lb ed="#B" n="79"/>late recitat <ref xml:id="jMqv4a-d1e240-Rd1e267">
+        <name xml:id="jMqv4a-d1e240-Nd1e269">Gratianus</name> de consecratione. distincti 
+   <lb ed="#B" n="80"/>one secunda</ref>. Oppositum autem erat haeresis Beren 
+   <lb ed="#B" n="81"/>garii. vt patet de consecratione distinctione. ii. c. 
+   <lb ed="#B" n="82"/>Ego Berengarius. vbi sic scribitur. Consentio
+   au<lb ed="#B" n="83" break="no"/>tem sanctae Romanae ecclesiae / &amp; apostolicae sedi 
+   <lb ed="#B" n="84"/>&amp; ore &amp; corde profiteor de sacramentis domini 
+   <lb ed="#B" n="85"/>cae mensae eandem fidem me tenere quam dominus 
+   <lb ed="#B" n="86"/>&amp; venerabilis papa Nicohus, &amp; haec sancta
+   syno<lb ed="#B" n="87" break="no"/>dus auctoritate euangelica &amp; apostolica tenendam 
+   <lb ed="#B" n="88"/>tradidit, mihique firmauit: scilicet panem &amp; vinum 
+   <lb ed="#B" n="89"/>quae in altari ponuntur, post consecrationem non 
+   <lb ed="#B" n="90"/>solum sacramentum: sed etiam verum corpus &amp; san 
+   <lb ed="#B" n="91"/>guinem domini nostri Iesu Christi esse &amp;c. Praeter 
+   <lb ed="#B" n="92"/>ea hoc patet per concilium Lateranense sub Innocentio 
+   <lb ed="#B" n="93"/>tertio celebratum: prout recitatur de summa trinirate &amp; 
+   <lb ed="#B" n="94"/>fide catholica. cap. Firmiter. vbi dicitur. Vna est 
+   <lb ed="#B" n="95"/>vero fidelium vniuersalis ecclesia extra quam nullus 
+   <lb ed="#B" n="96"/>omnino saluatur: in qua indem ipse sacerdos est &amp; sa 
+   <lb ed="#B" n="97"/>crificium Iesus Christus, cuius corpus &amp; sanguis in 
+   <lb ed="#B" n="98"/>sacramento altaris sub speciebus panis &amp; vini vi 
+   <lb ed="#B" n="99"/>raciter continetur. modo concilium in fide &amp; mori 
+   <lb ed="#B" n="100"/>bus errare non potest: cum eodem spiritu regatui 
+   <lb ed="#B" n="101"/>&amp; scripturam exponat quo reuelata est. Vlterius num quam 
+   <lb ed="#B" n="102"/>patres sola credenda tradere volentes hanc parte 
+   <lb ed="#B" n="103"/>conclusissent, nisi eam in serie sacri canonis
+   san<lb ed="#B" n="104" break="no"/>cto spiritu illuminante squi concilio praeest)
+   ha<lb ed="#B" n="105" break="no"/>buissent. Quoniam autem haec veritas est difficilis
+   in<lb ed="#B" n="106" break="no"/>tellectu, vt quaestione sequenti patebit, doctor se 
+   <!--0123.xml-->
+   <pb ed="#B" n="46-r"/>
+       <cb ed="#B" n="a"/>
+       <lb ed="#B" n="1"/>raphicus quaestione prima huius distinctionis apponit 
+   <lb ed="#B" n="2"/>vnam rationem quid est haec. Ars &amp; virtus est circa diffici 
+   <lb ed="#B" n="3"/>le: &amp; quanto difficilius est credere, tanto est magis 
+   <lb ed="#B" n="4"/>meritorium, sed quod Christus sit in sacramento sicut in 
+   <lb ed="#B" n="5"/>signo tamtenm, nullam habet difficultatem. Quia autem sit in
+   sa<lb ed="#B" n="6" break="no"/>cramento veraciter sicut in caelo: hoc maximam ha 
+   <lb ed="#B" n="7"/>bet difficultatem. ergo hoc maxine meritorium est
+   cre<lb ed="#B" n="8" break="no"/>dere. si ergo debuit deus facere illud quod est magis 
+   <lb ed="#B" n="9"/>meritorium: debuit facere quod realiter contineretur in Eu 
+   <lb ed="#B" n="10"/>charistia. Haec ratio peccat. nam pari ratione concluderet, 
+   <lb ed="#B" n="11"/>si aliquid valeret, quod sper difficilius captu esset factum cre 
+   <lb ed="#B" n="12"/>dendum in fide, quod est falsum. fateor quod credere difficili 
+   <lb ed="#B" n="13"/>ori est magis meritorium quam minus difficili caeteris pa 
+   <lb ed="#B" n="14"/>ribus. Sed cum multis aliis modis mereri possimus 
+   <lb ed="#B" n="15"/>noluit deus multa difficillima captu in lege dare 
+   <lb ed="#B" n="16"/>rie homines retrocederent nullum habendo meritum. 
+   <lb ed="#B" n="17"/>Restat ergo quod sola fide credendum sit huic
+   propo<lb ed="#B" n="18" break="no"/>sitioni, Corpus Christi &amp; eius sanguis realiter in 
+   <lb ed="#B" n="19"/>Eucharistia continentur. 
+  </p>
+      <p xml:id="jMqv4a-d1e240-d1e381">
+       <lb ed="#B" n="20"/>⁋ Contra hanc conclusionem de
+   ne<lb ed="#B" n="21" break="no"/>cessitate fidei credendam arguitur per illud quod scribitur 
+   <lb ed="#B" n="22"/>Matthaei. xxvi. Pauperes semper habebitis vobis 
+   <lb ed="#B" n="23"/>cum: me autem non semper habebitis.
+  </p>
+      <p xml:id="jMqv4a-d1e240-d1e392">
+   ⁋ Respondetur 
+   <lb ed="#B" n="24"/>verum est dimensiue &amp; corporaliter: quod patet 
+   <lb ed="#B" n="25"/>Matthaei vltimo. Ego vobiscum sum vsque ad
+   con<lb ed="#B" n="26" break="no"/>summationem saeculi. sed sic non mansit nobiscum 
+   <lb ed="#B" n="27"/>corporaliter: nec alio modo nisi sacramentaliter, 
+   <lb ed="#B" n="28"/>realiter existens in Eucharistia. &amp; non intellexit 
+   <lb ed="#B" n="29"/>de apostolis &amp; discipulis solum pro eorum tempo 
+   <lb ed="#B" n="30"/>re, cum ipsi mortui sint, sed adiecit: vsque ad consum 
+   <lb ed="#B" n="31"/>mationem saeculi. 
+  </p>
+      <p xml:id="jMqv4a-d1e240-d1e412">
+       <lb ed="#B" n="32"/>⁋ Secundo arguitur. Cum Christus 
+   <lb ed="#B" n="33"/>diceret Ioannis vi. Nisi quis manducauerit carnem 
+   <lb ed="#B" n="34"/>meam &amp; biberit sanguinem meum non habebit vitam 
+   <lb ed="#B" n="35"/>aenternam. et multi dicerent: durus est hic sermo, 
+   <lb ed="#B" n="36"/>quis potest eum audire? &amp; abirent retro: illis discedentibus 
+   <lb ed="#B" n="37"/>instruxit duodecim remanentes dicens. Spiritus est 
+   <lb ed="#B" n="38"/>qui viuificat, caro non prodest quicquam. sed nihil est in 
+   <lb ed="#B" n="39"/>hoc sacramento quod non prosit: ergo caro Christi non 
+   <lb ed="#B" n="40"/>est in hoc sacramento. Et <name xml:id="jMqv4a-d1e240-Nd1e433" ref="#Augustine">Augustinus</name> similiter hoc 
+   <lb ed="#B" n="41"/>exponit psalmo. iiii.
+  </p>
+      <p xml:id="jMqv4a-d1e240-d1e439">
+   ⁋ Respondetur. Christus non 
+   <lb ed="#B" n="42"/>negauit carnem suam futuram realiter in
+   Eucha<lb ed="#B" n="43" break="no"/>ristia, sed non debuit capi prout illi alii intellexerunt 
+   <lb ed="#B" n="44"/>qui rati sunt manducare frustatim partes carnis 
+   <lb ed="#B" n="45"/>eius sicut aliam carnem communem. 
+  </p>
+      <p xml:id="jMqv4a-d1e240-d1e450">
+       <lb ed="#B" n="46"/>⁋ Tertio arguitur. de
+   consecratio<lb ed="#B" n="47" break="no"/>tione. distin. ii. c. Prima quidem. in fine capituli scribitur. 
+   <lb ed="#B" n="48"/>ltem donec saeculum finiatur sursum est dominus 
+   <lb ed="#B" n="49"/>sed tamen etiam hic nobiscum est veritas domini 
+   <lb ed="#B" n="50"/>Corpus enim in quo resurrexit: in vno loco esse opor 
+   <lb ed="#B" n="51"/>tet: veritas autem eius vbique diffusa est. Item vna 
+   <lb ed="#B" n="52"/>persona deus &amp; homo est. vbique per illud / quo deus est 
+   <!--0123.xml-->
+   <cb ed="#B" n="b"/> 
+       <!-- 46-r b -->
+       <lb ed="#B" n="53"/>in caelo per illud quo homo est. haec auctoritas est <name xml:id="jMqv4a-d1e240-Nd1e476" ref="#Augustine">Augustini</name> 
+       <lb ed="#B" n="54"/>psalmo. iiii.
+  </p>
+      <p xml:id="jMqv4a-d1e240-d1e482">
+   ⁋ Respondetur. donec finiatur saeculum 
+   <lb ed="#B" n="55"/>sursum est dominus secundum dimensionem in loco.
+   Se<lb ed="#B" n="56" break="no"/>cundo dico: cum hoc quod est in Eucharistia / sursum est 
+   <lb ed="#B" n="57"/>dominus: quia simul est sursum &amp; deorsum:
+   quen<lb ed="#B" n="58" break="no"/>admodum si idem corpus esset in pluribus locis: 
+   <lb ed="#B" n="59"/>vt quaestione quarta huius distinctionis dicemus: 
+   <lb ed="#B" n="60"/>tamen nobiscum est veritas domini, hoc est verum 
+   <lb ed="#B" n="61"/>corpus Christi. Quando dicit: in vno loco esse opor 
+   <lb ed="#B" n="62"/>tet: loquitur de esse in loco circumscriptiue: &amp; oportet
+   <lb ed="#B" n="63" break="no"/>non valet tantum quantum necessarium est: sed tantum 
+   <lb ed="#B" n="64"/>quantum opportunum est: vt latius quaestione quarta 
+   <lb ed="#B" n="65"/>patebit. Quod dicitur in fine auctoritatis intelligitur 
+   <lb ed="#B" n="66"/>sic: diuinitas est vbique: humanitas autem est in caeio
+   lo<lb ed="#B" n="67" break="no"/>caliter &amp; circumscriptiue. Et ne illa Augustinu
+   auctori<lb ed="#B" n="68" break="no"/>tas tibi scrupulum ingerat, psalmo. xxxii.
+   Homi<lb ed="#B" n="69" break="no"/>lia secunda dicit. Accesserunt ad Iesum ludaei vt 
+   <lb ed="#B" n="70"/>crucifigerent: nos accedamus vt corpus eius &amp; sar 
+   <lb ed="#B" n="71"/>guinem accipiamus. &amp; Psal. xxvii. De carne Ma 
+   <lb ed="#B" n="72"/>riae carnem accepit: &amp; ipsam carnem ad
+   manducan<lb ed="#B" n="73" break="no"/>dum ad salutem dedit. &amp; psalmo. xxviii. ad ludaeos 
+   <lb ed="#B" n="74"/>loquens dicit. lam &amp; securi bibite sanguinem quem 
+   <lb ed="#B" n="75"/>fudistis. &amp; alias varias eius auctoritates magister 
+   <lb ed="#B" n="76"/>in litera ad illud propositum adducit. 
+  </p>
+      <p xml:id="jMqv4a-d1e240-d1e533">
+       <lb ed="#B" n="77"/>⁋ Quarto arguitur. Si corpus
+   Chri<lb ed="#B" n="78" break="no"/>sti realiter est in Eucharistia: vel totu Christi cor 
+   <lb ed="#B" n="79"/>pus est in tota Eucharistia: vel totum sub qualibet 
+   <lb ed="#B" n="80"/>parte, non secundum / quia tunc Eucharistia sumens 
+   <lb ed="#B" n="81"/>in infinitis partibus specierum panis sumeret corpus 
+   <lb ed="#B" n="82"/>Christi: quia hostia est diuisibilis in infinitum: &amp; sic 
+   <lb ed="#B" n="83"/>finities corpus Christi sumeret: quod est inconveniens 
+   <lb ed="#B" n="84"/>Non primum: quod patet / quia fracta hostia / bipartita 
+   <lb ed="#B" n="85"/>vel tripartita / vt contingit in sacrificio super calicem 
+   <lb ed="#B" n="86"/>corpus Christi est in qualibet illarum partiu: hoc est in  
+   <lb ed="#B" n="87"/>quolibet frusto quod ante erat pars: &amp; non per
+   con<lb ed="#B" n="88" break="no"/>secrationem: ergo prius erat sub qualibent illarum par 
+   <lb ed="#B" n="89"/>tium.
+  </p>
+      <p xml:id="jMqv4a-d1e240-d1e564">
+   ⁋ Respondetur. hic est geminus modus dicendi 
+   <lb ed="#B" n="90"/>vnus est cuiusdam antiqui doctoris tenentis
+   pri<lb ed="#B" n="91" break="no"/>mum membrum: quod totale corpus Christi est sub 
+   <lb ed="#B" n="92"/>totali hostia &amp; sub nulla eius parte. Alius est
+   mo<lb ed="#B" n="93" break="no"/>dus oppositus quem solum iudico verum &amp;
+   te<lb ed="#B" n="94" break="no"/>nendum. Ratio est. cum hostia triticea sit vnum homoge 
+   <lb ed="#B" n="95"/>neum: eadem est ratio quod sit corpus Christi sub 
+   <lb ed="#B" n="96"/>parte / &amp; toto. Item est ita difficile intellectu
+   quomo<lb ed="#B" n="97" break="no"/>do corpus Christi longum septem pedibus sit cum 
+   <lb ed="#B" n="98"/>parua hostia digitali: sicut cum qualibet parte
+   il<lb ed="#B" n="99" break="no"/>lius: ergo cum non sit maior ratio de toto qui de par 
+   <lb ed="#B" n="100"/>te: vnum est aeque tenendum ac aliud. Tertio. tango sty 
+   <lb ed="#B" n="101"/>lo vnam partem hostiae quantulancumque volueris: &amp;
+   qui<lb ed="#B" n="102" break="no"/>rtio abs te an sub illa sit totum corpus Christi / an pars 
+   <lb ed="#B" n="103"/>corporis Christi solum: an nihil corporis Christi. Non 
+   <lb ed="#B" n="104"/>tertium, vt notum est. Nec secundum / quia sic aliis parti 
+   <lb ed="#B" n="105"/>bus hostiae ablatis &amp; illa parte remanente / manebit 
+   <lb ed="#B" n="106"/>solum pars corporis Christi: &amp; tamen manebit Eucha 
+   <!--0124.xml-->
+   <pb ed="#B" n="46-v"/>
+       <cb ed="#B" n="a"/>
+       <lb ed="#B" n="1"/>ristia: quod est inconueniens: ergo oportet dare pri 
+   <lb ed="#B" n="2"/>mun. Quarto arguitur ad idem, consecretur panis
+   de<lb ed="#B" n="3" break="no"/>cem pedibus longus, sub qualibet parte illius ho 
+   <lb ed="#B" n="4"/>stiae est corpus Christi totum: ergo &amp; in qualibet 
+   <lb ed="#B" n="5"/>alia hostia. Quinto arguitur auctoritate Hilarii 
+   <lb ed="#B" n="6"/>Papae: &amp; recitatur de consecratione / distinctione secunda. 
+   <lb ed="#B" n="7"/>Vbi pars est corporis, ibi &amp; totum. Exemplificat 
+   <lb ed="#B" n="8"/>de colligente mana in magna quantitate vel
+   par<lb ed="#B" n="9" break="no"/>ua. Sexto arguitur. illud est facilius intellectu qui se 
+   <lb ed="#B" n="10"/>quendo imaginationem aliam: &amp; aliud non habemus 
+   <lb ed="#B" n="11"/>tide credendum: ergo solus hic modus est tenendus 
+   <lb ed="#B" n="12"/>Doctor autem Seraphicus ad argumentum dicit quod 
+   <lb ed="#B" n="13"/>hostia non est diuisibilis in partes infinitas: quia in  
+   <lb ed="#B" n="14"/>diuisione continui est status naturalis quantum ad 
+   <lb ed="#B" n="15"/>partem secundum formam. Contra, non est status par 
+   <lb ed="#B" n="16"/>tium in suo toto: quicodsit de minimo naturali. 
+   <lb ed="#B" n="17"/>Propterea concedo quod est in infinitis partibus
+   ho<lb ed="#B" n="18" break="no"/>stiae: sed solum semel est corpus Christi in Euchari 
+   <lb ed="#B" n="19"/>stia: quia si bis vel ter illic esset: oporteret dare in 
+   <lb ed="#B" n="20"/>terruptionem illic essendi: sicut ad veritatem istius 
+   <lb ed="#B" n="21"/>Sortes bis fuit Parisiis. &amp; concedo quod in infinitis tem 
+   <lb ed="#B" n="22"/>poribus partialibus sumitur corpus Christi in
+   Eu<lb ed="#B" n="23" break="no"/>charistia. 
+  </p>
+      <p xml:id="jMqv4a-d1e240-d1e660">
+       <lb ed="#B" n="24"/>⁋ Sed contra hanc conclusionem quam 
+   <lb ed="#B" n="25"/>solam veram censeo, arguitur sic, non est inten 
+   <lb ed="#B" n="26"/>tio sacerdotis quamlibet partem illius hostiae consecra 
+   <lb ed="#B" n="27"/>re: sed ad veram consecrationem requiritur intentio
+   mi<lb ed="#B" n="28" break="no"/>nistri. igitur.
+  </p>
+      <p xml:id="jMqv4a-d1e240-d1e673">
+   ⁋ Secundo arguitur ad idem. in specu 
+   <lb ed="#B" n="29"/>lo est solum vna imago: quod si frangatur in duas vel 
+   <lb ed="#B" n="30"/>tres partes, in qualibet illarum partium incipit esse imago 
+   <lb ed="#B" n="31"/>de nouo, praesente obiecto illius imaginis productiuo 
+   <lb ed="#B" n="32"/>ergo licet sit totale corpus Christi in totali hostia 
+   <lb ed="#B" n="33"/>non inconvenit corpus Christi incipere esse sub qua 
+   <lb ed="#B" n="34"/>libet illarum partium, vi prioris consecrationis: ergo
+   argu<lb ed="#B" n="35" break="no"/>mentum in oppositum neminem debes terrere.
+  </p>
+      <p xml:id="jMqv4a-d1e240-d1e691">
+   ⁋ Ad  
+   <lb ed="#B" n="36"/>primam istarum rationum respondetur: quod intentio presbuy 
+   <lb ed="#B" n="37"/>teri est consecrare pane triticeum ante se positum: &amp; ni 
+   <lb ed="#B" n="38"/>hil illius excipit: ergo quicquid triticei est ante illum 
+   <lb ed="#B" n="39"/>vere consecrat: queadmodum si ponantur centum
+   ho<lb ed="#B" n="40" break="no"/>stiae ante me: &amp; intendam illas consecrare non ferens 
+   <lb ed="#B" n="41"/>intentionem distincte in numerum hostiarum: om 
+   <lb ed="#B" n="42"/>nes consecro, siue eas videam, siue non, sicut fecii 
+   <lb ed="#B" n="43"/>caecus ille sacerdos de Vorda Mechlinianus.
+  </p>
+      <p xml:id="jMqv4a-d1e240-d1e711">
+   ⁋ Ad 
+   <lb ed="#B" n="44"/>secundam dicitur quod non est simile / quia illic est agens naturale. 
+   <lb ed="#B" n="45"/>nam cum est obiectum &amp; speculum separatum sufficiens: produ  
+   <lb ed="#B" n="46"/>citur naturaliter nouum simulacrum, non sic autem in partibus spo 
+   <lb ed="#B" n="47"/>culi contingit ex natura rei specularis: quod experientia in 
+   <lb ed="#B" n="48"/>notescit. sed voluntas dei hic facit corpus Christi esse 
+   <lb ed="#B" n="49"/>sub speciebus panis post verborum prolationem: quae no 
+   <lb ed="#B" n="50"/>bis ex ratione innotescit.
+  </p>
+      <p xml:id="jMqv4a-d1e240-d1e730">
+   ⁋ Tertio arguitur contra solu 
+   <lb ed="#B" n="51"/>tionem. Est dare minimum naturale tritici: ergo sub 
+   <lb ed="#B" n="52"/>parte illius non erit corpus Christi. ergo nec in quae cuque par 
+   <lb ed="#B" n="53"/>te hostiae. Forte dicis &amp; sic dicedum est, quod illud
+   En<lb ed="#B" n="54" break="no"/>thymema est mala consequentia: quia pars illius minimi 
+   <!--0124.xml-->
+   <cb ed="#B" n="b"/> 
+       <!-- 46-v b -->
+       <lb ed="#B" n="55"/>naturalis est in suo toto: &amp; in qualibet parte illius 
+   <lb ed="#B" n="56"/>erit corpus Christi totaliter. Contra. saltem capia 
+   <lb ed="#B" n="57"/>tur pars illius minimi naturalis: sub illa non erit 
+   <lb ed="#B" n="58"/>corpus Christi.
+  </p>
+      <p xml:id="jMqv4a-d1e240-d1e756">
+   ⁋ Respondetur. pars illius minimi 
+   <lb ed="#B" n="59"/>naturalis non potest separari a suo toto naturasti 
+   <lb ed="#B" n="60"/>&amp; quamuis ponatur separata de potentia dei: est diffi 
+   <lb ed="#B" n="61"/>cultas an illa sit sensibilis aliquo sensu, an non.  
+   <lb ed="#B" n="62"/>Si secundum / non sufficit ad sacramentum. Si enim 
+   <lb ed="#B" n="63"/>minimum naturale non fuerit sensibile aliquo sen 
+   <lb ed="#B" n="64"/>su: non sufficit ad sacramentum Eucharistiae: quia sa 
+   <lb ed="#B" n="65"/>cramentum est inuisibilis gratiae sensibile signum. Status au 
+   <lb ed="#B" n="66"/>tem est in minimo sensibili, vel maximo non
+   sensibi<lb ed="#B" n="67" break="no"/>li: quod extraneum est a minimo naturali: nec oportet 
+   <lb ed="#B" n="68"/>cum illo coincidere. tunc consecrato minimo
+   sen<lb ed="#B" n="69" break="no"/>sibili: sub illo &amp; qualibet eius parte erit corpus
+   Christi<lb ed="#B" n="70" break="no"/>Si vero detur maximum non sensibile, nec corpus Chri 
+   <lb ed="#B" n="71"/>sti erit sub illo, nec aliqua eius parte: quia non est sen 
+   <lb ed="#B" n="72"/>sibile signum. Contra hoc arguitur. signum quod non  
+   <lb ed="#B" n="73"/>potest sentiri a lusco vel lippo, potest a lynceo
+   sen<lb ed="#B" n="74" break="no"/>tiri. Et forte Adam vidit melius in statu innocentiae 
+   <lb ed="#B" n="75"/>quam lynceus. &amp; potest dari melius videns quam Adam 
+   <lb ed="#B" n="76"/>ergo non est dandus status quo ad hostia
+   consecran<lb ed="#B" n="77" break="no"/>dam: quia omne triticeum quod a quocumque sensu
+   po<lb ed="#B" n="78" break="no"/>test appraehendi est sensibile in potentia
+   propin<lb ed="#B" n="79" break="no"/>qua: &amp; per consequens consecrabile. Respondetur. il 
+   <lb ed="#B" n="80"/>ud non directe impugnat solutionem datam, sed potius 
+   <lb ed="#B" n="81"/>de sensibili signo. Ad solutionem nostram sat est: 
+   <lb ed="#B" n="82"/>si corpus Christi sit sub aliqua hostia quantumlibet 
+   <lb ed="#B" n="83"/>parua: erit sub qualibet parte illius homogenea. Sead 
+   <lb ed="#B" n="84"/>quia hoc quod argumentu quaerit non est extraneum 
+   <lb ed="#B" n="85"/>a solutione &amp; materia sacramenti: ad ipsum respon 
+   <lb ed="#B" n="86"/>debo. Probabile est quod Adam in statu innocentiae vi 
+   <lb ed="#B" n="87"/>dit ita clare sicut aliquis viator purus vnquam videbat 
+   <lb ed="#B" n="88"/>vel videbit. Et sic de tactu, gustu, &amp; alio sensu. &amp; 
+   <lb ed="#B" n="89"/>illud quod est minimum sensibile ab eo, pro illo
+   tem<lb ed="#B" n="90" break="no"/>pore ad Eucharistiam sufficit: &amp; minus non sufficit: 
+   <lb ed="#B" n="91"/>quia non sufficit immutare potentiam visiuam eius. Videmus. 
+   <lb ed="#B" n="92"/>enim quod magnum visibile cum oculo sufficit
+   pro<lb ed="#B" n="93" break="no"/>ducere visionem, quam paruum visibile &amp; potentia 
+   <lb ed="#B" n="94"/>eadem producere nequeunt. &amp; licet minus visibili 
+   <lb ed="#B" n="95"/>cum Adam sufficiebat magis quam cum lynceo: illo non 
+   <lb ed="#B" n="96"/>obstante est status: &amp; tamen minus minimo
+   sen<lb ed="#B" n="97" break="no"/>sibili est ab eo intelligibile etiam intuitiue: quia quaelibet 
+   <lb ed="#B" n="98"/>res cadit sub obiecto intellectus creati pro
+   sta<lb ed="#B" n="99" break="no"/>tu patriae: &amp; forte innocentiae antequam Adam
+   pec<lb ed="#B" n="100" break="no"/>cauit. Corpus enim quod corrumpitur aggrauat 
+   <lb ed="#B" n="101"/>animam.
+  </p>
+      <p xml:id="jMqv4a-d1e240-d1e852">
+   ⁋ Sed contra illud arguitur. sequeretur 
+   <lb ed="#B" n="102"/>quod laicus in sensu composito posset consecrare cor 
+   <lb ed="#B" n="103"/>pus Christi: &amp; facere ipsum esse sub speciebus pa 
+   <lb ed="#B" n="104"/>nis vel vini: quod est inconveniens. Secundo
+   seque<lb ed="#B" n="105" break="no"/>retur quod corpus Christi erit in multitudine hostia 
+   <lb ed="#B" n="106"/>rum &amp; in nulla illarum, quod est inconueniens. Declaro 
+   <lb ed="#B" n="107"/>vtramque sequelam: diuidatur species vini consecrati in 
+   <lb ed="#B" n="108"/>partes insensibiles: tunc in nulla erit corpus Chri 
+   <lb ed="#B" n="109"/>sti: cum nulla illarum sit sensibilis, nec sufficiens ad  
+   <!--0125.xml-->
+   <pb ed="#B" n="47-r"/>
+       <cb ed="#B" n="a"/>
+       <lb ed="#B" n="1"/>sacramentum. reuniat illas laicus: sub illis erit
+   san<lb ed="#B" n="2" break="no"/>guis Christi &amp; corpus: cum prius esset sub eis: &amp; 
+   <lb ed="#B" n="3"/>psae species remaneant. Secunda sequala patet. di 
+   <lb ed="#B" n="4"/>uidatur hostia consecrata in partes: quarum qua 
+   <lb ed="#B" n="5"/>libet est insensibilis extra suum totum: &amp; ponantur 
+   <lb ed="#B" n="6"/>partes iuxta seinuicem: iam tota multitudo videtur &amp; est 
+   <lb ed="#B" n="7"/>sensibile signum: ergo ad sacramentum sufficit. &amp; tamen 
+   <lb ed="#B" n="8"/>ntilla pars est sensibile signum. quod tota multitudo
+   vide<lb ed="#B" n="9" break="no"/>ri possit cuius nulla pars quae est hoc aliquid vide 
+   <lb ed="#B" n="10"/>ri potest: patet de cumulo pisorum vel arenae.
+  </p>
+      <p xml:id="jMqv4a-d1e240-d1e900">
+   ⁋ Ad 
+   <lb ed="#B" n="11"/>primum istorum respondetur negando sequalam.
+   Pri<lb ed="#B" n="12" break="no"/>mo dicetur hoc esse virtute prioris consecrationis 
+   <lb ed="#B" n="13"/>a sacerdote factae sub illis speciebus sub quibus deter 
+   <lb ed="#B" n="14"/>minat deus quod semper erit corpus Christi quamdiu
+   speci<lb ed="#B" n="15" break="no"/>es illae erunt sensibile signum. Secundo &amp; melius / cum pars 
+   <lb ed="#B" n="16"/>separata est insensibile signum: sub illa non manet
+   cor<lb ed="#B" n="17" break="no"/>pus Christi: quia non est sacramentum: &amp; deus non
+   conser<lb ed="#B" n="18" break="no"/>uat accidens sine subiecto nisi in hoc
+   sacramen<lb ed="#B" n="19" break="no"/>to. creat ergo deus nouam substantiam: scilicet substantiam 
+   <lb ed="#B" n="20"/>panis vel vini: &amp; illa nec sic adhuc est consecrabilis 
+   <lb ed="#B" n="21"/>quousque reddatur aliquod vnum sensibile signum coniun  
+   <lb ed="#B" n="22"/>gendo illas species paruas: &amp; requiritur sacerdos ad 
+   <lb ed="#B" n="23"/>harum consecrationem.
+  </p>
+      <p xml:id="jMqv4a-d1e240-d1e931">
+   ⁋ Ad secundum dico quod corpus 
+   <lb ed="#B" n="24"/>Christi non erit in tota multitudine: cum non sit in vna 
+   <lb ed="#B" n="25"/>parte illius: nec sufficit ad sacramentum quod quatuor 
+   <lb ed="#B" n="26"/>partes reddantsensationem iuxta se positae: sed
+   re<lb ed="#B" n="27" break="no"/>quiritur quod aliquod vnum conflent.
+  </p>
+      <p xml:id="jMqv4a-d1e240-d1e942">
+   ⁋ Sed contra istud ar 
+   <lb ed="#B" n="28"/>guitur. Sortes prope parietem album quamlibet pertem 
+   <lb ed="#B" n="29"/>proportionalem superficialem videt: ergo non datur mi 
+   <lb ed="#B" n="30"/>nimum sensibile vel maximum non sensibile.
+  </p>
+      <p xml:id="jMqv4a-d1e240-d1e952">
+   ⁋ Secundo  
+   <lb ed="#B" n="31"/>arguitur. totum est suae partes simul sumptae: vt distin  
+   <lb ed="#B" n="32"/>ctione. xliii. huius dicemus: ergo est eadem visio to 
+   <lb ed="#B" n="33"/>tius &amp; omnium partium eius: ergo quatuncumque totum videlin 
+   <lb ed="#B" n="34"/>pars etiam videbitur etiam eadem visione.
+  </p>
+      <p xml:id="jMqv4a-d1e240-d1e963">
+   ⁋ Respondetur 
+   <lb ed="#B" n="35"/>ad primum: quod non datur minimum visibile in sudc 
+   <lb ed="#B" n="36"/>toto. secus est extra suum totum: sicut non datur min 
+   <lb ed="#B" n="37"/>mun naturale in suo toto: secus est extra suum totum 
+  </p>
+      <p xml:id="jMqv4a-d1e240-d1e972">
+       <lb ed="#B" n="38"/>⁋ Secundum argumentum maioren 
+   <lb ed="#B" n="39"/>affert difficultatem. Et propterea vtrinque argumen 
+   <lb ed="#B" n="40"/>tabor. Et primo arguitur quod est vna visio totius non con 
+   <lb ed="#B" n="41"/>flata ex visionibus partium illius totius: &amp; hoc sic. 
+   <lb ed="#B" n="42"/>Sat sortem a remotis videre cumulum granorum dist 
+   <lb ed="#B" n="43"/>cte: &amp; illa visione nullum granum videbit distincte: cum 
+   <lb ed="#B" n="44"/>nullum granum virtute visionis sciat distinguere ab 
+   <lb ed="#B" n="45"/>alio: &amp; tamen scit cumulum granorum vel arenae distinguere 
+   <lb ed="#B" n="46"/>a promontorio septentrionalis Beruici.
+  </p>
+      <p xml:id="jMqv4a-d1e240-d1e994">
+   ⁋ Secundo
+   ar<lb ed="#B" n="47" break="no"/>guitur ad idem, notitia sortis representat sortem &amp; nul 
+   <lb ed="#B" n="48"/>lam partem eius: alioquin non esset notitia discreta. Potest fier 
+   <lb ed="#B" n="49"/>simile argumentum de notitia termini collectiui vo 
+   <lb ed="#B" n="50"/>calis, totam multitudinem &amp; non partem represetantis.
+  </p>
+      <p xml:id="jMqv4a-d1e240-d1e1005">
+   ⁋ Ter 
+   <lb ed="#B" n="51"/>tio sic arguitur. Defendi potest quod totum integrale est 
+   <lb ed="#B" n="52"/>vna tertia entitas a qualibet suarum partium &amp; ab omni 
+   <lb ed="#B" n="53"/>bus simul sumptis distincta: ergo habet notitia 
+   <lb ed="#B" n="54"/>distincte repraesentatiuam sui no conflatam ex noti- 
+   <!--0125.xml-->
+   <cb ed="#B" n="b"/> 
+       <!-- 47-r b -->
+       <lb ed="#B" n="55"/>tiis partium.
+  </p>
+      <p xml:id="jMqv4a-d1e240-d1e1025">
+   ⁋ Ad partem affirmatiuam sic argumentor. 
+   <lb ed="#B" n="56"/>si sit vna visio totius, nullam illarum partium reprae 
+   <lb ed="#B" n="57"/>sentans, sed adaequate ipsum totum: sequitur haec 
+   <lb ed="#B" n="58"/>conclusio: quod nunc actu datur vna notitia infinite 
+   <lb ed="#B" n="59"/>intensa, consequens est falsum / &amp; contra Aristo 
+   <lb ed="#B" n="60"/>telem tertio Physicorum, &amp; primo de caelo &amp; mundo.  
+   <lb ed="#B" n="61"/>Et quod sequatur probo sic. capio albedinem bipedalem 
+   <lb ed="#B" n="62"/>cuius vna medietas sit a. altera vero b iam noti 
+   <lb ed="#B" n="63"/>tia de a, non componitur ex visionibus partium. pari 
+   <lb ed="#B" n="64"/>forma nec notitia b. medietatis. signo c. pedalita 
+   <lb ed="#B" n="65"/>tem ex medietate a. &amp; medietate be, conflatam, iam  
+   <lb ed="#B" n="66"/>c. pedalitas communicat cum a. &amp; b. sed visio eius 
+   <lb ed="#B" n="67"/>non communicat cum visionibus a. &amp; b. &amp; visio e, ni 
+   <lb ed="#B" n="68"/>hil representat nisi ipsum c. totale &amp; adaequate. Et 
+   <lb ed="#B" n="69"/>eodem modo dicendum est de visione cuiussibet al 
+   <lb ed="#B" n="70"/>terius pedalitatis communicantis. Addo hanc propon 
+   <lb ed="#B" n="71"/>nem in philosophia exercitato notissimam. In
+   quo<lb ed="#B" n="72" break="no"/>ibet corpore bipedali sunt infinitae pedalitates di 
+   <lb ed="#B" n="73"/>stinctae comunicantes. Lector in figura in pariete vl 
+   <lb ed="#B" n="74"/>papyro si opus fuerit hoc tibi ostendet ad oculum 
+   <lb ed="#B" n="75"/>Illarum autem notitiae non communicant, &amp; sunt aequa 
+   <lb ed="#B" n="76"/>liter intensae: hoc est quaelibet est aequaliter inten 
+   <lb ed="#B" n="77"/>sa cum qualibet alia vnam pedalitatem
+   repraesen<lb ed="#B" n="78" break="no"/>tante: ergo notitia ex his conflata est infinite inten 
+   <lb ed="#B" n="79"/>sa: quod restabat probandum. Fortasse dicis, non consti 
+   <lb ed="#B" n="80"/>tuunt aliquam vnam formam. Contra hoc arguitur 
+   <lb ed="#B" n="81"/>quinto Metaphysicae dicitur. Impossibile est plu 
+   <lb ed="#B" n="82"/>ra accidentia solo numero differentia inhaerere e 
+   <lb ed="#B" n="83"/>dem. Et secundum rectiorem viam hoc
+   intelli<lb ed="#B" n="84" break="no"/>gitur nisi vnam formam constituant: &amp; non sicut ali 
+   <lb ed="#B" n="85"/>intelligunt secundum sonum verborum Aristo 
+   <lb ed="#B" n="86"/>telis, quod nunquam duo accidentia eiusdem speciei pos 
+   <lb ed="#B" n="87"/>sint eidem subiecto inhaerere, erunt ergo plures 
+   <lb ed="#B" n="88"/>gradus. Si dicas hoc esse verum in corporalibus 
+   <lb ed="#B" n="89"/>&amp; non in spiritualibus: mihi viam aperis negandi quod scui 
+   <lb ed="#B" n="90"/>entia vel vlla qualitas mentis sit diuisibilis in
+   plu<lb ed="#B" n="91" break="no"/>res partes vel gradus: ergo euadere nequis rationa 
+   <lb ed="#B" n="92"/>biliter quin erit vna notitia infinite intensa, contra 
+   <lb ed="#B" n="93"/>philosophum &amp; communem scholam. In super
+   pa<lb ed="#B" n="94" break="no"/>tet illud inconvenire. Nam intellectus est finitae
+   capa<lb ed="#B" n="95" break="no"/>citatis actiuae: &amp; ad eius notitiam concurrit: ergo ter 
+   <lb ed="#B" n="96"/>minatur ad certum gradum intensionis notitiae exclusiue 
+   <lb ed="#B" n="97"/>vel inclusiue. Experimur enim quod si intellectus mul 
+   <lb ed="#B" n="98"/>tum immergatur in vna notitia finita: nihil
+   ca<lb ed="#B" n="99" break="no"/>pit notitiae alterius obiecti ob capacitatem actiuam fini 
+   <lb ed="#B" n="100"/>tam ipsius intellectus. Dicis. le tota notitia sit infinite
+   inten<lb ed="#B" n="101" break="no"/>sa: intellectus vel sensus non concurrit ad hanc notitiam in 
+   <lb ed="#B" n="102"/>finite, sed finite. Licet enim sint infinita obiecta di 
+   <lb ed="#B" n="103"/>stinctis notitiis cognita: tamen illa obiecta communicant. fa 
+   <lb ed="#B" n="104"/>cilius autem est intensam notitiam haire circa idem obiectum 
+   <lb ed="#B" n="105"/>quam circa varia. sensus enim vel intellectus circa idem ha 
+   <lb ed="#B" n="106"/>bet notitiam alicuius intensionis sicut octo gra 
+   <lb ed="#B" n="107"/>tia exempli: quae notitia habet infinitas notitias inaequales 
+   <lb ed="#B" n="108"/>non comunicantes: &amp; tamen non potest habere tot 
+   <lb ed="#B" n="109"/>notitias quantuncumque remissas circa varia obiecta. 
+   <!--0126.xml-->
+   <pb ed="#B" n="47-v"/>
+       <cb ed="#B" n="a"/>
+      </p>
+      <p xml:id="jMqv4a-d1e240-d1e1152">
+       <lb ed="#B" n="1"/>⁋ Respondetur. sicut totum est suae 
+   <lb ed="#B" n="2"/>partes simul sumptae: ita visio totius ex
+   visioni<lb ed="#B" n="3" break="no"/>bus partium conflatur. inconveniens autem maius vi 
+   <lb ed="#B" n="4"/>detur concedere quod sit aliqua visio nunc infinite in  
+   <lb ed="#B" n="5"/>tensa, quam concedere aliquod illatum ab aliqua ratio 
+   <lb ed="#B" n="6"/>ne in oppositum.
+  </p>
+      <p xml:id="jMqv4a-d1e240-d1e1168">
+   ⁋ Propterea deuenio ad ratio 
+   <lb ed="#B" n="7"/>nes ad partem oppositam: quando sic primo ar 
+   <lb ed="#B" n="8"/>guitur. Stat sortem a remotis videre cumulum gra 
+   <lb ed="#B" n="9"/>norum distincte: &amp; illa visione nullum granum videre 
+   <lb ed="#B" n="10"/>distincte: ergo visio totius non componitur ex 
+   <lb ed="#B" n="11"/>visionibus partium. Respondetur. Consequentia 
+   <lb ed="#B" n="12"/>est nulla: quia visio totius cumuli componitur ex 
+   <lb ed="#B" n="13"/>visionibus partium. Licet igitur nullum granum distin 
+   <lb ed="#B" n="14"/>cte videatur in casu argumenti: quodlibet tamen 
+   <lb ed="#B" n="15"/>granum quo ad partem propinquam cumulum 
+   <lb ed="#B" n="16"/>videnti videtur. Sed contra hoc arguitur. nulli 
+   <lb ed="#B" n="17"/>granum seorsum potest videri ad viginti pedes 
+   <lb ed="#B" n="18"/>ergo nec producit species in toto multiplicatiuas 
+   <lb ed="#B" n="19"/>sui vltra vigiti pedes: cum sit agens naturale
+   aequa<lb ed="#B" n="20" break="no"/>liter producens siue extra totum siue in toto. Si 
+   <lb ed="#B" n="21"/>hoc concedas de quolibet grano: sed non de vna 
+   <lb ed="#B" n="22"/>parte cumuli: Contra hoc argumentor. si nullum 
+   <lb ed="#B" n="23"/>granum producat visionem sui vltra viginti pedes:  
+   <lb ed="#B" n="24"/>nec duo grana producent visionem sui vltra vigiti pe 
+   <lb ed="#B" n="25"/>des: &amp; sic de tribus &amp; consequenter ascendendo: vel da 
+   <lb ed="#B" n="26"/>bitur vna visio totius &amp; non visio partis
+   secun<lb ed="#B" n="27" break="no"/>dum se vel aliquid sui. Respondetur concedendo 
+   <lb ed="#B" n="28"/>quod nullum granum seorsum producit visionem su 
+   <lb ed="#B" n="29"/>vltra viginti pedes: secus est in suo toto, in quo pro 
+   <lb ed="#B" n="30"/>ducit visionem sui vltra mille pedes cum aliorum
+   gra<lb ed="#B" n="31" break="no"/>norum ope. quod in simili patet de paruis partibus ignis 
+   <lb ed="#B" n="32"/>simul iunctis, vel de multis vocibus sonum ad ma 
+   <lb ed="#B" n="33"/>iorem distantiam producentibus quam esset vox stentorea.
+  </p>
+      <p xml:id="jMqv4a-d1e240-d1e1229">
+   ⁋ Ad 
+   <lb ed="#B" n="34"/>secundum dicitur quod notitia sortis pro isto statu sortem 
+   <lb ed="#B" n="35"/>per accidens gratia albedinis vel soni representat. secus 
+   <lb ed="#B" n="36"/>est de anima seperata vel pro statu patriae. Sed dico
+   il<lb ed="#B" n="37" break="no"/>lam notitiam ex notitiis partium sortis componi. Et sic de 
+   <lb ed="#B" n="38"/>notitia termini collectiui ad placitum significantis 
+   <lb ed="#B" n="39"/>dicatur.
+  </p>
+      <p xml:id="jMqv4a-d1e240-d1e1245">
+   ⁋ Ad tertium dico quod argumentum nihil aliquo 
+   <lb ed="#B" n="40"/>probat nisi quod illud potest defendi: quod concedo. sed 
+   <lb ed="#B" n="41"/>rationabilius est dicere totum esse suas partes simul sumptas. 
+  </p>
+      <p xml:id="jMqv4a-d1e240-d1e1252">
+       <lb ed="#B" n="42"/>⁋ Sed contra rationem in
+   opposi<lb ed="#B" n="43" break="no"/>tum arguitur probando quod non inconveniat dare in 
+   <lb ed="#B" n="44"/>finitam visionem intensiue vel notitiam secundum 
+   <lb ed="#B" n="45"/>legem dei positam etiam in pura creatura: &amp; per 
+   <lb ed="#B" n="46"/>consequens propter rationem illam nullo modo 
+   <lb ed="#B" n="47"/>relinquenda est pars quam relinquimus. Antecedens 
+   <lb ed="#B" n="48"/>patet: si angelus sit in loco pedali &amp; in qualibet per 
+   <lb ed="#B" n="49"/>te eius, habebit notitiam infinitam intensiue. quod 
+   <lb ed="#B" n="50"/>patet. in qualibet parte sui loci habebit notitiam ita in 
+   <lb ed="#B" n="51"/>tensam sicut in alio loco. sed est in infinitis locis 
+   <lb ed="#B" n="52"/>partialibus, nec iuuat dicere quod obiectum est propi 
+   <lb ed="#B" n="53"/>quius angelo in vna parte sui loci, quam in alia parte sui 
+   <lb ed="#B" n="54"/>loci. quia ponatur angelus simul esse cum obiecto 
+   <!--0126.xml-->
+   <cb ed="#B" n="b"/> 
+       <!-- 47-v b -->
+       <lb ed="#B" n="55"/>intenso.
+  </p>
+      <p xml:id="jMqv4a-d1e240-d1e1291">
+   ⁋ Respondetur: cum obiectum sit idem nume 
+   <lb ed="#B" n="56"/>ratio: &amp; intellectus idem: dato quod sit in pluribus locis 
+   <lb ed="#B" n="57"/>partialibus: habetur solum vna notitia quae haberetur 
+   <lb ed="#B" n="58"/>quando non esset in partibus loci, sicut est de notitia in 
+   <lb ed="#B" n="59"/>anima sortis quae est in pluribus partibus corporis. 
+   <lb ed="#B" n="60"/>nec vnum est magis ponderandum quam aliud.
+  </p>
+      <p xml:id="jMqv4a-d1e240-d1e1305">
+   ⁋ Se 
+   <lb ed="#B" n="61"/>cundo arguitur contra eandem rationem. Infinitae 
+   <lb ed="#B" n="62"/>sunt partes proportionales non communicantes 
+   <lb ed="#B" n="63"/>hac albedine pedali: quarum quaelibet superficia 
+   <lb ed="#B" n="64"/>liter videtur: &amp; cuiussibet partis visio est ita intensa
+   si<lb ed="#B" n="65" break="no"/>cut alia: cum albedo sit vniformiter intensa: ergo  
+   <lb ed="#B" n="66"/>tota visio est infinite intensa.
+  </p>
+      <p xml:id="jMqv4a-d1e240-d1e1321">
+   ⁋ Forte dicis: &amp; sic di 
+   <lb ed="#B" n="67"/>cendum est. visio totius pedalitatis est intensior quam 
+   <lb ed="#B" n="68"/>visio alicuius partis proportionalis eius: quia co 
+   <lb ed="#B" n="69"/>ponitur ex visionibus partium. Contra. ergo tota 
+   <lb ed="#B" n="70"/>albedo deberet apparere intensior quam pars, cum inten 
+   <lb ed="#B" n="71"/>siore visione videatur. Respondetur, non sequitur 
+   <lb ed="#B" n="72"/>quod apparere debeat intensior. Vnde hic quaelibet pars 
+   <lb ed="#B" n="73"/>albedinis ab alia distincta habet suam visionem 
+   <lb ed="#B" n="74"/>sibi respondentem: &amp; sic visio totius est intensior
+   quae<lb ed="#B" n="75" break="no"/>cunque visione partis: sed tota illa visio non repras 
+   <lb ed="#B" n="76"/>sentat secundum se &amp; quodlibet sui totam illam ab 
+   <lb ed="#B" n="77"/>bedinem: sed vna pars visionis repraesentat vnam 
+   <lb ed="#B" n="78"/>partem &amp; alia aliam. Exemplum in simili. notitia 
+   <lb ed="#B" n="79"/>sortis ob Platonem superuenientem intenditur a no 
+   <lb ed="#B" n="80"/>titia Platonis. hoc est, vna notitia est intensior est 
+   <lb ed="#B" n="81"/>videtur sortes quam antea, sed non intensius cogno  
+   <lb ed="#B" n="82"/>scitur sortes: cum non per quamlibet partem illius notitiae 
+   <lb ed="#B" n="83"/>cognoscatur Sortes. 
+  </p>
+      <p xml:id="jMqv4a-d1e240-d1e1360">
+       <lb ed="#B" n="84"/>⁋ Ecce quomodo verum Christi
+   cor<lb ed="#B" n="85" break="no"/>pus de Christifera virgine natum: quod pro nobis pas 
+   <lb ed="#B" n="86"/>sum est, &amp; ascendit ad caelos, &amp; sedet ad dexteram 
+   <lb ed="#B" n="87"/>patris: est in hoc Eucharistiae sacramento: vt tam 
+   <lb ed="#B" n="88"/>auctoritate euangelistarum quam conciliorum
+   infallibi<lb ed="#B" n="89" break="no"/>lium iam patuit. Non tamen imagineris corpus Chri 
+   <lb ed="#B" n="90"/>sti esse in concauitate hostiae: sed est vnitiue cum 
+   <lb ed="#B" n="91"/>tota illa albedine tam secundum partes
+   intrinse<lb ed="#B" n="92" break="no"/>cas quam superficiales. Eucharistia tamen est circum 
+   <lb ed="#B" n="93"/>scriptiue in loco: &amp; per consequens aliter est
+   Eu<lb ed="#B" n="94" break="no"/>charistia in aere vel in alio loco: quam corpus Christi 
+   <lb ed="#B" n="95"/>in eodem. &amp; non solum est corpus Christi in hoc 
+   <lb ed="#B" n="96"/>sacramento: sed in qualibet eius parte. potest tamen partium 
+   <lb ed="#B" n="97"/>esse talis partitio, quod cum essent insensibiles corpus 
+   <lb ed="#B" n="98"/>Christi desineret ee sub eis: licet non detur
+   mini<lb ed="#B" n="99" break="no"/>mum intelligibile ab intellectu pro statu gloriae: cum an  
+   <lb ed="#B" n="100"/>gelus sit intelligibilis ab eo intuitiue. Sic corpus 
+   <lb ed="#B" n="101"/>quodlibet quantumcumque pusillum licet sit
+   inferi<lb ed="#B" n="102" break="no"/>oris speciei quam angelus: hic obicem praestare non 
+   <lb ed="#B" n="103"/>videtur: tamen fortasse est dabile aliquod
+   insen<lb ed="#B" n="104" break="no"/>sibile vt aliquod non visibile a sensu visu etiam 
+   <lb ed="#B" n="105"/>ipsius beati: &amp; sic de aliis sensibus. Sensus enim sunt 
+   <lb ed="#B" n="106"/>corporei: &amp; determinata obiecta corporea habent. 
+   <lb ed="#B" n="107"/>Dixi (fortasse) quia posset quis dicere. quod licet sit sta 
+   <lb ed="#B" n="108"/>tus in sensibili pro hoc statu, sicut <name xml:id="jMqv4a-d1e240-Nd1e1416" ref="#Aristotle">Aristoteles</name> diciti 
+   <!--0127.xml-->
+   <pb ed="#B" n="48-r"/>
+       <cb ed="#B" n="a"/>
+       <lb ed="#B" n="1"/>de sersu &amp; sensato, in fine: non tamen erit status in 
+   <lb ed="#B" n="2"/>patria. Et si hoc esset verum, consequenter quis 
+   <lb ed="#B" n="3"/>defendere posset: in quascumque paruas partes Eu 
+   <lb ed="#B" n="4"/>charistia partiatur, sub qualibet fore corpus
+   Chri<lb ed="#B" n="5" break="no"/>sti. Notanter dico (defendere posset) quia adhuc 
+   <lb ed="#B" n="6"/>non est consequens. quia enim verosimiliter Adae po 
+   <lb ed="#B" n="7"/>tentia terminabatur / quem inter viatores optime sen 
+   <lb ed="#B" n="8"/>satum putamus: &amp; Eucharistia solis viatoribus tam 
+   <lb ed="#B" n="9"/>quam viaticum sit danda, adhuc erit status. Et licet 
+   <lb ed="#B" n="10"/>promiscue de minimo sensibili vel maximo non 
+   <lb ed="#B" n="11"/>ensibili loquutus fuerim: potentia tamen ad maximum 
+   <lb ed="#B" n="12"/>non sensibile terminatur: quia illo sensibili dato 
+   <lb ed="#B" n="13"/>quod minimum putas, si a tergo illius nonnihil 
+   <lb ed="#B" n="14"/>auferatur: adhuc ipsum videbitur. vlterius dabi 
+   <lb ed="#B" n="15"/>tur vltimum instans esse completum visionis / con 
+   <lb ed="#B" n="16"/>tra philosophum octauo Physicorum. Vtroque
+   ta<lb ed="#B" n="17" break="no"/>men modo loquendi vtar quando non occurrit 
+   <lb ed="#B" n="18"/>specialis mentio. Si plura tamen insensibilia
+   seor<lb ed="#B" n="19" break="no"/>sum applicentur prope se in aliqua certa
+   distan<lb ed="#B" n="20" break="no"/>tia: iuuant seinuicem ad productionem visionis 
+   <lb ed="#B" n="21"/>Verbi gratia. Si esset equus albus &amp; parua tibia 
+   <lb ed="#B" n="22"/>muscae inter me &amp; equum: a remotis equum
+   vide<lb ed="#B" n="23" break="no"/>rem &amp; non tibiam muscae. tot tamen tibiae possent 
+   <lb ed="#B" n="24"/>simul colligi &amp; poni inter me &amp; equum vt iudica 
+   <lb ed="#B" n="25"/>rem equum nigrum. &amp; hoc esset quia illae tibiae pr 
+   <lb ed="#B" n="26"/>ducerent visionem nigredinis: nullam tamen
+   ti<lb ed="#B" n="27" break="no"/>biam, vel quae sint tibiae / distincte videbo: quia
+   ne<lb ed="#B" n="28" break="no"/>scirem discernere hanc ab illa, virtute illius
+   visio<lb ed="#B" n="29" break="no"/>nis. Amplius diximus visionem totius vel intel 
+   <lb ed="#B" n="30"/>lectionem a visionibus vel intellectionibus partium 
+   <lb ed="#B" n="31"/>produci, si obiectum habeat partes. Hoc
+   pro<lb ed="#B" n="32" break="no"/>pter notitiam angeli, animae, &amp; rerum
+   impartibi<lb ed="#B" n="33" break="no"/>lium dicitur 
+  </p>
+    </div>
+   </body>
+  </text>
+</TEI>

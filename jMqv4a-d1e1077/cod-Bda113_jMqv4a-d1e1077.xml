@@ -1,0 +1,705 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 3</title>
+      <author ref="#JohnMair">John Mair</author>
+      <respStmt>
+       <name>Jeffrey C. Witt</name>
+       <resp>TEI Encoder</resp>
+      </respStmt>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 3</title>
+       <date when="2020-06-09">June 27, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="B" n="cod-Bda113">Badius 1516</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+     guidelines for a diplomatic edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-06-27" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+      <pb ed="#B" n="202-r"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="jMqv4a-d1e1077"> <!-- l4d21q3 -->
+      <head xml:id="jMqv4a-d1e1077-Hd1e104">Quaestio 3</head>
+      <head xml:id="jMqv4a-d1e1077-Hd1e107" type="question-title">An sacerdos teneatur celare peccatum sibi in 
+  confessione detectum</head>
+      <p xml:id="jMqv4a-d1e1077-d1e110">
+       <lb ed="#B" n="68"/>⁋ Distinctionis Vigesimaeprimae 
+   <lb ed="#B" n="69"/>Quaestio Tertia. 
+   <lb ed="#B" n="70"/>cuam Ertio circa hanc
+   di<lb ed="#B" n="71" break="no"/>stinctionem quaeritur: an sacer 
+   <lb ed="#B" n="72"/>dos teneatur celare peccatum 
+   <lb ed="#B" n="73"/>sibi in confessione detectum. 
+   <lb ed="#B" n="74"/>Aa⁋ Respondetur ad quaestionem 
+   <lb ed="#B" n="75"/>laffirmatiue. probatur sic. omne 
+   <lb ed="#B" n="76"/>lsecretum de necessitate est
+   ser<lb ed="#B" n="77" break="no"/>uandum: sed omne peccatum in sigillo confessionis 
+   <lb ed="#B" n="78"/>detectum est secretum: ergo omne tale est seruandum. 
+   <lb ed="#B" n="79"/>antecedens patet ex quaestione praecedenti. &amp; consequen 
+   <lb ed="#B" n="80"/>tia est in barbara. Secundo probatur idem: quia illud  
+   <lb ed="#B" n="81"/>est de iure naturae, diuino, &amp; humano strictissime 
+   <lb ed="#B" n="82"/>prohibitum: ergo est ad vnguem seruandum. de iure na 
+   <lb ed="#B" n="83"/>turae constat ex quaestione praecedenti. &amp; de iure diuino 
+   <lb ed="#B" n="84"/>vltra legem naturae patet: quia alioquin eneruare 
+   <lb ed="#B" n="85"/>tur praeceptum diuinum de confessione facienda. quis 
+   <lb ed="#B" n="86"/>quaeso ille est qui si sciret suum peccatum occultum 
+   <lb ed="#B" n="87"/>popriae famae denigratiuum detegendum / id alteri rese 
+   <lb ed="#B" n="88"/>raret: De praecepto autem humano patet de poenitem. 
+   <lb ed="#B" n="89"/>&amp; remis. cap. Omnis vtriusque sexus. vbi de sacer 
+   <lb ed="#B" n="90"/>dote dicitur. Caueat autem omnino sacerdos ne 
+   <lb ed="#B" n="91"/>verbo aut signo aut alio quouis modo aliquate 
+   <lb ed="#B" n="92"/>nus prodat peccatorem. Sed si prudentioris cosilio 
+   <lb ed="#B" n="93"/>indiguerit: illud absque vlla expressione personae. 
+   <lb ed="#B" n="94"/>caute requirat: quoniam qui peccatu in poenitentiali iu 
+   <lb ed="#B" n="95"/>dicio sibi detectum praesumpserit reuelare: non solum 
+   <lb ed="#B" n="96"/>a sacerdotali officio deponendum decernimus / verum 
+   <lb ed="#B" n="97"/>etiam ad agendam perpetuam poenitentiam, in arctum 
+   <lb ed="#B" n="98"/>monasterium detrudendum. Tunc sic. peccatum quam 
+   <lb ed="#B" n="99"/>to pluribus deformitatibus est inuolutum: tanto est 
+   <lb ed="#B" n="100"/>peius. sed sigillum confessionis aperiens illis defor 
+   <lb ed="#B" n="101"/>mitatibus inuoluitur. igitur. Peccatum namque in
+   con<lb ed="#B" n="102" break="no"/>fessione auditum reuelare nedum est peccatum: sed  
+   <lb ed="#B" n="103"/>grande valde &amp; insolitum: hominum a lege diuina 
+   <lb ed="#B" n="104"/>de confessione facienda / maxime impeditiuum. Ex 
+   <lb ed="#B" n="105"/>quo patet longe maius esse peccatum contrauenien 
+   <lb ed="#B" n="106"/>do sigillo confessionis quam sigillo secreti nudi / siue 
+   <lb ed="#B" n="107"/>non confessionis. Potest tamen sacerdos dicere: hunc 
+   <lb ed="#B" n="108"/>vel illum in confessione audiui, non nominando eius 
+   <lb ed="#B" n="109"/>peccata in speciali. vel dicere potest. audiui a. pec 
+   <lb ed="#B" n="110"/>ii 
+   <!--0436.xml-->
+   <pb ed="#B" n="202-v"/>
+       <cb ed="#B" n="a"/>
+       <lb ed="#B" n="1"/>catum in confessione. vt habetur in textu allegato 
+   <lb ed="#B" n="2"/>&amp; in cap. Officii. eiusdem tituli. vbi papa non
+   rephen<lb ed="#B" n="3" break="no"/>dit legatum petentem consilium de peccato quod asserit 
+   <lb ed="#B" n="4"/>in vniuersali se in confessione audiuisse. Non tamen 
+   <lb ed="#B" n="5"/>potest dicere copulatiue, audiui a. peccatum illi 
+   <lb ed="#B" n="6"/>in confessione. 
+  </p>
+      <p xml:id="jMqv4a-d1e1077-d1e225">
+       <lb ed="#B" n="7"/>⁋ Contra hanc conclusionem argu 
+   <lb ed="#B" n="8"/>mentor. possum dicere, audiui peccatum Sortis 
+   <lb ed="#B" n="9"/>in confessione: semper loquor de posse iuris &amp; non 
+   <lb ed="#B" n="10"/>facti. ergo hoc vel illud: demonstrando superbiam 
+   <lb ed="#B" n="11"/>vel iram. consequentia est descensus supposita con 
+   <lb ed="#B" n="12"/>stantia: &amp; antecedens licitum: ergo consequens est licitum. 
+   <lb ed="#B" n="13"/>Forte. dicis, &amp; ita respondendum est: cosequentia est 
+   <lb ed="#B" n="14"/>bona: sed antecedens est aeque illicitum vt ipsum
+   con<lb ed="#B" n="15" break="no"/>sequens propter defectum constantiae. etiam nego quod li 
+   <lb ed="#B" n="16"/>ceat dicere. audiui peccatum istius in confessione: 
+   <lb ed="#B" n="17"/>sed possum dicere, audiui istum in confessione. 
+   <lb ed="#B" n="18"/>stat enim quod nullum habeat peccatum: nec mortale 
+   <lb ed="#B" n="19"/>nec veniale sibi occurrens post vltimam confessio 
+   <lb ed="#B" n="20"/>nem: &amp; tamen satisfaciat praecepto. huic enim non repu 
+   <lb ed="#B" n="21"/>gnat auctoritas beati Ioannis. primae Ioannis
+   pri<lb ed="#B" n="22" break="no"/>mo. Si dixerimus quia peccatu non habemus: nos 
+   <lb ed="#B" n="23"/>ipsos seducimus: &amp; veritas in nobis non est. nam 
+   <lb ed="#B" n="24"/>stat virum esse in nullo peccato vel non habere
+   pec<lb ed="#B" n="25" break="no"/>cati memoriam: qui tamen male ageret dicendo se non esse 
+   <lb ed="#B" n="26"/>in peccato. Ex quo patet quod non possum dicere, 
+   <lb ed="#B" n="27"/>audiui grandia peccata istius in confessione. &amp; licet 
+   <lb ed="#B" n="28"/>apparenter concedatur, audiui peccata istius in
+   confes<lb ed="#B" n="29" break="no"/>sione: ergo mortalia vel venialia: non tamen est conce 
+   <lb ed="#B" n="30"/>denda vna pars illius disiunctiuae. 
+  </p>
+      <p xml:id="jMqv4a-d1e1077-d1e281">
+       <lb ed="#B" n="31"/>⁋ Secundo arguitur. ponendo quod
+   Sor<lb ed="#B" n="32" break="no"/>tes &amp; Plato conspirent pariter ad occidendum
+   Ci<lb ed="#B" n="33" break="no"/>ceronem sacerdotem in nemore: &amp; ante nemoris in 
+   <lb ed="#B" n="34"/>gressum Sortes hoc presbytero confiteatur:
+   asse<lb ed="#B" n="35" break="no"/>rens hoc certum quod si ingrediatur nemus: occidetur 
+   <lb ed="#B" n="36"/>a Platone. Isto casu supposito arguitur sic. vel 
+   <lb ed="#B" n="37"/>Cicero presbyter non intrabit nemus: &amp; sic Plato 
+   <lb ed="#B" n="38"/>reputabit eum confessionis reuelatorem, quia sciebat 
+   <lb ed="#B" n="39"/>Plato quod presbyter nemus intrasset nisi Sortes ei 
+   <lb ed="#B" n="40"/>fuisset confessus: &amp; hoc etiam scit Sortes. Si dicas 
+   <lb ed="#B" n="41"/>presbyter intrabit nemus, tunc occidetur.
+  </p>
+      <p xml:id="jMqv4a-d1e1077-d1e307">
+   ⁋ Respon 
+   <lb ed="#B" n="42"/>detur. stante toto casu presbyter non tenetur nemus 
+   <lb ed="#B" n="43"/>intrare: sed potest retrocedere dicens se habere
+   ne<lb ed="#B" n="44" break="no"/>cessarium negocium in villa aliquam vel loco alio: &amp; hoc 
+   <lb ed="#B" n="45"/>est verum, nec mentitur si ita assentiatur: quia hoc est 
+   <lb ed="#B" n="46"/>ei necessarium pro sua vita seruanda. &amp; nego quod sit
+   pro<lb ed="#B" n="47" break="no"/>ditor confessionis: licitum enim est viro facere aliquid 
+   <lb ed="#B" n="48"/>indifferens quod de per se non detegit audita in confes 
+   <lb ed="#B" n="49"/>sione: licet aliquibus ex aliquo praesupposito sit 
+   <lb ed="#B" n="50"/>magis determinatum signum reuelandae cofessionis 
+   <lb ed="#B" n="51"/>quam contrarii: quia hoc non prouenit ex parte eius quod 
+   <lb ed="#B" n="52"/>recit. Et eodem modo respondetur de abbate
+   haben<lb ed="#B" n="53" break="no"/>te religiosum priorem extra monasterium: vel aliud  
+   <!--0436.xml-->
+   <cb ed="#B" n="b"/> 
+       <!-- 202-v b -->
+       <lb ed="#B" n="54"/>fficium habentem, religiosum inquam negociorum 
+   <lb ed="#B" n="55"/>sollicitatorem vel huiusmodi: &amp; sciente ex confes 
+   <lb ed="#B" n="56"/>sione quod ille prioratus vel officium sit contra salutem 
+   <lb ed="#B" n="57"/>animae eius. Si enim possit ex consuetudine impone 
+   <lb ed="#B" n="58"/>re &amp; deponere ad nutum priorem &amp; instituere quos 
+   <lb ed="#B" n="59"/>velit: potest ipsum exauthorare: quia licet cognouerit 
+   <lb ed="#B" n="60"/>ineptitudinem &amp; perditionem eius per confessionem: tamen indiffe 
+   <lb ed="#B" n="61"/>rens est sic eum exauthorare: quia aliunde potest pro 
+   <lb ed="#B" n="62"/>uenire causa eum exauthorandi, scilicet voluntas su 
+   <lb ed="#B" n="63"/>perioris: vel fingere potest aliquem alium casum in  
+   <lb ed="#B" n="64"/>foro exteriore honestum / dicendo, quia est
+   indu<lb ed="#B" n="65" break="no"/>strius vult vt habeat tale officium in coenobio: 
+   <lb ed="#B" n="66"/>aut vult ei honorem impartire: &amp; hoc si non  
+   <lb ed="#B" n="67"/>possit aliter persuadere vt sua sponte officium
+   re<lb ed="#B" n="68" break="no"/>linquat, quod prius tentandum est. varias namque rationes 
+   <lb ed="#B" n="69"/>potest excogitare ad hunc remouendum ab officio 
+   <lb ed="#B" n="70"/>sine confessionis detectione. si vero nullam aliam 
+   <lb ed="#B" n="71"/>inuenire poterit: potius subditum in peccato
+   relin<lb ed="#B" n="72" break="no"/>quat quam ipse confessionem detegat: quia inuitus alium 
+   <lb ed="#B" n="73"/>permittit permanere in officio. Fodem modo dica 
+   <lb ed="#B" n="74"/>tur si cognoscam aliquem inutilem in episcopatu per
+   con<lb ed="#B" n="75" break="no"/>fessionem qui in exteriore homine apparet bonus 
+   <lb ed="#B" n="76"/>&amp; idoneus. possum namque alium eo relicto eligere: 
+   <lb ed="#B" n="77"/>quia quod eum non eligam potest multis modis
+   pro<lb ed="#B" n="78" break="no"/>uenire. Forte enim aliu aeque idoneum iudicor plus 
+   <lb ed="#B" n="79"/>diligere: vel multis aliis modis. licet notitia
+   pec<lb ed="#B" n="80" break="no"/>cati occulti in confessione sit causa per quam in  
+   <lb ed="#B" n="81"/>istius inidoneitatem deuenio. &amp; ita ad similes
+   ca<lb ed="#B" n="82" break="no"/>sus dicatur. 
+  </p>
+      <p xml:id="jMqv4a-d1e1077-d1e405">
+       <lb ed="#B" n="83"/>⁋ Tertio arguitur, confitens dare 
+   <lb ed="#B" n="84"/>potest facultatem confessori suum peccatum reuelandis 
+   <lb ed="#B" n="85"/>ergo in aliquo casu reuelare licet, consequentia
+   te<lb ed="#B" n="86" break="no"/>net: quia tota ratio illiciti est ne detegatur
+   pecca<lb ed="#B" n="87" break="no"/>tum occultum confitentis contra eius voluntatem: quod hic non 
+   <lb ed="#B" n="88"/>contingit.
+  </p>
+      <p xml:id="jMqv4a-d1e1077-d1e421">
+   ⁋ Respondetur. Beatus Tho. hoc concedit 
+   <lb ed="#B" n="89"/>&amp; sequitur Paludanus: mihi autem non placet. propter 
+   <lb ed="#B" n="90"/>ea nego antecedens. &amp; si det quantum in se est facultatem 
+   <lb ed="#B" n="91"/>reserandi: confessor illa facultate vti non potest. ratio 
+   <lb ed="#B" n="92"/>est: quia illud non solum est in praeiudicium istius: sed
+   to<lb ed="#B" n="93" break="no"/>tius reipublicae Christianae: &amp; in fractionem diuinae 
+   <lb ed="#B" n="94"/>legis. sicut clericus non potest licite consentire vt 
+   <lb ed="#B" n="95"/>ducatur ad forum laicale. de fo. compe. ca. Si diligenti 
+   <lb ed="#B" n="96"/>quia hoc esset contra libertatem ecclesiasticam. Item 
+   <lb ed="#B" n="97"/>si haec confessionis reuelatio esset licita: iudex pas 
+   <lb ed="#B" n="98"/>sim cogeret confitentem dare confessori facultatem 
+   <lb ed="#B" n="99"/>reserandi hoc quod in confessione audiuit. &amp; 
+   <lb ed="#B" n="100"/>vbi esset probatio semiplena: ferre posset sacerdos 
+   <lb ed="#B" n="101"/>testimonium contra confitentem: quod esset causa non  
+   <lb ed="#B" n="102"/>plenae confessionis faciendae. Non placet quod iste 
+   <lb ed="#B" n="103"/>neotericus doctor dicit: quod celatio secreti
+   confes<lb ed="#B" n="104" break="no"/>sionis est per se &amp; primo in fauorem priuatorum, 
+   <lb ed="#B" n="105"/>quemadmodum sigillum secreti &amp; priuilegium fori quo 
+   <lb ed="#B" n="106"/>ad clericos est per se &amp; directe in publicum fauo 
+   <lb ed="#B" n="107"/>rem. Dicit insuper nullam rationem sibi videri 
+   <!--0437.xml-->
+   <pb ed="#B" n="203-r"/>
+       <cb ed="#B" n="a"/>
+       <lb ed="#B" n="1"/>quare licentiando iuri suo quis renunciare possit quo 
+   <lb ed="#B" n="2"/>ad sigillum secreti: quin idem sit de sigillo confessionis. 
+   <lb ed="#B" n="3"/>Falsum est enim primum dictum eius: quod celatio
+   secre<lb ed="#B" n="4" break="no"/>ti in confessione est primo &amp; per se in fauorem priuaro 
+   <lb ed="#B" n="5"/>rum: immo est primo &amp; per se in fauorem totius reipub. 
+   <lb ed="#B" n="6"/>seu conitatis. In super illud est de iure naturae / diuino 
+   <lb ed="#B" n="7"/>&amp; humano. quod non putatur a multis eruditis viris 
+   <lb ed="#B" n="8"/>de iudicio clericorum: vt in vna solutione dominus Duns 
+   <lb ed="#B" n="9"/>enet in. xiii. dist. iiii. &amp; Ocltam in dialogo. sed de 
+   <lb ed="#B" n="10"/>hoc alias. Secundum etiam motiuum eius minus appa 
+   <lb ed="#B" n="11"/>tens est. nam consequentia nihil valet: strictius enim obli 
+   <lb ed="#B" n="12"/>gat sigillum confessionis quam sigillum secreti nudum: vt 
+   <lb ed="#B" n="13"/>ipse bene concedit. Secundo nego antecedens. nam si 
+   <lb ed="#B" n="14"/>dixi in secreto Sorti peccatum ncum extra confessio 
+   <lb ed="#B" n="15"/>nem famae meae denigratiuum: &amp; tyrannus cogat me 
+   <lb ed="#B" n="16"/>dare ei facultatem reserandi: vel si egoipse mea 
+   <lb ed="#B" n="17"/>sponte eum ad hoc rogem: dicere non debet: sed me per 
+   <lb ed="#B" n="18"/>mittet dicere si velim. Sed dicis. tyrannus potest 
+   <lb ed="#B" n="19"/>cogere confitentem dicere sacerdoti peccatum ex tra 
+   <lb ed="#B" n="20"/>confessionem quod audiuit in confessione. hoc nego.  
+   <lb ed="#B" n="21"/>cum enim poenitens non fateatur suum peccatum
+   occul<lb ed="#B" n="22" break="no"/>um coram tyranno: indicium est etiam quod non
+   propala<lb ed="#B" n="23" break="no"/>bit ipsum sacerdoti extra confessione. Et licet
+   sacer<lb ed="#B" n="24" break="no"/>dos reuelans confassionem vltra graue peccatum quod 
+   <lb ed="#B" n="25"/>committit: debeat puniri secundum poenam statutam in cap. 
+   <lb ed="#B" n="26"/>Omnis. tamen si aliquis laicus tale peccatum a sa 
+   <lb ed="#B" n="27"/>cerdote audiat, vel in confessione inopinate vel ex 
+   <lb ed="#B" n="28"/>industria, vel aliter, non est hac poena puniendus: 
+   <lb ed="#B" n="29"/>sed tenetur seruare secretum sub poena maximi pec 
+   <lb ed="#B" n="30"/>cati mortalis. &amp; si Sortes illud peccatum dicat Pla 
+   <lb ed="#B" n="31"/>toni, &amp; Plato Ciceroni, &amp; Cicero loanni, &amp; sic mil 
+   <lb ed="#B" n="32"/>le aliis: quilibet tenetur illud seruare secretum: licet 
+   <lb ed="#B" n="33"/>non possint poena ca. Omnis, puniri: sed aliqua alia 
+   <lb ed="#B" n="34"/>arbitraria secundum discretionem eorum ad quos pertinet: 
+   <lb ed="#B" n="35"/>&amp; debet esse multum grauis vt caeteris ad multos 
+   <lb ed="#B" n="36"/>dies cedat in exemplum. 
+  </p>
+      <p xml:id="jMqv4a-d1e1077-d1e549">
+       <lb ed="#B" n="37"/>⁋ Quarto arguitur. ponatur quod
+   ali<lb ed="#B" n="38" break="no"/>iuis dicat se facturum multa mala: illud licet
+   reue<lb ed="#B" n="39" break="no"/>lare, quia non est dictum in foro poenitentiali.
+   Simili<lb ed="#B" n="40" break="no"/>ter si quis dicat se haereticum: &amp; quod alios intendat 
+   <lb ed="#B" n="41"/>inficere: nemo tenetur illud celare, quia astringitur 
+   <lb ed="#B" n="42"/>ad oppositum fortiori vinculo, vt in quaestione praece 
+   <lb ed="#B" n="43"/>denti diximus. Respondet Innocentius, &amp; Panor. 
+   <lb ed="#B" n="44"/>in ca. Omnis. de poenitem. &amp; remis. insequitur, quod 
+   <lb ed="#B" n="45"/>sacerdos tale crimen in confessione auditum potest: 
+   <lb ed="#B" n="46"/>propalare. sed hoc est male dictum. nam sic aperitetur 
+   <lb ed="#B" n="47"/>aliis via dicendi se talem casum audiuisse / asserturis 
+   <lb ed="#B" n="48"/>quod volebat confitens malum facere: &amp; per consequens 
+   <lb ed="#B" n="49"/>liberum esset eis peccata secreta alterius detegere: 
+   <lb ed="#B" n="50"/>&amp; retraherentur per hoc homines a confessione. sicut 
+   <lb ed="#B" n="51"/>populus Israel propter peccatum Ophni &amp; Phinees 
+   <lb ed="#B" n="52"/>retrahebatur a lege. i. Regum. ii. Fodem modo de hae 
+   <lb ed="#B" n="53"/>resi. huius enim carminis iniqua &amp; diabolica est
+   sen<lb ed="#B" n="54" break="no"/>tentia. Haeresis est crimen quod nec confessio celat. 
+   <!--0437.xml-->
+   <cb ed="#B" n="b"/> 
+       <!-- 203-r b -->
+       <lb ed="#B" n="55"/>quia nullum peccatum in confessione auditum est 
+   <lb ed="#B" n="56"/>dicendum: siue confitens poeniteat siue non: nec in  
+   <lb ed="#B" n="57"/>vita: nec quod amplius est / in morte: quia mortuo 
+   <lb ed="#B" n="58"/>&amp; suis infamia obiiceretur. multi namque multa
+   egre<lb ed="#B" n="59" break="no"/>gia &amp; praeclara faciunt, allecti etiam gloria mortem
+   secu<lb ed="#B" n="60" break="no"/>tura: licet gloria non sit finis vltimus: sed deus. id 
+   <lb ed="#B" n="61"/>circo homines ab infamia etiam post mortem procul 
+   <lb ed="#B" n="62"/>esse student. vt habetur ex cap. Perlatum. de his quam vt 
+   <lb ed="#B" n="63"/>me. ve cau. fi. ergo si liceret post mortem peccatum 
+   <lb ed="#B" n="64"/>occultum reserare: homines retraherentur a confessione 
+   <lb ed="#B" n="65"/>complete facienda in vita. Sed vbi confitens confessori 
+   <lb ed="#B" n="66"/>restitutionem relinqueret inmorte suis liberis facien 
+   <lb ed="#B" n="67"/>dam: est difficultas an confessor posset illud
+   haere<lb ed="#B" n="68" break="no"/>dibus significare. licet enim restituere non sit pecca 
+   <lb ed="#B" n="69"/>tum: per hoc tamen deuenirent alii in notitiam peccati. 
+   <lb ed="#B" n="70"/>Credo quod in generali potest eis dicere, restituite ta 
+   <lb ed="#B" n="71"/>lia si defuncti animam diligitis, non quod haeredes pos 
+   <lb ed="#B" n="72"/>sint animam eius ab infemo tollere vel caelo reddere, 
+   <lb ed="#B" n="73"/>sed purgatorii tempus abbreuiare, nec dicet quod illud 
+   <lb ed="#B" n="74"/>in confessione audiuit: sed consulet cis tamquam vir
+   pru<lb ed="#B" n="75" break="no"/>dens. vel capiat istud dicendum extra confessionem. 
+  </p>
+      <p xml:id="jMqv4a-d1e1077-d1e643">
+       <lb ed="#B" n="76"/>⁋ His dictis respondeo ad punctum argumenti,
+   for<lb ed="#B" n="77" break="no"/>tiori vinculo obligor propalare haeresim quam celare 
+   <lb ed="#B" n="78"/>peccatum occultum istius in confessione auditu, vt in 
+   <lb ed="#B" n="79"/>quaestione praecedenti dictum est de sigillo secreti, negando 
+   <lb ed="#B" n="80"/>assumptum, quia nullum est praeceptum ab isto absoluens 
+   <lb ed="#B" n="81"/>seu deobligans quodcumque sit illud: quia si liceret pro 
+   <lb ed="#B" n="82"/>palare haeresim in confessione: mali sacerdotes quando 
+   <lb ed="#B" n="83"/>vellent aliorum peccata secreta pandere, fingerent cofi 
+   <lb ed="#B" n="84"/>tentem haereticum. &amp; sic haec lex dei de confessione facien 
+   <lb ed="#B" n="85"/>da semel in vita: vel ecclesiae semel in anno: raro com 
+   <lb ed="#B" n="86"/>plete seruaretur: quia ipsa est multis difficilis &amp; potis 
+   <lb ed="#B" n="87"/>simum verecundis. nullum igitur praeceptum occurrit cus 
+   <lb ed="#B" n="88"/>istud cedere debeat. sed econuerso huic quodlibet 
+   <lb ed="#B" n="89"/>aliud occurrens dat locum &amp; desinit esse praeceptum: quia 
+   <lb ed="#B" n="90"/>inter praecepta rationabilia num quam est bellum. licet inter 
+   <lb ed="#B" n="91"/>dum primo aspectu videantur contra se acies opposi 
+   <lb ed="#B" n="92"/>tas moliti. Ex quo paret quod longe amplius &amp;
+   stri<lb ed="#B" n="93" break="no"/>ctius seruandum est sigillum confessionis qui sigillum se 
+   <lb ed="#B" n="94"/>creti. hoc enim aliis peceptis in casu dat locum: illud 
+   <lb ed="#B" n="95"/>vero nulli retrahit pedem: sed inuiolabile perma 
+   <lb ed="#B" n="96"/>net. sicut in arce hominibus vtilissima &amp; necessa 
+   <lb ed="#B" n="97"/>ria, ab hostibus obsessa: vbi grauior est insultus, 
+   <lb ed="#B" n="98"/>opus est fortiore muro, adamantino, &amp;
+   inuiola<lb ed="#B" n="99" break="no"/>bili si haberi possit. 
+  </p>
+      <p xml:id="jMqv4a-d1e1077-d1e699">
+       <lb ed="#B" n="100"/>⁋ Quinto arguitur. ponatur casus 
+   <lb ed="#B" n="101"/>quod sacerdos sciat Sortem fecisse a. crimen: quod au 
+   <lb ed="#B" n="102"/>dit in confessione: sacerdos potest a. crimen etiam 
+   <lb ed="#B" n="103"/>in iudicio pandere: &amp; tamen est peccatum in confes 
+   <lb ed="#B" n="104"/>sione auditum: ergo licet peccatum in confessio 
+   <lb ed="#B" n="105"/>ne auditum reuelare. quod possit a. detegere, patet: 
+   <lb ed="#B" n="106"/>alioquin Sortes malefactor si deprehendat quod vnus 
+   <lb ed="#B" n="107"/>sacerdos vel plures suum crimen percipiant: poterit a 
+   <lb ed="#B" n="108"/>vni sacerdoti si viderit, vel pluribus si viderint 
+   <!--0438.xml-->
+   <pb ed="#B" n="203-v"/>
+       <cb ed="#B" n="a"/>
+       <lb ed="#B" n="1"/>confiteri: &amp; sic occultabitur factum dolo malo quod 
+   <lb ed="#B" n="2"/>reipublicae expedit reuelare.
+  </p>
+      <p xml:id="jMqv4a-d1e1077-d1e732">
+   ⁋ Respondetur. casu 
+   <lb ed="#B" n="3"/>admisso sacerdos potest contra talem deponere: &amp; 
+   <lb ed="#B" n="4"/>dicere se vidisse eum hoc facientem: sed no nisi pro nit 
+   <lb ed="#B" n="5"/>cessitate vel vtilitate, vel si iurauit dicere veritatem 
+   <lb ed="#B" n="6"/>sed caueat dicere, scio hoc per confessionem: vel hor 
+   <lb ed="#B" n="7"/>audiui in confessione. cum enim dicit se vidisse 
+   <lb ed="#B" n="8"/>iam recitat cognitum alia via quam per confessionem, nec 
+   <lb ed="#B" n="9"/>dicat, scio hoc extra confessionem: licet sit verum: 
+   <lb ed="#B" n="10"/>ne fimbrias confessionis lacerare videatur, nec per 
+   <lb ed="#B" n="11"/>istud datur sacerdotibus via frangendi sigilli
+   secre<lb ed="#B" n="12" break="no"/>ti: cum absque confessione viri Belial possent contra in 
+   <lb ed="#B" n="13"/>nocentes aequaliter falsa crimina confingere. Ex 
+   <lb ed="#B" n="14"/>qua solutione sequitur quod peccatum auditum in
+   confef<lb ed="#B" n="15" break="no"/>sione licet detegere, quod patet arguendo
+   exposito<lb ed="#B" n="16" break="no"/>rie. hoc peccatum licet detegere: hoc peccatum est au 
+   <lb ed="#B" n="17"/>ditum in confessione: ergo peccatum in confessione 
+   <lb ed="#B" n="18"/>auditum licet detegere. sed non detegitur per notitiam 
+   <lb ed="#B" n="19"/>quae habetur ex confessione. Vlterius sequitur quai 
+   <lb ed="#B" n="20"/>haec illatio est inualida. confessor non potest reuela 
+   <lb ed="#B" n="21"/>re hoc crimen ex notitia quam habet ex confessione 
+   <lb ed="#B" n="22"/>ergo hoc crimen reuelare non potest. Vnde hic
+   no<lb ed="#B" n="23" break="no"/>tato quod si semiplene homo aliquid intellexit extra 
+   <lb ed="#B" n="24"/>confessionem: &amp; plene in confessione totum negocium 
+   <lb ed="#B" n="25"/>cognouit: non potest amplius exterius detegere qua 
+   <lb ed="#B" n="26"/>in foro exteriore nouit. hoc est secundum notitiam se 
+   <lb ed="#B" n="27"/>miplenam testimonium deponet. Si autem confesso 
+   <lb ed="#B" n="28"/>sit prudens: in initio confessionis potest confitenti 
+   <lb ed="#B" n="29"/>dicere. peccatum tuum extra confessionem scio. vidi 
+   <lb ed="#B" n="30"/>te calicem subtrahentem / &amp; de te est mala suspicio 
+   <lb ed="#B" n="31"/>si iuridice ex me de te quiratur, habeo fidele
+   fer<lb ed="#B" n="32" break="no"/>re testimonium. Et eodem modo si quis de ali 
+   <lb ed="#B" n="33"/>quo crimine suspectus, aut reus, timens quod episco 
+   <lb ed="#B" n="34"/>pus sit contra se processurus vt se puniat: ipsum 
+   <lb ed="#B" n="35"/>adeat dicendo ei crimen illud in confessione vt po 
+   <lb ed="#B" n="36"/>nam euadat: episcopus dicet ei. hoc peccatum nor 
+   <lb ed="#B" n="37"/>recipio sub sigillo confessionis seruandum: nam super 
+   <lb ed="#B" n="38"/>hoc publice accusaris. bene tamen facis scelus confiten 
+   <lb ed="#B" n="39"/>do. Et debet eum episcopus a culpa absoluere: quo 
+   <lb ed="#B" n="40"/>non obstante poterit contra eum inquirere, &amp; eum conui 
+   <lb ed="#B" n="41"/>ctum punire secundum exigentiam delicti. vt patet per non 
+   <lb ed="#B" n="42"/>in ca. De his. de accusa. &amp;. xxxiii. q. ii. ca. Admo 
+   <lb ed="#B" n="43"/>nere. Licet etiam episcopus non protestatus fuerit se 
+   <lb ed="#B" n="44"/>hoc non accepisse sub sigillo secreti seruandum: pon 
+   <lb ed="#B" n="45"/>nihilominus illud peccatum audire vt confessor: &amp; 
+   <lb ed="#B" n="46"/>eum absoluere: &amp; vltra hoc tamquam iudex procedere ad 
+   <lb ed="#B" n="47"/>correctionem eius qui delictum comisit: nullum respe 
+   <lb ed="#B" n="48"/>ctum habendo ad illam confessionem. Sed si solum sciat 
+   <lb ed="#B" n="49"/>delictum per confessionem: nullo modo potest
+   proce<lb ed="#B" n="50" break="no"/>dere ad punitionem aliam a poenitentia fori inte 
+   <lb ed="#B" n="51"/>rioris &amp; secreti. 
+  </p>
+      <p xml:id="jMqv4a-d1e1077-d1e841">
+       <lb ed="#B" n="52"/>⁋ Sexto arguitur. ponatur confitens 
+   <lb ed="#B" n="53"/>abscindens presbyteri bursam in confessione: si te 
+   <lb ed="#B" n="54"/>neatur tacere hoc in confessione acceptum: carebit 
+   <!--0438.xml-->
+   <cb ed="#B" n="b"/> 
+       <!-- 203-v b -->
+       <lb ed="#B" n="55"/>sua pecunia: quod non videtur dicendum. ergo detege 
+   <lb ed="#B" n="56"/>re potest illud crimen occultum.
+  </p>
+      <p xml:id="jMqv4a-d1e1077-d1e861">
+   ⁋ Respondetur. aut  
+   <lb ed="#B" n="57"/>confitens confitetur de hoc quod bursam sacerdotis 
+   <lb ed="#B" n="58"/>abstulit: aut non: sed presbyter id alia via deprehen 
+   <lb ed="#B" n="59"/>dit. si secundum: presbyter potest illud reuelare: siue 
+   <lb ed="#B" n="60"/>eum deprehendit tempore quo furtum commisit siue non 
+   <lb ed="#B" n="61"/>sed postea. ratio est: quia non habet illud in
+   confes<lb ed="#B" n="62" break="no"/>sione detectum: licet tempore confessionis bursam
+   al<lb ed="#B" n="63" break="no"/>ter abstulerit. si primum, hoc est dupliciter: aut cum 
+   <lb ed="#B" n="64"/>hoc praesbyter alia via per indicium a sensibus acceptum 
+   <lb ed="#B" n="65"/>hoc deprehendit: puta per tactum, vel visum: aut solum 
+   <lb ed="#B" n="66"/>per confessionem. si primum, patet solutio ex argumen 
+   <lb ed="#B" n="67"/>to immediate praecedenti. si secundum, vtpote si facta con 
+   <lb ed="#B" n="68"/>fessione sacerdote parato absoluere, confitens
+   di<lb ed="#B" n="69" break="no"/>cat, expecta domine curate: adhuc remanet vnum pec 
+   <lb ed="#B" n="70"/>catum confitendum, furatus sum tibi bursam tuam:
+   com<lb ed="#B" n="71" break="no"/>fiteor illam culpam: &amp; nolo pronunc restituere: illud
+   men<lb ed="#B" n="72" break="no"/>brum est magis ambiguum: &amp; hincinde possunt esse 
+   <lb ed="#B" n="73"/>rationes oppositae. sed opinione mea illic tacendum 
+   <lb ed="#B" n="74"/>est: nec restat alia via presbytero nisi eum admonem 
+   <lb ed="#B" n="75"/>do vt restituat / vel postea in generali admonendo,  
+   <lb ed="#B" n="76"/>&amp; excommunicando in generali: vel clanculum capien 
+   <lb ed="#B" n="77"/>do de rebus istius furis si potest. Sed si confiteatur se 
+   <lb ed="#B" n="78"/>habere equum vel anseres praesbyteri: potest confessor 
+   <lb ed="#B" n="79"/>simulata opportunitate facere iter per loca illa: &amp; 
+   <lb ed="#B" n="80"/>habere viam in foro exteriori ad equum: &amp; ipsum
+   au<lb ed="#B" n="81" break="no"/>ferre, si inueniat: ac sibi vendicare. sicut diximus in  
+   <lb ed="#B" n="82"/>solutione ad argumentum de ingrediente nemus: 
+   <lb ed="#B" n="83"/>Sed dicis. dummodo confitens non confiteatur de abla 
+   <lb ed="#B" n="84"/>tione bursae, presbyter potest inquirere in foro ex 
+   <lb ed="#B" n="85"/>teriore de bursa vt diximus. sed ponamus quod con 
+   <lb ed="#B" n="86"/>fitens dicat: licet sit falsum: quod hoc ei reuelauit in con 
+   <lb ed="#B" n="87"/>fessione, &amp; quod presbyter sit reuelator confessionis. 
+   <lb ed="#B" n="88"/>Hic quaeritur cui credendum sit vtrobique: quando
+   praesby<lb ed="#B" n="89" break="no"/>ter dicit se scire casum aliunde quam per confessionem: &amp; 
+   <lb ed="#B" n="90"/>confitens dicit oppositum. Respodetur. in talibus 
+   <lb ed="#B" n="91"/>omnibus si confitens imponat confessori quod aliquid 
+   <lb ed="#B" n="92"/>reuelauerit quod probare non potest: illic standum 
+   <lb ed="#B" n="93"/>est. cum enim actor contra reum nihil probat, reus 
+   <lb ed="#B" n="94"/>absoluendus est ab impetitione accusantis. si
+   ve<lb ed="#B" n="95" break="no"/>ro constet quod confessor crimen reuelet: sed dicit se 
+   <lb ed="#B" n="96"/>extraiconfessionem illud intellexisse: si non probet 
+   <lb ed="#B" n="97"/>illud, praesumitur in confessione audiuisse, no tamen 
+   <lb ed="#B" n="98"/>debet puniri (cum non sit conuictus) poena sta 
+   <lb ed="#B" n="99"/>tuta in cap. Omnis. de poenitem. &amp; remiss. sed ad 
+   <lb ed="#B" n="100"/>arbitrium iudicis. 
+  </p>
+      <p xml:id="jMqv4a-d1e1077-d1e959">
+       <lb ed="#B" n="101"/>⁋ Septimo: supponatur sicut
+   mo<lb ed="#B" n="102" break="no"/>ris est, prius quam Sortes &amp; Berta matrimonium
+   con<lb ed="#B" n="103" break="no"/>trahunt, confitentur curato: in qua confessione curatus 
+   <lb ed="#B" n="104"/>intelligit aliquod impedimentum gratia cuius nor 
+   <lb ed="#B" n="105"/>potest inter ipsos contrahi matrimonium, vtpote 
+   <lb ed="#B" n="106"/>affinitatem ob fornicationem occultam commissam: vi 
+   <lb ed="#B" n="107"/>in argumento praecedenti tetigimus. tunc sic: vel
+   sacer<lb ed="#B" n="108" break="no"/>dos complebit matrimonium: &amp; sic cooperatur pec- 
+   <!--0439.xml-->
+   <pb ed="#B" n="204-r"/>
+       <cb ed="#B" n="a"/>
+       <lb ed="#B" n="1"/>cato eorum: quia scit non esse matrimonium: &amp; per 
+   <lb ed="#B" n="2"/>consequens quod peccant manendo simul: &amp; quod
+   commit<lb ed="#B" n="3" break="no"/>titur simplex fornicatio vel incestus. ponatur quod sit 
+   <lb ed="#B" n="4"/>inhabilis persona contrahens. si non compleat
+   matri<lb ed="#B" n="5" break="no"/>monium: oportet ostendere causam: &amp; nullam inueniet 
+   <lb ed="#B" n="6"/>nisi reuelet casum hunc in confessione auditum 
+   <lb ed="#B" n="7"/>ergo secretum in confessione auditum licet publice 
+   <lb ed="#B" n="8"/>detegere.
+  </p>
+      <p xml:id="jMqv4a-d1e1077-d1e1003">
+   ⁋ Ad septimum dico quod admisso casu 
+   <lb ed="#B" n="9"/>presbyter debet facere quantum in se est: vt persona 
+   <lb ed="#B" n="10"/>ratione cuius prouenit impedimentum, non contrahat: &amp; 
+   <lb ed="#B" n="11"/>aliquam honestam excusationem contrahendi effingat. 
+   <lb ed="#B" n="12"/>quod si desistere noluerit: debet sacerdos si est
+   cura<lb ed="#B" n="13" break="no"/>tus ad quem spectat officium eos coniungendi, pro eo 
+   <lb ed="#B" n="14"/>tempore eos coniungere matrimoio. &amp; nego quod eorum pec 
+   <lb ed="#B" n="15"/>catis cooperetur vbi facit quod in se est ad hoc vt 
+   <lb ed="#B" n="16"/>non contrahant: &amp; displicet ei quod contrahant: sed quia non 
+   <lb ed="#B" n="17"/>habet excusatione in foro exteriori quare no
+   de<lb ed="#B" n="18" break="no"/>beat contrahi matrimonium: eos cmuniungit. &amp; ita ad si 
+   <lb ed="#B" n="19"/>miles casus dicendum est. 
+  </p>
+      <p xml:id="jMqv4a-d1e1077-d1e1030">
+       <lb ed="#B" n="20"/>⁋ Octauo: ponatur quod Sortes absol 
+   <lb ed="#B" n="21"/>uit aliquem in confessione, hoc est fecit more
+   absol<lb ed="#B" n="22" break="no"/>uentis: sed peccauit / absoluendo quem absoluere ne 
+   <lb ed="#B" n="23"/>quibat. ponatur epscous qui simoniace episcopatum
+   ha<lb ed="#B" n="24" break="no"/>buit: quem ab hoc absoluit. intelligens postea se ma 
+   <lb ed="#B" n="25"/>le egisse: non potest confiteri peccata sua nisi hoc
+   pec<lb ed="#B" n="26" break="no"/>tum detegat quod est in confessione auditum: ponatur quod 
+   <lb ed="#B" n="27"/>sit suspicio de epso ipsum esse simoniace promotus 
+   <lb ed="#B" n="28"/>&amp; constet de illo sacerdote quod eum audiuerit &amp;c.
+   po<lb ed="#B" n="29" break="no"/>ne omnia qua casum promouent.
+  </p>
+      <p xml:id="jMqv4a-d1e1077-d1e1054">
+   ⁋ Respondetur: si similis 
+   <lb ed="#B" n="30"/>casus euenerit, quarat sacerdos confessorem qui de illo 
+   <lb ed="#B" n="31"/>casu nihil nouit, &amp; qui iudicio verosimillimo ni 
+   <lb ed="#B" n="32"/>hil vnquam postea super hoc intelliget: qualem si non pos 
+   <lb ed="#B" n="33"/>sit inuenire, quia forte est claudus, vel in carcere 
+   <lb ed="#B" n="34"/>detentus vel proxime moriturus: &amp; non possit
+   confi<lb ed="#B" n="35" break="no"/>teri suam culpa: quin alium prodat: in illo casu non tene 
+   <lb ed="#B" n="36"/>tur illud peccatum confiteri. nam praeceptum est affirmati 
+   <lb ed="#B" n="37"/>uum confiteri singula peccata pro loco solum &amp; tempore. 
+   <lb ed="#B" n="38"/>Vbi enim occurrit fortius vinculum: vtpote de oc 
+   <lb ed="#B" n="39"/>culto in confessione detecto seruando: non tenetur
+   vl<lb ed="#B" n="40" break="no"/>lo pacto hoc confiteri. multa enim concurrunt ad hoc 
+   <lb ed="#B" n="41"/>videlicet seruare peccatum secretum episcopi:
+   serua<lb ed="#B" n="42" break="no"/>re secretum in confessione auditum. Sed contra hoc
+   in<lb ed="#B" n="43" break="no"/>sto. ergo si quis cognouit suam filiam vt Loth, vel 
+   <lb ed="#B" n="44"/>sororem: non potest vnquam super hoc confiteri: quia personam 
+   <lb ed="#B" n="45"/>cum qua peccauit detegeret contra ius naturae.
+   Re<lb ed="#B" n="46" break="no"/>spondetur. hic casus est ambiguus, non enim sufficit 
+   <lb ed="#B" n="47"/>dicere, cognoui consanguineam: quia cognoscere 
+   <lb ed="#B" n="48"/>sororem est multo grauius peccatum quam cognoscere 
+   <lb ed="#B" n="49"/>aliquam in quarto gradu consanguinitatis. Dicis. si 
+   <lb ed="#B" n="50"/>habeat filiam / sorore / &amp; matrem, sufficit dicere,
+   co<lb ed="#B" n="51" break="no"/>gnoui vnam in primo gradu consanguinitatis: quia 
+   <lb ed="#B" n="52"/>quaelibet illarum trium est in eodem gradu
+   consanguini<lb ed="#B" n="53" break="no"/>tatis. Contra hoc argumentor. grauius est
+   pecca<lb ed="#B" n="54" break="no"/>tum cognoscere mulierem in linea recta quam collaterali 
+   <!--0439.xml-->
+   <cb ed="#B" n="b"/> 
+       <!-- 204-r b -->
+       <lb ed="#B" n="55"/>&amp; in linea recta grauius est peccatum cognoscere 
+   <lb ed="#B" n="56"/>mulierem in linea ascendente quam descendente: &amp; circumstam 
+   <lb ed="#B" n="57"/>tia mortaliter aggrauans est confitenda de necessita 
+   <lb ed="#B" n="58"/>te salutis ex. xvii. distinctione huius. igitur. Item 
+   <lb ed="#B" n="59"/>hoc non soluit argumentum. ponatur nec habere
+   soro<lb ed="#B" n="60" break="no"/>rem nec filiam: iam in confessione oportet personam cum 
+   <lb ed="#B" n="61"/>qua peccauit per circumstantias primi gradus detege 
+   <lb ed="#B" n="62"/>re. Respondetur. hic est difficultas. de secreto in con 
+   <lb ed="#B" n="63"/>fessione iam respondimus. sed an idem sit iudicium in  
+   <lb ed="#B" n="64"/>sigillo secreti, prima fronte non constat. dico quod
+   con<lb ed="#B" n="65" break="no"/>fitens debet petere facultatem a curato vt alteri confi 
+   <lb ed="#B" n="66"/>teatur: &amp; debet proficisci in regionem distantem vt
+   con<lb ed="#B" n="67" break="no"/>fessorem habeat qui matrem confitentis non cognoscat: 
+   <lb ed="#B" n="68"/>nec verosimiliter in vita est cognosciturus. Sed 
+   <lb ed="#B" n="69"/>vbi persona confitens esset persona publica: &amp; illud fie 
+   <lb ed="#B" n="70"/>ri non posset, est maior difficultas. Sed communis 
+   <lb ed="#B" n="71"/>doctorum sententia in hoc convenit: a qua impruden 
+   <lb ed="#B" n="72"/>tis est decedere, quod debet personam reuelare cum qua  
+   <lb ed="#B" n="73"/>peccauit: &amp; peccatum occultum alterius detegere: quia 
+   <lb ed="#B" n="74"/>dicit solum illi qui potest prodesse &amp; non obesse: &amp; qui 
+   <lb ed="#B" n="75"/>iure naturae tenetur hoc occultum peccatum seruare
+   se<lb ed="#B" n="76" break="no"/>cretum: quemadmodum in correptione fraterna licite pec 
+   <lb ed="#B" n="77"/>catum occultum reseratur illi qui potest prodesse. multis enim 
+   <lb ed="#B" n="78"/>modis peccatum occultum fratris licite reuelamus. 
+   <lb ed="#B" n="79"/>vt patet ex quaestione praecedente, &amp; in correptione fra 
+   <lb ed="#B" n="80"/>terna. lstud enim peccatum resero pro mei correctione 
+   <lb ed="#B" n="81"/>spirituali quam confessor mihi ministrabit. lste ergo  
+   <lb ed="#B" n="82"/>non est casus diuidendae confessionis: vel non confitedi 
+   <lb ed="#B" n="83"/>integre peccata. 
+  </p>
+      <p xml:id="jMqv4a-d1e1077-d1e1180">
+       <lb ed="#B" n="84"/>⁋ Nono arguitur. si iudex tyrannus 
+   <lb ed="#B" n="85"/>cogat confessorem respondere: an in confessione
+   audi<lb ed="#B" n="86" break="no"/>tus tale crimen commisit: &amp; sit ita quod ipsum commisit: si 
+   <lb ed="#B" n="87"/>dicat nescio: falsum dicit. nam bene sequitur. scit illud 
+   <lb ed="#B" n="88"/>crimen in confessione: ergo ipsum scit. si dicat, scio: est 
+   <lb ed="#B" n="89"/>proditor confessionis. si taceat: habebitur ille de 
+   <lb ed="#B" n="90"/>quo quaeritur convictus.
+  </p>
+      <p xml:id="jMqv4a-d1e1077-d1e1198">
+   ⁋ Respondetur sicut in quaestione
+   prae<lb ed="#B" n="91" break="no"/>cedente respondimus: quia licet sigillum secreti ab aliqui 
+   <lb ed="#B" n="92"/>bus reuocetur in dubium: non tamen hic ab aliquo. dicet co 
+   <lb ed="#B" n="93"/>fessor, nescio: intelligens ad tibi significandum. &amp; sem 
+   <lb ed="#B" n="94"/>per hoc in mente intelliget. Et quando argumentaris. bene 
+   <lb ed="#B" n="95"/>sequitur: scit illud in confessione: ergo scit illud. &amp; di 
+   <lb ed="#B" n="96"/>cit se nescire illud: ergo duo contradictoria sunt 
+   <lb ed="#B" n="97"/>ab illo concedenda. Respondetur. illa non contradicunt. 
+   <lb ed="#B" n="98"/>scit illud: &amp; nescit illud ad tibi significandum: quia non 
+   <lb ed="#B" n="99"/>habent eadem praedicata mentaliter, quod ad veram contradi 
+   <lb ed="#B" n="100"/>ctionem requiritur. Et si dicat tyrannus. responde ad hanc, non 
+   <lb ed="#B" n="101"/>scio illum tale crimen commisisse: si illam concedis: cum
+   com<lb ed="#B" n="102" break="no"/>tradictoria sit vera: duo contradictoria sunt vera. 
+   <lb ed="#B" n="103"/>quod illi contradicat, patet: quia non est verius contradice 
+   <lb ed="#B" n="104"/>re quam toti propositioni negationem anteferre: si nulla 
+   <lb ed="#B" n="105"/>ponatur in fronte. vel etiam si ponatur: non curando  
+   <lb ed="#B" n="106"/>de superfluitate. Respondetur. cum proterue argu 
+   <lb ed="#B" n="107"/>menteris proteruam mereris solutionem, nego illam
+   re<lb ed="#B" n="108" break="no"/>gulam vniuersaliter, non est verius contradicere quam to 
+   <!--0440.xml-->
+   <pb ed="#B" n="204-v"/>
+       <cb ed="#B" n="a"/>
+       <lb ed="#B" n="1"/>ti propositioni negationem praeponere. nam eius falsitas 
+   <lb ed="#B" n="2"/>patet hic. a. homo non est animal: non a. homo non  
+   <lb ed="#B" n="3"/>est animal. &amp; hominis a. asinus quodlibet rudibile est. si 
+   <lb ed="#B" n="4"/>a. confundat confuse tantenu terminum immediate sequentem. 
+   <lb ed="#B" n="5"/>contradictoria ergo istius: non scio ad tibi significam 
+   <lb ed="#B" n="6"/>dum, est haec. scio ad tibi significandum. quae est falsa 
+   <lb ed="#B" n="7"/>capiendo (significandum) nominaliter vt tantum
+   va<lb ed="#B" n="8" break="no"/>leat quantum dignum significari. participialiter autem 
+   <lb ed="#B" n="9"/>non facit ad propositum. 
+  </p>
+      <p xml:id="jMqv4a-d1e1077-d1e1266">
+       <lb ed="#B" n="10"/>⁋ Decimo arguitur. sciam ego aliquem 
+   <lb ed="#B" n="11"/>in confessione excommunicatum: teneor ab illo
+   aufu<lb ed="#B" n="12" break="no"/>gere: &amp; sic sum proditor peccati in confessione audi 
+   <lb ed="#B" n="13"/>ti.
+  </p>
+      <p xml:id="jMqv4a-d1e1077-d1e1277">
+   ⁋ Respondetur. si alter sit in publico: nullo modo 
+   <lb ed="#B" n="14"/>ab eo aufugiam. in secreto autem si mihi appropinqunt 
+   <lb ed="#B" n="15"/>est maior difficultas: &amp; illa pars mihi placet etiam 
+   <lb ed="#B" n="16"/>quod possum cum illo manere. ratio est: quia debeo eo 
+   <lb ed="#B" n="17"/>dem modo agere ac si nihil scirem: &amp; si nihil sciam /
+   po<lb ed="#B" n="18" break="no"/>sum cum ipso manere. In super propter illud positiutum 
+   <lb ed="#B" n="19"/>de excommunicatione non debeo isti dare
+   occasio<lb ed="#B" n="20" break="no"/>nem timendi me de hoc quod in confessione scio. nam si 
+   <lb ed="#B" n="21"/>hunc in secreto euitarem, essem proditor secreti confes 
+   <lb ed="#B" n="22"/>sionis, respectu eius a quo aufugio. eodem ergo 
+   <lb ed="#B" n="23"/>modo me habebo in occulto cum illo quem audiui in  
+   <lb ed="#B" n="24"/>confessione, quo ante confessionem. ca. autem. Cum non ab 
+   <lb ed="#B" n="25"/>homine. de sentem. exconi. intelligitur: quando scio alia 
+   <lb ed="#B" n="26"/>via in secreto quam per confessionem. 
+  </p>
+      <p xml:id="jMqv4a-d1e1077-d1e1309">
+       <lb ed="#B" n="27"/>⁋ Vndecimo arguitur. confitens potest 
+   <lb ed="#B" n="28"/>reuelare in confessione audita: ergo &amp; confessor.
+   te<lb ed="#B" n="29" break="no"/>net consequentia: quia fortiori vinculo tenetur seruare 
+   <lb ed="#B" n="30"/>illa per quae fama sua denigratur quam confessor.
+  </p>
+      <p xml:id="jMqv4a-d1e1077-d1e1320">
+   ⁋ Respondetur. 
+   <lb ed="#B" n="31"/>consequentia est nulla: na fortiori vinculo confessor 
+   <lb ed="#B" n="32"/>obligatur: quia difficilius est peccatum alterius celare 
+   <lb ed="#B" n="33"/>quam proprium. &amp; ex vno non dabitur occasio abstrahend 
+   <lb ed="#B" n="34"/>homines a confessione sicut ex altero. etiam nego
+   ante<lb ed="#B" n="35" break="no"/>cedens. Vnde triplicia sunt illa quae audiuntur in
+   confes<lb ed="#B" n="36" break="no"/>sione. quaedam sunt reseratiua culpae confitentis,
+   dire<lb ed="#B" n="37" break="no"/>cte vel indirecte. Quaedam sunt quae possunt esse in prae 
+   <lb ed="#B" n="38"/>iudicium confessoris: vtpote si praecipiat mulieri
+   impu<lb ed="#B" n="39" break="no"/>dicae abstinere a societate italis lasciui: &amp; ille hoc 
+   <lb ed="#B" n="40"/>sciat: posset nocere confessori. Tertia sunt quae nec 
+   <lb ed="#B" n="41"/>sunt in praeiudicium confessoris nec confitentis: vt
+   dicen<lb ed="#B" n="42" break="no"/>do. iniugitur mihi in poenitentiam dicere has praeces vel 
+   <lb ed="#B" n="43"/>illas. peccatum est duo prima reserare: &amp; bonum est &amp; 
+   <lb ed="#B" n="44"/>expediens etiam tertium celare: licet homo ad hoc non 
+   <lb ed="#B" n="45"/>obligetur.
+  </p>
+      <p xml:id="jMqv4a-d1e1077-d1e1355">
+   ⁋ Epilogando sparsim dicta / patet quod 
+   <lb ed="#B" n="46"/>secretissimum debet esse sigillum confessionis, nec con 
+   <lb ed="#B" n="47"/>fitens laudandus est, nec vituperandus. Duorum autem 
+   <lb ed="#B" n="48"/>in confessione auditorum vnum laudando de altero 
+   <lb ed="#B" n="49"/>tacendo: vnum noto, quod enim de vno negatur: dei alio 
+   <lb ed="#B" n="50"/>concedi intelligitur. ca. Nonne. de praesump. Bonum 
+   <lb ed="#B" n="51"/>autem virum cuius confessionem frequenter. audiui: post 
+   <lb ed="#B" n="52"/>mortem possum laudare: dicendo quod mortuus est in  
+   <lb ed="#B" n="53"/>corruptus vel huiusmodi: dummodo aliter auditos 
+   <lb ed="#B" n="54"/>non notem: quia aliquos laudare &amp; non alios / est indi- 
+   <!--0440.xml-->
+   <cb ed="#B" n="b"/> 
+       <!-- 204-v b -->
+       <lb ed="#B" n="55"/>recte alios notare. modo confessor debet caucre ne 
+   <lb ed="#B" n="56"/>detegat peccata in confessione audita directe ve 
+   <lb ed="#B" n="57"/>indirecte. Si autem sint aliqua ad peccata non
+   pertinen<lb ed="#B" n="58" break="no"/>tia: vt puta confitens recitat aliqua impertinentia: ex qui 
+   <lb ed="#B" n="59"/>bus nullo modo potest cuipiam constare de peccatis co 
+   <lb ed="#B" n="60"/>fitentis: de illis potest loqui: securius est tamen assuescere 
+   <lb ed="#B" n="61"/>de omnibus tacere. nam opinor illam esse vnam causarum, 
+   <lb ed="#B" n="62"/>quare Christus non admisit mulieres ad sacerdo 
+   <lb ed="#B" n="63"/>tium: quia propter sexum &amp; mollem complexionem nequirent 
+   <lb ed="#B" n="64"/>secretum celare. Vlterius notandum est quod is qui furem vel 
+   <lb ed="#B" n="65"/>alioquin sceleratum in confessione audit, proxime 
+   <lb ed="#B" n="66"/>suspendendum: etiansi ipsum opinetur innocentem non debet 
+   <lb ed="#B" n="67"/>pro eius vita intercedere: sed silere ac si nihil in hac 
+   <lb ed="#B" n="68"/>materia nouisset, nescit enim an illud crimen
+   subti<lb ed="#B" n="69" break="no"/>cuit, vt imprudens confessor de eo taceret. Praeter 
+   <lb ed="#B" n="70"/>ea si confitens imprudenter vel prudenter forte dicat 
+   <lb ed="#B" n="71"/>in confessione, se allici ab aliquo vel aliqua ad pec 
+   <lb ed="#B" n="72"/>candum: confessorem nihil posse dicere illi vt ipsum vel 
+   <lb ed="#B" n="73"/>psam ab huiusmodi peccato deterreat vel impediat: be 
+   <lb ed="#B" n="74"/>ne autem illi qui vel quae confitetur. Vltimo patet quod
+   incompa<lb ed="#B" n="75" break="no"/>rabiliter maius secretum est sigillum confessionis quai si 
+   <lb ed="#B" n="76"/>gillum secreti non confessionis. vnum enim null i
+   praece<lb ed="#B" n="77" break="no"/>pto dat locum: alterum vero aliquibus: vt in quaestione prae 
+   <lb ed="#B" n="78"/>cedenti: &amp; in hac disseruimus. Et licet in casu
+   ho<lb ed="#B" n="79" break="no"/>mo sit obligatus suum crimen occultum prodere: hoc 
+   <lb ed="#B" n="80"/>tamen non potest confessor facere. eodem autem modo te
+   ha<lb ed="#B" n="81" break="no"/>bebis erga auditum in confessione, ac si nihil mali 
+   <lb ed="#B" n="82"/>in eo cognosceres. Hoc quoque moneo, cum viri con 
+   <lb ed="#B" n="83"/>fessionem audis: non sis rigidus obiurgator eius: ne 
+   <lb ed="#B" n="84"/>eum a confessione deterreas: sed cum omni
+   humani<lb ed="#B" n="85" break="no"/>tate &amp; mansuetudine ei consulas: 
+  </p>
+    </div>
+   </body>
+  </text>
+</TEI>

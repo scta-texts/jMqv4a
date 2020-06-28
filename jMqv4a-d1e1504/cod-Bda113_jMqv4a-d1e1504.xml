@@ -1,0 +1,405 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 1</title>
+      <author ref="#JohnMair">John Mair</author>
+      <respStmt>
+       <name>Jeffrey C. Witt</name>
+       <resp>TEI Encoder</resp>
+      </respStmt>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 1</title>
+       <date when="2020-06-09">June 27, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="B" n="cod-Bda113">Badius 1516</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+     guidelines for a diplomatic edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-06-27" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+      <pb ed="#B" n="282-r"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="jMqv4a-d1e1504"> <!-- l4d33q1 -->
+      <head xml:id="jMqv4a-d1e1504-Hd1e104">Quaestio 1</head>
+      <head xml:id="jMqv4a-d1e1504-Hd1e107" type="question-title">An liceat vel licuerit unquam simul plures habere uxores</head>
+      <p xml:id="jMqv4a-d1e1504-d1e110">
+       <lb ed="#B" n="13"/>⁋ Distinctionis Trigesimaetertiae 
+   <lb ed="#B" n="14"/>Quaestio Prima. 
+   <lb ed="#B" n="15"/>Irca distinctio 
+   <lb ed="#B" n="16"/>nem trigesimam 
+   <lb ed="#B" n="17"/>tertiam in qua
+   ma<lb ed="#B" n="18" break="no"/>gister de vxorum 
+   <lb ed="#B" n="19"/>pluralitate loquitur 
+   <lb ed="#B" n="20"/>Quaeritur. an liceat 
+   <lb ed="#B" n="21"/>vel licuerit vnquam si 
+   <lb ed="#B" n="22"/>mul plures
+   habe<lb ed="#B" n="23" break="no"/>te vxores. Respon 
+   <lb ed="#B" n="24"/>detur per conclusio 
+   <lb ed="#B" n="25"/>nes: quarum prima 
+   <lb ed="#B" n="26"/>est. Licuit dispen 
+   <lb ed="#B" n="27"/>isante deo simul ha 
+   <lb ed="#B" n="28"/>bere plures vxores. Probatur haec conclusio sic.
+   ha<lb ed="#B" n="29" break="no"/>bere plures vxores, non est per se &amp; in se malum 
+   <lb ed="#B" n="30"/>sicut odium dei: ergo potest deo auctore bene fie 
+   <lb ed="#B" n="31"/>ri. Consequentia tenet: quia in omnibus talibus 
+   <lb ed="#B" n="32"/>potest deus dispensare. Secundo probatur idem 
+   <lb ed="#B" n="33"/>habere plures vxores non est contra ius naturae 
+   <lb ed="#B" n="34"/>propriissime acceptum, ergo in illo potest deus dis 
+   <lb ed="#B" n="35"/>pensare. Tertio. Viri optimi, famuli &amp; amici dei 
+   <lb ed="#B" n="36"/>familiatissimi habebant plures vxores. ergo illud  
+   <lb ed="#B" n="37"/>erat licitum. Consequentia haec est nota in lumine 
+   <lb ed="#B" n="38"/>naturali. Antecedens patet ex scriptura de
+   Abra<lb ed="#B" n="39" break="no"/>hamo qui habuit Saram &amp; Agar. de Iacob duas 
+   <lb ed="#B" n="40"/>sorores habente, scilicet Liam &amp; Rachelem cum 
+   <lb ed="#B" n="41"/>duabus earum ancillis: &amp; tempore legis de
+   Hel<lb ed="#B" n="42" break="no"/>cana habente Annam &amp; Fenennam. primi Regum 
+   <lb ed="#B" n="43"/>primo. de Dauide plures vxores habente. vt ex 
+   <lb ed="#B" n="44"/>primo Regum &amp; secundo notum est.
+  </p>
+      <p xml:id="jMqv4a-d1e1504-d1e182">
+   ⁋ Secunda 
+   <lb ed="#B" n="45"/>conclusio. admittere vnum virum simul habere 
+   <lb ed="#B" n="46"/>plures vxores sine dei dispensatione est contra 
+   <lb ed="#B" n="47"/>vtilitatem publicam. Probatur. Illud est contra 
+   <lb ed="#B" n="48"/>vtilitatem publicam quod lites, rapinas / &amp; vitia in  
+   <lb ed="#B" n="49"/>republica nutrit. sed sic est in vxorum
+   pluralita<lb ed="#B" n="50" break="no"/>te. igitur, consequentia est nota cum maiore.
+   mi<lb ed="#B" n="51" break="no"/>nor ostenditur. nam matrimonium propter
+   pro<lb ed="#B" n="52" break="no"/>lem quaeritur, pro pacifica cohabitatione viri &amp; 
+   <lb ed="#B" n="53"/>mulieris, pro domo, pueris, &amp; familia modetan  
+   <!--0595.xml-->
+   <cb ed="#B" n="b"/> 
+       <!-- 282-r b -->
+       <lb ed="#B" n="54"/>dis / &amp; pro acquirendis &amp; conseruandis bonis
+   for<lb ed="#B" n="55" break="no"/>tunae: licet primum per vxorum pluralitatem
+   me<lb ed="#B" n="56" break="no"/>lius acquiratur quam per earum singularitatem. aliorum 
+   <lb ed="#B" n="57"/>autem sequentium opposita prouenirent. Non enim 
+   <lb ed="#B" n="58"/>esset pacifica mulierum cohabitatio inter se: ac cum 
+   <lb ed="#B" n="59"/>marito lites &amp; iurgia haberent. quod patet exem 
+   <lb ed="#B" n="60"/>lo de famatis mulieribus in bonitate. quid erit 
+   <lb ed="#B" n="61"/>ergo in aliis? vide quanta fuerit inuidia inter Sa 
+   <lb ed="#B" n="62"/>ram &amp; Agar, postqui ipsa concepit. Genesis. xxi. 
+   <lb ed="#B" n="63"/>Rachelis in Liam, quia filios non habebat
+   Ra<lb ed="#B" n="64" break="no"/>chel vt Lia. Genesis. xxx. quanta Annae sterilis 
+   <lb ed="#B" n="65"/>in Fenennam foecundam. quanta Mariae ad Moy 
+   <lb ed="#B" n="66"/>sen propter Aethiopissam. Numeri. xii. Refert 
+   <lb ed="#B" n="67"/>beatus <name xml:id="jMqv4a-d1e1504-Nd1e240" ref="#Jerome">Hieronymus</name> contra louinianum / cum &amp;an 
+   <lb ed="#B" n="68"/>thippe &amp; Miro vxores Socratis crebro inter se iur 
+   <lb ed="#B" n="69"/>garent: &amp; ille eas esset solitus deridere quod propter 
+   <lb ed="#B" n="70"/>se foedissimum hominem, simis naribus, recalua 
+   <lb ed="#B" n="71"/>fronte, pilosis humeris, repandis cruribus
+   disce<lb ed="#B" n="72" break="no"/>ptarent: nouissime verterunt in eum impetum: &amp; ma 
+   <lb ed="#B" n="73"/>le multatum / fugientemque diu persecutae sunt.
+   Quomodo<lb ed="#B" n="74" break="no"/>dam cum infinita conuicia ex superiori loco in  
+   <lb ed="#B" n="75"/>gerenti Ranthippe restitisset: aqua perfusus
+   im<lb ed="#B" n="76" break="no"/>munda nihil amplius respondit quam capite deterso 
+   <lb ed="#B" n="77"/>Sciebam (inquit) futurum vt post ista tonitrua 
+   <lb ed="#B" n="78"/>imber subsequeretur. Ex his videre licet quae pax 
+   <lb ed="#B" n="79"/>futura sit vxorum inter se &amp; cum marito: visa 
+   <lb ed="#B" n="80"/>tarum impudentia. vnde Lactantius tertio insti. 
+   <lb ed="#B" n="81"/>diui. dicit, nunquam aliquam mulierem sciuisse
+   phi<lb ed="#B" n="82" break="no"/>losophiam nisi Themestem. Et Tertio Politicorum 
+   <lb ed="#B" n="83"/>ait <name xml:id="jMqv4a-d1e1504-Nd1e278" ref="#Aristotle">Aristoteles.</name> Si mulier sit eloquens, non est
+   vir<lb ed="#B" n="84" break="no"/>tuti ascribendum sed loquacitati. ac si diceret. Sua 
+   <lb ed="#B" n="85"/>pte natura mulier est loquax. Cuiconsonat
+   Ba<lb ed="#B" n="86" break="no"/>ptista in Bucolicis Aegloga quarta de muliere 
+   <lb ed="#B" n="87"/>loquens. Et lepor in molli radiat meretricius ore. 
+   <lb ed="#B" n="88"/>Elet, ridet, sapit, insanit, formidat, &amp; audet. Vult 
+   <lb ed="#B" n="89"/>non vult: secumque sibi contraria pugnat.
+   Mobi<lb ed="#B" n="90" break="no"/>lis / inconstans / vaga, garrula / vana / bilinguis: Im 
+   <lb ed="#B" n="91"/>periosa / minax / indignabunda / cruenta i Improba 
+   <lb ed="#B" n="92"/>auara / rapax / querula / inuida / credula / mendax. &amp; 
+   <lb ed="#B" n="93"/>paulopost. Seminat in vulgus nugas: auditaque 
+   <lb ed="#B" n="94"/>lingua Auget: &amp; ex humili tumulo producit olym 
+   <lb ed="#B" n="95"/>pum. Dissimulat / simulat, doctissima fingere
+   cau<lb ed="#B" n="96" break="no"/>sas, Ordirique dolos: fraudique accommodat ora. 
+   <lb ed="#B" n="97"/>Hinc mulier testimonium ferre prohibetur in
+   cau<lb ed="#B" n="98" break="no"/>sa criminali. de verbo. significa. in. c. Forus. vbi 
+   <lb ed="#B" n="99"/>dicitur. Nam varium &amp; mutabile testimonium 
+   <lb ed="#B" n="100"/>semper foemina producit. Et glossa illic versus 
+   <lb ed="#B" n="101"/>ponit. Quid leuius fumo? flame. Quid flamine?s 
+   <lb ed="#B" n="102"/>ventus. Quid vento? mulier. Quid muliere? nihil. 
+   <lb ed="#B" n="103"/>Cum igitur istae sint mulierum conditiones: quomodo 
+   <lb ed="#B" n="104"/>morabitur aliquis in pace cum eis? Et cum sint 
+   <lb ed="#B" n="105"/>natura auarae / vt Seneca in libro Declamati. dicit 
+   <lb ed="#B" n="106"/>colligerent pro se &amp; suis liberis: &amp; maritum bonis 
+   <lb ed="#B" n="107"/>fortunae spoliarent: potissimum vbi curam habe 
+   <lb ed="#B" n="108"/>rent familiae, quemadmodum habent in magna parte 
+   <!--0596.xml-->
+   <pb ed="#B" n="282-v"/>
+       <cb ed="#B" n="a"/>
+       <lb ed="#B" n="1"/>Europae: vbi in domibus non concluduntur. Cum igitur haec 
+   <lb ed="#B" n="2"/>incommoda contingant: contra vtilitatem
+   publi<lb ed="#B" n="3" break="no"/>cam humanam est plures habere vxores. Lege 
+   <lb ed="#B" n="4"/>iutem ciuili eum qui binas habebat vxores concomi 
+   <lb ed="#B" n="5"/>tabatur infamia. C. ad. l. Iul. de adul. l. Eum qui bi 
+   <lb ed="#B" n="6"/>nas. Et Genesis. iiii. de Lamech scribitur. Qui acce 
+   <lb ed="#B" n="7"/>pit duas vxores, quod non sine sale adiectum est. 
+   <lb ed="#B" n="8"/>vbi glossa interlinearis. Primus contra naturam 
+   <lb ed="#B" n="9"/>&amp; morem / adulterium committens. Adde quod
+   vxo<lb ed="#B" n="10" break="no"/>rum multitudo non facit amicitiam in republica 
+   <lb ed="#B" n="11"/>inter affines, non inter socerum &amp; generum. nam
+   lic<lb ed="#B" n="12" break="no"/>Bocchus lugurthae filiam haberet vxorem: lugur 
+   <lb ed="#B" n="13"/>tham Syllae dolo tradidit. Dat causam Sallustius 
+   <lb ed="#B" n="14"/>in lugurtha quare mulier in Aphrica non annectit 
+   <lb ed="#B" n="15"/>duas domos in charitate / dicens id esse propterea 
+   <lb ed="#B" n="16"/>quod Numidae &amp; Mauritani tot habent vxores / quot 
+   <lb ed="#B" n="17"/>alere queunt.
+  </p>
+      <p xml:id="jMqv4a-d1e1504-d1e380">
+   ⁋ Tertia conclusio. Nullo modo licet 
+   <lb ed="#B" n="18"/>in lege gratiae plures tenere vxores. Probatur ex 
+   <lb ed="#B" n="19"/>verbo Christi Matthaei. xix. Quicumque dimiserit 
+   <lb ed="#B" n="20"/>vxorem suam nisi ob fornicationem: &amp; aliam duxerit 
+   <lb ed="#B" n="21"/>moechatur. Si enim dimissa vxore non licet aliam 
+   <lb ed="#B" n="22"/>ducere: multo magis nec ipsa retenta. Secundo pro 
+   <lb ed="#B" n="23"/>batur idem: per rationes Innocentii tertii in. c.
+   Gau<lb ed="#B" n="24" break="no"/>demus. de diuor. S. Quia vero pagani. Christus 
+   <lb ed="#B" n="25"/>siquidem, reduxit matrimonium ad primariam institutio 
+   <lb ed="#B" n="26"/>nem quando dixit. Ab initio autem non fuit sic. Sa 
+   <lb ed="#B" n="27"/>Adae dictum est. Erunt duo in carne vna: non tres 
+   <lb ed="#B" n="28"/>vel quatuor. &amp; Adhaerebit vir vxori suae: non vxo 
+   <lb ed="#B" n="29"/>ribus suis. Nulli enim vnquam licuit simul plures vxo 
+   <lb ed="#B" n="30"/>res habere: nisi cui fuit diuina reuelatione concessum. 
+  </p>
+      <p xml:id="jMqv4a-d1e1504-d1e411">
+       <lb ed="#B" n="31"/>⁋ Contra primam conclusionem arguitur 
+   <lb ed="#B" n="32"/>Nunquam licuit vni mulieri habere plures viros:
+   er<lb ed="#B" n="33" break="no"/>go nec vni viro plures habere vxores. Dicis.
+   con<lb ed="#B" n="34" break="no"/>sequentia est nulla. nam vir vnus in pauco tempore potest
+   plu<lb ed="#B" n="35" break="no"/>res impregnare mulieres: sed plures viri non ipsgna 
+   <lb ed="#B" n="36"/>rent vnam. Contra. contingit vnum virum esse frigidum. 
+   <lb ed="#B" n="37"/>Si dicas tunc posse esse diuortium: oppono. pot
+   co<lb ed="#B" n="38" break="no"/>gnoscere mulierem: sed erit ineptus ad generandum 
+  </p>
+      <p xml:id="jMqv4a-d1e1504-d1e431">
+       <lb ed="#B" n="39"/>⁋ Respondetur. inter arguendum discrimen tactum 
+   <lb ed="#B" n="40"/>est. fateor tamen quod deus poterat cum vtroque dispensare 
+   <lb ed="#B" n="41"/>quod sicut vir potuit plures vxores habere: ita vna 
+   <lb ed="#B" n="42"/>mulier dispesante deo potuerit plures habere vi 
+   <lb ed="#B" n="43"/>ros. sed vnum est magis cogruum qui aliud. nam be
+   plu<lb ed="#B" n="44" break="no"/>res vxores concitarent lites &amp; rixas mutuas, &amp; sequaeren 
+   <lb ed="#B" n="45"/>tur mala in probatione secundae conclusionis allata:
+   plu<lb ed="#B" n="46" break="no"/>ra tamen sequerentur abominanda inter viros: qui se mu 
+   <lb ed="#B" n="47"/>tuo ferro confoderent: vbi mulieres solum litigant: &amp; 
+   <lb ed="#B" n="48"/>ex instabilitate ad pacem redeunt, non sic aut viri. 
+  </p>
+      <p xml:id="jMqv4a-d1e1504-d1e455">
+       <lb ed="#B" n="49"/>⁋ Secundo arguitur. quin <name xml:id="jMqv4a-d1e1504-Nd1e459" ref="#Abraham">Abraham</name> contraxit cum
+   Sa<lb ed="#B" n="50" break="no"/>ra / ipsa habebat dominium corporis ipsius
+   Abra<lb ed="#B" n="51" break="no"/>hae. ergo <name xml:id="jMqv4a-d1e1504-Nd1e466" ref="#Abraham">Abraham</name> non poterat dare dominium 
+   <lb ed="#B" n="52"/>sui corporis alteri: cum iam datum esset Sarae. In super 
+   <lb ed="#B" n="53"/>poterant ambae simul debitum coniugale petere: &amp; 
+   <lb ed="#B" n="54"/>non poterat vtrique simul satisfacere: ergo naeutri 
+   <!--0596.xml-->
+   <cb ed="#B" n="b"/> 
+       <!-- 282-v b -->
+       <lb ed="#B" n="55"/>contra dicta in distinctionibus immediate praeceden 
+   <lb ed="#B" n="56"/>tibus, nec est maior ratio quare debitum
+   exolue<lb ed="#B" n="57" break="no"/>ret vni potius quam alteri. igitur.
+  </p>
+      <p xml:id="jMqv4a-d1e1504-d1e490">
+   ⁋ Respondetur ad  
+   <lb ed="#B" n="58"/>primum quod Abrahamus cosentiente Sara dedit do  
+   <lb ed="#B" n="59"/>minium partiale sui corporis ipsi Agar. Genesis 
+   <lb ed="#B" n="60"/>xvi. &amp;. xxxii. qui. iiii. Dixit Sara ad Abraham. Ec 
+   <lb ed="#B" n="61"/>ce conclusit me dominus ne parerem: ingredere ad ancil 
+   <lb ed="#B" n="62"/>lam meam: si forte saltem ex illa suscipiam filios. Simiter 
+   <lb ed="#B" n="63"/>forte Rachel consensit quod Iacob duceret Liam pro 
+   <lb ed="#B" n="64"/>pter consuetudinem Mesopotamiae ne minor natu 
+   <lb ed="#B" n="65"/>nuberet ante maiorem natu accepit autem Balam 
+   <lb ed="#B" n="66"/>&amp; Selpham ex consensu Liae &amp; Rachelis. Gene 
+   <lb ed="#B" n="67"/>seos. xxx. &amp; sic introducta est consuetudo ex com 
+   <lb ed="#B" n="68"/>sensu expresso vel tacito prioris vxoris / accipiens 
+   <lb ed="#B" n="69"/>di secunda vxorem. modo scienti &amp; volenti non fit
+   iniu<lb ed="#B" n="70" break="no"/>tia. v. Ethicorum. Deus tamen poterat dare facultatem viro du 
+   <lb ed="#B" n="71"/>cendi secundam, priore repugnante. vtraque ergo vxo 
+   <lb ed="#B" n="72"/>rum habebat dominium corporis mariti. Ad secundum 
+   <lb ed="#B" n="73"/>prudentes erant mariti: &amp; vxoribus determinata 
+   <lb ed="#B" n="74"/>tempora assignabant, quod patet Genesis. xxx. vbi pr 
+   <lb ed="#B" n="75"/>mandragoris quas repperit Ruben tempore messis 
+   <lb ed="#B" n="76"/>Rachel concessit Liae quod vir cum ea dormiret vna 
+   <lb ed="#B" n="77"/>nocte. ex quae genitus est Isachar. nam bonae illae
+   ma<lb ed="#B" n="78" break="no"/>ronae generatioi operam dabant libidine neglecta. Ex 
+   <lb ed="#B" n="79"/>quo satis convincitur quod noctes habebant determina 
+   <lb ed="#B" n="80"/>tas pro concubitu maritali.
+  </p>
+      <p xml:id="jMqv4a-d1e1504-d1e542">
+   ⁋ Tertio arguitur. Agar 
+   <lb ed="#B" n="81"/>fuit ancilla Sarae: ergo non fuit vxor Abrahae. 
+   <lb ed="#B" n="82"/>Sic Bala &amp; Aelpha. &amp; interdum vocantur concubinae. 
+   <lb ed="#B" n="83"/>nam Salomodo legitur tertii Regum. xi. habuisse
+   septin<lb ed="#B" n="84" break="no"/>gentas vxores quasi reginas, &amp; trecentas
+   concubi<lb ed="#B" n="85" break="no"/>nas.
+  </p>
+      <p xml:id="jMqv4a-d1e1504-d1e556">
+   ⁋ Respondetur. vxores minus principales, quae forte 
+   <lb ed="#B" n="86"/>vxorum praecedentium erant verae ancillae, postea
+   fie<lb ed="#B" n="87" break="no"/>bant verae vxores: sed manebantin seruitio sicut an 
+   <lb ed="#B" n="88"/>tea, quemadmodum si nunc potens senex duceret vxo 
+   <lb ed="#B" n="89"/>is suae ancillam post mortem vxoris propriae: quia ca 
+   <lb ed="#B" n="90"/>stitatem &amp; probitatem ancillae iam nouit, quomodo prudentes &amp; 
+   <lb ed="#B" n="91"/>magnos viros senes in patria mea factitantes no 
+   <lb ed="#B" n="92"/>ui. Et pauperiores mulieres dicebantur concubinae: 
+   <lb ed="#B" n="93"/>quae tamen verae erant vxores sicut diuites. Patet istud 
+   <lb ed="#B" n="94"/>iudicum. xix. &amp; secundi Regum. xvi. vbi Achito 
+   <lb ed="#B" n="95"/>phel consuluit Absaloni vt ingrederetur ad con 
+   <lb ed="#B" n="96"/>cubinas Dauidis patris: quae erant verae vxores Da 
+   <lb ed="#B" n="97"/>uidis. Sed licet Deuteronomii. xvii. prohibitum fue 
+   <lb ed="#B" n="98"/>rit regi habere plurimas: non tamen plures. quare in hoc 
+   <lb ed="#B" n="99"/>Salomodo peccauit: &amp; in deum ingratissimus erat, quam 
+   <lb ed="#B" n="100"/>sibi sapientiam tantam dederat: &amp; latum imperium cum quie 
+   <lb ed="#B" n="101"/>te. Quia autem mille sic haberet, poterat esse sicut de 
+   <lb ed="#B" n="102"/>Assuero gentili scribitur: quod nulla veniret ad regem 
+   <lb ed="#B" n="103"/>nisi vocata. nam multae earum ratissime vocabantur 
+   <lb ed="#B" n="104"/>forte non amplius semel.
+  </p>
+      <p xml:id="jMqv4a-d1e1504-d1e600">
+   ⁋ Quarto arguitur. vel licuit 
+   <lb ed="#B" n="105"/>habere plures vxores ob hominum paucitatem in  
+   <lb ed="#B" n="106"/>cultu dei: &amp; hoc non, vt patet ante diluuium. nam
+   La<lb ed="#B" n="107" break="no"/>mech, vt dicitur Gene. iiii. magno opprobrio
+   habe<lb ed="#B" n="108" break="no"/>batur quod binas habuit vxores. vel propter aliquid aliquod 
+  </p>
+      <p xml:id="jMqv4a-d1e1504-d1e611">
+       <lb ed="#B" n="109"/>⁋ Respondetur. sola paucitas hominum non erat causa 
+   <!--0597.xml-->
+   <pb ed="#B" n="283-r"/>
+       <cb ed="#B" n="a"/>
+       <lb ed="#B" n="1"/>quare deus dispensabat. sed causa fundamentalis 
+   <lb ed="#B" n="2"/>erat dei voluntas. nam in principio erant homines bene 
+   <lb ed="#B" n="3"/>instituti: &amp; manserunt vna contenti. postea gene 
+   <lb ed="#B" n="4"/>re humano multiplicato cum multi idololatriae &amp; 
+   <lb ed="#B" n="5"/>vitiis se traderent: volens deus gentem vnam par 
+   <lb ed="#B" n="6"/>uam habere in qua fidem plantaret, admisit vxo 
+   <lb ed="#B" n="7"/>rum pluralitatm gratia filiorum procreandorum. 
+  </p>
+      <p xml:id="jMqv4a-d1e1504-d1e637">
+       <lb ed="#B" n="8"/>⁋ Contra secundam conclusionem
+   ar<lb ed="#B" n="9" break="no"/>guitur. In historia triprtita libro octauo / capitulo 
+   <lb ed="#B" n="10"/>vndecimo / legitur quod Valentinianus senior legem
+   pro<lb ed="#B" n="11" break="no"/>tulit vt procreationis causa liceret duas habue
+   vxo<lb ed="#B" n="12" break="no"/>res. Insuper durum est dicere quod omnes / plures vxo 
+   <lb ed="#B" n="13"/>res habentes sint damnati: vt optimus Socrates 
+   <lb ed="#B" n="14"/>duas vxores habens: &amp; multi alii.
+  </p>
+      <p xml:id="jMqv4a-d1e1504-d1e655">
+   ⁋ Respondetur. 
+   <lb ed="#B" n="15"/>ille Valentinianus erat Arrianus: &amp; legem illam ob 
+   <lb ed="#B" n="16"/>suam libidinem tulit, quod ab effectu patuit: nam ipse prae 
+   <lb ed="#B" n="17"/>ter Seueram vxorem / lustinam duxit: ex qua Valen 
+   <lb ed="#B" n="18"/>tinianus iunior natus fuit. Ad aliud dicitur quod cum 
+   <lb ed="#B" n="19"/>ante legem gratiae non omes tenerentur legem
+   Mo<lb ed="#B" n="20" break="no"/>saicam suscipere: viuentes in lumine naturali sal 
+   <lb ed="#B" n="21"/>uabantur dummodo legem luminis naturalis
+   be<lb ed="#B" n="22" break="no"/>ne seruarent: quia illam impressit deus eorum
+   cor<lb ed="#B" n="23" break="no"/>dibus: quae eis tunc sufficiebat. vel si male vixerant, 
+   <lb ed="#B" n="24"/>&amp; poenitudine ducebantur: saluabantur sine
+   poeniten<lb ed="#B" n="25" break="no"/>tia sacramento. post legem vero gratiae promulgatam 
+   <lb ed="#B" n="26"/>omnes habentes plures vxores sunt in statu
+   da<lb ed="#B" n="27" break="no"/>mnationis. lex enim gratiae obligat omnes.
+  </p>
+      <p xml:id="jMqv4a-d1e1504-d1e686">
+   ⁋ Sed contra 
+   <lb ed="#B" n="28"/>hoc arguitur. Innocentius tertius in cap. Gaudemus. 
+   <lb ed="#B" n="29"/>de diuor. dicit. Nec vllilicuit vnquam habere plures 
+   <lb ed="#B" n="30"/>vxores nisi cui fuit diuina reuelatione concessum. 
+   <lb ed="#B" n="31"/>Respondetur. cum hebraeis omnibus tempore legis 
+   <lb ed="#B" n="32"/>Mosaicae dispensatum erat: cum principaliores &amp; ari 
+   <lb ed="#B" n="33"/>etes in populo plures habere possent, more mul 
+   <lb ed="#B" n="34"/>torum patrum ante legemn. Isaac autem Christi figura 
+   <lb ed="#B" n="35"/>solam vnam habuit. Sed gentiles omnes durum 
+   <lb ed="#B" n="36"/>est pro tempore legis Mosaicae damnare in ea re 
+   <lb ed="#B" n="37"/>gione in qua erat hominum paucitas post
+   acce<lb ed="#B" n="38" break="no"/>ptam cladem in bello: vt erat tempore Socratis, quo 
+   <lb ed="#B" n="39"/>lex lata dicitur fuisse de pluribus vxoribus haben 
+   <lb ed="#B" n="40"/>dis ob multos Athenienses peremptos. &amp; sic
+   for<lb ed="#B" n="41" break="no"/>te sufficit dicere, vbi erat in gentilibus apparens 
+   <lb ed="#B" n="42"/>causa in lumine naturali fuisse a deo dispensatum 
+   <lb ed="#B" n="43"/>lege interiore sufficiente. 
+  </p>
+      <p xml:id="jMqv4a-d1e1504-d1e724">
+       <lb ed="#B" n="44"/>⁋ Contra tertiam conclusionem argui 
+   <lb ed="#B" n="45"/>tur. pontifex potest dispensare cum religioso vt 
+   <lb ed="#B" n="46"/>vxorem ducat in saeculo: ergo potest dispensare 
+   <lb ed="#B" n="47"/>cum viro vxorem sterilem habente vt aliam 
+   <lb ed="#B" n="48"/>foecundam superinducat. &amp; sic duas habebit.
+   Re<lb ed="#B" n="49" break="no"/>spondetur concedendo antecedens, quod
+   pate<lb ed="#B" n="50" break="no"/>bit amplius distinctione. xxxviii. huius. sed
+   ne<lb ed="#B" n="51" break="no"/>go consequentiam. nam vnum dependet ab actu 
+   <lb ed="#B" n="52"/>hominis spontaneo, &amp; interpretationem suscipit: 
+   <lb ed="#B" n="53"/>aliud autem est prohibitum expresse a Christo. 
+   <!--0597.xml-->
+   <cb ed="#B" n="b"/> 
+       <!-- 283-r b -->
+       <lb ed="#B" n="54"/>&amp; si cum religioso / de quo ducitur argumentum, 
+   <lb ed="#B" n="55"/>dispensetur qui vxorem cognitam in saeculo ha 
+   <lb ed="#B" n="56"/>beat: non potest aliam illa vxore viuente ducere 
+   <lb ed="#B" n="57"/>cum vinculum illud post carnalem copulam non 
+   <lb ed="#B" n="58"/>sit solutum per mortem ciuilem.
+  </p>
+      <p xml:id="jMqv4a-d1e1504-d1e766">
+   ⁋ Ex dictis igi 
+   <lb ed="#B" n="59"/>tur habes quod in initio orbis conditi nemo poterat 
+   <lb ed="#B" n="60"/>simul habere plures vxores. Deinceps autem tem 
+   <lb ed="#B" n="61"/>poris successu patres poterant plures habere vxo 
+   <lb ed="#B" n="62"/>res dispensante deo. Scriptura nanque expresse in  
+   <lb ed="#B" n="63"/>Genesi mentionem facit de vxoribus pluribus 
+   <lb ed="#B" n="64"/>deuotorum virorum: &amp; postea in lege scripta. 
+   <lb ed="#B" n="65"/>quae pluralitas sine dei facultate non fuisset
+   ad<lb ed="#B" n="66" break="no"/>missa. Hinc <name xml:id="jMqv4a-d1e1504-Nd1e785" ref="#Augustine">Augustinus</name> super Genesim, vt alle 
+   <lb ed="#B" n="67"/>gat magister / dicit. Quando mos erat / crimen non 
+   <lb ed="#B" n="68"/>erat. Vlterius diximus quod plures vxores habere est 
+   <lb ed="#B" n="69"/>contra bonam politiam humanam. vt patet ex 
+   <lb ed="#B" n="70"/>dictis in secunda conclusione. Cum omnibus his 
+   <lb ed="#B" n="71"/>quae diximus / scimus foeminarum multas esse 
+   <lb ed="#B" n="72"/>ponas. nam &amp; ecclesia precatur diuam viginem. In  
+   <lb ed="#B" n="73"/>tercede pro deuoto foemineo sexu. Et licet mlul 
+   <lb ed="#B" n="74"/>tum pronae sint in vitia: per verecundiam tamen 
+   <lb ed="#B" n="75"/>&amp; pudicam vitam, illa plurimae pessundant, con 
+   <lb ed="#B" n="76"/>culcant, &amp; exterminant. Sunt autem humano
+   ge<lb ed="#B" n="77" break="no"/>neri necessariae: &amp; a deo creatae in natura bona: mo 
+   <lb ed="#B" n="78"/>do eam bene moderentur. Aliquid tamen de
+   ea<lb ed="#B" n="79" break="no"/>rum instabilitate &amp; imprudentia secundum
+   exi<lb ed="#B" n="80" break="no"/>gentiam materiae quam tracto / ex industria expli 
+   <lb ed="#B" n="81"/>caui, ne homines nimis inordinate erga eas
+   affi<lb ed="#B" n="82" break="no"/>cerentur, nunc vero easdem mundo necessarias 
+   <lb ed="#B" n="83"/>laudo, vt me circa eas solum tenuisse medium osten 
+   <lb ed="#B" n="84"/>dam. sicut in philosophia latitudo vniformiter dif 
+   <lb ed="#B" n="85"/>formis reducitur ad denominationem gradus medii. 
+  </p>
+    </div>
+   </body>
+  </text>
+</TEI>

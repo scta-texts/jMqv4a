@@ -1,0 +1,536 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 24</title>
+      <author ref="#JohnMair">John Mair</author>
+      <respStmt>
+       <name>Jeffrey C. Witt</name>
+       <resp>TEI Encoder</resp>
+      </respStmt>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 24</title>
+       <date when="2020-06-09">June 27, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="B" n="cod-Bda113">Badius 1516</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+     guidelines for a diplomatic edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-06-27" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+      <pb ed="#B" n="125-r"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="jMqv4a-d1e669"> <!-- l4d15q24 -->
+      <head xml:id="jMqv4a-d1e669-Hd1e104">Quaestio 24</head>
+      <head xml:id="jMqv4a-d1e669-Hd1e107" type="question-title">An furto aliena subtrahens peccet</head>
+      <p xml:id="jMqv4a-d1e669-d1e110">
+       <lb ed="#B" n="87"/>SVperioribus
+   quaestio<lb ed="#B" n="88" break="no"/>nibus loquuti sumus de parti 
+   <lb ed="#B" n="89"/>bus satistactionis
+   communi<lb ed="#B" n="90" break="no"/>ter enumeratis: scilicet
+   ieiu<lb ed="#B" n="91" break="no"/>nio &amp; eleemosyna. &amp; cum
+   re<lb ed="#B" n="92" break="no"/>ctum sit iudex obliqui:
+   pri<lb ed="#B" n="93" break="no"/>mo de anima: non poteramus. 
+   <lb ed="#B" n="94"/>commode tractare de speciebus restitutionis: nisi 
+   <lb ed="#B" n="95"/>de dominiis rerum primaeuis nonnihil tangeremus, 
+   <lb ed="#B" n="96"/>&amp; eorum annexis. Postea de restitutionibus trium
+   bo<lb ed="#B" n="97" break="no"/>norum de quibus loquitur <name xml:id="jMqv4a-d1e669-Nd1e136" ref="#Aristotle">Aristoteles</name> primo
+   Ethi<lb ed="#B" n="98" break="no"/>corum, scilicet bonis anime, corporis, &amp; fortunae, eo 
+   <lb ed="#B" n="99"/>ordine quo se habent in dignitate loquuti sumus. 
+   <lb ed="#B" n="100"/>Bona enim fortunae licet vulgus ea cum primis
+   aesti<lb ed="#B" n="101" break="no"/>met: sunt minima bona: &amp; parui apud sapientes 
+   <lb ed="#B" n="102"/>momenti: iuxta dictum Biantis sapientis citatum in  
+   <lb ed="#B" n="103"/>Paradoxis a Mar. Tul. Omnia mea mecum porto. 
+   <lb ed="#B" n="104"/>nsinuantis alia parum ad se attinere. Sed quia huma 
+   <lb ed="#B" n="105"/>num genus auide inhiat per fas &amp; nefas haec bona 
+   <!--0282.xml-->
+   <pb ed="#B" n="125-v"/>
+       <cb ed="#B" n="a"/>
+       <lb ed="#B" n="1"/>accumulare: aliquid dicemus circa ea: inchoantes 
+   <lb ed="#B" n="2"/>a vulpino fure, trium literarum viro: Quatuor circa 
+   <lb ed="#B" n="3"/>hanc materiam quasituri. Primo, an furto aliena
+   sub<lb ed="#B" n="4" break="no"/>trahens peccet. Secunda quaestio erit de cauillatione 
+   <lb ed="#B" n="5"/>quadam nodosa furti. Tertia de restitutione furti. 
+   <lb ed="#B" n="6"/>Et quia aliqui non bene capiunt quo modo pro furto sim 
+   <lb ed="#B" n="7"/>plici, hoc est vt distinguitur contra rapina, infligatur 
+   <lb ed="#B" n="8"/>mors: Quarto quaram, an hoc liceat. Et haec erunt de 
+   <lb ed="#B" n="9"/>furto proprie dicto. Primo ergo quaeritur, an furto alie 
+   <lb ed="#B" n="10"/>na asportans peccet.
+  </p>
+      <p xml:id="jMqv4a-d1e669-d1e185">
+   ⁋ Pro solutione quaestionis ani 
+   <lb ed="#B" n="11"/>maduerte: quod per furtum interdum intelligimus rapinam, 
+   <lb ed="#B" n="12"/>&amp; omne illicite detentum. quo modo capitur in prohibitione 
+   <lb ed="#B" n="13"/>decalogi. &amp;. xiiii. qui. v. Poenale. Sic simoniacus 
+   <lb ed="#B" n="14"/>non ingrediens per ostium est fur. xxiii. q. iiii. Tres perso 
+   <lb ed="#B" n="15"/>nas. Sic etiam vsuraria pecunia est furtum. Si proprie 
+   <lb ed="#B" n="16"/>capiatur, est volitio capiendi quod putatur alienum, clan 
+   <lb ed="#B" n="17"/>culum inuito domino, animo lucrandi. Haec
+   defini<lb ed="#B" n="18" break="no"/>tio quadrat cum ea quam dat Imperator. Instit. de 
+   <lb ed="#B" n="19"/>obli, quae ex delict. nas. S. Furtum. vbi &amp; nomnis
+   etymo<lb ed="#B" n="20" break="no"/>ogiam explicat. Addut aliqui mobile &amp;
+   corpora<lb ed="#B" n="21" break="no"/>le, per hoc simoniam &amp; vsuram excludentes. sed
+   faci<lb ed="#B" n="22" break="no"/>le est haec impugnare per metaphysicam / petendo quo 
+   <lb ed="#B" n="23"/>modo sit vsura spiritualis vel circa rem spiritualem. 
+   <lb ed="#B" n="24"/>sed non insisto. Definitionem aggredior. in qua vo 
+   <lb ed="#B" n="25"/>litio ponitur loco generis: non vt verum genus: cum 
+   <lb ed="#B" n="26"/>furtu connotationem peregrinam habeat respectu ter 
+   <lb ed="#B" n="27"/>mini volitio: sed vt melius rem ipsam capiamus: 
+   <lb ed="#B" n="28"/>placuit ita dicere. Dicitur (quod putatur alienum) &amp; non 
+   <lb ed="#B" n="29"/>alienum: quia si rem meam capio quam credo esse alie 
+   <lb ed="#B" n="30"/>nam: furtum committo. &amp; hic capitur alienum fiue ad 
+   <lb ed="#B" n="31"/>ysum siue ad proprietatem: vt siquis rem meam ex pigno 
+   <lb ed="#B" n="32"/>re vel hypotheca habet: &amp; ego clanculum sutripiam 
+   <lb ed="#B" n="33"/>furtum committo: quia capio quod scio esse alienum: scio 
+   <lb ed="#B" n="34"/>enim alium in hoc ius aliquod habere. Dicitur (inuito 
+   <lb ed="#B" n="35"/>domino) quia si dominus consentiret vel est verosimile
+   pru<lb ed="#B" n="36" break="no"/>denti quod consentiret: siue consentiat siue non: nullo mo 
+   <lb ed="#B" n="37"/>do est furtum. &amp; intelligo per dominum rei illum qui in  
+   <lb ed="#B" n="38"/>re auctoritatem habet: siue sit dominus inferior vt
+   cau<lb ed="#B" n="39" break="no"/>sa secundam: cui dominus superior consentit: siue dominus superior, 
+   <lb ed="#B" n="40"/>qui omnem potestatem in rem accipit, vt despoliationem 
+   <lb ed="#B" n="41"/>Aegypti. Exodi. xi. hoc idem patet. xiiii. quaest. v. 
+   <lb ed="#B" n="42"/>Dixit dominus. Dicitur (animo lucrandi) quia siquis rem 
+   <lb ed="#B" n="43"/>auferat vt alium reddat cautiorem vel gratia ioci: non 
+   <lb ed="#B" n="44"/>committit furtum.
+  </p>
+      <p xml:id="jMqv4a-d1e669-d1e262">
+   ⁋ Ex hac definitione consequuntur 
+   <lb ed="#B" n="45"/>alique propositiones. Prima est. Aliquis peccat pec 
+   <lb ed="#B" n="46"/>cato furti &amp; nihil furatur, vt ille qui vult
+   subtra<lb ed="#B" n="47" break="no"/>here alienum, sed non potest habere.
+  </p>
+      <p xml:id="jMqv4a-d1e669-d1e271">
+   ⁋ Ex qua
+   proposi<lb ed="#B" n="48" break="no"/>tione secundo sequitur quod non omnis fur tenetur ad restitu 
+   <lb ed="#B" n="49"/>tionem furti, quod patet de fure dato: ille enim non solum 
+   <lb ed="#B" n="50"/>peccat peccato furti: sed est fur.
+  </p>
+      <p xml:id="jMqv4a-d1e669-d1e280">
+   ⁋ Tertio sequitur 
+   <lb ed="#B" n="51"/>quod furtu a rapina differt penes clanculum &amp;
+   mani<lb ed="#B" n="52" break="no"/>festum, secundo modo capiendo.
+  </p>
+      <p xml:id="jMqv4a-d1e669-d1e287">
+   ⁋ Quarto sequitur 
+   <lb ed="#B" n="53"/>quod ego auferens meum ab illo a quo alia via habe 
+   <lb ed="#B" n="54"/>re non possum iuridice: coram deo non committo
+   fur<lb ed="#B" n="55" break="no"/>tum. Patet, quia aufero meum, &amp; ille nullum ius in  
+   <!--0282.xml-->
+   <cb ed="#B" n="b"/> 
+       <!-- 125-v b -->
+       <lb ed="#B" n="56"/>illud habet, nec videtur esse in hoc peccatum. secus 
+   <lb ed="#B" n="57"/>est si possim probare rem esse meam: &amp; eam iuridice 
+   <lb ed="#B" n="58"/>nabere. tunc enim male ago rem meam clanculum
+   surti<lb ed="#B" n="59" break="no"/>piendo. Si autem sciam rem esse meam: &amp; probare nesciam ren 
+   <lb ed="#B" n="60"/>meam: non debeo rapere: quia hoc cederet in
+   detri<lb ed="#B" n="61" break="no"/>mentum reipublicae. Si clanculum habere possum: 
+   <lb ed="#B" n="62"/>non videtur esse peccatum. tunc enim non laeditur ille a 
+   <lb ed="#B" n="63"/>quo capio, nec respublica.
+  </p>
+      <p xml:id="jMqv4a-d1e669-d1e320">
+   ⁋ Quinto sequitur quod 
+   <lb ed="#B" n="64"/>existens in extrema necessitate capiens necessaria 
+   <lb ed="#B" n="65"/>ro suo nutrimento non peccat peccato furti. hoc 
+   <lb ed="#B" n="66"/>in materia elecmosynae superius patuit.
+  </p>
+      <p xml:id="jMqv4a-d1e669-d1e329">
+   ⁋ Sexto. 
+   <lb ed="#B" n="67"/>Qui alienum capit vt faciat eleemosynam committit 
+   <lb ed="#B" n="68"/>furtum: quia capit alienum: &amp; actus cadit super
+   obie<lb ed="#B" n="69" break="no"/>ctum malum: licet circumstantia finis sit bona. sed hoc 
+   <lb ed="#B" n="70"/>non sufficit. &amp; istud habetur. xiiii. quaestione. v. Forte. 
+   <lb ed="#B" n="71"/>&amp;. xxxii. quaest. iiii. Sic non sunt.
+  </p>
+      <p xml:id="jMqv4a-d1e669-d1e343">
+   ⁋ Septimo
+   sequi<lb ed="#B" n="72" break="no"/>tur quod quatucumque quis parum accipiat quod putatur esse 
+   <lb ed="#B" n="73"/>alienum contradicere domino rationabiliter, est furtum. 
+   <lb ed="#B" n="74"/>ratet per totam definitionem furti. &amp;. xiiii. qui. vi. c.
+   fina<lb ed="#B" n="75" break="no"/>li. &amp; de poe. dist. i. S. Vulgaris.
+  </p>
+      <p xml:id="jMqv4a-d1e669-d1e354">
+   ⁋ Octauo sequitur 
+   <lb ed="#B" n="76"/>non omne furtum deliberatum esse peccatum mortale.
+   Pa<lb ed="#B" n="77" break="no"/>tet de furto alicuius quod non est notabilis damni. 
+   <lb ed="#B" n="78"/>Furtum enim mortale est volitio auferendi notabile 
+   <lb ed="#B" n="79"/>bonum.
+  </p>
+      <p xml:id="jMqv4a-d1e669-d1e365">
+   ⁋ Nono sequitur. Furtum est auaritia. Furtum 
+   <lb ed="#B" n="80"/>est vsura.
+  </p>
+      <p xml:id="jMqv4a-d1e669-d1e370">
+   ⁋ Decimo sequitur aliquod furtum esse 
+   <lb ed="#B" n="81"/>eiusdem speciei specialissimae cum rapina. Patet.
+   ha<lb ed="#B" n="82" break="no"/>beam ego hanc volitionem. volo capere hoc.
+   demon<lb ed="#B" n="83" break="no"/>strando illud quod credo esse alienum nullo sciente: 
+   <lb ed="#B" n="84"/>postea superueniente domino rei &amp; resistente ego
+   ra<lb ed="#B" n="85" break="no"/>piendo rem possum continuare volitionem meam
+   prae<lb ed="#B" n="86" break="no"/>uiam quae prius erat latens: nunc vero aperta. ergo idem 
+   <lb ed="#B" n="87"/>actus voluntatis numero qui prius erat furtum, 
+   <lb ed="#B" n="88"/>postea efficitur rapina. Immo stat quod nunc primo 
+   <lb ed="#B" n="89"/>sit furtum mortale: &amp; postea idem actus numero 
+   <lb ed="#B" n="90"/>erit meritum. sed hoc non erit simul. Patet. habeam 
+   <lb ed="#B" n="91"/>ego hanc volitionem. volo surripere hunc librum
+   pro<lb ed="#B" n="92" break="no"/>pter deum: demonstrando librum tuum. iam est
+   fur<lb ed="#B" n="93" break="no"/>tum per sextum corollarium, continuo illum actum: &amp; 
+   <lb ed="#B" n="94"/>in medio tempore tu das mihi illum librum: iam iste 
+   <lb ed="#B" n="95"/>actus est meritum: &amp; possum esse in gratia: saltem est 
+   <lb ed="#B" n="96"/>actus bonus moraliter. Qui tamen habet caput refer 
+   <lb ed="#B" n="97"/>tum doctrina communi aliquorum quam speculationem 
+   <lb ed="#B" n="98"/>putat: aliter censet &amp; male.
+  </p>
+      <p xml:id="jMqv4a-d1e669-d1e412">
+   ⁋ Vndecimo sequitur quod 
+   <lb ed="#B" n="99"/>stat aequaliter furari ab eodem aequali intensione gra 
+   <lb ed="#B" n="100"/>duali actus: &amp; inaequaliter peccare. Patet. si Sortes 
+   <lb ed="#B" n="101"/>praecise haberet centum scuta sibi necessaria: &amp;
+   pri<lb ed="#B" n="102" break="no"/>mo furarer ab ceo viginti scuta: &amp; postea alia
+   vi<lb ed="#B" n="103" break="no"/>ginti: plus pecco secundo, quam primo: quia Sortes 
+   <lb ed="#B" n="104"/>plus eget: &amp; plus tertio quam secundo. sed frangendo  
+   <lb ed="#B" n="105"/>arcam primo, &amp; auferens viginti scuta plus pecco qua 
+   <lb ed="#B" n="106"/>auferens tantundem post me: quia sum occasio secundi 
+   <lb ed="#B" n="107"/>furti: &amp; hoc si non fuerit excessus per inopiam in secun 
+   <lb ed="#B" n="108"/>do.
+  </p>
+      <p xml:id="jMqv4a-d1e669-d1e436">
+   ⁋ Duodecimo sequitur quod haec consequentia est 
+   <lb ed="#B" n="109"/>nulla. aequalis pecunia est ab his duobus ablata. er 
+   <lb ed="#B" n="110"/>go aequaliter peccatur, quia stat vnum esse pauperem &amp; 
+   <!--0283.xml-->
+   <pb ed="#B" n="126-r"/>
+       <cb ed="#B" n="a"/>
+       <lb ed="#B" n="1"/>alium diuitem.
+  </p>
+      <p xml:id="jMqv4a-d1e669-d1e453">
+   ⁋ Et ex illo, Decimotertio sequitur 
+   <lb ed="#B" n="2"/>per calculationem quod maius est peccatum furto
+   sub<lb ed="#B" n="3" break="no"/>trahere duo scuta a paupere qui viginti a rege: sed 
+   <lb ed="#B" n="4"/>ad minorem restitutionem est obnoxius.
+  </p>
+      <p xml:id="jMqv4a-d1e669-d1e462">
+   ⁋ Decimo 
+   <lb ed="#B" n="5"/>quarto sequitur quod dando scienter malam pecuniam
+   lo<lb ed="#B" n="6" break="no"/>co bonae comittitur furtum: siue in lumine candelae 
+   <lb ed="#B" n="7"/>siue in lumine diei alter non cognoscat. &amp; licet ego 
+   <lb ed="#B" n="8"/>accipiam illam malam pecuniam ab alio, possum tamen licite 
+   <lb ed="#B" n="9"/>dare clanculum illi qui me fefellit.
+  </p>
+      <p xml:id="jMqv4a-d1e669-d1e475">
+   ⁋ Decimoquin 
+   <lb ed="#B" n="10"/>to sequitur quod si Sortes habeat vsum equi mei: &amp; 
+   <lb ed="#B" n="11"/>ego clanculum illum equum auferam, furtum facio. licet 
+   <lb ed="#B" n="12"/>enim sit res mea quo ad proprietatem: non tamen quo ad 
+   <lb ed="#B" n="13"/>vsum.
+  </p>
+      <p xml:id="jMqv4a-d1e669-d1e486">
+   ⁋ Decimosexto. Si habeam vestem Sortis 
+   <lb ed="#B" n="14"/>in pignore: ipsa vtendo furtum committo nisi eius 
+   <lb ed="#B" n="15"/>voluntatem expressam vel rationabiliter praesumptam 
+   <lb ed="#B" n="16"/>habeam.
+  </p>
+      <p xml:id="jMqv4a-d1e669-d1e495">
+   ⁋ Decimoseptimo sequitur quod agricola
+   con<lb ed="#B" n="17" break="no"/>mittit furtum partem agelli vicini sui sibi adiiciens, per 
+   <lb ed="#B" n="18"/>definitionem.
+  </p>
+      <p xml:id="jMqv4a-d1e669-d1e502">
+   ⁋ Decimooctauo sequitur quod hoc pec 
+   <lb ed="#B" n="19"/>cato peccat qui radit pecuniam plus aequo: sic vt non 
+   <lb ed="#B" n="20"/>maneat iusti ponderis.
+  </p>
+      <p xml:id="jMqv4a-d1e669-d1e510">
+   ⁋ Decimonono sequitur quod 
+   <lb ed="#B" n="21"/>filius interdum committit furtum contra patrem &amp; matre: 
+   <lb ed="#B" n="22"/>quia surripit alienum clanculum inuito dmino.
+  </p>
+      <p xml:id="jMqv4a-d1e669-d1e517">
+   ⁋
+   Vige<lb ed="#B" n="23" break="no"/>simo &amp; vltimo. si detur mihi vsus equi ad decem mi 
+   <lb ed="#B" n="24"/>lia passuum &amp; non vltra, &amp; ego vtar equo ad duo 
+   <lb ed="#B" n="25"/>decim vel vltra, committo furtum. secus est si
+   habe<lb ed="#B" n="26" break="no"/>rem facultatem domini praesumptam. 
+  </p>
+      <p xml:id="jMqv4a-d1e669-d1e528">
+       <lb ed="#B" n="27"/>⁋ Definitione furti &amp; corollariis de 
+   <lb ed="#B" n="28"/>finitionis declaratiuis praemissis: pono conclusiones 
+   <lb ed="#B" n="29"/>titulo quaestionis responsiuas. quarum Prima est. Omne 
+   <lb ed="#B" n="30"/>furtum est peccatum. patet. Furtum prohibetur Exodi 
+   <lb ed="#B" n="31"/>xx. Non furtum facies. &amp; in praeceptis decalogi. 
+  </p>
+      <p xml:id="jMqv4a-d1e669-d1e541">
+       <lb ed="#B" n="32"/>⁋ Secunda conclusio. Aliquod furtum etiam delibera 
+   <lb ed="#B" n="33"/>tum est solum veniale peccatum. Probatur. Aliquod fur 
+   <lb ed="#B" n="34"/>tum est quod non est notabilis bonitatis, nequ notabi 
+   <lb ed="#B" n="35"/>lem malitiam infert domino rei: ergo tale furtum est 
+   <lb ed="#B" n="36"/>solum venialiter prohibitum. In super arguitur ad idem.
+   ex<lb ed="#B" n="37" break="no"/>tremum supplicium non infertur in foro humano pro 
+   <lb ed="#B" n="38"/>quolibet delicto: sed pro grandioribus: ergo deus 
+   <lb ed="#B" n="39"/>non quidlibet delictum imputat mortaliter in suo foro. 
+   <lb ed="#B" n="40"/>Praeterea si quodlibet furtum esset mortale peccatum 
+   <lb ed="#B" n="41"/>hoc esset propterea quia furtum prohibetur in praecepto 
+   <lb ed="#B" n="42"/>vno decalogi / vel Exodi. xx. sed hoc non arguit 
+   <lb ed="#B" n="43"/>esse mortale: vt patet de luxu aliquo inter coniu 
+   <lb ed="#B" n="44"/>ges veniali, &amp; transgressionibus aliis deliberatis 
+   <lb ed="#B" n="45"/>contra alia praecepta venialibus. &amp; patet manifeste 
+   <lb ed="#B" n="46"/>de mendacio iocoso vel officioso.
+  </p>
+      <p xml:id="jMqv4a-d1e669-d1e576">
+   ⁋ Tertia
+   con<lb ed="#B" n="47" break="no"/>clusio. Aliquod furtum est mortale. Probatur. Ali 
+   <lb ed="#B" n="48"/>quo furto notabiliter laeditur proximus. aut
+   me<lb ed="#B" n="49" break="no"/>lius pro rege loquendo, in aliquo furto aufertur proxi 
+   <lb ed="#B" n="50"/>mo notabile bonum: ergo aliquod furtum est morta 
+   <lb ed="#B" n="51"/>le peccatum. In super pro aliquo furto infligitur iuste 
+   <lb ed="#B" n="52"/>mors: vt iam in hac materia dicemus. &amp; pro solo 
+   <lb ed="#B" n="53"/>veniali nunquam mors licite infertur. igitur.
+  </p>
+      <p xml:id="jMqv4a-d1e669-d1e594">
+   ⁋
+   Quar<lb ed="#B" n="54" break="no"/>ta conclusio. Aliquod furtum mortale est alio furto 
+   <!--0283.xml-->
+   <cb ed="#B" n="b"/> 
+       <!-- 126-r b -->
+       <lb ed="#B" n="55"/>mortali multo grauius. Patet. quia grauius est 
+   <lb ed="#B" n="56"/>peccatum furti furari a paupere qui a diuite: nam 
+   <lb ed="#B" n="57"/>maius nocumentum ei infertur circa bona quae sunt 
+   <lb ed="#B" n="58"/>ei magis necessaria: &amp; maioris tristitiae materia ei 
+   <lb ed="#B" n="59"/>datur qui diuiti. igitur. Secundo probatur idem. aliquod 
+   <lb ed="#B" n="60"/>furtum est sacrilegium: vt auferendo sacrum de
+   sa<lb ed="#B" n="61" break="no"/>cro: vel non sacrum de sacro: vel sacrum de non sa 
+   <lb ed="#B" n="62"/>cro loco: quia hoc habet specialem prohibitionem. 
+   <lb ed="#B" n="63"/>sic de abigeatu, dispergendo gregem &amp; inde
+   fu<lb ed="#B" n="64" break="no"/>rando pecus. sic de plagio, hominem liberum
+   ven<lb ed="#B" n="65" break="no"/>dendo: &amp; de peculatum hominem religiosum vel pu 
+   <lb ed="#B" n="66"/>blicum alienando. xxiii. q. iiii. Quid ergo. Aliquod 
+   <lb ed="#B" n="67"/>autem est furtum simplex mortale. Item est maius 
+   <lb ed="#B" n="68"/>peccatum: furto asportare mille scuta quam partem 
+   <lb ed="#B" n="69"/>eorum: &amp; vtrumque est mortale: ergo aliquod furtum 
+   <lb ed="#B" n="70"/>mortale aliud excedit.
+  </p>
+      <p xml:id="jMqv4a-d1e669-d1e641">
+   ⁋ Quinta conclusio. Fur 
+   <lb ed="#B" n="71"/>tum ex parte obiecti siue ex genere non est ita ma 
+   <lb ed="#B" n="72"/>gnum peccatum vt homicidium vel fornicatio. Pro 
+   <lb ed="#B" n="73"/>batur. Furtum est circa bona fortunae quae sunt
+   bo<lb ed="#B" n="74" break="no"/>na inania: vt in fronte huius quaestionis diximus. 
+   <lb ed="#B" n="75"/>Homicidium autem &amp; fornicatio sunt circa bona 
+   <lb ed="#B" n="76"/>corporis. igitur. Cum hoc tamen stat quod sit aliquod 
+   <lb ed="#B" n="77"/>furtum tantae malitiae &amp; maioris quam simplex fornica 
+   <lb ed="#B" n="78"/>tio: immo quam hoc homicidium. Dabile namque est
+   fur<lb ed="#B" n="79" break="no"/>tum minoris malitiae quam fornicatio simplex: &amp; fur 
+   <lb ed="#B" n="80"/>tum maioris malitiae qui fornicatio simplex: ergo  
+   <lb ed="#B" n="81"/>etiam potest dari furtu aequalis malitiae cum fornica 
+   <lb ed="#B" n="82"/>tione simplici. licet in hac illatione vniuersaliter 
+   <lb ed="#B" n="83"/>intelligendo possit instari. sicut Campanus instat in  
+   <lb ed="#B" n="84"/>xv. Tertii Euclidis. sed imprudentis esset tales an 
+   <lb ed="#B" n="85"/>gulos contingentiae extrinsecos in nostra materia 
+   <lb ed="#B" n="86"/>texere. Praeterea ad aliquod furtum rerum necessariarum 
+   <lb ed="#B" n="87"/>homini sequitur homicidium: ergo tale furtum cum effe 
+   <lb ed="#B" n="88"/>ctualiter homicidium includat, est ita graue vt
+   ho<lb ed="#B" n="89" break="no"/>micidium.
+  </p>
+      <p xml:id="jMqv4a-d1e669-d1e685">
+   ⁋ Sexta conclusio. rapina est maius pec 
+   <lb ed="#B" n="90"/>catum quam furtum caeteris paribus. si caetera sint paria: 
+   <lb ed="#B" n="91"/>aequales sunt actus voluntatis, &amp; aequaliter ablata: 
+   <lb ed="#B" n="92"/>&amp; omnia alia sunt paria: hoc dempto quod vnus capit clan 
+   <lb ed="#B" n="93"/>culum decem &amp; alter totidem rapit. sed cum hoc raptor 
+   <lb ed="#B" n="94"/>violentiam &amp; iniuriam actualem &amp; manifestam infert con 
+   <lb ed="#B" n="95"/>tra dominum rei. ergo plus peccat, non sic fur. In super 
+   <lb ed="#B" n="96"/>per rapina secundum leges ciuiles infligitur vltimum
+   sup<lb ed="#B" n="97" break="no"/>plicium. patetilitur. de poenis. l. Capitalium. S. Grassato 
+   <lb ed="#B" n="98"/>res. &amp;. S. Famosos. Talis autem poena pro furto non 
+   <lb ed="#B" n="99"/>infligitur, vt post hac dicemus. 
+  </p>
+      <p xml:id="jMqv4a-d1e669-d1e709">
+       <lb ed="#B" n="100"/>⁋ Contra primam conclusionem
+   ar<lb ed="#B" n="101" break="no"/>guitur. Capiens racemos ex vineis in calore non  
+   <lb ed="#B" n="102"/>peccat: vel capiens pyrum in campis: &amp; talis facit 
+   <lb ed="#B" n="103"/>furtum: cum capiat alienum non consentiente dmino: quia 
+   <lb ed="#B" n="104"/>de eius voluntate nihil scit.
+  </p>
+      <p xml:id="jMqv4a-d1e669-d1e722">
+   ⁋ Respondetur. quia
+   co<lb ed="#B" n="105" break="no"/>tingit virum pati sitim cui difficile sit abstinere: ne 
+   <lb ed="#B" n="106"/>go quod tunc faciat furtum. Dominus enim si sciret circumstan 
+   <lb ed="#B" n="107"/>tiam rei consentiret vel consentire deberet vt ita cape 
+   <lb ed="#B" n="108"/>ret: aut si dominus illic esset: iste emeret ab eo racemum: 
+   <!--0284.xml-->
+   <pb ed="#B" n="126-v"/>
+       <cb ed="#B" n="a"/>
+       <lb ed="#B" n="1"/>&amp; cum non sit praesens, capit. Domino. n. vitium &amp; aliis 
+   <lb ed="#B" n="2"/>in similibus est iste capiens subiectus: si non habeat
+   vi<lb ed="#B" n="3" break="no"/>tes, non est hac lege oneratus. Et hominium consuetudo  
+   <lb ed="#B" n="4"/>vbi est copia vitium haec pua admittit. in signum cuius 
+   <lb ed="#B" n="5"/>in plerisque locis non ponuntur vitium custodes. homo 
+   <lb ed="#B" n="6"/>tamen potest hic venialiter peccare capiendo plus quam opor 
+   <lb ed="#B" n="7"/>teat, &amp; non notabile bonum, &amp; etiam mortaliter. 
+  </p>
+      <p xml:id="jMqv4a-d1e669-d1e755">
+       <lb ed="#B" n="8"/>⁋ Contra secundam &amp; tertiam conclusionem 
+   <lb ed="#B" n="9"/>arguitur. Magnitudo obiecti non ponit mortale sup 
+   <lb ed="#B" n="10"/>veniale: vt videre licet in homicidio / adulterio / &amp; 
+   <lb ed="#B" n="11"/>fornicatione simplici: ergo nec in furto.
+  </p>
+      <p xml:id="jMqv4a-d1e669-d1e766">
+   ⁋ Responde  
+   <lb ed="#B" n="12"/>tur. antecedens est falsum: potest enim homo percu 
+   <lb ed="#B" n="13"/>tiendo virum peccare venialiter. &amp; consequentia est 
+   <lb ed="#B" n="14"/>nulla: quia actus deliberatus dormiendi cum non sua 
+   <lb ed="#B" n="15"/>semper est mortalis: sed non est idem de ablatione bo 
+   <lb ed="#B" n="16"/>norum fortunae quae sunt minora bona.
+  </p>
+      <p xml:id="jMqv4a-d1e669-d1e780">
+   ⁋ Secundo  
+   <lb ed="#B" n="17"/>arguitur contra eandem conclusionem ponendo quod Sortes 
+   <lb ed="#B" n="18"/>furetur vt det pauperibus: iam ipse minus peccat 
+   <lb ed="#B" n="19"/>quae ille qdie furatur vt sibi retineat. vt dicit Magister 
+   <lb ed="#B" n="20"/>distinctione. xi. secundi. &amp; <name xml:id="jMqv4a-d1e669-Nd1e790" ref="#Augustine">Augustinus</name> in Fnchiridio, quod 
+   <lb ed="#B" n="21"/>peius est mentiri libidine mentiendi quam recreationis 
+   <lb ed="#B" n="22"/>causa: &amp; peius recreationis causa qui ad saluanda 
+   <lb ed="#B" n="23"/>bona temporalia proximi. vt habetur. xxii. q. ii. ca. Pri 
+   <lb ed="#B" n="24"/>mun. Et tunc sic. Vna bona circumstantia vel finis
+   bo<lb ed="#B" n="25" break="no"/>nius partialis diminuit vnum gradum malitiae, ergo  
+   <lb ed="#B" n="26"/>additio alterius bonae circumstantiae vel plurium
+   dimi<lb ed="#B" n="27" break="no"/>nuit totam malitiam actus. &amp; per consequens tale furtum 
+   <lb ed="#B" n="28"/>non erit peccatum. Non valet dicere. cum malitia ex parte 
+   <lb ed="#B" n="29"/>obiecti maneat: licet malitia circumstantiarum
+   dimi<lb ed="#B" n="30" break="no"/>nuatur: adhuc actus erit malus. quia actus propter
+   eir<lb ed="#B" n="31" break="no"/>cumstantiam siue cadentem in ratione obiecti: siue circum 
+   <lb ed="#B" n="32"/>stantem per vnam bonam circumstantiam, erit minus malus. 
+   <lb ed="#B" n="33"/>Si dicas. prima circumstantia plus tollit de culpa quam 
+   <lb ed="#B" n="34"/>secunda: &amp; sic gradatim descendendo: Ponantur omnes 
+   <lb ed="#B" n="35"/>circumstantiae simul.
+  </p>
+      <p xml:id="jMqv4a-d1e669-d1e827">
+   ⁋ Respondetur: non desunt
+   dicen<lb ed="#B" n="36" break="no"/>tes bonum finem vel circumstantiam non alleuiare malitiam 
+   <lb ed="#B" n="37"/>actus mali. quod non credo. Adhuc tamen semper actus 
+   <lb ed="#B" n="38"/>iste erit malus. nam ad diminutionem malitiae actus 
+   <lb ed="#B" n="39"/>non sufficit diminuere malitiam circumstantiarum stante 
+   <lb ed="#B" n="40"/>malitia obiecti. Etiam non oportet si circumstantia vna 
+   <lb ed="#B" n="41"/>diminuit vnum gradum de malitia actus quod circunstam 
+   <lb ed="#B" n="42"/>tia in duplo melior in duplo diminuat. Vlterius 
+   <lb ed="#B" n="43"/>dico quod circumstantia bona plus diminuit de actu 
+   <lb ed="#B" n="44"/>peiori quam minus malo. Ex quo patet quod haec
+   conse<lb ed="#B" n="45" break="no"/>quentia nihil valet. quicquid malitiae est in obiecto 
+   <lb ed="#B" n="46"/>quo Sortes vult capere decem scuta, hoc includit 
+   <lb ed="#B" n="47"/>in obiecto quo Plato vult capere totidem propter 
+   <lb ed="#B" n="48"/>deum: ergo actus Sortis est ita malus vt actus
+   Pla<lb ed="#B" n="49" break="no"/>tonis. sed ad bene concludendum oportet in
+   anteceden<lb ed="#B" n="50" break="no"/>te addere. &amp; nihil peccatum diminuens est in actu Pla 
+   <lb ed="#B" n="51"/>tonis. Et si dicas. xiiii. qui. v. c. Forte. ex Augustinu
+   di<lb ed="#B" n="52" break="no"/>citur in fine capitis. Nam si totum tribuat pauperibus 
+   <lb ed="#B" n="53"/>quod abstulerat: addit potius peccatum quam minuat. 
+   <lb ed="#B" n="54"/>Respondetur. hoc est verum propter duo peccata: vnum 
+   <!--0284.xml-->
+   <cb ed="#B" n="b"/> 
+       <!-- 126-v b -->
+       <lb ed="#B" n="55"/>auferendo: aliud dando alienum pauperi, inuito
+   domino<lb ed="#B" n="56" break="no"/>sed auferre decem vt succurram pauperi est actus mi 
+   <lb ed="#B" n="57"/>nus malus quam volitio qua quis vult auferre decem 
+   <lb ed="#B" n="58"/>non habendo finem bonum. Ex toto ergo isto non
+   ha<lb ed="#B" n="59" break="no"/>bes aliquod furtum non imputabile. 
+  </p>
+      <p xml:id="jMqv4a-d1e669-d1e888">
+       <lb ed="#B" n="60"/>⁋ Contra quintam conclusionem arguitur. 
+   <lb ed="#B" n="61"/>Furtum expresse prohibetur iure diuino: non autem
+   forni<lb ed="#B" n="62" break="no"/>catio simplex: ergo furtum est maius peccatum. 
+   <lb ed="#B" n="63"/>Martinus Magister propter hanc rationem in suo libro 
+   <lb ed="#B" n="64"/>de temperantia in materia luxus tenet furtum esse a
+   ge<lb ed="#B" n="65" break="no"/>nere maius peccatum quae fornicationem. Sed illd alibi 
+   <lb ed="#B" n="66"/>prolixius reprobamus. Pronunc dico antecedens esse 
+   <lb ed="#B" n="67"/>falsum. Nam primae ad Corinthios. vii. prohibetur 
+   <lb ed="#B" n="68"/>fornicatio simplex, vt patet illud caput consideram 
+   <lb ed="#B" n="69"/>ti. Secundo dico consequentiam esse nullam, nonne vides 
+   <lb ed="#B" n="70"/>quod rapina non est expresse prohibita? &amp; tamen rapina est 
+   <lb ed="#B" n="71"/>grauius peccatum quam furtum proprie dictum. 
+  </p>
+      <p xml:id="jMqv4a-d1e669-d1e917">
+       <lb ed="#B" n="72"/>⁋ Contra sextam conclusionem arguitur. 
+   <lb ed="#B" n="73"/>Homo plus erubescit de furto quam de rapina: ergo  
+   <lb ed="#B" n="74"/>furtum est maius peccatum.
+  </p>
+      <p xml:id="jMqv4a-d1e669-d1e926">
+   ⁋ Secundo arguitur.
+   Percu<lb ed="#B" n="75" break="no"/>tiens hominem clanculum &amp; eum occidens a tergo, plus 
+   <lb ed="#B" n="76"/>peccat quaem hominem occidens a fronte &amp; manifeste: 
+   <lb ed="#B" n="77"/>ergo per simile fur plus peccat quae raptor.
+  </p>
+      <p xml:id="jMqv4a-d1e669-d1e935">
+   ⁋ Conce 
+   <lb ed="#B" n="78"/>do antecendens: &amp; nego consequentiam. Ratio est, quia 
+   <lb ed="#B" n="79"/>erubescit interdum de non peccato vel minori pecca 
+   <lb ed="#B" n="80"/>to. Videtur autem aliquid animositatis includrin ra 
+   <lb ed="#B" n="81"/>pina: &amp; nihil est animositatis sed multum
+   timidita<lb ed="#B" n="82" break="no"/>tis in furto: &amp; propterea vulpi assimilatur. Hinc 
+   <lb ed="#B" n="83"/>non mirabere si de furto erubescit vir plus quam de 
+   <lb ed="#B" n="84"/>rapina. Aliqui autem homicidae in bello iniusto pu 
+   <lb ed="#B" n="85"/>tant se esse in fama, &amp; gloriam apud ignobile
+   vul<lb ed="#B" n="86" break="no"/>gus consequi illa via.
+  </p>
+      <p xml:id="jMqv4a-d1e669-d1e958">
+   ⁋ Ad secundum argumentum 
+   <lb ed="#B" n="87"/>concedo antecedens. talis enim proditorie hominem 
+   <lb ed="#B" n="88"/>occidit more vulpis &amp; timidi: nec dat viro
+   indu<lb ed="#B" n="89" break="no"/>cias fugiendi &amp; velocitate pedum se praeseruandi:  
+   <lb ed="#B" n="90"/>vel expectandi &amp; defendendi suum corpus. semper 
+   <lb ed="#B" n="91"/>autem taliter occidens praesumitur timidus: &amp; quod non au 
+   <lb ed="#B" n="92"/>deret alteri mouere barbam. propterea cianculum 
+   <lb ed="#B" n="93"/>ferit a tergo: &amp; maiorem iniuriam facit occiso quam si a 
+   <lb ed="#B" n="94"/>fronte percunteret.
+  </p>
+      <p xml:id="jMqv4a-d1e669-d1e978">
+   ⁋ Tertio arguitur. Actus
+   ali<lb ed="#B" n="95" break="no"/>quis furti est eiusdem speciei specialissimae cum actu 
+   <lb ed="#B" n="96"/>rapinae. ergo non est minus grauis. Respondetur
+   ne<lb ed="#B" n="97" break="no"/>gando consequentiam. nam potest antecedens esse ve 
+   <lb ed="#B" n="98"/>rum, licet plerumque illi actus distinguantur specie. 
+  </p>
+      <p xml:id="jMqv4a-d1e669-d1e989">
+       <lb ed="#B" n="99"/>⁋ Quarto arguitur. Furta apud Scythas maxi 
+   <lb ed="#B" n="100"/>me puniuntur: &amp; maiori poena quam rapina: ergo fur 
+   <lb ed="#B" n="101"/>tum est maius. Respondetur quod consequutio non est 
+   <lb ed="#B" n="102"/>valida. Lex enim est rationabilis apud eos: quia in ple 
+   <lb ed="#B" n="103"/>risque locis non habent domos, sed omnia vehut in cur 
+   <lb ed="#B" n="104"/>ribus. Propterea si non acriter punirent furta: nihil 
+   <lb ed="#B" n="105"/>eis remaneret. ldeoque praecipit <name xml:id="jMqv4a-d1e669-Nd1e1006" ref="#Aristotle">Aristoteles</name> in proble 
+   <lb ed="#B" n="106"/>matibus vt puniantur multum furantes e balneo vel 
+   <lb ed="#B" n="107"/>tabena vel e locis publicis.
+  </p>
+    </div>
+   </body>
+  </text>
+</TEI>

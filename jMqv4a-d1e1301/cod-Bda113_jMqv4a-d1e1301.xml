@@ -1,0 +1,327 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 23</title>
+      <author ref="#JohnMair">John Mair</author>
+      <respStmt>
+       <name>Jeffrey C. Witt</name>
+       <resp>TEI Encoder</resp>
+      </respStmt>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 23</title>
+       <date when="2020-06-09">June 27, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="B" n="cod-Bda113">Badius 1516</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+     guidelines for a diplomatic edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-06-27" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+      <pb ed="#B" n="244-r"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="jMqv4a-d1e1301"> <!-- l4d24q23 -->
+      <head xml:id="jMqv4a-d1e1301-Hd1e104">Quaestio 23</head>
+      <head xml:id="jMqv4a-d1e1301-Hd1e107" type="question-title">Utrum clericus teneatur restituere fructus beneficii 
+  quos in mortali recepti</head>
+      <p xml:id="jMqv4a-d1e1301-d1e110">
+       <lb ed="#B" n="87"/>⁋ Distinctionis Vigesimae quartae 
+   <lb ed="#B" n="88"/>Quaestio Vigesimatertia &amp; vltima. 
+   <lb ed="#B" n="89"/>lgesimotertio &amp; vltin 
+   <lb ed="#B" n="90"/>mo circa hanc distinctionem 
+   <lb ed="#B" n="91"/>quaeritur. vtrum clericus tenea 
+   <lb ed="#B" n="92"/>tur restituere fructus
+   benefi<lb ed="#B" n="93" break="no"/>scii quos in mortali recepit. 
+   <lb ed="#B" n="94"/>Respondet Angelus in sum 
+   <lb ed="#B" n="95"/>quam ma in ver. Clericus. &amp; sequi 
+   <lb ed="#B" n="96"/>tur <ref xml:id="jMqv4a-d1e1301-Rd1e133">
+        <name xml:id="jMqv4a-d1e1301-Nd1e135" ref="#GabrielBiel">Gabriel</name> in xv. distinctione. iiii. u. viii. per
+   di<lb ed="#B" n="97" break="no"/>stinctionem hanc</ref>. Aut peccatum est notorium: 
+   <lb ed="#B" n="98"/>&amp; sic pro indubitato dicunt quod tenetur restituere 
+   <lb ed="#B" n="99"/>fructus. de occulto peccatore credunt quod non
+   te<lb ed="#B" n="100" break="no"/>netur restituere: tutius est tamen restituere. Ratio 
+   <lb ed="#B" n="101"/>primi secundum eos est: quia cum clericus sit sus 
+   <lb ed="#B" n="102"/>pensus: perinde est ac si non resideret. sed omne 
+   <lb ed="#B" n="103"/>peccatum notorium inducit suspensionem a canone ne 
+   <lb ed="#B" n="104"/>exerceat officium suum. vt dicitur in cap. Vestra. de 
+   <lb ed="#B" n="105"/>coha. cle. &amp; mulie, quod licet loquatur in crimine for 
+   <lb ed="#B" n="106"/>nicationis: tamen extenditur ad omne crimen notorium 
+   <!--0520.xml-->
+   <pb ed="#B" n="244-v"/>
+       <cb ed="#B" n="a"/>
+       <lb ed="#B" n="1"/>facti vel iuris. Nam constitutio poenalis etiam quo 
+   <lb ed="#B" n="2"/>ad poenam extenditur ad casum similem ex identitate 
+   <lb ed="#B" n="3"/>rationis / si ratio constitutionis in ea est expressa. Cum 
+   <lb ed="#B" n="4"/>autem dictum cap. Vestra per rationem peccati notorie 
+   <lb ed="#B" n="5"/>tatis, concubinarium notorium concludat esse
+   suspen<lb ed="#B" n="6" break="no"/>sum: idem erit in omni peccato mortali
+   notorio<lb ed="#B" n="7" break="no"/>ltem suspensus non iudicatur residere: sicut
+   perin<lb ed="#B" n="8" break="no"/>de est / non fieri / &amp; non rite fieri. 
+  </p>
+      <p xml:id="jMqv4a-d1e1301-d1e186">
+       <lb ed="#B" n="9"/>⁋ Contra haec dicta pono duas
+   con<lb ed="#B" n="10" break="no"/>ciusiones. quarum prior est. Certum est quod
+   occul<lb ed="#B" n="11" break="no"/>tus peccator non tenetur fructus restituere rece 
+   <lb ed="#B" n="12"/>ptos tempore peccati occulti. &amp; per consequens 
+   <lb ed="#B" n="13"/>nihil est dicere, tutius esse restituere, timidorum co 
+   <lb ed="#B" n="14"/>scientias pulsando, ac si ad restitutionem
+   tenean<lb ed="#B" n="15" break="no"/>tur. Probatur. occultus peccator potest facere illa 
+   <lb ed="#B" n="16"/>quae suo officio incumbunt: &amp; beneficium datur 
+   <lb ed="#B" n="17"/>propter officium: ergo cum faciat officium: licite reci 
+   <lb ed="#B" n="18"/>pit beneficium: hoc est praebendam vel fructus 
+   <lb ed="#B" n="19"/>Assumptum patet: quia non tenetur quolibet die 
+   <lb ed="#B" n="20"/>celebrare missam. capiam ergo totum tempus in 
+   <lb ed="#B" n="21"/>quo non tenetur celebrare: iste dicit horas: canit in 
+   <lb ed="#B" n="22"/>choro: &amp; facit caetera requisita ad suum officium. 
+   <lb ed="#B" n="23"/>igitur. Praeterea arguitur ad idem. Si non facit fru 
+   <lb ed="#B" n="24"/>ctus suos: hoc est propterea quia peccat
+   exercen<lb ed="#B" n="25" break="no"/>do actus sui officii: sed hoc non impedit: quod pro 
+   <lb ed="#B" n="26"/>bo dupliciter. Primo, non oportet quod peccet con 
+   <lb ed="#B" n="27"/>tinuo / exercendo actus sui officii. Secundo. etsi 
+   <lb ed="#B" n="28"/>peccat: adhuc facit fructus suos. quod probo: quia 
+   <lb ed="#B" n="29"/>celebrans in mortali pro sex paruis albis / lucratu 
+   <lb ed="#B" n="30"/>pecuniam illam quis ignoret an sit in peccato: &amp; 
+   <lb ed="#B" n="31"/>tamen peccat celebrando. igitur. Insuper nisi conclu 
+   <lb ed="#B" n="32"/>sio esset vera / confunderetur vita clericorum: nec 
+   <lb ed="#B" n="33"/>scire possent quando faciunt fructus suos: &amp; quan 
+   <lb ed="#B" n="34"/>do non.
+  </p>
+      <p xml:id="jMqv4a-d1e1301-d1e246">
+   ⁋ Secunda conclusio, notorius peccator 
+   <lb ed="#B" n="35"/>faciens actus officii sui non tenetur restituere
+   fru<lb ed="#B" n="36" break="no"/>ctus receptos. probatur. facit illud quod pertinet 
+   <lb ed="#B" n="37"/>ad suum officium. ergo sicut in priori conclusione 
+   <lb ed="#B" n="38"/>peccatum eius non obstat: vt ipsi concedunt de 
+   <lb ed="#B" n="39"/>occulto peccato: nec sola notorietas impedit.
+   igi<lb ed="#B" n="40" break="no"/>tur. Insuper nullo iure illud potest ostendi. ergo 
+   <lb ed="#B" n="41"/>non est asserendum illud quod illaqueat hominum 
+   <lb ed="#B" n="42"/>conscientias. Probationes autem eorum sunt
+   in<lb ed="#B" n="43" break="no"/>ualidae. Nam quando dicunt quod notorium
+   pecca<lb ed="#B" n="44" break="no"/>tum inducit suspensionem ne homo exerceat of 
+   <lb ed="#B" n="45"/>ficium suum: dico hoc esse falsum. &amp; quod cap.
+   Ve<lb ed="#B" n="46" break="no"/>stra. de cohabi. cle. &amp; mulie, non extenditur ad si 
+   <lb ed="#B" n="47"/>milia crimina vel grauioram per se non inclusa in 
+   <lb ed="#B" n="48"/>pso. poenae enim restringendae sunt &amp; non am 
+   <lb ed="#B" n="49"/>pliandae. etiam poena huius canonis est abrogata 
+   <lb ed="#B" n="50"/>per concilium Constantiense: quod Angelus
+   con<lb ed="#B" n="51" break="no"/>fitetur. Alia ratio est nulla. nam idem est non residere 
+   <lb ed="#B" n="52"/>&amp; inutiliter residere: sed cum iste exerceat actus suo 
+   <lb ed="#B" n="53"/>officio debitos: vtiliter residet. 
+   <!--0520.xml-->
+   <cb ed="#B" n="b"/> 
+       <!-- 244-v b -->
+       <lb ed="#B" n="54"/> Ltimo dubitatur circa res
+   ec<lb ed="#B" n="55" break="no"/>quam clesiae. an praelatus possit res ecclesiae alie 
+   <lb ed="#B" n="56"/>Qnare. Respondetur quod non. vt patet in cap. 
+   <lb ed="#B" n="57"/>Nulli. de rebus eccle. alienam. vel non. vbi sic scribitur 
+   <lb ed="#B" n="58"/>Nulli liceat alienare rem immobilem ecclesiae / siue 
+   <lb ed="#B" n="59"/>agrum: siue rusticum mancipium: neque specialis hypothe 
+   <lb ed="#B" n="60"/>cae titulo obligare. Alienationis autem verbum
+   conti<lb ed="#B" n="61" break="no"/>net conditionem / donationem / venditionem / permutatie 
+   <lb ed="#B" n="62"/>nem / &amp; emphiteoticum perpetuum contractum. Vnde 
+   <lb ed="#B" n="63"/>omnes sacerdotes ab huiusmodi alienatione absti 
+   <lb ed="#B" n="64"/>neant, poenas timentes quas Leonina constitutio co 
+   <lb ed="#B" n="65"/>minatur.
+  </p>
+      <p xml:id="jMqv4a-d1e1301-d1e322">
+   ⁋ In quatuor tamen casibus possunt res ec 
+   <lb ed="#B" n="66"/>clesiae alienari. Primus est necessitatis: vt si ecclesiam 
+   <lb ed="#B" n="67"/>debita vrgeant: nec possit de fructibus
+   satisface<lb ed="#B" n="68" break="no"/>re. Secundus casus est vtilitatis. nam potest
+   alie<lb ed="#B" n="69" break="no"/>nate rem vt habeat meliorem. per cap. Vt super. de 
+   <lb ed="#B" n="70"/>reb. eccle, non alien. &amp;. xii. q. ii. cap. Sine
+   exceptio<lb ed="#B" n="71" break="no"/>ne. Tertius est pietatis causa: pro redimendis
+   ca<lb ed="#B" n="72" break="no"/>ptiuis. xii. q. ii. Aurum. &amp; cap. Sanctorum. &amp; cap. 
+   <lb ed="#B" n="73"/>Sicut. Quartus casus incommoditatis causa: vt 
+   <lb ed="#B" n="74"/>quia res alienanda est magis damnosa ecclesiae quam 
+   <lb ed="#B" n="75"/>vtilis. xii. qu. ii. Terrulas. 
+  </p>
+      <p xml:id="jMqv4a-d1e1301-d1e346">
+       <lb ed="#B" n="76"/>⁋ Finem toti huic distinctioni
+   im<lb ed="#B" n="77" break="no"/>ponendo haec in ea maxime sunt consideranda. 
+   <lb ed="#B" n="78"/>Licet de numero septenario vel nouenario
+   ordi<lb ed="#B" n="79" break="no"/>num non sint rationes magnae efficaciae: placet
+   ta<lb ed="#B" n="80" break="no"/>men plus amplecti numerum nouenarium. &amp; quamuis 
+   <lb ed="#B" n="81"/>omnes sint sacri quia sacramenta: quia tamen
+   ali<lb ed="#B" n="82" break="no"/>qui habent castitatem annexam quae homines sacros 
+   <lb ed="#B" n="83"/>reddere solet: illi soli sacri vulgariter appellantur. 
+   <lb ed="#B" n="84"/>Pro illa autem contnentia sacerdotum multu
+   insuda<lb ed="#B" n="85" break="no"/>runt patres: eam vtilissimam politiae ecclesiasticae
+   iudi<lb ed="#B" n="86" break="no"/>cantes: quare in ea non potest pontifex dispensare 
+   <lb ed="#B" n="87"/>siue de iure siue de facto, ad sensum ante dictum 
+   <lb ed="#B" n="88"/>Praeterea diximus &amp; episcopos &amp; curatos esse ex 
+   <lb ed="#B" n="89"/>institutione Christi: &amp; ex eadem institutione
+   ma<lb ed="#B" n="90" break="no"/>ximum pontificem caput ecclesiae diximus. qui ex institu 
+   <lb ed="#B" n="91"/>tione Christi non habet dominium in temporalibus. sed Con 
+   <lb ed="#B" n="92"/>stantinus &amp; populus dederunt Syluestro &amp; succes 
+   <lb ed="#B" n="93"/>soribus eius multas terras in ltalia quarum ecclesia ha 
+   <lb ed="#B" n="94"/>bet dominium. argumentum autem est infallibile etiam
+   prae<lb ed="#B" n="95" break="no"/>termissis historiis. Nam primi pontifices has terras 
+   <lb ed="#B" n="96"/>habentes non poterant violentia a potentissimis impe 
+   <lb ed="#B" n="97"/>ratoribus auferre. taceo de praescriptione in illis. 
+   <lb ed="#B" n="98"/>quare hoc reuocare in dubium est solius impruden 
+   <lb ed="#B" n="99"/>tis. Potest autem esse disputatio verbalis an habeat 
+   <lb ed="#B" n="100"/>dominium in temporalibus super reges: dummodo
+   ta<lb ed="#B" n="101" break="no"/>men maneat eadem sententia: de verbis non est cu 
+   <lb ed="#B" n="102"/>randum.
+  </p>
+      <p xml:id="jMqv4a-d1e1301-d1e407">
+   ⁋ Et ne aliqui mediocris solum intelligen 
+   <lb ed="#B" n="103"/>tiae fallantur in his quae dicere volo: adhuc paucis 
+   <lb ed="#B" n="104"/>clare repetam. Dico reges non esse vasallos Romani 
+   <lb ed="#B" n="105"/>pontificis: nec tenere regnum ab eo sed a populo li 
+   <lb ed="#B" n="106"/>bero cu i praesunt: nec potest eos deponere a regno. immo 
+   <lb ed="#B" n="107"/>si iniuste &amp; via facti hoc attentaret: posset se ferro tam 
+   <!--0521.xml-->
+   <pb ed="#B" n="245-r"/>
+       <cb ed="#B" n="a"/>
+       <lb ed="#B" n="1"/>via facti quam iuris tueri. quapropter in hoc non pecca 
+   <lb ed="#B" n="2"/>uit Philippus pulcher resistendo Bonifacio octauo. 
+   <lb ed="#B" n="3"/>Non tamen nego quin si rex abuteretur ptante iudicio pru 
+   <lb ed="#B" n="4"/>dentum neutrorum qui iudicarent regem esse depo 
+   <lb ed="#B" n="5"/>nendum: quia ipsum regnare sit in perniciem reipu 
+   <lb ed="#B" n="6"/>blicae christianae: multum possit pontifex facere ad eius 
+   <lb ed="#B" n="7"/>depositionem. &amp; hoc modo habet dominium
+   consulti<lb ed="#B" n="8" break="no"/>uum siue directiuum. an autem ipse tunc deponeret
+   ca<lb ed="#B" n="9" break="no"/>sualiter regem, an populus: parum refert. Sed vbi 
+   <lb ed="#B" n="10"/>rex &amp; populus ei subiectus pertinaciter persisteret in  
+   <lb ed="#B" n="11"/>haeresibus: dico pontificem in illo casu habere auctori 
+   <lb ed="#B" n="12"/>tatem exauthorandi regis. &amp; hoc est aliquo modo 
+   <lb ed="#B" n="13"/>habere dominium. Similem sententiam videas apud  
+   <lb ed="#B" n="14"/>Panor. in cap. Nouit. de iudiciis. &amp; reliquos
+   cano<lb ed="#B" n="15" break="no"/>nistas: licet alio modo loquendi vtantur. Quaerit 
+   <lb ed="#B" n="16"/>Panormitanus in illo cap. Quid valet pontifici ha 
+   <lb ed="#B" n="17"/>bere gladium materialem super imperatorem cum 
+   <lb ed="#B" n="18"/>non possit eum exauthorare: nec de iure: nec de fa 
+   <lb ed="#B" n="19"/>cto? hoc est factum non tenet nisi fuerit
+   rationabi<lb ed="#B" n="20" break="no"/>lis causa iudicio prudentum: vt nunc exemplum posuimus. 
+   <lb ed="#B" n="21"/>&amp; idem habet in sententia. Respondendo dicit va 
+   <lb ed="#B" n="22"/>lere ad multa. sed quicquid sit de multis: vnum verbum 
+   <lb ed="#B" n="23"/>solum dicit in sententia: scilicet quod in his quae
+   scandali<lb ed="#B" n="24" break="no"/>zant rempublicam christianam / papa potest se
+   intromitte<lb ed="#B" n="25" break="no"/>re ratione praeminentiae suae. hoc ego concedo. sane fru 
+   <lb ed="#B" n="26"/>stra canonistae verborum prodigalitate laborant pro hac 
+   <lb ed="#B" n="27"/>praecellentia in temporalibus: quam prudens nullus nega 
+   <lb ed="#B" n="28"/>bit. Ergo idem est dicere, habet dominium super re 
+   <lb ed="#B" n="29"/>ges in temporalibus: &amp; non habet dominium super 
+   <lb ed="#B" n="30"/>eosdem: dummodo enim habeatur eadem sententia: nullo
+   mo<lb ed="#B" n="31" break="no"/>do est contradictio: quia contradictio non est solum ver 
+   <lb ed="#B" n="32"/>balis: sed etiam realis. Concedo itaque illud commune 
+   <lb ed="#B" n="33"/>dictum. Papa habet vtrumque gladium. sed in sensu quo 
+   <lb ed="#B" n="34"/>vtor. habet enim temporalem in habitu vt ante exposui 
+   <lb ed="#B" n="35"/>in sua quaestione: vel casualiter. regulariter autem non ha 
+   <lb ed="#B" n="36"/>bet: immo non potest extrahere illum gladium e vagina 
+   <lb ed="#B" n="37"/>si velit. Non potest item legitimare spurium in temporalibus 
+   <lb ed="#B" n="38"/>vt succedat in dominio patemo in Francia vel in Hispa 
+   <lb ed="#B" n="39"/>nia: &amp; tamen hi reges possunt illud facere pro rationabi 
+   <lb ed="#B" n="40"/>li causa: pro qua pontifex non potest: quare non habet do 
+   <lb ed="#B" n="41"/>minium super reges regulariter. velim hoc modo
+   lo<lb ed="#B" n="42" break="no"/>quendi vtereris ad discrimen verbale tollendum.
+   Gla<lb ed="#B" n="43" break="no"/>dium vero spiritualem habet immediate: hoc est 
+   <lb ed="#B" n="44"/>exercet immediate &amp; actualiter pro rationabili can 
+   <lb ed="#B" n="45"/>quando vult. Alterum gladium scilicet temporalem non ha 
+   <lb ed="#B" n="46"/>bet nisi casualiter: vt quando vrgentissima causa
+   iudi<lb ed="#B" n="47" break="no"/>cio sapientum occurrit. vt si a. rex esset reipublicae 
+   <lb ed="#B" n="48"/>christianae inutilis: &amp; niteretur pertinaciter &amp;
+   incorrigi<lb ed="#B" n="49" break="no"/>biliter populum sibi subiectum deducere in perniciosas 
+   <lb ed="#B" n="50"/>haereses: &amp; populus nollet eum extrudere regno: sed  
+   <lb ed="#B" n="51"/>etiam malitiose fouere: in illo casu dico maximum 
+   <lb ed="#B" n="52"/>pontificem habere potestatem a deo collatam
+   ta<lb ed="#B" n="53" break="no"/>lem regem a regno pellendi, &amp; vocandi reliquos chri 
+   <lb ed="#B" n="54"/>stianos in suum auxilium. sed vbi populus esset pa 
+   <lb ed="#B" n="55"/>ratus talem exauthorare: ad populum spectat: nec 
+   <!--0521.xml-->
+   <cb ed="#B" n="b"/> 
+       <!-- 245-r b -->
+       <lb ed="#B" n="56"/>debet pontifex aliud expetere: cum rex habeat aucto 
+   <lb ed="#B" n="57"/>ritatem immediatam &amp; radicalem a populo, quam ta 
+   <lb ed="#B" n="58"/>em regno destituet pro suis meritis. Quid amplius de 
+   <lb ed="#B" n="59"/>bet inquirere ponufex: dicendo quod hoc faciat
+   au<lb ed="#B" n="60" break="no"/>ctoritate sua, quod alii negabunt: sufriciat ei vt bene
+   pro<lb ed="#B" n="61" break="no"/>uideatur ecclesiae dei quam accepit gubernandam: &amp; nu 
+   <lb ed="#B" n="62"/>triat pacem cum populo sibi subiecto. Sed vix 
+   <lb ed="#B" n="63"/>hoc prodigium euenit post fidem susceptam. Non loquor 
+   <lb ed="#B" n="64"/>de potestate pontificis in imperatorem: quia fortas 
+   <lb ed="#B" n="65"/>sis super eum maius habet dominium quo ad
+   ali<lb ed="#B" n="66" break="no"/>quas terras ltaliae, quam super reges. Hanc materiam tam in  
+   <lb ed="#B" n="67"/>ter pontificem &amp; reges quam inter imperatorem &amp; reges, 
+   <lb ed="#B" n="68"/>alibi prolixius deduco. propterea haec pauca nunc 
+   <lb ed="#B" n="69"/>dixisse sufficiat.
+  </p>
+      <p xml:id="jMqv4a-d1e1301-d1e583">
+   ⁋ Praeterea diximus collatorem benefi 
+   <lb ed="#B" n="70"/>cii esse obnoxium ipsum conferrae magis idoneo minus 
+   <lb ed="#B" n="71"/>idoneo relicto. Vtinam pontifices non ita facile
+   dispen<lb ed="#B" n="72" break="no"/>sarent cum ista beneficiorum pluralitate: sed optimas 
+   <lb ed="#B" n="73"/>leges a prioribus pontificibus super hoc
+   compo<lb ed="#B" n="74" break="no"/>sitas seruarent. &amp; multo magis praestaret, vt opinor, 
+   <lb ed="#B" n="75"/>etiam cum bene meritis non dispensare quam sic promiscue 
+   <lb ed="#B" n="76"/>cum quolibet rogante dispensare. Non tamen me 
+   <lb ed="#B" n="77"/>fugit quin aliquis bene meritus iuste feneatur plura 
+   <lb ed="#B" n="78"/>beneficia. Summa laude efferendus est Benedict 
+   <lb ed="#B" n="79"/>duodecimus: qui nec minis regum: nec blanditiis prim 
+   <lb ed="#B" n="80"/>cipum vel consanguineorum poterat vnquam a recto 
+   <lb ed="#B" n="81"/>flecti. a quo cum quidam peteret dispensatione pro duo 
+   <lb ed="#B" n="82"/>bus episcopatibus, asserens se filium regis: respondit. 
+   <lb ed="#B" n="83"/>&amp; si filius dei esses: in hoc non dispensabo. Et cum 
+   <lb ed="#B" n="84"/>consanguinei ei inculcarent quod ratione sanguinis 
+   <lb ed="#B" n="85"/>deberet sibi prouidere, ac condescendere: cauillando  
+   <lb ed="#B" n="86"/>egregie respondit verbum tanto pontifice dignum 
+   <lb ed="#B" n="87"/>dicens Romanum pontificem non habere consangui 
+   <lb ed="#B" n="88"/>neos. O virum summo sacerdotio dignum. O dec 
+   <lb ed="#B" n="89"/>Cistertii. O virum cum beato Bernardo luctantem: vter 
+   <lb ed="#B" n="90"/>virtutem magis insequatur. cisternas nouas exvna 
+   <lb ed="#B" n="91"/>parte centri virtutis fodit Bernardus: quatenus cem 
+   <lb ed="#B" n="92"/>trum virtutis per methodos intactas attingeret. at 
+   <lb ed="#B" n="93"/>Benedictus angelico more virtutibus stipatus cen 
+   <lb ed="#B" n="94"/>trum virtutis indice monstrat: volens in seipso ve 
+   <lb ed="#B" n="95"/>rificari hoc elogium, secundum nomen: ita &amp; laus eius. Vi 
+   <lb ed="#B" n="96"/>des hos plurales nunquam satiatos, semper sollicitos: 
+   <lb ed="#B" n="97"/>nunc circa inanem gloriam: nunc circa auaritiam: &amp; 
+   <lb ed="#B" n="98"/>crebro pecuniae expertes &amp; indigos. nam propin 
+   <lb ed="#B" n="99"/>qui &amp; cognati suadentes eis haec beneficia coacer 
+   <lb ed="#B" n="100"/>uare: omnia vorant. &amp; quod non capit Christus: 
+   <lb ed="#B" n="101"/>hoc capit fiscus. Ediuerso aliquos vides paucissi 
+   <lb ed="#B" n="102"/>mis contentos &amp; quidem iucundissimos: pecuniae 
+   <lb ed="#B" n="103"/>non indigos. Vtinam etiam reges, hos inutiles cu 
+   <lb ed="#B" n="104"/>riales non promouerent: nec apud maximum ponti 
+   <lb ed="#B" n="105"/>ficem intercederent pro inidoneorum promotione. 
+   <lb ed="#B" n="106"/>plurimum certe peccant res ecclesiae labefactantes 
+   <lb ed="#B" n="107"/>clerici commorantes in curiis: qui non vocati ad 
+   <lb ed="#B" n="108"/>cedunt solum pro beneficiorum adeptione: quod in 
+   <lb ed="#B" n="109"/>dicium est tam auaritiae quam ambitionis.
+  </p>
+    </div>
+   </body>
+  </text>
+</TEI>

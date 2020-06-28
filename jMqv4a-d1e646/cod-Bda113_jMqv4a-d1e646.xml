@@ -1,0 +1,317 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 21</title>
+      <author ref="#JohnMair">John Mair</author>
+      <respStmt>
+       <name>Jeffrey C. Witt</name>
+       <resp>TEI Encoder</resp>
+      </respStmt>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 21</title>
+       <date when="2020-06-09">June 27, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="B" n="cod-Bda113">Badius 1516</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+     guidelines for a diplomatic edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-06-27" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+      <pb ed="#B" n="121-r"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="jMqv4a-d1e646"> <!-- l4d15q21 -->
+      <head xml:id="jMqv4a-d1e646-Hd1e104">Quaestio 21</head>
+      <head xml:id="jMqv4a-d1e646-Hd1e107" type="question-title">An licitum sit christiano viro vocare in suum auxilium 
+  infideles contra Christianos</head>
+      <p xml:id="jMqv4a-d1e646-d1e110">
+   <!--0273.xml-->
+       <pb ed="#B" n="121-r"/>
+       <cb ed="#B" n="a"/>
+       <lb ed="#B" n="1"/>IN superioribus
+   dua<lb ed="#B" n="2" break="no"/>bus quaestionibus de homicidio 
+   <lb ed="#B" n="3"/>ritum &amp; bello loquuti sumus: &amp; di 
+   <lb ed="#B" n="4"/>AaAximus aliquod homicidium esse 
+   <lb ed="#B" n="5"/>llicitum &amp; meritorium. Siciter ali 
+   <lb ed="#B" n="6"/>Gaquod bellum iustum esse: aliquod
+   iniu<lb ed="#B" n="7" break="no"/>stum: &amp; bellum num quam suscipiendum 
+   <lb ed="#B" n="8"/>e esse diximus: vbi pace viola 
+   <lb ed="#B" n="9"/>ta iustitia potest instaurari seu reordiari: &amp; hoc propter 
+   <lb ed="#B" n="10"/>abusus qui passim in bello contigunt: vt virginum 
+   <lb ed="#B" n="11"/>&amp; caeterarum mulierum violatio seu defloratio: inson 
+   <lb ed="#B" n="12"/>tes plerumque laesi: innocentum bona crebro ablata: ex 
+   <lb ed="#B" n="13"/>diuitibus factiinopes, vitam aerumnosam coacti duce 
+   <lb ed="#B" n="14"/>re: homicidia &amp; caetera id genus exercentes. Pax autem 
+   <lb ed="#B" n="15"/>quae est finis belli iusti, omni ratione est quaerenda: &amp; inquisita per 
+   <lb ed="#B" n="16"/>sequenda secundum illud Psalmographi. Inquire 
+   <lb ed="#B" n="17"/>pacem &amp; persequere eam. Psalmo. xxxiii. et
+   Veri<lb ed="#B" n="18" break="no"/>ras de caelo prospexit: iustitia &amp; pax oscultatae sunt. 
+   <lb ed="#B" n="19"/>Psalmo. lxxxiiii. Et Hester. xiii. Vt absque vllo tei 
+   <lb ed="#B" n="20"/>rore vitam silentio transigentes, optata cunctis
+   mor<lb ed="#B" n="21" break="no"/>talibus pace fruerentur. Sine pace enim non est iustitia. 
+   <lb ed="#B" n="22"/>Propterea Saluator noster Ioannis. xiiii. nobis 
+   <lb ed="#B" n="23"/>hanc in testamento reliquit, inquens. Pacem relinquo  
+   <lb ed="#B" n="24"/>vobis: pacem meam do vobis. Vt itaque simus eius 
+   <lb ed="#B" n="25"/>haeredes, pacem in qua auctor pacis colitur
+   inea<lb ed="#B" n="26" break="no"/>mus: non horrida bella, nisi vt pax habeatur, sus 
+   <lb ed="#B" n="27"/>cipiamus. Sed cum nobis inuitis occurrit
+   mate<lb ed="#B" n="28" break="no"/>ria bellandi: pugnare non est illicitum. Adhuc pro 
+   <lb ed="#B" n="29"/>huius materiae deductione Tertio quaeritur. an lici 
+   <lb ed="#B" n="30"/>tum sit Christiano viro vocare in suum auxilium infide 
+   <lb ed="#B" n="31"/>les contra Christianos. 
+  </p>
+      <p xml:id="jMqv4a-d1e646-d1e186">
+       <lb ed="#B" n="32"/>⁋ Pro solutione quaestionis pono hanc 
+   <lb ed="#B" n="33"/>conclusionem affirmatiuam. Christianis licet in ca 
+   <lb ed="#B" n="34"/>su accersere infideles in suam opem. Probatur.
+   lu<lb ed="#B" n="35" break="no"/>daei fideles inierunt pacem cum infidelibus: ergo  
+   <lb ed="#B" n="36"/>christiano fideli licet inire pacem cum infideli
+   qui<lb ed="#B" n="37" break="no"/>tenus infidelis sit sibi auxilio, consequentia est non 
+   <lb ed="#B" n="38"/>ta: quia eadem est ratio de Christiano nunc qui 
+   <lb ed="#B" n="39"/>solus fidelis est: &amp; de ludaeis in lege Mosaica. An  
+   <lb ed="#B" n="40"/>tecedens patet sic. Machabaei viri boni &amp; timentes 
+   <lb ed="#B" n="41"/>deum audientes magnas Romanorum laudes 
+   <lb ed="#B" n="42"/>&amp; virtutes miserunt ad eos: &amp; cum eis percusserunt 
+   <lb ed="#B" n="43"/>foedus: vt essent auxilio populo dei contra reges 
+   <lb ed="#B" n="44"/>Syriae &amp; vicinos. vt dicitur primi Macha. viii. vbi sic 
+   <lb ed="#B" n="45"/>scribitur. Et elegit ludas Eupolemium filium
+   loan<lb ed="#B" n="46" break="no"/>nis filii Iacob: &amp; lasonem filium Eleazari: &amp;
+   mi<lb ed="#B" n="47" break="no"/>sit eos Romam constituere cum illis amicitiam 
+   <lb ed="#B" n="48"/>&amp; societatem: &amp; vt auferrent ab eis iugum Graeco 
+   <lb ed="#B" n="49"/>rum: quia viderunt quod in seruitutem premerent 
+   <lb ed="#B" n="50"/>regnum Israel. Et sequitur in litera. Et hoc re- 
+   <!--0273.xml-->
+   <cb ed="#B" n="b"/> 
+       <!-- 121-r b -->
+       <lb ed="#B" n="51"/>scriptum quod rescripserunt Roman) in tabu 
+   <lb ed="#B" n="52"/>lis aereis: &amp; miserunt in Hierusalem: vt esset apud  
+   <lb ed="#B" n="53"/>eos ibi memoriale pacis &amp; societatis. Bamin sit
+   Ro<lb ed="#B" n="54" break="no"/>manis &amp; genti ludaeorum in mati &amp; in terra in aeter 
+   <lb ed="#B" n="55"/>num / gladiusque &amp; hostis procul sit ab eis. &amp; quae se 
+   <lb ed="#B" n="56"/>quuntur. Et iterum cum Simone renouatae sunt 
+   <lb ed="#B" n="57"/>illae amicitiae. primi Macha. xiiii. Et losue iniit foe 
+   <lb ed="#B" n="58"/>dus cum Gabaonitis. vt patet losue. ix. &amp;. x. Quia 
+   <lb ed="#B" n="59"/>forte dicere posses ad primum adductum de
+   Ma<lb ed="#B" n="60" break="no"/>chabaeis quod ipsi inierunt pacem cum infidelibus: 
+   <lb ed="#B" n="61"/>vt infidelibus resisterent a quibus opprimebantur 
+   <lb ed="#B" n="62"/>probatur etiam contra fideles. nam primi Regum 
+   <lb ed="#B" n="63"/>xxviii. Dauid iniit pacem cum Philisteis: &amp; cum 
+   <lb ed="#B" n="64"/>eorum rege scilicet Achis: vbi dicitur. Dixitque Da 
+   <lb ed="#B" n="65"/>uid ad Achis: nunc scies quae facturus est seruus 
+   <lb ed="#B" n="66"/>tuus. vbi glossa interli. Pro te contra hostes tuos. 
+   <lb ed="#B" n="67"/>Sed dicis. illic Dauid intendebat cum sexcentis 
+   <lb ed="#B" n="68"/>viris suis opem ferre infideli viro contra
+   popu<lb ed="#B" n="69" break="no"/>um dei: &amp; ita non est ad propositum. Sed hoc non 
+   <lb ed="#B" n="70"/>excludit argumentum: quia Dauid habebat ius in  
+   <lb ed="#B" n="71"/>regno Israel caelitus collatum a deo: &amp; poterat
+   il<lb ed="#B" n="72" break="no"/>lud acquirere virtute armorum nacta opportuni 
+   <lb ed="#B" n="73"/>tate: &amp; in tali bello iusto poterat vti licite ope Phi 
+   <lb ed="#B" n="74"/>listinorum. Nata erat ei probabile si Philistei
+   ha<lb ed="#B" n="75" break="no"/>perent victoriam, quod Achis sibi amicissimus se
+   iu<lb ed="#B" n="76" break="no"/>uaret ad possidendum regnum: quia habita victo 
+   <lb ed="#B" n="77"/>ria Philistei illud regnum non possederunt: sed in  
+   <lb ed="#B" n="78"/>terram suam reuersi sunt. lstud patet ex Ambro 
+   <lb ed="#B" n="79"/>sio: &amp; recitatur. xi. q. iii. cap. lulianus. vbi dicitur. 
+   <lb ed="#B" n="80"/>sulianus Imperator quamuis esset apostata: habuit 
+   <lb ed="#B" n="81"/>tamen sub se christianos milites: quibus cum dice 
+   <lb ed="#B" n="82"/>bat: producite aciem cum defensione reipublicae 
+   <lb ed="#B" n="83"/>obediebant ei. Item arguitur ratione. si sortes ha 
+   <lb ed="#B" n="84"/>beat verum ius ad a. regnum quod detiuetur a Ty 
+   <lb ed="#B" n="85"/>ranno / habet iustam causam bellandi contra tyran 
+   <lb ed="#B" n="86"/>num pro sui regni recuperatione: ergo quoruncuque 
+   <lb ed="#B" n="87"/>ope vti potest pro recuperatione illius regni. Prae 
+   <lb ed="#B" n="88"/>terea si viginti fideles viri inuadant sortem
+   fide<lb ed="#B" n="89" break="no"/>em eum occisuri: sortes potest implorare opem 
+   <lb ed="#B" n="90"/>infidelium propinquorum: vt sibi ferant
+   suppe<lb ed="#B" n="91" break="no"/>tias pro defensione sui corporis. Sufficit enim quod 
+   <lb ed="#B" n="92"/>teneant ei fidelitatem in illo. Fodem modo pos 
+   <lb ed="#B" n="93"/>accersere infideles: vt sint sibi auxilio pro rebus suis 
+   <lb ed="#B" n="94"/>niuste ablatis incontinenti: quia hoc est vim vi
+   re<lb ed="#B" n="95" break="no"/>pellere cum moderamine inculpatae tutelae, ex quaestione 
+   <lb ed="#B" n="96"/>praecedente. ergo eodem modo potest vocare infideles 
+   <lb ed="#B" n="97"/>pro recuperando suo regno. In hoc enim nulla lex 
+   <lb ed="#B" n="98"/>positiua humana potest ei praeiudicare. 
+  </p>
+      <p xml:id="jMqv4a-d1e646-d1e341">
+       <lb ed="#B" n="99"/>⁋ Sed contra hanc conclusionem
+   ar<lb ed="#B" n="100" break="no"/>guitur sic. fideles adducti a luliano imperatore no 
+   <lb ed="#B" n="101"/>lebant pugnare contra christianos sub infideli
+   im<lb ed="#B" n="102" break="no"/>eratore: ergo non licet fideli capere auxilium ab in 
+   <lb ed="#B" n="103"/>fidelibus. Antecedens patet: quia in dicto cap.
+   lu<lb ed="#B" n="104" break="no"/>lianus, statim sequitur. cum autem diceret eis: producite ar-  
+   <!--0274.xml-->
+   <pb ed="#B" n="121-v"/>
+       <cb ed="#B" n="a"/>
+       <lb ed="#B" n="1"/>ma in Christianos: tunc cognoscebant imperato 
+   <lb ed="#B" n="2"/>rem caeli. hoc est prodire nolebant ad bellum contra christi 
+   <lb ed="#B" n="3"/>anos.
+  </p>
+      <p xml:id="jMqv4a-d1e646-d1e370">
+   ⁋ Respondetur. illud bellum erat iniustum ex parte
+   impa<lb ed="#B" n="4" break="no"/>toris: qui volebat tollere christianos de rerum natura 
+   <lb ed="#B" n="5"/>eo quod Christum colerent. sed tamen illi christiani pugna. 
+   <lb ed="#B" n="6"/>re poterant contra alios christianos, si peccassent 
+   <lb ed="#B" n="7"/>in impatorem. sicut notr christiani pugnant iuste contra 
+   <lb ed="#B" n="8"/>alios christianos: vt patet ex quaestione praecedente. 
+  </p>
+      <p xml:id="jMqv4a-d1e646-d1e383">
+       <lb ed="#B" n="9"/>⁋ Secundo arguitur. Clemens quintus in concilio Vien 
+   <lb ed="#B" n="10"/>nensi, prout habetur in Clementina vnica in. S. Porro. 
+   <lb ed="#B" n="11"/>de iureiuran. dans formam regi Romanorum iu 
+   <lb ed="#B" n="12"/>randi: dicit sic iurandum esse: quod num quam cum Sarrace 
+   <lb ed="#B" n="13"/>no / Pagano, schismatico seu alio quodolibus conionem 
+   <lb ed="#B" n="14"/>catholicae fidei non habente: aut cum aliquo alio prae 
+   <lb ed="#B" n="15"/>fatae ecclesiae inimico vel rebelli seu eidem manife 
+   <lb ed="#B" n="16"/>ste suspecto vnionem quamlibet seu parentelam aut
+   com<lb ed="#B" n="17" break="no"/>foederationem iniret.
+  </p>
+      <p xml:id="jMqv4a-d1e646-d1e405">
+   ⁋ Respondeo dupliciter. Primo. 
+   <lb ed="#B" n="18"/>licet Romanus pontifex sit super imperatorem 
+   <lb ed="#B" n="19"/>in terris ecclesiae quas tenet pro defensione eccle 
+   <lb ed="#B" n="20"/>siae: non tamen est indem de aliis regibus: nec de duca 
+   <lb ed="#B" n="21"/>tu Austriae quem non tenet ab ecclesia. Secundo di 
+   <lb ed="#B" n="22"/>co quod illa est lex positiua pontificis: &amp; potest impera 
+   <lb ed="#B" n="23"/>torem in casu ab illo iuramento absoluere.
+  </p>
+      <p xml:id="jMqv4a-d1e646-d1e421">
+   ⁋
+   Ter<lb ed="#B" n="24" break="no"/>tio arguitur. secundae ad Corin. vi. scribitur.
+   No<lb ed="#B" n="25" break="no"/>lite iugum ducere cum infidelibus. Quae enim par 
+   <lb ed="#B" n="26"/>ticipatio iustitiae cum iniquitate? aut quae societas 
+   <lb ed="#B" n="27"/>luci ad tenebras: quae autem conuentio Christi ad 
+   <lb ed="#B" n="28"/>Belials aut quae pars fidelis cum infideli ergo si 
+   <lb ed="#B" n="29"/>non licet fideli cohabitare cum infideli, non licet 
+   <lb ed="#B" n="30"/>cuiquam eos secum assumere in bello.
+  </p>
+      <p xml:id="jMqv4a-d1e646-d1e439">
+   ⁋
+   Responde<lb ed="#B" n="31" break="no"/>tur, non est ex se malum versari cum infideli. sed 
+   <lb ed="#B" n="32"/>glossa interlinearis super illo verbo (nolite iugum 
+   <lb ed="#B" n="33"/>ducere) exponit. nolite esse socii malorum. hoc es 
+   <lb ed="#B" n="34"/>nolite communicare cum eis in malitia: cum fideles 
+   <lb ed="#B" n="35"/>lucem Christum colant &amp; salutiferam doctrinam 
+   <lb ed="#B" n="36"/>habeant: alii autem tenebras.
+  </p>
+      <p xml:id="jMqv4a-d1e646-d1e456">
+   ⁋ Epilogando dico 
+   <lb ed="#B" n="37"/>quod fidelis potest quaerere opem ab infideli contra 
+   <lb ed="#B" n="38"/>infidelem: quemadmodum Machabaei, &amp; nostri
+   Chri<lb ed="#B" n="39" break="no"/>stiani implorarunt opem Tamberlanis Persarum re 
+   <lb ed="#B" n="40"/>gis pugnacissimi contra Pazaiten Turcarum prin 
+   <lb ed="#B" n="41"/>cipem. possunt etiam fideles in aliquo euentu implora 
+   <lb ed="#B" n="42"/>re opem infidelium contra fideles, cauendo ne id 
+   <lb ed="#B" n="43"/>cedat in iacturam reipu. christianae. hoc est vocando  
+   <lb ed="#B" n="44"/>eos in pauco numero: sic vt possemus eos oppri 
+   <lb ed="#B" n="45"/>mere si forte contra christianos insurgerent: &amp;
+   pro<lb ed="#B" n="46" break="no"/>uidendo ne eorum aduentus fieret perniciosus 
+   <lb ed="#B" n="47"/>quo ad sequelam: ita vt aperiretur eis via in limi 
+   <lb ed="#B" n="48"/>tibus nos inuadendi: &amp; cogendo eos ne contra fi 
+   <lb ed="#B" n="49"/>dem blasphemarent: vt ludaeos nobiscum cohabi 
+   <lb ed="#B" n="50"/>tantes cogimus. 
+   <lb ed="#B" n="51"/>Vbitatur circa ista: an liceat 
+   <lb ed="#B" n="52"/>vti insidiis in bello. Secundo dubitai 
+   <lb ed="#B" n="53"/>an homo teneatur restituere sua quae furto 
+   <lb ed="#B" n="54"/>cquam vel rapina abstulit abiniusto possesso 
+   <!--0274.xml-->
+   <cb ed="#B" n="b"/> 
+       <!-- 121-v b -->
+       <lb ed="#B" n="55"/>re. Tertio dubitatur de his quaerecuperantur ab
+   hosti<lb ed="#B" n="56" break="no"/>bus per milites an sint restituenda primis dominis: &amp; 
+   <lb ed="#B" n="57"/>quomodo bona in bello sint partienda.
+  </p>
+      <p xml:id="jMqv4a-d1e646-d1e511">
+   ⁋ Ad primum 
+   <lb ed="#B" n="58"/>dicitur quod insidiae sunt licitae in bello iusto. nam losue 
+   <lb ed="#B" n="59"/>tetendit insidias contra vrbem Hai, edoctus ab ora 
+   <lb ed="#B" n="60"/>culo. losue. viii. Homo etiam potest occultare verum quod 
+   <lb ed="#B" n="61"/>non tenetur dicere. quam materiam quia alibi latius de 
+   <lb ed="#B" n="62"/>duxi, non insisto. sed tamen homo tenet seruare promis 
+   <lb ed="#B" n="63"/>sum verbale hosti. Propterea Sedechias. ii. Para 
+   <lb ed="#B" n="64"/>lipo. xxxvi. arguitur, eo quod fregit iuramentum quod fe 
+   <lb ed="#B" n="65"/>cerat regi Nabuchodonosor. Sic enim illic scribitur 
+   <lb ed="#B" n="66"/>Arege quoque Nabuchodonosor recessit qui adiu 
+   <lb ed="#B" n="67"/>rauerat eum per deum.
+  </p>
+      <p xml:id="jMqv4a-d1e646-d1e535">
+   ⁋ Ad secundam dubita 
+   <lb ed="#B" n="68"/>tionem respodetur. supposito quod sortes a me abs 
+   <lb ed="#B" n="69"/>tulit duos boues vel vestem: si sine interpolatione 
+   <lb ed="#B" n="70"/>temporis, hoc est incontinenti vt in quaestione
+   prae<lb ed="#B" n="71" break="no"/>cedente loquuti sumus, argumento quarto:
+   abs<lb ed="#B" n="72" break="no"/>tulero violentia equum sortis: non teneor
+   restitue<lb ed="#B" n="73" break="no"/>te ei suum equum nisi ipse mihi meos duos boues 
+   <lb ed="#B" n="74"/>restituerit: nisi equus plus valeat: quia si equus eius 
+   <lb ed="#B" n="75"/>valeat duo scuta vltra quinque boues: teneor dare 
+   <lb ed="#B" n="76"/>ei quinque scuta, non tamen est idem incontinenti &amp; cum 
+   <lb ed="#B" n="77"/>interpoiatione. patet per simile ex Deuteronomio. 
+   <lb ed="#B" n="78"/>in cuius. xix. capi. scribitur: quod si aliquis non de indu 
+   <lb ed="#B" n="79"/>stria interfecerit aliquem: propinquus occisi impune 
+   <lb ed="#B" n="80"/>poterit incontinenti occidere occisorem dummodo do 
+   <lb ed="#B" n="81"/>lore stimuletur: etiam dato quod prior occisor non 
+   <lb ed="#B" n="82"/>fuerit reus mortis: multa enim perpetrata instante 
+   <lb ed="#B" n="83"/>dolore remanent impunita: quae si cessante
+   dolo<lb ed="#B" n="84" break="no"/>re fierent, essent punienda. Sed si tempore
+   inter<lb ed="#B" n="85" break="no"/>polato conetur rem suam recuperare per violentiam:
+   impro<lb ed="#B" n="86" break="no"/>be agit. Non enim oportet perturbare politiam &amp; remp. 
+   <lb ed="#B" n="87"/>&amp; sibiipsi ministrare iustitiam. Tamen non tenetur 
+   <lb ed="#B" n="88"/>rem suam restituere illi qui nihil iuris habuit in 
+   <lb ed="#B" n="89"/>re sua: quia in casu talis non aufert rem alienam sed  
+   <lb ed="#B" n="90"/>suam vel sibi debitam: &amp; per consequens talis ablatio nec 
+   <lb ed="#B" n="91"/>est furtum / nec rapina: cum non auferat illud animo
+   lu<lb ed="#B" n="92" break="no"/>crandi: nec noceat proximo. &amp; ratio est. quia nullus tene 
+   <lb ed="#B" n="93"/>tur ad restitutionem rei sibi debitae illi cui non de 
+   <lb ed="#B" n="94"/>betur: quia frustra restitueret quod iterato sibi restitui 
+   <lb ed="#B" n="95"/>debet. Et loquor de foro conscientie. Aliter enim
+   fie<lb ed="#B" n="96" break="no"/>ret in foro exteriore. tamen si fuerit condemnatus in foro
+   con<lb ed="#B" n="97" break="no"/>tradictorio, perdet per modum poenae: quam tunc soluenda est 
+   <lb ed="#B" n="98"/>cum est damnatus.
+  </p>
+      <p xml:id="jMqv4a-d1e646-d1e605">
+   ⁋ Ad primam partem tertiae dubitationis re 
+   <lb ed="#B" n="99"/>spondetur quod debent restitui eis quorum primo erant.litetr. de 
+   <lb ed="#B" n="100"/>captiuis. l. i. &amp;. ii. hoc est verum in rebus quam habent
+   postli<lb ed="#B" n="101" break="no"/>minium: quod est ius quod debetur captiuis postquam a ca 
+   <lb ed="#B" n="102"/>ptiuitate liberati sunt: vt sunt equi: naues onera 
+   <lb ed="#B" n="103"/>tae, currus, &amp; boues: &amp; hoc nisi lex municipalis prae 
+   <lb ed="#B" n="104"/>iudicet. Ad secundam partem dubii dicitur quod
+   in<lb ed="#B" n="105" break="no"/>multis locis captus in bello fit solius capientis. alia 
+   <lb ed="#B" n="106"/>autem bona vt boues / oues / &amp; equi diuiduntur a
+   praefe<lb ed="#B" n="107" break="no"/>cto militum. Et quia leges consuetudinariae in istis suf 
+   <lb ed="#B" n="108"/>ficiunt: propterea circatales leges humanas non est 
+   <lb ed="#B" n="109"/>insistendum. 
+  </p>
+    </div>
+   </body>
+  </text>
+</TEI>

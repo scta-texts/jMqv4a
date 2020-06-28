@@ -1,0 +1,332 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 1</title>
+      <author ref="#JohnMair">John Mair</author>
+      <respStmt>
+       <name>Jeffrey C. Witt</name>
+       <resp>TEI Encoder</resp>
+      </respStmt>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 1</title>
+       <date when="2020-06-09">June 27, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="B" n="cod-Bda113">Badius 1516</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+     guidelines for a diplomatic edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-06-27" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+      <pb ed="#B" n="196-r"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="jMqv4a-d1e1044"> <!-- l4d20q1 -->
+      <head xml:id="jMqv4a-d1e1044-Hd1e104">Quaestio 1</head>
+      <head xml:id="jMqv4a-d1e1044-Hd1e107" type="question-title">An ille sit prorsus liberatus a poena qui adimplet 
+  poenitentiam iniunctam a sacerdote</head>
+      <p xml:id="jMqv4a-d1e1044-d1e110">
+       <lb ed="#B" n="53"/>⁋ Distinctionis Vigesimae 
+   <lb ed="#B" n="54"/>Quaestio Prima. 
+   <lb ed="#B" n="55"/>Irca hanc
+   vi<lb ed="#B" n="56" break="no"/>gesimam distinctio 
+   <lb ed="#B" n="57"/>nem Quaero
+   pri<lb ed="#B" n="58" break="no"/>mo: an ille sit pror 
+   <lb ed="#B" n="59"/>sus liberatus a
+   poe<lb ed="#B" n="60" break="no"/>na qui adimplet poe 
+   <lb ed="#B" n="61"/>nitentiam iniunctam 
+   <lb ed="#B" n="62"/>a sacerdote. Pro 
+   <lb ed="#B" n="63"/>solutione
+   quaestio<lb ed="#B" n="64" break="no"/>nis notabis me non 
+   <lb ed="#B" n="65"/>issentiri tenentibus 
+   <lb ed="#B" n="66"/>quod latitudo iustitiae 
+   <lb ed="#B" n="67"/>sit impartibilis plus 
+   <lb ed="#B" n="68"/>uam latitudo temperantiae vel fortitudinis. sed sicut 
+   <lb ed="#B" n="69"/>medium iusti precii in emptione venditione &amp; aliis 
+   <lb ed="#B" n="70"/>contractibus non consistit in indiuisibili: sed est quaedam
+   lati<lb ed="#B" n="71" break="no"/>tudo: intra quam si quis maneat / contractus est licitus: 
+   <lb ed="#B" n="72"/>sic est latitudo emendae ad offensam / &amp; in foro hu 
+   <lb ed="#B" n="73"/>mano &amp; diuino. Verbi causa. Sortes eruit vnum 
+   <lb ed="#B" n="74"/>oculum Platonis: potest fieri emenda Platoni au 
+   <lb ed="#B" n="75"/>ferendo lucrum putatum a Platone, &amp; addendo damno 
+   <lb ed="#B" n="76"/>Sortis: reducendo ad aequalitatem. aliqui enim sa 
+   <lb ed="#B" n="77"/>pientes dicunt Platonem dare oportere sorti cen 
+   <lb ed="#B" n="78"/>tum. alii nonagintaquinque. alii quinque supra centum: 
+   <lb ed="#B" n="79"/>&amp; totum istud reputatur latitudo emendae. Sic est 
+   <lb ed="#B" n="80"/>de poenitentiis iniunctis pro peccatis coram deo: 
+   <lb ed="#B" n="81"/>&amp; est latitudo iustae poenae pro peccato. Non enim 
+   <lb ed="#B" n="82"/>est verisimile quod deus reputet talem poenam prae 
+   <lb ed="#B" n="83"/>cisam debere inferri a. superbiae / &amp; nullam omnino 
+   <lb ed="#B" n="84"/>minorem sufficere. sic enim raro vel nunquam posset pru 
+   <lb ed="#B" n="85"/>dentissimus confessor poenitentiam convenientem
+   iniunge<lb ed="#B" n="86" break="no"/>re: quia semper excedet vel deficiet. vt pro a. super 
+   <lb ed="#B" n="87"/>bia sit latitudo / dicere psalterium / &amp; bis septem psal 
+   <lb ed="#B" n="88"/>mos vel ter: ita vt si vnus dicat bis septem psal 
+   <lb ed="#B" n="89"/>mos cum psalterio / satisfaciat toti poenae debitae: si 
+   <lb ed="#B" n="90"/>cut alter qui ter dicit septem psalmos cum psalte 
+   <lb ed="#B" n="91"/>rio pro simili superbia: non tamen tantum meretur. nam quando  
+   <lb ed="#B" n="92"/>fit iniunctio poenitentiae in hac latitudine / tunc clauis 
+   <lb ed="#B" n="93"/>non errat: quando vero extra eam / errat. secus est de latitu 
+   <lb ed="#B" n="94"/>dine poenae peccatis debitae in orco: quia illic aequa  
+   <lb ed="#B" n="95"/>libus peccatis aequales debentur poenae. nam illam 
+   <lb ed="#B" n="96"/>deus infligens punctaliter cognoscit. 
+  </p>
+      <p xml:id="jMqv4a-d1e1044-d1e208">
+       <lb ed="#B" n="97"/>⁋ Hoc praenotato pono conclusiones. 
+   <lb ed="#B" n="98"/>Prima est. adimplens poenitentiam iniunctam claue 
+   <lb ed="#B" n="99"/>non errante etiam in peccato / est absolutus a poena, hoc 
+   <lb ed="#B" n="100"/>est, non patietur poenam peccato debitam / nec in
+   purgatorio<lb ed="#B" n="101" break="no"/>nec in infemo.
+  </p>
+      <p xml:id="jMqv4a-d1e1044-d1e222">
+   ⁋ Secunda conclusio. Non semper adi  
+   <lb ed="#B" n="102"/>plens totam poenitentiam iniunctam a sacerdote est 
+   <lb ed="#B" n="103"/>liberatus a poena: sed oportet eum illam pati in
+   purga<lb ed="#B" n="104" break="no"/>torio vel in infemo, si sic decedat debitor illius poenae. 
+   <!--0424.xml-->
+   <pb ed="#B" n="196-v"/>
+       <cb ed="#B" n="a"/>
+      </p>
+      <p xml:id="jMqv4a-d1e1044-d1e238">
+       <lb ed="#B" n="1"/>⁋ Tertia conclusio. Omittens temere poenitentiam 
+   <lb ed="#B" n="2"/>acceptam et iniunctam peccat.
+  </p>
+      <p xml:id="jMqv4a-d1e1044-d1e245">
+   ⁋ Prima conclusio 
+   <lb ed="#B" n="3"/>manifesta est: quia offensa reducitur ad aequalitatem 
+   <lb ed="#B" n="4"/>per emendam sufficientem: &amp; iniustitia ad iustitiam
+   redu<lb ed="#B" n="5" break="no"/>citur. Quia autem satisfactio sufficiat in mortali / supra 
+   <lb ed="#B" n="6"/>probatum est distinct. xv.
+  </p>
+      <p xml:id="jMqv4a-d1e1044-d1e256">
+   ⁋ Secunda conclusio
+   proba<lb ed="#B" n="7" break="no"/>tur: quia alioquin erit in potestate temerarii
+   sacer<lb ed="#B" n="8" break="no"/>dotis remittere totam poenam respondentem peccatis 
+   <lb ed="#B" n="9"/>Neronis per orationem dominicam: immo per aspersionem aquae 
+   <lb ed="#B" n="10"/>penedictae: vel per tactum digiti. immo si posset
+   tolle<lb ed="#B" n="11" break="no"/>re ad libitum partem poenae debitae: posset &amp; totam 
+   <lb ed="#B" n="12"/>poenam. quare si diceret, absoluo te a tota poena 
+   <lb ed="#B" n="13"/>&amp; a culpa: absolueret. In super non aliter dicimus in 
+   <lb ed="#B" n="14"/>commui loquendi modo (claue non errante). cum enim 
+   <lb ed="#B" n="15"/>praesbyter sit arbiter inter deum &amp; peccatorem: oportet poe 
+   <lb ed="#B" n="16"/>nitentiam iniunctam fieri de consensu partium: &amp; potissi 
+   <lb ed="#B" n="17"/>mum partis principalis scilicet dei, non enim requi 
+   <lb ed="#B" n="18"/>ritur cosensus peccatoris: sed sufficit quod
+   consenti<lb ed="#B" n="19" break="no"/>re deberet. Item canones frustra imposuissent
+   poe<lb ed="#B" n="20" break="no"/>nitentias. sed haec probatio est debilis. Praeterea
+   Gre<lb ed="#B" n="21" break="no"/>gorius dicit: &amp; recitatur de poenitentia. dist. v. Falsas 
+   <lb ed="#B" n="22"/>poenitentias dicimus quae non secundum
+   aucto<lb ed="#B" n="23" break="no"/>ritatem sanctorum patrum pro qualitate criminum 
+   <lb ed="#B" n="24"/>imponuntur.
+  </p>
+      <p xml:id="jMqv4a-d1e1044-d1e298">
+   ⁋ Tertia conclusio nota est: quia non 
+   <lb ed="#B" n="25"/>paret sententiae iuste latae: &amp; contrauenit suo promisso. 
+  </p>
+      <p xml:id="jMqv4a-d1e1044-d1e303">
+       <lb ed="#B" n="26"/>⁋ Contra secundam conclusionem
+   argu<lb ed="#B" n="27" break="no"/>mentor. Christus dimisit peccata sine aliqua
+   poe<lb ed="#B" n="28" break="no"/>nitentia. vt loan. viii. mulieri deprehensae in adulterio: 
+   <lb ed="#B" n="29"/>cui dixit. Vade &amp; iam amplius noli peccare. &amp; lan 
+   <lb ed="#B" n="30"/>guido. Ioan. v. sanato. Insuper Matthaei. xvi. dicit 
+   <lb ed="#B" n="31"/>Christus. Quodcunque ligaueris super terram. &amp;
+   reli<lb ed="#B" n="32" break="no"/>qua. &amp; loan. xx. Quorum remiseritis peccata.
+  </p>
+      <p xml:id="jMqv4a-d1e1044-d1e322">
+   ⁋ Ad 
+   <lb ed="#B" n="33"/>primum. ipse nouit quantitates contritionum: &amp; forte 
+   <lb ed="#B" n="34"/>fuit contritio sic intensa vt sufficeret. Secundo erat 
+   <lb ed="#B" n="35"/>summus dispensator, potens omnia remittere. In super 
+   <lb ed="#B" n="36"/>concedo quod quicquid soluit Petrus aut eius successor, 
+   <lb ed="#B" n="37"/>solutum est in caelo: sed non quicquid attentat solue 
+   <lb ed="#B" n="38"/>re, solutum est. Sub aliis verbis &amp; est eadem sententia. 
+   <lb ed="#B" n="39"/>Christus vsus est verbo coniunctiui modi:
+   ligaue<lb ed="#B" n="40" break="no"/>ris, solueris, remiseritis: dando potestatem Petro &amp; 
+   <lb ed="#B" n="41"/>omnibus aliis: ad insinuandum debere esse
+   coniunctio<lb ed="#B" n="42" break="no"/>nem legis humanae &amp; consummationem secundum
+   in<lb ed="#B" n="43" break="no"/>choationem legis diuinae. Hunc locum (dicit Hierony 
+   <lb ed="#B" n="44"/>mus) quidam non intelligentes aliquid sumunt de
+   superci<lb ed="#B" n="45" break="no"/>lio pharisaeorum, vt damnate innoxios: vel soluere se 
+   <lb ed="#B" n="46"/>putent noxios: cum apud deum non sententia sacerdo 
+   <lb ed="#B" n="47"/>tum, sed reorum vita quaeratur. In Leuitico se
+   ostende<lb ed="#B" n="48" break="no"/>re sacerdotibus iubentur leprosi, quos illi non faciunt 
+   <lb ed="#B" n="49"/>leprosos: sed discernunt qui mundi vel immundi 
+   <lb ed="#B" n="50"/>sunt.
+  </p>
+      <p xml:id="jMqv4a-d1e1044-d1e364">
+   ⁋ Ex istis sequuntur aliqua. Primum est. Aliquis 
+   <lb ed="#B" n="51"/>tenetur implere maiorem poenitentiam quam culpa comme 
+   <lb ed="#B" n="52"/>ruit. patet: quia interdum, licet raro, potest imponi ma 
+   <lb ed="#B" n="53"/>ior poenitentia quam sufficiat, &amp; poenitens eam suscipit. 
+   <lb ed="#B" n="54"/>Secundo sequitur, quod alicui imponitur aliquam poenitentia: qui 
+   <!--0424.xml-->
+   <cb ed="#B" n="b"/> 
+       <!-- 196-v b -->
+       <lb ed="#B" n="55"/>moriens ante peractam pniam statim euolabit:
+   comple<lb ed="#B" n="56" break="no"/>ta scilicet poenitentia sufficiente. Tertio sequitur quod si 
+   <lb ed="#B" n="57"/>aliquis parum distet a latitudine poenitentiae in
+   deficien<lb ed="#B" n="58" break="no"/>do / non satisfacit. secus est in latitudine deficiendo a 
+   <lb ed="#B" n="59"/>medio mathematico illius latitudis.
+  </p>
+      <p xml:id="jMqv4a-d1e1044-d1e393">
+   ⁋ Sed pone 
+   <lb ed="#B" n="60"/>aliquem laborantem in extremis: is non potest adimplere poe 
+   <lb ed="#B" n="61"/>nitentiam sufficientem: nemo enim obligatur ad
+   impossi<lb ed="#B" n="62" break="no"/>bile. Insuper Sortes contentus assumere pro peccatis 
+   <lb ed="#B" n="63"/>suis sufficientem poenitentiam secundum canones, vel
+   arbi<lb ed="#B" n="64" break="no"/>trariam: rogat confessorem vt iniungat sufficientem: ipse 
+   <lb ed="#B" n="65"/>enim non tenetur scire canones: nec cognoscere quae sit 
+   <lb ed="#B" n="66"/>latitudo sufficiens: ergo videtur absolutus seu deobli 
+   <lb ed="#B" n="67"/>gatus. Et potest dari analogia. si Sortes Platonem os 
+   <lb ed="#B" n="68"/>fenderit: contentus stare arbitrio iudicis vel arbitri 
+   <lb ed="#B" n="69"/>prudentis: licet minus iusto offerat: videtur deobliga 
+   <lb ed="#B" n="70"/>tus. Deus autem est quocumque homine tractabilior &amp; 
+   <lb ed="#B" n="71"/>clementior: ergo ipse citra latitudinem soluens erit libe 
+   <lb ed="#B" n="72"/>ratus.
+  </p>
+      <p xml:id="jMqv4a-d1e1044-d1e424">
+   ⁋ Ad primum dico. qui non habet in aere, luat 
+   <lb ed="#B" n="73"/>in corpore. anima est in natura: &amp; nemo tenetur ad 
+   <lb ed="#B" n="74"/>impossibile. sed potest pati anima in purgatorio. 
+   <lb ed="#B" n="75"/>Secundum argumentum quamquam aliquid coloris habet quod 
+   <lb ed="#B" n="76"/>sacerdos patietur aliquid poenae pro eo: quia tamen hoc est 
+   <lb ed="#B" n="77"/>durum pro sacerdote: nolo illd admittere. stat enim 
+   <lb ed="#B" n="78"/>quod deficiat a latitudine poenitentiae iniungendae ex 
+   <lb ed="#B" n="79"/>gnorantia inuincibili: quia credit contritionem confiten 
+   <lb ed="#B" n="80"/>tis maiorem quam sit: &amp; poenae sunt arbitrariae. consonum 
+   <lb ed="#B" n="81"/>autem est magis quod ipse qui peccauit punietur pro suo 
+   <lb ed="#B" n="82"/>peccato: sed multu meretur sic confitens, &amp; bonum
+   pro<lb ed="#B" n="83" break="no"/>positum habet.
+  </p>
+      <p xml:id="jMqv4a-d1e1044-d1e450">
+   ⁋ Sed petis. quare ergo sunt poeni 
+   <lb ed="#B" n="84"/>tentiae arbitrariae iuxta discretionem &amp; iudicium imponen 
+   <lb ed="#B" n="85"/>tis. xxvi. qui. vii. cap. Hoc sit de poeni. dist. i.
+   Mensu<lb ed="#B" n="86" break="no"/>ram: Respondetur. quia aliqui non implerent
+   poeniten<lb ed="#B" n="87" break="no"/>tiam iniunctam: sed peccarent desperando: quos melius 
+   <lb ed="#B" n="88"/>est mittere ad purgatorium cum poena, quam periclitari in 
+   <lb ed="#B" n="89"/>infemo. Melius etiam est reddere rationem de
+   misericor<lb ed="#B" n="90" break="no"/>dia quam crudelitate. xxvi. qui. vii. De his. &amp; capi.
+   Alli<lb ed="#B" n="91" break="no"/>gant. In poenitentia quoque est considerandum remedium 
+   <lb ed="#B" n="92"/>contra recidiuum peccati: &amp; scandalum quod oritur in plebe. 
+   <lb ed="#B" n="93"/>&amp; ob id interdum pro minore culpa iniungitur maior poe 
+   <lb ed="#B" n="94"/>nitentia. Si autem cosideretur grauitas delicti solum: semper 
+   <lb ed="#B" n="95"/>pro maiore peccato / maior est iniungenda poenitentia 
+   <lb ed="#B" n="96"/>Sed quia homines in diebus istis non ferunt ita magnas 
+   <lb ed="#B" n="97"/>poenitentias vt in primitiua ecclesia: consentaneum 
+   <lb ed="#B" n="98"/>est poenitentias esse arbitrarias secundum moderationem 
+   <lb ed="#B" n="99"/>&amp; iudicium confessoris: &amp; non iniungere secundum regulas ca 
+   <lb ed="#B" n="100"/>nonicas. sicut nec regulae Galeni vel Auicenae suffi 
+   <lb ed="#B" n="101"/>ciunt pro qualibet medicina danda: sed eas oportet 
+   <lb ed="#B" n="102"/>variare ad consilium medicorum secundum robur vel 
+   <lb ed="#B" n="103"/>debilitatem patientis.
+  </p>
+      <p xml:id="jMqv4a-d1e1044-d1e496">
+   ⁋ Ex omnibus patet: quod imprudenter 
+   <lb ed="#B" n="104"/>facit poenitens gaudens de exigua poenitentia inium 
+   <lb ed="#B" n="105"/>cta. ratio est: quia si habeat minorem aequo: reliquam
+   par<lb ed="#B" n="106" break="no"/>tem in purgatorio vel orco patietur: vbi deus in ira 
+   <lb ed="#B" n="107"/>sua &amp; in furore punit. a qua poena psalmographus 
+   <lb ed="#B" n="108"/>petit liberari. psal. vi. inquiens. Domine ne in furore tuo 
+   <lb ed="#B" n="109"/>&amp;c. Si vero maior sit poenitentia iniuncta quamculpa me 
+   <!--0425.xml-->
+   <pb ed="#B" n="197-r"/>
+       <cb ed="#B" n="a"/>
+       <lb ed="#B" n="1"/>reatur: non patietur in alio saeculo: &amp; etiam magis me 
+   <lb ed="#B" n="2"/>rebitur. nam facilitas veniae est causa delinquendi. Et ex 
+   <lb ed="#B" n="3"/>hoc sequitur quod non est verus amicus sacerdos parua 
+   <lb ed="#B" n="4"/>imponens poenitentiam: vbi confitens est paratus
+   ma<lb ed="#B" n="5" break="no"/>gnam subire. &amp; forte imputabitur sacerdoti ad cul 
+   <lb ed="#B" n="6"/>pam in hoc mundo / &amp; ad poenam in alio. quaerat igi 
+   <lb ed="#B" n="7"/>tur a confitente an velit magnam poenam subite: &amp; si 
+   <lb ed="#B" n="8"/>sic, det magnam de praecepto: hoc est secundum illuc 
+   <lb ed="#B" n="9"/>quod verisimiliter alter est impleturus: reliquum de 
+   <lb ed="#B" n="10"/>consilio addens: &amp; doceat eum referre actus consi 
+   <lb ed="#B" n="11"/>lii in expiationem poenae. si vero nolit magnam 
+   <lb ed="#B" n="12"/>subire: condescendat infirmitati confitentis: aperiens 
+   <lb ed="#B" n="13"/>tamen ei poenam futuri saeculi. 
+   <lb ed="#B" n="14"/>Vbitatur circa dicta. An aliquis 
+   <lb ed="#B" n="15"/>pro alio satisfacere possit. Dictum est quod 
+  </p>
+      <p xml:id="jMqv4a-d1e1044-d1e552">
+       <lb ed="#B" n="16"/>⁋poenitentia valet ad duo: videlicet ad 
+   <lb ed="#B" n="17"/>praeseruationem a recidiuo: vt ieiunium
+   ca<lb ed="#B" n="18" break="no"/>stigat corpus ne effrene reluctetur spiritui, constat 
+   <lb ed="#B" n="19"/>autem quod vnus quo ad hunc effectum non satisfacit pro 
+   <lb ed="#B" n="20"/>alio: vt per carnem sortis domitam non domatur caro pla 
+   <lb ed="#B" n="21"/>tonis. Quo ad alium effectum, scilicet diminutione 
+   <lb ed="#B" n="22"/>poenae respondentis culpae: distinguitur. vel ille non potest 
+   <lb ed="#B" n="23"/>satisfacere in propria, quia debilis vel statim
+   moritu<lb ed="#B" n="24" break="no"/>rus: &amp; sic vnus pro alio satisfacere potest: &amp; si non
+   ha<lb ed="#B" n="25" break="no"/>beatur confessor: est eius voluntas psumpta: quod nec 
+   <lb ed="#B" n="26"/>voluerit mittere ad purgatorium / nec obligare ad  
+   <lb ed="#B" n="27"/>difficillimum. Sed decedens non liberabitur statim a 
+   <lb ed="#B" n="28"/>poena purgatorii / per hoc quod alter promittit
+   satisface<lb ed="#B" n="29" break="no"/>re: immo requiritur quod satisfactio fuerit completa: sicut 
+   <lb ed="#B" n="30"/>in simili postea dicetur de suffragio. Ex isto patet quod 
+   <lb ed="#B" n="31"/>conducit morituro quaerere aliquem amicorum fidelem. 
+   <lb ed="#B" n="32"/>vel plures ad implendam poenitentiam quam sacerdos 
+   <lb ed="#B" n="33"/>potest iniungere laboranti: quam si non expleant in hoc 
+   <lb ed="#B" n="34"/>mundo: moriens in purgatorio torquebitur. Sed vnus 
+   <lb ed="#B" n="35"/>non potest per eundem actum satisfacere pro se &amp; alio: sicut 
+   <lb ed="#B" n="36"/>nec satisfacere ieiunio ecclesiae &amp; poenitentiae iniunctae 
+   <lb ed="#B" n="37"/>simul. vt diximus superius de eleemosyna data illi quam 
+   <lb ed="#B" n="38"/>est in extrema necessitate: quicquid dicant alii. 
+  </p>
+      <p xml:id="jMqv4a-d1e1044-d1e604">
+       <lb ed="#B" n="39"/>⁋ Dubitatur secundo. An poeniten 
+   <lb ed="#B" n="40"/>tia facta in extremis valeat. Respondetur. licet raro 
+   <lb ed="#B" n="41"/>valeat vel sit periculosa: non implicat de lege: immo 
+   <lb ed="#B" n="42"/>bene stat quod valeat, quod patet: quia male habituatus 
+   <lb ed="#B" n="43"/>difficulter euellitur a suo malo habitum: vt quando 
+   <lb ed="#B" n="44"/>homo est in periculo cadendi e pinnaculo vel in  
+   <lb ed="#B" n="45"/>mare: convertit se totum ad sibi succurrendum ex incli 
+   <lb ed="#B" n="46"/>natione naturae: sic vt aegerrime se convertat in dete 
+   <lb ed="#B" n="47"/>stationem sui peccati. Si autem dormiens vel non ad 
+   <lb ed="#B" n="48"/>uertens vel in actu peccati occidatur: iam lignum vbi. 
+   <lb ed="#B" n="49"/>ceciderit siue ad aquilonem siue ad austrum: ibi iace 
+   <lb ed="#B" n="50"/>bit. Propterea de tali serotina poenitentia
+   timen<lb ed="#B" n="51" break="no"/>dum est ne dicatur poenitentia Troianorum scra 
+   <lb ed="#B" n="52"/>Sed quia voluntas est libera: potest homo detesta 
+   <lb ed="#B" n="53"/>ri sua peccata in quantolibet tempore quantumcunque 
+   <lb ed="#B" n="54"/>pusillo imminente morte sicut longe ante morte: 
+   <!--0425.xml-->
+   <cb ed="#B" n="b"/> 
+       <!-- 197-r b -->
+       <lb ed="#B" n="55"/>quemadmodum demereri potest. Contrarium autem 
+   <lb ed="#B" n="56"/>asserere est error Beguardorum &amp; Beguinarum, vnus 
+   <lb ed="#B" n="57"/>ex octo reprobatis in Clemen. Ad nostrum. de haere. 
+  </p>
+    </div>
+   </body>
+  </text>
+</TEI>

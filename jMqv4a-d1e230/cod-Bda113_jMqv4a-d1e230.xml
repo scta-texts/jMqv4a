@@ -1,0 +1,552 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 4</title>
+      <author ref="#JohnMair">John Mair</author>
+      <respStmt>
+       <name>Jeffrey C. Witt</name>
+       <resp>TEI Encoder</resp>
+      </respStmt>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 4</title>
+       <date when="2020-06-09">June 27, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="B" n="cod-Bda113">Badius 1516</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+     guidelines for a diplomatic edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-06-27" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+      <pb ed="#B" n="43-v"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="jMqv4a-d1e230"> <!-- l4d9q4 -->
+      <head xml:id="jMqv4a-d1e230-Hd1e104">Quaestio 4</head>
+      <head xml:id="jMqv4a-d1e230-Hd1e107" type="question-title">An sacerdos teneatur ministrare ille eucharistiam quem in mortali novit esse, sive via confessionis sive aliter occultae</head>
+      <p xml:id="jMqv4a-d1e230-d1e110">
+       <lb ed="#B" n="65"/>QVarto circa hanc di 
+   <lb ed="#B" n="66"/>stinctionem Quaetro. An
+   sa<lb ed="#B" n="67" break="no"/>cerdos teneatur ministrare illi 
+   <lb ed="#B" n="68"/>Eucharistiam quem in mortali 
+   <lb ed="#B" n="69"/>nouit esse: siue via confessio 
+   <lb ed="#B" n="70"/>nis: siue aliter occulte. Pro 
+   <lb ed="#B" n="71"/> solutione quaestionis aliqua
+   cir<lb ed="#B" n="72" break="no"/>ca peccatorem praemittam: vt intelligatur de quo
+   pecca<lb ed="#B" n="73" break="no"/>tore loquar. postea conclusiue &amp; impugnatiue cum 
+   <lb ed="#B" n="74"/>solutionibus adiunctis respondebo. Peccatorem 
+   <lb ed="#B" n="75"/>non appello in proposito solum existentem in veniali, 
+   <lb ed="#B" n="76"/>sed in mortali. et si quis fuerit in originali nolens 
+   <lb ed="#B" n="77"/>baptizari ante Eucharistiam sumpta, iam est in 
+   <lb ed="#B" n="78"/>mortali. de mortali igitur peccatore loqui
+   propo<lb ed="#B" n="79" break="no"/>no.
+  </p>
+      <p xml:id="jMqv4a-d1e230-d1e145">
+   ⁋ Tripliciter autem aliquis est peccator. vno 
+   <lb ed="#B" n="80"/>modo quis est notorius peccator. Et hoc bifariam. 
+   <lb ed="#B" n="81"/>vel notorietate facti / vel notorietate iuris. vnde 
+   <lb ed="#B" n="82"/>sicut dicit Panor. in. c. Vestra. de coha. cle. &amp; mu 
+   <lb ed="#B" n="83"/>lier. Ad notorium facti requiritur ad minus vt de 
+   <lb ed="#B" n="84"/>cem sciant. Et propterea infert quod in loco in quo 
+   <lb ed="#B" n="85"/>non sunt decem: non potest crimen aliquod esse non 
+   <lb ed="#B" n="86"/>torium: quia si non fuerint decem, non faciunt
+   paro<lb ed="#B" n="87" break="no"/>chiam. decima. q. iii. cap. vnico. Non requiritur au 
+   <lb ed="#B" n="88"/>tem scientia totius viciniae. patet in. c. Cu dilectus. 
+   <lb ed="#B" n="89"/>de purga. cano. Et oportet quod cognoscatur tali
+   cer<lb ed="#B" n="90" break="no"/>titudine quali paternitas, cognatio, vel huiusmo 
+   <lb ed="#B" n="91"/>di per vicinos. Et sic definitur. Notorium
+   notorie<lb ed="#B" n="92" break="no"/>tate facti, est factum cuius testis populus est: &amp; dii 
+   <lb ed="#B" n="93"/>simulationi locus non est. Haec definitio colligitur 
+   <lb ed="#B" n="94"/>ex. c. Euidentia. de accu. &amp; ex. c. Tua nos. de co 
+   <lb ed="#B" n="95"/>ha. cleri. &amp; muli. Notorium autem iuris est
+   sponta<lb ed="#B" n="96" break="no"/>nea confessio, clara probatio, iusta &amp; indubitata. 
+   <lb ed="#B" n="97"/>Hic enim est violenta praesumptio.
+  </p>
+      <p xml:id="jMqv4a-d1e230-d1e188">
+   ⁋ Alio modo 
+   <lb ed="#B" n="98"/>quis est publicus peccator quando incerto
+   aucto<lb ed="#B" n="99" break="no"/>re aliqui existimant ipsum esse fornicarium vel 
+   <lb ed="#B" n="100"/>adulterum: sed non est notum notorietate facti nec 
+   <lb ed="#B" n="101"/>iuris. hoc est non constat sufficienter de peccato 
+   <lb ed="#B" n="102"/>ipsius. nam multi multa loquuntur.
+  </p>
+      <p xml:id="jMqv4a-d1e230-d1e201">
+   ⁋ Tertio modo 
+   <lb ed="#B" n="103"/>quis est occultus peccator. occultum autem
+   po<lb ed="#B" n="104" break="no"/>test opponi notorio. &amp; sic quilibet non notorius 
+   <lb ed="#B" n="105"/>peccator est occultus. potest etiam opponi
+   pu<lb ed="#B" n="106" break="no"/>blico: vt quando vnus solus vel duo sciunt 
+   <!--0119.xml-->
+   <pb ed="#B" n="44-r"/>
+       <cb ed="#B" n="a"/>
+      </p>
+      <p xml:id="jMqv4a-d1e230-d1e219">
+       <lb ed="#B" n="1"/>⁋ Tertio notato quod quis potest petere
+   Euchari<lb ed="#B" n="2" break="no"/>stiam in occulto vel in publico a suo superiore, 
+   <lb ed="#B" n="3"/>pro tempore quo Eucharistiam dare tenetur, vel alio 
+   <lb ed="#B" n="4"/>tempore: vel a non suo superiore. 
+  </p>
+      <p xml:id="jMqv4a-d1e230-d1e230">
+       <lb ed="#B" n="5"/>⁋ His praemissis pono conclusiones 
+   <lb ed="#B" n="6"/>titulo quaestionis responsiuas. quarum Prima est. si oc 
+   <lb ed="#B" n="7"/>cultus peccator mihi subditus petat a me Eucha 
+   <lb ed="#B" n="8"/>ristiam in publico pro tempore pro quo teneor aliis
+   Eu<lb ed="#B" n="9" break="no"/>charistiam dare: teneor etiam ei dare. hoc est sub aliis 
+   <lb ed="#B" n="10"/>verbis: si subditus meus peccator petat a me Eu 
+   <lb ed="#B" n="11"/>charistiam pro tempore quo tenerer ei dare Eucharistiam 
+   <lb ed="#B" n="12"/>si non esset in peccato: teneor etiam ei dare in peccato. 
+   <lb ed="#B" n="13"/>Probatio conclusionis, non possum licite excipere 
+   <lb ed="#B" n="14"/>contra eum quare non ministrem ei Eucharistiam sicut 
+   <lb ed="#B" n="15"/>aliis, non propter peccatum: quia illud est occultum, forte 
+   <lb ed="#B" n="16"/>in confessione auditum: &amp; sic ei negando Eucharistiam 
+   <lb ed="#B" n="17"/>coram aliis, indirecte sum reuelator confessionis: &amp; 
+   <lb ed="#B" n="18"/>alios scandalizo, quod est a me maxime euitandum 
+   <lb ed="#B" n="19"/>Si vero extra confessionem illud peccatum noui: cum 
+   <lb ed="#B" n="20"/>non possim illud probare, adhuc non possum licite 
+   <lb ed="#B" n="21"/>excipere. Secundo arguitur ad idem. data opposita 
+   <lb ed="#B" n="22"/>conclusione: sequitur quod curatus posset subditis nega 
+   <lb ed="#B" n="23"/>re Eucharistiam ad nutum suum, &amp; non liceret quaerere quiri 
+   <lb ed="#B" n="24"/>hoc faceret: sed sufficeret dicere. Sic voio sic
+   iu<lb ed="#B" n="25" break="no"/>beo sit pro ratione voluntas. Praeterea de offici. ord 
+   <lb ed="#B" n="26"/>na. c. Si sacerdos. scribitur. Nisi quis iudiciario
+   ordi<lb ed="#B" n="27" break="no"/>ne probare poterit non licet alium arguere nominati 
+   <lb ed="#B" n="28"/>nec a communione remouere: quamuis sciat ipsum per
+   con<lb ed="#B" n="29" break="no"/>fessionem aut alias impoenitentem permanere in pecca 
+   <lb ed="#B" n="30"/>to. Quarto arguitur exemplo Christi: qui ludae suum 
+   <lb ed="#B" n="31"/>preciosum corpus dedit in vltima coena, vt
+   euan<lb ed="#B" n="32" break="no"/>gelistae omnes sonant. Matthaei. xxvi. Accipite &amp;
+   bi<lb ed="#B" n="33" break="no"/>bite ex hoc omnes. Et <name xml:id="jMqv4a-d1e230-Nd1e295" ref="#Augustine">Augustinus</name> tenet psalmo. ar 
+   <lb ed="#B" n="34"/>super illo verbo. Manducauerunt &amp; adorauerunt omnes. 
+   <lb ed="#B" n="35"/>pingues terrae. &amp; patet. i. qui. i. Christus. &amp; de consecra 
+   <lb ed="#B" n="36"/>dist. ii. Non prohibeat. &amp; tamen Christus sciebat ludam 
+   <lb ed="#B" n="37"/>esse tunc in mortali etiam grauissimo.
+  </p>
+      <p xml:id="jMqv4a-d1e230-d1e307">
+   ⁋ Sed dicis. 
+   <lb ed="#B" n="38"/>peccatum ludae erat publicum, quia notum ludaeis: ergo 
+   <lb ed="#B" n="39"/>ista probatio est nulla. Item Christus non tenebatur
+   Eu<lb ed="#B" n="40" break="no"/>charistiam ludae dare. Princeps enim est absolutus a 
+   <lb ed="#B" n="41"/>legibus. Et patet etiam: quia reuera peccatum occultum 
+   <lb ed="#B" n="42"/>ludae reuelauit loanni. Quarto auctoritate Hilarii 
+   <lb ed="#B" n="43"/>arguitur. qui tenet quod non dedit corpus suum ludae.  
+   <lb ed="#B" n="44"/>Quito. ludas non petiit corpus Christi.
+  </p>
+      <p xml:id="jMqv4a-d1e230-d1e325">
+   ⁋ Respon 
+   <lb ed="#B" n="45"/>detur ad ista. Ad primum. licet peccatum lude esset 
+   <lb ed="#B" n="46"/>multis ludaeis notum: tamen ipsi malitiose negassent
+   il<lb ed="#B" n="47" break="no"/>lud si probatio fuisset adducta. Sic si peccator per 
+   <lb ed="#B" n="48"/>tat a me Eucharistiam / &amp; sciam tres vel quatuor illud 
+   <lb ed="#B" n="49"/>peccatum scire: quia tamen est vero simile quod negabunt se 
+   <lb ed="#B" n="50"/>hoc scire, quia sunt complices istius peccatoris: adhuc 
+   <lb ed="#B" n="51"/>dabo Eucharistiam. Secundo poterat ludas detesta 
+   <lb ed="#B" n="52"/>ri peccatum suum post colloquium habitum cum ludaeis 
+   <lb ed="#B" n="53"/>vt fecit, licet infructuose, durante passione: &amp; sic 
+   <lb ed="#B" n="54"/>peccatum erat adhuc occultum. Ad secundum respondetur 
+   <!--0119.xml-->
+   <cb ed="#B" n="b"/> 
+       <!-- 44-r b -->
+       <lb ed="#B" n="55"/>Licet princeps sit absolutus a legibus: aequum est 
+   <lb ed="#B" n="56"/>tamen ipsum suam legem seruare: sic fecit Christus. Ad 
+   <lb ed="#B" n="57"/>tertium dico quod habuit rationabilem causam illud
+   re<lb ed="#B" n="58" break="no"/>uelandi: quia retulit illi qui potuit prodesse &amp; non obesse 
+   <lb ed="#B" n="59"/>&amp; aliud erat: vt scilicet ostenderet vni apostolorum se sci 
+   <lb ed="#B" n="60"/>re quis se traditurus esset, &amp; nil se latere. Illa autem non con 
+   <lb ed="#B" n="61"/>tingunt in nobis, cum multa nos fugiant: nec possu 
+   <lb ed="#B" n="62"/>mus Christum in hoc imitari nisi similes rationes 
+   <lb ed="#B" n="63"/>pro nobis haberemus, quas habere nequimus 
+   <lb ed="#B" n="64"/>Ad aliud de beato Hilario fateor quod illud tenet:  
+   <lb ed="#B" n="65"/>sed auctoritas euangelii tendit ad oppositum. Et bea 
+   <lb ed="#B" n="66"/>tus <name xml:id="jMqv4a-d1e230-Nd1e381" ref="#Augustine">Augustinus</name> / &amp; <name xml:id="jMqv4a-d1e230-Nd1e384" ref="#Jerome">Hieronymus</name> eam sequentes, &amp; 
+   <lb ed="#B" n="67"/>caeteri doctores agminatim tenuerunt oppositum. 
+   <lb ed="#B" n="68"/>ideo illius assertio est relinquenda. licet pro se addu  
+   <lb ed="#B" n="69"/>cat nonnihil apparentiae ex euangelo: vbi dicit
+   Chri<lb ed="#B" n="70" break="no"/>stus. Dico autem vobis quod non bibam amodo de hoc 
+   <lb ed="#B" n="71"/>genimine vitis vsque in diem illum cum illud vobiscum 
+   <lb ed="#B" n="72"/>bibam nouum in regno patris mei. vobiscum enim
+   vi<lb ed="#B" n="73" break="no"/>detur demonstrare solos assumendos and regnum
+   pa<lb ed="#B" n="74" break="no"/>tris, de quibus non erat ludas. Ad hoc respondetur. 
+   <lb ed="#B" n="75"/>ille terminus vobiscum / non est referendus ad omnes 
+   <lb ed="#B" n="76"/>discipulos illic existentes: sed solum ad praedestinatos 
+   <lb ed="#B" n="77"/>secundum illud Ioannis. xiii. Vos estis mundi / sed non 
+   <lb ed="#B" n="78"/>omnes. Et non solum corpus suum ludae dedit, sed ipse 
+   <lb ed="#B" n="79"/>met sumpsit. Christus enim sumpsit panem &amp; calicenm 
+   <lb ed="#B" n="80"/>sicut euangelistae narrant: secundum carmina quae reci 
+   <lb ed="#B" n="81"/>tat Bernardus in. c. Firmiter. de sum. triniitit. &amp; fide, 
+   <lb ed="#B" n="82"/>catho. Rex sedet in coena turba cinctus
+   duode<lb ed="#B" n="83" break="no"/>na. Se tenet in manibus: se cibat ipse cibus. Ad 
+   <lb ed="#B" n="84"/>quintum dicitur: quod ludas quia sedebat inter alios: fa 
+   <lb ed="#B" n="85"/>cto petebat, sicut ponens se in pascha ad mensam 
+   <lb ed="#B" n="86"/>cum aliis. Secundo, si non dedisset ei, petiuisset. sicut di 
+   <lb ed="#B" n="87"/>cebat. Numqui id ego sum rabbi cum Christus
+   lo<lb ed="#B" n="88" break="no"/>queretur de sua morte. 
+  </p>
+      <p xml:id="jMqv4a-d1e230-d1e437">
+       <lb ed="#B" n="89"/>⁋ Ex hac conclusione sequitur per 
+   <lb ed="#B" n="90"/>locum a contrario sensu: saltem tacite innuitur, alia com 
+   <lb ed="#B" n="91"/>clusio: quae est haec. Si petat a me peccator ille Eucha 
+   <lb ed="#B" n="92"/>ristiam pro tempore quo non teneor ei ministrare: non dabo 
+   <lb ed="#B" n="93"/>ei Eucharistiam. patet. Nam facere oppositum esset mai 
+   <lb ed="#B" n="94"/>garitas proiicere ante porcos: &amp; sanctum dare canibus 
+   <lb ed="#B" n="95"/>Legitimam exceptionem habeo ne tenear ei tunc Eu 
+   <lb ed="#B" n="96"/>charistiam ministrare: &amp; pro ratione afferam quod non teneor 
+   <lb ed="#B" n="97"/>&amp; quod sum impeditus. &amp; hoc est verum. cu non possim 
+   <lb ed="#B" n="98"/>ei Eucharistiam dare: ad hoc sum impeditus.
+  </p>
+      <p xml:id="jMqv4a-d1e230-d1e461">
+   ⁋ Tertia 
+   <lb ed="#B" n="99"/>conclusio. Si iste de quo est mentio petat in secreto 
+   <lb ed="#B" n="100"/>Eucharistiam a me, negabo ei Eucharistiam in secreto 
+   <lb ed="#B" n="101"/>&amp; dicam ei sic. ratio mea est quia tu peccas mortaliter 
+   <lb ed="#B" n="102"/>sumendo Eucharistiam: &amp; ego male agerem cooperan 
+   <lb ed="#B" n="103"/>do peccato tuo: cum excusationem habeam rationabilem 
+  </p>
+      <p xml:id="jMqv4a-d1e230-d1e474">
+       <lb ed="#B" n="104"/>⁋ Quarta conclusio, neganda est Eucharistia in publi 
+   <lb ed="#B" n="105"/>co / notorio peccatori. habeo enim excusationem
+   legiti<lb ed="#B" n="106" break="no"/>mam contra talem, peccati notorietatem. Sed prouidendum est 
+   <lb ed="#B" n="107"/>hic vt sim certus de notorietate peccati. alioquin 
+   <lb ed="#B" n="108"/>inique agerem &amp; imprudenter, alios scandalizando.  
+   <!--0120.xml-->
+   <pb ed="#B" n="44-v"/>
+       <cb ed="#B" n="a"/>
+      </p>
+      <p xml:id="jMqv4a-d1e230-d1e494">
+       <lb ed="#B" n="1"/>⁋ Quinta conclusio. nullo modo danda est
+   Eu<lb ed="#B" n="2" break="no"/>charistia noto existenti in mortali vbi habet
+   sa<lb ed="#B" n="3" break="no"/>cerdos licitam excusationem non dandi. patet. 
+   <lb ed="#B" n="4"/>alioquin esset cooperari peccato alterius. &amp; patet 
+   <lb ed="#B" n="5"/>ex secunda conclusione. 
+  </p>
+      <p xml:id="jMqv4a-d1e230-d1e507">
+       <lb ed="#B" n="6"/>⁋ Contra secundam conclusionem arguitur. 
+   <lb ed="#B" n="7"/>lpse peccat sumendo Eucharistiam: &amp; melius esset 
+   <lb ed="#B" n="8"/>ei non sumere Eucharistiam: ergo non debeo ei dare 
+   <lb ed="#B" n="9"/>Eucharistiam, quia ei dando / suo peccato cooperor. 
+   <lb ed="#B" n="10"/>ltem melius est quod scandalizetur quam sumat
+   Eucha<lb ed="#B" n="11" break="no"/>ristiam: ergo debeo ei succurrere.
+  </p>
+      <p xml:id="jMqv4a-d1e230-d1e523">
+   ⁋ Respondetur ad 
+   <lb ed="#B" n="12"/>primum / concedendo antecedens, quod melius esset ei: sed  
+   <lb ed="#B" n="13"/>consequentia est nulla: quia debeo respicere ad illud 
+   <lb ed="#B" n="14"/>quod est mihi melius. ego enim teneor dare ei Eucha 
+   <lb ed="#B" n="15"/>ristiam. &amp; nemo peccat implendo praeceptum,
+   exponen<lb ed="#B" n="16" break="no"/>do per quia. si vero non darem ei, peccarem. &amp; nego 
+   <lb ed="#B" n="17"/>quod eius peccato cooperor: cum rationabiliter ei Eu 
+   <lb ed="#B" n="18"/>charistia praebeam: &amp; displicet mihi quod ipse
+   Euchari<lb ed="#B" n="19" break="no"/>stiam petat, &amp; peccet. Si tamen eum vocarem ad
+   Euchari<lb ed="#B" n="20" break="no"/>stiam: multum peccarem / instigando eum ad hoc quod est ei 
+   <lb ed="#B" n="21"/>peccatum. sed praemonere eu licet / auri eius insusurran 
+   <lb ed="#B" n="22"/>do. frater noli Eucharistiam sumere si poenitudine 
+   <lb ed="#B" n="23"/>non ducaris de odio in fratrem tuum. vel dicam in
+   pu<lb ed="#B" n="24" break="no"/>blico. Caueat quilibet accedere ad sancta sancto 
+   <lb ed="#B" n="25"/>rum in mortali noxa: ne iudicium sibi manducet &amp;
+   bi<lb ed="#B" n="26" break="no"/>bat. sicut Christus in publico dixit: vnus vestrum 
+   <lb ed="#B" n="27"/>me traditurus est. vaeh autem homini illi per quem
+   fi<lb ed="#B" n="28" break="no"/>lius hominis tradetur.
+  </p>
+      <p xml:id="jMqv4a-d1e230-d1e563">
+   ⁋ Ad secundum. transeat quod 
+   <lb ed="#B" n="29"/>est ei melius: non tamen mihi. modo secundum ordinem chas 
+   <lb ed="#B" n="30"/>ritatis plus habeo me protegere a peccato quam alium 
+   <lb ed="#B" n="31"/>Etiam alter grauiter peccat volendo sumere: quia 
+   <lb ed="#B" n="32"/>omnino decreuit sumere.
+  </p>
+      <p xml:id="jMqv4a-d1e230-d1e574">
+   ⁋ Tertio arguitur, non
+   de<lb ed="#B" n="33" break="no"/>beo aliis facere quod nollem mihi fieri: sed ego
+   sa<lb ed="#B" n="34" break="no"/>cerdos si essem in statu istius petentis, non deberen 
+   <lb ed="#B" n="35"/>velle quod sacerdos daret mihi Eucharistiam. igitur. 
+  </p>
+      <p xml:id="jMqv4a-d1e230-d1e583">
+       <lb ed="#B" n="36"/>⁋ Quarto arguitur per illud quod scribitur Matth. vii. 
+   <lb ed="#B" n="37"/>Nolite proiicere margaritas ante porcos. sed ille 
+   <lb ed="#B" n="38"/>peccator est porco perior, qui nuqui peccat. igitur 
+  </p>
+      <p xml:id="jMqv4a-d1e230-d1e592">
+       <lb ed="#B" n="39"/>⁋ Quinto arguitur. medicus corporalis vinu non 
+   <lb ed="#B" n="40"/>dilutum aqua concedens febricitanti calida febre, 
+   <lb ed="#B" n="41"/>peccat, licet alter petat: &amp; causa est, quia nocet pa 
+   <lb ed="#B" n="42"/>tienti: sed corporis Christi datio nocet accipienti: &amp; 
+   <lb ed="#B" n="43"/>licet peccet volendo habere: per dationem continuatur 
+   <lb ed="#B" n="44"/>actus eius, &amp; ex parte rei acceptae ei nocebit. igitur. 
+  </p>
+      <p xml:id="jMqv4a-d1e230-d1e608">
+       <lb ed="#B" n="45"/>⁋ Sexto arguitur. furioso peteti proprium gladium, du 
+   <lb ed="#B" n="46"/>rante tempore furiae, gladius est negandus: ne suo mu 
+   <lb ed="#B" n="47"/>crone sibi iugulu praecidat: ergo sic est in proposito. 
+  </p>
+      <p xml:id="jMqv4a-d1e230-d1e617">
+       <lb ed="#B" n="48"/>⁋ Septimo arguitur. melius est illi tradere hostiam 
+   <lb ed="#B" n="49"/>no consecratam: quia ex parte rei operatae illa ei non  
+   <lb ed="#B" n="50"/>nocebit.
+  </p>
+      <p xml:id="jMqv4a-d1e230-d1e627">
+   ⁋ Octauo arguitur. ille peccator tenetur 
+   <lb ed="#B" n="51"/>non petere Eucharistiam: ergo ego teneor ei non dare 
+   <lb ed="#B" n="52"/>illam.
+  </p>
+      <p xml:id="jMqv4a-d1e230-d1e634">
+   ⁋ Ad tertium dicitur quod sermo est illic de velle 
+   <lb ed="#B" n="53"/>recto &amp; licito: quare concedo maiorem absolute, &amp; 
+   <lb ed="#B" n="54"/>concedo minore absolute, non enim deberem velle si 
+   <!--0120.xml-->
+   <cb ed="#B" n="b"/> 
+       <!-- 44-v b -->
+       <lb ed="#B" n="55"/>essem subditus, quod curatus daret mihi
+   Euchari<lb ed="#B" n="56" break="no"/>stiam: nec debeo simpliciter petere stante casu pec 
+   <lb ed="#B" n="57"/>cati: sed cum curatus licite det Eucharistiam: stante 
+   <lb ed="#B" n="58"/>hypothesi possum velle quod ipse mihi det. Exem 
+   <lb ed="#B" n="59"/>plum in simili. vxor tenetur reddere debitum in casu 
+   <lb ed="#B" n="60"/>marito lasciuo &amp; peccanti in petendo: &amp; tamen si
+   mari<lb ed="#B" n="61" break="no"/>tus recte vellet: absolute desideraret quod vxor non 
+   <lb ed="#B" n="62"/>redderet debitum: &amp; etiam nolle debet quod ipse debitum 
+   <lb ed="#B" n="63"/>betat: sed stante sua importuna petitione vult
+   mu<lb ed="#B" n="64" break="no"/>lierem reddere debitum licite.
+  </p>
+      <p xml:id="jMqv4a-d1e230-d1e669">
+   ⁋ Ad quartum dicitur 
+   <lb ed="#B" n="65"/>quod illa auctoritas sic intelligitur. Nolite proiicere 
+   <lb ed="#B" n="66"/>quantum est ex parte vestra margaritas ante
+   por<lb ed="#B" n="67" break="no"/>cos. Et sic est in proposito. Alter enim rapit margari 
+   <lb ed="#B" n="68"/>tas, cum iste non possit ei importune petenti Euchari 
+   <lb ed="#B" n="69"/>stiam negare. Et licet volitionem dandi habeat: illa est 
+   <lb ed="#B" n="70"/>extorta &amp; non pure spontanea.
+  </p>
+      <p xml:id="jMqv4a-d1e230-d1e685">
+   ⁋ Ad quintum dicitur 
+   <lb ed="#B" n="71"/>quod non est simile: quia vnus obligatur: non autem alter: 
+   <lb ed="#B" n="72"/>immo medicus corporalis obligatur non dare
+   noci<lb ed="#B" n="73" break="no"/>uum cognitum tale patienti. potest etiam reddere ratio 
+   <lb ed="#B" n="74"/>nem quare noceret patienti talis medicina: quod fa 
+   <lb ed="#B" n="75"/>cere non potest curatus.
+  </p>
+      <p xml:id="jMqv4a-d1e230-d1e698">
+   ⁋ Ad sextum dicitur quod 
+   <lb ed="#B" n="76"/>ius nature interpretatur gladium in illo euentu non  
+   <lb ed="#B" n="77"/>restituendum. oppositum est hic.
+  </p>
+      <p xml:id="jMqv4a-d1e230-d1e705">
+   ⁋ Ad septimum
+   ne<lb ed="#B" n="78" break="no"/>go antecedens, non enim est mihi bonum sed
+   pecca<lb ed="#B" n="79" break="no"/>tum: quod non est faciendum. patet in. c. de homine. 
+   <lb ed="#B" n="80"/>de celebra. missa. vbi casus vertebatur de quodam 
+   <lb ed="#B" n="81"/>peccatore nolente celebrare: qui tamen finxit se ce 
+   <lb ed="#B" n="82"/>lebrare, praetermittens verba consecrationis vt
+   po<lb ed="#B" n="83" break="no"/>pulo satisfaceret. Forte occurrebat casus in quo 
+   <lb ed="#B" n="84"/>ex officio celebrare tenebatur vel ratione scandali: 
+   <lb ed="#B" n="85"/>&amp; forte ex stultitia sua reputabat se semper in mor 
+   <lb ed="#B" n="86"/>tali ante confessionem vocalem. Innocentius tertius 
+   <lb ed="#B" n="87"/>dicit illum grauius deliquisse quam si in mortali vere 
+   <lb ed="#B" n="88"/>consecrasset. quare dictum Altisiodori est nullum,
+   di<lb ed="#B" n="89" break="no"/>centis hostiam non consecratam dandam loco verae 
+   <lb ed="#B" n="90"/>Eucharistiae: non quia populus idololatriam
+   con<lb ed="#B" n="91" break="no"/>mitteret: vt distinctione vndecima patebit: sed  
+   <lb ed="#B" n="92"/>quia sacerdos deciperet populum priuando eum
+   sa<lb ed="#B" n="93" break="no"/>crificio: &amp; in sacramento veritatis nihil falsitatis 
+   <lb ed="#B" n="94"/>aut doli inesse debet.
+  </p>
+      <p xml:id="jMqv4a-d1e230-d1e745">
+   ⁋ Ad octauum concedo ante 
+   <lb ed="#B" n="95"/>cedens: sed consequentia est nulla- 
+  </p>
+      <p xml:id="jMqv4a-d1e230-d1e750">
+       <lb ed="#B" n="96"/>⁋ Contra tertiam conclusionem arguitur 
+   <lb ed="#B" n="97"/>sic. lste cui nego Eucharistiam, de me faciet quaerimo 
+   <lb ed="#B" n="98"/>niam superiori quod ei Eucharistiam negem: &amp; non habeo 
+   <lb ed="#B" n="99"/>protectionem. Si concedam, ero punitus. Si dicam 
+   <lb ed="#B" n="100"/>causam: sum proditor secreti.
+  </p>
+      <p xml:id="jMqv4a-d1e230-d1e763">
+   ⁋ Respondebo
+   co<lb ed="#B" n="101" break="no"/>ram episcopo, quaerenti de me. vbi negaui tibi
+   Eucha<lb ed="#B" n="102" break="no"/>ristiam, &amp; quando? subiungens me paratum ministrare 
+   <lb ed="#B" n="103"/>corpus Christi cuilibet mihi subdito. Et si redeat 
+   <lb ed="#B" n="104"/>in secreto / nihil ei dabo. Si adducat alios testes, 
+   <lb ed="#B" n="105"/>dabo ei Eucharistiam. &amp; si insistat proterue: forte 
+   <lb ed="#B" n="106"/>ex meo facto licito deprehendetur ab aliis quod ratione 
+   <lb ed="#B" n="107"/>peccati quo irretitus est, ei Eucharistiam negem: sed  
+   <lb ed="#B" n="108"/>hoc mihi non imputabitur. 
+   <!--0121.xml-->
+   <pb ed="#B" n="45-r"/>
+       <cb ed="#B" n="a"/>
+      </p>
+      <p xml:id="jMqv4a-d1e230-d1e789">
+       <lb ed="#B" n="1"/>⁋ Contra quartam conclusionem
+   ar<lb ed="#B" n="2" break="no"/>guitur. Stat notorium peccatorem non esse in mortali: &amp; 
+   <lb ed="#B" n="3"/>per consequens ei danda est Eucharistia.
+  </p>
+      <p xml:id="jMqv4a-d1e230-d1e798">
+   ⁋ Respo 
+   <lb ed="#B" n="4"/>detur. consequentia est nulla. Notorius enim
+   pecca<lb ed="#B" n="5" break="no"/>tor est ille qui notorie peccat, &amp; non sufficienter suum 
+   <lb ed="#B" n="6"/>crimen per poenitentiam purgat. cum autem purgaut 
+   <lb ed="#B" n="7"/>rit suum crimem iudicio prudentum: dabo ei in pu 
+   <lb ed="#B" n="8"/>blico etiam Eucharistiam. si vero tempus in quo
+   iu<lb ed="#B" n="9" break="no"/>dicio prudentum debet abstinere, non sit
+   consum<lb ed="#B" n="10" break="no"/>matum, dicam publice, amice bene &amp; laudabiliter 
+   <lb ed="#B" n="11"/>poenitentiam tuam inchoasti, perseueres modicum 
+   <lb ed="#B" n="12"/>vt illos aedifices quos scandalizasti: &amp; postea da 
+   <lb ed="#B" n="13"/>bo tibi Eucharistiam. Sic enim praecipit Apostolus 
+   <lb ed="#B" n="14"/>Peccantem coram omnibus argue vt caeteri timorem
+   ha<lb ed="#B" n="15" break="no"/>beant. Primae ad Timotheum quinto.
+  </p>
+      <p xml:id="jMqv4a-d1e230-d1e827">
+   ⁋ Secundo 
+   <lb ed="#B" n="16"/>contra eandem conclusionem arguitur. Stat me
+   ne<lb ed="#B" n="17" break="no"/>gare Eucharistiam coram multis qui crimen illius non 
+   <lb ed="#B" n="18"/>cognoscunt: ergo sum reuelator peccati secreti 
+   <lb ed="#B" n="19"/>Respondetur concedendo antecedens. sed consequentiam 
+   <lb ed="#B" n="20"/>cum consequente nego: quia peccatum est notorium: &amp; pro 
+   <lb ed="#B" n="21"/>pterea ego non reuelo ipsum: sed parietes illud ex 
+   <lb ed="#B" n="22"/>plicant: &amp; peccatum ipsum suum factorem in hominium
+   ocu<lb ed="#B" n="23" break="no"/>lis foetere facit: &amp; apud multos qui de peccato nihil ar 
+   <lb ed="#B" n="24"/>te sciuernut, &amp; ita ego licite facio. Illud patet. ii. 
+   <lb ed="#B" n="25"/>qui. i. Quae Lotharius rex. &amp; c. sequerti De
+   mani<lb ed="#B" n="26" break="no"/>festa. vbi glos. in verbo splurimis) ergo non requi 
+   <lb ed="#B" n="27"/>ritur omnium scientia. 
+  </p>
+      <p xml:id="jMqv4a-d1e230-d1e857">
+       <lb ed="#B" n="28"/>⁋ Contra quintam conclusionem ar 
+   <lb ed="#B" n="29"/>guitur per illud quod definitum est in concilio
+   Guar<lb ed="#B" n="30" break="no"/>maciensi: vt recitatur. ii. qui. v. c. Saepe. quod suspectis 
+   <lb ed="#B" n="31"/>de furto detur Eucharistia: ergo datur existentibus 
+   <lb ed="#B" n="32"/>in peccato.
+  </p>
+      <p xml:id="jMqv4a-d1e230-d1e870">
+   ⁋ Respondetur. illic est sermo de dubio super fui 
+   <lb ed="#B" n="33"/>to: an sint aliqui in mortali peccato: an scilicet res furat 
+   <lb ed="#B" n="34"/>sint. Et statuit concilium quod se purgarent in illo du 
+   <lb ed="#B" n="35"/>bio, existimans illos religiosos nolle, si quid furti ha 
+   <lb ed="#B" n="36"/>berent, sumere corpus Christi, quemadmodum 
+   <lb ed="#B" n="37"/>defertur iuramento in casu dubio in iudicio. sed hoc 
+   <lb ed="#B" n="38"/>iam exoleuit. Ex illo tamen non sequitur quod
+   Euchari<lb ed="#B" n="39" break="no"/>stia sit danda alicui quem certum est esse in peccato 
+   <lb ed="#B" n="40"/>mortali. Ferme simile seruant aliquorum religiosorum 
+   <lb ed="#B" n="41"/>praelati tempore quo aliquid est furto ablatum. Nemo 
+   <lb ed="#B" n="42"/>enim audit confessiones religiosorum quos
+   cele<lb ed="#B" n="43" break="no"/>brare oportet, nisi prior conuentus, vt furtum de 
+   <lb ed="#B" n="44"/>praehendatur. 
+   <lb ed="#B" n="45"/>Vbitatur an possimus lici 
+   <lb ed="#B" n="46"/>Q. lte audire missam sacerdotis
+   excommu<lb ed="#B" n="47" break="no"/>inicati vel notorii fornicarii. Responde 
+   <lb ed="#B" n="48"/>ctur. vel sacerdos est publice &amp; nominatim 
+   <lb ed="#B" n="49"/>excommunicatus: &amp; tunc in loco in quo est
+   publi<lb ed="#B" n="50" break="no"/>cum: teneor talem sacerdotem euitare in quibuscumque 
+   <lb ed="#B" n="51"/>actibus. vbi vero est occultum, talem teneor eui 
+   <lb ed="#B" n="52"/>tare in secreto: non autem in publico. argumentum est 
+   <!--0121.xml-->
+   <cb ed="#B" n="b"/> 
+       <!-- 45-r b -->
+       <lb ed="#B" n="53"/>ad hoc in c. Si sacerdos. de offi. iudi. ordi. hoc pa 
+   <lb ed="#B" n="54"/>tet etiam de senten. excommunica. c. Cum non ab 
+   <lb ed="#B" n="55"/>homine. vt si quis Aberdoniae excommunitatus fuerit 
+   <lb ed="#B" n="56"/>nominatim, &amp; hoc sciuero: talem in publico non eui 
+   <lb ed="#B" n="57"/>tabo Hadigtonae. Si autem fuerit generali sententia 
+   <lb ed="#B" n="58"/>iuris vel hominis suspensus, excommunicatus, vel
+   in<lb ed="#B" n="59" break="no"/>terdictus, non teneor ipsum euitare in diuinis vel in 
+   <lb ed="#B" n="60"/>aliis: nisi in sententiam excommunicationis pro
+   sa<lb ed="#B" n="61" break="no"/>crilega manuum iniectione in clericum adeo notorie 
+   <lb ed="#B" n="62"/>inciderit: vt nulla tergiuersatione celari possit.
+   Il<lb ed="#B" n="63" break="no"/>lud in concilio Constantiensi ordinatum est. Ex hoc patet 
+   <lb ed="#B" n="64"/>quod non est habendus oculus ad ius antiquum ante illud  
+   <lb ed="#B" n="65"/>decretum. Secundo sequitur quod nullo iure humano 
+   <lb ed="#B" n="66"/>obligati sumus euitare notorie fornicarium sacerdo 
+   <lb ed="#B" n="67"/>dote, simoniacum, vel aliter notorie irretitum, in diui 
+   <lb ed="#B" n="68"/>nis vel extra diuima: nisi per sententiam iudicis
+   suspen<lb ed="#B" n="69" break="no"/>sio fuerit contra eum specialiter publicata &amp;
+   ex<lb ed="#B" n="70" break="no"/>presse. Tertio sequitur: quod iniectio notoria manus in 
+   <lb ed="#B" n="71"/>clericum facit virum euitari sicut ante concilium 
+   <lb ed="#B" n="72"/>Constantiense. Patet: quia illum casum concilium
+   exce<lb ed="#B" n="73" break="no"/>pit. Quarto sequitur ex dictis in principio quaestionis 
+   <lb ed="#B" n="74"/>de notorietate: quod clericum percutiens non est
+   vitan<lb ed="#B" n="75" break="no"/>dus nisi percutiens id confessus fuerit, vel
+   conui<lb ed="#B" n="76" break="no"/>ctus fuerit in iudicio, vel ad minus percusserit de 
+   <lb ed="#B" n="77"/>cem videntibus: alioquin non erit notorium. Dixi in 
+   <lb ed="#B" n="78"/>secundo corollario nullo iure humano) teneor 
+   <lb ed="#B" n="79"/>tamen iure diuino quando indubitanter scio aliquem 
+   <lb ed="#B" n="80"/>sacerdotem peccatorem: non facere eum celebrare: 
+   <lb ed="#B" n="81"/>quia per oppositum sum causa eius peccati: quod
+   fu<lb ed="#B" n="82" break="no"/>giendum est a me. &amp; si videam quod audiendo ab eo 
+   <lb ed="#B" n="83"/>rem diuinam eum foueam in peccato, &amp; possim eum
+   re<lb ed="#B" n="84" break="no"/>trahere, ab eo diuina non audiendo: tunc debeo 
+   <lb ed="#B" n="85"/>non audire. ratio est, quia illud est de iure naturae &amp; 
+   <lb ed="#B" n="86"/>diuino ante omnem humanam constitutionem. 
+   <lb ed="#B" n="87"/>modo concilium Constantiense iura humana so 
+   <lb ed="#B" n="88"/>lum remouebat. Sed hic notato quod illud cum magna 
+   <lb ed="#B" n="89"/>discretione fieri debet. Et primo requiritur quod coster 
+   <lb ed="#B" n="90"/>viro apparentissime quod possit hac via retrahere 
+   <lb ed="#B" n="91"/>sacerdotem a peccato. Secundo requiritur quod non aperiat 
+   <lb ed="#B" n="92"/>viam imprudentibus contemnendi suos curatos, quam 
+   <lb ed="#B" n="93"/>crebro sunt propensi in suos insurgere. Tertio ne 
+   <lb ed="#B" n="94"/>videatur contemptor concilii Costantiensis: quod 
+   <lb ed="#B" n="95"/>magno libramine legem antiquam de non audienda 
+   <lb ed="#B" n="96"/>missa notorii fornicarii abrogauit.
+  </p>
+      <p xml:id="jMqv4a-d1e230-d1e1018">
+   ⁋ Nunc habu 
+   <lb ed="#B" n="97"/>isti quod occulto peccatori est danda Eucharistia quando 
+   <lb ed="#B" n="98"/>petit directe vel indirecte in publico pro tempore 
+   <lb ed="#B" n="99"/>quo tenerer dare ei si non esset in peccato. Indire 
+   <lb ed="#B" n="100"/>cte autem petit sedendo cum aliis quibus Eucharistiam 
+   <lb ed="#B" n="101"/>ministro. &amp; ratio est, non possum excipere licite 
+   <lb ed="#B" n="102"/>contra eum quare non ministrem ei Eucharistiam 
+   <lb ed="#B" n="103"/>Si vero petat in conclaui, non dabo illi quamuis m 
+   <lb ed="#B" n="104"/>lies conqueratur. Non possum tamen suadere ta 
+   <lb ed="#B" n="105"/>li quod sumat Eucharistiam, sed teneor ei seorsum 
+   <lb ed="#B" n="106"/>in aure dissuadere. Item notorio peccatori non est 
+   <lb ed="#B" n="107"/>danda Eucharistia licet in nullo peccato sit, &amp; hoc 
+   <!--0122.xml-->
+   <pb ed="#B" n="45-v"/>
+       <cb ed="#B" n="a"/>
+       <lb ed="#B" n="1"/>mihi constet: quousque suam sordidam vitam
+   elima<lb ed="#B" n="2" break="no"/>uerit: quia adhuc a vulgo peccator reputatur: sed 
+   <lb ed="#B" n="3"/>sua foeda &amp; lubrica vita cribrata, danda est ei Eu 
+   <lb ed="#B" n="4"/>charistia, quia iam non est notorius peccator. Quo 
+   <lb ed="#B" n="5"/>fit quod haec consequentia est nulla: Sortes est
+   noto<lb ed="#B" n="6" break="no"/>rius peccator: ergo sortes est peccator, quemadmo 
+   <lb ed="#B" n="7"/>dum non sequitur, Sortes est putatus optimus: ergo 
+   <lb ed="#B" n="8"/>est optimus.
+  </p>
+      <p xml:id="jMqv4a-d1e230-d1e1068">
+   ⁋ Audire insuper possumus missan 
+   <lb ed="#B" n="9"/>notorii fornicarii: &amp; possumus diuinis eius interes 
+   <lb ed="#B" n="10"/>se, licet eum non debeamus prouocare ad celebran 
+   <lb ed="#B" n="11"/>dum: non tamen licet audire missam notorii percusi 
+   <lb ed="#B" n="12"/>soris clerici, nisi probabiliter se absolutum ostende 
+   <lb ed="#B" n="13"/>rit. Sed de hoc amplius in. xviii. distinctione huius.
+  </p>
+    </div>
+   </body>
+  </text>
+</TEI>
