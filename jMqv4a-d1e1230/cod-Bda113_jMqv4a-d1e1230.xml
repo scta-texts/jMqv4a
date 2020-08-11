@@ -293,7 +293,7 @@
       <p xml:id="jMqv4a-d1e1230-d1e586">
    ⁋ Sexto ar 
    <lb ed="#B" n="57"/>guitur. disputare de factis papae est mittere os in  
-   <lb ed="#B" n="58"/>aelum. <ref target="http://scta.info/resource/gd-p2c17q4-d1e756" synch="3-31">xvii. q. iiii. Si quis suadente.</ref> <quote><!-- seems like a quote from digest in the dictum that follows "si quis suadente", c. 29 -->S. Committunt 
+   <lb ed="#B" n="58"/>aelum. <ref xml:id="jMqv4a-d1e1230-Rd1e592" target="http://scta.info/resource/gd-p2c17q4-d1e756" synch="3-31">xvii. q. iiii. Si quis suadente.</ref> <quote xml:id="jMqv4a-d1e1230-Qd1e595"><!-- seems like a quote from digest in the dictum that follows "si quis suadente", c. 29 -->S. Committunt 
    <lb ed="#B" n="59"/>etiam sacrilegium qui contra diuinae legis
    sancti<lb ed="#B" n="60" break="no"/>tatem, aut nesciendo committunt: aut negligendo  
    <lb ed="#B" n="61"/>violant &amp; offendunt: aut qui de principali iudicio 
