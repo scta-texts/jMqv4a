@@ -476,11 +476,11 @@
    <lb ed="#B" n="39"/>doctrina polleant non ideo verum putem: quia ipsi ita
    sen<lb ed="#B" n="40" break="no"/>serunt: sed quia mihi vel per alios auctores: vel per cano 
    <lb ed="#B" n="41"/>nicas: vel probabiles rationes, quod a vero non
-   abhor<lb ed="#B" n="42" break="no"/>ret psuadere potuerunt. Et in prologo tertii libri de 
-   <lb ed="#B" n="43"/>trinitate. Noli meis literis quasi canonicis scripturis 
+   abhor<lb ed="#B" n="42" break="no"/>ret psuadere potuerunt. Et in <ref xml:id="jMqv4a-d1e801-Rgg811a" corresp="#jMqv4a-d1e801-Qd7a71a">prologo tertii libri de 
+   <lb ed="#B" n="43"/>trinitate</ref>. <quote xml:id="jMqv4a-d1e801-Qd7a71a" source="http://scta.info/resource/adt-l3-d1e365@65-95">Noli meis literis quasi canonicis scripturis 
    <lb ed="#B" n="44"/>deseruire: sed in illis quae non credebas cum inueneris 
    <lb ed="#B" n="45"/>incunctanter crede: In istis autem quod certum non
-   habe<lb ed="#B" n="46" break="no"/>bas nisi certum intellexeris noli firmum tenere. Et Au 
+   habe<lb ed="#B" n="46" break="no"/>bas nisi certum intellexeris noli firmum tenere</quote>. Et Au 
    <lb ed="#B" n="47"/>gu. in epistol ad Vincentium: postquam de auctoritate Hila 
    <lb ed="#B" n="48"/>rii, Cypriani, &amp; similium locutus erat: dicit. Hoc genus 
    <lb ed="#B" n="49"/>literarum ab auctoritate canonum distinguendum est, non 
@@ -490,11 +490,9 @@
    <lb ed="#B" n="53"/>tunatum cum idem teneat de aliis patribus. Talis ego sum in  
    <lb ed="#B" n="54"/>scriptis aliorum, quales volo esse lectores meorum. hoc 
    <lb ed="#B" n="55"/>ad longum ponit in libro de vnico baptismo libro. ii 
-   <!--0039.xml-->
-   <cb ed="#B" n="b"/> 
-       <!-- 4-r b -->
       </p>
       <p xml:id="jMqv4a-d1e801-d1e1116">
+       <cb ed="#B" n="b"/> <!-- 4-r b -->
        <lb ed="#B" n="56"/>⁋ Ex his patet quod &amp; ratione, &amp; Augusti.
    auctori<lb ed="#B" n="57" break="no"/>tate sacra scriptura omnem aliam transcendit: &amp;
    ratio<lb ed="#B" n="58" break="no"/>nabiliter, in ea proportione qua creaturam omnem deus 
