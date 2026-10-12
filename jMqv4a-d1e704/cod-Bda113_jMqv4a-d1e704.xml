@@ -108,18 +108,18 @@
    lu<lb ed="#B" n="20" break="no"/>crum vltra sortem vi mutui. Dicitur / teporalis) quia pro 
    <lb ed="#B" n="21"/>quolibet bono actu ex charitate elicito de lege 
    de<lb ed="#B" n="22" break="no"/>betur vita aeterna, quae multo plus valet quam actus. Hino 
-   <lb ed="#B" n="23"/>dicit Saluator. Luc. xix. <quote source="http://scta.info/resource/lc19_23@1-16">Et quare non dedisti 
+   <lb ed="#B" n="23"/>dicit Saluator. Luc. xix. <quote xml:id="jMqv4a-d1e704-Qd1e222" source="http://scta.info/resource/lc19_23@1-16">Et quare non dedisti 
    pecu<lb ed="#B" n="24" break="no"/>niam meam ad mensam: &amp; ego veniens cum vsuris exegi 
-   <lb ed="#B" n="25"/>sem illud.</quote> &amp; Matth. xxv. <quote source="http://scta.info/resource/mt25_27@1-7">Oportuit ergo te commita 
+   <lb ed="#B" n="25"/>sem illud.</quote> &amp; Matth. xxv. <quote xml:id="jMqv4a-d1e704-Qd1e229" source="http://scta.info/resource/mt25_27@1-7">Oportuit ergo te commita 
    <lb ed="#B" n="26"/>tere pecuniam meam nummulariis.</quote> vbi <name xml:id="jMqv4a-d1e704-Nd1e236" ref="#Augustine">Augustini</name> Miser homo 
    <lb ed="#B" n="27"/>cur foeneraris homini foenerare deo: centuplum accipies 
    <lb ed="#B" n="28"/>&amp; vitam aeternam possidebis. Et prouerb. xix. dicitur. 
-   <quote source="http://scta.info/resource/prov19_17@1-5">Foe<lb ed="#B" n="29" break="no"/>neratur dmino qui miseretur pauperis.</quote> Sermo est ergo de 
+   <quote xml:id="jMqv4a-d1e704-Qd1e242" source="http://scta.info/resource/prov19_17@1-5">Foe<lb ed="#B" n="29" break="no"/>neratur dmino qui miseretur pauperis.</quote> Sermo est ergo de 
    lu<lb ed="#B" n="30" break="no"/>cro temporali: siue sit lucrum a manu / lingua / vel
    obse<lb ed="#B" n="31" break="no"/>quio / de quibus in. xxv. dist. huius futurus est sermo. 
    <lb ed="#B" n="32"/>Sed pro enucleatione vocabuli sors in definitione po 
    <lb ed="#B" n="33"/>siti animaduertendum est quod sors multifariam accipitur. vno 
-   <lb ed="#B" n="34"/>modo pro signo discretiuo. vt Actuum. i. <quote source="http://scta.info/resource/act1_26@6-9">Cecidit sors 
+   <lb ed="#B" n="34"/>modo pro signo discretiuo. vt Actuum. i. <quote xml:id="jMqv4a-d1e704-Qd1e258" source="http://scta.info/resource/act1_26@6-9">Cecidit sors 
    <lb ed="#B" n="35"/>super Matthiam.</quote> &amp; losue &amp; Eleazar sorte diuiserunt 
    <lb ed="#B" n="36"/>terram Chanaan filiis Israel. Interdum capitur pro euentu 
    <lb ed="#B" n="37"/>fortuito vt in illo Lucani. Omiserae sortis quod non 
@@ -288,13 +288,13 @@
    prohiben<lb ed="#B" n="51" break="no"/>tur sub poena peccati nisi peccatum. vsura est huius 
    <lb ed="#B" n="52"/>modi. igitur, probatur minor: quia Ezech. xviii.
    vsu<lb ed="#B" n="53" break="no"/>ra inter illa magna crimina aeterna morte punienda 
-   <lb ed="#B" n="54"/>numeratur. vbi dicitur. <quote source="http://scta.info/resource/ez18_8@1-8">Ad vsuram non commodauerit 
+   <lb ed="#B" n="54"/>numeratur. vbi dicitur. <quote xml:id="jMqv4a-d1e704-Qd1e586" source="http://scta.info/resource/ez18_8@1-8">Ad vsuram non commodauerit 
    <!--0296.xml-->
    <cb ed="#B" n="b"/> 
        <!-- 132-v b -->
-       <lb ed="#B" n="55"/>&amp; amplius non acceperit.</quote> Et psal. xliiii. <quote source="http://scta.info/resource/ps54_10@7-12 http://scta.info/resource/ps54_12@3-11">Vidi
+       <lb ed="#B" n="55"/>&amp; amplius non acceperit.</quote> Et psal. xliiii. <quote xml:id="jMqv4a-d1e704-Qd1e597" source="http://scta.info/resource/ps54_10@7-12 http://scta.info/resource/ps54_12@3-11">Vidi
    iniqui<lb ed="#B" n="56" break="no"/>tatem &amp; contradictionem in ciuitate: &amp; non defecit de 
-   <lb ed="#B" n="57"/>plateis eius vsura &amp; dolus.</quote> Et psal. xiiii. <quote source="http://scta.info/resource/ps14_1@3-8 http://scta.info/resource/ps14_5@1-7">Domine quis 
+   <lb ed="#B" n="57"/>plateis eius vsura &amp; dolus.</quote> Et psal. xiiii. <quote xml:id="jMqv4a-d1e704-Qd1e604" source="http://scta.info/resource/ps14_1@3-8 http://scta.info/resource/ps14_5@1-7">Domine quis 
    <lb ed="#B" n="58"/>habitabit in tabernaculo tuo? qui pecuniam suam non 
    <lb ed="#B" n="59"/>dedit ad vsuram.</quote> Forte dicis: prohibitio veteris te 
    <lb ed="#B" n="60"/>stamenti non convincit nunc esse peccatum:
@@ -374,7 +374,7 @@
    <lb ed="#B" n="22"/>stria prouenit, quae non est ipsius mutuatoris: ergo qui 
    <lb ed="#B" n="23"/>vult habere lucrum de pecunia quaerit lucrum de re non 
    <lb ed="#B" n="24"/>sua sed industria alterius. Illud patet Luc. vi. in non 
-   <lb ed="#B" n="25"/>uo testamento. <quote source="http://scta.info/resource/lc6_35@8-11">Mutuum date nihil inde sperantes.</quote> vbi 
+   <lb ed="#B" n="25"/>uo testamento. <quote xml:id="jMqv4a-d1e704-Qd1e784" source="http://scta.info/resource/lc6_35@8-11">Mutuum date nihil inde sperantes.</quote> vbi 
    <lb ed="#B" n="26"/>glos. interlinearis. vltra sortem. Et licet dare mutuo 
    <lb ed="#B" n="27"/>sit de consilio coniter: tamen nihil inde capere ratione mu 
    <lb ed="#B" n="28"/>tui est de praecepto. Dixi( coniter) quia pro regula hab 
@@ -445,9 +445,9 @@
    <lb ed="#B" n="84"/>sed nec oblationes eorum quisquam accipiat. Multa
    in<lb ed="#B" n="85" break="no"/>convenientia ex vsura in republica sequuntur: vt pote 
    <lb ed="#B" n="86"/>quod homo in ocio suam vitam ducat: contra illud Adamo 
-   <lb ed="#B" n="87"/>dictum, <quote source="http://scta.info/resource/gen3_19@1-6">In sudore vultus tui vesceris pane tuo</quote>, quo 
+   <lb ed="#B" n="87"/>dictum, <quote xml:id="jMqv4a-d1e704-Qd1e934" source="http://scta.info/resource/gen3_19@1-6">In sudore vultus tui vesceris pane tuo</quote>, quo 
    <lb ed="#B" n="88"/>sententia non solum in personam Adae transiit: sed in totam 
-   <lb ed="#B" n="89"/>naturam humana in eo contentam. &amp; Iob. v. <quote source="http://scta.info/resource/iob5_7@1-8">Homo 
+   <lb ed="#B" n="89"/>naturam humana in eo contentam. &amp; Iob. v. <quote xml:id="jMqv4a-d1e704-Qd1e942" source="http://scta.info/resource/iob5_7@1-8">Homo 
    nasci<lb ed="#B" n="90" break="no"/>tur ad laborem sicut auis ad volatum.</quote> Sicut enim in cor 
    <lb ed="#B" n="91"/>pore naturali nullum membrum deputatur ad actum 
    <lb ed="#B" n="92"/>nisi quod vtilitatem affert reliquis membris: vt oculus 
@@ -530,7 +530,7 @@
   </p>
       <p xml:id="jMqv4a-d1e704-d1e1084">
        <lb ed="#B" n="47"/>⁋ Tertio argumentor. Deuterono. 
-   <lb ed="#B" n="48"/>xxiii. scribitur. <quote source="http://scta.info/resource/deut23_19@1-13 http://scta.info/resource/deut23_20@1-2">Non foenerabis fratri tuo ad vsuram 
+   <lb ed="#B" n="48"/>xxiii. scribitur. <quote xml:id="jMqv4a-d1e704-Qd1e1113" source="http://scta.info/resource/deut23_19@1-13 http://scta.info/resource/deut23_20@1-2">Non foenerabis fratri tuo ad vsuram 
    <lb ed="#B" n="49"/>nec fruges nec quamlibet aliam rem: sed alieno.</quote> ergo 
    li<lb ed="#B" n="50" break="no"/>cet capre ad vsuram vel licuit: &amp; per consequens non est 
    <lb ed="#B" n="51"/>contra ius nature.
@@ -547,9 +547,9 @@
    responde<lb ed="#B" n="56" break="no"/>bitur dist. xxxiii. huius: quia eadem est difficultas vtro 
    <lb ed="#B" n="57"/>pique. Secundo dicitur: quod foenerabis tantum valet 
    quan<lb ed="#B" n="58" break="no"/>tum mutuabis. &amp; sic giossa marginalis Deuterono. 
-   <lb ed="#B" n="59"/>xv. dicit super illo verbo. <quote source="http://scta.info/resource/deut15_6@1-9">Foenerabis gentibus 
+   <lb ed="#B" n="59"/>xv. dicit super illo verbo. <quote xml:id="jMqv4a-d1e704-Qd1e1148" source="http://scta.info/resource/deut15_6@1-9">Foenerabis gentibus 
    mul<lb ed="#B" n="60" break="no"/>tis: &amp; ipse a nullo accipies mutuum.</quote> Et hoc expresse 
-   <lb ed="#B" n="61"/>constat per verba Christi Lucae sexto. <quote source="http://scta.info/resource/lc6_34@14-21">Nam &amp; 
+   <lb ed="#B" n="61"/>constat per verba Christi Lucae sexto. <quote xml:id="jMqv4a-d1e704-Qd1e1156" source="http://scta.info/resource/lc6_34@14-21">Nam &amp; 
    pec<lb ed="#B" n="62" break="no"/>catores foenerantur peccatoribus vt recipiant
    ae<lb ed="#B" n="63" break="no"/>qualia.</quote> vbi glossa interlinearis super verbo (
    foene<lb ed="#B" n="64" break="no"/>rantur) dicit. commodant. &amp; verba sunt ita ad  
@@ -576,13 +576,13 @@
    <lb ed="#B" n="85"/>poterant vllo modo dare ad vsuram fratribus vel 
    <lb ed="#B" n="86"/>vllis aliis nisi his qui suas terras iniuste detinuerunt. 
    <lb ed="#B" n="87"/>De ldumaeis patet: quia Deutero. xxiii. scribitur. 
-   <lb ed="#B" n="88"/><quote source="http://scta.info/resource/deut23_7@1-7">Non abominaberis idumaeum quia frater tuus est.</quote> 
+   <lb ed="#B" n="88"/><quote xml:id="jMqv4a-d1e704-Qd1e1216" source="http://scta.info/resource/deut23_7@1-7">Non abominaberis idumaeum quia frater tuus est.</quote> 
    <lb ed="#B" n="89"/>qui ab Esau Israelis fratre descenderunt. sed istud  
    <lb ed="#B" n="90"/>non concludit de aliis. Tamen sic arguitur. Vsura 
    <lb ed="#B" n="91"/>apud viros in lumine naturali pollentes est
    iudica<lb ed="#B" n="92" break="no"/>ta iniqua: ergo non fuit admittenda iudaeis sine
    dispen<lb ed="#B" n="93" break="no"/>satione. Sed dicis. Deutero. xxiii. deus
-   dispensa<lb ed="#B" n="94" break="no"/>uit quod populus intellexit, <quote source="http://scta.info/resource/deut23_19@1-6 http://scta.info/resource/deut23_20@1-2">non foenerabis fratri tuo 
+   dispensa<lb ed="#B" n="94" break="no"/>uit quod populus intellexit, <quote xml:id="jMqv4a-d1e704-Qd1e1232" source="http://scta.info/resource/deut23_19@1-6 http://scta.info/resource/deut23_20@1-2">non foenerabis fratri tuo 
    <lb ed="#B" n="95"/>ad vsuram &amp;c. &amp; infra: sed alieno.</quote> &amp; licet hoc solui 
    <lb ed="#B" n="96"/>possit: difficile tamen est probare quod alienis soenerari non 
    <lb ed="#B" n="97"/>licuit. &amp; facile cum apparentia diceretur: quod licet prophetae. 
@@ -814,7 +814,7 @@
    <lb ed="#B" n="75"/>tus omnium actuum quos prudens facit: &amp; caeteri actus 
    <lb ed="#B" n="76"/>in amorem illius finis &amp; tandem in illum finem
    re<lb ed="#B" n="77" break="no"/>ducuntur. secundum illud Apostoli primae ad Co 
-   <lb ed="#B" n="78"/>rinth. x. <quote source="http://scta.info/resource/Icor10_31@10-14">Omnia in gloriam dei facite.</quote> Hoc modo isti 
+   <lb ed="#B" n="78"/>rinth. x. <quote xml:id="jMqv4a-d1e704-Qd1e1716" source="http://scta.info/resource/Icor10_31@10-14">Omnia in gloriam dei facite.</quote> Hoc modo isti 
    scho<lb ed="#B" n="79" break="no"/>lastico decem scuta mutuo vt visitet lectionem meam: 
    <lb ed="#B" n="80"/>volens vt adsit lectioni &amp; proficiat in doctrinis &amp; 
    <lb ed="#B" n="81"/>moribus: vt eo modo seruiam deo &amp; merear, non  

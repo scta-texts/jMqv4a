@@ -138,7 +138,7 @@
    li<lb ed="#B" n="28" break="no"/>cet accidentaliter humidi sint: maiori egeant
    po<lb ed="#B" n="29" break="no"/>tu. Hinc Daniel in senectute vino vsus est qui in  
    <lb ed="#B" n="30"/>iuuentute fuit abstemius. Nam Danielis. x. ipse de 
-   <lb ed="#B" n="31"/>se dicit. <quote source="http://scta.info/resource/dan10_2@1-9 http://scta.info/resource/dan10_3@1-13">In diebus illis ego Daniel lugebam: trium 
+   <lb ed="#B" n="31"/>se dicit. <quote xml:id="jMqv4a-d1e975-Qd1e282" source="http://scta.info/resource/dan10_2@1-9 http://scta.info/resource/dan10_3@1-13">In diebus illis ego Daniel lugebam: trium 
    <lb ed="#B" n="32"/>hebdomadarum diebus panem desiderabilem non  
    <lb ed="#B" n="33"/>comedi: &amp; caro &amp; vinum non introierunt in os meum.</quote> 
    <lb ed="#B" n="34"/>Ex quo per locum a contrario sensu colligitur quod 
@@ -161,7 +161,7 @@
    men<lb ed="#B" n="51" break="no"/>tis veluti ferrum in igne ex duritie in mollitiem dedi 
    <lb ed="#B" n="52"/>cta / flexibilior fiat. Cui consonat illud Horatianum 
    <lb ed="#B" n="53"/>Sollicitis animis onus eximit. Et illud 
-   Prouerbio<lb ed="#B" n="54" break="no"/>rum. xxxi. <quote source="http://scta.info/resource/prov31_6@1-10">Date siceram moerentibus: &amp; vinum his qui 
+   Prouerbio<lb ed="#B" n="54" break="no"/>rum. xxxi. <quote xml:id="jMqv4a-d1e975-Qd1e335" source="http://scta.info/resource/prov31_6@1-10">Date siceram moerentibus: &amp; vinum his qui 
    ama<lb ed="#B" n="55" break="no"/>ro sunt animo.</quote>
   </p>
       <p xml:id="jMqv4a-d1e975-d1e342">
@@ -173,7 +173,7 @@
    pa<lb ed="#B" n="57" break="no"/>tet de sanguineo vini appetente &amp; phlegmatico sua 
    <lb ed="#B" n="58"/>natura abstemio. per vinum autem / siceram / ceruisiam / &amp; 
    <lb ed="#B" n="59"/>huiusmodi intelligo. quomodo Angelus dixit Tacha 
-   <lb ed="#B" n="60"/>riae Lucae. i. <quote source="http://scta.info/resource/lc1_15@7-11">Vinum &amp; siceram non bibet.</quote> In super aliquis est 
+   <lb ed="#B" n="60"/>riae Lucae. i. <quote xml:id="jMqv4a-d1e975-Qd1e360" source="http://scta.info/resource/lc1_15@7-11">Vinum &amp; siceram non bibet.</quote> In super aliquis est 
    <lb ed="#B" n="61"/>iuuenis corpore cuius passiones infirmitate vel 
    tem<lb ed="#B" n="62" break="no"/>perantia sunt domitae: vel debilem stomachum
    ha<lb ed="#B" n="63" break="no"/>bens, cui aqua officit sicut vinum prodest. Propter 
@@ -281,7 +281,7 @@
       <p xml:id="jMqv4a-d1e975-d1e555">
    ⁋ Secundam conclusionem probo sic. 
    <lb ed="#B" n="26"/>modicam rationem habens minus peccat quam habens magnam. 
-   <lb ed="#B" n="27"/>secundum illud Lucae. xii. <quote source="http://scta.info/resource/lc12_47@1-19 http://scta.info/resource/lc12_48@1-10">Ille seruus quam cognouit
+   <lb ed="#B" n="27"/>secundum illud Lucae. xii. <quote xml:id="jMqv4a-d1e975-Qd1e563" source="http://scta.info/resource/lc12_47@1-19 http://scta.info/resource/lc12_48@1-10">Ille seruus quam cognouit
    vo<lb ed="#B" n="28" break="no"/>luntatem domini sui: &amp; non fecit secundum
    volun<lb ed="#B" n="29" break="no"/>tatem eius, vapulabit multis. Qui autem non 
    cogno<lb ed="#B" n="30" break="no"/>uit: &amp; fecit digna / plagis vapulabit paucis.</quote> &amp;
@@ -367,7 +367,7 @@
    <lb ed="#B" n="102"/>non hic a malis fuerit per poenitentiam fidemque 
    <lb ed="#B" n="103"/>conversus <!-- Augustinus de paruulis [in lib. de fide ad Petrum Diaconum, cap. 30.] --></quote>. Furiosus autem tempore furiae hoc
    ha<lb ed="#B" n="104" break="no"/>bere non potest, quemadmodum nec demeritum. 
-   <lb ed="#B" n="105"/>ibi. n. illud Ecclesiastes. xi. verum habet. <quote source="http://scta.info/resource/qoh11_3@9-22">Si
+   <lb ed="#B" n="105"/>ibi. n. illud Ecclesiastes. xi. verum habet. <quote xml:id="jMqv4a-d1e975-Qd1e769" source="http://scta.info/resource/qoh11_3@9-22">Si
    cecide<lb ed="#B" n="106" break="no"/>rit lignum ad austrum aut ad aquilonem / in quocumque 
    lo<lb ed="#B" n="107" break="no"/>co ceciderit / ibi erit.</quote>
   </p>
@@ -612,12 +612,12 @@
    <lb ed="#B" n="77"/>Hlolofernis temulenti bona ludith abstulit. Haec 
    <lb ed="#B" n="78"/>in necem Clyti Alexandro charissimiregem
    impu<lb ed="#B" n="79" break="no"/>lit. Propterea scite prouerbiorum. xxxi. a sapiente 
-   scri<lb ed="#B" n="80" break="no"/>ptum est. <quote source="http://scta.info/resource/prov31_4@5-15">Noli regibus dare vinum: quia nullum
+   scri<lb ed="#B" n="80" break="no"/>ptum est. <quote xml:id="jMqv4a-d1e975-Qd1e1264" source="http://scta.info/resource/prov31_4@5-15">Noli regibus dare vinum: quia nullum
    se<lb ed="#B" n="81" break="no"/>cretum est vbi regnat ebrietas.</quote> Haec item hominos 
    <lb ed="#B" n="82"/>ad iudicium reddit ineptos. Hinc Ecclesiastici. xix. 
-   <lb ed="#B" n="83"/>scribitur. <quote source="http://scta.info/resource/sir19_2@1-6">Vinum &amp; mulieres apostatare faciunt
+   <lb ed="#B" n="83"/>scribitur. <quote xml:id="jMqv4a-d1e975-Qd1e1273" source="http://scta.info/resource/sir19_2@1-6">Vinum &amp; mulieres apostatare faciunt
    sa<lb ed="#B" n="84" break="no"/>pientes.</quote> Praeterea castitati est perniciosissima.
-   pro<lb ed="#B" n="85" break="no"/>uerbiorum. xx. <quote source="http://scta.info/resource/prov20_1@1-6">Luxuriosa res vinum: &amp; tumultuosa 
+   pro<lb ed="#B" n="85" break="no"/>uerbiorum. xx. <quote xml:id="jMqv4a-d1e975-Qd1e1281" source="http://scta.info/resource/prov20_1@1-6">Luxuriosa res vinum: &amp; tumultuosa 
    <lb ed="#B" n="86"/>ebrietas.</quote> Et luuenalis satyra. vi. Quid enim Venus 
    <lb ed="#B" n="87"/>ebria curat:? Inguinis &amp; capitis quae sunt discrimina 
    <lb ed="#B" n="88"/>nescit. Et Ouidius in arte. Vina parant animos, redduntque 
@@ -632,7 +632,7 @@
    assue<lb ed="#B" n="97" break="no"/>tis bibere aquam. Vlterius diligens castitatem in  
    <lb ed="#B" n="98"/>seipso: debet a vino abstinere: &amp; loquor de illo vel 
    <lb ed="#B" n="99"/>illa in quo vel in qua est periculum castitatis
-   per<lb ed="#B" n="100" break="no"/>dendae. Hinc Ecclesiastes. ii. scribitur. <quote source="http://scta.info/resource/qoh2_3@1-9">Cogitaui in  
+   per<lb ed="#B" n="100" break="no"/>dendae. Hinc Ecclesiastes. ii. scribitur. <quote xml:id="jMqv4a-d1e975-Qd1e1316" source="http://scta.info/resource/qoh2_3@1-9">Cogitaui in  
    <lb ed="#B" n="101"/>corde meo abstrahere a vino carnem meam.</quote> Et 
    <lb ed="#B" n="102"/>hoc castis in poenitentiam prudens confessor in 
    <lb ed="#B" n="103"/>iungere debet. Tritum nanque est Terentianum
@@ -802,7 +802,7 @@
    Ter<lb ed="#B" n="13" break="no"/>tio dicitur quod dictum <name xml:id="jMqv4a-d1e975-Nd1e1648" ref="#Aristotle">Aristotelis</name> est plerumque verum: 
    <lb ed="#B" n="14"/>non tamen semper. Quarto dico quod Loth
    nescie<lb ed="#B" n="15" break="no"/>bat die sequente se dormiuisse cum aliqua filiarum 
-   <lb ed="#B" n="16"/>suarum. nam in litera Geneseos dicitur. <quote source="http://scta.info/resource/gen19_33@10-26">Ingressa est 
+   <lb ed="#B" n="16"/>suarum. nam in litera Geneseos dicitur. <quote xml:id="jMqv4a-d1e975-Qd1e1678" source="http://scta.info/resource/gen19_33@10-26">Ingressa est 
    <lb ed="#B" n="17"/>maior, dormiuitque cum patre: at ille non sensit nec 
    <lb ed="#B" n="18"/>uando accubuit filia nec quando surrexit.</quote> sensit autem tantum 
    <lb ed="#B" n="19"/>valet quantum intellexit. Memoriam enim ebrietas

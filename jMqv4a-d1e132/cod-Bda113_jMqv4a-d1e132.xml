@@ -115,7 +115,7 @@
    <!--0082.xml-->
    <cb ed="#B" n="b"/> 
        <!-- 25-v b -->
-       <lb ed="#B" n="52"/>fundi. Probatur per illud Moysi. Deutero. xxxii. <quote source="http://scta.info/resource/deut32_4@1-4">Dei 
+       <lb ed="#B" n="52"/>fundi. Probatur per illud Moysi. Deutero. xxxii. <quote xml:id="jMqv4a-d1e132-Qd1e236" source="http://scta.info/resource/deut32_4@1-4">Dei 
    <lb ed="#B" n="53"/>perfecta sunt opera.</quote> Sed haec probatio efficaciter non 
    <lb ed="#B" n="54"/>concludit: quia illa capta ad propositum probabis quod 
    <lb ed="#B" n="55"/>quicquid est vtile ad beatitudine consequendam nobis 
@@ -136,9 +136,9 @@
    <lb ed="#B" n="70"/>stat quod licet cuipiam tali determinationi contraire. 
    mul<lb ed="#B" n="71" break="no"/>tae aut auctoritates oppositum insinuantes de adultis 
    <lb ed="#B" n="72"/>intelligendae sunt &amp; de virtutibus acquisitis. vt est 
-   glos<lb ed="#B" n="73" break="no"/>sa ad Roma. v. super illo verbo. <quote source="http://scta.info/resource/rom5_7@3-6">Pro iusto quis
+   glos<lb ed="#B" n="73" break="no"/>sa ad Roma. v. super illo verbo. <quote xml:id="jMqv4a-d1e132-Qd1e285" source="http://scta.info/resource/rom5_7@3-6">Pro iusto quis
    mo<lb ed="#B" n="74" break="no"/>ritur</quote>, quae dicit. est bonus qui non est iustus, scilicet qui natus est in simpli 
-   <lb ed="#B" n="75"/>citate innocentiae. Et Iacobi. ii. <quote source="http://scta.info/resource/iac2_26@10-14">Fides sine operibus 
+   <lb ed="#B" n="75"/>citate innocentiae. Et Iacobi. ii. <quote xml:id="jMqv4a-d1e132-Qd1e292" source="http://scta.info/resource/iac2_26@10-14">Fides sine operibus 
    mor<lb ed="#B" n="76" break="no"/>tua est.</quote> &amp; secundo Ethicorum. Virtus est quae habentem perficit &amp; eius 
    <lb ed="#B" n="77"/>opus bonum reddit. &amp; sic de multris aliis 
    auctoritati<lb ed="#B" n="78" break="no"/>bus quae intelliguntur de virtutibus acquisitis, &amp; in adultis. 

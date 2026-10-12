@@ -108,8 +108,8 @@
        <lb ed="#B" n="60"/>⁋ Contra hanc conclusionem arguitur 
    <lb ed="#B" n="61"/>sic. prohibetur in lege mendicitas: ergo ipsa non est 
    <lb ed="#B" n="62"/>licita &amp; honesta. antecedens patet per illd quod scribitur 
-   Deu<lb ed="#B" n="63" break="no"/>teronomii. xv. <quote source="http://scta.info/resource/deut15_4@1-9">Et omnino indigens &amp; mendicus non 
-   <lb ed="#B" n="64"/>erit inter vos.</quote> Et in psalmo. xxxvi. <quote source="http://scta.info/resource/ps36_25@1-15">lunior fui, et 
+   Deu<lb ed="#B" n="63" break="no"/>teronomii. xv. <quote xml:id="jMqv4a-d1e1625-Qd1e228" source="http://scta.info/resource/deut15_4@1-9">Et omnino indigens &amp; mendicus non 
+   <lb ed="#B" n="64"/>erit inter vos.</quote> Et in psalmo. xxxvi. <quote xml:id="jMqv4a-d1e1625-Qd1e234" source="http://scta.info/resource/ps36_25@1-15">lunior fui, et 
    <lb ed="#B" n="65"/>enim senui: &amp; non vidi iustum derelictum / nec semen 
    <lb ed="#B" n="66"/>eius quaerens panem.</quote>
   </p>
@@ -133,8 +133,8 @@
       <p xml:id="jMqv4a-d1e1625-d1e277">
    ⁋
    Ter<lb ed="#B" n="81" break="no"/>tio arguitur. primae ad Thessalo. iiii. dicit
-   Aposto<lb ed="#B" n="82" break="no"/>lus. <quote source="http://scta.info/resource/Ith4_11@13-18">Operemini manibus vestris / sicut praecepimus 
-   <lb ed="#B" n="83"/>vobis.</quote> Et. ii. ad Thessalo. iii. <quote source="http://scta.info/resource/IIth3_10@11-17">Si quis non vult opera 
+   Aposto<lb ed="#B" n="82" break="no"/>lus. <quote xml:id="jMqv4a-d1e1625-Qd1e282" source="http://scta.info/resource/Ith4_11@13-18">Operemini manibus vestris / sicut praecepimus 
+   <lb ed="#B" n="83"/>vobis.</quote> Et. ii. ad Thessalo. iii. <quote xml:id="jMqv4a-d1e1625-Qd1e287" source="http://scta.info/resource/IIth3_10@11-17">Si quis non vult opera 
    <lb ed="#B" n="84"/>ri nec manducet.</quote> Propterea noctu operabatur apo 
    <lb ed="#B" n="85"/>stolus &amp; interdium praedicabat, ne quem grauaret, vt 
    <lb ed="#B" n="86"/>ipse in eodem cap. dicit. sed isti religiosi mendicantes 

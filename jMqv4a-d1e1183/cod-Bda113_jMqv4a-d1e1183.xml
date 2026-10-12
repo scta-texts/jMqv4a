@@ -296,14 +296,14 @@
    <lb ed="#B" n="106"/>tus: quod hominibus magis stupendum videretur quam si 
    <lb ed="#B" n="107"/>id fecisset in Platone, Demosthene, <name xml:id="jMqv4a-d1e1183-Nd1e627" ref="#Aristotle">Aristotele,</name> 
        <lb ed="#B" n="108"/>Tullio, &amp; consimilibus. vnde. i. ad Corinthios. i 
-   <lb ed="#B" n="109"/>dicit Apostolus. <quote source="http://scta.info/resource/Icor1_26@7-17 http://scta.info/resource/Icor1_27@1-10">Non multi sapientes saecundum 
+   <lb ed="#B" n="109"/>dicit Apostolus. <quote xml:id="jMqv4a-d1e1183-Qd1e627" source="http://scta.info/resource/Icor1_26@7-17 http://scta.info/resource/Icor1_27@1-10">Non multi sapientes saecundum 
    <!--0478.xml-->
    <pb ed="#B" n="223-v"/>
        <cb ed="#B" n="a"/>
        <lb ed="#B" n="1"/>carnem: non multi potentes: non multi nobiles: sed es 
    <lb ed="#B" n="2"/>stulta sunt mundi elegit deus vt confundat sapier 
    <lb ed="#B" n="3"/>tes.</quote> hoc est, per ignaros, mundi sapientes confusibi 
-   <lb ed="#B" n="4"/>liter vicit. Et sequitur in litera apostoli: Et <quote source="http://scta.info/resource/Icor1_27@11-18">infirm 
+   <lb ed="#B" n="4"/>liter vicit. Et sequitur in litera apostoli: Et <quote xml:id="jMqv4a-d1e1183-Qd1e646" source="http://scta.info/resource/Icor1_27@11-18">infirm 
    <lb ed="#B" n="5"/>mundi elegit deus vt confundat fortia.</quote> hoc est, per 
    <lb ed="#B" n="6"/>xii. viros imbelles &amp; senes, superbissimos reges 
    <lb ed="#B" n="7"/>&amp; tyrannos confregit &amp; ad fidem couertit: quia hoc modo 
@@ -318,16 +318,16 @@
    <lb ed="#B" n="16"/>peregerunt: ne dicerentur philosophorum argumentis, 
    <lb ed="#B" n="17"/>vel humana eloquentia animos hominum ad fid 
    <lb ed="#B" n="18"/>flexisse. vnde ait Apostolus primae ad Corinth 
-   <lb ed="#B" n="19"/>primo. <quote source="http://scta.info/resource/Icor1_17@1-17">Non enim misit me Christus baptizare sed 
+   <lb ed="#B" n="19"/>primo. <quote xml:id="jMqv4a-d1e1183-Qd1e681" source="http://scta.info/resource/Icor1_17@1-17">Non enim misit me Christus baptizare sed 
    <lb ed="#B" n="20"/>euangelizare: non in sapientia verbi: vt non euacuel 
    <lb ed="#B" n="21"/>crux Christi.</quote> Et in secundo cap. eiusdem epistolae dicit. 
-   <lb ed="#B" n="22"/><quote source="http://scta.info/resource/Icor2_1@1-18">Et ego cum venissem ad vos fratres: veni non in 
+   <lb ed="#B" n="22"/><quote xml:id="jMqv4a-d1e1183-Qd1e689" source="http://scta.info/resource/Icor2_1@1-18">Et ego cum venissem ad vos fratres: veni non in 
    <lb ed="#B" n="23"/>sublimitate sermodois aut sapientiae: annuncians vobis 
    <lb ed="#B" n="24"/>testimonium Christi.</quote> ac si diceret. sicut alii non 
    sapien<lb ed="#B" n="25" break="no"/>tes ad apostolatum electi sunt: itam etiam ego. Et. vt d 
    <lb ed="#B" n="26"/>cit glossa interlinearis, qui eram sapiens fui quasi 
    <lb ed="#B" n="27"/>non essem sapiens. Et illud sequitur ex verbis Apo 
-   <lb ed="#B" n="28"/>stoli sequentibus. <quote source="http://scta.info/resource/Icor2_2@1-14">Non enim iudicaui me scire aliquid 
+   <lb ed="#B" n="28"/>stoli sequentibus. <quote xml:id="jMqv4a-d1e1183-Qd1e705" source="http://scta.info/resource/Icor2_2@1-14">Non enim iudicaui me scire aliquid 
    <lb ed="#B" n="29"/>inter vos nisi Iesum Christum &amp; hunc crucifixu</quote> 
    <lb ed="#B" n="30"/>licet enim in theologia esset profundissimus / nobili 
    <lb ed="#B" n="31"/>&amp; eloquens: rudi tamen minerua more apostolico 
@@ -347,7 +347,7 @@
    <lb ed="#B" n="45"/>Non est sane mirum si eloquentior videatur in proprio 
    <lb ed="#B" n="46"/>id est in Hebraeo, quam in peregrino id est in Graeco 
    <lb ed="#B" n="47"/>quo caeterae epistolae sunt scriptae, sermone. ldem
-   di<lb ed="#B" n="48" break="no"/>cit ipse. ii. ad Corinth. xi. <quote source="http://scta.info/resource/IIcor11_6@1-7">Nam etsi imperitus ser 
+   di<lb ed="#B" n="48" break="no"/>cit ipse. ii. ad Corinth. xi. <quote xml:id="jMqv4a-d1e1183-Qd1e755" source="http://scta.info/resource/IIcor11_6@1-7">Nam etsi imperitus ser 
    <lb ed="#B" n="49"/>mone: sed non scientia.</quote> vbi glossa interlinearis. quia 
    <lb ed="#B" n="50"/>non omo verba, vel quia impeditae linguae.
    Opor<lb ed="#B" n="51" break="no"/>tet dicere quod non terse &amp; ornate graece loquereturs 
@@ -387,7 +387,7 @@
       <p xml:id="jMqv4a-d1e1183-d1e828">
    ⁋ Ad ab 
    <lb ed="#B" n="81"/>ud de luda / varius est modus sapientum 
-   exponen<lb ed="#B" n="82" break="no"/>tium illud loan. vi. <quote source="http://scta.info/resource/io6_71@10-14">Ex vobis vnus diabolus est</quote> 
+   exponen<lb ed="#B" n="82" break="no"/>tium illud loan. vi. <quote xml:id="jMqv4a-d1e1183-Qd1e844" source="http://scta.info/resource/io6_71@10-14">Ex vobis vnus diabolus est</quote> 
    <lb ed="#B" n="83"/>Beda dicit quod ludas non fuit ad apostolatum
    ele<lb ed="#B" n="84" break="no"/>ctus: sed solu alii vndecim: vocatus tamen cum eis: 
    <lb ed="#B" n="85"/>vt per proditionis eius officium, genus humanum
@@ -413,7 +413,7 @@
    ne<lb ed="#B" n="105" break="no"/>gantem. Sic est verosimile de luda quod erat bonus 
    <lb ed="#B" n="106"/>tempore assumptionis. alioquin eum iustificasset in 
    <lb ed="#B" n="107"/>assumptione: vt fecit de Matthaeo. Matthaei. ix. Et 
-   <lb ed="#B" n="108"/>istud quodam modo elicitur ex illo loan. xvii. <quote source="http://scta.info/resource/io17_12@11-22">Quos 
+   <lb ed="#B" n="108"/>istud quodam modo elicitur ex illo loan. xvii. <quote xml:id="jMqv4a-d1e1183-Qd1e907" source="http://scta.info/resource/io17_12@11-22">Quos 
    de<lb ed="#B" n="109" break="no"/>disti mihi ego custodiui, &amp; nemo ex eis periit: ni 
    <lb ed="#B" n="110"/>si filius perditionis.</quote> hoc est mortaliter adhuc deliquit. 
    <!--0479.xml-->
@@ -438,7 +438,7 @@
    <lb ed="#B" n="15"/>minus idoneum. ergo conclusio falsa. consequentia 
    <lb ed="#B" n="16"/>tenet cum minore: &amp; maior ostenditur auctoritate 
    <lb ed="#B" n="17"/>Apostolorum Matthiam sorte eligentium. nam dicitur 
-   <lb ed="#B" n="18"/>Actuum. i. <quote source="http://scta.info/resource/act1_26@6-15">Cecidit sors super Matthiam, &amp; annumi 
+   <lb ed="#B" n="18"/>Actuum. i. <quote xml:id="jMqv4a-d1e1183-Qd1e962" source="http://scta.info/resource/act1_26@6-15">Cecidit sors super Matthiam, &amp; annumi 
    <lb ed="#B" n="19"/>ratus est cum vndecim apostolis.</quote>
   </p>
       <p xml:id="jMqv4a-d1e1183-d1e949">
@@ -447,7 +447,7 @@
    <lb ed="#B" n="21"/>posuimus tenendam: cum duos viros in fide 
    instru<lb ed="#B" n="22" break="no"/>ctissimos, qui Christi miraculis interfuerant:
    pro<lb ed="#B" n="23" break="no"/>posuerunt in medium: quia vt illic scribitur: Petrus 
-   <lb ed="#B" n="24"/>dicebat. <quote source="http://scta.info/resource/act1_21@1-20 http://scta.info/resource/act1_22@1-20">Oportet ergo ex his viris qui nobiscum 
+   <lb ed="#B" n="24"/>dicebat. <quote xml:id="jMqv4a-d1e1183-Qd1e981" source="http://scta.info/resource/act1_21@1-20 http://scta.info/resource/act1_22@1-20">Oportet ergo ex his viris qui nobiscum 
    <lb ed="#B" n="25"/>sunt congregati in omni tempore quo intrauit &amp; 
    <lb ed="#B" n="26"/>exiuit inter nos dominus Iesus, incipiens a baptismati 
    <lb ed="#B" n="27"/>Ioannis vsque in diem qua assumptus est a nobis: 

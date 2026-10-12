@@ -112,11 +112,11 @@
    <!--0055.xml-->
    <cb ed="#B" n="b"/> 
        <!-- 12-r b -->
-       <lb ed="#B" n="51"/>biae angelus diceret: <quote source="http://scta.info/resource/tob5_11@7-10">Gaudium tibi sit
-   semper</quote><lb ed="#B" n="52" break="no"/>respondit senior: <quote source="http://scta.info/resource/tob5_12@4-16">quale gaudium mihi erit qui in  
+       <lb ed="#B" n="51"/>biae angelus diceret: <quote xml:id="jMqv4a-d1e6019-Qd1e234" source="http://scta.info/resource/tob5_11@7-10">Gaudium tibi sit
+   semper</quote><lb ed="#B" n="52" break="no"/>respondit senior: <quote xml:id="jMqv4a-d1e6019-Qd1e238" source="http://scta.info/resource/tob5_12@4-16">quale gaudium mihi erit qui in  
    <lb ed="#B" n="53"/>tenebris sedeo, &amp; lumen caeli non video?</quote> Thobiae 
-   <lb ed="#B" n="54"/>v. &amp; Exod. xx. <quote source="http://scta.info/resource/ex20_18@1-5">Cunctus populus videbat voces.</quote> 
-   <lb ed="#B" n="55"/>&amp; Apocalyp. i. <quote source="http://scta.info/resource/ap1_12@1-9">Et conversus sum vt viderem
+   <lb ed="#B" n="54"/>v. &amp; Exod. xx. <quote xml:id="jMqv4a-d1e6019-Qd1e245" source="http://scta.info/resource/ex20_18@1-5">Cunctus populus videbat voces.</quote> 
+   <lb ed="#B" n="55"/>&amp; Apocalyp. i. <quote xml:id="jMqv4a-d1e6019-Qd1e251" source="http://scta.info/resource/ap1_12@1-9">Et conversus sum vt viderem
    vo<lb ed="#B" n="56" break="no"/>cem quae loquebatur mihi.</quote> &amp; discipulo regens 
    <lb ed="#B" n="57"/>dicit: vides ne quae dico? Aliquod autem 
    sacramen<lb ed="#B" n="58" break="no"/>tum sensu gustus: aliquod sensu visus / tactus / &amp; 
@@ -209,8 +209,8 @@
    <lb ed="#B" n="21"/>Sacramentum aliquod est signum rememoratiuum: vt 
    <lb ed="#B" n="22"/>Eucharistia &amp; baptismus respectu passionis 
    Chri<lb ed="#B" n="23" break="no"/>sti. Scribitur enim Matthaei. xxvi. &amp; Lucae. xxii. 
-   <lb ed="#B" n="24"/><quote source="http://scta.info/resource/lc22_19@20-24">Hoc facite in meam commemorationem.</quote> De 
-   Bapti<lb ed="#B" n="25" break="no"/>smo patet ad Romanos. vi. <quote source="http://scta.info/resource/rom6_4@1-9">Consepulti enim
+   <lb ed="#B" n="24"/><quote xml:id="jMqv4a-d1e6019-Qd1e436" source="http://scta.info/resource/lc22_19@20-24">Hoc facite in meam commemorationem.</quote> De 
+   Bapti<lb ed="#B" n="25" break="no"/>smo patet ad Romanos. vi. <quote xml:id="jMqv4a-d1e6019-Qd1e441" source="http://scta.info/resource/rom6_4@1-9">Consepulti enim
    su<lb ed="#B" n="26" break="no"/>mus cum illo per baptismum in morte.</quote> sed
    respe<lb ed="#B" n="27" break="no"/>ctu gratiae est signum prognosticum.
   </p>

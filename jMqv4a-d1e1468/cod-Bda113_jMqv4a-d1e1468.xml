@@ -64,7 +64,7 @@
    <lb ed="#B" n="86"/>trum erat matrimonium inter diuam 
    <lb ed="#B" n="87"/>virginem &amp; loseph. Quia erat 
    <lb ed="#B" n="88"/>matrimonium / patet Matthaei. i 
-   <lb ed="#B" n="89"/>Ea dicente angelo. <quote source="http://scta.info/resource/mt1_20@16-21">Noli timere 
+   <lb ed="#B" n="89"/>Ea dicente angelo. <quote xml:id="jMqv4a-d1e1468-Qd1e126" source="http://scta.info/resource/mt1_20@16-21">Noli timere 
    ac<lb ed="#B" n="90" break="no"/>cipere Mariam coniugem tuam.</quote> quod autem erat virgo patet 
    <lb ed="#B" n="91"/>per <name xml:id="jMqv4a-d1e1468-Nd1e138" ref="#Augustine">Augustinum</name> in libro de vitiis &amp; concupiscentiis. &amp; re 
    <lb ed="#B" n="92"/>citatur. xxvii. q. ii. c. Beata Maria proposuit se 
@@ -81,14 +81,14 @@
    <lb ed="#B" n="103"/>omnes contrahebant non seruantes virginitatem: suam 
    <lb ed="#B" n="104"/>virginitatem diuinae dispositioni expresse reliquit. 
    <lb ed="#B" n="105"/>Quia tamen vouerit / convincitur ex responsione eius 
-   <lb ed="#B" n="106"/>ad angelum Lucae. i. <quote source="http://scta.info/resource/lc1_34@6-12">Quomodo fiet istud: quoniam 
+   <lb ed="#B" n="106"/>ad angelum Lucae. i. <quote xml:id="jMqv4a-d1e1468-Qd1e169" source="http://scta.info/resource/lc1_34@6-12">Quomodo fiet istud: quoniam 
    <!--0582.xml-->
    <pb ed="#B" n="275-v"/>
        <cb ed="#B" n="a"/>
        <lb ed="#B" n="1"/>virum non cognosco.</quote> nam si hactenus ipsa seruasset 
    <lb ed="#B" n="2"/>virginitatem, &amp; non proposuisset firmiter in posterum 
    <lb ed="#B" n="3"/>virginitatem seruare: inanis fuisset quaestio 
-   virgun<lb ed="#B" n="4" break="no"/>culae, <quote source="http://scta.info/resource/lc1_34@6-12">Quomodo fiet istud quoniam virum non cognosco?</quote> 
+   virgun<lb ed="#B" n="4" break="no"/>culae, <quote xml:id="jMqv4a-d1e1468-Qd1e187" source="http://scta.info/resource/lc1_34@6-12">Quomodo fiet istud quoniam virum non cognosco?</quote> 
    <lb ed="#B" n="5"/>ac si dixisset. est difficile captu quod ais angele dei: 
    <lb ed="#B" n="6"/>cum iam virginitatem vouerim. cui cum angelus 
    egre<lb ed="#B" n="7" break="no"/>gie cum analogia( quia opus erat) respondisset de 
@@ -288,9 +288,9 @@
    tri<lb ed="#B" n="48" break="no"/>bus. vel vbi illa mulier erat haeres parentum: &amp; sic
    con<lb ed="#B" n="49" break="no"/>ceditur. vnde eum Numeri vltimo, quaerimonia filiarum Sa 
    <lb ed="#B" n="50"/>phaad quae erant ex tribu loseph / proponeretur coram 
-   <lb ed="#B" n="51"/>Moyse: <quote source="http://scta.info/resource/num36_3@1-15">quas si alterius tribus homines accepissent 
+   <lb ed="#B" n="51"/>Moyse: <quote xml:id="jMqv4a-d1e1468-Qd1e587" source="http://scta.info/resource/num36_3@1-15">quas si alterius tribus homines accepissent 
    vxo<lb ed="#B" n="52" break="no"/>res posfessio earum fuisset translata ad aliam tribum</quote>: 
-   <lb ed="#B" n="53"/>definiuit Moyses dicens. <quote source="http://scta.info/resource/num36_6@11-18 http://scta.info/resource/num36_7@1-9">Nubant quibus velint, tamten vt 
+   <lb ed="#B" n="53"/>definiuit Moyses dicens. <quote xml:id="jMqv4a-d1e1468-Qd1e594" source="http://scta.info/resource/num36_6@11-18 http://scta.info/resource/num36_7@1-9">Nubant quibus velint, tamten vt 
    <lb ed="#B" n="54"/>suae tribus hominibus: ne commisceatur possessio filiorum Israel 
    <!--0583.xml-->
    <cb ed="#B" n="b"/> 
@@ -310,11 +310,11 @@
    <lb ed="#B" n="67"/>ri. xxvii. Mulier itaque non haeres poterat cuicum quod
    de<lb ed="#B" n="68" break="no"/>populo Israelitico se coniungere. Idem videtur de
    vi<lb ed="#B" n="69" break="no"/>ris dummodo ducerent mulierem non haeredem. Illud autem 
-   <lb ed="#B" n="70"/>quod Numeri vltimo scribitur. <quote source="http://scta.info/resource/num36_7@10-19 http://scta.info/resource/num36_8@1-8">Omnes enim viri ducent
+   <lb ed="#B" n="70"/>quod Numeri vltimo scribitur. <quote xml:id="jMqv4a-d1e1468-Qd1e640" source="http://scta.info/resource/num36_7@10-19 http://scta.info/resource/num36_8@1-8">Omnes enim viri ducent
    vxo<lb ed="#B" n="71" break="no"/>res de tribu &amp; cognatione sua: &amp; cunctae foeminae de 
    <lb ed="#B" n="72"/>eadem tribu maritos accipient</quote>: litera quae mox sequitur 
    <lb ed="#B" n="73"/>elucidat: tam quo ad viros quam quo ad mulieres, quia 
-   <lb ed="#B" n="74"/>est eadem ratio legis. Ecce litera. <quote source="http://scta.info/resource/num36_8@9-13 http://scta.info/resource/num36_9@1-7">Vt haereditas
+   <lb ed="#B" n="74"/>est eadem ratio legis. Ecce litera. <quote xml:id="jMqv4a-d1e1468-Qd1e651" source="http://scta.info/resource/num36_8@9-13 http://scta.info/resource/num36_9@1-7">Vt haereditas
    perma<lb ed="#B" n="75" break="no"/>neat in familiis: nec sibi misceantur tribus: sed ita 
    ma<lb ed="#B" n="76" break="no"/>neant sicut a dmino separatae sunt.</quote> Terra enim 
    promissio<lb ed="#B" n="77" break="no"/>nis erat diuisa secundum virorum capita qui aegyptum 
@@ -373,8 +373,8 @@
    <lb ed="#B" n="16"/>non esse messiam. Notum erat omnibus illius tempestatis 
    <lb ed="#B" n="17"/>quod virgo erat ex domo Dauid. propterea non labo 
    <lb ed="#B" n="18"/>rabat circa hoc. Hinc ad Hebraeos. vii. dicit 
-   aposto<lb ed="#B" n="19" break="no"/>lus. <quote source="http://scta.info/resource/hebr7_14@1-9">Manifestum est enim quod ex luda ortus sit dominus no 
-   <lb ed="#B" n="20"/>ster.</quote> Et ad Roma. i. <quote source="http://scta.info/resource/rom1_3@1-11">De filio suo qui factus est ei ex 
+   aposto<lb ed="#B" n="19" break="no"/>lus. <quote xml:id="jMqv4a-d1e1468-Qd1e780" source="http://scta.info/resource/hebr7_14@1-9">Manifestum est enim quod ex luda ortus sit dominus no 
+   <lb ed="#B" n="20"/>ster.</quote> Et ad Roma. i. <quote xml:id="jMqv4a-d1e1468-Qd1e785" source="http://scta.info/resource/rom1_3@1-11">De filio suo qui factus est ei ex 
    <lb ed="#B" n="21"/>semine Dauid secundum carnem.</quote> Et patet a signo.  
    <lb ed="#B" n="22"/>cum lulianus haereticus: &amp; praedicabilium
    composito<lb ed="#B" n="23" break="no"/>Porphyrius nisi sint repugnantiam inuenire circa 
@@ -385,7 +385,7 @@
       <p xml:id="jMqv4a-d1e1468-d1e783">
        <lb ed="#B" n="27"/>⁋ Quinto arguitur contra hoc quod 
    <lb ed="#B" n="28"/>diximus quod ipsa erat virgo. Nam Matthaei. i. scribitur. 
-   <lb ed="#B" n="29"/><quote source="http://scta.info/resource/mt1_24@12-15 http://scta.info/resource/mt1_25@1-9">Et accepit coniugem suam: &amp; non cognoscebat eam
+   <lb ed="#B" n="29"/><quote xml:id="jMqv4a-d1e1468-Qd1e809" source="http://scta.info/resource/mt1_24@12-15 http://scta.info/resource/mt1_25@1-9">Et accepit coniugem suam: &amp; non cognoscebat eam
    do<lb ed="#B" n="30" break="no"/>nec peperit filium suum primogenitum.</quote> ergo per locum a 
    <lb ed="#B" n="31"/>contrario sensu postea eam cognouit.
   </p>
@@ -394,12 +394,12 @@
    <lb ed="#B" n="32"/>locus a contrario sensu parum soliditatis habet. ex 
    <lb ed="#B" n="33"/>modo autem loquendi scripturae / non convincitur ex hac 
    <lb ed="#B" n="34"/>dictione (donec) quod aliquid tale post hoc fuerit. quo 
-   <lb ed="#B" n="35"/>modo Genesis. viii. scribitur de coruo: <quote source="http://scta.info/resource/gen8_7@5-7">Non reuersus 
-   <lb ed="#B" n="36"/>est donec siccarentur a quae.</quote> &amp; <quote source="http://scta.info/resource/deut34_6@11-19">non cognouit homo se 
+   <lb ed="#B" n="35"/>modo Genesis. viii. scribitur de coruo: <quote xml:id="jMqv4a-d1e1468-Qd1e827" source="http://scta.info/resource/gen8_7@5-7">Non reuersus 
+   <lb ed="#B" n="36"/>est donec siccarentur a quae.</quote> &amp; <quote xml:id="jMqv4a-d1e1468-Qd1e833" source="http://scta.info/resource/deut34_6@11-19">non cognouit homo se 
    <lb ed="#B" n="37"/>pulchrum eius Moys) vsque in praesentem diem.</quote> Deutero. 
    vl<lb ed="#B" n="38" break="no"/>timo. &amp; tamen nec coruus rediit vnquam: nec sepulchrum 
    <lb ed="#B" n="39"/>Moysi vspiam repertum est. Idem est in illo 
-   psalmogra<lb ed="#B" n="40" break="no"/>phi. <quote source="http://scta.info/resource/ps109_1@7-14">Sede a dextris meis donec ponam inimicos tu 
+   psalmogra<lb ed="#B" n="40" break="no"/>phi. <quote xml:id="jMqv4a-d1e1468-Qd1e844" source="http://scta.info/resource/ps109_1@7-14">Sede a dextris meis donec ponam inimicos tu 
    <lb ed="#B" n="41"/>os.</quote> Alio modo sic explicatur euangelicus sermo, non 
    <lb ed="#B" n="42"/>poterat facien eius intueri cum concepit de spiritu sancto 
    <lb ed="#B" n="43"/>sicut antea, quemadmodum faciei Moysi radii 
@@ -416,7 +416,7 @@
    ⁋ Sed an
    lo<lb ed="#B" n="52" break="no"/>seph cognouit eam esse grauidam a spiritu sancto / antequa 
    <lb ed="#B" n="53"/>angelus ei insinuauit: vix exploratum est. Scribitur 
-   <lb ed="#B" n="54"/>Matthaei. i. <quote source="http://scta.info/resource/mt1_18@6-22 http://scta.info/resource/mt1_19@1-15">Cum esset desponsata mater Iesu Maria 
+   <lb ed="#B" n="54"/>Matthaei. i. <quote xml:id="jMqv4a-d1e1468-Qd1e880" source="http://scta.info/resource/mt1_18@6-22 http://scta.info/resource/mt1_19@1-15">Cum esset desponsata mater Iesu Maria 
    <!--0584.xml-->
    <cb ed="#B" n="b"/> 
        <!-- 276-v b -->
@@ -440,7 +440,7 @@
    <lb ed="#B" n="72"/>omnes de ea audiuit: vt non facile esset suspicari aliquid  
    <lb ed="#B" n="73"/>mali de ea. &amp; sic fluctuabat. tandem conclusit eam
    di<lb ed="#B" n="74" break="no"/>mittendam, &amp; non domo expellendam. cui angelus. 
-   <lb ed="#B" n="75"/><quote source="http://scta.info/resource/mt1_20@16-21">Noli timere accipere Mariam coniugem tuam.</quote> id est 
+   <lb ed="#B" n="75"/><quote xml:id="jMqv4a-d1e1468-Qd1e934" source="http://scta.info/resource/mt1_20@16-21">Noli timere accipere Mariam coniugem tuam.</quote> id est 
    <lb ed="#B" n="76"/>sponsam. Vnde <name xml:id="jMqv4a-d1e1468-Nd1e904" ref="#Augustine">Augustinus</name> in sermone de
    nati<lb ed="#B" n="77" break="no"/>uitate dicit. Intelligens Mariae vterum grauidari tui 
    <lb ed="#B" n="78"/>batur: quod Mariam quam de templo domini acceperat &amp;
@@ -470,7 +470,7 @@
   </p>
       <p xml:id="jMqv4a-d1e1468-d1e963">
    ⁋ Sexto arguitur. Ex
-   il<lb ed="#B" n="102" break="no"/>lo verbo (<quote source="http://scta.info/resource/mt1_25@5-9">donec ipsa peperit filium suum
+   il<lb ed="#B" n="102" break="no"/>lo verbo (<quote xml:id="jMqv4a-d1e1468-Qd1e1003" source="http://scta.info/resource/mt1_25@5-9">donec ipsa peperit filium suum
    primoge<lb ed="#B" n="103" break="no"/>nitum</quote>) sequitur quod ipsa habuit postea secundo
    ge<lb ed="#B" n="104" break="no"/>nitum qui ex spiritu sancto non erat conceptus:
    er<lb ed="#B" n="105" break="no"/>go desiit esse virgo. Respondetur. si suprlatiuus 
